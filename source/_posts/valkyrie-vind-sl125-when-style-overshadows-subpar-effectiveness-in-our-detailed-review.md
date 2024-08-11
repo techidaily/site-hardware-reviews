@@ -1,7 +1,7 @@
 ---
 title: Valkyrie Vind SL125 - When Style Overshadows Subpar Effectiveness in Our Detailed Review
-date: 2024-08-09 15:53:54
-updated: 2024-08-11 11:50:27
+date: 2024-08-10T04:59:09.532Z
+updated: 2024-08-11T04:59:09.532Z
 tags:
   - review
 categories:
@@ -21,6 +21,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  The Q1 HE is a 75-percent gasket mount wireless mechanical keyboard with magnetic switches. At $219 fully-built, this keyboard is pricier than you might expect, especially as Keychron has made a name for itself by producing surprisingly well-priced mechanical keyboards. Keychron also makes the[Q1](https://www.tomshardware.com/reviews/keychron-q1-mechanical-keyboard) in a standard, non-magnetic-switch version, which costs $179 fully assembled. The 75 percent layout means that the Q1 HE comes with all alphanumeric keys, a full function row, and a handful of navigation keys — by default, the Q1 HE has PgUp, PgDn, and Home under its customizable rotary knob, but the keyboard comes with other navigation key keycaps that you can swap in if you decide to remap. It comes in both black and white colorways, each with a matching metal knob in the upper-right corner and matching keycaps in complementary colors.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/uJnm8Ajvj5HvsdHfvHEvTP-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -29,6 +32,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -41,10 +47,16 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -57,10 +69,16 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -81,6 +99,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  In the box, the Q1 HE comes with a bundle of accessories, including extra keycaps for swapping out navigation keys and switching between PC/Mac modes, a dual keycap and switch puller, and a small kit for opening up and customizing the keyboard (screwdriver, hex key, extra gaskets, feet, and screws). It also comes with a 6-foot USB-C to USB-C cable (with a USB-C to USB-A converter on one end), a USB extender, and a small USB-A dongle that you'll need to connect to 2.4GHz wireless. There's nowhere on the keyboard to store the dongle, but as the case is just a solid chunk of aluminum, that's understandable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -120,6 +141,9 @@ Today's best Keychron Q1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Typing and Gaming Experience on the Q1 HE
 
  The prebuilt Q1 HE comes with Gateron 2.0 Nebula switches, which are linear magnetic switches with a starting force of 40g and a bottom-out force of 60g. This is the only prebuilt switch option, but Keychron also sells two other compatible switches separately — Gateron 2.0 Dawn (linear, 30g starting force, 50g bottom-out) and Gateron 2.0 Aurora (linear, 50g starting force, 70g bottom-out).
@@ -136,10 +160,17 @@ Today's best Keychron Q1 deals
 
  The Q1 HE also makes a great gaming keyboard — actually, I'm not sure why Keychron didn't release this under its gaming brand (Lemokey), considering magnetic Hall Effect switches are mainly advertised to gamers for their speed and features like Rapid Trigger. (Well, it's probably going to; the P1, which appears to be the Q1's equivalent, is[up for pre-order on Lemokey's site now](https://www.lemokey.com/products/lemokey-p1-qmk-via-custom-gaming-keyboard) .) Anyway, the Q1 HE offers the standard swath of magnetic switch features: wide range, precise adjustable actuation, multiple inputs on a single key, and Rapid Trigger. The switches have an actuation range of 0.5 - 3.8mm, with a sensitivity of 0.1mm, and each key's actuation can be set individually with Keychron's new web-based customization app, Keychron Launcher. The keyboard also offers low-latency 1,000 Hz polling rates over both wireless (2.4GHz) and wired connections.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## Features and Software of the Q1 HE
 
  The Q1 HE offers three forms of connectivity: low-latency 2.4GHz wireless, Bluetooth 5.1, and wired (via USB-C). The 2.4GHz wireless connection was solid and consistent in my testing, and there was no noticeable difference in latency between it and the wired connection (as you might expect, there was noticeable lag over the Bluetooth connection). The keyboard has two switches on the back: one to switch between connection types and one to switch between PC and Mac modes. My only minor gripe was with the connection switch, which was trickier to quickly move into position than it should have been. (Luckily, speed-switching connections isn't one of my priorities.)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -148,10 +179,16 @@ Today's best Keychron Q1 deals
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -176,6 +213,13 @@ Today's best Keychron Q1 deals
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

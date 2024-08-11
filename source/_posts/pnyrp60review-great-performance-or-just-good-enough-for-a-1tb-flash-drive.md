@@ -1,7 +1,7 @@
 ---
 title: PNY_RP60_Review - Great Performance or Just Good Enough for a 1TB Flash Drive?
-date: 2024-08-10 10:56:36
-updated: 2024-08-11 11:32:53
+date: 2024-08-10T04:59:12.067Z
+updated: 2024-08-11T04:59:12.067Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Corsair was one of the first retail companies to address the need for higher per
   
  With Phison's new E27T controller promising higher performance, more capacity, and excellent power efficiency, Corsair’s second revision of the MP600 Mini might just be as good as it sounds. Let's find out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Corsair MP600 Mini (2024 / E27T / V2 variant) Specifications
 
  Swipe to scroll horizontally
@@ -48,6 +51,9 @@ Corsair was one of the first retail companies to address the need for higher per
   
  The performance specifications, for their part, are very similar to Corsair’s[MP600 Elite](https://www.tomshardware.com/pc-components/ssds/corsair-mp600-elite-2tb-ssd-review) , a good M.2 2280 drive with the same hardware as the new MP600 Mini. This means up to 7,000 / 6,5000 MB/s for sequential reads and writes, and up to 1,000K / 1,200K random IOPS. That's a high level of performance packed into the 2230 form factor. The new MP600 Mini also has a standard SSD warranty of five years with up to 600GB of writes per TB capacity.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Corsair MP600 Mini Software and Accessories
 
  Corsair provides its own SSD toolbox application, the Corsair SSD Toolbox. This all-in-one application displays drive information, including S.M.A.R.T. status, and offers access to basic SSD features. These features include cloning, TRIM optimization, a secure wipe, and in some cases the ability to alter overprovisioning. The software also supports firmware updates, should any become available. While it’s nice to have this software, it’s not strictly necessary and it’s designed specifically for Windows, which may limit its usefulness for M.2 2230 handhelds like the Steam Deck.
@@ -60,10 +66,16 @@ Corsair was one of the first retail companies to address the need for higher per
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -78,12 +90,18 @@ Corsair was one of the first retail companies to address the need for higher per
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Like most other 2230 drives, the MP600 Mini comes as a single-sided design — that maximizes compatibility with 2230 host devices. It's rated for over 8W of peak power draw, though in practice it should not draw this much power. The 1TB we're testing comes rated for peak power of around 5.5W. The MP600 Mini has a similar layout to other M.2 2230 SSDs that we’ve tested, with a controller, a NAND flash package, and no DRAM. The new hardware however offers more performance than most other 2230 drives.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://cdn.mos.cms.futurecdn.net/e9bvSLsi5igankUvZrfNmB-320-80.jpg)
 
  (Image credit: Tom's Hardware)

@@ -1,7 +1,7 @@
 ---
 title: "Approach:"
-date: 2024-08-09 17:19:40
-updated: 2024-08-11 12:56:44
+date: 2024-08-10T04:59:08.838Z
+updated: 2024-08-11T04:59:08.838Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
   
  Keychron will launch its K2 HE models on Kickstarter first at a $5 discount starting today. Or you can wait for full production and pick one up from Keychron directly beginning in October, starting at $130.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the Keychron K2 HE
 
  Keychron sent us the Special Edition of the K2 HE in white, but the company will offer up multiple variants. The Special Edition versions will be offered in black or white ($135 via Kickstarter or $140 in October), with rounded OSA keycaps that aren't shine-through (limiting the RGB lighting that can escape between the keys), with metal top and bottom frame pieces, and solid-wood sides.
@@ -37,10 +40,16 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -53,6 +62,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Keychron claims that you'll get up to 72 hours of run time with the backlight on and 240 hours with it off, using the 4000 MAh battery. I used the keyboard for work and gaming for nearly two weeks with the backlighting on about 20% of the time (mostly at night while gaming), and never had to charge it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/kZnFGkQwdonJLPBCcKmCVJ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -65,12 +77,18 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  The stabilizers are of the screw-in variety, mounted on the PCB (a liberal amount of glue was also used on our review unit), and they keep the bigger keys from being wobbly. The smaller keys also feel smooth and stable, thanks to the two plastic rails of Gateron's Double-Rail switches, which seem to hold the top of the switch in place horizontally as you press it down.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/g4AzhTJRxtjARPKKwPgUFo-320-80.png)
 
  (Image credit: Gateron)
 
  I generally strongly prefer tactile (usually clicky) switches for typing, but the linear switches that Keychron uses in this keyboard are about the smoothest I've ever used. In fact, the lubed switches, combined with the sound-dampening foam and stabilizers, deliver a feel and sound that I found myself preferring over the[Corsair K65 Plus Wireless](https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-k65-plus-wireless-keyboard-review) — even after I added tactile Holy Panda X switches and better keycaps to the Corsair keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/CYUPZvCMnsbrdJc53A3hbE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -99,6 +117,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 | **MSRP / Price at Time of Review** | $130 (Standard), $140 (Special)                     |
 | **Release Date**                   | Aug. 6, 2024                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Software for the Keychron K2 HE
 
  Apart from its pleasant switches and gorgeous aesthetics, I also found the software for the K2 HE refreshing. Instead of some bulky, confusing, crash-prone program that's designed to work with 100 products (and generally leads to 100 or so curses), Keychron uses a web app ([https://launcher.keychron.com/](https://launcher.keychron.com/) ) for the K2 HE, which is where you'll assign keys, control the RGB lighting, record macros, and adjust and assign things to the magnetic switches.
@@ -115,6 +136,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -127,6 +151,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  There are some limitations, though. At one point I had the idea of trying to map a light press of the PgUp button to volume up and a full press to volume down. But it turns out that while you can pretty easily assign different actions to different actuation levels on the same key, the feature appears to be limited to controls from standard buttons or macros, and doesn't work with media controls.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/QeyYZKAL36HYc7K8xLC38E-320-80.jpg)
 
  (Image credit: Tom's Hardware)

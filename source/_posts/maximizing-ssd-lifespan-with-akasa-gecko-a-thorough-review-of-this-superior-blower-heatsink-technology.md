@@ -1,7 +1,7 @@
 ---
 title: "Maximizing SSD Lifespan with Akasa Gecko: A Thorough Review of This Superior Blower Heatsink Technology"
-date: 2024-08-08 16:15:21
-updated: 2024-08-11 12:32:30
+date: 2024-08-10T04:59:01.868Z
+updated: 2024-08-11T04:59:01.868Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ There seems to be an ever flowing stream of Raspberry Pi 5 cases since the launc
 
 How does it perform? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Pironman 5… Assemble
 
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/EpRGoTgvmYX6GyRiDoVSie-320-80.jpg)
@@ -33,14 +36,23 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -77,6 +89,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -85,6 +100,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -99,6 +117,9 @@ How does it perform? Let's find out!
 
  Essentially, we now have a tiny Arm powered desktop computer that looks like one of the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) has been hit by a shrink-ray. As a desktop PC look-alike, Pironman 5 works really well. All of the ports are routed to the back, leaving a clean front panel. There is a micro SD card slot on the front panel, which can be used to boot the Raspberry Pi 5 or for additional storage.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/o6oN6jNZqWqzycvc7Fkh5i-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +132,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -123,6 +147,9 @@ How does it perform? Let's find out!
 
  Our office is one floor above our 5 GHz Wi-Fi router, and we saw a maximum of 490 Kbits/s. That isn’t a typo, it was really that slow. We moved Pironman 5 so that it was next to our router and repeated the test. This gave us the best performance of 88.6 Mbits/s, a tenth of the bandwidth provided by Ethernet, but many times more than what we saw in the office. For comparison, we performed the same test on a Raspberry Pi 5 with no cooling, and saw 65.7 Mbits/s in our office. So the case does interfere with Wi-Fi, but only if you are some distance from the router.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Keeping Cool with Pironman
 
  Image 1 of 2
@@ -131,6 +158,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -161,6 +191,9 @@ How does it perform? Let's find out!
 
  Fan noise was negligible, as only the CPU fan came on. Repeating the test with the RGB fans running constantly, the Raspberry Pi 5 was 30.7°C at idle, 5.5°C cooler than the “Cool” setting. Under stress the CPU hit 46.1°C, 9.9°C cooler than the default cool setting. The price of this extra cooling power is that the fans are always on, but they are not obnoxious. They didn’t interfere with my day to day work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/oyiSWKMFo88Ux26Ygmsu7a-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -187,6 +220,9 @@ How does it perform? Let's find out!
 
  If you are keen to push your Raspberry Pi 5 to the max, then the great cooling on offer means that the Pironman 5 will do the job. With NVMe on offer we have fast and plentiful storage, so the Pironman 5 could be a compact file server hidden in your home.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/kwk6PwghnRvCVrHAxTxcVh-320-80.jpg)

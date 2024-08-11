@@ -1,7 +1,7 @@
 ---
 title: Advanced Reviews & Comparisons by Tom's Gear Experts
-date: 2024-08-10 20:16:35
-updated: 2024-08-11 10:44:43
+date: 2024-08-10T04:59:12.037Z
+updated: 2024-08-11T04:59:12.037Z
 tags:
   - review
 categories:
@@ -76,6 +76,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
 ## Leveling the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/2Lo6bW3sD5FMhebQbfhNDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -100,6 +103,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  Though I was able to feed TPU the normal way, it’s far easier to use a table mounted spool and use the secondary filament path. You’ll have to turn off the filament runout sensor, which you can do from the control panel.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/xK9wcM82S5WKxUVo2Xi5bH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -121,6 +127,9 @@ gcode:
 
 ```
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Design of the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
@@ -131,6 +140,9 @@ gcode:
 
  It has a sleek, futuristic look with the best control screen I’ve ever seen on a 3D printer. The glass panel blends seamlessly into the machine’s front and offers large, clear text and graphics, including a speedometer to show off how fast the print head is whirling.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/E4ngRfgXfncFsNhVE9bi3F-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -145,6 +157,9 @@ gcode:
 
  The FLSun runs Klipper with a vanilla Mainsail interface. It comes with a camera mounted inside, so there’s no fuss getting monitoring set up. The camera can also take timelapse videos, but it only saves one at a time. It has a fish eye lens to fit its enormous build volume inside the frame.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/wXirovsaesBtiisfK9mEKJ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -161,12 +176,18 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Bed adhesion at full speed is difficult for this printer, despite the nice PEI coating on its flexible plate. The manual advises using glue stick for all prints, but there is no reminder like you would see on the cool engineering plates of other brands. This is a hard lesson to learn, and forgetting is painful. I got a print wrapped around the nozzle so bad it traveled upward into the fan. This required replacing much of the tool head, and FLSun was kind enough to swap out the entire printer and let me try again.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/WFJPhTdMRTpSwonyZvd8gF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  That said, the FLSun S1's hotend is amazing. The throat of the hotend is drilled out like a CHT nozzle to provide high flow, while the nozzle itself is a standard removable V6.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/ViY9GiNePwsbXQBuha26JG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -181,6 +202,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  A profile for OrcaSlicer has been released to the FLSun Wiki, which helps, but you still need to tone down the fan and filament flow. I set the part cooling fan to 85% and material flow to 0.9, making it more manageable.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Printing on the FLSun S1
 
  Surface quality on the FLSun S1 is very smooth, but the included custom slicer does it no justice. My prints using FLSun’s slicer were terribly inaccurate, horribly over extruded and prone to fails. Switching to OrcaSlicer improved the quality, but I still had to tone down the flow to 0.9 in the filament profile.
@@ -195,6 +219,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1409861514390199065-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/cuuoG9jCU9WJGkAmhjJ7sG-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -205,6 +232,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Switching to Orca Slicer finally gave me a print that worked. Using[Creality Hyper PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-PLA-1-75mm-Hyper-Dimensional%2Fdp%2FB0C2BJB256%2Fref%3Dsr%5F1%5F2%5Fsspa%3Fcrid%3D6BM63WMSTYTW%26dib%3DeyJ2IjoiMSJ9.DBIdXGW3ydJyI9LtWmrvdT0y0r1mUr1sul5pujsxiQnyIJZORYMWFdshTLU7rbUiS-roDmW61hfiJP033rQQxiYnLnotcAnkizNESFrm6aGDvBpF3nGSNdXvor3VhqszWUfN6hNFPOz5F8pj%5Ff%5FcE9Q-qfb1hJRHjcuI%5FlRDy15zsj6im4xGWtqgyErBfXACRCXhgVkVkKW0tpptqDndvvjGmncqXpAOoIbBUzYWMOg.NEz9kLp7pRQJKaYe8Ivh2bCIotWbvWIgA7egMIVqxeM%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bhyper%252Bpla%26qid%3D1721423887%26sprefix%3Dcreality%252Bhyp%252Caps%252C143%26sr%3D8-2-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1050008372919557531-20) , the final sword was printed with a 0.2 layer height at 500mm/s and took two hours and 28 minutes to print. The print was smooth, with no visible layer lines, except for the underside of the guard, where it got a little sloppy. This print would have taken an ordinary bed slinger, like the[Prusa MK4](https://www.tomshardware.com/reviews/prusa-mk4) , a little over seven hours to print.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/sSHAHaKwn3SpEozTzAFy9G-320-80.jpg)
 
 _3DPrintingWorld’s_ [_Dread Pirate Roberts Collapsing Sword_](https://thangs.com/designer/3dprintingworld/3d-model/Dread%20Pirate%20Roberts%20Collapsing%20Sword%20Print-in-Place-1053025)  (Image credit: Tom's Hardware)
@@ -217,16 +247,25 @@ _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Har
 
  It did surprisingly well on TPU once I slowed it down a bit. Running the filament through the secondary access point is highly recommended, as that bypasses several feet of Bowden tube. I made this bone shaped dog toy in TinkerCad that turned out with nice smooth layers and a good top finish. I used the[Inland Rainbow TPU](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FFilament-Rainbow-Flexible-Dimensional-Accuracy%2Fdp%2FB0C2DFRCPX%2Fref%3Dasc%5Fdf%5FB0C2DFRCPX%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8183781020254036200%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2199389479420%26psc%3D1%26mcid%3D1cd30c2667c03e859205a224012f7160%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1024134569316423388-20) and it printed in 52 minutes at 0.2 layer height and 60mm/s speed.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/7tbozd2kd3xUDz3T6V8gQH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  I tested ABS (using[Polymaker Galaxy Orange ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-1-75mm-Printer-Resistant%2Fdp%2FB0BGX2D9NL%2Fref%3Dasc%5Fdf%5FB0BGX2D9NL%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D4581579599005625215%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2188700900836%26psc%3D1%26mcid%3Dff4e1492bb173aee8532f9c33faa6271%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1186572318444853215-20) ) for this RC car part with the custom slicer, and it was entirely too fast – causing poor layer adhesion. It also knocked over the tree supports each of the three times I tried this print. With a bit of tuning, I could make this work. I gave up and printed this part on the[QIDI Tech Q1](https://www.tomshardware.com/3d-printing/qidi-tech-q1-pro-review) since I needed it for MRRF and couldn’t waste more of my orange ABS.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/EhZ39Fe5XGF4KggC4mdk3H-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The FLSun S1 is a frustrating hunk of machinery that’s so close to wonderful and yet so far from it. No one should pay $1,500 for a machine that needs this much tuning to perform well. The plus side is it runs vanilla Klipper firmware and can be switched to OrcaSlicer for those who don’t mind an expensive tinkering project.
@@ -255,6 +294,9 @@ Flsun S1: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 

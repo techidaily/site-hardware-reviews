@@ -1,7 +1,7 @@
 ---
 title: "Inside Tom’s Workshop: Your Go-To Source for Hardware Insight"
-date: 2024-08-10 10:49:43
-updated: 2024-08-11 10:53:58
+date: 2024-08-10T04:59:08.905Z
+updated: 2024-08-11T04:59:08.905Z
 tags:
   - review
 categories:
@@ -46,6 +46,9 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -76,6 +79,9 @@ Included in the box are the following:
 
  As an AIO does not interfere or overhang DIMM slots in any manner, all sizes of RAM, no matter how tall, are compatible with ID-Cooling’s FX360 Pro. The tubes of the of the AIO are braided and are fully rotatable for ease of installation and setup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -114,6 +120,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -138,12 +147,18 @@ The top of the CPU black features a reflective black etched metal design.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -176,6 +191,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -201,6 +219,23 @@ The top of the CPU black features a reflective black etched metal design.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

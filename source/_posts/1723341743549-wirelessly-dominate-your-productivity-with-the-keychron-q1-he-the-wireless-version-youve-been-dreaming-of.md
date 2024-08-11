@@ -1,7 +1,7 @@
 ---
 title: Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of!
-date: 2024-08-08 19:45:35
-updated: 2024-08-11 12:27:29
+date: 2024-08-10T04:59:07.536Z
+updated: 2024-08-11T04:59:07.536Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 * [Dough Spectrum Black 27 (HDR Black) at Amazon for $899.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1263643160611584695-20)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dough Spectrum Black 27 Specs
 
  Swipe to scroll horizontally
@@ -97,6 +100,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  Dough provides an excellent unboxing experience with only cardboard that protects the contents. Delicate bits are wrapped in a smooth material that’s a bit like parchment paper. The stand comes in a separate carton and is optional. It costs $99 extra. There are no cables included except for the external power brick. I’ll leave opinions on that up to the reader.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 4
@@ -113,6 +119,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Dough)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Dough)
@@ -129,6 +138,23 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  Image 1 of 8
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -141,14 +167,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Tom's Hardware)
 
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -175,6 +196,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  Dough has included a comprehensive set of OLED maintenance options. There is pixel shift, a screen saver, logo compensation, and others. Each one is explained at the bottom, so you know what it does. The last two, transistor wear and OLED wear compensation, take about five minutes to complete and can be run whenever you wish.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dough Spectrum Black 27 Calibration Settings
 
  When I measured my Spectrum Black 27 sample, it hit all the marks near perfection. I could not improve upon the numbers with calibration, so I left them at the factory defaults. I found the best picture and the best test results with Brightness Mode on Maximum. This varies brightness uniformly across the full image range, so you won’t see it in operation. If you need a stable light output level, choose Uniform brightness. You can change gamut modes between DCI-P3, Adobe RGB and sRGB without affecting other parameters. Adobe RGB is off the mark for green and, while fine for casual use, is not accurate enough for critical applications. However, P3 and sRGB are qualified. My suggested settings are below.
@@ -225,6 +249,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  ☆  ☆  ☆  ☆  ☆
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Dough Spectrum Black 27" QHD...](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...")](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)
 
 [Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)
@@ -249,6 +276,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

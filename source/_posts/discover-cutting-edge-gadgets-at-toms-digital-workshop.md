@@ -1,7 +1,7 @@
 ---
 title: Discover Cutting-Edge Gadgets at Tom's Digital Workshop
-date: 2024-08-08 13:42:33
-updated: 2024-08-11 10:31:48
+date: 2024-08-10T04:59:16.434Z
+updated: 2024-08-11T04:59:16.434Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 * [UpHere M201 SSD Heatsink (SSD) at Amazon for $4.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09CPQFWZB%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1338835888658191021-20)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -61,6 +64,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 Opening the box reveals the contents, protected by molded foam.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/DZFV29NkVPss72hpUp837J-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -71,6 +77,9 @@ Included with the package are the following:
 * Two clips
 * Top and bottom sections of the heatsink
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/5s7Zsu4AcRqkHArxpCnk2K-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -81,6 +90,9 @@ Included with the package are the following:
 
  As this heatsink is roughly the same height as a PCI-e slot, it won’t cause any compatibility issues with other components. Larger NVMe SSD heatsinks often won’t fit underneath many air coolers due to their size.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/EjtEuLtTsepWKLXBnrBCqC-320-80.jpg)
 
  _UpHere M201 SSD Heatsink pictured next to ASRock Steel Legend 7900 GRE graphics card and Valkyrie SYN 360 AIO._  (Image credit: Tom's Hardware)
@@ -101,6 +113,9 @@ Included with the package are the following:
 
  Many of the cheapest M.2 NVMe heatsinks only make contact with the top half, meaning that any NAND placed on the underside is unprotected. UpHere’s M201 features double-sided protection, ensuring peak performance for both single- sided and double-sided M.2 SSDs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What I don’t like about the UpHere M201
 
 **\*️⃣ Annoying clips during installation**
@@ -147,18 +162,27 @@ Included with the package are the following:
 
 All testing is performed with an ambient temperature of 23 C.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Installation
 
  The installation of this SSD heatsink isn’t hard per se, but it isn’t quite as simple as most others on the market.
 
  The first step is to take one of the included thermal pads and apply it to the base of the heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/bsGymASMp26QdEBGsjQoSB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Next, you’ll need to place the SSD on top of the thermal pad, and then place the second thermal pad on top of the SSD. Then, slide the top half of the heatsink under the groves shown above.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/xTe8snVYK8PsGyLobtRNJC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -195,6 +219,10 @@ All testing is performed with an ambient temperature of 23 C.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: Exploring Gadgets with Tom's Hardware Reviews
-date: 2024-08-10 18:43:48
-updated: 2024-08-11 11:45:12
+date: 2024-08-10T04:59:08.692Z
+updated: 2024-08-11T04:59:08.692Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ The Atlas Air is available now for $179.99.
 
 * [Turtle Beach Atlas Air (Black) at Amazon for $179.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D13VX3S6%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-2527428693144545510-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Design and Comfort of the Atlas Air
 
  The Atlas Air is a wireless, over-ear, open-back gaming headset with a detachable flip-to-mute boom mic. It has a lightweight gray plastic frame with shiny gray speaker plates on its large, round floating earcups (we'll get to the "floating" part in a moment). It comes with a black mesh and elastic suspension headband and black fabric-covered earpads, but Turtle Beach sells brightly-colored "mod packs," consisting of a replacement headband strap and earpads, for $25\. Turtle Beach is printed in silver above each earcup, and its palm tree logo is embossed in silver on each side of the strap, where it attaches to the headband.
@@ -27,6 +30,18 @@ The Atlas Air is available now for $179.99.
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -35,10 +50,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
-![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -47,6 +61,9 @@ The Atlas Air is available now for $179.99.
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -59,6 +76,10 @@ The Atlas Air is available now for $179.99.
 
  Image 1 of 5
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -75,6 +96,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -91,6 +115,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -105,12 +132,18 @@ The Atlas Air is available now for $179.99.
 
  The left earcup houses the headset's buttons, ports, and controls. There are three buttons: power, input switch (for quickly switching between 2.4GHz wireless and Bluetooth), and a multi-function button (tap to play/pause, double-tap to skip forward, triple-tap to skip backward, and hold to enter Bluetooth pairing mode). The speaker plate on the left earcup twists to control volume, and the headset comes with a 3.5mm audio cable with a volume wheel. There are also three ports on the left earcup: a USB-C port for charging, a 3.5mm jack for a wired connection, and a 2.5mm port for connecting the headset's detachable boom mic. Once the mic is attached you can flip it up to mute it, so there's no mute button on the headset.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://cdn.mos.cms.futurecdn.net/KYaw5aMHDZp6uzbCsfUWLe-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Atlas Air comes with two cables — a 6-foot (1.8m) braided USB-C to USB-A charging cable, and a 6-foot (1.8m) braided 3.5mm audio cable with inline volume controls. It also comes with a detachable boom mic and a foam pop filter, a 2.4GHz wireless USB-A dongle, and a soft cloth drawstring carrying pouch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -195,6 +228,16 @@ The Atlas Air is available now for $179.99.
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -203,10 +246,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
-![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -215,6 +257,10 @@ The Atlas Air is available now for $179.99.
 
  Now, this would all be fine — if it worked. But the software is very finicky and inconsistent. I know I say that about every piece of peripheral software, but this is even more finicky, and less consistent, than most. Sometimes my settings were immediately saved to the headset and implemented; sometimes they weren't. I frequently found the settings changed when I restarted something or turned off the headset, or switched back from a different device, or accidentally clicked on the app, etc. I finally just uninstalled the software and things seem to be working fine. I couldn't avoid the software completely, however, as the headset wouldn't pair with its wireless dongle without an initial firmware update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Battery Life and Wireless Performance of the Atlas Air
 
  Turtle Beach rates the Atlas Air's battery life at 50 hours — enough that you'll only need to charge it once a week or so. There are plenty of headsets, now, that last longer — the[Razer BlackShark V2 Pro (2023)](https://www.tomshardware.com/reviews/razer-blackshark-v2-pro-2023) hits 70 hours easily, while the[HyperX Cloud III](https://www.tomshardware.com/reviews/hyperx-cloud-iii-wireless) is rated for 120 hours. But 50 hours is plenty for a wireless gaming headset you're not going to travel or commute with. As for connectivity, the Atlas Air has 2.4GHz wireless, Bluetooth 5.2, and wired options. It doesn't offer simultaneous 2.4GHz wireless and Bluetooth 5.2, but the input button is easy to find and input switching is very quick — I'd rather have that than a simultaneous dual connection that keeps dropping.

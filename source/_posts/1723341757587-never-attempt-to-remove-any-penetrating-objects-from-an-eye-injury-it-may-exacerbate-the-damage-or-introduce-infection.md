@@ -1,7 +1,7 @@
 ---
 title: Never Attempt to Remove Any Penetrating Objects From an Eye Injury; It May Exacerbate the Damage or Introduce Infection
-date: 2024-08-09 17:33:53
-updated: 2024-08-11 10:15:50
+date: 2024-08-10T04:59:16.450Z
+updated: 2024-08-11T04:59:16.450Z
 tags:
   - review
 categories:
@@ -37,6 +37,16 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -45,10 +55,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
-![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -85,6 +94,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -93,12 +105,18 @@ How does it perform? Let's find out!
 
  Assembly complete, we put a 512GB Cytron Makerdisk 2280 NVMe SSD in the slot and booted into Raspberry Pi OS. We ran through the software installation process, necessary for fan control, RGB LEDs and the OLED screen. A quick reboot and we were ready for testing.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using Pironman 5 for day to day tasks
 
  For basic computing tasks, you are good to go. You’ll need to either run the latest Raspberry Pi OS, or update to the latest version to unlock the full performance of the PCIe interface for your NVMe SSD, in our case a Cytron Makerdisk. The latest version of Raspberry Pi OS’s firmware seems to enable PCIe Gen 3 speeds but you can easily[enable this yourself](https://www.tomshardware.com/raspberry-pi/how-to-turbo-charge-your-raspberry-pi-5-with-an-nvme-boot-drive) . After enabling PCIe Gen 3 we saw read speeds of 852 MB/s and write speeds of 673.6 MB/s, a little lower than previous tests with a Lexar drive, but still way faster than micro SD card speeds.
 
  Essentially, we now have a tiny Arm powered desktop computer that looks like one of the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) has been hit by a shrink-ray. As a desktop PC look-alike, Pironman 5 works really well. All of the ports are routed to the back, leaving a clean front panel. There is a micro SD card slot on the front panel, which can be used to boot the Raspberry Pi 5 or for additional storage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/o6oN6jNZqWqzycvc7Fkh5i-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -107,10 +125,17 @@ How does it perform? Let's find out!
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +178,9 @@ How does it perform? Let's find out!
 
  Let's take a look at the stock temperatures for the default Cool fan setting.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/BWCAV7siqBuiCVpnB2tszZ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -161,6 +189,9 @@ How does it perform? Let's find out!
 
  Fan noise was negligible, as only the CPU fan came on. Repeating the test with the RGB fans running constantly, the Raspberry Pi 5 was 30.7°C at idle, 5.5°C cooler than the “Cool” setting. Under stress the CPU hit 46.1°C, 9.9°C cooler than the default cool setting. The price of this extra cooling power is that the fans are always on, but they are not obnoxious. They didn’t interfere with my day to day work.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/oyiSWKMFo88Ux26Ygmsu7a-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -187,8 +218,23 @@ How does it perform? Let's find out!
 
  If you are keen to push your Raspberry Pi 5 to the max, then the great cooling on offer means that the Pironman 5 will do the job. With NVMe on offer we have fast and plentiful storage, so the Pironman 5 could be a compact file server hidden in your home.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/kwk6PwghnRvCVrHAxTxcVh-320-80.jpg)
 
  (Image credit: Tom's Hardware)

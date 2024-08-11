@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Comprehensive Guide to Computer Hardware"
-date: 2024-08-09 21:32:24
-updated: 2024-08-11 10:31:50
+date: 2024-08-10T04:59:09.868Z
+updated: 2024-08-11T04:59:09.868Z
 tags:
   - review
 categories:
@@ -23,6 +23,9 @@ The Sovol SVO8 is probably the best “Voron lite” printer we’ve seen to dat
 
  Retailing at $599, and currently on sale[for $579](<https://shareasale.com/r.cfm?b=2145980&u=4338022&m=131011&afftrack=techidaily&urllink=https%3A%2F%2Fship7com.pxf.io%2F0zwaz3>) , the Sovol SVO8 is a great machine for anyone who wants a big, fast, single-color machine with the freedom to print without needing to send files over the Cloud. It’s open source, which means you’re also able to upgrade and mod the printer as you see fit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Specifications: Sovol SVO8
 
  Swipe to scroll horizontally
@@ -72,6 +75,9 @@ Today's best Sovol SV08 deals
 
  There are holes and slots left open for adding an enclosure later, but these are discrete, and don’t mar the overall look of the printers. The branding is a low-key “Sovol” printed on the top bar. It comes with a few premium features, like a hidden LED light and an easy-to-access side mounted spool holder.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  The Sovol SV08 has a hard mounted bed that doesn’t move and a “flying gantry” for the X and Y axis taken from the Voron 2.4 design. Four motors on each corner of the gantry, combined with an inductive probe, allow it to “quad level” for a perfect first layer. The axes are belt driven for buttery smooth layers. The hotend is beefy, with an all-in-one nozzle, massive cooling fan and convenient daughter board for the electronics. ![](https://lh7-us.googleusercontent.com/ETI0kxGpFe0Pq5i2NlKaQjtUyvBAgFsEfah-HX7jVhDamOYluyOmDBjZBLM6OJc6l9dl9tPqRjID2vqiVEHXQwBrp9yOBBKW8AMceQ3Xnd28xV3X-zuK0UrjFKS742mk-plCNAAcbK6KAAPxEqmRxWU)
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/5QupcmztKidnzxgayGdzfB-320-80.jpg)
@@ -88,8 +94,14 @@ Today's best Sovol SV08 deals
 
  The PEI bed wasn’t sticky enough to hold several of my high speed prints, but a little glue stick helped keep things in place.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/aLRXpJR2bSGK5eQGJunFLG-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -100,6 +112,9 @@ Today's best Sovol SV08 deals
 
 ## Leveling the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/Shpc6yMtKYbKsLxoywRFpB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -126,6 +141,9 @@ Today's best Sovol SV08 deals
 
  This boat is a little rough, but the shape is well-defined with no signs of ringing. This is one of the best speed boats I’ve printed. Remember – when racing a 3D Printer, it's more about printing a “Benchy Shaped Object” than real quality. This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1072543316197855840-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/rPKKXN6cPpVv33oLgMhmXB-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -138,24 +156,37 @@ _Maker’s Muse_ [_Clearance Castle_](https://www.makersmuse.com/clearance-castl
 
  I needed a big, showy print for the SV08’s feature photo, so I decided to make one. Bambu Lab has been releasing a series of tools on its website MakerWorld to let users craft their own models and download them as either .3mf or .stl files. The program lets you start from a template and then push the nodes around until you get a desirable shape. This 300mm tall vase – printed in “vase mode” – only took two hours and 3 minutes to print using a .28mm layer height and a slightly chonky .5 layer width. It’s stunning and smooth, printed in[Polymaker’s Dual Color Silk in Purple and Gold.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-Gold-Purple-Printer-Dichromatic%2Fdp%2FB0BF56GLZ7%2Fref%3Dasc%5Fdf%5FB0BF56GLZ7%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8714266725847440180%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-1944052919189%26psc%3D1%26mcid%3De9538a114a993beb8ce1d2042992f7e4%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1175129393775174912-20)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/JonoSoSEj352MkufF5DNpA-320-80.jpg)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)
 
  I needed an ant moat for my hummingbird feeder, and a quick search of Thingiverse found this one. I stretched the center pillar just a little higher, and printed it in[Prusament Carmine Red PETG](https://www.prusa3d.com/product/prusament-petg-carmine-red-transparent-1kg/?country=US&currency=usd&gad%5Fsource=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8qMjgDIiCAq3GDsLJdbA9eLGKFjDPaQQPH4xW4G7w823yHHGlm9r9UaAme5EALw%5FwcB) . It’s a little stringy, but the layers are nice and smooth. It printed in one hour and 32 minutes, with a .28mm layer height and default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/CmdHW7cV3hNixvVbVBuD2C-320-80.jpg)
 
 [_Ant Moat_](https://www.thingiverse.com/thing:2945093) _by Wkarraker_  (Image credit: Tom's Hardware)
 
  For TPU, I printed an E3D golf cart stress test – the E3DBuggy. It certainly stressed the Sovol out – the amount of strings is insane. The print is otherwise solid, but the SV08 would benefit from some properly tuned TPU settings from the manufacturer.[This is printed in Inland’s black TPU,](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-White-Printer-Filament%2Fdp%2FB084RKQFLT%2Fref%3Dsr%5F1%5F2%3Fcrid%3D2TD8PW1U91UO2%26dib%3DeyJ2IjoiMSJ9.rxjODgM1lMGXtv8eulaz22Wm3wp1rAm5lb2aPUZkoTC5gbT9JjE2xXRInw8EGd6U8IqDBW4oAvSz79euAEGkm1PnO-JMyLYMhKrOxL9sqlH9n3ltWTJR7b8f3wG%5FeCQZBDPbNlryLEz0B-Sd8BKWxi9HhpIoTwIVV7RGkQaoEmUeprn9N5mVq6JPLVpiEJ-mK2rzi8y8HMrbnaHKLU9xjAzQT2pUeMN4J4wdcdboDsU.gU5nrAVZ49YYIUHY%5Fln9iU-fonprreALWrJn9FP2c28%26dib%5Ftag%3Dse%26keywords%3Dinland%252Btpu%26qid%3D1709851529%26sprefix%3Dinland%252Btpu%252Caps%252C167%26sr%3D8-2%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7385545516654961075-20) with a .2mm layer height and default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/wcbFQUVVYb2y8QTw32MPRB-320-80.jpg)
 
 [_E3D’s Buggy Stress Test_](https://www.printables.com/model/275117-e3dbuggy-a-3d-printer-stress-test)  (Image credit: Tom's Hardware)
 
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/WDwDhzjXGG9Efica5fmRrK-320-80.png)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)
@@ -188,6 +219,9 @@ Sovol SV08: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

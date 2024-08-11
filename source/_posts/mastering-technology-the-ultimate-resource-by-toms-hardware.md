@@ -1,7 +1,7 @@
 ---
 title: "Mastering Technology: The Ultimate Resource by Tom's Hardware"
-date: 2024-08-09 14:46:11
-updated: 2024-08-11 11:30:47
+date: 2024-08-10T04:59:03.254Z
+updated: 2024-08-11T04:59:03.254Z
 tags:
   - review
 categories:
@@ -41,14 +41,23 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -57,18 +66,30 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -136,6 +157,9 @@ Today's best Keychron Q1 deals
 
  The Q1 HE also makes a great gaming keyboard — actually, I'm not sure why Keychron didn't release this under its gaming brand (Lemokey), considering magnetic Hall Effect switches are mainly advertised to gamers for their speed and features like Rapid Trigger. (Well, it's probably going to; the P1, which appears to be the Q1's equivalent, is[up for pre-order on Lemokey's site now](https://www.lemokey.com/products/lemokey-p1-qmk-via-custom-gaming-keyboard) .) Anyway, the Q1 HE offers the standard swath of magnetic switch features: wide range, precise adjustable actuation, multiple inputs on a single key, and Rapid Trigger. The switches have an actuation range of 0.5 - 3.8mm, with a sensitivity of 0.1mm, and each key's actuation can be set individually with Keychron's new web-based customization app, Keychron Launcher. The keyboard also offers low-latency 1,000 Hz polling rates over both wireless (2.4GHz) and wired connections.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features and Software of the Q1 HE
 
  The Q1 HE offers three forms of connectivity: low-latency 2.4GHz wireless, Bluetooth 5.1, and wired (via USB-C). The 2.4GHz wireless connection was solid and consistent in my testing, and there was no noticeable difference in latency between it and the wired connection (as you might expect, there was noticeable lag over the Bluetooth connection). The keyboard has two switches on the back: one to switch between connection types and one to switch between PC and Mac modes. My only minor gripe was with the connection switch, which was trickier to quickly move into position than it should have been. (Luckily, speed-switching connections isn't one of my priorities.)
@@ -152,6 +176,16 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -160,10 +194,10 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -176,6 +210,9 @@ Today's best Keychron Q1 deals
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -190,6 +227,9 @@ Today's best Keychron Q1 deals
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  The Keychron Q1 HE QMK Wireless Custom keyboard is pretty impressive — even though every custom keyboard company seems to have a nearly identical offer._Nearly_ being the key word — the Q1 HE has the solid build and nice typing experience of the[Meletrix Boog75](https://www.tomshardware.com/peripherals/gaming-keyboards/meletrix-boog75-review) , the tri-mode connectivity of the[Akko MOD007B-HE PC](https://www.tomshardware.com/peripherals/keyboards/akko-mod007b-he-pc-review) , and the larger layout we wanted from the[Arbiter Studio Polar 65](https://www.tomshardware.com/peripherals/gaming-keyboards/arbiter-studio-polar-65-review) .

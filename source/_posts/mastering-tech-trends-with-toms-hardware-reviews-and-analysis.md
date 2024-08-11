@@ -1,7 +1,7 @@
 ---
 title: Mastering Tech Trends with Tom's Hardware Reviews and Analysis
-date: 2024-08-08 18:52:19
-updated: 2024-08-11 10:15:53
+date: 2024-08-10T04:59:05.466Z
+updated: 2024-08-11T04:59:05.466Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
   
  Keychron will launch its K2 HE models on Kickstarter first at a $5 discount starting today. Or you can wait for full production and pick one up from Keychron directly beginning in October, starting at $130.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Keychron K2 HE
 
  Keychron sent us the Special Edition of the K2 HE in white, but the company will offer up multiple variants. The Special Edition versions will be offered in black or white ($135 via Kickstarter or $140 in October), with rounded OSA keycaps that aren't shine-through (limiting the RGB lighting that can escape between the keys), with metal top and bottom frame pieces, and solid-wood sides.
@@ -53,6 +56,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Keychron claims that you'll get up to 72 hours of run time with the backlight on and 240 hours with it off, using the 4000 MAh battery. I used the keyboard for work and gaming for nearly two weeks with the backlighting on about 20% of the time (mostly at night while gaming), and never had to charge it.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/kZnFGkQwdonJLPBCcKmCVJ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -65,18 +71,27 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  The stabilizers are of the screw-in variety, mounted on the PCB (a liberal amount of glue was also used on our review unit), and they keep the bigger keys from being wobbly. The smaller keys also feel smooth and stable, thanks to the two plastic rails of Gateron's Double-Rail switches, which seem to hold the top of the switch in place horizontally as you press it down.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/g4AzhTJRxtjARPKKwPgUFo-320-80.png)
 
  (Image credit: Gateron)
 
  I generally strongly prefer tactile (usually clicky) switches for typing, but the linear switches that Keychron uses in this keyboard are about the smoothest I've ever used. In fact, the lubed switches, combined with the sound-dampening foam and stabilizers, deliver a feel and sound that I found myself preferring over the[Corsair K65 Plus Wireless](https://www.tomshardware.com/peripherals/gaming-keyboards/corsair-k65-plus-wireless-keyboard-review) — even after I added tactile Holy Panda X switches and better keycaps to the Corsair keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/CYUPZvCMnsbrdJc53A3hbE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  It's good, though, that the Gateron switches in the K2 HE feel very nice. Because while the keyboard is hot-swappable, it's designed for magnetic switches — meaning it doesn't support the traditional mechanical switches that dominate the market. In fact, it's not even compatible with all of[Gateron's HE switches](https://www.gateron.com/collections/gateron-magnetic-switch) — only the dual-rail ones. As of this writing, the company has two dual-rail HE switches, and both are linear. It may be anathema to most serious gamers, but the clicky, tactile switch fan in me is sad that I can't drop something tactile and noisy into this otherwise excellent keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -127,6 +142,11 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  There are some limitations, though. At one point I had the idea of trying to map a light press of the PgUp button to volume up and a full press to volume down. But it turns out that while you can pretty easily assign different actions to different actuation levels on the same key, the feature appears to be limited to controls from standard buttons or macros, and doesn't work with media controls.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/QeyYZKAL36HYc7K8xLC38E-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -135,6 +155,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Note that, at least on the Special Edition models, the RGB glow is held back by the solid keycaps. If lighting is important to you, you might want to consider the Standard Edition model, which uses shine-through caps to give it a more traditional gaming keyboard look.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Gaming and typing on the Keychron K2 HE
 
  I do a fair bit of PC gaming, but I stick mostly to strategy games and single-player FPS titles, so I'm not the best person to take full advantage of the K2 HE's magnetic switches. Still, I used the keyboard during several rounds of_Dome Keeper_ and_Cataclismo_ , and found it an excellent companion that felt comfortable and familiar. That's likely in part because I used the original Keychron K2 as my daily driver for a couple of years, and 75-percent layouts are my favorite for both gaming and typing. But again, both in terms of switch feel and typing sound, this is the nicest 75-percenter I've used. I also like Corsair's K65 Plus Wireless, but the K2 HE just sounds and feels more substantial (and, yes, thocky). The Corsair keyboard also had more wobble on their stabilizers, but the difference there isn't drastic. I mainly found myself missing the nice metal knob on the K65.  
@@ -143,8 +166,14 @@ After years of aggressive styling and RGB everything, peripheral and component c
   
  The Keychron also has a retro look, but it feels and sounds so much more premium. And I'm not sure if it's the operation force of the switch, their pre-lubed components, or the stability of the dual-rail system (perhaps a combination of all three), but I don't think I once found myself double-pressing letters like I usually do when I'm typing with linear switches. These are the nicest linear switches I've used for both gaming_and_ typing – and Gateron deserves a lot of credit for that feat.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/3hG4tZeGHrmzHr4HVvfATG-320-80.jpg)
 
  (Image credit: Tom's Hardware)

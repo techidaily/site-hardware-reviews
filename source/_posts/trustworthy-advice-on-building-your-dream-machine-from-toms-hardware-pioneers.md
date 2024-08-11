@@ -1,7 +1,7 @@
 ---
 title: Trustworthy Advice on Building Your Dream Machine From Tom's Hardware Pioneers
-date: 2024-08-10 18:47:50
-updated: 2024-08-11 11:56:31
+date: 2024-08-10T04:59:16.508Z
+updated: 2024-08-11T04:59:16.508Z
 tags:
   - review
 categories:
@@ -15,10 +15,16 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  Designed to compete with the[best gaming mice](https://www.tomshardware.com/best-picks/best-gaming-mouse) , the Asus ROG Keris II Ace is an ultra-lightweight wireless gaming mouse that weighs just 1.9 ounces (54g). It's the ergonomic counterpart to the Asus ROG Harpe Ace Aim Lab Edition, and it features Asus' 42,000 DPI ROG AimPoint Pro optical sensor, five programmable buttons (seven programmable controls, including scroll up/down), and up to a 4,000 Hz wireless polling rate and an 8,000 Hz wired polling rate with the included ROG Polling Rate Booster. The Keris II Ace is available now, in both black and white, for $159.99, which is pricey but on par with other companies' flagship ultra-lightweight gaming mice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design and Comfort of the Keris II Ace
 
  The Keris II Ace is an ergonomic, right-handed ultra-lightweight wireless gaming mouse with five programmable buttons, including the scroll wheel click. It comes in two colorways: black and "moonlight white," or white with light gray accents.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/yHmu5GPxwwKKHb8KotUHu7-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -39,6 +45,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -49,6 +58,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  It's on the shorter side, measuring 4.76 inches (121mm) long, 2.64 inches (67mm) wide, and 1.65 inches (42mm) high — but it's still designed primarily for people with at least medium-sized hands. It's wider and taller than the ROG Harpe Ace Aim Lab Edition (5.01 x 2.51 x 1.56 inches / 126.5 x 63.7 x 39.6mm) and the DeathAdder V3 Pro is larger all around (5 x 2.67 x 1.73 inches / 128 x 68 x 44mm).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/VrdossKaHAWYCFfaGW4mFn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -73,6 +85,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  The Keris II Ace comes with four small 100% PTFE mouse feet, which work well — this is an extremely lightweight mouse, and I didn't have any issues with glide in my testing (especially not on my favorite glass mouse pad). But if you want something even smoother, Asus does include larger replacement mouse feet, similar to the feet on the[Razer Viper V3 Pro](https://www.tomshardware.com/peripherals/gaming-mice/razer-viper-v3-pro-review) .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/tYMmbKStRmsXxcbbVmtz25-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -138,6 +153,9 @@ Show More Deals
 
  The mouse also features Asus' ROG Optical Micro Switches, which are rated for 100 million clicks. They're nicely clicky and very consistent. They're about as loud as Razer's current optical mouse switches, if a little deeper-sounding, and they're a little crisper and quieter than the Logitech Lightforce hybrid optical switches on the[G Pro Superlight 2](https://www.tomshardware.com/reviews/logitech-g-pro-x-superlight-2) .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/cLTTidZYnwqwmG82gipDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -146,10 +164,16 @@ Show More Deals
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -174,10 +198,16 @@ Show More Deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -190,6 +220,10 @@ Show More Deals
 
  Armoury Crate has various gamer-friendly features such as "scenario profiles" (profiles that launch with specific games or apps) and Aura Sync for syncing lighting across various peripherals. For the most part you'll need to run Armoury Crate in the background to take advantage of these gaming features, but the mouse does have onboard storage with room for up to five hardware-based profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Wireless Experience & Battery Life of the Keris II Ace
 
  Like many of the[best wireless mice](https://www.tomshardware.com/best-picks/best-wireless-mouse) , the Keris II Ace features three forms of connectivity: 2.4GHz wireless, Bluetooth, and wired (via USB-C). This already makes it somewhat unique, as Bluetooth connectivity is the first thing most ultra-lightweight mice ditch — Bluetooth is too high-latency for gaming; it's just a convenience feature for gamers who might also want to use their mouse for non-gaming purposes, or while traveling. The mouse can connect to up to three Bluetooth devices simultaneously on top of its 2.4GHz wireless or wired connection.
@@ -202,6 +236,9 @@ Show More Deals
 
  Asus rates the Keris II Ace's battery life at 107 hours over 2.4GHz wireless with the lighting turned off. I assume that's with a standard 1,000 Hz polling rate — the Keris II Ace did do a good job of retaining its battery life when I had the polling rate set to 4,000 Hz, mostly because it was good at switching off automatically when not in use. But the battery life started to drop pretty quickly once I started actually using it. Still, 107 hours over a 2.4GHz wireless connection is (just) on the higher side of average.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus ROG Keris II Ace is an excellent mouse, even though stripped-down, ultra-lightweight gaming mice with high polling rates are getting to be pretty common these days. It's one of the lightest ultra-lightweight gaming mice and, while it didn't quite inspire me in the same way as the[Razer DeathAdder V3 Pro](https://www.tomshardware.com/reviews/razer-deathadder-v3-pro) , it feels very, very good. It has a speedy, accurate sensor, low-latency wireless connectivity, optional 4K/8K polling rates, and it comes with precut grip tape and extra mouse feet in the box.
@@ -258,6 +295,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

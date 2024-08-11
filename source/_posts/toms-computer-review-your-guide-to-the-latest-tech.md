@@ -1,7 +1,7 @@
 ---
 title: "Tom's Computer Review: Your Guide to the Latest Tech"
-date: 2024-08-09 21:49:27
-updated: 2024-08-11 11:55:41
+date: 2024-08-10T04:59:02.607Z
+updated: 2024-08-11T04:59:02.607Z
 tags:
   - review
 categories:
@@ -101,6 +101,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Inside the Box of the Asus B760M-CT
 
  Inside the box are a couple of accessories designed to get you started: two SATA cables, the I/O shield, screw packages for M.2, ACC Express activation key card, and a user guide. Not much, but it’s everything you need outside of[drivers](https://www.tomshardware.com/tag/drivers) (download from the Asus website) to get going.
@@ -113,6 +116,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -123,6 +129,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  The B760M-CT is a Micro ATX form factor board measuring 244 x 244mm. It uses an old-school green PCB with a moisture-preventing coating to help in high-humidity environments. Built for business, it’s not meant to be viewed, really. With that in mind, you don’t get any integrated RGBs or RGB headers to add your own. Typical use cases will have these inside chassis without windows anyway. Strictly business here, folks!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/PxB9U2jztbrQWBjpEYiqVn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -135,12 +144,18 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Along the right edge is the 24-pin ATX connector to power the board, along with a front panel 19-pin USB 3.1 5 Gbps connector and 5 Gbps Type-C connector.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/kn2NF9dzT4riDFV63xTyNo-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Power delivery is a 7-phase configuration with five dedicated to Vcore. Power comes from the EPS connector to the OnSemi NCP81270C controller and finally to the five Vcore phases. As you can see from the image, this isn’t an integrated MOSFET, as we’re used to seeing on more expensive boards. The high and low sides are separated with three total ICs per phase. Still, it handled our i9-14900K but was limited to 125W after some time. Temperatures ran hot but did not throttle the VRMs. There’s no way I’d increase the duration or any power limits though, as they are at the limit. But again, this is made for business, and this ecosystem typically won’t change anything except perhaps enable XMP profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/mSXNSnc4zcHWknGDEjvhE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -201,6 +216,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

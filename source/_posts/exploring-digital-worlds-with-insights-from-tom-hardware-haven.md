@@ -1,7 +1,7 @@
 ---
 title: Exploring Digital Worlds with Insights From Tom Hardware Haven
-date: 2024-08-09 13:17:57
-updated: 2024-08-11 12:23:40
+date: 2024-08-10T04:59:09.713Z
+updated: 2024-08-11T04:59:09.713Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 * [Dough Spectrum Black 27 (HDR Black) at Amazon for $899.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1263643160611584695-20)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dough Spectrum Black 27 Specs
 
  Swipe to scroll horizontally
@@ -93,10 +96,16 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  How much is all this goodness? The Spectrum Black 27 is $1,099 with Gorilla Glass or $899 with a matte front layer. The stand is an extra $99.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Assembly and Accessories
 
  Dough provides an excellent unboxing experience with only cardboard that protects the contents. Delicate bits are wrapped in a smooth material that’s a bit like parchment paper. The stand comes in a separate carton and is optional. It costs $99 extra. There are no cables included except for the external power brick. I’ll leave opinions on that up to the reader.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 4
@@ -105,6 +114,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Dough)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Dough)
@@ -123,12 +135,29 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  The input panel is on the bottom and left side of the bulge in the back. Video ports include two HDMI 2.1, one DisplayPort 1.4 with Display Stream Compression (DSC), and a USB-C. A separate USB-C input handles data up to 10Gbps. USB outputs include two USB-C and two USB-A, version 3.1\. You also get a 3.5mm headphone jack. Control is via a joystick with discrete buttons for power and KVM switching.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OSD Features
 
  To summon the Spectrum Black 27’s OSD, press the joystick once to reveal an all-business text-based menu. There are no graphics except for the Dough logo at the top. Signal status is always displayed in the top window, while the bottom window has descriptions of every function as you select it. This OSD is one that all other companies should emulate. It is intuitive, informative and efficient to a fault.
 
  Image 1 of 8
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -141,6 +170,10 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -149,14 +182,10 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Tom's Hardware)
 
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -249,6 +278,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: "Top-Performance Analysis: The 6TB Version of the Western Digital My Passport"
-date: 2024-08-09 23:47:54
-updated: 2024-08-11 12:51:23
+date: 2024-08-10T04:59:04.778Z
+updated: 2024-08-11T04:59:04.778Z
 tags:
   - review
 categories:
@@ -17,8 +17,14 @@ There seems to be an ever flowing stream of Raspberry Pi 5 cases since the launc
 
 How does it perform? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pironman 5… Assemble
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/EpRGoTgvmYX6GyRiDoVSie-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -41,6 +47,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -49,6 +58,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -73,18 +85,30 @@ How does it perform? Let's find out!
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -93,6 +117,9 @@ How does it perform? Let's find out!
 
  Assembly complete, we put a 512GB Cytron Makerdisk 2280 NVMe SSD in the slot and booted into Raspberry Pi OS. We ran through the software installation process, necessary for fan control, RGB LEDs and the OLED screen. A quick reboot and we were ready for testing.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using Pironman 5 for day to day tasks
 
  For basic computing tasks, you are good to go. You’ll need to either run the latest Raspberry Pi OS, or update to the latest version to unlock the full performance of the PCIe interface for your NVMe SSD, in our case a Cytron Makerdisk. The latest version of Raspberry Pi OS’s firmware seems to enable PCIe Gen 3 speeds but you can easily[enable this yourself](https://www.tomshardware.com/raspberry-pi/how-to-turbo-charge-your-raspberry-pi-5-with-an-nvme-boot-drive) . After enabling PCIe Gen 3 we saw read speeds of 852 MB/s and write speeds of 673.6 MB/s, a little lower than previous tests with a Lexar drive, but still way faster than micro SD card speeds.
@@ -127,6 +154,9 @@ How does it perform? Let's find out!
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +183,9 @@ How does it perform? Let's find out!
 
  Let's take a look at the stock temperatures for the default Cool fan setting.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/BWCAV7siqBuiCVpnB2tszZ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -187,6 +220,9 @@ How does it perform? Let's find out!
 
  If you are keen to push your Raspberry Pi 5 to the max, then the great cooling on offer means that the Pironman 5 will do the job. With NVMe on offer we have fast and plentiful storage, so the Pironman 5 could be a compact file server hidden in your home.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/kwk6PwghnRvCVrHAxTxcVh-320-80.jpg)

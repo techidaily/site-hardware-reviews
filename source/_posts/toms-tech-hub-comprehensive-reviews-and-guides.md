@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Comprehensive Reviews and Guides"
-date: 2024-08-10 10:30:49
-updated: 2024-08-11 12:56:57
+date: 2024-08-10T04:59:06.525Z
+updated: 2024-08-11T04:59:06.525Z
 tags:
   - review
 categories:
@@ -62,6 +62,9 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/h4Gq7Tgy8mj45EVeVuDhBF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -103,6 +106,9 @@ Included with the cooler are the following:
 
  The D6SEC model has indentions in the first heatsink tower, which allows you to slide a screwdriver through it to install the cooler without needing to remove its fans. This saves a few minutes during installation, and I imagine this would be considered most useful for those who build custom PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/qsNgjfwfaNZintvJFzq9B4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +117,9 @@ Included with the cooler are the following:
 
  Neither model of UpHere’s air coolers interferes or overhangs DIMM slots in any manner, which means you can use these coolers no matter how short or tall your computer’s RAM is.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/s2D5kBqY6fpiJivsJW6Cd3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -119,12 +128,18 @@ Included with the cooler are the following:
 
 The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/TDiKvVBjdofvSKxYoL3GuG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The C5C’s heatsink has alternating, staggered indentations along the exit. These types of designs are intended to help improve the static pressure of airflow.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/xdLRL7rkpNWkBTnt4FdERA-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -141,6 +156,9 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  There’s not much to say about the included fans, but it’s worth noting that the fan included with the C5C features ARGB lighting and an infinity mirror.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/ZdWjSiHhVSk5runU3CnZf4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -163,6 +181,9 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My cooler testing is specifically designed to emulate the conditions a user would actually experience when using a computer. Some reviewers test coolers using an open bench. I do not like this method, it reduces cooling difficulty. When you use a case, the internal temperature of that case will become higher than that of the room’s ambient temperature, increasing the saturation of the cooler and overall cooling difficulty. Testing outside of a case will give an advantage to weaker coolers, especially those with fans that aren’t very strong.
@@ -193,6 +214,13 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s an incredibly small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Complexities of Tom's Computer Gadgets and Modules
-date: 2024-08-08 17:29:59
-updated: 2024-08-11 10:30:14
+date: 2024-08-10T04:59:03.723Z
+updated: 2024-08-11T04:59:03.723Z
 tags:
   - review
 categories:
@@ -117,6 +117,9 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Inside the Box of the Gigabyte B650 Aorus Elite AX Ice
 
  In the retail box are some accessories designed to help get you started. This includes two SATA cables, the Wi-Fi 6E antenna, the Q-Connector, and the installation guide. There’s not much to it, but that’s expected at this price point.
@@ -129,6 +132,9 @@ Show More Deals
 
  (Image credit: Gigabyte)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
@@ -137,6 +143,9 @@ Show More Deals
 
  If you want on-board RGB lighting, you’re in luck with one zone located below the chipset heatsink. Control over this and any attached devices is handled through the Gigabyte Control Center (GCC) and the RGB Fusion integrated application. Overall, we like the ‘icy’ board look, and it should blend in with most build themes, but it looks really terrific in white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/ng9mFf9Apw7yDxEnxqenA8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -157,6 +166,9 @@ Show More Deals
 
  The VRMs on the B650 Aorus Elite AX Ice are 16 total phases, with 12 dedicated to Vcore in a parallel design. Power feeds from the EPS connector(s) to the Richtek 10-channel, then travels out to the 12x On Semiconductor NCP302155 55A MOSFETs. By number, the 660A is paltry. However, it worked fine with our[Ryzen 9 7950X](https://www.tomshardware.com/reviews/amd-ryzen-9-7950x-ryzen-5-7600x-cpu-review) during testing.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/NZvNGDFqE76o8XABgJoCj8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -181,6 +193,9 @@ Show More Deals
 * System fan header
 * System panel header
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/RhBiDaRXA8MwR4TVivdhp8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -257,6 +272,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

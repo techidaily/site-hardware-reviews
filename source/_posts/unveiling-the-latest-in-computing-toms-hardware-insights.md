@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest in Computing - Tom's Hardware Insights
-date: 2024-08-09 22:27:32
-updated: 2024-08-11 12:31:52
+date: 2024-08-10T04:59:14.957Z
+updated: 2024-08-11T04:59:14.957Z
 tags:
   - review
 categories:
@@ -54,6 +54,9 @@ Today's best Sovol SV08 deals
 
 ## Sovol SVO8: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/2Kj96rd2wLjJU7qMANp7DB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -62,6 +65,9 @@ Today's best Sovol SV08 deals
 
  The included USB Flash drive has a PDF copy of the manual and test files. There is also a copy of OrcaSlicer.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/gKUZQXAVSSZto5QxAPnqCJ-320-80.png)
@@ -74,6 +80,9 @@ Today's best Sovol SV08 deals
 
  The Sovol SV08 has a hard mounted bed that doesn’t move and a “flying gantry” for the X and Y axis taken from the Voron 2.4 design. Four motors on each corner of the gantry, combined with an inductive probe, allow it to “quad level” for a perfect first layer. The axes are belt driven for buttery smooth layers. The hotend is beefy, with an all-in-one nozzle, massive cooling fan and convenient daughter board for the electronics. ![](https://lh7-us.googleusercontent.com/ETI0kxGpFe0Pq5i2NlKaQjtUyvBAgFsEfah-HX7jVhDamOYluyOmDBjZBLM6OJc6l9dl9tPqRjID2vqiVEHXQwBrp9yOBBKW8AMceQ3Xnd28xV3X-zuK0UrjFKS742mk-plCNAAcbK6KAAPxEqmRxWU)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/5QupcmztKidnzxgayGdzfB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -88,6 +97,9 @@ Today's best Sovol SV08 deals
 
  The PEI bed wasn’t sticky enough to hold several of my high speed prints, but a little glue stick helped keep things in place.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Assembling the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/aLRXpJR2bSGK5eQGJunFLG-320-80.png)
@@ -98,6 +110,10 @@ Today's best Sovol SV08 deals
 
  You’ll need to flip the power supply switch to match your main household electric, which is 115V in the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Leveling the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/Shpc6yMtKYbKsLxoywRFpB-320-80.jpg)
@@ -106,10 +122,16 @@ Today's best Sovol SV08 deals
 
  The Sovol SVO8 has both inductive and pressure sensors installed and performs a throughout leveling routine that can adjust the four corners of the flying gantry and then perform a mesh bed level to compensate for any issues. The machine wipes off the nozzle on a rubber brush on the back before tapping the bed to find the correct Z offset. The offset can be easily adjusted from the control menu if you need to raise or lower it for different materials.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Loading Filament on the Sovol SVO8
 
  To load filament, trim the filament to a point and push it through the Bowden tube near the spool holder all the way to the tool head. Give it an extra nudge until it can’t go any further. Select the load (or unload) routine on the menu, and the machine handles the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Preparing Files / Software for Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/MnFfT8JZGvqGvYjvBG5hGC-320-80.png)
@@ -126,6 +148,18 @@ Today's best Sovol SV08 deals
 
  This boat is a little rough, but the shape is well-defined with no signs of ringing. This is one of the best speed boats I’ve printed. Remember – when racing a 3D Printer, it's more about printing a “Benchy Shaped Object” than real quality. This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1072543316197855840-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/rPKKXN6cPpVv33oLgMhmXB-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -138,6 +172,10 @@ _Maker’s Muse_ [_Clearance Castle_](https://www.makersmuse.com/clearance-castl
 
  I needed a big, showy print for the SV08’s feature photo, so I decided to make one. Bambu Lab has been releasing a series of tools on its website MakerWorld to let users craft their own models and download them as either .3mf or .stl files. The program lets you start from a template and then push the nodes around until you get a desirable shape. This 300mm tall vase – printed in “vase mode” – only took two hours and 3 minutes to print using a .28mm layer height and a slightly chonky .5 layer width. It’s stunning and smooth, printed in[Polymaker’s Dual Color Silk in Purple and Gold.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-Gold-Purple-Printer-Dichromatic%2Fdp%2FB0BF56GLZ7%2Fref%3Dasc%5Fdf%5FB0BF56GLZ7%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8714266725847440180%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-1944052919189%26psc%3D1%26mcid%3De9538a114a993beb8ce1d2042992f7e4%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1175129393775174912-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/JonoSoSEj352MkufF5DNpA-320-80.jpg)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)
@@ -154,8 +192,14 @@ _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase
 
 [_E3D’s Buggy Stress Test_](https://www.printables.com/model/275117-e3dbuggy-a-3d-printer-stress-test)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/WDwDhzjXGG9Efica5fmRrK-320-80.png)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)

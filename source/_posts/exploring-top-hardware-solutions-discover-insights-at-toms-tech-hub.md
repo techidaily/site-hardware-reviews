@@ -1,7 +1,7 @@
 ---
 title: Exploring Top Hardware Solutions – Discover Insights at Tom's Tech Hub
-date: 2024-08-08 18:47:27
-updated: 2024-08-11 11:54:41
+date: 2024-08-10T04:59:03.205Z
+updated: 2024-08-11T04:59:03.205Z
 tags:
   - review
 categories:
@@ -17,10 +17,16 @@ After years of aggressive styling and RGB everything, peripheral and component c
   
  Keychron will launch its K2 HE models on Kickstarter first at a $5 discount starting today. Or you can wait for full production and pick one up from Keychron directly beginning in October, starting at $130.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Keychron K2 HE
 
  Keychron sent us the Special Edition of the K2 HE in white, but the company will offer up multiple variants. The Special Edition versions will be offered in black or white ($135 via Kickstarter or $140 in October), with rounded OSA keycaps that aren't shine-through (limiting the RGB lighting that can escape between the keys), with metal top and bottom frame pieces, and solid-wood sides.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/TMzDv4CnDYd8YrcjdYnZVD-320-80.jpg)
 
  (Image credit: Keychron)
@@ -53,18 +59,50 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Keychron claims that you'll get up to 72 hours of run time with the backlight on and 240 hours with it off, using the 4000 MAh battery. I used the keyboard for work and gaming for nearly two weeks with the backlighting on about 20% of the time (mostly at night while gaming), and never had to charge it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/kZnFGkQwdonJLPBCcKmCVJ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  There is technically one more button, which I discovered while taking a look at the stabilizers. Clearly a bit of foam has been cut away to provide access to a reset switch, which you might need should the keyboard ever lock up or otherwise become unstable. But in my time testing it, our review unit never had any performance issues.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/dCpWVC8XkTUzH77B74jkQH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The stabilizers are of the screw-in variety, mounted on the PCB (a liberal amount of glue was also used on our review unit), and they keep the bigger keys from being wobbly. The smaller keys also feel smooth and stable, thanks to the two plastic rails of Gateron's Double-Rail switches, which seem to hold the top of the switch in place horizontally as you press it down.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/g4AzhTJRxtjARPKKwPgUFo-320-80.png)
 
  (Image credit: Gateron)
@@ -77,6 +115,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  It's good, though, that the Gateron switches in the K2 HE feel very nice. Because while the keyboard is hot-swappable, it's designed for magnetic switches — meaning it doesn't support the traditional mechanical switches that dominate the market. In fact, it's not even compatible with all of[Gateron's HE switches](https://www.gateron.com/collections/gateron-magnetic-switch) — only the dual-rail ones. As of this writing, the company has two dual-rail HE switches, and both are linear. It may be anathema to most serious gamers, but the clicky, tactile switch fan in me is sad that I can't drop something tactile and noisy into this otherwise excellent keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -99,6 +140,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 | **MSRP / Price at Time of Review** | $130 (Standard), $140 (Special)                     |
 | **Release Date**                   | Aug. 6, 2024                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Software for the Keychron K2 HE
 
  Apart from its pleasant switches and gorgeous aesthetics, I also found the software for the K2 HE refreshing. Instead of some bulky, confusing, crash-prone program that's designed to work with 100 products (and generally leads to 100 or so curses), Keychron uses a web app ([https://launcher.keychron.com/](https://launcher.keychron.com/) ) for the K2 HE, which is where you'll assign keys, control the RGB lighting, record macros, and adjust and assign things to the magnetic switches.
@@ -107,6 +151,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -127,6 +174,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  There are some limitations, though. At one point I had the idea of trying to map a light press of the PgUp button to volume up and a full press to volume down. But it turns out that while you can pretty easily assign different actions to different actuation levels on the same key, the feature appears to be limited to controls from standard buttons or macros, and doesn't work with media controls.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/QeyYZKAL36HYc7K8xLC38E-320-80.jpg)
 
  (Image credit: Tom's Hardware)

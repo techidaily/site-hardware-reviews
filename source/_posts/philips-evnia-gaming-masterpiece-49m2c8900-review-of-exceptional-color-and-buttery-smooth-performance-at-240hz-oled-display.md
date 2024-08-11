@@ -1,7 +1,7 @@
 ---
 title: Philips Evnia Gaming Masterpiece (49M2C8900) - Review of Exceptional Color & Buttery Smooth Performance at 240Hz OLED Display
-date: 2024-08-08 19:26:11
-updated: 2024-08-11 11:51:54
+date: 2024-08-10T04:59:14.454Z
+updated: 2024-08-11T04:59:14.454Z
 tags:
   - review
 categories:
@@ -17,8 +17,14 @@ There seems to be an ever flowing stream of Raspberry Pi 5 cases since the launc
 
 How does it perform? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pironman 5… Assemble
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/EpRGoTgvmYX6GyRiDoVSie-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -29,6 +35,16 @@ How does it perform? Let's find out!
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -37,10 +53,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
-![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -77,6 +92,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -93,6 +111,9 @@ How does it perform? Let's find out!
 
  Assembly complete, we put a 512GB Cytron Makerdisk 2280 NVMe SSD in the slot and booted into Raspberry Pi OS. We ran through the software installation process, necessary for fan control, RGB LEDs and the OLED screen. A quick reboot and we were ready for testing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Using Pironman 5 for day to day tasks
 
  For basic computing tasks, you are good to go. You’ll need to either run the latest Raspberry Pi OS, or update to the latest version to unlock the full performance of the PCIe interface for your NVMe SSD, in our case a Cytron Makerdisk. The latest version of Raspberry Pi OS’s firmware seems to enable PCIe Gen 3 speeds but you can easily[enable this yourself](https://www.tomshardware.com/raspberry-pi/how-to-turbo-charge-your-raspberry-pi-5-with-an-nvme-boot-drive) . After enabling PCIe Gen 3 we saw read speeds of 852 MB/s and write speeds of 673.6 MB/s, a little lower than previous tests with a Lexar drive, but still way faster than micro SD card speeds.
@@ -123,10 +144,16 @@ How does it perform? Let's find out!
 
  Our office is one floor above our 5 GHz Wi-Fi router, and we saw a maximum of 490 Kbits/s. That isn’t a typo, it was really that slow. We moved Pironman 5 so that it was next to our router and repeated the test. This gave us the best performance of 88.6 Mbits/s, a tenth of the bandwidth provided by Ethernet, but many times more than what we saw in the office. For comparison, we performed the same test on a Raspberry Pi 5 with no cooling, and saw 65.7 Mbits/s in our office. So the case does interfere with Wi-Fi, but only if you are some distance from the router.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Keeping Cool with Pironman
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +180,9 @@ How does it perform? Let's find out!
 
  Let's take a look at the stock temperatures for the default Cool fan setting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/BWCAV7siqBuiCVpnB2tszZ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -187,8 +217,15 @@ How does it perform? Let's find out!
 
  If you are keen to push your Raspberry Pi 5 to the max, then the great cooling on offer means that the Pironman 5 will do the job. With NVMe on offer we have fast and plentiful storage, so the Pironman 5 could be a compact file server hidden in your home.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/kwk6PwghnRvCVrHAxTxcVh-320-80.jpg)
 
  (Image credit: Tom's Hardware)

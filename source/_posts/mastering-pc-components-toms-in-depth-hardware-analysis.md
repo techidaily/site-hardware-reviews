@@ -1,7 +1,7 @@
 ---
 title: "Mastering PC Components: Tom's In-Depth Hardware Analysis"
-date: 2024-08-09 10:11:52
-updated: 2024-08-11 11:51:52
+date: 2024-08-10T04:59:11.391Z
+updated: 2024-08-11T04:59:11.391Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ If you’re looking for a reasonably-priced AM5 motherboard that stands out from
 
 * [Gigabyte B650 Aorus Elite AX Ice (White) at Amazon for $209.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CMJSH15D%2Fref%3Dasc%5Fdf%5FB0CMJSH15D1723230000000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB0CMJSH15D%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1123977987819164648-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Specifications of the Gigabyte B650 Aorus Elite AX Ice
 
  Swipe to scroll horizontally
@@ -117,6 +120,9 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Inside the Box of the Gigabyte B650 Aorus Elite AX Ice
 
  In the retail box are some accessories designed to help get you started. This includes two SATA cables, the Wi-Fi 6E antenna, the Q-Connector, and the installation guide. There’s not much to it, but that’s expected at this price point.
@@ -125,10 +131,16 @@ Show More Deals
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
@@ -137,6 +149,9 @@ Show More Deals
 
  If you want on-board RGB lighting, you’re in luck with one zone located below the chipset heatsink. Control over this and any attached devices is handled through the Gigabyte Control Center (GCC) and the RGB Fusion integrated application. Overall, we like the ‘icy’ board look, and it should blend in with most build themes, but it looks really terrific in white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/ng9mFf9Apw7yDxEnxqenA8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -157,6 +172,10 @@ Show More Deals
 
  The VRMs on the B650 Aorus Elite AX Ice are 16 total phases, with 12 dedicated to Vcore in a parallel design. Power feeds from the EPS connector(s) to the Richtek 10-channel, then travels out to the 12x On Semiconductor NCP302155 55A MOSFETs. By number, the 660A is paltry. However, it worked fine with our[Ryzen 9 7950X](https://www.tomshardware.com/reviews/amd-ryzen-9-7950x-ryzen-5-7600x-cpu-review) during testing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/NZvNGDFqE76o8XABgJoCj8-320-80.jpg)
 
  (Image credit: Gigabyte)

@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: Expert Hardware Analysis and Reviews"
-date: 2024-08-08 22:58:10
-updated: 2024-08-11 10:15:53
+date: 2024-08-10T04:59:17.212Z
+updated: 2024-08-11T04:59:17.212Z
 tags:
   - review
 categories:
@@ -37,10 +37,16 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -53,6 +59,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Keychron claims that you'll get up to 72 hours of run time with the backlight on and 240 hours with it off, using the 4000 MAh battery. I used the keyboard for work and gaming for nearly two weeks with the backlighting on about 20% of the time (mostly at night while gaming), and never had to charge it.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/kZnFGkQwdonJLPBCcKmCVJ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -65,6 +74,10 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  The stabilizers are of the screw-in variety, mounted on the PCB (a liberal amount of glue was also used on our review unit), and they keep the bigger keys from being wobbly. The smaller keys also feel smooth and stable, thanks to the two plastic rails of Gateron's Double-Rail switches, which seem to hold the top of the switch in place horizontally as you press it down.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/g4AzhTJRxtjARPKKwPgUFo-320-80.png)
 
  (Image credit: Gateron)
@@ -77,6 +90,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  It's good, though, that the Gateron switches in the K2 HE feel very nice. Because while the keyboard is hot-swappable, it's designed for magnetic switches — meaning it doesn't support the traditional mechanical switches that dominate the market. In fact, it's not even compatible with all of[Gateron's HE switches](https://www.gateron.com/collections/gateron-magnetic-switch) — only the dual-rail ones. As of this writing, the company has two dual-rail HE switches, and both are linear. It may be anathema to most serious gamers, but the clicky, tactile switch fan in me is sad that I can't drop something tactile and noisy into this otherwise excellent keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -107,6 +123,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -115,10 +134,16 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -135,6 +160,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Note that, at least on the Special Edition models, the RGB glow is held back by the solid keycaps. If lighting is important to you, you might want to consider the Standard Edition model, which uses shine-through caps to give it a more traditional gaming keyboard look.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gaming and typing on the Keychron K2 HE
 
  I do a fair bit of PC gaming, but I stick mostly to strategy games and single-player FPS titles, so I'm not the best person to take full advantage of the K2 HE's magnetic switches. Still, I used the keyboard during several rounds of_Dome Keeper_ and_Cataclismo_ , and found it an excellent companion that felt comfortable and familiar. That's likely in part because I used the original Keychron K2 as my daily driver for a couple of years, and 75-percent layouts are my favorite for both gaming and typing. But again, both in terms of switch feel and typing sound, this is the nicest 75-percenter I've used. I also like Corsair's K65 Plus Wireless, but the K2 HE just sounds and feels more substantial (and, yes, thocky). The Corsair keyboard also had more wobble on their stabilizers, but the difference there isn't drastic. I mainly found myself missing the nice metal knob on the K65.  

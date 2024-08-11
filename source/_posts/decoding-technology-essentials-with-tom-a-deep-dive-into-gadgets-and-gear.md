@@ -1,7 +1,7 @@
 ---
 title: Decoding Technology Essentials with Tom - A Deep Dive Into Gadgets and Gear
-date: 2024-08-09 21:13:15
-updated: 2024-08-11 10:41:22
+date: 2024-08-10T04:59:18.453Z
+updated: 2024-08-11T04:59:18.453Z
 tags:
   - review
 categories:
@@ -29,18 +29,30 @@ How does it perform? Let's find out!
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -73,10 +85,16 @@ How does it perform? Let's find out!
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -99,6 +117,9 @@ How does it perform? Let's find out!
 
  Essentially, we now have a tiny Arm powered desktop computer that looks like one of the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) has been hit by a shrink-ray. As a desktop PC look-alike, Pironman 5 works really well. All of the ports are routed to the back, leaving a clean front panel. There is a micro SD card slot on the front panel, which can be used to boot the Raspberry Pi 5 or for additional storage.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/o6oN6jNZqWqzycvc7Fkh5i-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -123,14 +144,23 @@ How does it perform? Let's find out!
 
  Our office is one floor above our 5 GHz Wi-Fi router, and we saw a maximum of 490 Kbits/s. That isn’t a typo, it was really that slow. We moved Pironman 5 so that it was next to our router and repeated the test. This gave us the best performance of 88.6 Mbits/s, a tenth of the bandwidth provided by Ethernet, but many times more than what we saw in the office. For comparison, we performed the same test on a Raspberry Pi 5 with no cooling, and saw 65.7 Mbits/s in our office. So the case does interfere with Wi-Fi, but only if you are some distance from the router.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Keeping Cool with Pironman
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +183,9 @@ How does it perform? Let's find out!
 
  Let's take a look at the stock temperatures for the default Cool fan setting.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/BWCAV7siqBuiCVpnB2tszZ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -181,6 +214,9 @@ How does it perform? Let's find out!
 
  There's not a lot between the two cases when it comes to temperatures for stock CPU speeds, a mere 2.8°C. But when overclocked, the Pironman 5 drops the idle temperature 6.6°C below what the Argon can achieve. But a whopping 19.2°C difference sees the Pironman 5 keep the Raspberry Pi 5 frosty under a heavy load.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Who is Pironman 5 for?
 
  It may look like a mini gaming PC but the Raspberry Pi 5 is not built for triple-A games. So what can we do with the Pironman 5 and our Pi? As a desktop PC, Pironman 5 looks the part and we’d totally be happy with this setup for an office PC or for our kids to learn with.

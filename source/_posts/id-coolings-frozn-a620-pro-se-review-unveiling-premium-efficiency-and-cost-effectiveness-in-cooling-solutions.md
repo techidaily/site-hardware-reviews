@@ -1,7 +1,7 @@
 ---
 title: ID-Cooling's Frozn A620 Pro SE Review - Unveiling Premium Efficiency and Cost-Effectiveness in Cooling Solutions
-date: 2024-08-08 18:48:19
-updated: 2024-08-11 10:31:31
+date: 2024-08-10T04:59:08.323Z
+updated: 2024-08-11T04:59:08.323Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ NZXT, founded in 2004, is a prominent American computer hardware manufacturer kn
 
  In this review, we are examining the latest addition to NZXT's power supply lineup, the C1500 Platinum PSU, which currently goes for $370\. This high-capacity power supply offers exceptional performance and reliability for modern, top-tier PCs. With features like fully modular black nylon-sleeved cables, a Sunon MagLev 140 mm fan, two PCI Express 5.1 12V-2x6, and boasting world-class electrical performance, the C1500 Platinum is designed to meet ATX 3.1 standards and get the attention of enthusiasts and power users who are on the market for one of the[best power supplies](https://www.tomshardware.com/reviews/best-psus,4229.html)  currently available.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Specifications and Design
 
  Swipe to scroll horizontally
@@ -72,6 +75,9 @@ __Power Specifications (Rated @ 50 °C)__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -82,6 +88,9 @@ __Power Specifications (Rated @ 50 °C)__
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://cdn.mos.cms.futurecdn.net/cscsr8idescMvHmxQXRTXK-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -114,10 +123,16 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -138,6 +153,9 @@ __NZXT C1500 Platinum__
 
  The front side of the NZXT C1500 Platinum PSU features the standard on/off switch, the IEC C20 AC cable receptacle, and an additional switch for the "Zero-Fan" feature. The switch allows users to disable the feature and force the fan to operate continuously regardless of the unit’s load or temperature but the speed of the fan will still be controlled by the unit’s thermal control circuitry, so it will be practically be running at minimum speed until the load is high enough to justify an airflow increase.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://cdn.mos.cms.futurecdn.net/gSmvNydZyCzRsPDATJrnpL-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -154,6 +172,9 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -166,10 +187,16 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -182,6 +209,9 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -210,6 +240,17 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -218,10 +259,9 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
-![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -232,12 +272,18 @@ __NZXT C1500 Platinum__
 
 ### Hot Test Results
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Hot Test Results (\~45°C Ambient)
 
  During hot testing, the NZXT C1500 Platinum PSU displays a very minor decrease in efficiency under heavy loads, with recorded figures of 92.2% at 115 VAC and 93.3% at 230 VAC, compared to 92.6% and 93.7% during cold testing. This reduction is inconsequential and occurs almost linearly across the entire load range. There are no signs of thermal stress, even at maximum load. The PSU is rated to perform efficiently at ambient temperatures up to 50°C and maintains seamless operation under these conditions.
 
  Image 1 of 5
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -250,10 +296,16 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -262,8 +314,14 @@ __NZXT C1500 Platinum__
 
  When heavily stressed, the thermal control circuit seems to be designed so as to forgo acoustics performance in favor of reliability. The internal temperatures of the unit are remarkably low, especially when taking the massive 1.5 kW capacity into account.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### PSU Quality and Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Power Supply Quality
 
  The electrical performance of the NZXT C1500 Platinum PSU, even after taking into account its class, can only be described as outstanding. The 12V rail maintains a tight regulation of 0.5%, while the 5V and 3.3V lines are well-regulated at 0.7% and 0.6% respectively.

@@ -1,7 +1,7 @@
 ---
 title: "Master Your Computer Setup: Advanced Reviews by Tom’s Hardware Experts"
-date: 2024-08-09 10:34:48
-updated: 2024-08-11 12:42:12
+date: 2024-08-10T04:59:02.451Z
+updated: 2024-08-11T04:59:02.451Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ The Atlas Air is available now for $179.99.
 
 * [Turtle Beach Atlas Air (Black) at Amazon for $179.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D13VX3S6%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-2527428693144545510-20)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design and Comfort of the Atlas Air
 
  The Atlas Air is a wireless, over-ear, open-back gaming headset with a detachable flip-to-mute boom mic. It has a lightweight gray plastic frame with shiny gray speaker plates on its large, round floating earcups (we'll get to the "floating" part in a moment). It comes with a black mesh and elastic suspension headband and black fabric-covered earpads, but Turtle Beach sells brightly-colored "mod packs," consisting of a replacement headband strap and earpads, for $25\. Turtle Beach is printed in silver above each earcup, and its palm tree logo is embossed in silver on each side of the strap, where it attaches to the headband.
@@ -31,6 +34,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -39,6 +45,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -67,6 +76,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -75,6 +87,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -87,14 +102,23 @@ The Atlas Air is available now for $179.99.
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +135,9 @@ The Atlas Air is available now for $179.99.
 
  The Atlas Air comes with two cables — a 6-foot (1.8m) braided USB-C to USB-A charging cable, and a 6-foot (1.8m) braided 3.5mm audio cable with inline volume controls. It also comes with a detachable boom mic and a foam pop filter, a 2.4GHz wireless USB-A dongle, and a soft cloth drawstring carrying pouch.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -165,6 +192,9 @@ The Atlas Air is available now for $179.99.
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Audio Performance of the Atlas Air
 
  The Atlas Air features an open-back design and has 40mm "high-precision" dynamic drivers that support 24-bit (hi-fi) / 96 kHz audio (in PC mode) and have a frequency response rate of 20 - 40,000 Hz. The open-back design means there's sound leak on both sides — you'll hear what's happening around you, and those around you will hear what you're listening to — but it also means a wider soundstage and a more open and natural (yet still immersive) sound profile in general. There are several open-back gaming headsets on the market — we last tested the[Corsair Virtuoso Pro](https://www.tomshardware.com/reviews/corsair-virtuoso-pro) — but Turtle Beach touts the Atlas Air as the first_wireless_ open-back gaming headset.
@@ -179,6 +209,9 @@ The Atlas Air is available now for $179.99.
 
  Unsurprisingly, I did get a better, more accurate response from the Atlas Air's drivers when I turned it off and plugged it into a DAC (the DragonFly Cobalt), but the headset performed well over 2.4GHz wireless — for the most part. I had some trouble with the software thwarting the headset's wireless performance by switching settings at random and resetting things, but the wired performance remained consistent. (I was able to mostly resolve the software issue by uninstalling the app, but it's still a little shaky.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Microphone of the Atlas Air
 
  The Atlas Air has a detachable boom mic that also manages to implement my favorite Turtle Beach standby — flip-to-mute. It's not, however, a great implementation — the mic attaches to a movable piece inside the headset so you can flip it up and down, but it's not very easy to do so because the mic's bendable gooseneck arm is... too bendy. Also, if the mic is bent toward your mouth while you're using it, flipping it up without bending it out of the way means it hits you in the face. (Yes, I know this is an issue with any flip-up mic that also bends, but for some reason I ended up hitting myself more with this mic.)
@@ -203,6 +236,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -221,6 +257,9 @@ The Atlas Air is available now for $179.99.
 
  Speaking of buttons, the buttons on the Atlas Air might seem like overkill (as many headsets combine functions like power and Bluetooth pairing), but I was impressed: I didn't have to fumble around to find them, nor did I forget which was which — not once. The speaker plate volume wheel, on the other hand, was a mess. It was inconsistent in just about every way — sometimes turning it one notch would raise the volume by a small increment and the next notch would jump to maximum... and the next notch would lower it. Sometimes turning the wheel would just jump the volume between a couple of steps before ultimately doing nothing. For what it's worth, this is something that could almost certainly be fixed with a firmware update (and was most likely broken by a firmware update). However, I would rather adjust my volume elsewhere than deal with Swarm II.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  I kind of love this headset — it's super comfortable, it sounds great, and the open-back design is perfect. But I also kind of hate this headset — or, at least, the firmware/software side of it. So, I'm at a crossroads: the headset has some issues that probably need to be fixed with a firmware update, but the software is so bad that I'm not even confident a firmware update would work (or fix things — more likely, we're going to need several firmware updates). It might sound a little dramatic to let terrible software stop you from buying a headset — something that really shouldn't even need software, but, trust me... it's bad. And firmware/software issues are more important with a wireless headset; this headset seems like it'll work fine if you only use it in analog mode, but then why buy a wireless headset?
@@ -271,6 +310,9 @@ The Atlas Air is available now for $179.99.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

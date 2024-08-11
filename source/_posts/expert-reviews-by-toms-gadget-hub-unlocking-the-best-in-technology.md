@@ -1,7 +1,7 @@
 ---
 title: Expert Reviews by Tom’s Gadget Hub - Unlocking the Best in Technology
-date: 2024-08-08 21:12:39
-updated: 2024-08-11 10:15:18
+date: 2024-08-10T04:59:02.708Z
+updated: 2024-08-11T04:59:02.708Z
 tags:
   - review
 categories:
@@ -17,6 +17,10 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  The one thing Asus didn't improve on, however, was the original Azoth's price. The original Azoth was already pretty expensive at $250, and the Azoth Extreme is, understandably, more expensive. Twice as expensive, in fact. That's right, the Azoth Extreme will set you back a whopping $500, which is, frankly, an insane amount to pay for a mainstream gaming keyboard. But maybe that's Asus' bid — that the Azoth Extreme isn't just a mainstream gaming keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Design and Construction of the ROG Azoth Extreme
 
  Everything about the ROG Azoth Extreme is extreme, including the packaging. I usually don't pay too much attention to packaging (I'm constantly battling a mountain of boxes), but the Azoth Extreme comes in a premium multi-level cardboard box that opens smoothly and weighs nearly 3 pounds by itself. Unboxing the Azoth Extreme definitely felt like it was designed to be an_experience_ — or, well, more of an experience than unboxing most mainstream gaming keyboards.
@@ -31,6 +35,9 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -39,6 +46,9 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -51,6 +61,9 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -67,10 +80,16 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -87,6 +106,9 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -95,6 +117,9 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -127,6 +152,10 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  The Azoth Extreme comes with several accessories, including the silicone wrist rest and magnetic feet. It doesn't come with the DIY lubing station that the original Azoth came with, because Asus decided a wrist rest was a more valuable accessory for most users (probably true). As far as customization goes, it comes with a keycap puller and a switch puller for hot-swapping switches, as well as a couple of extra switches and extra silicone pins for if you want to open up the keyboard. For connectivity, it comes with a 6.5-foot (2m) braided USB-C to USB-A cable, a USB extender, and Asus' ROG Polling Rate Booster, plus the 2.4GHz USB-A dongle.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -193,6 +222,9 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -223,6 +255,9 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  However, I will point out that these are still standard mechanical switches — not the magnetic Hall Effect switches we've been seeing in every other gaming keyboard released this year. So they do not feature things like adjustable actuation or support for Rapid Trigger — and if you are looking to push speed extremes, those are better features to chase than an 8,000 Hz polling rate.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features and Software of the ROG Azoth Extreme
 
  The ROG Azoth Extreme is configurable with Asus' universal peripheral software, Armoury Crate. Armoury Crate is my[least favorite peripheral software](https://www.tomshardware.com/opinion/gaming-peripheral-apps-ranked-from-worst-to-worst) , but you'll need to use it if you want to remap keys, customize the OLED screen and control knob, or change the keyboard's lighting. It also lets you access a handful of power and performance options, firmware updates, and Aura Sync, which lets you sync lighting effects across multiple Asus peripherals.
@@ -233,6 +268,23 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -245,18 +297,16 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
-![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -265,6 +315,10 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  The OLED screen and control knob are customizable, but in a somewhat limited way. You can set the OLED screen to display a static or animated graphic, either from Asus' preloaded options or by uploading your own graphic to Armoury Crate. I'm not sure what the graphical limitations of the screen are, but it took me approximately 17 attempts before I was able to successfully load the Tom's Hardware graphic to the keyboard — and even on my last (successful?) attempt, Armoury Crate spit out an error message:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Asus ROG Azoth Extreme](https://cdn.mos.cms.futurecdn.net/FhRuGEgAM35EHXdW6NH2MT-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -273,12 +327,18 @@ Asus'[previous ROG Azoth](https://www.tomshardware.com/reviews/asus-rog-azoth) w
 
  The control knob has several functions, which you can scroll through by tapping the side button. All functions are active by default; you can turn them off in Armoury Crate if you'd rather not scroll through functions you'll never use. The functions are: System volume, media track, keyboard brightness adjustment, OLED brightness adjustment, switch lighting effect, and customize. The "customize" function is a custom function you can configure (you can set scroll up, scroll down, and scroll click to perform any of the same functions you can set keys to perform).
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wireless Experience & Battery Life of the ROG Azoth Extreme
 
  The ROG Azoth Extreme offers three forms of connectivity: 2.4GHz wireless, Bluetooth, and wired (USB-C). It comes with a 2.4GHz wireless USB-A dongle as well as Asus' ROG Polling Rate Booster, which ups the keyboard's polling rate to 8,000 Hz in both wired and wireless mode. While you can make a reasonable argument for why an extremely high polling rate might be important in a gaming mouse for a very small fraction of gamers, I don't think you can make the same argument for a keyboard.
 
  Asus rates the ROG Azoth's battery life at 92 hours with both the OLED screen and the keyboard's RGB backlighting turned on and over 1,600 hours with both turned off. I'll assume this is also with the polling rate set at 1,000 Hz, not 8,000 Hz. Still, this is excellent for a wireless keyboard, and what we've come to expect from Asus' gaming lineup — the original Azoth was rated for 2,000 hours with its OLED screen and lighting turned off, and Asus' Strix Scope II 96 Wireless offers 1,500 hours with its lighting turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  The ROG Azoth Extreme is a fantastic keyboard, no question. Asus is now solidly in enthusiast territory with this keyboard, and I won't pretend like I haven't been waiting for an actual enthusiast-level keyboard with a full suite of gaming features (even if I will always be at odds with Armoury Crate). But $500?!

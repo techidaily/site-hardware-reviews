@@ -1,7 +1,7 @@
 ---
 title: "Exploring Hardware with Tom: The Definitive Resource on PC Gear"
-date: 2024-08-09 11:43:28
-updated: 2024-08-11 11:43:38
+date: 2024-08-10T04:59:12.777Z
+updated: 2024-08-11T04:59:12.777Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ There seems to be an ever flowing stream of Raspberry Pi 5 cases since the launc
 
 How does it perform? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pironman 5… Assemble
 
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/EpRGoTgvmYX6GyRiDoVSie-320-80.jpg)
@@ -33,6 +36,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -57,6 +63,9 @@ How does it perform? Let's find out!
 
  After confirming the height of our standoffs (thankfully made easy with our digital calipers) and removing most of our hard work we correctly assembled the case. The assembly process needs nothing more than a PH0 screwdriver (included) but an M2.5 bit driver helped tighten up the standoffs.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/v2PJvSsYtavWCS2XU8GGR-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -73,14 +82,23 @@ How does it perform? Let's find out!
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -93,6 +111,14 @@ How does it perform? Let's find out!
 
  Assembly complete, we put a 512GB Cytron Makerdisk 2280 NVMe SSD in the slot and booted into Raspberry Pi OS. We ran through the software installation process, necessary for fan control, RGB LEDs and the OLED screen. A quick reboot and we were ready for testing.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using Pironman 5 for day to day tasks
 
  For basic computing tasks, you are good to go. You’ll need to either run the latest Raspberry Pi OS, or update to the latest version to unlock the full performance of the PCIe interface for your NVMe SSD, in our case a Cytron Makerdisk. The latest version of Raspberry Pi OS’s firmware seems to enable PCIe Gen 3 speeds but you can easily[enable this yourself](https://www.tomshardware.com/raspberry-pi/how-to-turbo-charge-your-raspberry-pi-5-with-an-nvme-boot-drive) . After enabling PCIe Gen 3 we saw read speeds of 852 MB/s and write speeds of 673.6 MB/s, a little lower than previous tests with a Lexar drive, but still way faster than micro SD card speeds.
@@ -123,10 +149,16 @@ How does it perform? Let's find out!
 
  Our office is one floor above our 5 GHz Wi-Fi router, and we saw a maximum of 490 Kbits/s. That isn’t a typo, it was really that slow. We moved Pironman 5 so that it was next to our router and repeated the test. This gave us the best performance of 88.6 Mbits/s, a tenth of the bandwidth provided by Ethernet, but many times more than what we saw in the office. For comparison, we performed the same test on a Raspberry Pi 5 with no cooling, and saw 65.7 Mbits/s in our office. So the case does interfere with Wi-Fi, but only if you are some distance from the router.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Keeping Cool with Pironman
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +185,9 @@ How does it perform? Let's find out!
 
  Let's take a look at the stock temperatures for the default Cool fan setting.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/BWCAV7siqBuiCVpnB2tszZ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -181,12 +216,18 @@ How does it perform? Let's find out!
 
  There's not a lot between the two cases when it comes to temperatures for stock CPU speeds, a mere 2.8°C. But when overclocked, the Pironman 5 drops the idle temperature 6.6°C below what the Argon can achieve. But a whopping 19.2°C difference sees the Pironman 5 keep the Raspberry Pi 5 frosty under a heavy load.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who is Pironman 5 for?
 
  It may look like a mini gaming PC but the Raspberry Pi 5 is not built for triple-A games. So what can we do with the Pironman 5 and our Pi? As a desktop PC, Pironman 5 looks the part and we’d totally be happy with this setup for an office PC or for our kids to learn with.
 
  If you are keen to push your Raspberry Pi 5 to the max, then the great cooling on offer means that the Pironman 5 will do the job. With NVMe on offer we have fast and plentiful storage, so the Pironman 5 could be a compact file server hidden in your home.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/kwk6PwghnRvCVrHAxTxcVh-320-80.jpg)

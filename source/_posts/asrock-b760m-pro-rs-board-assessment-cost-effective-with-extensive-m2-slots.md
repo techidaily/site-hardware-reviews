@@ -1,7 +1,7 @@
 ---
 title: "ASROCK B760M PRO RS Board Assessment: Cost Effective with Extensive M.2 Slots"
-date: 2024-08-08 15:17:59
-updated: 2024-08-11 10:19:49
+date: 2024-08-10T04:59:12.972Z
+updated: 2024-08-11T04:59:12.972Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  Many thanks to[The PiHut](https://thepihut.com/products/hatdrive-nano-for-raspberry-pi-5) for supplying us with this review unit and a Pinedrive 2242 NVMe SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HatDrive! Nano Specifications
 
  Swipe to scroll horizontally
@@ -28,6 +31,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 | **Dimensions**     | 50 x 33 mm                        |
 | **Price**          | £9 ($10)                          |
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HatDrive! Nano Design
 
  Image 1 of 6
@@ -40,10 +46,16 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -101,6 +113,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  All that raw data leads us to the conclusion that the Pineboards HatDrive! Nano is the board that you need for your Raspberry Pi 5.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pineboards HatDrive! Nano and the official Raspberry Pi 5 Case
 
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/nzGEoukdwZcg3eTz9bSqfj-320-80.jpg)
@@ -111,10 +126,16 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  We tested using our usual CPU stress test script. First we tested with the case completely off. This returned an idle CPU temperature of 37.3 degrees Celsius, and a CPU stress temperature of 60.4°C. With the case on, those temperatures increased. At idle, we recorded 41.1°C, and under stress we saw 66.4°C. Both the no case and case stress temperatures triggered the active cooler’s fan to kick in, and we can report that it was not noisy. A light “whoosh” is all we could hear from 2 feet away.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who is the HatDrive! Nano for and what can they do with it?
 
  For $10, the Pineboards HatDrive! Nano is a no-brainer purchase. We can see this being used across the entire gamut of Raspberry Pi projects. The unobstructed GPIO and camera / display access means that we can build robots, retro gaming rigs and AI projects with very little hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/zZ56qNDy7bvZviMjPJ4uum-320-80.jpg)

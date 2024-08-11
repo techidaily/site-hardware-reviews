@@ -1,7 +1,7 @@
 ---
 title: Budget NVMe Overclocking Ready? Check Out the Premium UpHere M201 Heatsink at Only $5!
-date: 2024-08-09 14:28:35
-updated: 2024-08-11 12:27:34
+date: 2024-08-10T04:59:05.785Z
+updated: 2024-08-11T04:59:05.785Z
 tags:
   - review
 categories:
@@ -17,6 +17,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  The Q1 HE is a 75-percent wireless mechanical keyboard featuring Gateron 2.0 double-rail magnetic Nebula switches — linear magnetic Hall Effect switches with an actuation range of 0.5 - 3.8mm and a bottom-out force of 60g. It comes fully assembled in a solid aluminum chassis with a double gasket mounted hot-swappable PCB, double-shot PBT keycaps, and a programmable knob for $219\. You can also buy the barebones version — which comes with the knob but no keycaps or switches — for $20 less ($199). It's available now in carbon black (black case with white, black, and red keycaps) and shell white (white case with white, teal, and aqua keycaps).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Design and Construction of the Q1 HE
 
  The Q1 HE is a 75-percent gasket mount wireless mechanical keyboard with magnetic switches. At $219 fully-built, this keyboard is pricier than you might expect, especially as Keychron has made a name for itself by producing surprisingly well-priced mechanical keyboards. Keychron also makes the[Q1](https://www.tomshardware.com/reviews/keychron-q1-mechanical-keyboard) in a standard, non-magnetic-switch version, which costs $179 fully assembled. The 75 percent layout means that the Q1 HE comes with all alphanumeric keys, a full function row, and a handful of navigation keys — by default, the Q1 HE has PgUp, PgDn, and Home under its customizable rotary knob, but the keyboard comes with other navigation key keycaps that you can swap in if you decide to remap. It comes in both black and white colorways, each with a matching metal knob in the upper-right corner and matching keycaps in complementary colors.
@@ -29,6 +33,30 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -37,18 +65,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -61,20 +80,32 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  The Q1 HE comes with double-shot PBT keycaps with printed legends, in Keychron's OSA keycap profile. The keycaps have a smooth matte finish and feel thick and sturdy. The legends are crisp and clear, and several of the keys also feature secondary legends for things like switching between Bluetooth devices and media controls. There are no dedicated media controls on the Q1 HE aside from the clickable rotary knob, which controls volume/mute by default but is customizable via QMK/VIA. The knob is also metal, with textured sides and notches for precise control.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/3JkFtVcChgzQSnrzrmMwmE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -164,6 +195,18 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -180,10 +223,17 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

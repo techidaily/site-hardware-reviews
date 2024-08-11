@@ -1,7 +1,7 @@
 ---
 title: Navigating Advanced Computing Solutions on Tom'aturbans Hardware Platform
-date: 2024-08-09 16:24:41
-updated: 2024-08-11 12:10:32
+date: 2024-08-10T04:59:14.422Z
+updated: 2024-08-11T04:59:14.422Z
 tags:
   - review
 categories:
@@ -54,6 +54,9 @@ Today's best Flsun S1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Included in the box: FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/LPFJ3KGmcZ5HeseQS4KGUG-320-80.jpg)
@@ -64,6 +67,10 @@ Today's best Flsun S1 deals
 
  There’s a paper copy of the user manual, and the USB drive has a copy of the FLSun Slicer. Test models are loaded in the printer’s memory.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Assembling the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/YgcWh6SizZq9eMjJJiLhWF-320-80.jpg)
@@ -74,8 +81,14 @@ Today's best Flsun S1 deals
 
 _**Warning:**_   _The front door is packed in such a way that it appears attached. It is not. If you’re the kind to start ripping off packing material before reading the assembly directions, you’ll be in for a surprise._
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leveling the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/2Lo6bW3sD5FMhebQbfhNDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -84,6 +97,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  If you need to adjust the nozzle height for a pesky filament (like PETG), there’s a limited amount of z height available from the tuning screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Loading Filament in the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/giSkyrn7ELkiyeu3D6NCGH-320-80.jpg)
@@ -94,6 +110,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  I found it necessary to hold the spool in my left hand and feed the strand into the Bowden tube with my right. Once you reach the tool head (several feet of Bowden tube later), you can use the quick release on the tubing and shove the last few inches home.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/6uVVH587CGdVivw6RpzPoF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -121,6 +140,9 @@ gcode:
 
 ```
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
@@ -137,6 +159,9 @@ gcode:
 
  The spool holder is set inside a built-in filament drier. It can operate while the printer is running or idle, allowing you to prep filament before use or keep it dry during printing. There are no temperature settings for the dryer - just an on/off switch and a timer. A humidity gauge suggests how moist the chamber is but seems to be wildly inaccurate. At one point it said the humidity was 2%, while a separate hygrometer says it was 45%. The temperature is also off by a drastic amount, with the screen saying 54.8C, but it was 80.7F (26.6C) on my thermometer. **For the record, we want the dry box to be between 40 and 50C for PLA and up to 65C for PETG.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/pBQNrEvVLBprdnKTPb9QmG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -161,18 +186,28 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Bed adhesion at full speed is difficult for this printer, despite the nice PEI coating on its flexible plate. The manual advises using glue stick for all prints, but there is no reminder like you would see on the cool engineering plates of other brands. This is a hard lesson to learn, and forgetting is painful. I got a print wrapped around the nozzle so bad it traveled upward into the fan. This required replacing much of the tool head, and FLSun was kind enough to swap out the entire printer and let me try again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/WFJPhTdMRTpSwonyZvd8gF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  That said, the FLSun S1's hotend is amazing. The throat of the hotend is drilled out like a CHT nozzle to provide high flow, while the nozzle itself is a standard removable V6.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/ViY9GiNePwsbXQBuha26JG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
 ## Preparing Files / Software
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/hvpAGAoeK87qQaXFv6EJ4J-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -181,6 +216,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  A profile for OrcaSlicer has been released to the FLSun Wiki, which helps, but you still need to tone down the fan and filament flow. I set the part cooling fan to 85% and material flow to 0.9, making it more manageable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Printing on the FLSun S1
 
  Surface quality on the FLSun S1 is very smooth, but the included custom slicer does it no justice. My prints using FLSun’s slicer were terribly inaccurate, horribly over extruded and prone to fails. Switching to OrcaSlicer improved the quality, but I still had to tone down the flow to 0.9 in the filament profile.
@@ -195,6 +233,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1409861514390199065-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/cuuoG9jCU9WJGkAmhjJ7sG-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -223,6 +264,9 @@ _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Har
 
  I tested ABS (using[Polymaker Galaxy Orange ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-1-75mm-Printer-Resistant%2Fdp%2FB0BGX2D9NL%2Fref%3Dasc%5Fdf%5FB0BGX2D9NL%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D4581579599005625215%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2188700900836%26psc%3D1%26mcid%3Dff4e1492bb173aee8532f9c33faa6271%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1186572318444853215-20) ) for this RC car part with the custom slicer, and it was entirely too fast – causing poor layer adhesion. It also knocked over the tree supports each of the three times I tried this print. With a bit of tuning, I could make this work. I gave up and printed this part on the[QIDI Tech Q1](https://www.tomshardware.com/3d-printing/qidi-tech-q1-pro-review) since I needed it for MRRF and couldn’t waste more of my orange ABS.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/EhZ39Fe5XGF4KggC4mdk3H-320-80.jpg)
 
  (Image credit: Tom's Hardware)

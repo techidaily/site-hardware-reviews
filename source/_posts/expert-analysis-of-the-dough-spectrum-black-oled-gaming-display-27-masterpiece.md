@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of the Dough Spectrum Black OLED Gaming Display - 27 Masterpiece
-date: 2024-08-09 11:28:43
-updated: 2024-08-11 12:54:15
+date: 2024-08-10T04:59:18.249Z
+updated: 2024-08-11T04:59:18.249Z
 tags:
   - review
 categories:
@@ -64,6 +64,10 @@ __Power Specifications (Rated @ 50 °C)__
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## In the Box
 
  Image 1 of 2
@@ -72,6 +76,9 @@ __Power Specifications (Rated @ 50 °C)__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -82,6 +89,9 @@ __Power Specifications (Rated @ 50 °C)__
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://cdn.mos.cms.futurecdn.net/cscsr8idescMvHmxQXRTXK-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -102,10 +112,23 @@ __NZXT C1500 Platinum__
 | Molex          | \-        | 4       |
 | Floppy         | \-        | \-      |
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## External Appearance
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -114,10 +137,10 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
-![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -138,6 +161,9 @@ __NZXT C1500 Platinum__
 
  The front side of the NZXT C1500 Platinum PSU features the standard on/off switch, the IEC C20 AC cable receptacle, and an additional switch for the "Zero-Fan" feature. The switch allows users to disable the feature and force the fan to operate continuously regardless of the unit’s load or temperature but the speed of the fan will still be controlled by the unit’s thermal control circuitry, so it will be practically be running at minimum speed until the load is high enough to justify an airflow increase.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://cdn.mos.cms.futurecdn.net/gSmvNydZyCzRsPDATJrnpL-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -150,10 +176,16 @@ __NZXT C1500 Platinum__
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -166,6 +198,9 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -182,6 +217,9 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -198,6 +236,9 @@ __NZXT C1500 Platinum__
 
  It is a synchronous rectification setup and a total of sixteen Infineon 014N06NS MOSFETs are being used. The 3.3V and 5V rails are produced via DC-to-DC conversion on a vertical daughterboard. The capacitors on the secondary side, electrolytics and polymer alike, are all from reputable Japanese manufacturers (Rubycon, Nichicon, and Nippon Chemi-Con).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Cold Test Results
 
 ## Cold Test Results (25°C Ambient)
@@ -222,6 +263,14 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -246,6 +295,9 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -254,6 +306,9 @@ __NZXT C1500 Platinum__
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -262,8 +317,14 @@ __NZXT C1500 Platinum__
 
  When heavily stressed, the thermal control circuit seems to be designed so as to forgo acoustics performance in favor of reliability. The internal temperatures of the unit are remarkably low, especially when taking the massive 1.5 kW capacity into account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### PSU Quality and Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Power Supply Quality
 
  The electrical performance of the NZXT C1500 Platinum PSU, even after taking into account its class, can only be described as outstanding. The 12V rail maintains a tight regulation of 0.5%, while the 5V and 3.3V lines are well-regulated at 0.7% and 0.6% respectively.
@@ -298,6 +359,9 @@ __Main Output__
 
  The NZXT C1500 Platinum PSU stands out as a robust and high-performance power supply unit tailored for extreme gaming PCs and workstations. With its impressive power output of 1500 Watts, it comfortably supports the most demanding components currently on the market. The sleek design, featuring a smooth satin black finish and discreetly etched logos, as well as the unique square honeycomb fan guard, add a touch of elegance - but NZXT’s design focus clearly was not aesthetics. This PSU was designed with raw overall performance above everything else.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NZXT C1500](https://cdn.mos.cms.futurecdn.net/PeuXGJBvN7TwVv5viy9sqM-320-80.jpg)
 
  (Image credit: Tom's Hardware)

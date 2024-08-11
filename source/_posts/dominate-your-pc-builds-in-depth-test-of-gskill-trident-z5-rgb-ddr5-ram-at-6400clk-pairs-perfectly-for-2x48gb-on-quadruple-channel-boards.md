@@ -1,7 +1,7 @@
 ---
 title: "Dominate Your PC Builds: In-Depth Test of G.SKILL Trident Z5 RGB DDR5 RAM at 6400CLK, Pairs Perfectly for 2X48GB on Quadruple-Channel Boards"
-date: 2024-08-09 23:32:29
-updated: 2024-08-11 10:49:21
+date: 2024-08-10T04:59:08.185Z
+updated: 2024-08-11T04:59:08.185Z
 tags:
   - review
 categories:
@@ -33,14 +33,23 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -57,6 +66,16 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -65,10 +84,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -81,6 +99,10 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  In the box, the Q1 HE comes with a bundle of accessories, including extra keycaps for swapping out navigation keys and switching between PC/Mac modes, a dual keycap and switch puller, and a small kit for opening up and customizing the keyboard (screwdriver, hex key, extra gaskets, feet, and screws). It also comes with a 6-foot USB-C to USB-C cable (with a USB-C to USB-A converter on one end), a USB extender, and a small USB-A dongle that you'll need to connect to 2.4GHz wireless. There's nowhere on the keyboard to store the dongle, but as the case is just a solid chunk of aluminum, that's understandable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -126,6 +148,9 @@ Today's best Keychron Q1 deals
 
  It's worth noting that while the Q1 HE is hot-swappable, it's only compatible with similar magnetic switches — not_all_ magnetic switches (and no non-magnetic switches). The Q1 HE is not compatible with Gateron KS-37B switches (seen in the Meletrix Boog75, which is also hot-swappable but is, similarly, only compatible with select magnetic switches). KS-37B switches have a longer tube that penetrates the PCB, and the Q1 HE's PCB can't accommodate this. Keychron states that the Q1 HE is only compatible with other magnetic switches sold by Keychron. However, while the Gateron 2.0 Nebula/Dawn/Aurora switches are Keychron-exclusives, they look very close to Gateron KS-20U switches. So it's possible the Q1 HE is also compatible with those, but I don't have any KS-20Us on hand to test this theory.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/VRGcGtLcEcSgw9EymrUKoR-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -136,10 +161,16 @@ Today's best Keychron Q1 deals
 
  The Q1 HE also makes a great gaming keyboard — actually, I'm not sure why Keychron didn't release this under its gaming brand (Lemokey), considering magnetic Hall Effect switches are mainly advertised to gamers for their speed and features like Rapid Trigger. (Well, it's probably going to; the P1, which appears to be the Q1's equivalent, is[up for pre-order on Lemokey's site now](https://www.lemokey.com/products/lemokey-p1-qmk-via-custom-gaming-keyboard) .) Anyway, the Q1 HE offers the standard swath of magnetic switch features: wide range, precise adjustable actuation, multiple inputs on a single key, and Rapid Trigger. The switches have an actuation range of 0.5 - 3.8mm, with a sensitivity of 0.1mm, and each key's actuation can be set individually with Keychron's new web-based customization app, Keychron Launcher. The keyboard also offers low-latency 1,000 Hz polling rates over both wireless (2.4GHz) and wired connections.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Features and Software of the Q1 HE
 
  The Q1 HE offers three forms of connectivity: low-latency 2.4GHz wireless, Bluetooth 5.1, and wired (via USB-C). The 2.4GHz wireless connection was solid and consistent in my testing, and there was no noticeable difference in latency between it and the wired connection (as you might expect, there was noticeable lag over the Bluetooth connection). The keyboard has two switches on the back: one to switch between connection types and one to switch between PC and Mac modes. My only minor gripe was with the connection switch, which was trickier to quickly move into position than it should have been. (Luckily, speed-switching connections isn't one of my priorities.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -164,6 +195,9 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -184,12 +218,18 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  The Keychron Q1 HE QMK Wireless Custom keyboard is pretty impressive — even though every custom keyboard company seems to have a nearly identical offer._Nearly_ being the key word — the Q1 HE has the solid build and nice typing experience of the[Meletrix Boog75](https://www.tomshardware.com/peripherals/gaming-keyboards/meletrix-boog75-review) , the tri-mode connectivity of the[Akko MOD007B-HE PC](https://www.tomshardware.com/peripherals/keyboards/akko-mod007b-he-pc-review) , and the larger layout we wanted from the[Arbiter Studio Polar 65](https://www.tomshardware.com/peripherals/gaming-keyboards/arbiter-studio-polar-65-review) .

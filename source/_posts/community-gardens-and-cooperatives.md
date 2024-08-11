@@ -1,7 +1,7 @@
 ---
 title: Community Gardens and Cooperatives
-date: 2024-08-08 16:56:30
-updated: 2024-08-11 12:27:26
+date: 2024-08-10T04:59:02.650Z
+updated: 2024-08-11T04:59:02.650Z
 tags:
   - review
 categories:
@@ -28,10 +28,32 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 | **Dimensions**     | 50 x 33 mm                        |
 | **Price**          | £9 ($10)                          |
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HatDrive! Nano Design
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -40,6 +62,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -48,10 +73,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  (Image credit: Tom's Hardware)
 
-![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -64,6 +88,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  With the HatDrive! Nano you will have no problem creating projects that use the GPIO and camera / display ports. If your projects extend to AI and machine learning, then you can use the Pineboards HatDrive! Nano with NPUs such as the Hailo-8L (which comes in the[Raspberry Pi AI Kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-ai-kit-review) ) and the[Google](https://www.tomshardware.com/tag/google) Coral. Obviously you will need to boot from micro SD.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HatDrive! Nano Performance
 
  We’ve tested a bunch of NVMe HATs for the Raspberry Pi 5\. From the official[Raspberry Pi M.2 HAT+](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review) ,[Pineboard HatDrives](https://www.tomshardware.com/raspberry-pi/raspberry-pi-hats/pineberry-pi-hat-drive-review-use-nvme-ssds-with-your-pi) ,[Pimoroni’s NVMe Base](https://www.tomshardware.com/raspberry-pi/pimoroni-nvme-base-for-raspberry-pi-5-review) and[NVMe Base Duo](https://www.tomshardware.com/raspberry-pi/pimoroni-nvme-base-duo-review) to the[Argon ONE v3 M.2 NVMe](https://www.tomshardware.com/raspberry-pi/raspberry-pi-cases/argon-one-v3-m2-nvme-pcie-case-review) and the[Sunfounder Pironman 5](https://www.tomshardware.com/raspberry-pi/raspberry-pi-cases/sunfounder-pironman-5-review) . All of them use the same PCIe connection and that means we get similar performance. We set the Raspberry Pi 5 to use PCIe Gen 3\. This is easily configured via raspi-config.
@@ -80,6 +107,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  Our first test was a cold boot. From powering on to a usable desktop experience. The baseline is 21.28 seconds, using one of the best micro SD cards, an A1 rated Sandisk card. The Nano shaved 2.82 seconds from the boot time, coming in at 18.46 seconds. Not a great deal but every second helps. The Top came in at 19.12 seconds, 2.16 seconds faster than micro SD. The 0.66 time difference between the Nano and Top boot times is negligible enough to call it a dead heat.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/FQ4GVfDrLk29JCZMvo7bzV-320-80.png)
 
  (Image credit: Tom's Hardware)

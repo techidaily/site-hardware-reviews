@@ -1,7 +1,7 @@
 ---
 title: "Advanced Gadgetry with Tom: Navigating the World of Computer Hardware"
-date: 2024-08-10 13:13:41
-updated: 2024-08-11 12:17:46
+date: 2024-08-10T04:59:06.813Z
+updated: 2024-08-11T04:59:06.813Z
 tags:
   - review
 categories:
@@ -76,6 +76,9 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/W5Xh7aNnMVoW8VavwicPKn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -95,6 +98,9 @@ Included with the cooler are the following:
 * Extra 1g tube of thermal paste
 * Anime-themed cover
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/KGGRinKvZY5LWGjKoPxYF3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -107,6 +113,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  2\. Next, use the included tool to secure the mounting standoffs to the backplate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/H4LYKH8xGjyydZVUWNotXW-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -127,6 +136,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features of Valkyrie’s VIND SL125
 
 **▶ White and Blue Aesthetic**
@@ -153,12 +165,23 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  ▶**2x 120mm fans**
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/rNgBUKCQZ6a3CLrX7hNwNh-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/eKKK4EQN8ua6cSPXLo4UWX-320-80.jpg)
 
  _This picture shows a fan installed in an incorrect orientation. This was corrected prior to testing. See the section about the fans below for more details._  (Image credit: Tom's Hardware)
@@ -171,6 +194,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The fans include RGB strips cutting across the corners of each fan, providing an illuminating accent.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/7EgobT62mMqNaFPkAzkiwa-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -187,12 +213,18 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 | **Lighting**     | ARGB                |
 | **MFFT**         | 5 Year Warranty     |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever. Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My cooler testing is designed to emulate the conditions a user would actually experience when using a computer. Some reviewers test coolers using an open bench. I do not like this method, it reduces cooling difficulty. When you use a case, the internal temperature of that case will become higher than that of the room’s ambient temperature, increasing the saturation of the cooler and overall cooling difficulty. Testing outside of a case will give an advantage to weaker coolers, especially those with fans that aren’t very strong.
@@ -221,6 +253,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s an incredibly small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally

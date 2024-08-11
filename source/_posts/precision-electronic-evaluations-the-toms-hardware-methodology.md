@@ -1,7 +1,7 @@
 ---
 title: Precision Electronic Evaluations - The Tom's Hardware Methodology
-date: 2024-08-09 22:27:53
-updated: 2024-08-11 10:14:46
+date: 2024-08-10T04:59:07.818Z
+updated: 2024-08-11T04:59:07.818Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ If you’re looking for a reasonably-priced AM5 motherboard that stands out from
 
 * [Gigabyte B650 Aorus Elite AX Ice (White) at Amazon for $209.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CMJSH15D%2Fref%3Dasc%5Fdf%5FB0CMJSH15D1723230000000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB0CMJSH15D%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1123977987819164648-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Specifications of the Gigabyte B650 Aorus Elite AX Ice
 
  Swipe to scroll horizontally
@@ -117,6 +120,9 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Inside the Box of the Gigabyte B650 Aorus Elite AX Ice
 
  In the retail box are some accessories designed to help get you started. This includes two SATA cables, the Wi-Fi 6E antenna, the Q-Connector, and the installation guide. There’s not much to it, but that’s expected at this price point.
@@ -129,6 +135,9 @@ Show More Deals
 
  (Image credit: Gigabyte)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
@@ -157,6 +166,10 @@ Show More Deals
 
  The VRMs on the B650 Aorus Elite AX Ice are 16 total phases, with 12 dedicated to Vcore in a parallel design. Power feeds from the EPS connector(s) to the Richtek 10-channel, then travels out to the 12x On Semiconductor NCP302155 55A MOSFETs. By number, the 660A is paltry. However, it worked fine with our[Ryzen 9 7950X](https://www.tomshardware.com/reviews/amd-ryzen-9-7950x-ryzen-5-7600x-cpu-review) during testing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/NZvNGDFqE76o8XABgJoCj8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -181,6 +194,9 @@ Show More Deals
 * System fan header
 * System panel header
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/RhBiDaRXA8MwR4TVivdhp8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -257,6 +273,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

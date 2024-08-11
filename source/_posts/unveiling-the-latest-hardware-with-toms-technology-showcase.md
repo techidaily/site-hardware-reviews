@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Latest Hardware with Tom's Technology Showcase
-date: 2024-08-08 13:46:12
-updated: 2024-08-11 10:15:52
+date: 2024-08-10T04:59:02.153Z
+updated: 2024-08-11T04:59:02.153Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
   
  Keychron will launch its K2 HE models on Kickstarter first at a $5 discount starting today. Or you can wait for full production and pick one up from Keychron directly beginning in October, starting at $130.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the Keychron K2 HE
 
  Keychron sent us the Special Edition of the K2 HE in white, but the company will offer up multiple variants. The Special Edition versions will be offered in black or white ($135 via Kickstarter or $140 in October), with rounded OSA keycaps that aren't shine-through (limiting the RGB lighting that can escape between the keys), with metal top and bottom frame pieces, and solid-wood sides.
@@ -37,6 +40,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -65,6 +71,10 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  The stabilizers are of the screw-in variety, mounted on the PCB (a liberal amount of glue was also used on our review unit), and they keep the bigger keys from being wobbly. The smaller keys also feel smooth and stable, thanks to the two plastic rails of Gateron's Double-Rail switches, which seem to hold the top of the switch in place horizontally as you press it down.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/g4AzhTJRxtjARPKKwPgUFo-320-80.png)
 
  (Image credit: Gateron)
@@ -77,6 +87,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  It's good, though, that the Gateron switches in the K2 HE feel very nice. Because while the keyboard is hot-swappable, it's designed for magnetic switches — meaning it doesn't support the traditional mechanical switches that dominate the market. In fact, it's not even compatible with all of[Gateron's HE switches](https://www.gateron.com/collections/gateron-magnetic-switch) — only the dual-rail ones. As of this writing, the company has two dual-rail HE switches, and both are linear. It may be anathema to most serious gamers, but the clicky, tactile switch fan in me is sad that I can't drop something tactile and noisy into this otherwise excellent keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -99,6 +112,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 | **MSRP / Price at Time of Review** | $130 (Standard), $140 (Special)                     |
 | **Release Date**                   | Aug. 6, 2024                                        |
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Software for the Keychron K2 HE
 
  Apart from its pleasant switches and gorgeous aesthetics, I also found the software for the K2 HE refreshing. Instead of some bulky, confusing, crash-prone program that's designed to work with 100 products (and generally leads to 100 or so curses), Keychron uses a web app ([https://launcher.keychron.com/](https://launcher.keychron.com/) ) for the K2 HE, which is where you'll assign keys, control the RGB lighting, record macros, and adjust and assign things to the magnetic switches.
@@ -107,6 +123,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -115,6 +134,11 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -127,6 +151,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  There are some limitations, though. At one point I had the idea of trying to map a light press of the PgUp button to volume up and a full press to volume down. But it turns out that while you can pretty easily assign different actions to different actuation levels on the same key, the feature appears to be limited to controls from standard buttons or macros, and doesn't work with media controls.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/QeyYZKAL36HYc7K8xLC38E-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -135,6 +162,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Note that, at least on the Special Edition models, the RGB glow is held back by the solid keycaps. If lighting is important to you, you might want to consider the Standard Edition model, which uses shine-through caps to give it a more traditional gaming keyboard look.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Gaming and typing on the Keychron K2 HE
 
  I do a fair bit of PC gaming, but I stick mostly to strategy games and single-player FPS titles, so I'm not the best person to take full advantage of the K2 HE's magnetic switches. Still, I used the keyboard during several rounds of_Dome Keeper_ and_Cataclismo_ , and found it an excellent companion that felt comfortable and familiar. That's likely in part because I used the original Keychron K2 as my daily driver for a couple of years, and 75-percent layouts are my favorite for both gaming and typing. But again, both in terms of switch feel and typing sound, this is the nicest 75-percenter I've used. I also like Corsair's K65 Plus Wireless, but the K2 HE just sounds and feels more substantial (and, yes, thocky). The Corsair keyboard also had more wobble on their stabilizers, but the difference there isn't drastic. I mainly found myself missing the nice metal knob on the K65.  

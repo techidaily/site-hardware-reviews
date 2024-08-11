@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis & Buying Guides for All Things Electronics - Tom's Hardware
-date: 2024-08-09 16:31:56
-updated: 2024-08-11 10:23:47
+date: 2024-08-10T04:59:07.465Z
+updated: 2024-08-11T04:59:07.465Z
 tags:
   - review
 categories:
@@ -52,6 +52,9 @@ Today's best Sovol SV08 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sovol SVO8: Included in the Box
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/2Kj96rd2wLjJU7qMANp7DB-320-80.jpg)
@@ -64,6 +67,9 @@ Today's best Sovol SV08 deals
 
 ## Design of the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/gKUZQXAVSSZto5QxAPnqCJ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -72,8 +78,19 @@ Today's best Sovol SV08 deals
 
  There are holes and slots left open for adding an enclosure later, but these are discrete, and don’t mar the overall look of the printers. The branding is a low-key “Sovol” printed on the top bar. It comes with a few premium features, like a hidden LED light and an easy-to-access side mounted spool holder.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Sovol SV08 has a hard mounted bed that doesn’t move and a “flying gantry” for the X and Y axis taken from the Voron 2.4 design. Four motors on each corner of the gantry, combined with an inductive probe, allow it to “quad level” for a perfect first layer. The axes are belt driven for buttery smooth layers. The hotend is beefy, with an all-in-one nozzle, massive cooling fan and convenient daughter board for the electronics. ![](https://lh7-us.googleusercontent.com/ETI0kxGpFe0Pq5i2NlKaQjtUyvBAgFsEfah-HX7jVhDamOYluyOmDBjZBLM6OJc6l9dl9tPqRjID2vqiVEHXQwBrp9yOBBKW8AMceQ3Xnd28xV3X-zuK0UrjFKS742mk-plCNAAcbK6KAAPxEqmRxWU)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/5QupcmztKidnzxgayGdzfB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -88,6 +105,9 @@ Today's best Sovol SV08 deals
 
  The PEI bed wasn’t sticky enough to hold several of my high speed prints, but a little glue stick helped keep things in place.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Assembling the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/aLRXpJR2bSGK5eQGJunFLG-320-80.png)
@@ -98,6 +118,9 @@ Today's best Sovol SV08 deals
 
  You’ll need to flip the power supply switch to match your main household electric, which is 115V in the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Leveling the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/Shpc6yMtKYbKsLxoywRFpB-320-80.jpg)
@@ -106,12 +129,18 @@ Today's best Sovol SV08 deals
 
  The Sovol SVO8 has both inductive and pressure sensors installed and performs a throughout leveling routine that can adjust the four corners of the flying gantry and then perform a mesh bed level to compensate for any issues. The machine wipes off the nozzle on a rubber brush on the back before tapping the bed to find the correct Z offset. The offset can be easily adjusted from the control menu if you need to raise or lower it for different materials.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Loading Filament on the Sovol SVO8
 
  To load filament, trim the filament to a point and push it through the Bowden tube near the spool holder all the way to the tool head. Give it an extra nudge until it can’t go any further. Select the load (or unload) routine on the menu, and the machine handles the rest.
 
 ## Preparing Files / Software for Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/MnFfT8JZGvqGvYjvBG5hGC-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -126,12 +155,18 @@ Today's best Sovol SV08 deals
 
  This boat is a little rough, but the shape is well-defined with no signs of ringing. This is one of the best speed boats I’ve printed. Remember – when racing a 3D Printer, it's more about printing a “Benchy Shaped Object” than real quality. This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1072543316197855840-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/rPKKXN6cPpVv33oLgMhmXB-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  I also sliced the Maker’s Muse Calibration Castle using a roll of Printed Solid[Jessie Premium Blood Red Light Glitter PLA.](https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blood-red) At first glance, the Castle looked very good, with decent layers and excellent bridging. However, it was locked up tight from over extrusion, which didn’t allow the tower puzzle to twist or the gate to lift off. A bit of tinkering with the printer’s profile will solve this problem, but it’s disappointing that the manufacturer’s default settings were lacking. This printed in one hour and 37 minutes, using a .2mm layer height and a speed setting of 200 mm/s.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/ZePeBYmcZHXcvTzwR2AA3B-320-80.jpg)
 
 _Maker’s Muse_ [_Clearance Castle_](https://www.makersmuse.com/clearance-castle)  (Image credit: Tom's Hardware)
@@ -156,6 +191,9 @@ _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase
 
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/WDwDhzjXGG9Efica5fmRrK-320-80.png)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)

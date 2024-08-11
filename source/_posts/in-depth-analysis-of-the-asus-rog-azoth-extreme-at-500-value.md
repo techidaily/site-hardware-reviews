@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Asus ROG Azoth Extreme at $500 Value
-date: 2024-08-08 14:33:47
-updated: 2024-08-11 12:13:16
+date: 2024-08-10T04:59:13.603Z
+updated: 2024-08-11T04:59:13.603Z
 tags:
   - review
 categories:
@@ -42,6 +42,9 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -62,10 +65,16 @@ Included in the box are the following:
 * Frost X45 Thermal Paste
 * Cable management clips
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -106,6 +115,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -134,16 +146,25 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included are three plastic cable management clips to keep the AIO’s tubing tidy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.

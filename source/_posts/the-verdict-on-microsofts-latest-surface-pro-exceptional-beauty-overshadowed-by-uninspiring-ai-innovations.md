@@ -1,7 +1,7 @@
 ---
 title: "The Verdict on Microsoft's Latest Surface Pro: Exceptional Beauty Overshadowed by Uninspiring AI Innovations"
-date: 2024-08-08 19:43:18
-updated: 2024-08-11 11:16:13
+date: 2024-08-10T04:59:12.666Z
+updated: 2024-08-11T04:59:12.666Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ If you’re looking for a reasonably-priced AM5 motherboard that stands out from
 
 * [Gigabyte B650 Aorus Elite AX Ice (White) at Amazon for $209.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CMJSH15D%2Fref%3Dasc%5Fdf%5FB0CMJSH15D1723230000000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB0CMJSH15D%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1123977987819164648-20)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications of the Gigabyte B650 Aorus Elite AX Ice
 
  Swipe to scroll horizontally
@@ -125,10 +128,16 @@ Show More Deals
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
@@ -137,6 +146,9 @@ Show More Deals
 
  If you want on-board RGB lighting, you’re in luck with one zone located below the chipset heatsink. Control over this and any attached devices is handled through the Gigabyte Control Center (GCC) and the RGB Fusion integrated application. Overall, we like the ‘icy’ board look, and it should blend in with most build themes, but it looks really terrific in white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/ng9mFf9Apw7yDxEnxqenA8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -181,6 +193,9 @@ Show More Deals
 * System fan header
 * System panel header
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/RhBiDaRXA8MwR4TVivdhp8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -257,6 +272,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

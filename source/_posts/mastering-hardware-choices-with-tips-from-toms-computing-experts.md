@@ -1,7 +1,7 @@
 ---
 title: Mastering Hardware Choices with Tips From Tom's Computing Experts
-date: 2024-08-08 13:41:50
-updated: 2024-08-11 12:15:26
+date: 2024-08-10T04:59:09.751Z
+updated: 2024-08-11T04:59:09.751Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ If you’re looking for a reasonably-priced AM5 motherboard that stands out from
 
 * [Gigabyte B650 Aorus Elite AX Ice (White) at Amazon for $209.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CMJSH15D%2Fref%3Dasc%5Fdf%5FB0CMJSH15D1723230000000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB0CMJSH15D%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1123977987819164648-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Specifications of the Gigabyte B650 Aorus Elite AX Ice
 
  Swipe to scroll horizontally
@@ -117,6 +120,9 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Inside the Box of the Gigabyte B650 Aorus Elite AX Ice
 
  In the retail box are some accessories designed to help get you started. This includes two SATA cables, the Wi-Fi 6E antenna, the Q-Connector, and the installation guide. There’s not much to it, but that’s expected at this price point.
@@ -129,6 +135,9 @@ Show More Deals
 
  (Image credit: Gigabyte)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
@@ -137,6 +146,9 @@ Show More Deals
 
  If you want on-board RGB lighting, you’re in luck with one zone located below the chipset heatsink. Control over this and any attached devices is handled through the Gigabyte Control Center (GCC) and the RGB Fusion integrated application. Overall, we like the ‘icy’ board look, and it should blend in with most build themes, but it looks really terrific in white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/ng9mFf9Apw7yDxEnxqenA8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -157,6 +169,9 @@ Show More Deals
 
  The VRMs on the B650 Aorus Elite AX Ice are 16 total phases, with 12 dedicated to Vcore in a parallel design. Power feeds from the EPS connector(s) to the Richtek 10-channel, then travels out to the 12x On Semiconductor NCP302155 55A MOSFETs. By number, the 660A is paltry. However, it worked fine with our[Ryzen 9 7950X](https://www.tomshardware.com/reviews/amd-ryzen-9-7950x-ryzen-5-7600x-cpu-review) during testing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/NZvNGDFqE76o8XABgJoCj8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -257,6 +272,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

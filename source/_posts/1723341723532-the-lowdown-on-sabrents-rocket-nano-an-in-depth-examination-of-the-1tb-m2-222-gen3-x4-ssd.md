@@ -1,7 +1,7 @@
 ---
 title: The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD.
-date: 2024-08-09 17:30:17
-updated: 2024-08-11 11:45:11
+date: 2024-08-10T04:59:18.438Z
+updated: 2024-08-11T04:59:18.438Z
 tags:
   - review
 categories:
@@ -125,10 +125,21 @@ Show More Deals
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
@@ -137,6 +148,9 @@ Show More Deals
 
  If you want on-board RGB lighting, you’re in luck with one zone located below the chipset heatsink. Control over this and any attached devices is handled through the Gigabyte Control Center (GCC) and the RGB Fusion integrated application. Overall, we like the ‘icy’ board look, and it should blend in with most build themes, but it looks really terrific in white chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/ng9mFf9Apw7yDxEnxqenA8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -157,6 +171,9 @@ Show More Deals
 
  The VRMs on the B650 Aorus Elite AX Ice are 16 total phases, with 12 dedicated to Vcore in a parallel design. Power feeds from the EPS connector(s) to the Richtek 10-channel, then travels out to the 12x On Semiconductor NCP302155 55A MOSFETs. By number, the 660A is paltry. However, it worked fine with our[Ryzen 9 7950X](https://www.tomshardware.com/reviews/amd-ryzen-9-7950x-ryzen-5-7600x-cpu-review) during testing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/NZvNGDFqE76o8XABgJoCj8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -181,6 +198,9 @@ Show More Deals
 * System fan header
 * System panel header
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/RhBiDaRXA8MwR4TVivdhp8-320-80.jpg)
 
  (Image credit: Gigabyte)
@@ -257,6 +277,10 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

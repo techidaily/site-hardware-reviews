@@ -1,7 +1,7 @@
 ---
 title: Explore Computer Gear with Tom - Your Ultimate Guide on Tom's Hardware
-date: 2024-08-10 21:33:44
-updated: 2024-08-11 10:21:48
+date: 2024-08-10T04:59:17.177Z
+updated: 2024-08-11T04:59:17.177Z
 tags:
   - review
 categories:
@@ -23,6 +23,9 @@ The Sovol SVO8 is probably the best “Voron lite” printer we’ve seen to dat
 
  Retailing at $599, and currently on sale[for $579](<https://shareasale.com/r.cfm?b=2145980&u=4338022&m=131011&afftrack=techidaily&urllink=https%3A%2F%2Fship7com.pxf.io%2F0zwaz3>) , the Sovol SVO8 is a great machine for anyone who wants a big, fast, single-color machine with the freedom to print without needing to send files over the Cloud. It’s open source, which means you’re also able to upgrade and mod the printer as you see fit.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications: Sovol SVO8
 
  Swipe to scroll horizontally
@@ -54,6 +57,9 @@ Today's best Sovol SV08 deals
 
 ## Sovol SVO8: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/2Kj96rd2wLjJU7qMANp7DB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -72,8 +78,14 @@ Today's best Sovol SV08 deals
 
  There are holes and slots left open for adding an enclosure later, but these are discrete, and don’t mar the overall look of the printers. The branding is a low-key “Sovol” printed on the top bar. It comes with a few premium features, like a hidden LED light and an easy-to-access side mounted spool holder.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Sovol SV08 has a hard mounted bed that doesn’t move and a “flying gantry” for the X and Y axis taken from the Voron 2.4 design. Four motors on each corner of the gantry, combined with an inductive probe, allow it to “quad level” for a perfect first layer. The axes are belt driven for buttery smooth layers. The hotend is beefy, with an all-in-one nozzle, massive cooling fan and convenient daughter board for the electronics. ![](https://lh7-us.googleusercontent.com/ETI0kxGpFe0Pq5i2NlKaQjtUyvBAgFsEfah-HX7jVhDamOYluyOmDBjZBLM6OJc6l9dl9tPqRjID2vqiVEHXQwBrp9yOBBKW8AMceQ3Xnd28xV3X-zuK0UrjFKS742mk-plCNAAcbK6KAAPxEqmRxWU)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/5QupcmztKidnzxgayGdzfB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -88,6 +100,9 @@ Today's best Sovol SV08 deals
 
  The PEI bed wasn’t sticky enough to hold several of my high speed prints, but a little glue stick helped keep things in place.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Assembling the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/aLRXpJR2bSGK5eQGJunFLG-320-80.png)
@@ -106,12 +121,21 @@ Today's best Sovol SV08 deals
 
  The Sovol SVO8 has both inductive and pressure sensors installed and performs a throughout leveling routine that can adjust the four corners of the flying gantry and then perform a mesh bed level to compensate for any issues. The machine wipes off the nozzle on a rubber brush on the back before tapping the bed to find the correct Z offset. The offset can be easily adjusted from the control menu if you need to raise or lower it for different materials.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Loading Filament on the Sovol SVO8
 
  To load filament, trim the filament to a point and push it through the Bowden tube near the spool holder all the way to the tool head. Give it an extra nudge until it can’t go any further. Select the load (or unload) routine on the menu, and the machine handles the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Preparing Files / Software for Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/MnFfT8JZGvqGvYjvBG5hGC-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -132,18 +156,27 @@ Today's best Sovol SV08 deals
 
  I also sliced the Maker’s Muse Calibration Castle using a roll of Printed Solid[Jessie Premium Blood Red Light Glitter PLA.](https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blood-red) At first glance, the Castle looked very good, with decent layers and excellent bridging. However, it was locked up tight from over extrusion, which didn’t allow the tower puzzle to twist or the gate to lift off. A bit of tinkering with the printer’s profile will solve this problem, but it’s disappointing that the manufacturer’s default settings were lacking. This printed in one hour and 37 minutes, using a .2mm layer height and a speed setting of 200 mm/s.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/ZePeBYmcZHXcvTzwR2AA3B-320-80.jpg)
 
 _Maker’s Muse_ [_Clearance Castle_](https://www.makersmuse.com/clearance-castle)  (Image credit: Tom's Hardware)
 
  I needed a big, showy print for the SV08’s feature photo, so I decided to make one. Bambu Lab has been releasing a series of tools on its website MakerWorld to let users craft their own models and download them as either .3mf or .stl files. The program lets you start from a template and then push the nodes around until you get a desirable shape. This 300mm tall vase – printed in “vase mode” – only took two hours and 3 minutes to print using a .28mm layer height and a slightly chonky .5 layer width. It’s stunning and smooth, printed in[Polymaker’s Dual Color Silk in Purple and Gold.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-Gold-Purple-Printer-Dichromatic%2Fdp%2FB0BF56GLZ7%2Fref%3Dasc%5Fdf%5FB0BF56GLZ7%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8714266725847440180%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-1944052919189%26psc%3D1%26mcid%3De9538a114a993beb8ce1d2042992f7e4%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1175129393775174912-20)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/JonoSoSEj352MkufF5DNpA-320-80.jpg)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)
 
  I needed an ant moat for my hummingbird feeder, and a quick search of Thingiverse found this one. I stretched the center pillar just a little higher, and printed it in[Prusament Carmine Red PETG](https://www.prusa3d.com/product/prusament-petg-carmine-red-transparent-1kg/?country=US&currency=usd&gad%5Fsource=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8qMjgDIiCAq3GDsLJdbA9eLGKFjDPaQQPH4xW4G7w823yHHGlm9r9UaAme5EALw%5FwcB) . It’s a little stringy, but the layers are nice and smooth. It printed in one hour and 32 minutes, with a .28mm layer height and default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/CmdHW7cV3hNixvVbVBuD2C-320-80.jpg)
 
 [_Ant Moat_](https://www.thingiverse.com/thing:2945093) _by Wkarraker_  (Image credit: Tom's Hardware)

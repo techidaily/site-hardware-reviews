@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Hub: Advanced Hardware Insights"
-date: 2024-08-08 19:41:25
-updated: 2024-08-11 11:52:55
+date: 2024-08-10T04:59:02.902Z
+updated: 2024-08-11T04:59:02.902Z
 tags:
   - review
 categories:
@@ -17,8 +17,14 @@ There seems to be an ever flowing stream of Raspberry Pi 5 cases since the launc
 
 How does it perform? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pironman 5… Assemble
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/EpRGoTgvmYX6GyRiDoVSie-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -29,6 +35,9 @@ How does it perform? Let's find out!
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -45,6 +54,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -73,6 +85,9 @@ How does it perform? Let's find out!
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -99,6 +114,9 @@ How does it perform? Let's find out!
 
  Essentially, we now have a tiny Arm powered desktop computer that looks like one of the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) has been hit by a shrink-ray. As a desktop PC look-alike, Pironman 5 works really well. All of the ports are routed to the back, leaving a clean front panel. There is a micro SD card slot on the front panel, which can be used to boot the Raspberry Pi 5 or for additional storage.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/o6oN6jNZqWqzycvc7Fkh5i-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +129,9 @@ How does it perform? Let's find out!
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pironman5](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -123,6 +144,9 @@ How does it perform? Let's find out!
 
  Our office is one floor above our 5 GHz Wi-Fi router, and we saw a maximum of 490 Kbits/s. That isn’t a typo, it was really that slow. We moved Pironman 5 so that it was next to our router and repeated the test. This gave us the best performance of 88.6 Mbits/s, a tenth of the bandwidth provided by Ethernet, but many times more than what we saw in the office. For comparison, we performed the same test on a Raspberry Pi 5 with no cooling, and saw 65.7 Mbits/s in our office. So the case does interfere with Wi-Fi, but only if you are some distance from the router.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Keeping Cool with Pironman
 
  Image 1 of 2
@@ -153,6 +177,9 @@ How does it perform? Let's find out!
 
  Let's take a look at the stock temperatures for the default Cool fan setting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/BWCAV7siqBuiCVpnB2tszZ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -161,6 +188,9 @@ How does it perform? Let's find out!
 
  Fan noise was negligible, as only the CPU fan came on. Repeating the test with the RGB fans running constantly, the Raspberry Pi 5 was 30.7°C at idle, 5.5°C cooler than the “Cool” setting. Under stress the CPU hit 46.1°C, 9.9°C cooler than the default cool setting. The price of this extra cooling power is that the fans are always on, but they are not obnoxious. They didn’t interfere with my day to day work.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/oyiSWKMFo88Ux26Ygmsu7a-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -181,12 +211,18 @@ How does it perform? Let's find out!
 
  There's not a lot between the two cases when it comes to temperatures for stock CPU speeds, a mere 2.8°C. But when overclocked, the Pironman 5 drops the idle temperature 6.6°C below what the Argon can achieve. But a whopping 19.2°C difference sees the Pironman 5 keep the Raspberry Pi 5 frosty under a heavy load.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Who is Pironman 5 for?
 
  It may look like a mini gaming PC but the Raspberry Pi 5 is not built for triple-A games. So what can we do with the Pironman 5 and our Pi? As a desktop PC, Pironman 5 looks the part and we’d totally be happy with this setup for an office PC or for our kids to learn with.
 
  If you are keen to push your Raspberry Pi 5 to the max, then the great cooling on offer means that the Pironman 5 will do the job. With NVMe on offer we have fast and plentiful storage, so the Pironman 5 could be a compact file server hidden in your home.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Pironman5](https://cdn.mos.cms.futurecdn.net/kwk6PwghnRvCVrHAxTxcVh-320-80.jpg)

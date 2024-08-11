@@ -1,7 +1,7 @@
 ---
 title: Biodiversity
-date: 2024-08-10 18:12:57
-updated: 2024-08-11 11:12:13
+date: 2024-08-10T04:59:12.135Z
+updated: 2024-08-11T04:59:12.135Z
 tags:
   - review
 categories:
@@ -56,6 +56,9 @@ Today's best Flsun S1 deals
 
 ## Included in the box: FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/LPFJ3KGmcZ5HeseQS4KGUG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -74,8 +77,14 @@ Today's best Flsun S1 deals
 
 _**Warning:**_   _The front door is packed in such a way that it appears attached. It is not. If you’re the kind to start ripping off packing material before reading the assembly directions, you’ll be in for a surprise._
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leveling the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/2Lo6bW3sD5FMhebQbfhNDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -84,8 +93,14 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  If you need to adjust the nozzle height for a pesky filament (like PETG), there’s a limited amount of z height available from the tuning screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Loading Filament in the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/giSkyrn7ELkiyeu3D6NCGH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -94,6 +109,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  I found it necessary to hold the spool in my left hand and feed the strand into the Bowden tube with my right. Once you reach the tool head (several feet of Bowden tube later), you can use the quick release on the tubing and shove the last few inches home.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/6uVVH587CGdVivw6RpzPoF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -123,6 +141,9 @@ gcode:
 
 ## Design of the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -145,6 +166,9 @@ gcode:
 
  The FLSun runs Klipper with a vanilla Mainsail interface. It comes with a camera mounted inside, so there’s no fuss getting monitoring set up. The camera can also take timelapse videos, but it only saves one at a time. It has a fish eye lens to fit its enormous build volume inside the frame.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/wXirovsaesBtiisfK9mEKJ-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -161,6 +185,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Bed adhesion at full speed is difficult for this printer, despite the nice PEI coating on its flexible plate. The manual advises using glue stick for all prints, but there is no reminder like you would see on the cool engineering plates of other brands. This is a hard lesson to learn, and forgetting is painful. I got a print wrapped around the nozzle so bad it traveled upward into the fan. This required replacing much of the tool head, and FLSun was kind enough to swap out the entire printer and let me try again.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/WFJPhTdMRTpSwonyZvd8gF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -171,8 +198,14 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Preparing Files / Software
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/hvpAGAoeK87qQaXFv6EJ4J-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -195,6 +228,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1409861514390199065-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/cuuoG9jCU9WJGkAmhjJ7sG-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -217,6 +253,9 @@ _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Har
 
  It did surprisingly well on TPU once I slowed it down a bit. Running the filament through the secondary access point is highly recommended, as that bypasses several feet of Bowden tube. I made this bone shaped dog toy in TinkerCad that turned out with nice smooth layers and a good top finish. I used the[Inland Rainbow TPU](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FFilament-Rainbow-Flexible-Dimensional-Accuracy%2Fdp%2FB0C2DFRCPX%2Fref%3Dasc%5Fdf%5FB0C2DFRCPX%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8183781020254036200%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2199389479420%26psc%3D1%26mcid%3D1cd30c2667c03e859205a224012f7160%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1024134569316423388-20) and it printed in 52 minutes at 0.2 layer height and 60mm/s speed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/7tbozd2kd3xUDz3T6V8gQH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -227,6 +266,9 @@ _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Har
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The FLSun S1 is a frustrating hunk of machinery that’s so close to wonderful and yet so far from it. No one should pay $1,500 for a machine that needs this much tuning to perform well. The plus side is it runs vanilla Klipper firmware and can be switched to OrcaSlicer for those who don’t mind an expensive tinkering project.

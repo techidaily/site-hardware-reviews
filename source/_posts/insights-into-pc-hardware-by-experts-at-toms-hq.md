@@ -1,7 +1,7 @@
 ---
 title: Insights Into PC Hardware by Experts at Tom's HQ
-date: 2024-08-09 18:36:33
-updated: 2024-08-11 12:19:11
+date: 2024-08-10T04:59:13.551Z
+updated: 2024-08-11T04:59:13.551Z
 tags:
   - review
 categories:
@@ -66,6 +66,9 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  The packaging of this cooler is extremely fancy, unlike any other air cooler I’ve tested previously.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/V37TBWGVkFoWWc5JB8mase-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -95,10 +98,25 @@ Included with the cooler are the following:
 * Extra 1g tube of thermal paste
 * Anime-themed cover
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/KGGRinKvZY5LWGjKoPxYF3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LGA 1700 Installation
 
 Installing the Valkyrie Vind SL125n is fairly straightforward.
@@ -139,6 +157,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The Vind SL125 has six heatpipes connected to the CPU plate. It also features pre-applied thermal paste to make installation easier.If you need more paste, Valkyrie also includes a 1g tube for backup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/CcfpdaPDi6NdnCNxPQvYyT-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -153,18 +174,28 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  ▶**2x 120mm fans**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/rNgBUKCQZ6a3CLrX7hNwNh-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/eKKK4EQN8ua6cSPXLo4UWX-320-80.jpg)
 
  _This picture shows a fan installed in an incorrect orientation. This was corrected prior to testing. See the section about the fans below for more details._  (Image credit: Tom's Hardware)
 
  You’ll need to be careful when installing the fans. If you look carefully, you’ll see the blades are shaped differently. Each fan pulls in a different direction, making it easy to install the fans incorrectly. The cooler will lose 10-20% of its cooling capability if this happens. An easy way to verify if you have installed the fans in the correct orientation is by looking at the Valkyrie logos – they should be facing each other, as shown in the picture below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/dF2v4AGLejcAMd8FyEDKXb-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -193,6 +224,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever. Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My cooler testing is designed to emulate the conditions a user would actually experience when using a computer. Some reviewers test coolers using an open bench. I do not like this method, it reduces cooling difficulty. When you use a case, the internal temperature of that case will become higher than that of the room’s ambient temperature, increasing the saturation of the cooler and overall cooling difficulty. Testing outside of a case will give an advantage to weaker coolers, especially those with fans that aren’t very strong.
@@ -221,6 +255,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s an incredibly small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -267,6 +304,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

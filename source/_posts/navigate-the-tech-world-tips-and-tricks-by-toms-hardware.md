@@ -1,7 +1,7 @@
 ---
 title: "Navigate the Tech World: Tips & Tricks by Tom's Hardware"
-date: 2024-08-10 13:10:55
-updated: 2024-08-11 10:28:12
+date: 2024-08-10T04:59:04.088Z
+updated: 2024-08-11T04:59:04.088Z
 tags:
   - review
 categories:
@@ -41,6 +41,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -59,6 +62,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  There is technically one more button, which I discovered while taking a look at the stabilizers. Clearly a bit of foam has been cut away to provide access to a reset switch, which you might need should the keyboard ever lock up or otherwise become unstable. But in my time testing it, our review unit never had any performance issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/dCpWVC8XkTUzH77B74jkQH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -107,18 +113,39 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -127,6 +154,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  There are some limitations, though. At one point I had the idea of trying to map a light press of the PgUp button to volume up and a full press to volume down. But it turns out that while you can pretty easily assign different actions to different actuation levels on the same key, the feature appears to be limited to controls from standard buttons or macros, and doesn't work with media controls.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/QeyYZKAL36HYc7K8xLC38E-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -135,6 +165,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
  Note that, at least on the Special Edition models, the RGB glow is held back by the solid keycaps. If lighting is important to you, you might want to consider the Standard Edition model, which uses shine-through caps to give it a more traditional gaming keyboard look.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gaming and typing on the Keychron K2 HE
 
  I do a fair bit of PC gaming, but I stick mostly to strategy games and single-player FPS titles, so I'm not the best person to take full advantage of the K2 HE's magnetic switches. Still, I used the keyboard during several rounds of_Dome Keeper_ and_Cataclismo_ , and found it an excellent companion that felt comfortable and familiar. That's likely in part because I used the original Keychron K2 as my daily driver for a couple of years, and 75-percent layouts are my favorite for both gaming and typing. But again, both in terms of switch feel and typing sound, this is the nicest 75-percenter I've used. I also like Corsair's K65 Plus Wireless, but the K2 HE just sounds and feels more substantial (and, yes, thocky). The Corsair keyboard also had more wobble on their stabilizers, but the difference there isn't drastic. I mainly found myself missing the nice metal knob on the K65.  
@@ -145,6 +178,9 @@ After years of aggressive styling and RGB everything, peripheral and component c
 
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron K2 HE](https://cdn.mos.cms.futurecdn.net/3hG4tZeGHrmzHr4HVvfATG-320-80.jpg)
 
  (Image credit: Tom's Hardware)

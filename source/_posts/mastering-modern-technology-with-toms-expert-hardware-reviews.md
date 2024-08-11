@@ -1,7 +1,7 @@
 ---
 title: Mastering Modern Technology with Tom's Expert Hardware Reviews
-date: 2024-08-09 14:37:49
-updated: 2024-08-11 12:28:38
+date: 2024-08-10T04:59:06.133Z
+updated: 2024-08-11T04:59:06.133Z
 tags:
   - review
 categories:
@@ -52,6 +52,9 @@ Today's best Sovol SV08 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sovol SVO8: Included in the Box
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/2Kj96rd2wLjJU7qMANp7DB-320-80.jpg)
@@ -74,6 +77,9 @@ Today's best Sovol SV08 deals
 
  The Sovol SV08 has a hard mounted bed that doesn’t move and a “flying gantry” for the X and Y axis taken from the Voron 2.4 design. Four motors on each corner of the gantry, combined with an inductive probe, allow it to “quad level” for a perfect first layer. The axes are belt driven for buttery smooth layers. The hotend is beefy, with an all-in-one nozzle, massive cooling fan and convenient daughter board for the electronics. ![](https://lh7-us.googleusercontent.com/ETI0kxGpFe0Pq5i2NlKaQjtUyvBAgFsEfah-HX7jVhDamOYluyOmDBjZBLM6OJc6l9dl9tPqRjID2vqiVEHXQwBrp9yOBBKW8AMceQ3Xnd28xV3X-zuK0UrjFKS742mk-plCNAAcbK6KAAPxEqmRxWU)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/5QupcmztKidnzxgayGdzfB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -98,8 +104,14 @@ Today's best Sovol SV08 deals
 
  You’ll need to flip the power supply switch to match your main household electric, which is 115V in the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leveling the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/Shpc6yMtKYbKsLxoywRFpB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -110,6 +122,9 @@ Today's best Sovol SV08 deals
 
  To load filament, trim the filament to a point and push it through the Bowden tube near the spool holder all the way to the tool head. Give it an extra nudge until it can’t go any further. Select the load (or unload) routine on the menu, and the machine handles the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Preparing Files / Software for Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/MnFfT8JZGvqGvYjvBG5hGC-320-80.png)
@@ -118,6 +133,9 @@ Today's best Sovol SV08 deals
 
  The Sovol SVO8 comes with a copy of Orca Slicer with a preset for the SV08 baked in. Because the printer follows the Voron 2.4 blueprints, you can also use Cura or PrusaSlicer and the default Voron settings. I found the settings on all three slicers to be extremely conservative, so you may want to do a little experimenting to reach faster print times.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Printing on the Sovol SVO8
 
  The Sovol SVO8 printed great right out of the box. My first print was a Benchy that I sliced myself, then I moved on to a Speed Benchy. The small sample spool was more generous than most, but you’ll still want to buy a full sized spool right away. Check out our list of the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) here.
@@ -126,12 +144,19 @@ Today's best Sovol SV08 deals
 
  This boat is a little rough, but the shape is well-defined with no signs of ringing. This is one of the best speed boats I’ve printed. Remember – when racing a 3D Printer, it's more about printing a “Benchy Shaped Object” than real quality. This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1072543316197855840-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/rPKKXN6cPpVv33oLgMhmXB-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  I also sliced the Maker’s Muse Calibration Castle using a roll of Printed Solid[Jessie Premium Blood Red Light Glitter PLA.](https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blood-red) At first glance, the Castle looked very good, with decent layers and excellent bridging. However, it was locked up tight from over extrusion, which didn’t allow the tower puzzle to twist or the gate to lift off. A bit of tinkering with the printer’s profile will solve this problem, but it’s disappointing that the manufacturer’s default settings were lacking. This printed in one hour and 37 minutes, using a .2mm layer height and a speed setting of 200 mm/s.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/ZePeBYmcZHXcvTzwR2AA3B-320-80.jpg)
 
 _Maker’s Muse_ [_Clearance Castle_](https://www.makersmuse.com/clearance-castle)  (Image credit: Tom's Hardware)
@@ -144,12 +169,19 @@ _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase
 
  I needed an ant moat for my hummingbird feeder, and a quick search of Thingiverse found this one. I stretched the center pillar just a little higher, and printed it in[Prusament Carmine Red PETG](https://www.prusa3d.com/product/prusament-petg-carmine-red-transparent-1kg/?country=US&currency=usd&gad%5Fsource=1&gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8qMjgDIiCAq3GDsLJdbA9eLGKFjDPaQQPH4xW4G7w823yHHGlm9r9UaAme5EALw%5FwcB) . It’s a little stringy, but the layers are nice and smooth. It printed in one hour and 32 minutes, with a .28mm layer height and default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/CmdHW7cV3hNixvVbVBuD2C-320-80.jpg)
 
 [_Ant Moat_](https://www.thingiverse.com/thing:2945093) _by Wkarraker_  (Image credit: Tom's Hardware)
 
  For TPU, I printed an E3D golf cart stress test – the E3DBuggy. It certainly stressed the Sovol out – the amount of strings is insane. The print is otherwise solid, but the SV08 would benefit from some properly tuned TPU settings from the manufacturer.[This is printed in Inland’s black TPU,](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-White-Printer-Filament%2Fdp%2FB084RKQFLT%2Fref%3Dsr%5F1%5F2%3Fcrid%3D2TD8PW1U91UO2%26dib%3DeyJ2IjoiMSJ9.rxjODgM1lMGXtv8eulaz22Wm3wp1rAm5lb2aPUZkoTC5gbT9JjE2xXRInw8EGd6U8IqDBW4oAvSz79euAEGkm1PnO-JMyLYMhKrOxL9sqlH9n3ltWTJR7b8f3wG%5FeCQZBDPbNlryLEz0B-Sd8BKWxi9HhpIoTwIVV7RGkQaoEmUeprn9N5mVq6JPLVpiEJ-mK2rzi8y8HMrbnaHKLU9xjAzQT2pUeMN4J4wdcdboDsU.gU5nrAVZ49YYIUHY%5Fln9iU-fonprreALWrJn9FP2c28%26dib%5Ftag%3Dse%26keywords%3Dinland%252Btpu%26qid%3D1709851529%26sprefix%3Dinland%252Btpu%252Caps%252C167%26sr%3D8-2%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7385545516654961075-20) with a .2mm layer height and default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/wcbFQUVVYb2y8QTw32MPRB-320-80.jpg)
 
 [_E3D’s Buggy Stress Test_](https://www.printables.com/model/275117-e3dbuggy-a-3d-printer-stress-test)  (Image credit: Tom's Hardware)
@@ -188,6 +220,9 @@ Sovol SV08: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: "Performance Insights on the Gigabyte G6X: Noteworthy Operation, Yet Lacks Distinctive Traits"
-date: 2024-08-09 13:29:52
-updated: 2024-08-11 12:51:41
+date: 2024-08-10T04:59:06.084Z
+updated: 2024-08-11T04:59:06.084Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  Asus’ latest innovation is the PA32UCXR. What makes it stand out? It represents a new level of performance for Mini LED monitors with an incredible 2,304 dimming zones packed into a 32-inch 4K[IPS](https://docs.google.com/document/u/0/d/1mNjDPW7CRNspnH-AvBh0YKEWddhDyzxuh6uPfFh1-F8/edit) panel. It covers most of the Rec.2020 color gamut with precisely calibrated picture modes that support every color standard currently in use. It also does HDR10, Hybrid Log Gamma, and Dolby Vision. It also has a myriad of calibration options, including a built-in color meter that lets it calibrate itself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Asus ProArt PA32UCXR Specs
 
  Swipe to scroll horizontally
@@ -84,6 +87,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Asus)
@@ -96,6 +102,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Asus)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -104,6 +113,10 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Asus)
@@ -116,12 +129,18 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  The input panel is under the left side, behind the color meter, and includes one DisplayPort 1.4, two HDMI 2.0, two Thunderbolt 4, and a USB hub. It’s version 3.2 and has a USB-C upstream port and three downstream type As. There’s a 3.5mm headphone jack and a pair of internal speakers rated for five watts of output. They play loud and clean but are limited to upper midrange frequencies.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OSD Features
 
  The PA32UCXR’s OSD is extensive and appears when you press the joystick twice, or any key, then the joystick. Other keys can take the user straight to commonly used menus like color mode or HDR setting. Two of the buttons are programmable.
 
  Image 1 of 9
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -138,6 +157,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -146,6 +168,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -154,6 +179,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -172,6 +200,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  The final photo shows all the PA32UCXR’s HDR options. HDR\_PQ refers to HDR10 and can be set for DCI-P3 or Rec.2020 color. I found the latter was necessary to view the full palette in HDR content. You also get HLG, a broadcast HDR format used in Europe and on YouTube. You get Dolby Vision, which is a rarity on the desktop but necessary for content creation. You’ll find it on services like Netflix, Paramount+, Disney+, and many 4K Blu-ray releases.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Asus ProArt PA32RCXR Setup, Calibration and Hands-On
 
  Calibrating the PA32UCXR is only necessary to create a custom setup that falls outside industry standards for grayscale, gamma, and color gamut. You only need to select your desired mode and it will deliver that spec with extreme accuracy. sRGB is brightness limited to 80 nits, so as an alternative, you can pick Rec.709, which lets you select from four color temps and five gamma values. DCI-P3 mode defaults to the cinema version with a D63 color temp and 2.6 gamma but you can change that as well to match Display P3\. Adobe RGB is there for photographers, and you can go full color in Rec.2020 mode, which also has selectable gamma and color temp.

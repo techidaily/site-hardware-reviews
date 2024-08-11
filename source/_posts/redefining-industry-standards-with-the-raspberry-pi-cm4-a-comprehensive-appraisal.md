@@ -1,7 +1,7 @@
 ---
 title: Redefining Industry Standards with the Raspberry Pi CM4 - A Comprehensive Appraisal
-date: 2024-08-08 17:55:38
-updated: 2024-08-11 11:52:54
+date: 2024-08-10T04:59:05.311Z
+updated: 2024-08-11T04:59:05.311Z
 tags:
   - review
 categories:
@@ -21,6 +21,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  The Q1 HE is a 75-percent gasket mount wireless mechanical keyboard with magnetic switches. At $219 fully-built, this keyboard is pricier than you might expect, especially as Keychron has made a name for itself by producing surprisingly well-priced mechanical keyboards. Keychron also makes the[Q1](https://www.tomshardware.com/reviews/keychron-q1-mechanical-keyboard) in a standard, non-magnetic-switch version, which costs $179 fully assembled. The 75 percent layout means that the Q1 HE comes with all alphanumeric keys, a full function row, and a handful of navigation keys — by default, the Q1 HE has PgUp, PgDn, and Home under its customizable rotary knob, but the keyboard comes with other navigation key keycaps that you can swap in if you decide to remap. It comes in both black and white colorways, each with a matching metal knob in the upper-right corner and matching keycaps in complementary colors.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/uJnm8Ajvj5HvsdHfvHEvTP-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -29,6 +32,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -37,6 +43,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -45,6 +54,9 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -69,18 +81,27 @@ We can't seem to go five feet without tripping over a gaming keyboard featuring 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  The Q1 HE comes with double-shot PBT keycaps with printed legends, in Keychron's OSA keycap profile. The keycaps have a smooth matte finish and feel thick and sturdy. The legends are crisp and clear, and several of the keys also feature secondary legends for things like switching between Bluetooth devices and media controls. There are no dedicated media controls on the Q1 HE aside from the clickable rotary knob, which controls volume/mute by default but is customizable via QMK/VIA. The knob is also metal, with textured sides and notches for precise control.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/3JkFtVcChgzQSnrzrmMwmE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  In the box, the Q1 HE comes with a bundle of accessories, including extra keycaps for swapping out navigation keys and switching between PC/Mac modes, a dual keycap and switch puller, and a small kit for opening up and customizing the keyboard (screwdriver, hex key, extra gaskets, feet, and screws). It also comes with a 6-foot USB-C to USB-C cable (with a USB-C to USB-A converter on one end), a USB extender, and a small USB-A dongle that you'll need to connect to 2.4GHz wireless. There's nowhere on the keyboard to store the dongle, but as the case is just a solid chunk of aluminum, that's understandable.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -120,6 +141,9 @@ Today's best Keychron Q1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Typing and Gaming Experience on the Q1 HE
 
  The prebuilt Q1 HE comes with Gateron 2.0 Nebula switches, which are linear magnetic switches with a starting force of 40g and a bottom-out force of 60g. This is the only prebuilt switch option, but Keychron also sells two other compatible switches separately — Gateron 2.0 Dawn (linear, 30g starting force, 50g bottom-out) and Gateron 2.0 Aurora (linear, 50g starting force, 70g bottom-out).
@@ -136,6 +160,9 @@ Today's best Keychron Q1 deals
 
  The Q1 HE also makes a great gaming keyboard — actually, I'm not sure why Keychron didn't release this under its gaming brand (Lemokey), considering magnetic Hall Effect switches are mainly advertised to gamers for their speed and features like Rapid Trigger. (Well, it's probably going to; the P1, which appears to be the Q1's equivalent, is[up for pre-order on Lemokey's site now](https://www.lemokey.com/products/lemokey-p1-qmk-via-custom-gaming-keyboard) .) Anyway, the Q1 HE offers the standard swath of magnetic switch features: wide range, precise adjustable actuation, multiple inputs on a single key, and Rapid Trigger. The switches have an actuation range of 0.5 - 3.8mm, with a sensitivity of 0.1mm, and each key's actuation can be set individually with Keychron's new web-based customization app, Keychron Launcher. The keyboard also offers low-latency 1,000 Hz polling rates over both wireless (2.4GHz) and wired connections.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features and Software of the Q1 HE
 
  The Q1 HE offers three forms of connectivity: low-latency 2.4GHz wireless, Bluetooth 5.1, and wired (via USB-C). The 2.4GHz wireless connection was solid and consistent in my testing, and there was no noticeable difference in latency between it and the wired connection (as you might expect, there was noticeable lag over the Bluetooth connection). The keyboard has two switches on the back: one to switch between connection types and one to switch between PC and Mac modes. My only minor gripe was with the connection switch, which was trickier to quickly move into position than it should have been. (Luckily, speed-switching connections isn't one of my priorities.)
@@ -156,6 +183,9 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -164,6 +194,9 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -180,6 +213,10 @@ Today's best Keychron Q1 deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -190,6 +227,9 @@ Today's best Keychron Q1 deals
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  The Keychron Q1 HE QMK Wireless Custom keyboard is pretty impressive — even though every custom keyboard company seems to have a nearly identical offer._Nearly_ being the key word — the Q1 HE has the solid build and nice typing experience of the[Meletrix Boog75](https://www.tomshardware.com/peripherals/gaming-keyboards/meletrix-boog75-review) , the tri-mode connectivity of the[Akko MOD007B-HE PC](https://www.tomshardware.com/peripherals/keyboards/akko-mod007b-he-pc-review) , and the larger layout we wanted from the[Arbiter Studio Polar 65](https://www.tomshardware.com/peripherals/gaming-keyboards/arbiter-studio-polar-65-review) .

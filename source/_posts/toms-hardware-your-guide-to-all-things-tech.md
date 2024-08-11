@@ -1,7 +1,7 @@
 ---
 title: Tom's Hardware - Your Guide to All Things Tech
-date: 2024-08-08 20:11:56
-updated: 2024-08-11 12:24:23
+date: 2024-08-10T04:59:14.100Z
+updated: 2024-08-11T04:59:14.100Z
 tags:
   - review
 categories:
@@ -19,6 +19,14 @@ If you’re looking for a reasonably-priced AM5 motherboard that stands out from
 
 * [Gigabyte B650 Aorus Elite AX Ice (White) at Amazon for $209.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CMJSH15D%2Fref%3Dasc%5Fdf%5FB0CMJSH15D1723230000000%3Ftag%3Dhawk-future-20%26creative%3D395261%26creativeASIN%3DB0CMJSH15D%26linkCode%3Dasn%26ascsubtag%3Dtomshardware-us-1123977987819164648-20)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Specifications of the Gigabyte B650 Aorus Elite AX Ice
 
  Swipe to scroll horizontally
@@ -117,6 +125,9 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Inside the Box of the Gigabyte B650 Aorus Elite AX Ice
 
  In the retail box are some accessories designed to help get you started. This includes two SATA cables, the Wi-Fi 6E antenna, the Q-Connector, and the installation guide. There’s not much to it, but that’s expected at this price point.
@@ -125,10 +136,16 @@ Show More Deals
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Gigabyte)
@@ -151,6 +168,9 @@ Show More Deals
 
  Sliding down the right edge, we find the 24-pin ATX connector to power the board, a basic reset button, a 4-pin fan header, the Q-Code LEDs (troubleshooting POST issues), and finally, the front panel USB 3.2 Gen 2x2 connector.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Gigabyte B650 Aorus Elite AX Ice](https://cdn.mos.cms.futurecdn.net/wnqT4WhDE4ESpvfAkK3Zb8-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -257,6 +277,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

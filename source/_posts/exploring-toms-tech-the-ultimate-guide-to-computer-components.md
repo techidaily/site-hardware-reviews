@@ -1,7 +1,7 @@
 ---
 title: "Exploring Tom's Tech: The Ultimate Guide to Computer Components"
-date: 2024-08-09 20:24:37
-updated: 2024-08-11 10:50:37
+date: 2024-08-10T04:59:09.851Z
+updated: 2024-08-11T04:59:09.851Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ The Atlas Air is available now for $179.99.
 
 * [Turtle Beach Atlas Air (Black) at Amazon for $179.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D13VX3S6%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-2527428693144545510-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design and Comfort of the Atlas Air
 
  The Atlas Air is a wireless, over-ear, open-back gaming headset with a detachable flip-to-mute boom mic. It has a lightweight gray plastic frame with shiny gray speaker plates on its large, round floating earcups (we'll get to the "floating" part in a moment). It comes with a black mesh and elastic suspension headband and black fabric-covered earpads, but Turtle Beach sells brightly-colored "mod packs," consisting of a replacement headband strap and earpads, for $25\. Turtle Beach is printed in silver above each earcup, and its palm tree logo is embossed in silver on each side of the strap, where it attaches to the headband.
@@ -31,10 +34,16 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -51,6 +60,11 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -75,6 +89,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -87,6 +104,9 @@ The Atlas Air is available now for $179.99.
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -95,6 +115,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +134,9 @@ The Atlas Air is available now for $179.99.
 
  The Atlas Air comes with two cables — a 6-foot (1.8m) braided USB-C to USB-A charging cable, and a 6-foot (1.8m) braided 3.5mm audio cable with inline volume controls. It also comes with a detachable boom mic and a foam pop filter, a 2.4GHz wireless USB-A dongle, and a soft cloth drawstring carrying pouch.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -165,6 +191,9 @@ The Atlas Air is available now for $179.99.
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Audio Performance of the Atlas Air
 
  The Atlas Air features an open-back design and has 40mm "high-precision" dynamic drivers that support 24-bit (hi-fi) / 96 kHz audio (in PC mode) and have a frequency response rate of 20 - 40,000 Hz. The open-back design means there's sound leak on both sides — you'll hear what's happening around you, and those around you will hear what you're listening to — but it also means a wider soundstage and a more open and natural (yet still immersive) sound profile in general. There are several open-back gaming headsets on the market — we last tested the[Corsair Virtuoso Pro](https://www.tomshardware.com/reviews/corsair-virtuoso-pro) — but Turtle Beach touts the Atlas Air as the first_wireless_ open-back gaming headset.
@@ -189,16 +218,26 @@ The Atlas Air is available now for $179.99.
 
  The Atlas Air's mic will work in a pinch, but I would pick up a solid, standalone USB mic — like the $60[Logitech Yeti Orb](https://www.tomshardware.com/reviews/logitech-yeti-orb) — to use as a primary mic with this headset.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features and Software of the Atlas Air
 
  The Atlas Air works with Turtle Beach's Swarm II peripheral software. And, like most Turtle Beach headsets, when I first plugged in the headset and dongle I was immediately prompted to update the firmware, which then proceeded to "fail" several times until I restarted everything twice, out of frustration. Then it was suddenly magically fine. I wasn't a fan of the Swarm software when it was under Roccat, nor was I a fan of Turtle Beach's various disjointed firmware update apps, and it seems that merging everything into one app — Swarm II — has not improved the situation.
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -221,6 +260,9 @@ The Atlas Air is available now for $179.99.
 
  Speaking of buttons, the buttons on the Atlas Air might seem like overkill (as many headsets combine functions like power and Bluetooth pairing), but I was impressed: I didn't have to fumble around to find them, nor did I forget which was which — not once. The speaker plate volume wheel, on the other hand, was a mess. It was inconsistent in just about every way — sometimes turning it one notch would raise the volume by a small increment and the next notch would jump to maximum... and the next notch would lower it. Sometimes turning the wheel would just jump the volume between a couple of steps before ultimately doing nothing. For what it's worth, this is something that could almost certainly be fixed with a firmware update (and was most likely broken by a firmware update). However, I would rather adjust my volume elsewhere than deal with Swarm II.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  I kind of love this headset — it's super comfortable, it sounds great, and the open-back design is perfect. But I also kind of hate this headset — or, at least, the firmware/software side of it. So, I'm at a crossroads: the headset has some issues that probably need to be fixed with a firmware update, but the software is so bad that I'm not even confident a firmware update would work (or fix things — more likely, we're going to need several firmware updates). It might sound a little dramatic to let terrible software stop you from buying a headset — something that really shouldn't even need software, but, trust me... it's bad. And firmware/software issues are more important with a wireless headset; this headset seems like it'll work fine if you only use it in analog mode, but then why buy a wireless headset?
@@ -271,6 +313,18 @@ The Atlas Air is available now for $179.99.
 
 powered by
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

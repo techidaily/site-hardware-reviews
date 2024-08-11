@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Patriot Viper VP4300 Lite 4TB SSD - Performance Vs. Affordability
-date: 2024-08-09 10:54:58
-updated: 2024-08-11 11:40:10
+date: 2024-08-10T04:59:07.158Z
+updated: 2024-08-11T04:59:07.158Z
 tags:
   - review
 categories:
@@ -46,6 +46,9 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/HBEL4vNSov3znrPrC4pAqX-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -62,10 +65,16 @@ Included in the box are the following:
 * Frost X45 Thermal Paste
 * Cable management clips
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -106,6 +115,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -144,6 +156,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -176,6 +191,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -201,6 +219,9 @@ The top of the CPU black features a reflective black etched metal design.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

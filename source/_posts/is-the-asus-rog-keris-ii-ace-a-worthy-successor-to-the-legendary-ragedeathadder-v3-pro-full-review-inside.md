@@ -1,7 +1,7 @@
 ---
 title: Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside
-date: 2024-08-10 21:46:22
-updated: 2024-08-11 12:32:46
+date: 2024-08-10T04:59:11.987Z
+updated: 2024-08-11T04:59:11.987Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  The Keris II Ace is an ergonomic, right-handed ultra-lightweight wireless gaming mouse with five programmable buttons, including the scroll wheel click. It comes in two colorways: black and "moonlight white," or white with light gray accents.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/yHmu5GPxwwKKHb8KotUHu7-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -31,6 +34,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -39,10 +45,16 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -67,6 +79,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  The mouse has five programmable buttons: left click, right click, two thumb buttons, and the clickable scroll wheel. You can also program scroll up/down (not technically buttons) using Asus' peripheral software Armoury Crate. There are two more buttons on the bottom (DPI switch and pairing) as well as a power switch, but they're not programmable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/ptBkamKeFD7KXKXNrVkRbi-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -132,12 +147,19 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Performance of the Keris II Ace
 
  The Keris II Ace sports Asus's ROG AimPoint Pro optical sensor, which has a maximum sensitivity of 42,000 DPI, a maximum speed of 750 IPS, and can handle up to 50Gs of acceleration. That's certainly the highest DPI I've seen on a gaming mouse, but remember that DPI doesn't really mean much on its own, and that most gamers aren't going to go above 4,000 DPI, let alone get anywhere near something like 10,000\. It's an excellent optical sensor that tracked on every surface I tried it on — including glass (both a glass mouse pad and an actual glass table) — with near-perfect accuracy and precision, and it's on par with the top-of-the-line sensors you'll find in just about every other premium flagship mice.
 
  The mouse also features Asus' ROG Optical Micro Switches, which are rated for 100 million clicks. They're nicely clicky and very consistent. They're about as loud as Razer's current optical mouse switches, if a little deeper-sounding, and they're a little crisper and quieter than the Logitech Lightforce hybrid optical switches on the[G Pro Superlight 2](https://www.tomshardware.com/reviews/logitech-g-pro-x-superlight-2) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/cLTTidZYnwqwmG82gipDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -150,10 +172,17 @@ Show More Deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -178,6 +207,9 @@ Show More Deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -190,10 +222,16 @@ Show More Deals
 
  Armoury Crate has various gamer-friendly features such as "scenario profiles" (profiles that launch with specific games or apps) and Aura Sync for syncing lighting across various peripherals. For the most part you'll need to run Armoury Crate in the background to take advantage of these gaming features, but the mouse does have onboard storage with room for up to five hardware-based profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Wireless Experience & Battery Life of the Keris II Ace
 
  Like many of the[best wireless mice](https://www.tomshardware.com/best-picks/best-wireless-mouse) , the Keris II Ace features three forms of connectivity: 2.4GHz wireless, Bluetooth, and wired (via USB-C). This already makes it somewhat unique, as Bluetooth connectivity is the first thing most ultra-lightweight mice ditch — Bluetooth is too high-latency for gaming; it's just a convenience feature for gamers who might also want to use their mouse for non-gaming purposes, or while traveling. The mouse can connect to up to three Bluetooth devices simultaneously on top of its 2.4GHz wireless or wired connection.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/rUCgsSAKqusEVDwMhDtveA-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -258,6 +296,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: Navigating Gadgets with Ease - Tom's Hardware Wisdom
-date: 2024-08-09 10:20:39
-updated: 2024-08-11 11:18:23
+date: 2024-08-10T04:59:09.677Z
+updated: 2024-08-11T04:59:09.677Z
 tags:
   - review
 categories:
@@ -54,6 +54,23 @@ Today's best Sovol SV08 deals
 
 ## Sovol SVO8: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/2Kj96rd2wLjJU7qMANp7DB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -62,6 +79,9 @@ Today's best Sovol SV08 deals
 
  The included USB Flash drive has a PDF copy of the manual and test files. There is also a copy of OrcaSlicer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Design of the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/gKUZQXAVSSZto5QxAPnqCJ-320-80.png)
@@ -90,6 +110,9 @@ Today's best Sovol SV08 deals
 
 ## Assembling the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/aLRXpJR2bSGK5eQGJunFLG-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -100,18 +123,30 @@ Today's best Sovol SV08 deals
 
 ## Leveling the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/Shpc6yMtKYbKsLxoywRFpB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Sovol SVO8 has both inductive and pressure sensors installed and performs a throughout leveling routine that can adjust the four corners of the flying gantry and then perform a mesh bed level to compensate for any issues. The machine wipes off the nozzle on a rubber brush on the back before tapping the bed to find the correct Z offset. The offset can be easily adjusted from the control menu if you need to raise or lower it for different materials.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Loading Filament on the Sovol SVO8
 
  To load filament, trim the filament to a point and push it through the Bowden tube near the spool holder all the way to the tool head. Give it an extra nudge until it can’t go any further. Select the load (or unload) routine on the menu, and the machine handles the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Preparing Files / Software for Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/MnFfT8JZGvqGvYjvBG5hGC-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -126,12 +161,18 @@ Today's best Sovol SV08 deals
 
  This boat is a little rough, but the shape is well-defined with no signs of ringing. This is one of the best speed boats I’ve printed. Remember – when racing a 3D Printer, it's more about printing a “Benchy Shaped Object” than real quality. This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1072543316197855840-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/rPKKXN6cPpVv33oLgMhmXB-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
 
  I also sliced the Maker’s Muse Calibration Castle using a roll of Printed Solid[Jessie Premium Blood Red Light Glitter PLA.](https://www.printedsolid.com/products/jessie-pla-1-75mm-x-1kg-blood-red) At first glance, the Castle looked very good, with decent layers and excellent bridging. However, it was locked up tight from over extrusion, which didn’t allow the tower puzzle to twist or the gate to lift off. A bit of tinkering with the printer’s profile will solve this problem, but it’s disappointing that the manufacturer’s default settings were lacking. This printed in one hour and 37 minutes, using a .2mm layer height and a speed setting of 200 mm/s.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/ZePeBYmcZHXcvTzwR2AA3B-320-80.jpg)
 
 _Maker’s Muse_ [_Clearance Castle_](https://www.makersmuse.com/clearance-castle)  (Image credit: Tom's Hardware)
@@ -156,6 +197,9 @@ _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase
 
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/WDwDhzjXGG9Efica5fmRrK-320-80.png)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)
@@ -188,6 +232,9 @@ Sovol SV08: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

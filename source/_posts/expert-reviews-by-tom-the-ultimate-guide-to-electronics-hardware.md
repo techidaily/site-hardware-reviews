@@ -1,7 +1,7 @@
 ---
 title: "Expert Reviews by Tom: The Ultimate Guide to Electronics Hardware"
-date: 2024-08-10 11:34:48
-updated: 2024-08-11 10:51:32
+date: 2024-08-10T04:59:11.669Z
+updated: 2024-08-11T04:59:11.669Z
 tags:
   - review
 categories:
@@ -15,10 +15,16 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  Designed to compete with the[best gaming mice](https://www.tomshardware.com/best-picks/best-gaming-mouse) , the Asus ROG Keris II Ace is an ultra-lightweight wireless gaming mouse that weighs just 1.9 ounces (54g). It's the ergonomic counterpart to the Asus ROG Harpe Ace Aim Lab Edition, and it features Asus' 42,000 DPI ROG AimPoint Pro optical sensor, five programmable buttons (seven programmable controls, including scroll up/down), and up to a 4,000 Hz wireless polling rate and an 8,000 Hz wired polling rate with the included ROG Polling Rate Booster. The Keris II Ace is available now, in both black and white, for $159.99, which is pricey but on par with other companies' flagship ultra-lightweight gaming mice.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design and Comfort of the Keris II Ace
 
  The Keris II Ace is an ergonomic, right-handed ultra-lightweight wireless gaming mouse with five programmable buttons, including the scroll wheel click. It comes in two colorways: black and "moonlight white," or white with light gray accents.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/yHmu5GPxwwKKHb8KotUHu7-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -35,6 +41,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -43,12 +52,18 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  It's on the shorter side, measuring 4.76 inches (121mm) long, 2.64 inches (67mm) wide, and 1.65 inches (42mm) high — but it's still designed primarily for people with at least medium-sized hands. It's wider and taller than the ROG Harpe Ace Aim Lab Edition (5.01 x 2.51 x 1.56 inches / 126.5 x 63.7 x 39.6mm) and the DeathAdder V3 Pro is larger all around (5 x 2.67 x 1.73 inches / 128 x 68 x 44mm).
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/VrdossKaHAWYCFfaGW4mFn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -61,6 +76,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -79,6 +97,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  The mouse comes with several accessories in the box: a 6.5-foot paracord-style USB-C to USB-A cable, optional pre-cut grip tape, and larger replacement PTFE mouse feet. Adding the grip tape and the replacement feet to the mouse brings its weight up to 2.01oz (57g), which is still solidly in the ultra-lightweight category. It also comes with the mouse's 2.4GHz wireless USB-A dongle (stored on the underside of the mouse), as well as Asus' ROG Polling Rate Booster and a USB extender.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -132,12 +153,18 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance of the Keris II Ace
 
  The Keris II Ace sports Asus's ROG AimPoint Pro optical sensor, which has a maximum sensitivity of 42,000 DPI, a maximum speed of 750 IPS, and can handle up to 50Gs of acceleration. That's certainly the highest DPI I've seen on a gaming mouse, but remember that DPI doesn't really mean much on its own, and that most gamers aren't going to go above 4,000 DPI, let alone get anywhere near something like 10,000\. It's an excellent optical sensor that tracked on every surface I tried it on — including glass (both a glass mouse pad and an actual glass table) — with near-perfect accuracy and precision, and it's on par with the top-of-the-line sensors you'll find in just about every other premium flagship mice.
 
  The mouse also features Asus' ROG Optical Micro Switches, which are rated for 100 million clicks. They're nicely clicky and very consistent. They're about as loud as Razer's current optical mouse switches, if a little deeper-sounding, and they're a little crisper and quieter than the Logitech Lightforce hybrid optical switches on the[G Pro Superlight 2](https://www.tomshardware.com/reviews/logitech-g-pro-x-superlight-2) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/cLTTidZYnwqwmG82gipDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -160,6 +187,9 @@ Show More Deals
 
  If you're looking for an ultra-lightweight mouse to take you through competitive eSports and FPS games, the Keris II Ace is it. I'll admit I still slightly favor the DeathAdder V3 Pro's shape — that mouse is damn comfortable — but the Keris II Ace's lighter weight (54g vs the DeathAdder V3 Pro's 63g) puts the two on pretty even footing. The Keris II Ace also has a few extra features over the DeathAdder V3 Pro, such as Bluetooth connectivity and RGB lighting. Sure, gamers who are only interested in speed, latency, and performance won't care if a mouse lacks Bluetooth connectivity, but it's a nice feature to have (especially if you don't even have to give up things like weight or battery life).
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features and Software of the Keris II Ace
 
  The Keris II Ace is configurable using Asus' universal peripheral software, Armoury Crate. Armoury Crate isn't my favorite peripheral software, but the Keris II Ace is a pretty simple mouse — so configuring it isn't too complicated. You can use Armoury Crate to program the mouse's 7 programmable controls (you must program at least one with the primary click function, however), adjust DPI steps and performance settings, customize (or turn off) the one RGB lighting zone, calibrate the mouse for various surfaces, and configure a handful of power settings.
@@ -170,6 +200,9 @@ Show More Deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -194,6 +227,10 @@ Show More Deals
 
  Like many of the[best wireless mice](https://www.tomshardware.com/best-picks/best-wireless-mouse) , the Keris II Ace features three forms of connectivity: 2.4GHz wireless, Bluetooth, and wired (via USB-C). This already makes it somewhat unique, as Bluetooth connectivity is the first thing most ultra-lightweight mice ditch — Bluetooth is too high-latency for gaming; it's just a convenience feature for gamers who might also want to use their mouse for non-gaming purposes, or while traveling. The mouse can connect to up to three Bluetooth devices simultaneously on top of its 2.4GHz wireless or wired connection.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/rUCgsSAKqusEVDwMhDtveA-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -258,6 +295,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

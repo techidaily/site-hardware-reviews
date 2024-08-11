@@ -1,7 +1,7 @@
 ---
 title: Unveiling Gadgets with Tom - Comprehensive Hardware Analysis
-date: 2024-08-09 10:12:22
-updated: 2024-08-11 12:48:44
+date: 2024-08-10T04:59:14.194Z
+updated: 2024-08-11T04:59:14.194Z
 tags:
   - review
 categories:
@@ -23,6 +23,9 @@ The Sovol SVO8 is probably the best “Voron lite” printer we’ve seen to dat
 
  Retailing at $599, and currently on sale[for $579](<https://shareasale.com/r.cfm?b=2145980&u=4338022&m=131011&afftrack=techidaily&urllink=https%3A%2F%2Fship7com.pxf.io%2F0zwaz3>) , the Sovol SVO8 is a great machine for anyone who wants a big, fast, single-color machine with the freedom to print without needing to send files over the Cloud. It’s open source, which means you’re also able to upgrade and mod the printer as you see fit.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications: Sovol SVO8
 
  Swipe to scroll horizontally
@@ -54,6 +57,13 @@ Today's best Sovol SV08 deals
 
 ## Sovol SVO8: Included in the Box
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/2Kj96rd2wLjJU7qMANp7DB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -62,6 +72,10 @@ Today's best Sovol SV08 deals
 
  The included USB Flash drive has a PDF copy of the manual and test files. There is also a copy of OrcaSlicer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Design of the Sovol SVO8
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/gKUZQXAVSSZto5QxAPnqCJ-320-80.png)
@@ -90,6 +104,10 @@ Today's best Sovol SV08 deals
 
 ## Assembling the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/aLRXpJR2bSGK5eQGJunFLG-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -98,14 +116,23 @@ Today's best Sovol SV08 deals
 
  You’ll need to flip the power supply switch to match your main household electric, which is 115V in the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Leveling the Sovol SVO8
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/Shpc6yMtKYbKsLxoywRFpB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Sovol SVO8 has both inductive and pressure sensors installed and performs a throughout leveling routine that can adjust the four corners of the flying gantry and then perform a mesh bed level to compensate for any issues. The machine wipes off the nozzle on a rubber brush on the back before tapping the bed to find the correct Z offset. The offset can be easily adjusted from the control menu if you need to raise or lower it for different materials.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Loading Filament on the Sovol SVO8
 
  To load filament, trim the filament to a point and push it through the Bowden tube near the spool holder all the way to the tool head. Give it an extra nudge until it can’t go any further. Select the load (or unload) routine on the menu, and the machine handles the rest.
@@ -118,6 +145,9 @@ Today's best Sovol SV08 deals
 
  The Sovol SVO8 comes with a copy of Orca Slicer with a preset for the SV08 baked in. Because the printer follows the Voron 2.4 blueprints, you can also use Cura or PrusaSlicer and the default Voron settings. I found the settings on all three slicers to be extremely conservative, so you may want to do a little experimenting to reach faster print times.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Printing on the Sovol SVO8
 
  The Sovol SVO8 printed great right out of the box. My first print was a Benchy that I sliced myself, then I moved on to a Speed Benchy. The small sample spool was more generous than most, but you’ll still want to buy a full sized spool right away. Check out our list of the[best filaments for 3D printing](https://www.tomshardware.com/best-picks/best-filaments-for-3d-printing) here.
@@ -138,6 +168,10 @@ _Maker’s Muse_ [_Clearance Castle_](https://www.makersmuse.com/clearance-castl
 
  I needed a big, showy print for the SV08’s feature photo, so I decided to make one. Bambu Lab has been releasing a series of tools on its website MakerWorld to let users craft their own models and download them as either .3mf or .stl files. The program lets you start from a template and then push the nodes around until you get a desirable shape. This 300mm tall vase – printed in “vase mode” – only took two hours and 3 minutes to print using a .28mm layer height and a slightly chonky .5 layer width. It’s stunning and smooth, printed in[Polymaker’s Dual Color Silk in Purple and Gold.](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-Gold-Purple-Printer-Dichromatic%2Fdp%2FB0BF56GLZ7%2Fref%3Dasc%5Fdf%5FB0BF56GLZ7%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8714266725847440180%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-1944052919189%26psc%3D1%26mcid%3De9538a114a993beb8ce1d2042992f7e4%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1175129393775174912-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/JonoSoSEj352MkufF5DNpA-320-80.jpg)
 
 _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase)  (Image credit: Tom's Hardware)
@@ -150,10 +184,16 @@ _Vase by_ [_MakerWorld Make My Vase_](https://makerworld.com/makerlab/makeMyVase
 
  For TPU, I printed an E3D golf cart stress test – the E3DBuggy. It certainly stressed the Sovol out – the amount of strings is insane. The print is otherwise solid, but the SV08 would benefit from some properly tuned TPU settings from the manufacturer.[This is printed in Inland’s black TPU,](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-White-Printer-Filament%2Fdp%2FB084RKQFLT%2Fref%3Dsr%5F1%5F2%3Fcrid%3D2TD8PW1U91UO2%26dib%3DeyJ2IjoiMSJ9.rxjODgM1lMGXtv8eulaz22Wm3wp1rAm5lb2aPUZkoTC5gbT9JjE2xXRInw8EGd6U8IqDBW4oAvSz79euAEGkm1PnO-JMyLYMhKrOxL9sqlH9n3ltWTJR7b8f3wG%5FeCQZBDPbNlryLEz0B-Sd8BKWxi9HhpIoTwIVV7RGkQaoEmUeprn9N5mVq6JPLVpiEJ-mK2rzi8y8HMrbnaHKLU9xjAzQT2pUeMN4J4wdcdboDsU.gU5nrAVZ49YYIUHY%5Fln9iU-fonprreALWrJn9FP2c28%26dib%5Ftag%3Dse%26keywords%3Dinland%252Btpu%26qid%3D1709851529%26sprefix%3Dinland%252Btpu%252Caps%252C167%26sr%3D8-2%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-7385545516654961075-20) with a .2mm layer height and default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/wcbFQUVVYb2y8QTw32MPRB-320-80.jpg)
 
 [_E3D’s Buggy Stress Test_](https://www.printables.com/model/275117-e3dbuggy-a-3d-printer-stress-test)  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Sovol SV08](https://cdn.mos.cms.futurecdn.net/WDwDhzjXGG9Efica5fmRrK-320-80.png)

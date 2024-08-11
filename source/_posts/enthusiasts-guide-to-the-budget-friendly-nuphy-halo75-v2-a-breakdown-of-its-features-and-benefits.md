@@ -1,7 +1,7 @@
 ---
 title: Enthusiast's Guide to the Budget-Friendly Nuphy Halo75 V2 - A Breakdown of Its Features and Benefits
-date: 2024-08-10 19:23:58
-updated: 2024-08-11 12:46:30
+date: 2024-08-10T04:59:17.707Z
+updated: 2024-08-11T04:59:17.707Z
 tags:
   - review
 categories:
@@ -84,10 +84,16 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  As part of the Agon Pro line, the AG456UCZD is a premium build from top to bottom. You get a solid stand, LED lighting, decent internal speakers, plenty of USB options, and even a handheld remote. It’s premium priced, too, at around $1,400 at this writing. But this is typical for the category, and there aren’t any other monitors like it. Most ultra-wides are smaller at 34 or 35 inches with gentler curves. A 45-inch OLED screen with 800R is definitely unusual.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembly and Accessories
 
  The AG456UCZD’s three parts come out of a suitably large carton filled with crumbly foam. The stand is substantial and assembles with a captive bolt. To attach the panel, find the two large screws in the package, and the included Phillips-head screwdriver. The fulcrum looks small for a panel this large, but it is more solid than it appears. Once completed, it’s very solid and stable. A small box has the cable bundle, which includes USB-C, DisplayPort, and HDMI,, a power cord, and a remote with two AAA batteries.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 6
@@ -100,10 +106,16 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  (Image credit: AOC)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: AOC)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: AOC)
@@ -112,6 +124,10 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: AOC)
@@ -124,12 +140,19 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  Underneath are two HDMI 2.0 and one DisplayPort 1.4, plus a USB-C with DP capability and 90 watts of power. A USB-B upstream port supports KVM functions for your favorite peripherals. The HDMI ports are limited to 120 Hz and 2560x1440 for gaming consoles. You also get a 3.5mm headphone jack. The internal speakers play with eight watts of power and sound better than most, with decent volume, low distortion, and good frequency range.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OSD Features
 
  AOC uses a unique menu style for its Agon products, arranged like the traditional ribbon layout but in a vertical format. It follows the same configuration, so it will be familiar to AOC users. You can operate it with the joystick, but the remote is far more convenient.
 
  Image 1 of 7
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -142,6 +165,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -168,6 +194,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  Light FX refers to the LEDs arrayed around the asymmetrical hexagon in the back. You can choose colors and effects here or create a show using AOC’s G-Menu app from the Windows desktop. The Extra menu has an input selector, USB port control, and pixel orbiting for OLED care. You can also set a refresh routine to run every four hours if you wish. I have yet to see burn-in on any OLED screen in my possession, including a three-year-old[LG](https://www.tomshardware.com/tag/lg) OLED TV and an Alienware desktop monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AOC Agon Pro AG456UCZD Calibration Settings
 
  The AG456UCZD includes the same calibration controls as all AOC monitors, which means selectable color gamuts, three gamma presets, and a user color temp. All is well out of the box, and calibration is unnecessary, but I found the gamma looked a tad dark. Measurements confirmed that it was running around 2.36\. Grayscale calibration did not positively impact, so I left the color temp set to Warm and changed gamma to the 2 preset. This brightened the image noticeably and tightened up color saturation tracking. This is a compromise, so you should try Gamma 1 and Gamma 2 to see which you prefer. For the full color gamut, leave that option on Panel Native. If you need sRGB, it’s there and accurate enough for critical work. My SDR settings are below. Brightness settings are with Uniform Brightness turned off.
@@ -233,6 +262,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

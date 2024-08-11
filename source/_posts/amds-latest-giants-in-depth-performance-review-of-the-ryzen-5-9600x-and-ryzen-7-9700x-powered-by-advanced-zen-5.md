@@ -1,7 +1,7 @@
 ---
 title: AMD's Latest Giants - In-Depth Performance Review of the Ryzen 5 9600X and Ryzen 7 9700X Powered by Advanced Zen 5
-date: 2024-08-09 23:16:32
-updated: 2024-08-11 10:44:26
+date: 2024-08-10T04:59:04.889Z
+updated: 2024-08-11T04:59:04.889Z
 tags:
   - review
 categories:
@@ -13,6 +13,13 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/ec3RaQQJfvoNg6ivhhQSfE-320-80.jpg
 
 It's summer in the northern hemisphere, and that brings the heat! The problem is that our Raspberry Pi 5 is already running hot, so we need to keep our Pi 5 cool. 52Pi has a range of coolers. From the original[Ice Tower](https://www.tomshardware.com/raspberry-pi/52-pi-ice-tower-cooler-for-raspberry-pi-5-review) to the monstrous[water cooling kit](https://www.tomshardware.com/raspberry-pi/water-cooling-kit-for-raspberry-pi-5-review) . But its latest cooler fits somewhere in between.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/5ktRgnyFJNokMwTYZJYExZ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -31,6 +38,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
 ## Ice Tower Plus Design
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/nB5Vp8M39LATqiTsFLTh6Z-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -49,10 +59,16 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  The unit is held together with a series of aluminum brackets and M2.5 screw mounts. It was easy to build, and the trickiest part was inserting the fan power cable after installing the fan. The instructions were decent, but there wasn’t an instruction to add a thermal pad to the PMIC chip, just next to the USB C port. We did this anyway and there have been no thermal issues.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Port Access
 
  Image 1 of 5
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -61,14 +77,32 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -81,10 +115,16 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)

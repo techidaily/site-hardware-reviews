@@ -1,7 +1,7 @@
 ---
 title: Taking Performance to New Heights with Overclocked Crucial C36 Memory Sticks – A DDR5 Powerhouse Examined
-date: 2024-08-10 23:21:59
-updated: 2024-08-11 12:29:46
+date: 2024-08-10T04:59:05.964Z
+updated: 2024-08-11T04:59:05.964Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  Asus’ latest innovation is the PA32UCXR. What makes it stand out? It represents a new level of performance for Mini LED monitors with an incredible 2,304 dimming zones packed into a 32-inch 4K[IPS](https://docs.google.com/document/u/0/d/1mNjDPW7CRNspnH-AvBh0YKEWddhDyzxuh6uPfFh1-F8/edit) panel. It covers most of the Rec.2020 color gamut with precisely calibrated picture modes that support every color standard currently in use. It also does HDR10, Hybrid Log Gamma, and Dolby Vision. It also has a myriad of calibration options, including a built-in color meter that lets it calibrate itself.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Asus ProArt PA32UCXR Specs
 
  Swipe to scroll horizontally
@@ -80,6 +83,10 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  Asus has adopted fully recyclable packaging for the PA32UCXR with a large clamshell box filled with smartly engineered cardboard structures inside. The contents are well protected, and there’s no crumbly foam. The three component parts are quite substantial, weighing over 30 pounds when assembled with no tools necessary. You also get a rigid light hood that snaps in place around the screen. Cables include HDMI, DisplayPort, USB-C, and USB-C/A. The power supply is internal, so you also get an IEC cord. Factory calibration data sheets verify color accuracy and screen uniformity for each sample.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 6
@@ -92,14 +99,23 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Asus)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Asus)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -116,12 +132,25 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  The input panel is under the left side, behind the color meter, and includes one DisplayPort 1.4, two HDMI 2.0, two Thunderbolt 4, and a USB hub. It’s version 3.2 and has a USB-C upstream port and three downstream type As. There’s a 3.5mm headphone jack and a pair of internal speakers rated for five watts of output. They play loud and clean but are limited to upper midrange frequencies.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## OSD Features
 
  The PA32UCXR’s OSD is extensive and appears when you press the joystick twice, or any key, then the joystick. Other keys can take the user straight to commonly used menus like color mode or HDR setting. Two of the buttons are programmable.
 
  Image 1 of 9
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -146,10 +175,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Tom's Hardware)
 
-![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -172,6 +200,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  The final photo shows all the PA32UCXR’s HDR options. HDR\_PQ refers to HDR10 and can be set for DCI-P3 or Rec.2020 color. I found the latter was necessary to view the full palette in HDR content. You also get HLG, a broadcast HDR format used in Europe and on YouTube. You get Dolby Vision, which is a rarity on the desktop but necessary for content creation. You’ll find it on services like Netflix, Paramount+, Disney+, and many 4K Blu-ray releases.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Asus ProArt PA32RCXR Setup, Calibration and Hands-On
 
  Calibrating the PA32UCXR is only necessary to create a custom setup that falls outside industry standards for grayscale, gamma, and color gamut. You only need to select your desired mode and it will deliver that spec with extreme accuracy. sRGB is brightness limited to 80 nits, so as an alternative, you can pick Rec.709, which lets you select from four color temps and five gamma values. DCI-P3 mode defaults to the cinema version with a D63 color temp and 2.6 gamma but you can change that as well to match Display P3\. Adobe RGB is there for photographers, and you can go full color in Rec.2020 mode, which also has selectable gamma and color temp.

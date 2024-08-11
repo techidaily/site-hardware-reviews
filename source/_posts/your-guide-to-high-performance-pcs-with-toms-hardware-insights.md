@@ -1,7 +1,7 @@
 ---
 title: Your Guide to High-Performance PCs with Tom's Hardware Insights
-date: 2024-08-08 15:44:46
-updated: 2024-08-11 12:26:23
+date: 2024-08-10T04:59:11.281Z
+updated: 2024-08-11T04:59:11.281Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  Many thanks to[The PiHut](https://thepihut.com/products/hatdrive-nano-for-raspberry-pi-5) for supplying us with this review unit and a Pinedrive 2242 NVMe SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## HatDrive! Nano Specifications
 
  Swipe to scroll horizontally
@@ -28,6 +31,18 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 | **Dimensions**     | 50 x 33 mm                        |
 | **Price**          | £9 ($10)                          |
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HatDrive! Nano Design
 
  Image 1 of 6
@@ -36,6 +51,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -48,6 +66,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -103,6 +124,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
 ## Pineboards HatDrive! Nano and the official Raspberry Pi 5 Case
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/nzGEoukdwZcg3eTz9bSqfj-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,10 +135,16 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  We tested using our usual CPU stress test script. First we tested with the case completely off. This returned an idle CPU temperature of 37.3 degrees Celsius, and a CPU stress temperature of 60.4°C. With the case on, those temperatures increased. At idle, we recorded 41.1°C, and under stress we saw 66.4°C. Both the no case and case stress temperatures triggered the active cooler’s fan to kick in, and we can report that it was not noisy. A light “whoosh” is all we could hear from 2 feet away.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who is the HatDrive! Nano for and what can they do with it?
 
  For $10, the Pineboards HatDrive! Nano is a no-brainer purchase. We can see this being used across the entire gamut of Raspberry Pi projects. The unobstructed GPIO and camera / display access means that we can build robots, retro gaming rigs and AI projects with very little hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/zZ56qNDy7bvZviMjPJ4uum-320-80.jpg)

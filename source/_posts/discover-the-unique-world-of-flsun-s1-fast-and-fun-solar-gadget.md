@@ -1,7 +1,7 @@
 ---
 title: Discover the Unique World of FLSun S1 - Fast and Fun Solar Gadget
-date: 2024-08-10 20:49:44
-updated: 2024-08-11 12:59:15
+date: 2024-08-10T04:59:02.211Z
+updated: 2024-08-11T04:59:02.211Z
 tags:
   - review
 categories:
@@ -56,6 +56,9 @@ Today's best Flsun S1 deals
 
 ## Included in the box: FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/LPFJ3KGmcZ5HeseQS4KGUG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -66,6 +69,9 @@ Today's best Flsun S1 deals
 
 ## Assembling the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/YgcWh6SizZq9eMjJJiLhWF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -74,6 +80,9 @@ Today's best Flsun S1 deals
 
 _**Warning:**_   _The front door is packed in such a way that it appears attached. It is not. If you’re the kind to start ripping off packing material before reading the assembly directions, you’ll be in for a surprise._
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Leveling the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/2Lo6bW3sD5FMhebQbfhNDF-320-80.jpg)
@@ -86,6 +95,10 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
 ## Loading Filament in the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/giSkyrn7ELkiyeu3D6NCGH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -94,6 +107,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  I found it necessary to hold the spool in my left hand and feed the strand into the Bowden tube with my right. Once you reach the tool head (several feet of Bowden tube later), you can use the quick release on the tubing and shove the last few inches home.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/6uVVH587CGdVivw6RpzPoF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -121,8 +137,14 @@ gcode:
 
 ```
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -131,6 +153,9 @@ gcode:
 
  It has a sleek, futuristic look with the best control screen I’ve ever seen on a 3D printer. The glass panel blends seamlessly into the machine’s front and offers large, clear text and graphics, including a speedometer to show off how fast the print head is whirling.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/E4ngRfgXfncFsNhVE9bi3F-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +178,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  The FLSun S1 boasts speeds up to 1200mm/s, which it uses for travel moves. Its print speed tops out at 800mm/s and is used for infill. The walls are attempted at 500 mm/s. And I say_attempt_ because running the printer at full speed often results in poor quality or prints knocked off the bed. The photo below shows a sword pommel that was spoiled because the machine vibrated so much the part was constantly wiggling.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/kFUBFNVuNyyZq4MidLhjdG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -173,6 +201,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
 ## Preparing Files / Software
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/hvpAGAoeK87qQaXFv6EJ4J-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -195,6 +226,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1409861514390199065-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/cuuoG9jCU9WJGkAmhjJ7sG-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -211,12 +245,23 @@ _3DPrintingWorld’s_ [_Dread Pirate Roberts Collapsing Sword_](https://thangs.c
 
  The drier came in handy for this PETG print. You can see the improvement in quality, with the undried filament on the left looking a bit rough and the smoother dried print on the right. This print uses[Greengate Translucent Purple Petg](https://greengate3d.com/collections/recycled-pet-g/products/recycled-translucent-purple-pet-g) with a medallion and lid of[Polymaker Gold PLA](https://us.polymaker.com/products/polylite-silk-pla?%5Fpos=4&%5Fsid=12bdb1dfb&%5Fss=r&variant=40302810824761) and[Proto Pasta Empire Strikes Black](https://proto-pasta.com/products/empire-strikes-metallic-black-htpla) . It was printed using FLSun’s slicer turned down to 60mm/s and a pause at height command to swap the filament colors. The jar took one hour and 58 minutes to print, plus another 22 minutes for the lid, and about 6 minutes for the medallion. That's a little less than two and a half hours of total print time.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/nbRFkRX2ftW2ZToqDodomH-320-80.jpg)
 
 _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Hardware)
 
  It did surprisingly well on TPU once I slowed it down a bit. Running the filament through the secondary access point is highly recommended, as that bypasses several feet of Bowden tube. I made this bone shaped dog toy in TinkerCad that turned out with nice smooth layers and a good top finish. I used the[Inland Rainbow TPU](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FFilament-Rainbow-Flexible-Dimensional-Accuracy%2Fdp%2FB0C2DFRCPX%2Fref%3Dasc%5Fdf%5FB0C2DFRCPX%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8183781020254036200%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2199389479420%26psc%3D1%26mcid%3D1cd30c2667c03e859205a224012f7160%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1024134569316423388-20) and it printed in 52 minutes at 0.2 layer height and 60mm/s speed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/7tbozd2kd3xUDz3T6V8gQH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -255,6 +300,9 @@ Flsun S1: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 

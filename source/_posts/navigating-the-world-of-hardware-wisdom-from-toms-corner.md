@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Hardware - Wisdom From Tom's Corner
-date: 2024-08-10 19:39:45
-updated: 2024-08-11 10:41:36
+date: 2024-08-10T04:59:14.990Z
+updated: 2024-08-11T04:59:14.990Z
 tags:
   - review
 categories:
@@ -25,6 +25,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
 * [Asus Pro B760M-CT CSM (LED) at Amazon for $139.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-8937153543587653239-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Specifications: Asus B760M-CT
 
  Swipe to scroll horizontally
@@ -105,10 +108,17 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Inside the box are a couple of accessories designed to get you started: two SATA cables, the I/O shield, screw packages for M.2, ACC Express activation key card, and a user guide. Not much, but it’s everything you need outside of[drivers](https://www.tomshardware.com/tag/drivers) (download from the Asus website) to get going.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Design of the B760M-CT
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -117,12 +127,18 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  The B760M-CT is a Micro ATX form factor board measuring 244 x 244mm. It uses an old-school green PCB with a moisture-preventing coating to help in high-humidity environments. Built for business, it’s not meant to be viewed, really. With that in mind, you don’t get any integrated RGBs or RGB headers to add your own. Typical use cases will have these inside chassis without windows anyway. Strictly business here, folks!
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/PxB9U2jztbrQWBjpEYiqVn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +169,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Across the bottom is a slew of headers for additional connectivity and[security](https://www.tomshardware.com/tag/security) . From left to right, there’s front panel audio, two COM ports, an LPT header, a chassis fan header, and two USB 2.0 headers. Continuing focus to the right are clear CMOS and Debug jumpers, along with speaker, front panel, and chassis intrusion headers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/oFX8bsHQE3PFF2M2R8h9r-320-80.jpg)
 
  (Image credit: Tom's Hardware)

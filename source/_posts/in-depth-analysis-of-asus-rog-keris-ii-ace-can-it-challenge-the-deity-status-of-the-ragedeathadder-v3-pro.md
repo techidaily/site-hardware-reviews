@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis of Asus ROG Keris II Ace: Can It Challenge the Deity Status of the RageDeathAdder V3 Pro?"
-date: 2024-08-09 20:37:24
-updated: 2024-08-11 11:13:58
+date: 2024-08-10T04:59:15.048Z
+updated: 2024-08-11T04:59:15.048Z
 tags:
   - review
 categories:
@@ -31,6 +31,16 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -39,16 +49,18 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  (Image credit: Tom's Hardware)
 
-![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  It's on the shorter side, measuring 4.76 inches (121mm) long, 2.64 inches (67mm) wide, and 1.65 inches (42mm) high — but it's still designed primarily for people with at least medium-sized hands. It's wider and taller than the ROG Harpe Ace Aim Lab Edition (5.01 x 2.51 x 1.56 inches / 126.5 x 63.7 x 39.6mm) and the DeathAdder V3 Pro is larger all around (5 x 2.67 x 1.73 inches / 128 x 68 x 44mm).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/VrdossKaHAWYCFfaGW4mFn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -73,6 +85,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  The Keris II Ace comes with four small 100% PTFE mouse feet, which work well — this is an extremely lightweight mouse, and I didn't have any issues with glide in my testing (especially not on my favorite glass mouse pad). But if you want something even smoother, Asus does include larger replacement mouse feet, similar to the feet on the[Razer Viper V3 Pro](https://www.tomshardware.com/peripherals/gaming-mice/razer-viper-v3-pro-review) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/tYMmbKStRmsXxcbbVmtz25-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -132,12 +147,18 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance of the Keris II Ace
 
  The Keris II Ace sports Asus's ROG AimPoint Pro optical sensor, which has a maximum sensitivity of 42,000 DPI, a maximum speed of 750 IPS, and can handle up to 50Gs of acceleration. That's certainly the highest DPI I've seen on a gaming mouse, but remember that DPI doesn't really mean much on its own, and that most gamers aren't going to go above 4,000 DPI, let alone get anywhere near something like 10,000\. It's an excellent optical sensor that tracked on every surface I tried it on — including glass (both a glass mouse pad and an actual glass table) — with near-perfect accuracy and precision, and it's on par with the top-of-the-line sensors you'll find in just about every other premium flagship mice.
 
  The mouse also features Asus' ROG Optical Micro Switches, which are rated for 100 million clicks. They're nicely clicky and very consistent. They're about as loud as Razer's current optical mouse switches, if a little deeper-sounding, and they're a little crisper and quieter than the Logitech Lightforce hybrid optical switches on the[G Pro Superlight 2](https://www.tomshardware.com/reviews/logitech-g-pro-x-superlight-2) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/cLTTidZYnwqwmG82gipDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -154,6 +175,9 @@ Show More Deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -166,6 +190,16 @@ Show More Deals
 
  Image 1 of 5
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -178,10 +212,9 @@ Show More Deals
 
  (Image credit: Tom's Hardware)
 
-![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -202,6 +235,9 @@ Show More Deals
 
  Asus rates the Keris II Ace's battery life at 107 hours over 2.4GHz wireless with the lighting turned off. I assume that's with a standard 1,000 Hz polling rate — the Keris II Ace did do a good job of retaining its battery life when I had the polling rate set to 4,000 Hz, mostly because it was good at switching off automatically when not in use. But the battery life started to drop pretty quickly once I started actually using it. Still, 107 hours over a 2.4GHz wireless connection is (just) on the higher side of average.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Asus ROG Keris II Ace is an excellent mouse, even though stripped-down, ultra-lightweight gaming mice with high polling rates are getting to be pretty common these days. It's one of the lightest ultra-lightweight gaming mice and, while it didn't quite inspire me in the same way as the[Razer DeathAdder V3 Pro](https://www.tomshardware.com/reviews/razer-deathadder-v3-pro) , it feels very, very good. It has a speedy, accurate sensor, low-latency wireless connectivity, optional 4K/8K polling rates, and it comes with precut grip tape and extra mouse feet in the box.
@@ -258,6 +294,9 @@ Show More Deals
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest in Computer Hardware with Tom - Your Guide
-date: 2024-08-09 15:20:57
-updated: 2024-08-11 12:40:58
+date: 2024-08-10T04:59:04.908Z
+updated: 2024-08-11T04:59:04.908Z
 tags:
   - review
 categories:
@@ -15,6 +15,10 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  In the near future we’ll be looking at Valkyrie’s AIOs, but today’s review will cover the Vind SL125\. Does it have what it takes to earn a spot on our[best coolers list?](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) We’ll have to put it through testing to find out. But first, here are the specifications from Valkyrie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -82,6 +86,9 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  When you open the box containing the cooler, it has a bit of a dramatic effect presenting the product. You can see it in this GIF.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/dcxS5JJx5wHqiPK2bindE7-320-80.gif)
 
  (Image credit: Tom's Hardware)
@@ -95,10 +102,16 @@ Included with the cooler are the following:
 * Extra 1g tube of thermal paste
 * Anime-themed cover
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/KGGRinKvZY5LWGjKoPxYF3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LGA 1700 Installation
 
 Installing the Valkyrie Vind SL125n is fairly straightforward.
@@ -139,6 +152,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The Vind SL125 has six heatpipes connected to the CPU plate. It also features pre-applied thermal paste to make installation easier.If you need more paste, Valkyrie also includes a 1g tube for backup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/CcfpdaPDi6NdnCNxPQvYyT-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +169,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  ▶**2x 120mm fans**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/rNgBUKCQZ6a3CLrX7hNwNh-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -165,12 +184,19 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  You’ll need to be careful when installing the fans. If you look carefully, you’ll see the blades are shaped differently. Each fan pulls in a different direction, making it easy to install the fans incorrectly. The cooler will lose 10-20% of its cooling capability if this happens. An easy way to verify if you have installed the fans in the correct orientation is by looking at the Valkyrie logos – they should be facing each other, as shown in the picture below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/dF2v4AGLejcAMd8FyEDKXb-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The fans include RGB strips cutting across the corners of each fan, providing an illuminating accent.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/7EgobT62mMqNaFPkAzkiwa-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -187,12 +213,18 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 | **Lighting**     | ARGB                |
 | **MFFT**         | 5 Year Warranty     |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever. Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My cooler testing is designed to emulate the conditions a user would actually experience when using a computer. Some reviewers test coolers using an open bench. I do not like this method, it reduces cooling difficulty. When you use a case, the internal temperature of that case will become higher than that of the room’s ambient temperature, increasing the saturation of the cooler and overall cooling difficulty. Testing outside of a case will give an advantage to weaker coolers, especially those with fans that aren’t very strong.

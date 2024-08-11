@@ -1,7 +1,7 @@
 ---
 title: Discovering Performance with Tom's PC Reviews
-date: 2024-08-10 12:18:27
-updated: 2024-08-11 10:28:25
+date: 2024-08-10T04:59:11.118Z
+updated: 2024-08-11T04:59:11.118Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  In the near future we’ll be looking at Valkyrie’s AIOs, but today’s review will cover the Vind SL125\. Does it have what it takes to earn a spot on our[best coolers list?](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) We’ll have to put it through testing to find out. But first, here are the specifications from Valkyrie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -66,6 +69,10 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  The packaging of this cooler is extremely fancy, unlike any other air cooler I’ve tested previously.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/V37TBWGVkFoWWc5JB8mase-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -76,12 +83,18 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/W5Xh7aNnMVoW8VavwicPKn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  When you open the box containing the cooler, it has a bit of a dramatic effect presenting the product. You can see it in this GIF.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/dcxS5JJx5wHqiPK2bindE7-320-80.gif)
 
  (Image credit: Tom's Hardware)
@@ -107,12 +120,18 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  2\. Next, use the included tool to secure the mounting standoffs to the backplate.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/H4LYKH8xGjyydZVUWNotXW-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  3\. Place the mounting bars on top of the standoffs, and secure them with the included thumb screws.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/F7GGrkLsoA8S2ETCpGzVBX-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -131,6 +150,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
 **▶ White and Blue Aesthetic**
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/dnjcynwsqzKZSugDtge9nV-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -139,6 +161,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The Vind SL125 has six heatpipes connected to the CPU plate. It also features pre-applied thermal paste to make installation easier.If you need more paste, Valkyrie also includes a 1g tube for backup.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/CcfpdaPDi6NdnCNxPQvYyT-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -159,6 +184,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/eKKK4EQN8ua6cSPXLo4UWX-320-80.jpg)
 
  _This picture shows a fan installed in an incorrect orientation. This was corrected prior to testing. See the section about the fans below for more details._  (Image credit: Tom's Hardware)
@@ -193,6 +221,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever. Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My cooler testing is designed to emulate the conditions a user would actually experience when using a computer. Some reviewers test coolers using an open bench. I do not like this method, it reduces cooling difficulty. When you use a case, the internal temperature of that case will become higher than that of the room’s ambient temperature, increasing the saturation of the cooler and overall cooling difficulty. Testing outside of a case will give an advantage to weaker coolers, especially those with fans that aren’t very strong.

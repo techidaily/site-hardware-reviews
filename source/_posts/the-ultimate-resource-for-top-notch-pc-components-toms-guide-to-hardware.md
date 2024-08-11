@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Resource for Top-Notch PC Components - Tom’s Guide to Hardware
-date: 2024-08-08 11:30:34
-updated: 2024-08-11 11:47:57
+date: 2024-08-10T04:59:05.276Z
+updated: 2024-08-11T04:59:05.276Z
 tags:
   - review
 categories:
@@ -31,14 +31,28 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -47,10 +61,16 @@ The Atlas Air is available now for $179.99.
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -63,6 +83,9 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +134,9 @@ The Atlas Air is available now for $179.99.
 
  The Atlas Air comes with two cables — a 6-foot (1.8m) braided USB-C to USB-A charging cable, and a 6-foot (1.8m) braided 3.5mm audio cable with inline volume controls. It also comes with a detachable boom mic and a foam pop filter, a 2.4GHz wireless USB-A dongle, and a soft cloth drawstring carrying pouch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -165,12 +191,18 @@ The Atlas Air is available now for $179.99.
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Audio Performance of the Atlas Air
 
  The Atlas Air features an open-back design and has 40mm "high-precision" dynamic drivers that support 24-bit (hi-fi) / 96 kHz audio (in PC mode) and have a frequency response rate of 20 - 40,000 Hz. The open-back design means there's sound leak on both sides — you'll hear what's happening around you, and those around you will hear what you're listening to — but it also means a wider soundstage and a more open and natural (yet still immersive) sound profile in general. There are several open-back gaming headsets on the market — we last tested the[Corsair Virtuoso Pro](https://www.tomshardware.com/reviews/corsair-virtuoso-pro) — but Turtle Beach touts the Atlas Air as the first_wireless_ open-back gaming headset.
 
  Music sounds very good on the Atlas Air. I won't lie — I was prepared for disappointment, but I was very pleasantly surprised. The headset has a mostly-balanced sound profile that trends a little toward the low-end, but I don't hate that. There's enough power in the low end that you'll just feel the bass in songs like Kaskade's_POW POW POW,_  but not so much that there's any muddying. The low mid-range also has a little oomph in my mid-heavy favorite, K-391's_Lonely World,_ but just a little. The highs, on the other hand, are slightly restrained (but still a little hissy, occasionally). But combined with the headset's open-back design, which allows for a nice, wide soundstage and plenty of airiness, I definitely enjoyed listening to music on the Atlas Air.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://cdn.mos.cms.futurecdn.net/mp3fLQHoDXcMhpnEeaESKV-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -199,10 +231,16 @@ The Atlas Air is available now for $179.99.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Turtle Beach Atlas Air](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -215,12 +253,18 @@ The Atlas Air is available now for $179.99.
 
  Now, this would all be fine — if it worked. But the software is very finicky and inconsistent. I know I say that about every piece of peripheral software, but this is even more finicky, and less consistent, than most. Sometimes my settings were immediately saved to the headset and implemented; sometimes they weren't. I frequently found the settings changed when I restarted something or turned off the headset, or switched back from a different device, or accidentally clicked on the app, etc. I finally just uninstalled the software and things seem to be working fine. I couldn't avoid the software completely, however, as the headset wouldn't pair with its wireless dongle without an initial firmware update.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battery Life and Wireless Performance of the Atlas Air
 
  Turtle Beach rates the Atlas Air's battery life at 50 hours — enough that you'll only need to charge it once a week or so. There are plenty of headsets, now, that last longer — the[Razer BlackShark V2 Pro (2023)](https://www.tomshardware.com/reviews/razer-blackshark-v2-pro-2023) hits 70 hours easily, while the[HyperX Cloud III](https://www.tomshardware.com/reviews/hyperx-cloud-iii-wireless) is rated for 120 hours. But 50 hours is plenty for a wireless gaming headset you're not going to travel or commute with. As for connectivity, the Atlas Air has 2.4GHz wireless, Bluetooth 5.2, and wired options. It doesn't offer simultaneous 2.4GHz wireless and Bluetooth 5.2, but the input button is easy to find and input switching is very quick — I'd rather have that than a simultaneous dual connection that keeps dropping.
 
  Speaking of buttons, the buttons on the Atlas Air might seem like overkill (as many headsets combine functions like power and Bluetooth pairing), but I was impressed: I didn't have to fumble around to find them, nor did I forget which was which — not once. The speaker plate volume wheel, on the other hand, was a mess. It was inconsistent in just about every way — sometimes turning it one notch would raise the volume by a small increment and the next notch would jump to maximum... and the next notch would lower it. Sometimes turning the wheel would just jump the volume between a couple of steps before ultimately doing nothing. For what it's worth, this is something that could almost certainly be fixed with a firmware update (and was most likely broken by a firmware update). However, I would rather adjust my volume elsewhere than deal with Swarm II.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  I kind of love this headset — it's super comfortable, it sounds great, and the open-back design is perfect. But I also kind of hate this headset — or, at least, the firmware/software side of it. So, I'm at a crossroads: the headset has some issues that probably need to be fixed with a firmware update, but the software is so bad that I'm not even confident a firmware update would work (or fix things — more likely, we're going to need several firmware updates). It might sound a little dramatic to let terrible software stop you from buying a headset — something that really shouldn't even need software, but, trust me... it's bad. And firmware/software issues are more important with a wireless headset; this headset seems like it'll work fine if you only use it in analog mode, but then why buy a wireless headset?
@@ -271,6 +315,9 @@ The Atlas Air is available now for $179.99.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

@@ -1,7 +1,7 @@
 ---
 title: "Western Digital Unveils the Powerful 4TB WD Blue SN5000: A Mainstream SSD Revolutionary Reviewed"
-date: 2024-08-09 19:29:13
-updated: 2024-08-11 12:12:13
+date: 2024-08-10T04:59:16.419Z
+updated: 2024-08-11T04:59:16.419Z
 tags:
   - review
 categories:
@@ -25,6 +25,9 @@ The S1 is the latest superfast Delta 3D printer from FLSun, with a futuristic st
 
  This machine has so much wasted potential. FLSun really dropped the ball with their half-hearted custom slicer. Thankfully, I found a profile for[OrcaSlicer](https://www.tomshardware.com/3d-printing/how-to-use-orca-slicer) right before finishing this review that gave me hope the printer can be saved. With a price tag of $1,499, it’s not a printer I’d recommend for beginners, but there’s no denying its speed and futuristic flare. It may not be the[Best 3D Printer](https://www.tomshardware.com/best-picks/best-3d-printers) I’ve seen this year, but it’s definitely the fastest.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Specifications: FLSun S1
 
  Swipe to scroll horizontally
@@ -54,6 +57,9 @@ Today's best Flsun S1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Included in the box: FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/LPFJ3KGmcZ5HeseQS4KGUG-320-80.jpg)
@@ -66,6 +72,9 @@ Today's best Flsun S1 deals
 
 ## Assembling the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/YgcWh6SizZq9eMjJJiLhWF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -76,6 +85,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
 ## Leveling the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/2Lo6bW3sD5FMhebQbfhNDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -84,8 +96,14 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  If you need to adjust the nozzle height for a pesky filament (like PETG), there’s a limited amount of z height available from the tuning screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Loading Filament in the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/giSkyrn7ELkiyeu3D6NCGH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -94,12 +112,18 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  I found it necessary to hold the spool in my left hand and feed the strand into the Bowden tube with my right. Once you reach the tool head (several feet of Bowden tube later), you can use the quick release on the tubing and shove the last few inches home.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/6uVVH587CGdVivw6RpzPoF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Though I was able to feed TPU the normal way, it’s far easier to use a table mounted spool and use the secondary filament path. You’ll have to turn off the filament runout sensor, which you can do from the control panel.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/xK9wcM82S5WKxUVo2Xi5bH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -123,6 +147,9 @@ gcode:
 
 ## Design of the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -137,6 +164,9 @@ gcode:
 
  The spool holder is set inside a built-in filament drier. It can operate while the printer is running or idle, allowing you to prep filament before use or keep it dry during printing. There are no temperature settings for the dryer - just an on/off switch and a timer. A humidity gauge suggests how moist the chamber is but seems to be wildly inaccurate. At one point it said the humidity was 2%, while a separate hygrometer says it was 45%. The temperature is also off by a drastic amount, with the screen saying 54.8C, but it was 80.7F (26.6C) on my thermometer. **For the record, we want the dry box to be between 40 and 50C for PLA and up to 65C for PETG.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/pBQNrEvVLBprdnKTPb9QmG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -195,6 +225,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  This was printed in ordinary[gray Inland PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FInland-1-75mm-Gray-Printer-Filament%2Fdp%2FB00YSOZFQI%2Fref%3Dsr%5F1%5F3%3Fcrid%3D3U6D1A3IQH7NI%26keywords%3Dinland%252Bgrey%252Bpla%26qid%3D1691567521%26sprefix%3Dinland%252Bgrey%252Bpla%252Caps%252C142%26sr%3D8-3%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1409861514390199065-20) , so none of the defects are hidden.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/cuuoG9jCU9WJGkAmhjJ7sG-320-80.jpg)
 
 [_3D Benchy_](https://www.3dbenchy.com/)  (Image credit: Tom's Hardware)
@@ -217,12 +250,18 @@ _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Har
 
  It did surprisingly well on TPU once I slowed it down a bit. Running the filament through the secondary access point is highly recommended, as that bypasses several feet of Bowden tube. I made this bone shaped dog toy in TinkerCad that turned out with nice smooth layers and a good top finish. I used the[Inland Rainbow TPU](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FFilament-Rainbow-Flexible-Dimensional-Accuracy%2Fdp%2FB0C2DFRCPX%2Fref%3Dasc%5Fdf%5FB0C2DFRCPX%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8183781020254036200%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2199389479420%26psc%3D1%26mcid%3D1cd30c2667c03e859205a224012f7160%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1024134569316423388-20) and it printed in 52 minutes at 0.2 layer height and 60mm/s speed.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/7tbozd2kd3xUDz3T6V8gQH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  I tested ABS (using[Polymaker Galaxy Orange ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-1-75mm-Printer-Resistant%2Fdp%2FB0BGX2D9NL%2Fref%3Dasc%5Fdf%5FB0BGX2D9NL%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D4581579599005625215%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2188700900836%26psc%3D1%26mcid%3Dff4e1492bb173aee8532f9c33faa6271%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1186572318444853215-20) ) for this RC car part with the custom slicer, and it was entirely too fast – causing poor layer adhesion. It also knocked over the tree supports each of the three times I tried this print. With a bit of tuning, I could make this work. I gave up and printed this part on the[QIDI Tech Q1](https://www.tomshardware.com/3d-printing/qidi-tech-q1-pro-review) since I needed it for MRRF and couldn’t waste more of my orange ABS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/EhZ39Fe5XGF4KggC4mdk3H-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -255,6 +294,9 @@ Flsun S1: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 

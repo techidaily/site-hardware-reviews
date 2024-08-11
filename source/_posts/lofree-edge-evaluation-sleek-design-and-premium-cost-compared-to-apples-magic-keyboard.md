@@ -1,7 +1,7 @@
 ---
 title: "Lofree Edge Evaluation: Sleek Design & Premium Cost Compared to Apple's Magic Keyboard"
-date: 2024-08-09 18:43:50
-updated: 2024-08-11 12:41:34
+date: 2024-08-10T04:59:07.651Z
+updated: 2024-08-11T04:59:07.651Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -66,6 +69,9 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of these coolers is fairly standard, with molded foam and plastic coverings to protect the contents during shipping.
@@ -91,6 +97,9 @@ Included with the cooler are the following:
 
  What initially caught my eye is that these coolers have five (C5C model) or six (D6SEC model) direct-touch heatpipes. Most units that feature direct-touch heatpipes are limited to four or less. To fit six of these on the D6SEC model, the heatpipes are slightly smaller.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/Gj7kqnFEjvKMo4qc2NdSZ9-320-80.jpg)
 
  _UpHere D6SEC pictured on the left, UpHere C5C pictured on the right_  (Image credit: Tom's Hardware)
@@ -103,6 +112,10 @@ Included with the cooler are the following:
 
  The D6SEC model has indentions in the first heatsink tower, which allows you to slide a screwdriver through it to install the cooler without needing to remove its fans. This saves a few minutes during installation, and I imagine this would be considered most useful for those who build custom PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/qsNgjfwfaNZintvJFzq9B4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +124,9 @@ Included with the cooler are the following:
 
  Neither model of UpHere’s air coolers interferes or overhangs DIMM slots in any manner, which means you can use these coolers no matter how short or tall your computer’s RAM is.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/s2D5kBqY6fpiJivsJW6Cd3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -119,6 +135,9 @@ Included with the cooler are the following:
 
 The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/TDiKvVBjdofvSKxYoL3GuG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -157,6 +176,10 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 | **Lighting**     | None               | ARGB               |
 | **MFFT**         | Unlisted           | Unlisted           |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  Many factors other than the CPU cooler can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
@@ -219,6 +242,9 @@ UpHere C5C: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

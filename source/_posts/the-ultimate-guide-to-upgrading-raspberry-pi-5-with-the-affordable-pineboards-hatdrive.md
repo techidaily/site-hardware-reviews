@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Upgrading Raspberry Pi 5 with the Affordable Pineboards HatDrive
-date: 2024-08-09 22:36:34
-updated: 2024-08-11 11:34:55
+date: 2024-08-10T04:59:14.891Z
+updated: 2024-08-11T04:59:14.891Z
 tags:
   - review
 categories:
@@ -23,6 +23,10 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
 * [Elegoo Saturn 4 Ultra at Elegoo for $399](https://shareasale.com/r.cfm?b=1680329&u=4338022&m=104244&afftrack=techidaily&urllink=https%3A%2F%2Fbluettifr.pxf.io%2Fbax2bv)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Specifications: Elegoo Saturn 4 Ultra
 
  Swipe to scroll horizontally
@@ -60,6 +64,9 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
 ## Included in the Box: Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/NR6fM5LSHZ2vyoLdqun7N3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -80,6 +87,10 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
 ## Assembling the Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/zj9UaTGsEHkvZ6GsQpZWo4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -90,6 +101,9 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
  Unlike other resin printers, the Saturn 4 Ultra doesn’t require manual calibration. It has a mechanical sensor that detects how well the plate and glass are fitting together and can adjust accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the Elegoo Saturn 4 Ultra
 
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/aKBmFNJjdUCZCo6rV66LE3-320-80.jpg)
@@ -120,6 +134,9 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
  The build plate on the is laser-etched, which holds prints well while still being fairly easy to scrape off. The top of the plate isn’t quite sloped enough to get all the resin back into the vat, and the large block between the plate and the latch makes cleaning it unhandy. On the plus side, the machine comes with a drip tray you can wrap around the vat to contain resin droplets, and the vat has an excellent no-drip pour spout for getting resin back into the bottle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/DMy6vkfPKGTTCzFHAV4fg5-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -128,8 +145,14 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
  The touch screen is similar to other Elegoo resin printers and is well thought out and easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Slicers Compatible with the Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/BpSuqecqcQ222wenyEQCc3-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -140,6 +163,9 @@ The Saturn 4 Ultra is not yet supported by LycheeSlicer.
 
 ## Washing and Curing Your Prints
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/mdDc55vk8N77EfM4LyLQD4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -158,6 +184,9 @@ Supports should also be cured before being thrown away.
 
 ## Sample Prints on the Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/Q8B9jtpCxX9uet4y3RFtm3-320-80.jpg)
 
 [_Wekster’s Rocket bust_](https://www.patreon.com/posts/rocket-bust-and-58934464)  (Image credit: Tom's Hardware)
@@ -172,6 +201,9 @@ Supports should also be cured before being thrown away.
 
  I loaded the Saturn 4 Ultra with[Phrozen’s Aqua Grey 8K](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPhrozen-Printing-Designed-Showcase-Printers%2Fdp%2FB09Q33CS62%2Fref%3Dsr%5F1%5F4%3Fcrid%3D2469XOHE0YUIQ%26dib%3DeyJ2IjoiMSJ9.yoUQvgbxwdJ9Fb1ptGJmOHC7BE7dH9-v6YbJISB9OTASofzjeMFfykGPHzUlZeyIfHzwGku3Gqh3Sle3Y8EX4WAan5PFgf9glbRlo82q6z29mBE8mfljrPCnbFtaSgnz4RCtQG6QWXhyB2Fdm2G7nBBcJBEhczk4nu2JO9kYhBScDtaFHS2peER6eHNNnatIpLhm389NvlgwlvRSCm3-bXkYSGEXyhAt1NRjm3-U7IJECmI0pMh3YHYuGb0n3mxn%5FUwc84kPJ6bfn6-%5F%5FMYdRXQCMowXWyfE7IOLbZqrupM.fNVM5tZqLwtDeXoQqPpQZTz7F%5Fewc0abOlHsewtQeQ4%26dib%5Ftag%3Dse%26keywords%3D8k%2Bresin%26qid%3D1715644820%26s%3Dindustrial%26sprefix%3D8k%2Bresin%252Cindustrial%252C100%26sr%3D1-4%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1281833416057619827-20) to see how it would do with a different brand of resin, and I was happy to see the Saturn had no trouble at all. This D&D miniatures printed very clean with beautiful details. These printed in 2 hours and 12 minutes using a 3.5 exposure time and a .05 mm layer height.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/qkTZWYjyGLDsCpnr7bprf4-320-80.jpg)
 
 [_Cinderwing3D Rose Dragon_](https://cults3d.com/en/3d-model/art/rose-dragon-valentine-s-day-articulating-flexi-wiggle-pet-print-in-place-fantasy)  (Image credit: Tom's Hardware)
@@ -216,6 +248,9 @@ Supports should also be cured before being thrown away.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

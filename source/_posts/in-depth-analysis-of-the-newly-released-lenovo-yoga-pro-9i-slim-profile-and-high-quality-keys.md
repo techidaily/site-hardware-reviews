@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of the Newly Released Lenovo Yoga Pro 9I - Slim Profile & High-Quality Keys
-date: 2024-08-09 14:24:28
-updated: 2024-08-11 10:27:49
+date: 2024-08-10T04:59:10.788Z
+updated: 2024-08-11T04:59:10.788Z
 tags:
   - review
 categories:
@@ -57,6 +57,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  ☆  ☆  ☆  ☆  ☆
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Dough Spectrum Black 27" QHD...](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...")](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)
 
 [Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)
@@ -93,10 +96,16 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  How much is all this goodness? The Spectrum Black 27 is $1,099 with Gorilla Glass or $899 with a matte front layer. The stand is an extra $99.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Assembly and Accessories
 
  Dough provides an excellent unboxing experience with only cardboard that protects the contents. Delicate bits are wrapped in a smooth material that’s a bit like parchment paper. The stand comes in a separate carton and is optional. It costs $99 extra. There are no cables included except for the external power brick. I’ll leave opinions on that up to the reader.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 4
@@ -105,10 +114,16 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Dough)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Dough)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Dough)
@@ -149,6 +164,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -175,6 +193,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  Dough has included a comprehensive set of OLED maintenance options. There is pixel shift, a screen saver, logo compensation, and others. Each one is explained at the bottom, so you know what it does. The last two, transistor wear and OLED wear compensation, take about five minutes to complete and can be run whenever you wish.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dough Spectrum Black 27 Calibration Settings
 
  When I measured my Spectrum Black 27 sample, it hit all the marks near perfection. I could not improve upon the numbers with calibration, so I left them at the factory defaults. I found the best picture and the best test results with Brightness Mode on Maximum. This varies brightness uniformly across the full image range, so you won’t see it in operation. If you need a stable light output level, choose Uniform brightness. You can change gamut modes between DCI-P3, Adobe RGB and sRGB without affecting other parameters. Adobe RGB is off the mark for green and, while fine for casual use, is not accurate enough for critical applications. However, P3 and sRGB are qualified. My suggested settings are below.
@@ -195,6 +216,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 | Gamma               | 2.2                |
 | Color Temp          | Normal             |
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gaming and Hands-on
 
  The Spectrum Black 27’s main selling point is its Gorilla Glass front layer, which is supposed to make blacks deeper. OLED blacks are already about as black as can be, so, in practice, this is a subtle thing. Lining up an Alienware AW3225QF 32-inch display next to it made the Dough look slightly blacker. It’s subtle, and it depends on how ambient light hits the screen. But the Gorilla Glass makes a positive impact. Though it is shiny, it is also coated to reduce glare and it does this effectively. I liked the way it resisted fingerprints too. Though I am not a screen toucher, other users I know frequently touch the screen when pointing things out. It drives me crazy, but it’s a thing. I would pay the extra $200 for Gorilla Glass over a matte finish.
@@ -225,6 +249,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  ☆  ☆  ☆  ☆  ☆
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 [![Dough Spectrum Black 27" QHD...](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...")](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)
 
 [Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)
@@ -249,6 +276,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

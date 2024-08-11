@@ -1,7 +1,7 @@
 ---
 title: "Rigorous Testing of Sabrent Rocket Nano 2242: A 1TB SSD Review for M.2 Needs"
-date: 2024-08-10 16:24:35
-updated: 2024-08-11 11:23:38
+date: 2024-08-10T04:59:14.575Z
+updated: 2024-08-11T04:59:14.575Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -66,10 +69,16 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of these coolers is fairly standard, with molded foam and plastic coverings to protect the contents during shipping.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/auYCAPdi7XJhGheFWY7jP7-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -91,6 +100,9 @@ Included with the cooler are the following:
 
  What initially caught my eye is that these coolers have five (C5C model) or six (D6SEC model) direct-touch heatpipes. Most units that feature direct-touch heatpipes are limited to four or less. To fit six of these on the D6SEC model, the heatpipes are slightly smaller.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/Gj7kqnFEjvKMo4qc2NdSZ9-320-80.jpg)
 
  _UpHere D6SEC pictured on the left, UpHere C5C pictured on the right_  (Image credit: Tom's Hardware)
@@ -103,6 +115,9 @@ Included with the cooler are the following:
 
  The D6SEC model has indentions in the first heatsink tower, which allows you to slide a screwdriver through it to install the cooler without needing to remove its fans. This saves a few minutes during installation, and I imagine this would be considered most useful for those who build custom PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/qsNgjfwfaNZintvJFzq9B4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -125,6 +140,9 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  The C5C’s heatsink has alternating, staggered indentations along the exit. These types of designs are intended to help improve the static pressure of airflow.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/xdLRL7rkpNWkBTnt4FdERA-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -157,12 +175,18 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 | **Lighting**     | None               | ARGB               |
 | **MFFT**         | Unlisted           | Unlisted           |
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  Many factors other than the CPU cooler can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My cooler testing is specifically designed to emulate the conditions a user would actually experience when using a computer. Some reviewers test coolers using an open bench. I do not like this method, it reduces cooling difficulty. When you use a case, the internal temperature of that case will become higher than that of the room’s ambient temperature, increasing the saturation of the cooler and overall cooling difficulty. Testing outside of a case will give an advantage to weaker coolers, especially those with fans that aren’t very strong.

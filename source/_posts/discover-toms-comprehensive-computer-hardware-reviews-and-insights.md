@@ -1,7 +1,7 @@
 ---
 title: Discover Tom's Comprehensive Computer Hardware Reviews & Insights
-date: 2024-08-09 22:48:43
-updated: 2024-08-11 12:13:58
+date: 2024-08-10T04:59:05.193Z
+updated: 2024-08-11T04:59:05.193Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -62,10 +65,16 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/h4Gq7Tgy8mj45EVeVuDhBF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of these coolers is fairly standard, with molded foam and plastic coverings to protect the contents during shipping.
@@ -111,6 +120,9 @@ Included with the cooler are the following:
 
  Neither model of UpHere’s air coolers interferes or overhangs DIMM slots in any manner, which means you can use these coolers no matter how short or tall your computer’s RAM is.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/s2D5kBqY6fpiJivsJW6Cd3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -119,12 +131,18 @@ Included with the cooler are the following:
 
 The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/TDiKvVBjdofvSKxYoL3GuG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The C5C’s heatsink has alternating, staggered indentations along the exit. These types of designs are intended to help improve the static pressure of airflow.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/xdLRL7rkpNWkBTnt4FdERA-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -133,6 +151,9 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  UpHere includes a small 1g tube of thermal paste with each cooler. The paste is rated for 14.3 w/mK
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/chjDLbeuN7L3Rm3fNdYyd-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -163,6 +184,9 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My cooler testing is specifically designed to emulate the conditions a user would actually experience when using a computer. Some reviewers test coolers using an open bench. I do not like this method, it reduces cooling difficulty. When you use a case, the internal temperature of that case will become higher than that of the room’s ambient temperature, increasing the saturation of the cooler and overall cooling difficulty. Testing outside of a case will give an advantage to weaker coolers, especially those with fans that aren’t very strong.

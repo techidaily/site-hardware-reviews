@@ -1,7 +1,7 @@
 ---
 title: Exploring Cutting-Edge Technology with Tom's Hardware Hub
-date: 2024-08-10 19:48:13
-updated: 2024-08-11 12:23:32
+date: 2024-08-10T04:59:06.744Z
+updated: 2024-08-11T04:59:06.744Z
 tags:
   - review
 categories:
@@ -25,6 +25,9 @@ The S1 is the latest superfast Delta 3D printer from FLSun, with a futuristic st
 
  This machine has so much wasted potential. FLSun really dropped the ball with their half-hearted custom slicer. Thankfully, I found a profile for[OrcaSlicer](https://www.tomshardware.com/3d-printing/how-to-use-orca-slicer) right before finishing this review that gave me hope the printer can be saved. With a price tag of $1,499, it’s not a printer I’d recommend for beginners, but there’s no denying its speed and futuristic flare. It may not be the[Best 3D Printer](https://www.tomshardware.com/best-picks/best-3d-printers) I’ve seen this year, but it’s definitely the fastest.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Specifications: FLSun S1
 
  Swipe to scroll horizontally
@@ -54,6 +57,9 @@ Today's best Flsun S1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Included in the box: FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/LPFJ3KGmcZ5HeseQS4KGUG-320-80.jpg)
@@ -64,6 +70,14 @@ Today's best Flsun S1 deals
 
  There’s a paper copy of the user manual, and the USB drive has a copy of the FLSun Slicer. Test models are loaded in the printer’s memory.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/YgcWh6SizZq9eMjJJiLhWF-320-80.jpg)
@@ -100,6 +114,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  Though I was able to feed TPU the normal way, it’s far easier to use a table mounted spool and use the secondary filament path. You’ll have to turn off the filament runout sensor, which you can do from the control panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/xK9wcM82S5WKxUVo2Xi5bH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -121,8 +138,14 @@ gcode:
 
 ```
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -131,12 +154,18 @@ gcode:
 
  It has a sleek, futuristic look with the best control screen I’ve ever seen on a 3D printer. The glass panel blends seamlessly into the machine’s front and offers large, clear text and graphics, including a speedometer to show off how fast the print head is whirling.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/E4ngRfgXfncFsNhVE9bi3F-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The spool holder is set inside a built-in filament drier. It can operate while the printer is running or idle, allowing you to prep filament before use or keep it dry during printing. There are no temperature settings for the dryer - just an on/off switch and a timer. A humidity gauge suggests how moist the chamber is but seems to be wildly inaccurate. At one point it said the humidity was 2%, while a separate hygrometer says it was 45%. The temperature is also off by a drastic amount, with the screen saying 54.8C, but it was 80.7F (26.6C) on my thermometer. **For the record, we want the dry box to be between 40 and 50C for PLA and up to 65C for PETG.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/pBQNrEvVLBprdnKTPb9QmG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +182,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  The FLSun S1 boasts speeds up to 1200mm/s, which it uses for travel moves. Its print speed tops out at 800mm/s and is used for infill. The walls are attempted at 500 mm/s. And I say_attempt_ because running the printer at full speed often results in poor quality or prints knocked off the bed. The photo below shows a sword pommel that was spoiled because the machine vibrated so much the part was constantly wiggling.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/kFUBFNVuNyyZq4MidLhjdG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -171,6 +203,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Preparing Files / Software
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/hvpAGAoeK87qQaXFv6EJ4J-320-80.png)
@@ -181,6 +216,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  A profile for OrcaSlicer has been released to the FLSun Wiki, which helps, but you still need to tone down the fan and filament flow. I set the part cooling fan to 85% and material flow to 0.9, making it more manageable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Printing on the FLSun S1
 
  Surface quality on the FLSun S1 is very smooth, but the included custom slicer does it no justice. My prints using FLSun’s slicer were terribly inaccurate, horribly over extruded and prone to fails. Switching to OrcaSlicer improved the quality, but I still had to tone down the flow to 0.9 in the filament profile.
@@ -205,6 +243,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Switching to Orca Slicer finally gave me a print that worked. Using[Creality Hyper PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-PLA-1-75mm-Hyper-Dimensional%2Fdp%2FB0C2BJB256%2Fref%3Dsr%5F1%5F2%5Fsspa%3Fcrid%3D6BM63WMSTYTW%26dib%3DeyJ2IjoiMSJ9.DBIdXGW3ydJyI9LtWmrvdT0y0r1mUr1sul5pujsxiQnyIJZORYMWFdshTLU7rbUiS-roDmW61hfiJP033rQQxiYnLnotcAnkizNESFrm6aGDvBpF3nGSNdXvor3VhqszWUfN6hNFPOz5F8pj%5Ff%5FcE9Q-qfb1hJRHjcuI%5FlRDy15zsj6im4xGWtqgyErBfXACRCXhgVkVkKW0tpptqDndvvjGmncqXpAOoIbBUzYWMOg.NEz9kLp7pRQJKaYe8Ivh2bCIotWbvWIgA7egMIVqxeM%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bhyper%252Bpla%26qid%3D1721423887%26sprefix%3Dcreality%252Bhyp%252Caps%252C143%26sr%3D8-2-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1050008372919557531-20) , the final sword was printed with a 0.2 layer height at 500mm/s and took two hours and 28 minutes to print. The print was smooth, with no visible layer lines, except for the underside of the guard, where it got a little sloppy. This print would have taken an ordinary bed slinger, like the[Prusa MK4](https://www.tomshardware.com/reviews/prusa-mk4) , a little over seven hours to print.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/sSHAHaKwn3SpEozTzAFy9G-320-80.jpg)
 
 _3DPrintingWorld’s_ [_Dread Pirate Roberts Collapsing Sword_](https://thangs.com/designer/3dprintingworld/3d-model/Dread%20Pirate%20Roberts%20Collapsing%20Sword%20Print-in-Place-1053025)  (Image credit: Tom's Hardware)
@@ -217,12 +258,18 @@ _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Har
 
  It did surprisingly well on TPU once I slowed it down a bit. Running the filament through the secondary access point is highly recommended, as that bypasses several feet of Bowden tube. I made this bone shaped dog toy in TinkerCad that turned out with nice smooth layers and a good top finish. I used the[Inland Rainbow TPU](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FFilament-Rainbow-Flexible-Dimensional-Accuracy%2Fdp%2FB0C2DFRCPX%2Fref%3Dasc%5Fdf%5FB0C2DFRCPX%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D8183781020254036200%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2199389479420%26psc%3D1%26mcid%3D1cd30c2667c03e859205a224012f7160%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1024134569316423388-20) and it printed in 52 minutes at 0.2 layer height and 60mm/s speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/7tbozd2kd3xUDz3T6V8gQH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  I tested ABS (using[Polymaker Galaxy Orange ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-1-75mm-Printer-Resistant%2Fdp%2FB0BGX2D9NL%2Fref%3Dasc%5Fdf%5FB0BGX2D9NL%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D4581579599005625215%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2188700900836%26psc%3D1%26mcid%3Dff4e1492bb173aee8532f9c33faa6271%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1186572318444853215-20) ) for this RC car part with the custom slicer, and it was entirely too fast – causing poor layer adhesion. It also knocked over the tree supports each of the three times I tried this print. With a bit of tuning, I could make this work. I gave up and printed this part on the[QIDI Tech Q1](https://www.tomshardware.com/3d-printing/qidi-tech-q1-pro-review) since I needed it for MRRF and couldn’t waste more of my orange ABS.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/EhZ39Fe5XGF4KggC4mdk3H-320-80.jpg)
 
  (Image credit: Tom's Hardware)

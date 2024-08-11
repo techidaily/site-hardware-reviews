@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to the Geekworm X1011 NAS Maker: Inside Story and Evaluation"
-date: 2024-08-10 18:19:14
-updated: 2024-08-11 12:38:46
+date: 2024-08-10T04:59:06.493Z
+updated: 2024-08-11T04:59:06.493Z
 tags:
   - review
 categories:
@@ -34,6 +34,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 | **Weight**            | 83 grams                             |
 | **Warranty**          | 1 year                               |
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The Dark Airflow I arrives in a box similar in size to my Samsung S24 Ultra smartphone, but deeper. Opening the box reveals the heatsink in plastic packaging.
@@ -44,6 +47,9 @@ Until recently, cooling and storage was at best an afterthought for most enthusi
 
  You’ll find instructions on how to install the device printed on the inside of the box. Underneath the plastic packaging are thermal pads and a small screwdriver.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TeamGroup T-Force Dark AirFlow I SSD Cooler](https://cdn.mos.cms.futurecdn.net/L2AZDguEwgTGKhwz43iQvG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -60,6 +66,9 @@ The installation of the NVMe heatsink is fairly simple.
 
  2\. Place your M.2 NVMe SSD onto the thermal pad. Take the second thermal pad, and place it on top.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![TeamGroup T-Force Dark AirFlow I SSD Cooler](https://cdn.mos.cms.futurecdn.net/JbbnR9ZanvCMNjmpm7Ns4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -82,6 +91,9 @@ The installation of the NVMe heatsink is fairly simple.
 
  Despite its larger size, TeamGroup’s Airflow I can be installed next to most GPUs on the market without compatibility problems. However, if you have one of the RTX 4090 GPUs that covers the NVMe slot next to your CPU, you’ll have to use an alternative slot.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TeamGroup T-Force Dark AirFlow I SSD Cooler](https://cdn.mos.cms.futurecdn.net/SoUysJn6wMzYWVUn4JwVu5-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -94,6 +106,9 @@ The installation of the NVMe heatsink is fairly simple.
 
  The Dark AirFlow I incorporates a black heatsink with multilayered aluminum alloy fins and two copper heatpipes for enhanced heat dissipation. It is quite possible that – with a little bit of modification – this unit could be adapted to effectively cool low-end CPUs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![TeamGroup T-Force Dark AirFlow I SSD Cooler](https://cdn.mos.cms.futurecdn.net/hhKiFUapYbZrLMZghkoZYd-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -102,6 +117,18 @@ The installation of the NVMe heatsink is fairly simple.
 
  In addition to the fins and copper heatpipes, the Dark Airflow I also utilizes a 2510-type fan for better cooling performance.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TeamGroup T-Force Dark AirFlow I SSD Cooler](https://cdn.mos.cms.futurecdn.net/UgNtaLXjGLnDYQmoVhsP9e-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -110,10 +137,17 @@ The installation of the NVMe heatsink is fairly simple.
 
  Every part of the heatsink – including the fins, the copper heatpipes, the fan, and even the cord of the unit – are all solid black.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![TeamGroup T-Force Dark AirFlow I SSD Cooler](https://cdn.mos.cms.futurecdn.net/XUzESHkv6MZuzTjybpsmAK-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Testing Methodology: How hot is too hot? Does cooling even matter for a SSD?
 
  With SSD heatsinks, many readers are likely asking if it really matters. And if you’re a typical user who merely loads a few applications and games from time to time – you probably don’t need an advanced heatsink. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.

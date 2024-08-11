@@ -1,7 +1,7 @@
 ---
 title: Tom's Tech Hub - Comprehensive Guide to Latest Gadgets
-date: 2024-08-08 16:17:56
-updated: 2024-08-11 11:46:51
+date: 2024-08-10T04:59:09.485Z
+updated: 2024-08-11T04:59:09.485Z
 tags:
   - review
 categories:
@@ -25,6 +25,9 @@ The S1 is the latest superfast Delta 3D printer from FLSun, with a futuristic st
 
  This machine has so much wasted potential. FLSun really dropped the ball with their half-hearted custom slicer. Thankfully, I found a profile for[OrcaSlicer](https://www.tomshardware.com/3d-printing/how-to-use-orca-slicer) right before finishing this review that gave me hope the printer can be saved. With a price tag of $1,499, it’s not a printer I’d recommend for beginners, but there’s no denying its speed and futuristic flare. It may not be the[Best 3D Printer](https://www.tomshardware.com/best-picks/best-3d-printers) I’ve seen this year, but it’s definitely the fastest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Specifications: FLSun S1
 
  Swipe to scroll horizontally
@@ -54,8 +57,18 @@ Today's best Flsun S1 deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Included in the box: FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/LPFJ3KGmcZ5HeseQS4KGUG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -64,6 +77,9 @@ Today's best Flsun S1 deals
 
  There’s a paper copy of the user manual, and the USB drive has a copy of the FLSun Slicer. Test models are loaded in the printer’s memory.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/YgcWh6SizZq9eMjJJiLhWF-320-80.jpg)
@@ -76,6 +92,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
 ## Leveling the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/2Lo6bW3sD5FMhebQbfhNDF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -84,6 +103,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  If you need to adjust the nozzle height for a pesky filament (like PETG), there’s a limited amount of z height available from the tuning screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Loading Filament in the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/giSkyrn7ELkiyeu3D6NCGH-320-80.jpg)
@@ -121,8 +143,14 @@ gcode:
 
 ```
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design of the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -161,16 +189,25 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Bed adhesion at full speed is difficult for this printer, despite the nice PEI coating on its flexible plate. The manual advises using glue stick for all prints, but there is no reminder like you would see on the cool engineering plates of other brands. This is a hard lesson to learn, and forgetting is painful. I got a print wrapped around the nozzle so bad it traveled upward into the fan. This required replacing much of the tool head, and FLSun was kind enough to swap out the entire printer and let me try again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/WFJPhTdMRTpSwonyZvd8gF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  That said, the FLSun S1's hotend is amazing. The throat of the hotend is drilled out like a CHT nozzle to provide high flow, while the nozzle itself is a standard removable V6.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/ViY9GiNePwsbXQBuha26JG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Preparing Files / Software
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/hvpAGAoeK87qQaXFv6EJ4J-320-80.png)
@@ -223,10 +260,16 @@ _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Har
 
  I tested ABS (using[Polymaker Galaxy Orange ABS](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPolymaker-Filament-1-75mm-Printer-Resistant%2Fdp%2FB0BGX2D9NL%2Fref%3Dasc%5Fdf%5FB0BGX2D9NL%2F%3FlinkCode%3Ddf0%26hvadid%3D693071814430%26hvpos%3D%26hvnetw%3Dg%26hvrand%3D4581579599005625215%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9022852%26hvtargid%3Dpla-2188700900836%26psc%3D1%26mcid%3Dff4e1492bb173aee8532f9c33faa6271%26gad%5Fsource%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1186572318444853215-20) ) for this RC car part with the custom slicer, and it was entirely too fast – causing poor layer adhesion. It also knocked over the tree supports each of the three times I tried this print. With a bit of tuning, I could make this work. I gave up and printed this part on the[QIDI Tech Q1](https://www.tomshardware.com/3d-printing/qidi-tech-q1-pro-review) since I needed it for MRRF and couldn’t waste more of my orange ABS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/EhZ39Fe5XGF4KggC4mdk3H-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The FLSun S1 is a frustrating hunk of machinery that’s so close to wonderful and yet so far from it. No one should pay $1,500 for a machine that needs this much tuning to perform well. The plus side is it runs vanilla Klipper firmware and can be switched to OrcaSlicer for those who don’t mind an expensive tinkering project.
@@ -255,6 +298,9 @@ Flsun S1: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 

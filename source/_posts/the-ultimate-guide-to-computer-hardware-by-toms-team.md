@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Computer Hardware by Tom's Team
-date: 2024-08-09 14:39:15
-updated: 2024-08-11 12:23:20
+date: 2024-08-10T04:59:09.466Z
+updated: 2024-08-11T04:59:09.466Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  In the near future we’ll be looking at Valkyrie’s AIOs, but today’s review will cover the Vind SL125\. Does it have what it takes to earn a spot on our[best coolers list?](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) We’ll have to put it through testing to find out. But first, here are the specifications from Valkyrie.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -62,10 +65,16 @@ Valkyrie has only recently come across our radar as a new cooling company on the
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of this cooler is extremely fancy, unlike any other air cooler I’ve tested previously.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/V37TBWGVkFoWWc5JB8mase-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -95,6 +104,9 @@ Included with the cooler are the following:
 * Extra 1g tube of thermal paste
 * Anime-themed cover
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/KGGRinKvZY5LWGjKoPxYF3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -131,6 +143,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
 **▶ White and Blue Aesthetic**
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/dnjcynwsqzKZSugDtge9nV-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -147,24 +162,42 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The cooler comes with your choice between two detachable covers. The default cover is white and feature’s Valkyrie’s logo. The second cover is anime-styled.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/pG34j2R2oJQVXRJ4yUR4Yc-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  ▶**2x 120mm fans**
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/rNgBUKCQZ6a3CLrX7hNwNh-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/eKKK4EQN8ua6cSPXLo4UWX-320-80.jpg)
 
  _This picture shows a fan installed in an incorrect orientation. This was corrected prior to testing. See the section about the fans below for more details._  (Image credit: Tom's Hardware)
 
  You’ll need to be careful when installing the fans. If you look carefully, you’ll see the blades are shaped differently. Each fan pulls in a different direction, making it easy to install the fans incorrectly. The cooler will lose 10-20% of its cooling capability if this happens. An easy way to verify if you have installed the fans in the correct orientation is by looking at the Valkyrie logos – they should be facing each other, as shown in the picture below.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Valkyrie Vind SL125](https://cdn.mos.cms.futurecdn.net/dF2v4AGLejcAMd8FyEDKXb-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -221,6 +254,9 @@ Installing the Valkyrie Vind SL125n is fairly straightforward.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s an incredibly small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally

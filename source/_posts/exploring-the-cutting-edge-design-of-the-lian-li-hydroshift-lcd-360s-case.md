@@ -1,7 +1,7 @@
 ---
 title: Exploring the Cutting-Edge Design of the Lian Li Hydroshift LCD 360S Case
-date: 2024-08-09 19:20:57
-updated: 2024-08-11 10:25:41
+date: 2024-08-10T04:59:16.089Z
+updated: 2024-08-11T04:59:16.089Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -42,6 +45,9 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -76,6 +82,9 @@ Included in the box are the following:
 
  As an AIO does not interfere or overhang DIMM slots in any manner, all sizes of RAM, no matter how tall, are compatible with ID-Cooling’s FX360 Pro. The tubes of the of the AIO are braided and are fully rotatable for ease of installation and setup.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -98,6 +107,9 @@ Included in the box are the following:
 
 The top of the CPU black features a reflective black etched metal design.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/erp9Yw2JHeFm796FbRs33j-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -106,6 +118,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -114,6 +129,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  I say this on almost every cooler review, but there’s more to a cooler than just the heatsink or radiator. The bundled fans have a significant impact on cooling and noise levels, as well as how the cooler looks in your case.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/dCyCwz8i9Tfq3bB2fra6Xc-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -176,6 +194,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s a very small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally

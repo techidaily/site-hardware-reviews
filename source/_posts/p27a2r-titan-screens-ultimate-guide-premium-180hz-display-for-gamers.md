@@ -1,7 +1,7 @@
 ---
 title: "P27A2R Titan Screen's Ultimate Guide: Premium 180Hz Display for Gamers"
-date: 2024-08-09 18:53:22
-updated: 2024-08-11 12:43:27
+date: 2024-08-10T04:59:17.657Z
+updated: 2024-08-11T04:59:17.657Z
 tags:
   - review
 categories:
@@ -93,14 +93,23 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  How much is all this goodness? The Spectrum Black 27 is $1,099 with Gorilla Glass or $899 with a matte front layer. The stand is an extra $99.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembly and Accessories
 
  Dough provides an excellent unboxing experience with only cardboard that protects the contents. Delicate bits are wrapped in a smooth material that’s a bit like parchment paper. The stand comes in a separate carton and is optional. It costs $99 extra. There are no cables included except for the external power brick. I’ll leave opinions on that up to the reader.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Dough)
@@ -109,6 +118,10 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Dough)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Dough)
@@ -123,6 +136,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  The input panel is on the bottom and left side of the bulge in the back. Video ports include two HDMI 2.1, one DisplayPort 1.4 with Display Stream Compression (DSC), and a USB-C. A separate USB-C input handles data up to 10Gbps. USB outputs include two USB-C and two USB-A, version 3.1\. You also get a 3.5mm headphone jack. Control is via a joystick with discrete buttons for power and KVM switching.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## OSD Features
 
  To summon the Spectrum Black 27’s OSD, press the joystick once to reveal an all-business text-based menu. There are no graphics except for the Dough logo at the top. Signal status is always displayed in the top window, while the bottom window has descriptions of every function as you select it. This OSD is one that all other companies should emulate. It is intuitive, informative and efficient to a fault.
@@ -141,6 +157,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -153,10 +172,17 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -175,6 +201,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  Dough has included a comprehensive set of OLED maintenance options. There is pixel shift, a screen saver, logo compensation, and others. Each one is explained at the bottom, so you know what it does. The last two, transistor wear and OLED wear compensation, take about five minutes to complete and can be run whenever you wish.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dough Spectrum Black 27 Calibration Settings
 
  When I measured my Spectrum Black 27 sample, it hit all the marks near perfection. I could not improve upon the numbers with calibration, so I left them at the factory defaults. I found the best picture and the best test results with Brightness Mode on Maximum. This varies brightness uniformly across the full image range, so you won’t see it in operation. If you need a stable light output level, choose Uniform brightness. You can change gamut modes between DCI-P3, Adobe RGB and sRGB without affecting other parameters. Adobe RGB is off the mark for green and, while fine for casual use, is not accurate enough for critical applications. However, P3 and sRGB are qualified. My suggested settings are below.
@@ -225,6 +254,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  ☆  ☆  ☆  ☆  ☆
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Dough Spectrum Black 27" QHD...](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...")](https://images.fie.futurecdn.net/products/e2c47b241aee110aca365e46930a51ce23f297a3-100-80.jpg "Dough Spectrum Black 27" QHD...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)
 
 [Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D2JJP2P4%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1409568239287355853-20)

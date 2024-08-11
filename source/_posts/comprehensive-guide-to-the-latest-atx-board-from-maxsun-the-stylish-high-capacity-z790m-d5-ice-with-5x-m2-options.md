@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to The Latest ATX Board From Maxsun: The Stylish, High-Capacity Z790M D5 Ice with 5X M.2 Options"
-date: 2024-08-08 21:38:11
-updated: 2024-08-11 10:40:53
+date: 2024-08-10T04:59:03.171Z
+updated: 2024-08-11T04:59:03.171Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  If you have the space for a wide display, there is either 21:9 or 32:9\. The latter typically comes in a 49-inch size and is very wide but not very tall. It’s great for driving sims but less ideal for shooters requiring more vertical space in the viewpoint. 21:9 takes care of that but most of those products are 34 inches, which is not really encompassing. For a genuine surround feel, check out the 45-inch AOC OLED I will review. Part of the Agon Pro line, the AG456UCZD is incredibly immersive with an 800R curve, WQHD 3440x1440 resolution, 240 Hz refresh rate, Adaptive-Sync, HDR and wide gamut color. Let’s take a look.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AOC Agon Pro AG456UCZD Specs
 
  Swipe to scroll horizontally
@@ -60,6 +63,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
 [View](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVMXV5VS%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1287271751285987106-20)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![AOC Agon PRO AG456UCZD 45"...](https://images.fie.futurecdn.net/products/a2bee6cef75e1e3f13365b81a8929e7a52f1ef5f-100-80.jpg "AOC Agon PRO AG456UCZD 45"...")](https://images.fie.futurecdn.net/products/a2bee6cef75e1e3f13365b81a8929e7a52f1ef5f-100-80.jpg "AOC Agon PRO AG456UCZD 45"...") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445839950979151588482945%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F0JC-0016-003P5%253Fitem%253D9SIAKVHKBB0512%26u1%3Dtomshardware-us-1369742121384784631)
 
 [Newegg](https://images.fie.futurecdn.net/logos/merchants/sgvv6t0bzlodmoo4-15617128766262-100-80.png "Newegg") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Flink%3Fid%3DkXQk6%252AivFEQ%26offerid%3D1531483.445839950979151588482945%26type%3D15%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252F0JC-0016-003P5%253Fitem%253D9SIAKVHKBB0512%26u1%3Dtomshardware-us-1369742121384784631)
@@ -84,14 +90,26 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  As part of the Agon Pro line, the AG456UCZD is a premium build from top to bottom. You get a solid stand, LED lighting, decent internal speakers, plenty of USB options, and even a handheld remote. It’s premium priced, too, at around $1,400 at this writing. But this is typical for the category, and there aren’t any other monitors like it. Most ultra-wides are smaller at 34 or 35 inches with gentler curves. A 45-inch OLED screen with 800R is definitely unusual.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Assembly and Accessories
 
  The AG456UCZD’s three parts come out of a suitably large carton filled with crumbly foam. The stand is substantial and assembles with a captive bolt. To attach the panel, find the two large screws in the package, and the included Phillips-head screwdriver. The fulcrum looks small for a panel this large, but it is more solid than it appears. Once completed, it’s very solid and stable. A small box has the cable bundle, which includes USB-C, DisplayPort, and HDMI,, a power cord, and a remote with two AAA batteries.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: AOC)
@@ -124,12 +142,27 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  Underneath are two HDMI 2.0 and one DisplayPort 1.4, plus a USB-C with DP capability and 90 watts of power. A USB-B upstream port supports KVM functions for your favorite peripherals. The HDMI ports are limited to 120 Hz and 2560x1440 for gaming consoles. You also get a 3.5mm headphone jack. The internal speakers play with eight watts of power and sound better than most, with decent volume, low distortion, and good frequency range.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## OSD Features
 
  AOC uses a unique menu style for its Agon products, arranged like the traditional ribbon layout but in a vertical format. It follows the same configuration, so it will be familiar to AOC users. You can operate it with the joystick, but the remote is far more convenient.
 
  Image 1 of 7
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -142,10 +175,10 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  (Image credit: Tom's Hardware)
 
-![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -168,6 +201,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  Light FX refers to the LEDs arrayed around the asymmetrical hexagon in the back. You can choose colors and effects here or create a show using AOC’s G-Menu app from the Windows desktop. The Extra menu has an input selector, USB port control, and pixel orbiting for OLED care. You can also set a refresh routine to run every four hours if you wish. I have yet to see burn-in on any OLED screen in my possession, including a three-year-old[LG](https://www.tomshardware.com/tag/lg) OLED TV and an Alienware desktop monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AOC Agon Pro AG456UCZD Calibration Settings
 
  The AG456UCZD includes the same calibration controls as all AOC monitors, which means selectable color gamuts, three gamma presets, and a user color temp. All is well out of the box, and calibration is unnecessary, but I found the gamma looked a tad dark. Measurements confirmed that it was running around 2.36\. Grayscale calibration did not positively impact, so I left the color temp set to Warm and changed gamma to the 2 preset. This brightened the image noticeably and tightened up color saturation tracking. This is a compromise, so you should try Gamma 1 and Gamma 2 to see which you prefer. For the full color gamut, leave that option on Panel Native. If you need sRGB, it’s there and accurate enough for critical work. My SDR settings are below. Brightness settings are with Uniform Brightness turned off.

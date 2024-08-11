@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Tech World: Wisdom From Tom's Hardware Insights"
-date: 2024-08-09 15:24:24
-updated: 2024-08-11 12:27:28
+date: 2024-08-10T04:59:03.596Z
+updated: 2024-08-11T04:59:03.596Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  The Keris II Ace is an ergonomic, right-handed ultra-lightweight wireless gaming mouse with five programmable buttons, including the scroll wheel click. It comes in two colorways: black and "moonlight white," or white with light gray accents.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/yHmu5GPxwwKKHb8KotUHu7-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -31,6 +34,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  Image 1 of 4
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -39,16 +45,25 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  It's on the shorter side, measuring 4.76 inches (121mm) long, 2.64 inches (67mm) wide, and 1.65 inches (42mm) high — but it's still designed primarily for people with at least medium-sized hands. It's wider and taller than the ROG Harpe Ace Aim Lab Edition (5.01 x 2.51 x 1.56 inches / 126.5 x 63.7 x 39.6mm) and the DeathAdder V3 Pro is larger all around (5 x 2.67 x 1.73 inches / 128 x 68 x 44mm).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/VrdossKaHAWYCFfaGW4mFn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -57,6 +72,9 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -67,12 +85,20 @@ Most ultra-lightweight mice sacrifice unnecessary features, such as RGB lighting
 
  The mouse has five programmable buttons: left click, right click, two thumb buttons, and the clickable scroll wheel. You can also program scroll up/down (not technically buttons) using Asus' peripheral software Armoury Crate. There are two more buttons on the bottom (DPI switch and pairing) as well as a power switch, but they're not programmable.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/ptBkamKeFD7KXKXNrVkRbi-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The Keris II Ace comes with four small 100% PTFE mouse feet, which work well — this is an extremely lightweight mouse, and I didn't have any issues with glide in my testing (especially not on my favorite glass mouse pad). But if you want something even smoother, Asus does include larger replacement mouse feet, similar to the feet on the[Razer Viper V3 Pro](https://www.tomshardware.com/peripherals/gaming-mice/razer-viper-v3-pro-review) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://cdn.mos.cms.futurecdn.net/tYMmbKStRmsXxcbbVmtz25-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -154,22 +180,41 @@ Show More Deals
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  If you're looking for an ultra-lightweight mouse to take you through competitive eSports and FPS games, the Keris II Ace is it. I'll admit I still slightly favor the DeathAdder V3 Pro's shape — that mouse is damn comfortable — but the Keris II Ace's lighter weight (54g vs the DeathAdder V3 Pro's 63g) puts the two on pretty even footing. The Keris II Ace also has a few extra features over the DeathAdder V3 Pro, such as Bluetooth connectivity and RGB lighting. Sure, gamers who are only interested in speed, latency, and performance won't care if a mouse lacks Bluetooth connectivity, but it's a nice feature to have (especially if you don't even have to give up things like weight or battery life).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Features and Software of the Keris II Ace
 
  The Keris II Ace is configurable using Asus' universal peripheral software, Armoury Crate. Armoury Crate isn't my favorite peripheral software, but the Keris II Ace is a pretty simple mouse — so configuring it isn't too complicated. You can use Armoury Crate to program the mouse's 7 programmable controls (you must program at least one with the primary click function, however), adjust DPI steps and performance settings, customize (or turn off) the one RGB lighting zone, calibrate the mouse for various surfaces, and configure a handful of power settings.
 
  Image 1 of 5
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Asus ROG Keris II Ace](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -190,6 +235,14 @@ Show More Deals
 
  Armoury Crate has various gamer-friendly features such as "scenario profiles" (profiles that launch with specific games or apps) and Aura Sync for syncing lighting across various peripherals. For the most part you'll need to run Armoury Crate in the background to take advantage of these gaming features, but the mouse does have onboard storage with room for up to five hardware-based profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Wireless Experience & Battery Life of the Keris II Ace
 
  Like many of the[best wireless mice](https://www.tomshardware.com/best-picks/best-wireless-mouse) , the Keris II Ace features three forms of connectivity: 2.4GHz wireless, Bluetooth, and wired (via USB-C). This already makes it somewhat unique, as Bluetooth connectivity is the first thing most ultra-lightweight mice ditch — Bluetooth is too high-latency for gaming; it's just a convenience feature for gamers who might also want to use their mouse for non-gaming purposes, or while traveling. The mouse can connect to up to three Bluetooth devices simultaneously on top of its 2.4GHz wireless or wired connection.

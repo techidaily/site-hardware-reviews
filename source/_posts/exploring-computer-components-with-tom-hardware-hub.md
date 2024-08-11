@@ -1,7 +1,7 @@
 ---
 title: Exploring Computer Components with Tom - Hardware Hub
-date: 2024-08-09 15:26:54
-updated: 2024-08-11 10:40:20
+date: 2024-08-10T04:59:13.252Z
+updated: 2024-08-11T04:59:13.252Z
 tags:
   - review
 categories:
@@ -25,6 +25,9 @@ The S1 is the latest superfast Delta 3D printer from FLSun, with a futuristic st
 
  This machine has so much wasted potential. FLSun really dropped the ball with their half-hearted custom slicer. Thankfully, I found a profile for[OrcaSlicer](https://www.tomshardware.com/3d-printing/how-to-use-orca-slicer) right before finishing this review that gave me hope the printer can be saved. With a price tag of $1,499, it’s not a printer I’d recommend for beginners, but there’s no denying its speed and futuristic flare. It may not be the[Best 3D Printer](https://www.tomshardware.com/best-picks/best-3d-printers) I’ve seen this year, but it’s definitely the fastest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specifications: FLSun S1
 
  Swipe to scroll horizontally
@@ -56,6 +59,9 @@ Today's best Flsun S1 deals
 
 ## Included in the box: FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/LPFJ3KGmcZ5HeseQS4KGUG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -64,6 +70,9 @@ Today's best Flsun S1 deals
 
  There’s a paper copy of the user manual, and the USB drive has a copy of the FLSun Slicer. Test models are loaded in the printer’s memory.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assembling the FLSun S1
 
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/YgcWh6SizZq9eMjJJiLhWF-320-80.jpg)
@@ -86,6 +95,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
 ## Loading Filament in the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/giSkyrn7ELkiyeu3D6NCGH-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -94,6 +106,9 @@ _**Warning:**_   _The front door is packed in such a way that it appears attache
 
  I found it necessary to hold the spool in my left hand and feed the strand into the Bowden tube with my right. Once you reach the tool head (several feet of Bowden tube later), you can use the quick release on the tubing and shove the last few inches home.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/6uVVH587CGdVivw6RpzPoF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -121,8 +136,19 @@ gcode:
 
 ```
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Design of the FLSun S1
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/46kGGHok6DiJLYt6kHC2NF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -131,12 +157,18 @@ gcode:
 
  It has a sleek, futuristic look with the best control screen I’ve ever seen on a 3D printer. The glass panel blends seamlessly into the machine’s front and offers large, clear text and graphics, including a speedometer to show off how fast the print head is whirling.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/E4ngRfgXfncFsNhVE9bi3F-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The spool holder is set inside a built-in filament drier. It can operate while the printer is running or idle, allowing you to prep filament before use or keep it dry during printing. There are no temperature settings for the dryer - just an on/off switch and a timer. A humidity gauge suggests how moist the chamber is but seems to be wildly inaccurate. At one point it said the humidity was 2%, while a separate hygrometer says it was 45%. The temperature is also off by a drastic amount, with the screen saying 54.8C, but it was 80.7F (26.6C) on my thermometer. **For the record, we want the dry box to be between 40 and 50C for PLA and up to 65C for PETG.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/pBQNrEvVLBprdnKTPb9QmG-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -161,6 +193,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Bed adhesion at full speed is difficult for this printer, despite the nice PEI coating on its flexible plate. The manual advises using glue stick for all prints, but there is no reminder like you would see on the cool engineering plates of other brands. This is a hard lesson to learn, and forgetting is painful. I got a print wrapped around the nozzle so bad it traveled upward into the fan. This required replacing much of the tool head, and FLSun was kind enough to swap out the entire printer and let me try again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/WFJPhTdMRTpSwonyZvd8gF-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -173,6 +208,9 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
 ## Preparing Files / Software
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/hvpAGAoeK87qQaXFv6EJ4J-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -205,12 +243,18 @@ The machine has two USB ports on the front, and also connects via Wi-Fi.
 
  Switching to Orca Slicer finally gave me a print that worked. Using[Creality Hyper PLA](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCreality-PLA-1-75mm-Hyper-Dimensional%2Fdp%2FB0C2BJB256%2Fref%3Dsr%5F1%5F2%5Fsspa%3Fcrid%3D6BM63WMSTYTW%26dib%3DeyJ2IjoiMSJ9.DBIdXGW3ydJyI9LtWmrvdT0y0r1mUr1sul5pujsxiQnyIJZORYMWFdshTLU7rbUiS-roDmW61hfiJP033rQQxiYnLnotcAnkizNESFrm6aGDvBpF3nGSNdXvor3VhqszWUfN6hNFPOz5F8pj%5Ff%5FcE9Q-qfb1hJRHjcuI%5FlRDy15zsj6im4xGWtqgyErBfXACRCXhgVkVkKW0tpptqDndvvjGmncqXpAOoIbBUzYWMOg.NEz9kLp7pRQJKaYe8Ivh2bCIotWbvWIgA7egMIVqxeM%26dib%5Ftag%3Dse%26keywords%3Dcreality%252Bhyper%252Bpla%26qid%3D1721423887%26sprefix%3Dcreality%252Bhyp%252Caps%252C143%26sr%3D8-2-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1050008372919557531-20) , the final sword was printed with a 0.2 layer height at 500mm/s and took two hours and 28 minutes to print. The print was smooth, with no visible layer lines, except for the underside of the guard, where it got a little sloppy. This print would have taken an ordinary bed slinger, like the[Prusa MK4](https://www.tomshardware.com/reviews/prusa-mk4) , a little over seven hours to print.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/sSHAHaKwn3SpEozTzAFy9G-320-80.jpg)
 
 _3DPrintingWorld’s_ [_Dread Pirate Roberts Collapsing Sword_](https://thangs.com/designer/3dprintingworld/3d-model/Dread%20Pirate%20Roberts%20Collapsing%20Sword%20Print-in-Place-1053025)  (Image credit: Tom's Hardware)
 
  The drier came in handy for this PETG print. You can see the improvement in quality, with the undried filament on the left looking a bit rough and the smoother dried print on the right. This print uses[Greengate Translucent Purple Petg](https://greengate3d.com/collections/recycled-pet-g/products/recycled-translucent-purple-pet-g) with a medallion and lid of[Polymaker Gold PLA](https://us.polymaker.com/products/polylite-silk-pla?%5Fpos=4&%5Fsid=12bdb1dfb&%5Fss=r&variant=40302810824761) and[Proto Pasta Empire Strikes Black](https://proto-pasta.com/products/empire-strikes-metallic-black-htpla) . It was printed using FLSun’s slicer turned down to 60mm/s and a pause at height command to swap the filament colors. The jar took one hour and 58 minutes to print, plus another 22 minutes for the lid, and about 6 minutes for the medallion. That's a little less than two and a half hours of total print time.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FLSun S1](https://cdn.mos.cms.futurecdn.net/nbRFkRX2ftW2ZToqDodomH-320-80.jpg)
 
 _Jars made in TinkerCad (Right: undried. Left: dried)_  (Image credit: Tom's Hardware)
@@ -255,6 +299,9 @@ Flsun S1: Price Comparison
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis of the Logitech G Pro X 2 Lightspeed - A Must-Have for Serious Gamers
-date: 2024-08-08 14:35:51
-updated: 2024-08-11 12:21:55
+date: 2024-08-10T04:59:14.677Z
+updated: 2024-08-11T04:59:14.677Z
 tags:
   - review
 categories:
@@ -13,12 +13,18 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/xzL49FkbShtykKDZPBdxDe-320-80.jpg
 
 It's summer in the northern hemisphere, and that brings the heat! The problem is that our Raspberry Pi 5 is already running hot, so we need to keep our Pi 5 cool. 52Pi has a range of coolers. From the original[Ice Tower](https://www.tomshardware.com/raspberry-pi/52-pi-ice-tower-cooler-for-raspberry-pi-5-review) to the monstrous[water cooling kit](https://www.tomshardware.com/raspberry-pi/water-cooling-kit-for-raspberry-pi-5-review) . But its latest cooler fits somewhere in between.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/5ktRgnyFJNokMwTYZJYExZ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The $20 Ice Tower Plus, as you would guess from its name, is a larger version of the Ice Tower. Sporting a 60mm fan, the Ice Tower Plus dominates the Raspberry Pi 5 but is it any good? Can we access the GPIO and connect cameras and PCIe devices? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Ice Tower Plus for Raspberry Pi 5 Specifications
 
  Swipe to scroll horizontally
@@ -53,6 +59,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  Image 1 of 5
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -61,6 +70,14 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -77,14 +94,23 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  Accessing the GPIO pins individually, for breadboarding, is easy enough. Just make sure that any wires are clear of the fan. Access to the camera / display ports is awkward, but achievable. You’ll need a thin tool to lever the locking clasps, but inserting the flat flex cable is easy enough. The PCIe port is another story. You can just access this connector, but small hands or patience will be needed. With more and more PCIe based boards coming out, this lack of access could become a key decision for makers. Obviously with a huge fan on top of the Pi, you won’t be able to mount any PCIe boards on top. Likewise the aluminum slab makes tricky work of mounting a board under the Pi. You could get longer screws and mount Pimoroni’s NVMe Base, NVMe Base Duo and Pineboards Hat Drive Bottom under the Pi. Just check your clearances.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thermal Performance
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -112,6 +138,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  But what about overclocking the Raspberry Pi 5 to 3 GHz. The Ice Tower Plus has no problem keeping the Pi 5 cool at stock and under stress. There was only 1.1°C between the two, in the favor of the Ice Tower Plus which idled at 35.6°C, versus the Ice Tower’s 36.7°C. But that mere 1.1°C difference is nothing compared to the Ice Tower Plus’ remarkable max stress test temperature of 51.6°C. Compared to the Ice Tower’s 68.1°C this represents a remarkable 16.5°C drop in temperature, just over the 50°C fan trigger point.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/5ktRgnyFJNokMwTYZJYExZ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -124,6 +153,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/CKwoV3k8pmHCMdT6Q5pREe-320-80.jpg)
 
  (Image credit: Tom's Hardware)

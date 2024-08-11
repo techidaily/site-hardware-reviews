@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins"
-date: 2024-08-08 15:22:33
-updated: 2024-08-11 12:39:47
+date: 2024-08-10T04:59:08.471Z
+updated: 2024-08-11T04:59:08.471Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  With such a budget price tag, I have to wonder if it’s actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does the FX 360 Pro have what it takes to earn a spot on our[best AIO coolers](https://www.tomshardware.com/best-picks/best-aio-coolers) list? We’ll have to put it through testing to find out. But first, here are the specifications from ID-Cooling.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -62,10 +65,16 @@ Included in the box are the following:
 * Frost X45 Thermal Paste
 * Cable management clips
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Features of ID-Cooling’s FX 360 Pro
 
 **▶ Budget $60 USD MSRP**
@@ -106,6 +115,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -134,6 +146,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included are three plastic cable management clips to keep the AIO’s tubing tidy.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -144,6 +159,15 @@ The top of the CPU black features a reflective black etched metal design.
 
  In order to prevent bending from impacting our cooling results, we’ve installed Thermalright’s[LGA 1700 contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) into our testing rig. If your motherboard is affected by bending, your thermal results will be worse than those shown below. Not all motherboards are affected equally by this issue. I tested Raptor Lake CPUs in two motherboards. And while one of them showed significant thermal improvements after installing Thermalright’s LGA1700 contact frame, the other motherboard showed no difference in temperatures whatsoever! Check out[our review of the contact frame](https://www.tomshardware.com/reviews/thermalright-lga1700-bcf-contact-frame) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Testing Methodology, and how my testing differs vs the competition
 
  My previous review of[Arctic’s Liquid Freezer III AIOs](https://www.tomshardware.com/pc-components/liquid-cooling/arctic-liquid-freezer-iii-aio-review) was quite controversial, and it made me realize that I need to better explain my testing methodology.
@@ -201,6 +225,9 @@ The top of the CPU black features a reflective black etched metal design.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

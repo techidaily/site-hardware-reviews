@@ -1,7 +1,7 @@
 ---
 title: FX360 Pro by ID-Cooling - Top Value Cooling Solution Under $70
-date: 2024-08-08 12:28:14
-updated: 2024-08-11 10:48:44
+date: 2024-08-10T04:59:11.438Z
+updated: 2024-08-11T04:59:11.438Z
 tags:
   - review
 categories:
@@ -42,6 +42,10 @@ The AIO liquid cooler market has become much more competitive in the past year o
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of the AIO incorporates molded foam, plastic coverings, and cardboard to protect the contents.
@@ -62,6 +66,9 @@ Included in the box are the following:
 * Frost X45 Thermal Paste
 * Cable management clips
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/ELy55NXgeJdRSAWWqA8RwY-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -76,6 +83,9 @@ Included in the box are the following:
 
  As an AIO does not interfere or overhang DIMM slots in any manner, all sizes of RAM, no matter how tall, are compatible with ID-Cooling’s FX360 Pro. The tubes of the of the AIO are braided and are fully rotatable for ease of installation and setup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/RfAz98Bd2YY8mCoRtq6Wch-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -106,6 +116,9 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included with the AIO is a tube of ID-Cooling’s new premium thermal paste, Frost X45\. The thermal conductivity of this paste is advertised at 15.2W/M-K. We’ll be taking a look at this paste in more detail in our upcoming refreshed[thermal paste tests.](https://www.tomshardware.com/best-picks/best-thermal-paste)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/8JquVPtv5zsdTjP47QkVvm-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -134,10 +147,25 @@ The top of the CPU black features a reflective black etched metal design.
 
  Included are three plastic cable management clips to keep the AIO’s tubing tidy.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ID-Cooling FX360 Pro](https://cdn.mos.cms.futurecdn.net/FFktTNi3Qe7zSYZv3P6DD4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## LGA1700 Socket Bending
 
  There are many factors other than the CPU cooler that can influence your cooling performance, including the case you use and the fans installed in it. A system's motherboard can also influence this, especially if it[suffers from bending](https://www.tomshardware.com/news/intel-comments-on-alder-lakes-warping-and-bending-issues-mods-void-warranty) , which results in poor cooler contact with the CPU.
@@ -201,6 +229,9 @@ The top of the CPU black features a reflective black etched metal design.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

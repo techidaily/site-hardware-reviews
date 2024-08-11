@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed
-date: 2024-08-09 13:44:51
-updated: 2024-08-11 11:50:27
+date: 2024-08-10T04:59:07.635Z
+updated: 2024-08-11T04:59:07.635Z
 tags:
   - review
 categories:
@@ -101,14 +101,23 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Inside the Box of the Asus B760M-CT
 
  Inside the box are a couple of accessories designed to get you started: two SATA cables, the I/O shield, screw packages for M.2, ACC Express activation key card, and a user guide. Not much, but it’s everything you need outside of[drivers](https://www.tomshardware.com/tag/drivers) (download from the Asus website) to get going.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Design of the B760M-CT
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -123,6 +132,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  The B760M-CT is a Micro ATX form factor board measuring 244 x 244mm. It uses an old-school green PCB with a moisture-preventing coating to help in high-humidity environments. Built for business, it’s not meant to be viewed, really. With that in mind, you don’t get any integrated RGBs or RGB headers to add your own. Typical use cases will have these inside chassis without windows anyway. Strictly business here, folks!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/PxB9U2jztbrQWBjpEYiqVn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -141,6 +153,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Power delivery is a 7-phase configuration with five dedicated to Vcore. Power comes from the EPS connector to the OnSemi NCP81270C controller and finally to the five Vcore phases. As you can see from the image, this isn’t an integrated MOSFET, as we’re used to seeing on more expensive boards. The high and low sides are separated with three total ICs per phase. Still, it handled our i9-14900K but was limited to 125W after some time. Temperatures ran hot but did not throttle the VRMs. There’s no way I’d increase the duration or any power limits though, as they are at the limit. But again, this is made for business, and this ecosystem typically won’t change anything except perhaps enable XMP profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/mSXNSnc4zcHWknGDEjvhE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -201,6 +216,10 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

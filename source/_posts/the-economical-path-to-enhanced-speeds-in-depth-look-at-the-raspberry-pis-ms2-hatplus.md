@@ -1,7 +1,7 @@
 ---
 title: "The Economical Path to Enhanced Speeds: In-Depth Look at the Raspberry Pi's M.S2 HAT+"
-date: 2024-08-08 18:56:31
-updated: 2024-08-11 10:33:13
+date: 2024-08-10T04:59:15.128Z
+updated: 2024-08-11T04:59:15.128Z
 tags:
   - review
 categories:
@@ -28,10 +28,46 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 | **Dimensions**     | 50 x 33 mm                        |
 | **Price**          | £9 ($10)                          |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## HatDrive! Nano Design
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -44,14 +80,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  (Image credit: Tom's Hardware)
 
-![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -64,6 +95,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  With the HatDrive! Nano you will have no problem creating projects that use the GPIO and camera / display ports. If your projects extend to AI and machine learning, then you can use the Pineboards HatDrive! Nano with NPUs such as the Hailo-8L (which comes in the[Raspberry Pi AI Kit](https://www.tomshardware.com/raspberry-pi/raspberry-pi-ai-kit-review) ) and the[Google](https://www.tomshardware.com/tag/google) Coral. Obviously you will need to boot from micro SD.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HatDrive! Nano Performance
 
  We’ve tested a bunch of NVMe HATs for the Raspberry Pi 5\. From the official[Raspberry Pi M.2 HAT+](https://www.tomshardware.com/raspberry-pi/raspberry-pi-m2-hat-review) ,[Pineboard HatDrives](https://www.tomshardware.com/raspberry-pi/raspberry-pi-hats/pineberry-pi-hat-drive-review-use-nvme-ssds-with-your-pi) ,[Pimoroni’s NVMe Base](https://www.tomshardware.com/raspberry-pi/pimoroni-nvme-base-for-raspberry-pi-5-review) and[NVMe Base Duo](https://www.tomshardware.com/raspberry-pi/pimoroni-nvme-base-duo-review) to the[Argon ONE v3 M.2 NVMe](https://www.tomshardware.com/raspberry-pi/raspberry-pi-cases/argon-one-v3-m2-nvme-pcie-case-review) and the[Sunfounder Pironman 5](https://www.tomshardware.com/raspberry-pi/raspberry-pi-cases/sunfounder-pironman-5-review) . All of them use the same PCIe connection and that means we get similar performance. We set the Raspberry Pi 5 to use PCIe Gen 3\. This is easily configured via raspi-config.
@@ -80,6 +114,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  Our first test was a cold boot. From powering on to a usable desktop experience. The baseline is 21.28 seconds, using one of the best micro SD cards, an A1 rated Sandisk card. The Nano shaved 2.82 seconds from the boot time, coming in at 18.46 seconds. Not a great deal but every second helps. The Top came in at 19.12 seconds, 2.16 seconds faster than micro SD. The 0.66 time difference between the Nano and Top boot times is negligible enough to call it a dead heat.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/FQ4GVfDrLk29JCZMvo7bzV-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -103,6 +140,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
 ## Pineboards HatDrive! Nano and the official Raspberry Pi 5 Case
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/nzGEoukdwZcg3eTz9bSqfj-320-80.jpg)
 
  (Image credit: Tom's Hardware)

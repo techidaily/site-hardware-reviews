@@ -1,7 +1,7 @@
 ---
 title: "Top Review for Power and Reliability: The NZXT C1[email Protected] Platinum PSU"
-date: 2024-08-08 18:42:21
-updated: 2024-08-11 11:15:43
+date: 2024-08-10T04:59:13.032Z
+updated: 2024-08-11T04:59:13.032Z
 tags:
   - review
 categories:
@@ -19,6 +19,10 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 * [UpHere M201 SSD Heatsink (SSD) at Amazon for $4.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09CPQFWZB%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1338835888658191021-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -49,12 +53,18 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of the SSD heatsink is a bit different from similar products, with the box arriving in a resealable electrostatic shielding bag.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/W8ab9R9HkMTaJcnVMAwp2B-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -87,6 +97,14 @@ Included with the package are the following:
 
 **\*️⃣ Cheaper than Starbucks at only $4.99 USD**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQxzjCeWLgYlVkxw84Y6i_Z-B4H3DjpH6AfqHf8ejY0LzcHNA7zEI8OqDPZdgT4FqM7Bhy2Y2-56p5rpedaYSknAiL2E1efRu28W9xDbp2TbTXKRjfPoMD6LGp4_e0UbEKyNLLbVscJ3djSJh8B1dsz1w-3WdL1Xv3ORSmB0KX1rcybK9mog?key=oZ-l-Sh-eCWOCVg0gmIi9Q) Most NVMe SSD heatsinks are not expensive, typically costing between $10 and $20 USD. UpHere’s M201 is about as cheap as they come, costing just $4.99 in the U.S.
 
 **\*️⃣ Jagged heatsink design takes advantage of native airflow**
@@ -101,6 +119,9 @@ Included with the package are the following:
 
  Many of the cheapest M.2 NVMe heatsinks only make contact with the top half, meaning that any NAND placed on the underside is unprotected. UpHere’s M201 features double-sided protection, ensuring peak performance for both single- sided and double-sided M.2 SSDs.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What I don’t like about the UpHere M201
 
 **\*️⃣ Annoying clips during installation**
@@ -129,6 +150,9 @@ Included with the package are the following:
 
  When it comes to heatsinks for SSDs, the important thing to take away here is that it’s best practice to minimize temperature variations for the health and longevity of your SSD. How strong of a heatsink you’ll need is another matter for debate.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -159,12 +183,18 @@ All testing is performed with an ambient temperature of 23 C.
 
  Next, you’ll need to place the SSD on top of the thermal pad, and then place the second thermal pad on top of the SSD. Then, slide the top half of the heatsink under the groves shown above.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/xTe8snVYK8PsGyLobtRNJC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The next step can be slightly frustrating if you aren’t patient and / or don’t know what you’re doing. You’ll want to take the clip and slide it underneath the grooves shown in the picture above. Make sure the open side of the clip is facing down to maintain proper pressure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/zsZRaWKpPu4LbZKSxoyJPD-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -195,6 +225,9 @@ All testing is performed with an ambient temperature of 23 C.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

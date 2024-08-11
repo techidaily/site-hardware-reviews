@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Gadgets with Tom's Hardware Guides
-date: 2024-08-08 13:28:46
-updated: 2024-08-11 11:53:46
+date: 2024-08-10T04:59:08.235Z
+updated: 2024-08-11T04:59:08.235Z
 tags:
   - review
 categories:
@@ -25,6 +25,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
 * [Asus Pro B760M-CT CSM (LED) at Amazon for $139.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-8937153543587653239-20)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications: Asus B760M-CT
 
  Swipe to scroll horizontally
@@ -105,6 +108,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Inside the box are a couple of accessories designed to get you started: two SATA cables, the I/O shield, screw packages for M.2, ACC Express activation key card, and a user guide. Not much, but it’s everything you need outside of[drivers](https://www.tomshardware.com/tag/drivers) (download from the Asus website) to get going.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the B760M-CT
 
  Image 1 of 3
@@ -117,6 +123,10 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -135,12 +145,18 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Along the right edge is the 24-pin ATX connector to power the board, along with a front panel 19-pin USB 3.1 5 Gbps connector and 5 Gbps Type-C connector.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/kn2NF9dzT4riDFV63xTyNo-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Power delivery is a 7-phase configuration with five dedicated to Vcore. Power comes from the EPS connector to the OnSemi NCP81270C controller and finally to the five Vcore phases. As you can see from the image, this isn’t an integrated MOSFET, as we’re used to seeing on more expensive boards. The high and low sides are separated with three total ICs per phase. Still, it handled our i9-14900K but was limited to 125W after some time. Temperatures ran hot but did not throttle the VRMs. There’s no way I’d increase the duration or any power limits though, as they are at the limit. But again, this is made for business, and this ecosystem typically won’t change anything except perhaps enable XMP profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/mSXNSnc4zcHWknGDEjvhE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -201,6 +217,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"

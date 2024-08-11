@@ -1,7 +1,7 @@
 ---
 title: Understanding Hardware with Tom
-date: 2024-08-09 17:51:39
-updated: 2024-08-11 10:18:35
+date: 2024-08-10T04:59:03.848Z
+updated: 2024-08-11T04:59:03.848Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  And the BlueAnt Soundblade, at just 2.13 inches high, is designed to do just that. This under-monitor soundbar has a low, flat profile designed to sit over your monitor stand and wow all your friends/colleagues/family members with its sleek, sexy premium looks. It's a 2.1 soundbar with two full-range[drivers](https://www.tomshardware.com/tag/drivers) and an 80mm down-firing subwoofer, and three input options (USB-C, Bluetooth, AUX). And it gets very, very (seriously, it's kind of shocking) loud. It also looks good — it has a fairly attractive faux brushed-metal finish and it comes in several colors (gray, white, light pink, light blue, and light green), and is otherwise just kind of pretty to look at. But are looks and loudness alone worth the $200 retail price?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Soundblade
 
  The Soundblade is a slim, flat, stylish under-monitor 2.1 soundbar designed to sit over — not under — your monitor stand. It features a textured plastic top that looks a little like brushed aluminum from afar (but definitely looks and feels like plastic from close up), fabric-covered forward-facing stereo drivers, and an 80mm down-firing center subwoofer. It comes in five colors that look like they're designed to match a Samsung Smart Monitor or an Apple iMac: light blue, light green, light pink, white, or charcoal gray (the color of our review unit).
@@ -29,6 +32,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -37,6 +43,21 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -45,10 +66,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  (Image credit: Tom's Hardware)
 
-![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -61,6 +81,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -177,6 +200,23 @@ Show More Deals
 | **MSRP / Price at Time of Review** | $199.99                                                                         |
 | **Release Date**                   | May 23, 2024                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Performance of the Soundblade
 
  The Soundblade is a soundbar with a 2.1 configuration, which means it has dual-channel (stereo) sound in the form of two forward-facing dual voice coils, and a bass via a built-in 80mm down-firing subwoofer in the center. BlueAnt doesn't offer much detail on the configuration beyond this, but the company says the Soundblade is designed for a variety of content — including "YouTube videos, Netflix series, immersive gaming sessions, and streaming music."
@@ -195,6 +235,11 @@ Show More Deals
 
  Music isn't the Soundblade's forte, but it handled other types of media much better. Movies, shows, and TikTok sounded especially good — voices were dynamic and full, and dialogue was clear and well-separated from any background noise, even when the Soundblade was at lower volumes (which, well, it always was). Games also sounded good, though the Soundblade did have the expected limitations of a 2.1 soundbar. The multi-layered soundscapes of_Uncharted 4_ and_God of War: Ragnarok_ sounded a little compressed and narrow, but at least dialogue and non-environmental noises (e.g. gunshots, footsteps) were clear.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://cdn.mos.cms.futurecdn.net/fiDRjCf2HpMMiqADk5dDxb-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -205,6 +250,14 @@ Show More Deals
 
  As of now, this voice prompt can't be disabled and I kind of hate it (I'm just not a big fan of voice prompts — in anything). It definitely doesn't seem like a useful feature for most users — there are only three input sources and three EQ presets, and the only way to switch between EQ presets is by pressing a labeled button on the remote. And I don't know why anyone needs to be told they've hit maximum volume. I'm sure there are cases I can't think of where these voice prompts would be useful and not just annoying, and I think they'd be fine... if they were optional.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The BlueAnt Soundblade is certainly a unique... -looking soundbar. And it is sleek — there are other low-profile soundbars out there, but most aren't this slim (nor do they look this good). If you're looking for a slim under-monitor soundbar that can handle a variety of tasks including supplying deafeningly loud music for your next house party, the Soundblade is an attractive and versatile option. It's a very good upgrade from cheap laptop speakers or... listening through your monitor.

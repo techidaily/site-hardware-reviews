@@ -1,7 +1,7 @@
 ---
 title: Tom's Computer Hardware Reviews & Guides
-date: 2024-08-10 14:54:21
-updated: 2024-08-11 12:39:36
+date: 2024-08-10T04:59:09.235Z
+updated: 2024-08-11T04:59:09.235Z
 tags:
   - review
 categories:
@@ -15,10 +15,16 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  Today we’ll be reviewing two of UpHere’s budget air coolers, the C5C and D6SEC. Both of these coolers feature direct touch heatpipes, but what really makes them stand out is price: The C5C costs less than $20 USD! With such a low price, one has to wonder if the cooler is actually strong enough to tame a hot CPU like Intel’s i7-13700K. Does UpHere have what it takes to earn a spot on our[best air coolers list](https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html) ? We’ll have to put its coolers through testing to find out. But first, here are the specifications from UpHere.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/PnfocBnJbtxctS5RH5T6uC-320-80.png)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -70,6 +76,9 @@ Not every brand can be a household name, but today we’re testing a couple of c
 
  The packaging of these coolers is fairly standard, with molded foam and plastic coverings to protect the contents during shipping.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/auYCAPdi7XJhGheFWY7jP7-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -91,6 +100,9 @@ Included with the cooler are the following:
 
  What initially caught my eye is that these coolers have five (C5C model) or six (D6SEC model) direct-touch heatpipes. Most units that feature direct-touch heatpipes are limited to four or less. To fit six of these on the D6SEC model, the heatpipes are slightly smaller.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/Gj7kqnFEjvKMo4qc2NdSZ9-320-80.jpg)
 
  _UpHere D6SEC pictured on the left, UpHere C5C pictured on the right_  (Image credit: Tom's Hardware)
@@ -103,6 +115,9 @@ Included with the cooler are the following:
 
  The D6SEC model has indentions in the first heatsink tower, which allows you to slide a screwdriver through it to install the cooler without needing to remove its fans. This saves a few minutes during installation, and I imagine this would be considered most useful for those who build custom PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/qsNgjfwfaNZintvJFzq9B4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -111,6 +126,9 @@ Included with the cooler are the following:
 
  Neither model of UpHere’s air coolers interferes or overhangs DIMM slots in any manner, which means you can use these coolers no matter how short or tall your computer’s RAM is.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/s2D5kBqY6fpiJivsJW6Cd3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -141,6 +159,9 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  There’s not much to say about the included fans, but it’s worth noting that the fan included with the C5C features ARGB lighting and an infinity mirror.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere C5C and D6Sec](https://cdn.mos.cms.futurecdn.net/ZdWjSiHhVSk5runU3CnZf4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -193,6 +214,9 @@ The D6SEC has a fairly standard heatsink design, with 3 indentations.
 
  The thermal results included are for 10-minute testing runs. To be sure that was sufficiently long to tax the cooler, we tested both Thermalright’s Assassin X 120 R SE and DeepCool’s LT720 with a 30-minute Cinebench test with Intel’s i9-13900K for both 10 minutes and 30 minutes. The results didn’t change much at all with the longer test: The average clock speeds maintained dropped by 29 MHz on DeepCool’s LT720 and 31 MHz on Thermalright’s Assassin X 120 R SE. That’s an incredibly small 0.6% difference in clock speeds maintained, a margin of error difference that tells us that the 10-minute tests are indeed long enough to properly test the coolers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally

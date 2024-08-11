@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Analysis: Pimoroni NVMe Solid State Drive (SSD) Dual Base Unit Review"
-date: 2024-08-08 12:45:42
-updated: 2024-08-11 10:24:44
+date: 2024-08-10T04:59:06.479Z
+updated: 2024-08-11T04:59:06.479Z
 tags:
   - review
 categories:
@@ -88,6 +88,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  The AG456UCZD’s three parts come out of a suitably large carton filled with crumbly foam. The stand is substantial and assembles with a captive bolt. To attach the panel, find the two large screws in the package, and the included Phillips-head screwdriver. The fulcrum looks small for a panel this large, but it is more solid than it appears. Once completed, it’s very solid and stable. A small box has the cable bundle, which includes USB-C, DisplayPort, and HDMI,, a power cord, and a remote with two AAA batteries.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 6
@@ -100,18 +103,31 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  (Image credit: AOC)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: AOC)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: AOC)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: AOC)
@@ -142,6 +158,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -150,10 +169,16 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![AOC Agon Pro AG456UCZD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -168,6 +193,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 
  Light FX refers to the LEDs arrayed around the asymmetrical hexagon in the back. You can choose colors and effects here or create a show using AOC’s G-Menu app from the Windows desktop. The Extra menu has an input selector, USB port control, and pixel orbiting for OLED care. You can also set a refresh routine to run every four hours if you wish. I have yet to see burn-in on any OLED screen in my possession, including a three-year-old[LG](https://www.tomshardware.com/tag/lg) OLED TV and an Alienware desktop monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AOC Agon Pro AG456UCZD Calibration Settings
 
  The AG456UCZD includes the same calibration controls as all AOC monitors, which means selectable color gamuts, three gamma presets, and a user color temp. All is well out of the box, and calibration is unnecessary, but I found the gamma looked a tad dark. Measurements confirmed that it was running around 2.36\. Grayscale calibration did not positively impact, so I left the color temp set to Warm and changed gamma to the 2 preset. This brightened the image noticeably and tightened up color saturation tracking. This is a compromise, so you should try Gamma 1 and Gamma 2 to see which you prefer. For the full color gamut, leave that option on Panel Native. If you need sRGB, it’s there and accurate enough for critical work. My SDR settings are below. Brightness settings are with Uniform Brightness turned off.
@@ -187,6 +215,9 @@ The[best gaming](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.
 | Gamma               | 2               |
 | Color Temp          | Warm            |
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Gaming and Hands-on
 
  Gaming with the AG456UCZD is nearly a case of sensory overload. It’s wide, tall, and wraps around you. The game environment is literally in your face. Even the sound is reflected within the screen’s vision cone, creating a surround effect. This monitor is tactile in every way.

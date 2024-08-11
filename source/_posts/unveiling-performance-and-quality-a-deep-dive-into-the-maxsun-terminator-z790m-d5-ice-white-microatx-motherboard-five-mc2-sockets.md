@@ -1,7 +1,7 @@
 ---
 title: Unveiling Performance & Quality - A Deep Dive Into the Maxsun Terminator Z790M D5 Ice White MicroATX Motherboard (Five M.C2 Sockets)
-date: 2024-08-08 20:35:11
-updated: 2024-08-11 12:24:19
+date: 2024-08-10T04:59:03.405Z
+updated: 2024-08-11T04:59:03.405Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  Asus’ latest innovation is the PA32UCXR. What makes it stand out? It represents a new level of performance for Mini LED monitors with an incredible 2,304 dimming zones packed into a 32-inch 4K[IPS](https://docs.google.com/document/u/0/d/1mNjDPW7CRNspnH-AvBh0YKEWddhDyzxuh6uPfFh1-F8/edit) panel. It covers most of the Rec.2020 color gamut with precisely calibrated picture modes that support every color standard currently in use. It also does HDR10, Hybrid Log Gamma, and Dolby Vision. It also has a myriad of calibration options, including a built-in color meter that lets it calibrate itself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Asus ProArt PA32UCXR Specs
 
  Swipe to scroll horizontally
@@ -76,14 +79,23 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  What’s missing? You’d think nothing at this premium level. The PA32UCXR even has Adaptive-Sync, but its max refresh rate is just 60 Hz. While this is fine for film and TV content creation, game developers might raise an eyebrow. I’ll talk more about that later. The MSRP at this writing is $2,999\. That is certainly a lot of money for a 32-inch monitor, but consider that something like[Sony](https://www.tomshardware.com/tag/sony) ’s PVM-X3200 is over $14,000, and you can see why Asus ProArt displays are appealing. Let’s take a closer look.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Assembly and Accessories
 
  Asus has adopted fully recyclable packaging for the PA32UCXR with a large clamshell box filled with smartly engineered cardboard structures inside. The contents are well protected, and there’s no crumbly foam. The three component parts are quite substantial, weighing over 30 pounds when assembled with no tools necessary. You also get a rigid light hood that snaps in place around the screen. Cables include HDMI, DisplayPort, USB-C, and USB-C/A. The power supply is internal, so you also get an IEC cord. Factory calibration data sheets verify color accuracy and screen uniformity for each sample.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Product 360
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Asus)
@@ -96,6 +108,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Asus)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -104,6 +119,14 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Asus)
@@ -122,14 +145,23 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  Image 1 of 9
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus ProArt PA32UCXR](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -172,6 +204,9 @@ Monitors are tools suited to specific tasks, whether for gaming or another purpo
 
  The final photo shows all the PA32UCXR’s HDR options. HDR\_PQ refers to HDR10 and can be set for DCI-P3 or Rec.2020 color. I found the latter was necessary to view the full palette in HDR content. You also get HLG, a broadcast HDR format used in Europe and on YouTube. You get Dolby Vision, which is a rarity on the desktop but necessary for content creation. You’ll find it on services like Netflix, Paramount+, Disney+, and many 4K Blu-ray releases.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Asus ProArt PA32RCXR Setup, Calibration and Hands-On
 
  Calibrating the PA32UCXR is only necessary to create a custom setup that falls outside industry standards for grayscale, gamma, and color gamut. You only need to select your desired mode and it will deliver that spec with extreme accuracy. sRGB is brightness limited to 80 nits, so as an alternative, you can pick Rec.709, which lets you select from four color temps and five gamma values. DCI-P3 mode defaults to the cinema version with a D63 color temp and 2.6 gamma but you can change that as well to match Display P3\. Adobe RGB is there for photographers, and you can go full color in Rec.2020 mode, which also has selectable gamma and color temp.

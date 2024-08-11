@@ -1,7 +1,7 @@
 ---
 title: In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution
-date: 2024-08-08 17:39:29
-updated: 2024-08-11 10:37:44
+date: 2024-08-10T04:59:04.035Z
+updated: 2024-08-11T04:59:04.035Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Corsair was one of the first retail companies to address the need for higher per
   
  With Phison's new E27T controller promising higher performance, more capacity, and excellent power efficiency, Corsair’s second revision of the MP600 Mini might just be as good as it sounds. Let's find out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## Corsair MP600 Mini (2024 / E27T / V2 variant) Specifications
 
  Swipe to scroll horizontally
@@ -52,10 +55,20 @@ Corsair was one of the first retail companies to address the need for higher per
 
  Corsair provides its own SSD toolbox application, the Corsair SSD Toolbox. This all-in-one application displays drive information, including S.M.A.R.T. status, and offers access to basic SSD features. These features include cloning, TRIM optimization, a secure wipe, and in some cases the ability to alter overprovisioning. The software also supports firmware updates, should any become available. While it’s nice to have this software, it’s not strictly necessary and it’s designed specifically for Windows, which may limit its usefulness for M.2 2230 handhelds like the Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Corsair MP600 Mini: A Closer Look
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -74,16 +87,25 @@ Corsair was one of the first retail companies to address the need for higher per
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  Like most other 2230 drives, the MP600 Mini comes as a single-sided design — that maximizes compatibility with 2230 host devices. It's rated for over 8W of peak power draw, though in practice it should not draw this much power. The 1TB we're testing comes rated for peak power of around 5.5W. The MP600 Mini has a similar layout to other M.2 2230 SSDs that we’ve tested, with a controller, a NAND flash package, and no DRAM. The new hardware however offers more performance than most other 2230 drives.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Corsair MP600 Mini 1TB (E27T) SSD](https://cdn.mos.cms.futurecdn.net/e9bvSLsi5igankUvZrfNmB-320-80.jpg)
 
  (Image credit: Tom's Hardware)

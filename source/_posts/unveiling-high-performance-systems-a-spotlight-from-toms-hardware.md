@@ -1,7 +1,7 @@
 ---
 title: Unveiling High-Performance Systems - A Spotlight From Tom's Hardware
-date: 2024-08-10 10:17:46
-updated: 2024-08-11 12:28:55
+date: 2024-08-10T04:59:02.102Z
+updated: 2024-08-11T04:59:02.102Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ Making the list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![G.Skill Trident Z5 RGB DDR5-6400 C32](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  G.Skill Trident Z5 RGB DDR5-6400 C32  (Image credit: Tom's Hardware)
@@ -23,6 +26,10 @@ Making the list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.
 
  G.Skill Trident Z5 RGB DDR5-6400 C32  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![G.Skill Trident Z5 RGB DDR5-6400 C32](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  G.Skill Trident Z5 RGB DDR5-6400 C32  (Image credit: Tom's Hardware)
@@ -49,6 +56,9 @@ Making the list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.
 
  G.Skill Trident Z5 RGB DDR5-6400 C32  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![G.Skill Trident Z5 RGB DDR5-6400 C32](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  G.Skill Trident Z5 RGB DDR5-6400 C32  (Image credit: Tom's Hardware)
@@ -57,6 +67,9 @@ Making the list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.
 
  If left in stock settings, the memory will run at DDR5-5600, a bit higher than your typical module that defaults to DDR5-4800\. The timings will be at 46-45-45-90 timings. AMD EXPO support is absent, but there is XMP 3.0 support. The only profile embedded into the memory modules corresponds to DDR5-6400, with the timings and DRAM voltage configured to 32-39-39-102 and 1.35V, respectively. See our[PC Memory 101](https://www.tomshardware.com/reviews/pc-memory-ram-frequency-timings,6328.html) feature and[How to Shop for RAM](https://www.tomshardware.com/reviews/memory-buying-guide,6347.html) story for more timings and frequency considerations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comparison Hardware
 
  Swipe to scroll horizontally
@@ -76,6 +89,9 @@ Making the list of[best RAM](https://www.tomshardware.com/reviews/best-ram,4057.
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AMD DDR5 System](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 AMD DDR5 System  (Image credit: Tom's Hardware)
@@ -96,6 +112,10 @@ AMD DDR5 System  (Image credit: Tom's Hardware)
 | **Power Supply**  | Corsair RM1000x Shift                   | Corsair RM1000x Shift                   |
 | **Case**          | Streacom BC1                            | Streacom BC1                            |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Intel Performance
 
  Image 1 of 23
@@ -116,6 +136,16 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -128,6 +158,20 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -140,6 +184,20 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -152,42 +210,37 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -202,6 +255,23 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -230,6 +300,9 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -250,6 +323,9 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -266,14 +342,9 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
@@ -282,20 +353,32 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 DDR5 Review  (Image credit: Tom's Hardware)
 
  In contrast, the Fury Rengade outperformed the Trident Z5 RGB in application performance on the AMD platform. However, the latter was once again the best-performing memory kit in the Adobe Premiere benchmark.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Overclocking and Latency Tuning
 
  Image 1 of 3
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -321,6 +404,9 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
  We also had a similar experience when optimizing the Trident Z5 RGB's memory timings at DDR5-6400\. With a 1.45V DRAM voltage, we could run the exact timings (30-36-36-80) as the Fury Renegade.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  There has been a proliferation of 96GB DDR5 memory kits on the market, so the competition is tough in that category. Nonetheless, the Trident Z5 RGB DDR5-6400 C32 has demonstrated to be a strong option for motherboards with only two memory slots. Checking in at DDR5-6400, the memory kit delivers what many will consider performance within the widely accepted sweet spot while offering 96GB of capacity for multitasking and professional environments. Contenders in this category aren't cheap, but G.Skill has done well with the pricing of its memory kit.

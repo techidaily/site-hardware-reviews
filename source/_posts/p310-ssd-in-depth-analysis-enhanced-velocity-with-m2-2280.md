@@ -1,7 +1,7 @@
 ---
 title: "P310 SSD In-Depth Analysis: Enhanced Velocity with M.2 2280"
-date: 2024-08-08 14:29:43
-updated: 2024-08-11 11:22:50
+date: 2024-08-10T04:59:13.840Z
+updated: 2024-08-11T04:59:13.840Z
 tags:
   - review
 categories:
@@ -13,12 +13,18 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 
 It's summer in the northern hemisphere, and that brings the heat! The problem is that our Raspberry Pi 5 is already running hot, so we need to keep our Pi 5 cool. 52Pi has a range of coolers. From the original[Ice Tower](https://www.tomshardware.com/raspberry-pi/52-pi-ice-tower-cooler-for-raspberry-pi-5-review) to the monstrous[water cooling kit](https://www.tomshardware.com/raspberry-pi/water-cooling-kit-for-raspberry-pi-5-review) . But its latest cooler fits somewhere in between.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/5ktRgnyFJNokMwTYZJYExZ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The $20 Ice Tower Plus, as you would guess from its name, is a larger version of the Ice Tower. Sporting a 60mm fan, the Ice Tower Plus dominates the Raspberry Pi 5 but is it any good? Can we access the GPIO and connect cameras and PCIe devices? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Ice Tower Plus for Raspberry Pi 5 Specifications
 
  Swipe to scroll horizontally
@@ -41,6 +47,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/Xi2eXwTB8eYXzF8SHeLtmb-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -49,6 +58,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  The unit is held together with a series of aluminum brackets and M2.5 screw mounts. It was easy to build, and the trickiest part was inserting the fan power cable after installing the fan. The instructions were decent, but there wasn’t an instruction to add a thermal pad to the PMIC chip, just next to the USB C port. We did this anyway and there have been no thermal issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Port Access
 
  Image 1 of 5
@@ -61,6 +73,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -69,6 +84,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -104,6 +122,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  Here is a quick reference table. As you can see, the 52Pi Ice Tower Plus at stock speed is pretty close to the original Ice Tower. Only 2.7 degrees Celsius separates them, but the lower temperature award goes to the Ice Tower Plus at 32.9°C.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/q6Nk4pfdGX96JVKVLsYzRT-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -112,6 +133,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
  But what about overclocking the Raspberry Pi 5 to 3 GHz. The Ice Tower Plus has no problem keeping the Pi 5 cool at stock and under stress. There was only 1.1°C between the two, in the favor of the Ice Tower Plus which idled at 35.6°C, versus the Ice Tower’s 36.7°C. But that mere 1.1°C difference is nothing compared to the Ice Tower Plus’ remarkable max stress test temperature of 51.6°C. Compared to the Ice Tower’s 68.1°C this represents a remarkable 16.5°C drop in temperature, just over the 50°C fan trigger point.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/5ktRgnyFJNokMwTYZJYExZ-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -124,6 +148,9 @@ It's summer in the northern hemisphere, and that brings the heat! The problem is
 
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![52Pi Ice Tower Plus](https://cdn.mos.cms.futurecdn.net/CKwoV3k8pmHCMdT6Q5pREe-320-80.jpg)
 
  (Image credit: Tom's Hardware)

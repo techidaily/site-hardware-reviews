@@ -1,7 +1,7 @@
 ---
 title: Evaluating the PNY RP60 Portable SSD - Good Quality, Yet Unremarkable Features
-date: 2024-08-08 12:56:26
-updated: 2024-08-11 12:53:47
+date: 2024-08-10T04:59:04.746Z
+updated: 2024-08-11T04:59:04.746Z
 tags:
   - review
 categories:
@@ -60,6 +60,9 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
 ## Included in the Box: Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/NR6fM5LSHZ2vyoLdqun7N3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -68,8 +71,14 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
  Also in the box is a USB thumb drive preloaded with Chitubox slicing software, a PDF of the manual and presliced test prints.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Printing Safety with Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/2GTNvqPgnFNEMdMqvZNHN4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -80,18 +89,27 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
 ## Assembling the Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/zj9UaTGsEHkvZ6GsQpZWo4-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The printer comes fully assembled. You only need to remove the packing materials, and you’re good to go.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Calibrating the Build Plate on the Elegoo Saturn 4 Ultra
 
  Unlike other resin printers, the Saturn 4 Ultra doesn’t require manual calibration. It has a mechanical sensor that detects how well the plate and glass are fitting together and can adjust accordingly.
 
 ## Design of the Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/aKBmFNJjdUCZCo6rV66LE3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -102,6 +120,9 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
  It’s a “smart” printer with several auto features to assist you. When you turn it on, it will run through a checklist to make sure all the components are working. It has sensors to make sure you have enough resin, and it can also tell if bits of a failed model are still stuck to the vat to prevent damage.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/ookcoEuJuGbYAMvCRuQdu3-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -130,6 +151,9 @@ I have to admit, before testing the Saturn 4 Ultra, I had gotten bored with resi
 
 ## Slicers Compatible with the Elegoo Saturn 4 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/BpSuqecqcQ222wenyEQCc3-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -156,6 +180,9 @@ The Saturn 4 Ultra is not yet supported by LycheeSlicer.
 
 Supports should also be cured before being thrown away.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sample Prints on the Elegoo Saturn 4 Ultra
 
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/Q8B9jtpCxX9uet4y3RFtm3-320-80.jpg)
@@ -172,6 +199,9 @@ Supports should also be cured before being thrown away.
 
  I loaded the Saturn 4 Ultra with[Phrozen’s Aqua Grey 8K](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FPhrozen-Printing-Designed-Showcase-Printers%2Fdp%2FB09Q33CS62%2Fref%3Dsr%5F1%5F4%3Fcrid%3D2469XOHE0YUIQ%26dib%3DeyJ2IjoiMSJ9.yoUQvgbxwdJ9Fb1ptGJmOHC7BE7dH9-v6YbJISB9OTASofzjeMFfykGPHzUlZeyIfHzwGku3Gqh3Sle3Y8EX4WAan5PFgf9glbRlo82q6z29mBE8mfljrPCnbFtaSgnz4RCtQG6QWXhyB2Fdm2G7nBBcJBEhczk4nu2JO9kYhBScDtaFHS2peER6eHNNnatIpLhm389NvlgwlvRSCm3-bXkYSGEXyhAt1NRjm3-U7IJECmI0pMh3YHYuGb0n3mxn%5FUwc84kPJ6bfn6-%5F%5FMYdRXQCMowXWyfE7IOLbZqrupM.fNVM5tZqLwtDeXoQqPpQZTz7F%5Fewc0abOlHsewtQeQ4%26dib%5Ftag%3Dse%26keywords%3D8k%2Bresin%26qid%3D1715644820%26s%3Dindustrial%26sprefix%3D8k%2Bresin%252Cindustrial%252C100%26sr%3D1-4%26tag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1281833416057619827-20) to see how it would do with a different brand of resin, and I was happy to see the Saturn had no trouble at all. This D&D miniatures printed very clean with beautiful details. These printed in 2 hours and 12 minutes using a 3.5 exposure time and a .05 mm layer height.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Elegoo Saturn 4 Ultra](https://cdn.mos.cms.futurecdn.net/qkTZWYjyGLDsCpnr7bprf4-320-80.jpg)
 
 [_Cinderwing3D Rose Dragon_](https://cults3d.com/en/3d-model/art/rose-dragon-valentine-s-day-articulating-flexi-wiggle-pet-print-in-place-fantasy)  (Image credit: Tom's Hardware)
@@ -180,6 +210,9 @@ Supports should also be cured before being thrown away.
 
  For comparison, a[Bambu Lab P1P](https://www.tomshardware.com/reviews/bambulabs-p1p-review-bare-bones-speed-freak) on its finest setting and using 99 walls to achieve a similar thickness, would take 12 hours and 42 minutes to print this same model.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Bottom Line
 
  The Elegoo Saturn 4 Ultra is an astounding machine with a remarkable level of detail and generous build volume. At 19 microns of resolution, we’ve hit a wall on the amount of detail we can appreciate with the naked eye. Elegoo finally made a choice to improve the printer itself and not just the light source, giving us a built-in camera, convenient hinged hood and a tilting vat that increases print speed without the need to get extra fine (and expensive) resin.

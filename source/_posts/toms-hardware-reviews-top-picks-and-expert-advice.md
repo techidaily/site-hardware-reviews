@@ -1,7 +1,7 @@
 ---
 title: Tom's Hardware Reviews - Top Picks & Expert Advice
-date: 2024-08-08 16:59:36
-updated: 2024-08-11 10:18:13
+date: 2024-08-10T04:59:15.167Z
+updated: 2024-08-11T04:59:15.167Z
 tags:
   - review
 categories:
@@ -15,6 +15,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  And the BlueAnt Soundblade, at just 2.13 inches high, is designed to do just that. This under-monitor soundbar has a low, flat profile designed to sit over your monitor stand and wow all your friends/colleagues/family members with its sleek, sexy premium looks. It's a 2.1 soundbar with two full-range[drivers](https://www.tomshardware.com/tag/drivers) and an 80mm down-firing subwoofer, and three input options (USB-C, Bluetooth, AUX). And it gets very, very (seriously, it's kind of shocking) loud. It also looks good — it has a fairly attractive faux brushed-metal finish and it comes in several colors (gray, white, light pink, light blue, and light green), and is otherwise just kind of pretty to look at. But are looks and loudness alone worth the $200 retail price?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the Soundblade
 
  The Soundblade is a slim, flat, stylish under-monitor 2.1 soundbar designed to sit over — not under — your monitor stand. It features a textured plastic top that looks a little like brushed aluminum from afar (but definitely looks and feels like plastic from close up), fabric-covered forward-facing stereo drivers, and an 80mm down-firing center subwoofer. It comes in five colors that look like they're designed to match a Samsung Smart Monitor or an Apple iMac: light blue, light green, light pink, white, or charcoal gray (the color of our review unit).
@@ -29,6 +32,10 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -37,6 +44,26 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -45,10 +72,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  (Image credit: Tom's Hardware)
 
-![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -61,6 +87,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -71,6 +100,11 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  After having spent some time with the Soundblade, however, I understand why BlueAnt insists it's not a monitor stand: It's very lightweight (it's almost a pound lighter than most generic, budget-priced wood/metal monitor risers you'll find online), and while it feels like it could hold a smaller, lighter task monitor pretty easily, I probably wouldn't trust it with a pricey[gaming monitor](https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://cdn.mos.cms.futurecdn.net/zCkqFYE8ehCtziknVGzYca-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -83,6 +117,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  Image 1 of 2
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -187,6 +224,9 @@ Show More Deals
 
  Music on the Soundblade sounded... just okay, assuming the volume was cranked way down. Lows and mids were decently strong, especially for the size, and highs were present if a little clipped. The built-in subwoofer can't replace a larger, separate subwoofer (and the Soundblade has no port for plugging in a separate subwoofer), but it delivered sufficiently powerful bass. However, some of the nuance was lost in tracks such as Lorde's_Royals_ or Hans Zimmer's_Time._
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://cdn.mos.cms.futurecdn.net/Cox8HSR7Dz8pSWzREk8M2X-320-80.jpg)
 
  (Image credit: Tom's Hardware)

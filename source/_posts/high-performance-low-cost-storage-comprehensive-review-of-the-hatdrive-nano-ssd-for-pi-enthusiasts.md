@@ -1,7 +1,7 @@
 ---
 title: "High-Performance, Low-Cost Storage: Comprehensive Review of the HatDrive! Nano SSD for Pi Enthusiasts"
-date: 2024-08-09 12:46:33
-updated: 2024-08-11 12:12:37
+date: 2024-08-10T04:59:02.274Z
+updated: 2024-08-11T04:59:02.274Z
 tags:
   - review
 categories:
@@ -28,6 +28,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 | **Dimensions**     | 50 x 33 mm                        |
 | **Price**          | £9 ($10)                          |
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HatDrive! Nano Design
 
  Image 1 of 6
@@ -44,14 +47,23 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -101,6 +113,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  All that raw data leads us to the conclusion that the Pineboards HatDrive! Nano is the board that you need for your Raspberry Pi 5.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Pineboards HatDrive! Nano and the official Raspberry Pi 5 Case
 
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/nzGEoukdwZcg3eTz9bSqfj-320-80.jpg)
@@ -115,8 +130,14 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  For $10, the Pineboards HatDrive! Nano is a no-brainer purchase. We can see this being used across the entire gamut of Raspberry Pi projects. The unobstructed GPIO and camera / display access means that we can build robots, retro gaming rigs and AI projects with very little hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/zZ56qNDy7bvZviMjPJ4uum-320-80.jpg)
 
  (Image credit: Tom's Hardware)

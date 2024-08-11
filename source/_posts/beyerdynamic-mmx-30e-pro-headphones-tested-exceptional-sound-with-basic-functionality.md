@@ -1,7 +1,7 @@
 ---
 title: Beyerdynamic MMX 30E Pro Headphones Tested - Exceptional Sound with Basic Functionality
-date: 2024-08-08 10:22:21
-updated: 2024-08-11 12:34:27
+date: 2024-08-10T04:59:02.887Z
+updated: 2024-08-11T04:59:02.887Z
 tags:
   - review
 categories:
@@ -29,18 +29,31 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -95,6 +108,9 @@ Soundbars are usually aimed at home entertainment systems — not PCs, which is 
 
  Each time you change the input, a voice announces the change and the indicator LED changes colors to correspond with the current source (purple for USB, blue for Bluetooth, and green for analog). Tapping and holding the power button turns the Soundblade off, and the volume buttons control the volume. Connections are found on the back right corner: DC-in, USB-C, and 3.5mm AUX.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://cdn.mos.cms.futurecdn.net/YhPePzUqbHdGhyTN4XRRJS-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -159,6 +175,9 @@ Show More Deals
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Specs
 
  Swipe to scroll horizontally
@@ -177,6 +196,9 @@ Show More Deals
 | **MSRP / Price at Time of Review** | $199.99                                                                         |
 | **Release Date**                   | May 23, 2024                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Performance of the Soundblade
 
  The Soundblade is a soundbar with a 2.1 configuration, which means it has dual-channel (stereo) sound in the form of two forward-facing dual voice coils, and a bass via a built-in 80mm down-firing subwoofer in the center. BlueAnt doesn't offer much detail on the configuration beyond this, but the company says the Soundblade is designed for a variety of content — including "YouTube videos, Netflix series, immersive gaming sessions, and streaming music."
@@ -187,6 +209,9 @@ Show More Deals
 
  Music on the Soundblade sounded... just okay, assuming the volume was cranked way down. Lows and mids were decently strong, especially for the size, and highs were present if a little clipped. The built-in subwoofer can't replace a larger, separate subwoofer (and the Soundblade has no port for plugging in a separate subwoofer), but it delivered sufficiently powerful bass. However, some of the nuance was lost in tracks such as Lorde's_Royals_ or Hans Zimmer's_Time._
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://cdn.mos.cms.futurecdn.net/Cox8HSR7Dz8pSWzREk8M2X-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -195,6 +220,9 @@ Show More Deals
 
  Music isn't the Soundblade's forte, but it handled other types of media much better. Movies, shows, and TikTok sounded especially good — voices were dynamic and full, and dialogue was clear and well-separated from any background noise, even when the Soundblade was at lower volumes (which, well, it always was). Games also sounded good, though the Soundblade did have the expected limitations of a 2.1 soundbar. The multi-layered soundscapes of_Uncharted 4_ and_God of War: Ragnarok_ sounded a little compressed and narrow, but at least dialogue and non-environmental noises (e.g. gunshots, footsteps) were clear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![BlueAnt SoundBlade](https://cdn.mos.cms.futurecdn.net/fiDRjCf2HpMMiqADk5dDxb-320-80.jpg)
 
  (Image credit: Tom's Hardware)

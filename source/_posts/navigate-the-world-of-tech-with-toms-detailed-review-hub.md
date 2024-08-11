@@ -1,7 +1,7 @@
 ---
 title: Navigate the World of Tech with Tom's Detailed Review Hub
-date: 2024-08-10 14:30:22
-updated: 2024-08-11 11:55:42
+date: 2024-08-10T04:59:07.376Z
+updated: 2024-08-11T04:59:07.376Z
 tags:
   - review
 categories:
@@ -25,6 +25,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
 * [Asus Pro B760M-CT CSM (LED) at Amazon for $139.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-8937153543587653239-20)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specifications: Asus B760M-CT
 
  Swipe to scroll horizontally
@@ -105,6 +108,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Inside the box are a couple of accessories designed to get you started: two SATA cables, the I/O shield, screw packages for M.2, ACC Express activation key card, and a user guide. Not much, but it’s everything you need outside of[drivers](https://www.tomshardware.com/tag/drivers) (download from the Asus website) to get going.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Design of the B760M-CT
 
  Image 1 of 3
@@ -117,12 +123,18 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
  The B760M-CT is a Micro ATX form factor board measuring 244 x 244mm. It uses an old-school green PCB with a moisture-preventing coating to help in high-humidity environments. Built for business, it’s not meant to be viewed, really. With that in mind, you don’t get any integrated RGBs or RGB headers to add your own. Typical use cases will have these inside chassis without windows anyway. Strictly business here, folks!
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/PxB9U2jztbrQWBjpEYiqVn-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -141,6 +153,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Power delivery is a 7-phase configuration with five dedicated to Vcore. Power comes from the EPS connector to the OnSemi NCP81270C controller and finally to the five Vcore phases. As you can see from the image, this isn’t an integrated MOSFET, as we’re used to seeing on more expensive boards. The high and low sides are separated with three total ICs per phase. Still, it handled our i9-14900K but was limited to 125W after some time. Temperatures ran hot but did not throttle the VRMs. There’s no way I’d increase the duration or any power limits though, as they are at the limit. But again, this is made for business, and this ecosystem typically won’t change anything except perhaps enable XMP profiles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/mSXNSnc4zcHWknGDEjvhE-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -153,6 +168,9 @@ It’s been quite a while since we’ve looked at business-class motherboards, b
 
  Across the bottom is a slew of headers for additional connectivity and[security](https://www.tomshardware.com/tag/security) . From left to right, there’s front panel audio, two COM ports, an LPT header, a chassis fan header, and two USB 2.0 headers. Continuing focus to the right are clear CMOS and Debug jumpers, along with speaker, front panel, and chassis intrusion headers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/oFX8bsHQE3PFF2M2R8h9r-320-80.jpg)
 
  (Image credit: Tom's Hardware)

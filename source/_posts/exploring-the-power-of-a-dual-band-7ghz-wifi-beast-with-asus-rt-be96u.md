@@ -1,7 +1,7 @@
 ---
 title: Exploring the Power of a Dual-Band 7GHz WiFi Beast with ASUS RT-BE96U
-date: 2024-08-10 20:21:35
-updated: 2024-08-11 11:54:54
+date: 2024-08-10T04:59:05.014Z
+updated: 2024-08-11T04:59:05.014Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 * [UpHere M201 SSD Heatsink (SSD) at Amazon for $4.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09CPQFWZB%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1338835888658191021-20)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -49,6 +52,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  We check over 250 million products every day for the best prices
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Packing and included contents
 
  The packaging of the SSD heatsink is a bit different from similar products, with the box arriving in a resealable electrostatic shielding bag.
@@ -61,6 +67,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 Opening the box reveals the contents, protected by molded foam.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/DZFV29NkVPss72hpUp837J-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -71,6 +80,9 @@ Included with the package are the following:
 * Two clips
 * Top and bottom sections of the heatsink
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/5s7Zsu4AcRqkHArxpCnk2K-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -101,6 +113,9 @@ Included with the package are the following:
 
  Many of the cheapest M.2 NVMe heatsinks only make contact with the top half, meaning that any NAND placed on the underside is unprotected. UpHere’s M201 features double-sided protection, ensuring peak performance for both single- sided and double-sided M.2 SSDs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What I don’t like about the UpHere M201
 
 **\*️⃣ Annoying clips during installation**
@@ -129,6 +144,9 @@ Included with the package are the following:
 
  When it comes to heatsinks for SSDs, the important thing to take away here is that it’s best practice to minimize temperature variations for the health and longevity of your SSD. How strong of a heatsink you’ll need is another matter for debate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing configuration – Intel LGA1700 platform
 
  Swipe to scroll horizontally
@@ -159,18 +177,27 @@ All testing is performed with an ambient temperature of 23 C.
 
  Next, you’ll need to place the SSD on top of the thermal pad, and then place the second thermal pad on top of the SSD. Then, slide the top half of the heatsink under the groves shown above.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/xTe8snVYK8PsGyLobtRNJC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The next step can be slightly frustrating if you aren’t patient and / or don’t know what you’re doing. You’ll want to take the clip and slide it underneath the grooves shown in the picture above. Make sure the open side of the clip is facing down to maintain proper pressure.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/zsZRaWKpPu4LbZKSxoyJPD-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The last step is to slide the heatsink into an available M.2 slot and secure it. Some users will have m.2 screws for this purpose; others might have sliding latches. As long as it is secure, it doesn’t matter which method you use.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/GBssSe9YdHuQbCTqLhBNJH-320-80.jpg)
 
  (Image credit: Tom's Hardware)

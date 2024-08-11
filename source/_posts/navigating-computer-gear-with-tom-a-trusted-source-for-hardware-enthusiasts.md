@@ -1,7 +1,7 @@
 ---
 title: "Navigating Computer Gear with Tom: A Trusted Source for Hardware Enthusiasts"
-date: 2024-08-09 12:54:47
-updated: 2024-08-11 12:10:54
+date: 2024-08-10T04:59:04.982Z
+updated: 2024-08-11T04:59:04.982Z
 tags:
   - review
 categories:
@@ -19,6 +19,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
 * [UpHere M201 SSD Heatsink (SSD) at Amazon for $4.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09CPQFWZB%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-1338835888658191021-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Cooler specifications
 
  Swipe to scroll horizontally
@@ -55,6 +58,9 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/W8ab9R9HkMTaJcnVMAwp2B-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -71,10 +77,16 @@ Included with the package are the following:
 * Two clips
 * Top and bottom sections of the heatsink
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/5s7Zsu4AcRqkHArxpCnk2K-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Features of UpHere’s M201 NVMe SSD Heatsink
 
  **\*️⃣ No compatibility concerns, will fit with any air cooler or dGPU**
@@ -87,12 +99,18 @@ Included with the package are the following:
 
 **\*️⃣ Cheaper than Starbucks at only $4.99 USD**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQxzjCeWLgYlVkxw84Y6i_Z-B4H3DjpH6AfqHf8ejY0LzcHNA7zEI8OqDPZdgT4FqM7Bhy2Y2-56p5rpedaYSknAiL2E1efRu28W9xDbp2TbTXKRjfPoMD6LGp4_e0UbEKyNLLbVscJ3djSJh8B1dsz1w-3WdL1Xv3ORSmB0KX1rcybK9mog?key=oZ-l-Sh-eCWOCVg0gmIi9Q) Most NVMe SSD heatsinks are not expensive, typically costing between $10 and $20 USD. UpHere’s M201 is about as cheap as they come, costing just $4.99 in the U.S.
 
 **\*️⃣ Jagged heatsink design takes advantage of native airflow**
 
  While the M201 doesn’t have a fan cooling the heatsink, its jagged design will take advantage of existing airflow in the case. This means that it will perform better in systems using air cooling, if installed in the M.2 slot next to your CPU. Alternatively, this also means that it would perform worse in a bottom side M.2 slot where there is less airflow or when a liquid cooler is installed instead of air cooling.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/xTe8snVYK8PsGyLobtRNJC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -153,18 +171,27 @@ All testing is performed with an ambient temperature of 23 C.
 
  The first step is to take one of the included thermal pads and apply it to the base of the heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/bsGymASMp26QdEBGsjQoSB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Next, you’ll need to place the SSD on top of the thermal pad, and then place the second thermal pad on top of the SSD. Then, slide the top half of the heatsink under the groves shown above.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/xTe8snVYK8PsGyLobtRNJC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  The next step can be slightly frustrating if you aren’t patient and / or don’t know what you’re doing. You’ll want to take the clip and slide it underneath the grooves shown in the picture above. Make sure the open side of the clip is facing down to maintain proper pressure.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/zsZRaWKpPu4LbZKSxoyJPD-320-80.jpg)
 
  (Image credit: Tom's Hardware)

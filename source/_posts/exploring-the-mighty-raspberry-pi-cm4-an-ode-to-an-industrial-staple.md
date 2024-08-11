@@ -1,7 +1,7 @@
 ---
 title: Exploring the Mighty Raspberry Pi CM4 - An Ode to an Industrial Staple
-date: 2024-08-09 21:21:30
-updated: 2024-08-11 12:27:58
+date: 2024-08-10T04:59:11.179Z
+updated: 2024-08-11T04:59:11.179Z
 tags:
   - review
 categories:
@@ -17,6 +17,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  Many thanks to[The PiHut](https://thepihut.com/products/hatdrive-nano-for-raspberry-pi-5) for supplying us with this review unit and a Pinedrive 2242 NVMe SSD.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## HatDrive! Nano Specifications
 
  Swipe to scroll horizontally
@@ -28,14 +31,24 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 | **Dimensions**     | 50 x 33 mm                        |
 | **Price**          | £9 ($10)                          |
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## HatDrive! Nano Design
 
  Image 1 of 6
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
  (Image credit: Tom's Hardware)
@@ -80,6 +93,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  Our first test was a cold boot. From powering on to a usable desktop experience. The baseline is 21.28 seconds, using one of the best micro SD cards, an A1 rated Sandisk card. The Nano shaved 2.82 seconds from the boot time, coming in at 18.46 seconds. Not a great deal but every second helps. The Top came in at 19.12 seconds, 2.16 seconds faster than micro SD. The 0.66 time difference between the Nano and Top boot times is negligible enough to call it a dead heat.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/FQ4GVfDrLk29JCZMvo7bzV-320-80.png)
 
  (Image credit: Tom's Hardware)
@@ -101,6 +117,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
  All that raw data leads us to the conclusion that the Pineboards HatDrive! Nano is the board that you need for your Raspberry Pi 5.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Pineboards HatDrive! Nano and the official Raspberry Pi 5 Case
 
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/nzGEoukdwZcg3eTz9bSqfj-320-80.jpg)
@@ -117,6 +136,9 @@ Let's cut to the chase, for $10 (€9 / £9 for European and UK readers), the ne
 
 ## Bottom Line
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pineboards HatDrive! Nano](https://cdn.mos.cms.futurecdn.net/zZ56qNDy7bvZviMjPJ4uum-320-80.jpg)
 
  (Image credit: Tom's Hardware)

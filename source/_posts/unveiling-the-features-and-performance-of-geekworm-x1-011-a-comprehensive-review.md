@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Features and Performance of Geekworm X1 0/1/1 - A Comprehensive Review
-date: 2024-08-09 11:34:14
-updated: 2024-08-11 12:17:35
+date: 2024-08-10T04:59:06.779Z
+updated: 2024-08-11T04:59:06.779Z
 tags:
   - review
 categories:
@@ -55,12 +55,18 @@ Until recently, cooling for storage was at best an afterthought for most enthusi
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/W8ab9R9HkMTaJcnVMAwp2B-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
 Opening the box reveals the contents, protected by molded foam.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/DZFV29NkVPss72hpUp837J-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -81,18 +87,27 @@ Included with the package are the following:
 
  As this heatsink is roughly the same height as a PCI-e slot, it won’t cause any compatibility issues with other components. Larger NVMe SSD heatsinks often won’t fit underneath many air coolers due to their size.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/EjtEuLtTsepWKLXBnrBCqC-320-80.jpg)
 
  _UpHere M201 SSD Heatsink pictured next to ASRock Steel Legend 7900 GRE graphics card and Valkyrie SYN 360 AIO._  (Image credit: Tom's Hardware)
 
 **\*️⃣ Cheaper than Starbucks at only $4.99 USD**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdQxzjCeWLgYlVkxw84Y6i_Z-B4H3DjpH6AfqHf8ejY0LzcHNA7zEI8OqDPZdgT4FqM7Bhy2Y2-56p5rpedaYSknAiL2E1efRu28W9xDbp2TbTXKRjfPoMD6LGp4_e0UbEKyNLLbVscJ3djSJh8B1dsz1w-3WdL1Xv3ORSmB0KX1rcybK9mog?key=oZ-l-Sh-eCWOCVg0gmIi9Q) Most NVMe SSD heatsinks are not expensive, typically costing between $10 and $20 USD. UpHere’s M201 is about as cheap as they come, costing just $4.99 in the U.S.
 
 **\*️⃣ Jagged heatsink design takes advantage of native airflow**
 
  While the M201 doesn’t have a fan cooling the heatsink, its jagged design will take advantage of existing airflow in the case. This means that it will perform better in systems using air cooling, if installed in the M.2 slot next to your CPU. Alternatively, this also means that it would perform worse in a bottom side M.2 slot where there is less airflow or when a liquid cooler is installed instead of air cooling.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/xTe8snVYK8PsGyLobtRNJC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -107,6 +122,9 @@ Included with the package are the following:
 
  The installation of the heatsink isn’t particularly difficult, but the use of clips between the heatsink’s halves might make installation difficult for novice users.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How hot is too hot? Does cooling even matter for an SSD?
 
  With SSD heatsinks, many will understandably be asking if it really matters. And if you’re a typical user who mostly just loads a few applications and games, you probably don’t need an advanced heatsink with a fan. I’ve run a variety of tests, and for common tasks like loading a game or application, you generally don’t need more than a basic heatsink – at least not with current SSDs and workloads.
@@ -153,12 +171,18 @@ All testing is performed with an ambient temperature of 23 C.
 
  The first step is to take one of the included thermal pads and apply it to the base of the heatsink.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/bsGymASMp26QdEBGsjQoSB-320-80.jpg)
 
  (Image credit: Tom's Hardware)
 
  Next, you’ll need to place the SSD on top of the thermal pad, and then place the second thermal pad on top of the SSD. Then, slide the top half of the heatsink under the groves shown above.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![UpHere M201 SSD Heatsink](https://cdn.mos.cms.futurecdn.net/xTe8snVYK8PsGyLobtRNJC-320-80.jpg)
 
  (Image credit: Tom's Hardware)
@@ -195,6 +219,9 @@ All testing is performed with an ambient temperature of 23 C.
 
 powered by
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
 <ins class="adsbygoogle"
