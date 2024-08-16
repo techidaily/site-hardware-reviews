@@ -1,7 +1,7 @@
 ---
 title: Expert Review on the Powerful Platinum Series - NZXT C1ebuilding with Sustainable Materials, Including Recycled Content when Possible
-date: 2024-08-10T04:59:23.650Z
-updated: 2024-08-11T04:59:23.650Z
+date: 2024-08-15T00:29:16.936Z
+updated: 2024-08-16T00:29:16.936Z
 tags:
   - review
 categories:
@@ -396,3 +396,44 @@ __MORE:__ [ __All Power Supply Content__ ](https://www.tomshardware.com/pc-compo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-apex-artists-youtubes-most-followed-sages-for-2024/"><u>[New] Apex Artists  YouTube's Most-Followed Sages for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-photography-flip-and-tilt-your-images-anywhere/"><u>[Updated] IPhone Photography  Flip & Tilt Your Images Anywhere</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-3d-text-effects-in-psx/"><u>[Updated] Step-by-Step Guide to 3D Text Effects in PSX</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>2024 Approved  Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-twittersphere-wave-identifying-the-days-viral-video-threads/"><u>2024 Approved  Twittersphere Wave  Identifying the Day's Viral Video Threads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banish-not-recognized-issues-in-windows-with-these-fixes/"><u>Banish 'Not Recognized' Issues in Windows with These Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-secrets-with-toms-technology-tutorials/"><u>Decoding Hardware Secrets with Tom's Technology Tutorials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-toms-detailed-evaluations-on-hardware/"><u>Decoding Technology: Tom's Detailed Evaluations on Hardware</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-oppo-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Oppo .</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024002e-explained-a-comprehensive-guide-to-successfully-update-windows-without-issues/"><u>Error 0X8024002E Explained: A Comprehensive Guide to Successfully Update Windows Without Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-accelerated-speeds-with-crucials-p310-ssd-review-for-m2-2280-cards/"><u>Experience Accelerated Speeds with Crucial's P310 SSD Review for M.2 2280 Cards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-mastery-cutting-edge-pc-discoveries-await/"><u>Exploring Tom's Hardware Mastery - Cutting-Edge PC Discoveries Await!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/getting-to-know-tech-better-dive-into-toms-hardware-treasure-trove-of-information/"><u>Getting to Know Tech Better? Dive Into Tom's Hardware Treasure Trove of Information</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-motorola-g24-power-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola G24 Power Safely | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-40c-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Play 40C Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-13t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi 13T Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-compact-form/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR - Unmatched Color Precision in a Compact Form</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-viewsonic-xg2njoyx272-oled-240hz-monitor-a-perfect-match-for-gamers/"><u>In-Depth Review of the ViewSonic XG2njoyX272 OLED 240Hz Monitor - A Perfect Match for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gear-room-a-deep-dive-into-cutting-edge-pc-components/"><u>Inside Tom's Gear Room: A Deep Dive Into Cutting-Edge PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-destination-comprehensive-gear-evaluations/"><u>Inside Tom's Tech Destination: Comprehensive Gear Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-c110-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C110 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-toms-authoritative-hardware-advice/"><u>Navigating the World of Gadgets & Peripherals: Tom's Authoritative Hardware Advice</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-vlogs-and-travel-content-are-incomplete-without-a-fast-motion-effect-learn-step-by-step-how-to-make-fast-motion-video-on-an-iphone-in-this-artic/"><u>New In 2024, Vlogs and Travel Content Are Incomplete without a Fast-Motion Effect. Learn Step-by-Step How to Make Fast Motion Video on an iPhone in This Article</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-reviews-unveiling-the-latest-in-hardware-with-toms-insights/"><u>Pioneering Technology Reviews: Unveiling the Latest in Hardware with Tom's Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-experience-with-gigabytes-aorus-z69ueh-an-intense-review-of-the-high-performance-4k-oled-display-at-lightning-speed/"><u>Revolutionize Your Gaming Experience with Gigabyte's Aorus Z69UEH: An Intense Review of the High-Performance, 4K OLED Display at Lightning Speed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/"><u>Sovol SV08 Evaluation: Reviving the Spirit of Voron on Two Wheels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-module-reviewed-testing-its-c40-technology-across-dual-32gb-channels/"><u>The Kingston Fury Beast DDR5 Memory Module Reviewed - Testing Its C40 Technology Across Dual 32GB Channels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-comprehve-review-showcase/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Comprehve Review Showcase</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-tutorial-leveraging-the-preview-app-for-stunning-image-edits-on-macos/"><u>The Ultimate Tutorial: Leveraging the Preview App for Stunning Image Edits on macOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-video-money-roadmap-dailymotion-and-youtube-compared-for-2024/"><u>The Video Money Roadmap  Dailymotion & YouTube Compared for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performer-showdown-in-depth-review-of-gigabytes-high-end-aorus-fo32u2p-monitor-with-ultra-4k-240hz-visual-splendor/"><u>Top-Performer Showdown: In-Depth Review of Gigabyte's High-End Aorus FO32U2P Monitor with Ultra 4K, 240Hz Visual Splendor</u></a></li>
+</ul></div>

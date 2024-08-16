@@ -1,0 +1,299 @@
+---
+title: Experience Green Technology with TeamGroup's Eco Vulcan - The DDR5-6000 C30, 2X16GB Memory Kit Reviewed!
+date: 2024-08-15T00:33:41.936Z
+updated: 2024-08-16T00:33:41.936Z
+tags:
+  - review
+categories:
+  - hardware
+thumbnail: https://cdn.mos.cms.futurecdn.net/D5nT8XpkwzQGksGmq7AstS-320-80.jpg
+---
+
+## Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed
+
+It’s been quite a while since we’ve looked at business-class motherboards, but since we’ve been on a streak of inexpensive Micro ATX boards, we want to make sure Asus is involved around that $100-150 range. On our test bench is the Asus Pro B650M-CT ($119.99). This tiny board is intended for SMBs and enterprises across retail, education, healthcare, manufacturing, and hospitality, but it is also a competent gamer!
+
+ Although anyone can use these boards, the CSM program they belong to is designed for businesses and multiple units. You get premium after-sales service/support, and any Pro, Prime CDM, and workstation series get the Asus Control Center Express software for real-time monitoring and management of multiple devices for IT. So while it works for everyone, businesses will get the most out of it.
+
+ Hardware-wise, there’s not a lot going on, but we must not forget that it’s intended for business, and most users do not have more than a couple of USB-connected devices on the rear IO. They can get away with the additional front-panel connectivity, however. Still, you get support for 12th-14th generation processors (including flagship-class SKUs), dual M.2 sockets and four SATA ports, 1 GbE networking (Wi-Fi is supported via Key-E socket, but not included), and a few Q-design features like Q-DIMM, Q-LED Core, and Q-Slot. You also get other features that are good for business, including Asus Boot Defender, a self-recovering BIOS, event logging, an anti-moisture coating, and more (see the p[roduct page](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6770917731139798184&url=https%3A%2F%2Fwww.asus.com%2Fus%2Fmotherboards-components%2Fmotherboards%2Fbusiness%2Fpro-b760m-ct-csm%2F) for details).
+
+ Performance on our business board mixed in with the other B760M boards we tested recently. Like them, this board didn’t do well in longer-running, heavily threaded[benchmarks](https://www.tomshardware.com/tag/benchmark) /applications with our processor but did keep up with boards with higher limits in lightly threaded, shorter tests. In other words, it works well as an office machine working in things like MS Office and other light applications. Still, it will be slower than other boards with increased power limits/duration, especially when using high-powered CPUs like our Intel Core i9-14900K. Processors with lower TDPs can likely reach their potential, but the i9-14900K and i7-14700K (any other 200W+ processor) will have limited boost clocks in specific situations.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ Below, we’ll dig into the details and see how it performed across all of the tests against other motherboards, including other Micro ATX B760 (and Z790) options. This board won’t make the[best motherboard](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjal8GqruSCAxVFlYkEHVcwDMwQFnoECBgQAQ&url=https%3A%2F%2Fwww.tomshardware.com%2Fbest-picks%2Fbest-motherboards&usg=AOvVaw05lDhSSB0b8xBYjnZXLlW5&opi=89978449) list, but it still might be a good option to build with, especially if it’s used in an office environment where its features are worth more to the buyer. Before we get into details, we’ll start by listing the specifications from the Asus website.
+
+* [Asus Pro B760M-CT CSM (LED) at Amazon for $139.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-8937153543587653239-20)
+
+## Specifications: Asus B760M-CT
+
+ Swipe to scroll horizontally
+
+| Socket                 | LGA1700                                       |
+| ---------------------- | --------------------------------------------- |
+| Chipset                | B760M                                         |
+| Form Factor            | Micro ATX                                     |
+| Voltage Regulator      | 7 Phase 5x 50A(?) MOSFETs for Vcore)          |
+| Video Ports            | (2) DisplayPort (v1.4)                        |
+| Row 5 - Cell 0         | (1) HDMI (v2.0)                               |
+| Row 6 - Cell 0         | (1) VGA                                       |
+| USB Ports              | (2) USB 3.2 Gen 1 (5 Gbps)                    |
+| Row 8 - Cell 0         | (2) USB 2.0 (480 Mbps)                        |
+| Network Jacks          | (1) 1 GbE                                     |
+| Audio Jacks            | (3) Analog                                    |
+| Legacy Ports/Jacks     | (2) PS/2 ports (mouse and keyboard)           |
+| Other Ports/Jack       | ✗                                             |
+| PCIe x16               | (1) v4.0 x16                                  |
+| PCIe x8                | ✗                                             |
+| PCIe x4                | ✗                                             |
+| PCIe x1                | (2) v3.0 x1                                   |
+| CrossFire/SLI          | ✗                                             |
+| DIMM Slots             | (4) DDR5 6200(OC), 256GB Capacity             |
+| M.2 Sockets            | (2) PCIe 4.0 x4 (64 Gbps) / PCIe (up to 80mm) |
+| Row 20 - Cell 0        | Supports RAID 0/1/5/10                        |
+| SATA Ports             | (4) SATA3 6 Gbps                              |
+| USB Headers            | (1) USB v3.2 Gen 1 (5 Gbps) Type-C            |
+| Row 23 - Cell 0        | (1) USB v3.2 Gen 1 (5 Gbps)                   |
+| Row 24 - Cell 0        | (2) USB v2.0 (480 Mbps)                       |
+| Fan/Pump Headers       | (3) 4-Pin                                     |
+| RGB Headers            | ✗                                             |
+| Diagnostics Panel      | ✗                                             |
+| Internal Button/Switch | ✗                                             |
+| SATA Controllers       | ✗                                             |
+| Ethernet Controller(s) | (1) Intel GbE                                 |
+| Wi-Fi / Bluetooth      | ✗                                             |
+| USB Controllers        | ✗                                             |
+| HD Audio Codec         | Realtek ALC897                                |
+| DDL/DTS                | ✗ / ✗                                         |
+| Warranty               | 3 Years                                       |
+
+ Today's best Asus Pro B760M-CT CSM deals
+
+[175 Amazon customer reviews](https://target.georiot.com/Proxy.ashx?tsid=8428&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Freviews%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4543360539947261122-20)
+
+ ☆  ☆  ☆  ☆  ☆
+
+[ASUS Pro B760M-CT-CSM Intel...](https://images.fie.futurecdn.net/products/bac65309e150adc2b14acdd64fc3cff74fe3ed1f-100-80.jpg "ASUS Pro B760M-CT-CSM Intel...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[Prime](https://search-api.fie.futurecdn.net/img/misc/prime.png "Prime") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Ftryprimefree%3Ftag%3Dhawk-future-20%26ascsubtag%3Dhawk-custom-tracking-20)
+
+[$139.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[View](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[Pro B760M-CT-CSM](https://shop.asus.com/us/media/catalog/product/0/6/067e913283efd0690759b3a472ce25c7.png?height=200&width=200 "Pro B760M-CT-CSM") ](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[ASUS](https://images.fie.futurecdn.net/q9rqeh9dqo9d5mxj-17008376580159-100-80.png "ASUS") ](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[$139.99](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[View](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[Asus TeK Pro B760M-ct-csm...](https://images.fie.futurecdn.net/products/58d8dd6969ef9006baabafc11ab23501f509b05b-100-80.jpg "Asus TeK Pro B760M-ct-csm...") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+[Macy's](https://images.fie.futurecdn.net/udwnjd4vlt8nnax7-1695219294883-100-80.png "Macy's") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+[$174.96](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+[View](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+ We check over 250 million products every day for the best prices
+
+## Inside the Box of the Asus B760M-CT
+
+ Inside the box are a couple of accessories designed to get you started: two SATA cables, the I/O shield, screw packages for M.2, ACC Express activation key card, and a user guide. Not much, but it’s everything you need outside of[drivers](https://www.tomshardware.com/tag/drivers) (download from the Asus website) to get going.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## Design of the B760M-CT
+
+ Image 1 of 3
+
+![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+ (Image credit: Tom's Hardware)
+
+![Asus Pro B760M-CT](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+ The B760M-CT is a Micro ATX form factor board measuring 244 x 244mm. It uses an old-school green PCB with a moisture-preventing coating to help in high-humidity environments. Built for business, it’s not meant to be viewed, really. With that in mind, you don’t get any integrated RGBs or RGB headers to add your own. Typical use cases will have these inside chassis without windows anyway. Strictly business here, folks!
+
+![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/PxB9U2jztbrQWBjpEYiqVn-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+ Our board tour starts in the upper-left corner, where we find the required 8-pin EPS connector to power the processor. We usually see heatsinks covering the VRMs, but Asus chose to go without, which is acceptable at stock settings, even when using a power-hungry[Intel Core i9-14900K](https://www.tomshardware.com/news/intel-core-i9-14900k-cpu-review) .
+
+ Above the socket are the first (of three) 4-pin fan headers. Each header supports DC and PWM-controlled devices. Asus doesn’t list power output, so assume it’s 1A/12W – plenty for the type of PC it is on a platform that can’t overclock the CPU and generally won’t use high-powered processors.
+
+ Moving right, we hit four DRAM slots with the locking mechanism at the top (the right spot!). Asus lists support for up to 192GB on the specification page. However, in March, they[published an article](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-7308653278611580227&url=https%3A%2F%2Fpress.asus.com%2Fnews%2Fpress-releases%2Fbios-update-memory-capacity-increase%2F) showing that this board (and dozens of others) supports 256GB. Curiously, as of this writing (four months after the article above), they still have not updated this information on each board’s webpage.
+
+ Along the right edge is the 24-pin ATX connector to power the board, along with a front panel 19-pin USB 3.1 5 Gbps connector and 5 Gbps Type-C connector.
+
+![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/kn2NF9dzT4riDFV63xTyNo-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+ Power delivery is a 7-phase configuration with five dedicated to Vcore. Power comes from the EPS connector to the OnSemi NCP81270C controller and finally to the five Vcore phases. As you can see from the image, this isn’t an integrated MOSFET, as we’re used to seeing on more expensive boards. The high and low sides are separated with three total ICs per phase. Still, it handled our i9-14900K but was limited to 125W after some time. Temperatures ran hot but did not throttle the VRMs. There’s no way I’d increase the duration or any power limits though, as they are at the limit. But again, this is made for business, and this ecosystem typically won’t change anything except perhaps enable XMP profiles.
+
+![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/mSXNSnc4zcHWknGDEjvhE-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+ On the bottom half of the board, starting on the left, we see a naked[audio](https://www.tomshardware.com/tag/audio) section based on the Realtek ALC897 codec. Additionally, there are a few audio capacitors. It’s a budget codec but perfectly acceptable for professional use.
+
+ In the middle of the board, we spy three PCIe slots and three M.2 sockets. Starting with PCIe, the top slot connects through the CPU, runs up to PCIe 4.0 x16 speeds, and is your primary (only!) location for a discrete video card. Below are two closed-ended PCIe x1 slots running up to PCIe 3.0 x1.
+
+ Among the PCIe slots are two Key-M and a Key-E M.2 sockets. Both Key-M slots support up to 80mm modules and PCIe 4.0 x4 devices. SATA-based M.2 is not supported. The Key-E socket, below the PCIe slot, supports CNVi (Wi-Fi card) modules up to 30mm. Wi-Fi is not included. Skipping past the pushpin-connected chipset heatsink are the four SATA ports. The B760M-CT does support RAID on the SATA ports, but not M.2.
+
+ Across the bottom is a slew of headers for additional connectivity and[security](https://www.tomshardware.com/tag/security) . From left to right, there’s front panel audio, two COM ports, an LPT header, a chassis fan header, and two USB 2.0 headers. Continuing focus to the right are clear CMOS and Debug jumpers, along with speaker, front panel, and chassis intrusion headers.
+
+![Asus Pro B760M-CT](https://cdn.mos.cms.futurecdn.net/oFX8bsHQE3PFF2M2R8h9r-320-80.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ (Image credit: Tom's Hardware)
+
+ The rear IO on our business-class motherboard is unique compared to many boards we’ve covered over the past few years. Here, we see more video outputs (four) than we’re used to and far fewer USB ports (also four). You get two DisplayPorts, one HDMI, and one legacy VGA video output to run up to four monitors off the integrated graphics on most Intel CPUs. For USB, there are two 3.2 Gen 1 (5 Gbps) ports and two USB 2.0 (480 Mbps) ports - not a lot. You can use the front panel ports by buying an add-in card or one of the[best USB hubs](https://www.tomshardware.com/best-picks/best-usb-hubs) . It also has two PS/2 ports for a mouse and keyboard, the Intel 1 GbE plug, and, for audio, three 3.5mm jacks.
+
+**MORE:** [**Best Motherboards**](https://www.tomshardware.com/best-picks/best-motherboards)
+
+**MORE:** [**How To Choose A Motherboard**](https://www.tomshardware.com/reviews/motherboard-buying-guide,5682.html)
+
+**MORE:** [**All Motherboard Content**](https://www.tomshardware.com/pc-components/motherboards)
+
+ Asus Pro B760M-CT CSM: Price Comparison
+
+[175 Amazon customer reviews](https://target.georiot.com/Proxy.ashx?tsid=8428&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Freviews%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-4543360539947261122-20)
+
+ ☆  ☆  ☆  ☆  ☆
+
+[ASUS Pro B760M-CT-CSM Intel...](https://images.fie.futurecdn.net/products/bac65309e150adc2b14acdd64fc3cff74fe3ed1f-100-80.jpg "ASUS Pro B760M-CT-CSM Intel...") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[Amazon](https://images.fie.futurecdn.net/logos/merchants/amazon-us-15006529670367-100-80.png "Amazon") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[Prime](https://search-api.fie.futurecdn.net/img/misc/prime.png "Prime") ](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Ftryprimefree%3Ftag%3Dhawk-future-20%26ascsubtag%3Dhawk-custom-tracking-20)
+
+[$139.99](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[View](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BR8YT3ZX%3Ftag%3Dhawk-future-20%26linkCode%3Dogi%26th%3D1%26psc%3D1%26ascsubtag%3Dtomshardware-us-6641892978568520353-20)
+
+[Pro B760M-CT-CSM](https://shop.asus.com/us/media/catalog/product/0/6/067e913283efd0690759b3a472ce25c7.png?height=200&width=200 "Pro B760M-CT-CSM") ](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[ASUS](https://images.fie.futurecdn.net/q9rqeh9dqo9d5mxj-17008376580159-100-80.png "ASUS") ](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[$139.99](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[View](https://www.awin1.com/pclick.php?clickref=tomshardware-us-4497211459353558965&p=36218254843&a=103504&m=31828)
+
+[Asus TeK Pro B760M-ct-csm...](https://images.fie.futurecdn.net/products/58d8dd6969ef9006baabafc11ab23501f509b05b-100-80.jpg "Asus TeK Pro B760M-ct-csm...") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+[Macy's](https://images.fie.futurecdn.net/udwnjd4vlt8nnax7-1695219294883-100-80.png "Macy's") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+[$174.96](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+[View](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.jdoqocy.com%2Fclick-8900246-15586047%3Furl%3Dhttps%253A%252F%252Fwww.macys.com%252Fshop%252Fproduct%252Fasus-tek-pro-b760m-ct-csm-b760-lga1700-max128gb-ddr5-matx-motherboard%253FID%253D17487183%26cjsku%3D197105019614%26sid%3Dtomshardware-us-1225518312566223292)
+
+ We check over 250 million products every day for the best prices
+
+powered by
+
+![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-best-of-breed-top-rated-youtubers-streaming-arsenal/"><u>[New] 2024 Approved  Best of Breed  Top-Rated Youtuber's Streaming Arsenal</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-top-tiktok-edit-techniques-for-max-impact/"><u>[New] Unveiling Top TikTok Edit Techniques for Max Impact</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-top-10-music-videos-on-facebook-how-to-make-a-facebook-song-video/"><u>[Updated] 2024 Approved  Top 10 Music Videos on Facebook | How to Make A Facebook Song Video?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essential-free-templates-for-mastering-after-effects/"><u>[Updated] Essential FREE Templates for Mastering After Effects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expertly-evaluating-webcam-technology-for-professionals/"><u>[Updated] In 2024, Expertly Evaluating WebCam Technology for Professionals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-patience-pays-off-the-art-of-slow-motion-video-crafting/"><u>[Updated] In 2024, Patience Pays Off  The Art of Slow-Motion Video Crafting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-no-money-down-for-vfx-wizards-exclusive-video-tutorials-on-free-green-screen-techniques-from-top-channels/"><u>[Updated] No Money Down for VFX Wizards  Exclusive Video Tutorials on Free Green Screen Techniques From Top Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-right-way-to-disband-from-a-discord-community/"><u>[Updated] The Right Way to Disband From a Discord Community</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smartphone-viewing-at-its-peak-top-10-free-video-streamers/"><u>2024 Approved  Smartphone Viewing at Its Peak  Top 10 Free Video Streamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/2x48gb-powerhouse-unveiled-explore-the-might-of-gskills-trident-z5-rgb-ddr5-ram-for-ultimate-motherboard-pairing/"><u>2X48GB Powerhouse Unveiled: Explore the Might of G.SKILL's Trident Z5 RGB DDR5 RAM for Ultimate Motherboard Pairing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-c5c-and-d6sec-uphere-air-cooler-analysis-best-under-20/"><u>Affordable C5C & D6Sec UpHere Air Cooler Analysis - Best Under $20</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-consider-the-role-of-local-regulations-in-determining-land-use/"><u>Approach: Consider the Role of Local Regulations in Determining Land Use</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2/"><u>ASRock PG2</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/be-a-polyglot-in-minutes-enjoy-a-staggering-95-savings/"><u>Be a Polyglot in Minutes - Enjoy a Staggering 95%% Savings!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beginners-blueprint-for-a-lush-eco-conscious-vegetable-garden-organic-practices-that-work/"><u>Beginner’s Blueprint for a Lush, Eco-Conscious Vegetable Garden: Organic Practices That Work</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-features-in-depth-review-of-the-white-microatx-maxsun-terminator-z790m-d5-ice-motherboard-equipped-with-5-m2-slots/"><u>Breaking Down the Features: In-Depth Review of the White MicroATX Maxsun Terminator Z790M D5 Ice Motherboard, Equipped With 5 M.2 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-nuphy-halo75-v2-analysis-a-perfect-choice-for-gaming-enthusiasts/"><u>Budget-Friendly Nuphy Halo75 V2 Analysis: A Perfect Choice for Gaming Enthusiasts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-buzz-strategies-for-shaping-your-unique-youtubing-image-for-2024/"><u>Building Buzz  Strategies for Shaping Your Unique YouTubing Image for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-ace-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-aio-240l-robust-cooling-with-interface-improvement-needed/"><u>Comprehensive Analysis of the Valkyrie Syn AIO 240L - Robust Cooling with Interface Improvement Needed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-sabrent-rocket-nano-2242-1tb-your-standard-bearer-for-m2-2242-storage-solutions/"><u>Comprehensive Review of the Sabrent Rocket Nano 2242 1TB - Your Standard-Bearer for M.2 2242 Storage Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-equipment-breakdowns-by-tom-your-hardware-guide/"><u>Cutting-Edge Equipment Breakdowns by Tom – Your Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-brilliance-with-viewsonics-oled-gaming-display-xg272-2k-240-hz-reviewed/"><u>Experience Brilliance with ViewSonic's OLED Gaming Display: XG272-2K, 240 Hz Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-computer-gadgets-by-toms-hardware/"><u>Expert Analysis on Computer Gadgets by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-insights-from-toms-hardware-haven/"><u>Exploring Advanced Tech: Insights From Tom’s Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Exploring Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-innovations-in-computing-with-toms-hardware-insights/"><u>Exploring Innovations in Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-equipment-in-depth-reviews-and-insights/"><u>Exploring Tom's Computer Equipment - In-Depth Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-microsoft-excel-2021-has-stopped-working-error-stellar-by-stellar-guide/"><u>How to fix Microsoft Excel 2021 has stopped working error? | Stellar</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-15-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 15 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy A24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-expert-advice-on-how-to-remove-backgrounds/"><u>In 2024, Expert Advice on How to Remove Backgrounds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise/"><u>In 2024, How to Navigate the Treasure Trove of Pexels' Picture Paradise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-smart-shopping-top-7-mirrorless-cameras-under-1000/"><u>In 2024, Smart Shopping  Top 7 Mirrorless Cameras Under $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flagship-microsoft-surface-pro-impressive-looks-yet-disappointing-smart-tech-features/"><u>In-Depth Analysis of the Flagship Microsoft Surface Pro - Impressive Looks, Yet Disappointing Smart Tech Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-from-toms-hardware-hub/"><u>In-Depth Reviews and Advice From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-high-performance-hardware-at-tome-resource-center/"><u>Inside the World of High-Performance Hardware at Tom'e Resource Center</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-wisdom-from-toms-hardware-insights/"><u>Mastering the Tech World: Wisdom From Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-gear-toms-expert-hardware-analysis/"><u>Navigating Tech Gear: Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-complexities-of-toms-computer-gadgets-and-modules/"><u>Navigating the Complexities of Tom's Computer Gadgets and Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-depths-of-toms-tech-domain-latest-trends-in-computing-equipment/"><u>Navigating the Depths of Tom's Tech Domain: Latest Trends in Computing Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computers-with-tom-essential-hardware-guides/"><u>Navigating the World of Computers with Tom: Essential Hardware Guides</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-elevate-your-video-game-6-expert-adobe-premiere-techniques-to-know-for-2024/"><u>New Elevate Your Video Game 6 Expert Adobe Premiere Techniques to Know for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers23/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies.</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-issues-with-launching-rainbow-six-siege-fixed/"><u>Resolved: Issues with Launching Rainbow Six Siege Fixed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-asrock-pg27qft2a-a-comprehensive-180hz-monitor-performance-and-cost-assessment/"><u>The ASRock PG27QFT2A: A Comprehensive 180Hz Monitor Performance and Cost Assessment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-pc-cases-an-insightful-review-of-the-lian-li-hydroshift-360s-model-with-lcd-display/"><u>The Future of PC Cases: An Insightful Review of the Lian Li Hydroshift 360S Model with LCD Display</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-rise-of-vidma-transforming-the-landscape-of-capture-technology-for-2024/"><u>The Rise of Vidma  Transforming the Landscape of Capture Technology for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-hardware-with-tom/"><u>Understanding Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-speed-and-efficiency-with-corsair-mp600-mini-1tb-the-premier-review-of-the-leading-m2-nvme-ssd/"><u>Unlocking Speed and Efficiency with Corsair MP600 Mini 1TB: The Premier Review of the Leading M.2 NVMe SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-and-quality-a-deep-dive-into-the-maxsun-terminator-z790m-d5-ice-white-microatx-motherboard-five-mc2-sockets/"><u>Unveiling Performance & Quality - A Deep Dive Into the Maxsun Terminator Z790M D5 Ice White MicroATX Motherboard (Five M.C2 Sockets)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Hardware with Tom's Technology Insights</u></a></li>
+</ul></div>
