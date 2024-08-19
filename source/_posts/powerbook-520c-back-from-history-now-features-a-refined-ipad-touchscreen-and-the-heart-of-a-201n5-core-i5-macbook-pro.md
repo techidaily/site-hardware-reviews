@@ -1,7 +1,7 @@
 ---
 title: "PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro!"
-date: 2024-08-16 10:31:46
-updated: 2024-08-17 10:31:17
+date: 2024-08-18T11:53:10.202Z
+updated: 2024-08-19T11:53:10.202Z
 tags:
   - laptop
 categories:
@@ -92,18 +92,31 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Asus Zenbook S16](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  On Geekbench 6, the Zenbook S16 achieved a single-core score of 2,765 and a multi-core score of 13,282\. This was enough to beat the M3 in Apple's MacBook Air, the 16-core Intel Core Ultra 7 155H in the[HP](https://tools.techidaily.com) Spectre x360 14, and the Qualcomm Snapdragon X Elite X1E-78-100 in the HP OmniBook X. The newest Ryzen fell only to the Apple M3 Max, with scores of 3,200 and 21,711 in the 16-inch MacBook Pro (and, to be fair, a review unit stocked with 128GB of RAM, making the MacBook Air a more apt comparison from a price perspective. While it's unclear that Apple has ever released an official number, various sites have tested the M3 Max to be using significantly more power than the Ryzen AI CPU here, which is rated at 28W and configured to 17W TDP out of the box).
@@ -114,6 +127,9 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  To stress the processor, we run Cinebench 2024 for 10 runs. During the test, the system started at 821.18 points and dipped into the high 700's, and then peaked up to 844.42 points before dipping again into the mid-to-high 700's. The Zen 5 cores ran at an average of 2.67 GHz, while the Zen 5C cores reached 1.9 GHz. The CPU ran at an average of 73.44 Celsius.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI on the AMD Ryzen AI 9 HX 370
 
  Despite all of the hubbub around artificial intelligence, it's still only useful in so many consumer products. On Windows laptops, applications are still slowly adopting the technologies. While NPUs are often being used for background blur in video conferencing apps, generative AI is often using GPUs (at least, when it isn't looking to the cloud instead).
@@ -160,10 +176,16 @@ It's rare that my lasting impression about a laptop is all about style, but here
 
  Asus also includes its Asus Pen 2.0 — a stylus with 4,096 degrees of pressure sensitivity — in the box with the laptop. It's a nice add-on, I suppose. But it’s an odd fit for this clamshell laptop, particularly considering the display doesn't fold flat.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Audio on the Asus Zenbook S16
 
  The Zenbook S16 trades volume for detail. Don't get me wrong, it's loud enough, especially if you're sitting right in front of it, but it didn't quite fill an entire meeting room with sound. But when I was listening to Charli XCX's "Von dutch," I was surprised to hear a bit of bass. The speakers, tuned with Dolby Atmos, sounded great when I switched from "balanced" to "detailed," with clear vocals, pounding drums and whirring synths.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Upgradeability of the Asus Zenbook S16
 
 There isn't much to upgrade or repair on the Zenbook S16.
@@ -172,6 +194,14 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
 ![Asus Zenbook S16](https://cdn.mos.cms.futurecdn.net/ecmzqwkBMqHc5j2cTa5SPS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Once you're in, there are two parts you could replace. The first is the battery, which takes up most of the room inside the system. The other is the SSD. Despite the size of the laptop, there isn't a secondary M.2 slot, so you'll have to replace the drive if you want more storage space. The wireless module and RAM are soldered to the motherboard.
@@ -194,12 +224,18 @@ There isn't much to upgrade or repair on the Zenbook S16.
 
  The keyboard hit a warm (but not uncomfortable) 99.5 degrees Fahrenheit, while the touchpad stayed cool at 87.4 F. The hottest point on the top on the grille at 110 F, but that's not usually a place you put your hands. On the bottom, the hottest touchpoint, near the ventilation, was at 116.2 F.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Webcam on the Asus Zenbook S16
 
  There's a 1080p webcam on the Zenbook S16's top bezel. While it's color-accurate, catching the exact shade of green in my shirt and the blue in my mesh office chair, some details, like my hair, came across a bit fuzzy.
 
  The camera supports infrared to log in with Windows Hello for facial recognition. It's the sole biometric option on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Software and Warranty on the Asus Zenbook S16
 
  Asus includes four pieces of software on the Zenbook S16\. The first is MyAsus, which allows you to manage your warranty, and also shows system settings and lets you check for updates. This app now prompts you for an account, which it didn't use to do (and in my opinion, shouldn't need to). Despite its appearance, you can skip this prompt.  
@@ -252,3 +288,41 @@ There isn't much to upgrade or repair on the Zenbook S16.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-game-capture-software-rivalry-obs-vs-shadowplay/"><u>[New] In 2024, Game Capture Software Rivalry  OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-illuminate-your-content-creation/"><u>[Updated] Illuminate Your Content Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-essential-ps3-simulators-for-windows-users-top-5/"><u>[Updated] In 2024, Essential PS3 Simulators for Windows Users (Top 5)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transformative-zooms-for-snapchat-photos-and-videos/"><u>[Updated] Transformative Zooms for Snapchat Photos & Videos</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/black-screen-after-installing-graphics-card-driver/"><u>Black Screen After Installing Graphics Card Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-brainiacs-raspberry-pi-smart-kit/"><u>Comprehensive Evaluation of Brainiac's Raspberry Pi Smart Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-on-toms-hardware-hub-top-product-reviews-and-tips/"><u>Discover Cutting-Edge Devices on Tom's Hardware Hub: Top Product Reviews and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-insights-and-reviews-at-toms-hardware-hub/"><u>Dive Into Technology Insights and Reviews at Tom's Hardware Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-defy-2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Defy 2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-narzo-60x-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-built-in-extensions-uses-and-functions/"><u>Exploring ChatGPT's Built-In Extensions: Uses & Functions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-end-gaming-monitor-showdown-the-titan-army-p27a2r-180hz-review/"><u>High-End Gaming Monitor Showdown: The Titan Army P27A2R 180Hz Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-does-the-asus-rog-azoth-extreme-hold-up-in-depth-review-for-500-dollar-buyers/"><u>How Does The Asus ROG Azoth Extreme Hold Up? In-Depth Review for 500 Dollar Buyers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-acer-predator-orion-5000-unbeatable-performance-meets-cost-efficiency/"><u>In-Depth Analysis of the Acer Predator Orion 5000: Unbeatable Performance Meets Cost-Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-sabrents-1tb-rocket-nano-ssd-m2-2242-setting-the-benchmark-in-miniaturized-memory-drives/"><u>In-Depth Analysis: Sabrent's 1TB Rocket Nano SSD (M.2 2242) - Setting the Benchmark in Miniaturized Memory Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gigabyte-b76ve-ds3h-ax-motherboard-analysis-affordable-micro-atx-for-multi-display-setups/"><u>In-Depth Gigabyte B76ve DS3H AX Motherboard Analysis: Affordable Micro ATX for Multi-Display Setups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-fastest-storage-devices-lexar-sl500-and-sl600-delivering-up-to-20-gbps-bandwidth/"><u>In-Depth Review of the Fastest Storage Devices: Lexar SL500 and SL600, Delivering Up to 20 Gbps Bandwidth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-cutting-edge-devices-guided-by-toms-expertise/"><u>Inside Look at Cutting-Edge Devices - Guided by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-workshop-your-go-to-source-for-hardware-insight/"><u>Inside Tom’s Workshop: Your Go-To Source for Hardware Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insightful-breakdown-of-technology-at-toms-hardware-blog/"><u>Insightful Breakdown of Technology at Tom's Hardware Blog</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-at-toms-computer-resource/"><u>Navigating Technology Trends at Tom's Computer Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-building-with-toms-hardware/"><u>Navigating the World of PC Building with Tom's Hardware</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-yosemite-video-editing-guide-tips-tricks-and-tutorials/"><u>New 2024 Approved The Ultimate Yosemite Video Editing Guide Tips, Tricks, and Tutorials</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-se-2020-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone SE (2020) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-secrets-to-stellar-tiktok-creation-with-ingenious-templates/"><u>The Secrets to Stellar TikTok Creation with Ingenious Templates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-newly-updated-dell-xps-13-where-style-meets-speed-with-snapdragon-x-elite-tech/"><u>The Ultimate Guide to the Newly Updated Dell XPS 13 - Where Style Meets Speed with Snapdragon X Elite Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-travel-wi-fi-companion-asus-rt-ax57-go-review-navigating-seamless-connectivity-anywhere/"><u>The Ultimate Travel Wi-Fi Companion: Asus RT-AX57 Go Review - Navigating Seamless Connectivity Anywhere</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hardware-reviews-and-guides/"><u>Tom's Computer Hardware Reviews & Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-comprehensive-guide-and-insights/"><u>Tom's Hardware Review: Comprehensive Guide and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-efficiency-a-closer-look-at-nzxts-c1500-platinum-psu/"><u>Unveiling Efficiency: A Closer Look at NZXT's C1500 Platinum PSU</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vintage-video-magic-a-step-by-step-guide-to-vhs-effects-in-final-cut-pro/"><u>Updated 2024 Approved Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro</u></a></li>
+</ul></div>

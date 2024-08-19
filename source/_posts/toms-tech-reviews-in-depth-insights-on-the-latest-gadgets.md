@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: In-Depth Insights on the Latest Gadgets"
-date: 2024-08-15 21:38:55
-updated: 2024-08-17 11:28:24
+date: 2024-08-18T11:40:35.471Z
+updated: 2024-08-19T11:40:35.471Z
 tags:
   - motherboards
 categories:
@@ -101,12 +101,32 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -115,6 +135,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
@@ -135,12 +158,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +178,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +207,59 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-techniques-that-elevate-your-ppt-recording-experience/"><u>[New] In 2024, Techniques that Elevate Your PPT Recording Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-vitas-editing-world-complete-review-and-tutorial/"><u>[New] Navigating Vita's Editing World  Complete Review & Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-wayfinders-guide-your-path-to-youtube-video-mastery-hub/"><u>[New] The Wayfinder’s Guide  Your Path to YouTube Video Mastery Hub</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-strategies-for-fbx-filming-in-video-games-for-2024/"><u>[Updated] Expert Strategies for FBX Filming in Video Games for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-posting-vimeo-perfecting-your-instagram-content-for-2024/"><u>[Updated] Posting Vimeo  Perfecting Your Instagram Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-silent-tweets-end-auditory-upgrades-for-twitter-videos-for-2024/"><u>[Updated] Silent Tweets' End  Auditory Upgrades for Twitter Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unleashing-auditory-brilliance-without-a-mic-in-sight/"><u>[Updated] Unleashing Auditory Brilliance without a Mic in Sight</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-exclusive-apps-to-record-on-iphone/"><u>2024 Approved  Exclusive Apps to Record on iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-and-choosing-hardware-wisely-insights-from-toms-computer-chronicles/"><u>Building and Choosing Hardware Wisely: Insights From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-asrocks-z79-bios-guide/"><u>Comprehensive Testing of ASRock's Z79지킨트 라이트니늄 와일드플로우 모바일 BIOS Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-mechanical-switches-with-the-logitech-g515-lightspeed-tkl-review/"><u>Discover the Best Value in Mechanical Switches with the Logitech G515 Lightspeed TKL Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-why-every-keysnobber-awaits-the-keychron-q1-he-an-exhaustive-review-of-this-top-tier-mechanical-keyboard/"><u>Discover Why Every Keysnobber Awaits the Keychron Q1-HE: An Exhaustive Review of This Top-Tier Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-your-pc-builds-in-depth-test-of-gskill-trident-z5-rgb-ddr5-ram-at-6400clk-pairs-perfectly-for-2x48gb-on-quadruple-channel-boards/"><u>Dominate Your PC Builds: In-Depth Test of G.SKILL Trident Z5 RGB DDR5 RAM at 6400CLK, Pairs Perfectly for 2X48GB on Quadruple-Channel Boards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-home-networking-experience-with-the-asus-rog-rapture-gt-be9-cu-7-a-detailed-performance-review/"><u>Elevate Your Home Networking Experience with the Asus ROG Rapture GT-BE9 Cu 7 - A Detailed Performance Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-the-asrokz790ilightning-wifi-motherboard-review-where-size-doesnt-compromise-power/"><u>Expert Analysis on the ASROKZ790ILightning Wifi Motherboard Review - Where Size Doesn't Compromise Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-ultra-fast-ddr5-6000-16gb-crucial-ram-overclocked-review/"><u>Expert Insight on Ultra-Fast DDR5-6000 16GB Crucial RAM Overclocked Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-review-hub/"><u>Expert Insights From Tom's Computer Review Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-asus-proart-pa32ucxr-the-epitome-of-precision-in-workstation-displays/"><u>Expert Review of the Asus ProArt PA32UCXR: The Epitome of Precision in Workstation Displays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-innovations-with-tom-a-journey-through-cutting-edge-gear/"><u>Exploring Innovations with Tom: A Journey Through Cutting-Edge Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-components-with-toms-hardware-experts/"><u>Exploring PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-crusader-kings-iii-from-crashing-on-your-windows-computer/"><u>Fixing the Issue: How to Stop Crusader Kings III From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/frozn-a620-pro-se-by-id-cooling-an-unmatched-investment-in-cooling-technology/"><u>Frozn A620 Pro SE by ID-Cooling - An Unmatched Investment in Cooling Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/geekworm-x1011-nas-rack-review-a-detailed-assessment/"><u>GeekWorm X1011 NAS Rack Review - A Detailed Assessment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-download-c-span-videos-for-free-for-2024/"><u>How to Download C-Span Videos for Free for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-realme-narzo-60-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Realme Narzo 60 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/id-coolings-frozn-a620-pro-se-review-unveiling-premium-efficiency-and-cost-effectiveness-in-cooling-solutions/"><u>ID-Cooling's Frozn A620 Pro SE Review - Unveiling Premium Efficiency and Cost-Effectiveness in Cooling Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beginners-guide-to-simple-yet-effective-filming-gear/"><u>In 2024, Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-8-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 8 Plus from iCloud</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-valkyrie-syn-240-all-in-one-liquid-cooler-performance-and-software-design-critique/"><u>In-Depth Review: Valkyrie Syn 240 All-In-One Liquid Cooler Performance and Software Design Critique</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-why-the-logitech-g-pro-x-2-lightspeed-is-essential-for-hardcore-gamers/"><u>In-Depth Review: Why the Logitech G Pro X 2 Lightspeed Is Essential for Hardcore Gamers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-igtv-on-instagram-stories/"><u>Mastering the Art of IGTV on Instagram Stories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-your-tech-investments-smart-picks-from-toms-hardware-critics/"><u>Maximize Your Tech Investments: Smart Picks From Tom’s Hardware Critics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-guides/"><u>Navigating the World of Gadgets with Tom's Hardware Guides</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-samsung-galaxy-m14-5g-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Samsung Galaxy M14 5G.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-a-deep-dive-into-the-strengths-and-weaknesses-of-the-cooler-master-ion-amoled-liquid-cpu-cooler-moving-forward-with-caution/"><u>Taking a Deep Dive Into the Strengths and Weaknesses of the Cooler Master ION Amoled Liquid CPU Cooler: Moving Forward with Caution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-the-turtle-beach-atlas-air-superior-audio-for-every-listener/"><u>The Definitive Guide to the Turtle Beach ATLAS Air – Superior Audio for Every Listener</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computing-equipment-by-toms-digital-hub/"><u>The Ultimate Guide to Computing Equipment by Tom's Digital Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-parts-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Parts by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-unbiased-hardware-guidance/"><u>Tom's Tech Advice: Unbiased Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Top Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-pc-building-comprehensive-review-of-the-innovative-lian-li-hydroshift-lcd-360s/"><u>Transforming PC Building: Comprehensive Review of the Innovative Lian Li Hydroshift LCD 360S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-network-potential-in-depth-look-at-the-asus-rog-rapture-gt-be98-wi-fi-routers-elite-capabilities-and-expandability/"><u>Unleash Network Potential: In-Depth Look at the Asus ROG Rapture GT-BE98 Wi-Fi Router's Elite Capabilities and Expandability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware/"><u>Unlocking Computer Secrets with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-toms-hardware-guide/"><u>Unveiling the Latest in Computer Components - Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-a-look-at-toms-hardware-findings/"><u>Unveiling the Latest in Electronics - A Look at Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/water-conservation/"><u>Water Conservation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-find-x6-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo Find X6 Pro? Fixed | Dr.fone</u></a></li>
+</ul></div>

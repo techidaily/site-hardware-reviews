@@ -1,7 +1,7 @@
 ---
 title: Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt.
-date: 2024-08-16 23:50:59
-updated: 2024-08-17 11:41:47
+date: 2024-08-18T11:57:23.266Z
+updated: 2024-08-19T11:57:23.266Z
 tags:
   - laptop
 categories:
@@ -59,6 +59,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  On the connectivity front, there are two USB-C, two USB-A ports, and HDMI 1.4\. For your wireless needs, you'll find Wi-Fi 7 and Bluetooth 5.4\. Power comes from a 73 WHr battery, rated for up to 12 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -71,6 +74,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -110,6 +116,9 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
@@ -137,6 +146,11 @@ Dell XPS 13  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/5STqZSSuR2Yb9mkF7rrCLN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 Dell Inspiron 14 Plus  (Image credit: Qualcomm)
 
  The Inspiron 14 Plus comes exclusively with the Snapdragon X Plus, 16GB LPDDR5x memory, and 512GB/1TB SSD options. You get just one display option: a 14-inch 2560 x 1600 IPS panel with touch and an anti-glare coating. You also get two USB-C ports, one USB-A port, a microSD card reader, a headphone jack, quad speakers, a 1080p IR webcam with privacy shutter, Wi-Fi 7, Bluetooth 5.4, a power button with integrated fingerprint reader, and a 54 WHr battery.
@@ -145,6 +159,9 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -159,6 +176,9 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -190,3 +210,55 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-exclusive-guide-save-high-res-fb-video/"><u>[New] Exclusive Guide  Save High-Res FB Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-speech-file-extract-and-critical-assessment/"><u>[New] In 2024, Speech File Extract & Critical Assessment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gimp-ultimate-editing-course-review/"><u>[Updated] GIMP Ultimate Editing Course Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>[Updated] No Experience? No Obstacle  The Ultimate Guide to Profits on Reddit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blades-high-dynamic-range-redefined-in-four-kaps/"><u>2024 Approved  Blade's High Dynamic Range Redefined in Four Kaps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-illuminate-your-content-creation/"><u>2024 Approved  Illuminate Your Content Creation</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-different-look-at-online-connectivity-metrics/"><u>A Different Look at Online Connectivity Metrics</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activate-power-management-using-wake-on-lan-with-windows-10-and-11/"><u>Activate Power Management: Using Wake-on-LAN with Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-comfort-with-uphere-in-depth-look-at-the-c5cd6sec-air-cooler-series/"><u>Affordable Comfort with UpHere: In-Depth Look at the C5C/D6Sec Air Cooler Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-detailed-breakdown-of-the-acer-predator-orion-5000-performance-beast-review/"><u>Affordable Powerhouse: Detailed Breakdown of the Acer Predator Orion 5000 Performance Beast Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-examined-how-close-is-it-to-perfect-gaming-performance/"><u>Asus ROG Swift OLED PG32UCDP Examined - How Close Is It to Perfect Gaming Performance?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-under-20-review-of-uphere-c5c-and-d6sec-air-coolers-revealed/"><u>Best Under $20? Review of UpHere C5C & D6Sec Air Coolers Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/code-and-speech-entwined-chatgpts-power-of-conversion/"><u>Code and Speech Entwined: ChatGPT's Power of Conversion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-how-the-pineboards-hatdrive-revolutionizes-cost-and-speed-for-your-raspberry-pi-storage-solutions/"><u>Discover How the Pineboards HatDrive Revolutionizes Cost & Speed for Your Raspberry Pi Storage Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-picking-your-next-device-at-toms-tech-oasis/"><u>Expert Advice on Picking Your Next Device at Tom's Tech Oasis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-raspberry-pi-artificial-intelligence-starter-bundle/"><u>Expert Analysis of the Raspberry Pi Artificial Intelligence Starter Bundle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-innovations-with-toms-hardware-insights/"><u>Exploring Computer Innovations with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-experts/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-storage-solutions-with-6tb-wd-my-passport-a-comprehensive-review/"><u>Exploring Storage Solutions with 6TB WD My Passport: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-gear-with-toms-hardware-review/"><u>Exploring the Latest in Computer Gear with Tom's Hardware Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-se-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone SE? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-efficient-routines-for-video-game-screening/"><u>In 2024, Efficient Routines for Video Game Screening</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-se-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone SE for Free</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-elegoo-saturn-4-ultra-transforming-the-landscape-of-resin-printing/"><u>In-Depth Analysis of the Elegoo Saturn 4 Ultra: Transforming the Landscape of Resin Printing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-hostgators-vps-vs-shared-hosting-services/"><u>In-Depth Analysis: HostGator's VPS Vs. Shared Hosting Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-premium-features-and-exceptional-precision-of-the-27-dough-spectrum-gaming-screen/"><u>In-Depth Review: Premium Features & Exceptional Precision of the 27 Dough Spectrum Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-tech-world-top-picks-and-insights-by-toms-hardware/"><u>Inside the Tech World: Top Picks and Insights by Tom's Hardware</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-12-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi 12 FRP Without Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lian-li-hydroshift-lcd-360s-a-breakthrough-in-computer-tubing-design-reviewed/"><u>Lian Li Hydroshift LCD 360S: A Breakthrough in Computer Tubing Design Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-gadgets-with-tom-in-depth-hardware-analysis/"><u>Mastering Modern Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mechanical-keyboard-spotlight-affordable-excellence-with-the-nuphy-halo75-v2-review/"><u>Mechanical Keyboard Spotlight: Affordable Excellence with the Nuphy Halo75 V2 Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-insights-from-toms-hardware-experts/"><u>Navigating Technology Trends: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-your-tech-journey-with-insights-from-toms-hardware-reviews/"><u>Pioneering Your Tech Journey with Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prime-backdrops-for-effective-virtual-gatherings/"><u>Prime Backdrops for Effective Virtual Gatherings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/realigning-windows-11-troubleshooters-for-optimal-performance/"><u>Realigning Windows 11 Troubleshooters for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341713193-revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards!</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-11-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme 11 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-complete-guide-to-mastering-games-with-kinemaster-android/"><u>The Complete Guide to Mastering Games with KineMaster Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-in-motherboards-cpus-and-more-a-tech-hub/"><u>Tom’s Expertise in Motherboards, CPUs & More | A Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341741079-toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-of-the-line-heat-management-the-powerful-teamgroup-t-force-dark-airflow-i-cooler-evaluated/"><u>Top of the Line Heat Management: The Powerful TeamGroup T-Force Dark AirFlow I Cooler Evaluated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/under-budget-breeze-masters-check-out-our-review-of-upheres-c5c-and-d6sec-coolers/"><u>Under-Budget Breeze Masters? Check Out Our Review of UpHere's C5C and D6Sec Coolers!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadget-expertise-the-ultimate-guide-by-tom/"><u>Unveiling Gadget Expertise: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-hardware-toms-expert-reviews-and-advice/"><u>Unveiling the Best in Hardware: Tom's Expert Reviews & Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostinger-hosting-solutions-vps-cloud-and-shared-hosting-explored/"><u>Unveiling the Pros and Cons of Hostinger Hosting Solutions: VPS, Cloud & Shared Hosting Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gadget-experts-comprehensive-electronics-analysis/"><u>Unveiling Tom's Gadget Experts: Comprehensive Electronics Analysis</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/upside-down-visuals-investigating-insta-video-anomalies/"><u>Upside Down Visuals  Investigating Insta Video Anomalies</u></a></li>
+</ul></div>

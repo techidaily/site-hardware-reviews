@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Review: In-Depth Analysis and Insights"
-date: 2024-08-17 21:47:22
-updated: 2024-08-18 11:56:11
+date: 2024-08-18T11:36:51.870Z
+updated: 2024-08-19T11:36:51.870Z
 tags:
   - build
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
 ![](https://cdn.mos.cms.futurecdn.net/vaZRhuXWqcyB98KdTMVaK3-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
  For your bonus build pleasure, here's the conclusion to the Munchkin Saga, Episode III: Revenge of 860K.
 
  LATEST VIDEOS FROM tomshardware Tom's Hardware
@@ -90,10 +93,16 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -126,6 +135,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -148,8 +160,14 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +188,57 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-lightning-leap-into-facebook-id-sleuthing/"><u>[New] 2024 Approved  Lightning Leap Into Facebook ID Sleuthing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-beauty-bliss-essential-tutorials-for-ultimate-style-for-2024/"><u>[New] Beauty Bliss  Essential Tutorials for Ultimate Style for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-steps-to-make-your-instagram-unboxing-reels-viral/"><u>[New] Top 8 Steps to Make Your Instagram Unboxing Reels Viral</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-allocate-more-ram-to-minecraft/"><u>[Updated] How to Allocate More Ram to Minecraft</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-top-5-concealed-story-viewers-apps/"><u>[Updated] In 2024, The Top 5 Concealed Story Viewers' Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-best-webcam-recorders-for-windows-10-for-2024/"><u>[Updated] The Best Webcam Recorders for Windows 10 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-smartphone-photographers-handbook/"><u>[Updated] The Smartphone Photographer's Handbook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-trivia-titans-of-the-year-best-general-knowledge-sites/"><u>[Updated] Trivia Titans of the Year - Best General Knowledge Sites</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unmatched-technique-to-fuse-gopro-clips-into-immersive-360-movies-for-2024/"><u>[Updated] Unmatched Technique to Fuse GoPro Clips Into Immersive 360 Movies for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-step-by-step-guide-mp3-to-youtube-live-streaming-3-phases/"><u>2024 Approved  Step-By-Step Guide  MP3 to YouTube Live Streaming [3 Phases]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-clarity-efficient-background-erasure-in-affinity-photo/"><u>2024 Approved  Unleash Clarity  Efficient Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/an-in-depth-look-at-nzxt-h7-flow-prioritizing-reliability-and-safety/"><u>An In-Depth Look at NZXT H7 Flow: Prioritizing Reliability and Safety</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-define-easements-and-discuss-their-implications-on-land-use/"><u>Approach: Define Easements and Discuss Their Implications on Land Use.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-quality-audio-and-straightforward-features-in-the-beyerdynamic-mmx-30e-pro/"><u>Comprehensive Evaluation: Quality Audio & Straightforward Features in the Beyerdynamic MMX 30E Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-world-of-technology-with-toms-hardware/"><u>Discovering the World of Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-ddr5-performance-unleashed-in-depth-review-of-the-t-force-vulcan-by-teamgroup/"><u>Eco-Friendly DDR5 Performance Unleashed: In-Depth Review of the T-Force Vulcan by TeamGroup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiasts-guide-to-the-budget-friendly-nuphy-halo75-v2-a-breakdown-of-its-features-and-benefits/"><u>Enthusiast's Guide to the Budget-Friendly Nuphy Halo75 V2 - A Breakdown of Its Features and Benefits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-nzxt-h7-flow-chassis-balancing-play-with-protection/"><u>Evaluating the NZXT H7 Flow Chassis: Balancing Play with Protection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-sunfounder-pironmann-5-in-depth-guide-and-step-by-step-setup/"><u>Evaluating the SunFounder Pironmann 5: In-Depth Guide and Step-by-Step Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.15/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-gadgets-with-toms-hardware-hub/"><u>Expert Insights on Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-computer-gear-with-tom-your-ultimate-guide-on-toms-hardware/"><u>Explore Computer Gear with Tom - Your Ultimate Guide on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-toms-hardware-guides/"><u>Exploring Computer Components - Tom's Hardware Guides</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition-for-2024/"><u>Extreme Capture Duo  GoPro Hero5 Black Versus Hero4 Silver Edition for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-evaluation-and-expert-advice-from-toms-hardware/"><u>Hardware Evaluation & Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-14-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 14 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-performance-and-quality-of-nzxts-premium-c1500-psu/"><u>In-Depth Analysis: Performance and Quality of NZXT's Premium C1500 PSU</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-tom-in-depth-hardware-analysis/"><u>Mastering Devices with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-toms-comprehensive-review-site/"><u>Mastering Hardware Choices with Tom's Comprehensive Review Site</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maxsun-terminator-z790m-d5-ice-review-of-the-high-performance-white-atx-board-with-five-m2-connectors/"><u>Maxsun Terminator Z790M D5 Ice - Review of the High-Performance White ATX Board with Five M.2 Connectors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-board-from-lattepanda-a-speedier-alternative-to-raspberry-pi-5-with-higher-price-tag/"><u>Mu Board From LattePanda: A Speedier Alternative to Raspberry Pi 5 with Higher Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-digital-frontiers-with-toms-hardware-insights/"><u>Navigating Digital Frontiers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-computing-the-toms-equipment-guide-to-perfection/"><u>Navigating Modern Computing: The Tom's Equipment Guide to Perfection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-toms-equipment-your-trusted-source-for-computing-hardware/"><u>Navigating the World of Tom's Equipment: Your Trusted Source for Computing Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-pixel-perfection-exploring-the-exceptional-visual-fidelity-and-responsiveness-of-philips-evonia-qd-oled-monitor-49m2c8900-series/"><u>Next-Level Pixel Perfection: Exploring the Exceptional Visual Fidelity and Responsiveness of Philips' Evonia QD-OLED Monitor, 49M2C8900 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p27a2r-titan-screens-ultimate-guide-premium-180hz-display-for-gamers/"><u>P27A2R Titan Screen's Ultimate Guide: Premium 180Hz Display for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partner-with-local-organizations-for-community-projects-that-align-with-your-corporate-social-responsibility-goals-and-can-improve-the-lives-of-those-affect25/"><u>Partner with Local Organizations for Community Projects that Align with Your Corporate Social Responsibility Goals and Can Improve the Lives of Those Affected by Environmental Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/soundblade-by-blueant-a-striking-blend-of-volume-and-elegance/"><u>Soundblade by BlueAnt: A Striking Blend of Volume & Elegance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-updated-on-computer-components-toms-tech-resource/"><u>Stay Updated on Computer Components - Tom's Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surface-pro-review-microsofts-flagship-shines-visually-but-falls-short-in-artificial-intelligence-features-with-copilotplus/"><u>Surface Pro Review: Microsoft's Flagship Shines Visually but Falls Short in Artificial Intelligence Features with Copilot+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/targeted-online-advertising/"><u>Targeted Online Advertising</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-components-by-tom/"><u>The Ultimate Guide to Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis-and-reviews/"><u>Tom's Tech Insights: Expert Hardware Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guides-and-insights/"><u>Tom's Tech Review: In-Depth Guides and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-by-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-building-with-toms-hardware-experts/"><u>Unveiling the Latest in PC Building with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-asus-rog-azoth-extreme-is-a-game-changer-at-just-500-expert-insights/"><u>Why the Asus ROG Azoth Extreme Is a Game-Changer at Just $500 - Expert Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-corsair-mp600-mini-is-your-go-to-choice-in-1tb-m2-drives-e7-t-reviewed/"><u>Why the Corsair MP600 Mini Is Your Go-To Choice in 1TB M.2 Drives (E#7 T) Reviewed</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event!"
-date: 2024-08-15 13:10:35
-updated: 2024-08-17 10:25:11
+date: 2024-08-18T11:54:02.075Z
+updated: 2024-08-19T11:54:02.075Z
 tags:
   - laptop
 categories:
@@ -71,6 +71,9 @@ Acer Swift 14 AI  (Image credit: Qualcomm)
 
  Acer intends to launch the Swift 14 AI in the United States this June, with prices starting at $1,099.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Lenovo Yoga Slim 7x 14 Gen 9 and ThinkPad 14s Gen 6
 
  Next, we have the Yoga Slim 7x 14 Gen 9 from the Lenovo camp. Manufacturers often talk about "all-day" battery life with their thin and light[notebooks](https://tools.techidaily.com) , but Lenovo claims that the Yoga Slim 7x extends that to "multi-day battery life." The efficient Snapdragon X Elite processor is paired with up to 32GB of LPDDR5x and includes a 70 WHr battery to enable this long endurance.
@@ -100,6 +103,9 @@ Lenovo Yoga Slim 7x 14 Gen 9  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/QXLgUBPHQLuoQKnKFXBYAN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  Lenovo provides three display options with the ThinkPad T14s Gen 6: the first two are 14-inch 400-nit IPS panels with a 1920 x 1200 resolution, but one supports touch, and the other doesn't. The third option is a 2.8K OLED panel with 100% coverage of DCI-P3 and VESA HDR True Black 500 compliance.
@@ -110,12 +116,18 @@ Lenovo ThinkPad T14s Gen 6  (Image credit: Qualcomm)
 
  According to Lenovo, the Yoga Slim 7x and ThinkPad T14s Gen 6 will debut next month, priced from $1,199 and $1,699, respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Dell XPS 13, Inspiron 14 Plus, and Latitude 7455
 
  Dell’s lineup of Snapdragon X laptops[leaked early last week](https://tools.techidaily.com) , so things here should look somewhat familiar. The XPS 13 has a striking design, with a keyboard that goes nearly to the left and right edge of the CNC-machined aluminum chassis (available in Platinum or Graphite). You'll also find the controversial capacitive touch function row above the keyboard, which we discussed in our[reviews of the XPS 14 and XPS 16](https://tools.techidaily.com) . The haptic touchpad is also seamlessly integrated into the keyboard deck, which is covered in Gorilla Glass 3.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/cXqoxKsRoc29VARWi2JunN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 Dell XPS 13  (Image credit: Qualcomm)
 
  Dell makes the Snapdragon X Elite or the Snapdragon X Plus available, although the latter is only coming to the Chinese market (at least for now). Customers can choose from 16GB, 32GB, or 64GB of dual-channel LPDDR5x memory and 512GB, 1TB, 2TB, or 4TB (later availability) SSDs.
@@ -145,6 +157,9 @@ The 3.17-pound Inspiron 14 Plus measures 12.36 x 8.80 x 0.66 inches.
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/ejCrV57dyrk8JZeZLG66eN-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Dell Latitude 7455  (Image credit: Qualcomm)
 
  Rounding out Dell's Snapdragon X assault is the Latitude 7455, aimed at business users (Snapdragon X Elite or Snapdragon X Plus with up to 32GB of LPDDR5x). This 14-inch laptop is only available with a 2560 x 1600 IPS display and anti-glare coating.
@@ -159,6 +174,9 @@ Dell Latitude 7455  (Image credit: Qualcomm)
 
 ![Qualcomm Snapdragon X Series](https://cdn.mos.cms.futurecdn.net/kkJgrFcMsp5e7XQRtHVKxM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
 
  The two laptops each have a Snapdragon X Elite chip, a 14-inch 2240 x 1400 IPS display, support for Wi-Fi 6E/Bluetooth 5.3 or Wi-Fi 7/Bluetooth 5.4, a 1080p webcam with IR, a 59 WHr battery, two USB-C ports, and one USB-A port. The OmniBook X is available with 16GB or 32GB of LPDDR5x and 512GB, 1TB, or 2TB SSD options. The EliteBook Ultra is only available with 16GB of LPDDR5x and a 512GB or 1TB SSD.
@@ -190,3 +208,60 @@ HP OmniBook X and EliteBook Ultra  (Image credit: Qualcomm)
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-every-note-at-your-fingertips-fb-style/"><u>[New] 2024 Approved  Every Note at Your Fingertips - FB Style</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-cutting-edge-tips-for-making-masterpieces-with-snaps/"><u>[New] Cutting-Edge Tips for Making Masterpieces with Snaps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-streaming-setup-leading-livestream-hardware-and-software-guide/"><u>[New] In 2024, Best Streaming Setup  Leading Livestream Hardware & Software Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-guide-to-recording-adobe-presentation-videos-for-2024/"><u>[Updated] Guide to Recording Adobe Presentation Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-smilesliceart-funnyphotofacility/"><u>[Updated] In 2024, SmileSliceArt  FunnyPhotoFacility</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-cut-down-clutter-discover-these-7-ultimate-android-app-blockers/"><u>2024 Approved  Cut Down Clutter  Discover These 7 Ultimate Android App Blockers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/an-in-depth-look-at-nzxt-h7-flow-prioritizing-reliability-and-safety/"><u>An In-Depth Look at NZXT H7 Flow: Prioritizing Reliability and Safety</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-define-easements-and-discuss-their-implications-on-land-use/"><u>Approach: Define Easements and Discuss Their Implications on Land Use.</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-c65-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco C65 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-quality-audio-and-straightforward-features-in-the-beyerdynamic-mmx-30e-pro/"><u>Comprehensive Evaluation: Quality Audio & Straightforward Features in the Beyerdynamic MMX 30E Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-world-of-technology-with-toms-hardware/"><u>Discovering the World of Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-ddr5-performance-unleashed-in-depth-review-of-the-t-force-vulcan-by-teamgroup/"><u>Eco-Friendly DDR5 Performance Unleashed: In-Depth Review of the T-Force Vulcan by TeamGroup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiasts-guide-to-the-budget-friendly-nuphy-halo75-v2-a-breakdown-of-its-features-and-benefits/"><u>Enthusiast's Guide to the Budget-Friendly Nuphy Halo75 V2 - A Breakdown of Its Features and Benefits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-nzxt-h7-flow-chassis-balancing-play-with-protection/"><u>Evaluating the NZXT H7 Flow Chassis: Balancing Play with Protection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-sunfounder-pironmann-5-in-depth-guide-and-step-by-step-setup/"><u>Evaluating the SunFounder Pironmann 5: In-Depth Guide and Step-by-Step Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.15/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-gadgets-with-toms-hardware-hub/"><u>Expert Insights on Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-computer-gear-with-tom-your-ultimate-guide-on-toms-hardware/"><u>Explore Computer Gear with Tom - Your Ultimate Guide on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-toms-hardware-guides/"><u>Exploring Computer Components - Tom's Hardware Guides</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-your-multiversus-crash-issues-now-with-these-8-strategies/"><u>Fix Your MultiVersus Crash Issues Now with These 8 Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-evaluation-and-expert-advice-from-toms-hardware/"><u>Hardware Evaluation & Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturing-sound-on-mac-an-audacity-tutorial/"><u>In 2024, Capturing Sound on Mac  An Audacity Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-decreasing-obs-stream-quality/"><u>In 2024, Decreasing OBS Stream Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-performance-and-quality-of-nzxts-premium-c1500-psu/"><u>In-Depth Analysis: Performance and Quality of NZXT's Premium C1500 PSU</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-chipset-drivers-for-enhanced-performance-on-windows-1011-systems/"><u>Latest Intel Chipset Drivers for Enhanced Performance on Windows 10/11 Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-tom-in-depth-hardware-analysis/"><u>Mastering Devices with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-toms-comprehensive-review-site/"><u>Mastering Hardware Choices with Tom's Comprehensive Review Site</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maxsun-terminator-z790m-d5-ice-review-of-the-high-performance-white-atx-board-with-five-m2-connectors/"><u>Maxsun Terminator Z790M D5 Ice - Review of the High-Performance White ATX Board with Five M.2 Connectors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-board-from-lattepanda-a-speedier-alternative-to-raspberry-pi-5-with-higher-price-tag/"><u>Mu Board From LattePanda: A Speedier Alternative to Raspberry Pi 5 with Higher Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-digital-frontiers-with-toms-hardware-insights/"><u>Navigating Digital Frontiers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-computing-the-toms-equipment-guide-to-perfection/"><u>Navigating Modern Computing: The Tom's Equipment Guide to Perfection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-toms-equipment-your-trusted-source-for-computing-hardware/"><u>Navigating the World of Tom's Equipment: Your Trusted Source for Computing Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-pixel-perfection-exploring-the-exceptional-visual-fidelity-and-responsiveness-of-philips-evonia-qd-oled-monitor-49m2c8900-series/"><u>Next-Level Pixel Perfection: Exploring the Exceptional Visual Fidelity and Responsiveness of Philips' Evonia QD-OLED Monitor, 49M2C8900 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p27a2r-titan-screens-ultimate-guide-premium-180hz-display-for-gamers/"><u>P27A2R Titan Screen's Ultimate Guide: Premium 180Hz Display for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partner-with-local-organizations-for-community-projects-that-align-with-your-corporate-social-responsibility-goals-and-can-improve-the-lives-of-those-affect25/"><u>Partner with Local Organizations for Community Projects that Align with Your Corporate Social Responsibility Goals and Can Improve the Lives of Those Affected by Environmental Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/soundblade-by-blueant-a-striking-blend-of-volume-and-elegance/"><u>Soundblade by BlueAnt: A Striking Blend of Volume & Elegance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-updated-on-computer-components-toms-tech-resource/"><u>Stay Updated on Computer Components - Tom's Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surface-pro-review-microsofts-flagship-shines-visually-but-falls-short-in-artificial-intelligence-features-with-copilotplus/"><u>Surface Pro Review: Microsoft's Flagship Shines Visually but Falls Short in Artificial Intelligence Features with Copilot+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/targeted-online-advertising/"><u>Targeted Online Advertising</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-steps-in-finding-your-dream-smartphone-cover/"><u>The Definitive Steps in Finding Your Dream Smartphone Cover</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-components-by-tom/"><u>The Ultimate Guide to Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis-and-reviews/"><u>Tom's Tech Insights: Expert Hardware Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guides-and-insights/"><u>Tom's Tech Review: In-Depth Guides and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-by-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights by Tom's Hardware</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-3-techniques-for-exceptional-lol-gaming-broadcasts-for-2024/"><u>Top 3 Techniques for Exceptional LOL Gaming Broadcasts for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-guide-adding-videos/"><u>Twitter's Guide  Adding Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-building-with-toms-hardware-experts/"><u>Unveiling the Latest in PC Building with Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721461392889-what-to-do-when-your-iphone-displays-error-message-14-heres-how-to-fix-it/"><u>What to Do When Your iPhone Displays Error Message 14? Here's How to Fix It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-asus-rog-azoth-extreme-is-a-game-changer-at-just-500-expert-insights/"><u>Why the Asus ROG Azoth Extreme Is a Game-Changer at Just $500 - Expert Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-corsair-mp600-mini-is-your-go-to-choice-in-1tb-m2-drives-e7-t-reviewed/"><u>Why the Corsair MP600 Mini Is Your Go-To Choice in 1TB M.2 Drives (E#7 T) Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zenith-in-gaming-computing-evaluating-the-stellar-performance-of-ryzen-5-9600x-and-ryzen-7-9700xs-new-era/"><u>Zenith in Gaming Computing: Evaluating the Stellar Performance of Ryzen 5 9600X and Ryzen 7 9700X's New Era</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day
-date: 2024-08-17 21:28:14
-updated: 2024-08-18 12:47:46
+date: 2024-08-18T11:34:36.131Z
+updated: 2024-08-19T11:34:36.131Z
 tags:
   - components
 categories:
@@ -38,6 +38,9 @@ Best Graphics Card Deals
 
  We've highlighted our favorite deals below, but if you're trying to find the lowest price on a particular GPU right now, we've got tables below for all the major Nvidia and AMD cards. Each card's performance is listed, using the combined (geometric mean) of the 1080p and 1440p fps from our[GPU benchmarks hierarchy](https://tools.techidaily.com) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best Nvidia Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -57,6 +60,9 @@ Best Graphics Card Deals
 
  Nvidia's graphics cards — both the new RTX 4090/4080 and the previous generation RTX 30-series — often tend to be overpriced. We've axed the 30-series, as those cards have been displaced by the newer, better, and often cheaper 40-series parts. The[RTX 4070](https://tools.techidaily.com) for instance trades blows with the RTX 3080 10GB, costs at least $100 less, and uses 30% less power; it also supports DLSS 3 Frame Generation and some other new features. Similar arguments can be made for the RTX 4060 Ti against the RTX 3060 Ti, RTX 4070 Ti against the RTX 3090, or the RTX 4080 and 4090 against any previous generation part.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best AMD Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -73,6 +79,9 @@ Best Graphics Card Deals
 
  AMD often offers more value for your money, and it has some excellent deals in the budget to midrange bracket. All of AMD's GPUs are selling below their original MSRPs these days, which they should be considering some of the GPUs have been out for a while now. Of course, some of those MSRPs were inflated thanks to the price rises from the GPU shortages of the past.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best Intel Graphics Card Prices
 
  Swipe to scroll horizontally
@@ -89,6 +98,9 @@ Best Graphics Card Deals
   
  Performance from Arc GPUs continues to improve, with the A750 and A770 generally beating Nvidia's RTX 3060\. They cost less than the Nvidia card as well, and (usually) deliver superior ray tracing performance compared to AMD's GPUs. But with rasterization performance roughly matching the RX 6650 XT, the Arc 700-series at best looks like a tie with the 6000-series generation AMD competition.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best Graphics Card Deals
 
 [Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg](https://cdn.mos.cms.futurecdn.net/7sMqa4qSM2JZewLFi9rYpJ-200-100.png "Gigabyte Nvidia RTX 4090 Windforce V2: now $1,699 at Newegg") ](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DkXQk6%252AivFEQ%26mid%3D44583%26u1%3Dtomshardware-us-9687795623086258038%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fgigabyte-geforce-rtx-4090-gv-n4090wf3v2-24gd%252Fp%252FN82E16814932625)
@@ -134,6 +146,9 @@ _**Cores/Stream Processors:**_ _3456_
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB0CHK2345D%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-2187404422149171234-20)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What to Look for in a Graphics Card Deal
 
 When shopping for a graphics card, consider the following.
@@ -160,3 +175,82 @@ When shopping for a graphics card, consider the following.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-erase-unwanted-black-fringes-on-youtube-tracks/"><u>[New] Erase Unwanted Black Fringes on YouTube Tracks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-exclusive-techniques-for-monitoring-and-logging-whatsapp-conversations/"><u>[New] Exclusive Techniques for Monitoring and Logging WhatsApp Conversations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-optimize-your-instagram-posts-using-hashtags/"><u>[New] In 2024, Step-by-Step Guide to Optimize Your Instagram Posts Using Hashtags</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-leveraging-likes-and-shares-top-30-facebook-marketing-steps-for-2024/"><u>[New] Leveraging Likes and Shares  Top 30 Facebook Marketing Steps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-level-drones-optimal-selection-for-experts/"><u>[New] Pro-Level Drones – Optimal Selection for Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quick-video-sharing-tweet-it-up-no-need-for-retweets/"><u>[New] Quick Video Sharing  Tweet It Up - No Need for Retweets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-securely-snap-fb-video-conversations-4-methods/"><u>[New] Securely Snap FB Video Conversations [4 Methods]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-8-free-video-calling-applications-recommended-for-businesses/"><u>[New] Top 8 Free Video Calling Applications Recommended for Businesses</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-accurate-recordings-of-console-games-on-home-computers-for-2024/"><u>[Updated] Accurate Recordings of Console Games on Home Computers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-digital-disappointment-unexpected-deletion-for-2024/"><u>[Updated] Digital Disappointment  Unexpected Deletion for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-freeing-up-youtube-footage-borderless-exploration/"><u>[Updated] Freeing Up YouTube Footage  Borderless Exploration</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-turning-your-instagram-movies-inside-out/"><u>[Updated] In 2024, Turning Your Instagram Movies Inside Out</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-intuitive-audio-fading-strategies-with-garageband-for-2024/"><u>[Updated] Intuitive Audio Fading Strategies with Garageband for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-isprings-screen-recording-explored/"><u>[Updated] ISpring's Screen Recording Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-epitome-of-hd-recording-curated-list-unveiled/"><u>[Updated] The Epitome of HD Recording  Curated List Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-comfort-with-uphere-in-depth-look-at-the-c5cd6sec-air-cooler-series/"><u>Affordable Comfort with UpHere: In-Depth Look at the C5C/D6Sec Air Cooler Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-detailed-breakdown-of-the-acer-predator-orion-5000-performance-beast-review/"><u>Affordable Powerhouse: Detailed Breakdown of the Acer Predator Orion 5000 Performance Beast Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-under-20-review-of-uphere-c5c-and-d6sec-air-coolers-revealed/"><u>Best Under $20? Review of UpHere C5C & D6Sec Air Coolers Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boosting-performance-in-gaming-updating-dell-g3-driver-software/"><u>Boosting Performance in Gaming: Updating Dell G3 Driver Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/clearsnap-for-windows-quick-and-clean-shots/"><u>ClearSnap for Windows  Quick & Clean Shots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluations-of-computer-parts-wisdom-from-toms-hardware/"><u>Comprehensive Evaluations of Computer Parts - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/could-your-job-be-in-jeopardy-over-using-language-models-10-examples/"><u>Could Your Job Be In Jeopardy Over Using Language Models? 10 Examples</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-cinema-the-best-movie-sections/"><u>Cutting-Edge Cinema  The Best Movie Sections</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-how-the-pineboards-hatdrive-revolutionizes-cost-and-speed-for-your-raspberry-pi-storage-solutions/"><u>Discover How the Pineboards HatDrive Revolutionizes Cost & Speed for Your Raspberry Pi Storage Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-email-organization-in-gmail-in-depth-strategies-for-smart-filters-and-quick-address-management/"><u>Elevate Email Organization in Gmail: In-Depth Strategies for Smart Filters & Quick Address Management</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-picking-your-next-device-at-toms-tech-oasis/"><u>Expert Advice on Picking Your Next Device at Tom's Tech Oasis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-raspberry-pi-artificial-intelligence-starter-bundle/"><u>Expert Analysis of the Raspberry Pi Artificial Intelligence Starter Bundle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-innovations-with-toms-hardware-insights/"><u>Exploring Computer Innovations with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-experts/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-guide/"><u>Exploring Hardware Innovations with Tom's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-storage-solutions-with-6tb-wd-my-passport-a-comprehensive-review/"><u>Exploring Storage Solutions with 6TB WD My Passport: A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-gear-with-toms-hardware-review/"><u>Exploring the Latest in Computer Gear with Tom's Hardware Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-war-av1-vs-vp9-codecs-comparison-for-2024/"><u>High-Definition War  Av1 vs VP9 Codecs Comparison for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-tecno-pova-6-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Tecno Pova 6 Pro 5G Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-iphone-12-pro-max-device-from-icloud-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 12 Pro Max Device from iCloud</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78t to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>In 2024, Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-grandmasters-choice-best-martial-arts-games-list/"><u>In 2024, The Grandmasters' Choice  Best Martial Arts Games List</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-unlocking-old-tweets-with-twitter-archive-tools/"><u>In 2024, Unlocking Old Tweets with Twitter Archive Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a14-4g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A14 4G Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-pro-ddr5-c36-modules-2x1geb-unleashing-the-full-potential-for-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Pro DDR5 C36 Modules (2X1geb): Unleashing the Full Potential for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-elegoo-saturn-4-ultra-transforming-the-landscape-of-resin-printing/"><u>In-Depth Analysis of the Elegoo Saturn 4 Ultra: Transforming the Landscape of Resin Printing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-hostgators-vps-vs-shared-hosting-services/"><u>In-Depth Analysis: HostGator's VPS Vs. Shared Hosting Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-premium-features-and-exceptional-precision-of-the-27-dough-spectrum-gaming-screen/"><u>In-Depth Review: Premium Features & Exceptional Precision of the 27 Dough Spectrum Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-tech-world-top-picks-and-insights-by-toms-hardware/"><u>Inside the Tech World: Top Picks and Insights by Tom's Hardware</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lian-li-hydroshift-lcd-360s-a-breakthrough-in-computer-tubing-design-reviewed/"><u>Lian Li Hydroshift LCD 360S: A Breakthrough in Computer Tubing Design Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-gadgets-with-tom-in-depth-hardware-analysis/"><u>Mastering Modern Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mechanical-keyboard-spotlight-affordable-excellence-with-the-nuphy-halo75-v2-review/"><u>Mechanical Keyboard Spotlight: Affordable Excellence with the Nuphy Halo75 V2 Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-insights-from-toms-hardware-experts/"><u>Navigating Technology Trends: Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-with-tomns-hardware-experts/"><u>Navigating the Tech Maze with Tom'n's Hardware Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photography-fundamentals-tips-and-apps-for-android/"><u>Photography Fundamentals  Tips & Apps for Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-your-tech-journey-with-insights-from-toms-hardware-reviews/"><u>Pioneering Your Tech Journey with Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-spark-10-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Spark 10 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seeing-is-believing-the-ultimate-review-of-viewsonics-xg272-2k-gaming-display-with-240hz-refresh-rate/"><u>Seeing Is Believing: The Ultimate Review of ViewSonic's XG272-2K Gaming Display with 240Hz Refresh Rate</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/splitcam-reviewed-topping-in-video-recording-technology-in-2024/"><u>SplitCam Reviewed  Topping in Video Recording Technology, In 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-choosing-the-best-solid-state-drive-exclusive-review-on-corsairs-mp60mini-1tb-e27t/"><u>The Definitive Guide to Choosing the Best Solid-State Drive: Exclusive Review on Corsair's MP60^Mini 1TB (E27T)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-in-motherboards-cpus-and-more-a-tech-hub/"><u>Tom’s Expertise in Motherboards, CPUs & More | A Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341741079-toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech: Comprehensive Insights Into Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-of-the-line-heat-management-the-powerful-teamgroup-t-force-dark-airflow-i-cooler-evaluated/"><u>Top of the Line Heat Management: The Powerful TeamGroup T-Force Dark AirFlow I Cooler Evaluated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-review-of-gigabytes-affordable-b760m-ds3h-ax-perfect-entry-point-into-micro-atx-and-3-monitor-systems/"><u>Top Review of Gigabyte’s Affordable B760M DS3H AX - Perfect Entry Point Into Micro ATX & 3-Monitor Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ui-graphics-fix-windows-system-restored/"><u>UI Graphics Fix: Windows System Restored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-asrock-z790i-lightning-wi-fi-motherboard-compact-performance-meets-reliable-connectivity/"><u>Unboxing and Testing the ASRock Z790I Lightning Wi-Fi Motherboard: Compact Performance Meets Reliable Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/under-budget-breeze-masters-check-out-our-review-of-upheres-c5c-and-d6sec-coolers/"><u>Under-Budget Breeze Masters? Check Out Our Review of UpHere's C5C and D6Sec Coolers!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadget-expertise-the-ultimate-guide-by-tom/"><u>Unveiling Gadget Expertise: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-hardware-toms-expert-reviews-and-advice/"><u>Unveiling the Best in Hardware: Tom's Expert Reviews & Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-blog/"><u>Unveiling the Latest Gadgets with Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-toms-expert-insights/"><u>Unveiling the Latest in Electronics - Tom's Expert Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostinger-hosting-solutions-vps-cloud-and-shared-hosting-explored/"><u>Unveiling the Pros and Cons of Hostinger Hosting Solutions: VPS, Cloud & Shared Hosting Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gadget-experts-comprehensive-electronics-analysis/"><u>Unveiling Tom's Gadget Experts: Comprehensive Electronics Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-next-for-google-pixels-insightful-gossip-on-pricing-release-dates-and-specs/"><u>What's Next for Google Pixels? Insightful Gossip on Pricing, Release Dates and Specs</u></a></li>
+</ul></div>

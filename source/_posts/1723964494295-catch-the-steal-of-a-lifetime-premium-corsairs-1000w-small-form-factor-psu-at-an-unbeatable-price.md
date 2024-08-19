@@ -1,7 +1,7 @@
 ---
 title: Catch the Steal of a Lifetime - Premium Corsair's 1000W Small Form Factor PSU at an Unbeatable Price!
-date: 2024-08-17 18:50:55
-updated: 2024-08-18 10:41:20
+date: 2024-08-18T11:32:44.763Z
+updated: 2024-08-19T11:32:44.763Z
 tags:
   - power-supply
 categories:
@@ -63,14 +63,23 @@ See more Real Deals below.
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07S98YLHM%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8780951100740110730-20)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Looking for more deals?
 
 Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  Back to Hubs & Switches
 
 Brand
@@ -87,6 +96,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
  Black
 
  Copper
@@ -95,6 +107,9 @@ Condition
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  New
 
  Refurbished
@@ -103,6 +118,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 52 deals
@@ -277,3 +295,61 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-best-7-dslr-cameras-for-vlogging/"><u>[New] 2024 Approved  Best 7 DSLR Cameras for Vlogging</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-acoustic-alerts-on-whatsapp-status/"><u>[New] Acoustic Alerts on WhatsApp Status</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-select-top-6-slideshow-creation-software-for-x-models/"><u>[New] Select Top 6 Slideshow Creation Software for X Models</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-differentiating-real-vs-fake-facebook-likes-for-2024/"><u>[New] The Art of Differentiating Real vs Fake Facebook Likes for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-user-generated-feedback-influences-video-ranks/"><u>[Updated] 2024 Approved  How User-Generated Feedback Influences Video Ranks</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-ideas-to-boost-the-impact-of-fb-video-campaigns/"><u>[Updated] 2024 Approved  Ideas to Boost the Impact of FB Video Campaigns</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-key-to-engaging-audiences-instagram-video-descriptions/"><u>[Updated] The Key to Engaging Audiences  Instagram Video Descriptions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-f5-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco F5 Pro 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-b-roll-filming-techniques/"><u>2024 Approved  Mastering the Art of B Roll Filming Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-transform-canon-photos-gratuitous-fundamentals-plus-optional-lut-expansion/"><u>2024 Approved  Transform Canon Photos  Gratuitous Fundamentals + Optional LUT Expansion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordability-meets-quality-in-the-nuphy-halo75-v2-mechanical-keyboard-review/"><u>Affordability Meets Quality in the Nuphy Halo75 V2 Mechanical Keyboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-pcb-creation-cytrons-uno-rp2040-board-evaluated-for-savvy-electronics-enthusiasts/"><u>Affordable PCB Creation: Cytron's Uno RP2040 Board Evaluated for Savvy Electronics Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-debate-can-googles-bard-outshine-microsofts-chatgpt/"><u>AI Debate: Can Google's Bard Outshine Microsoft's ChatGPT?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-keris-ii-ace-the-gamers-choice-over-deathadder-v3-pro-in-depth-review/"><u>Asus ROG Keris II Ace: The Gamer's Choice Over DeathAdder V3 Pro - In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-performance-stunning-visual-fidelity-on-the-gigabyte-aorus-co49dq-oled-for-gamers/"><u>Breaking Down Performance: Stunning Visual Fidelity on the Gigabyte Aorus CO49DQ OLED for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gigabyte-b650-aorus-elite-ax-ice-motherboard-assessment-high-costs-meet-high-end-features/"><u>Comprehensive Gigabyte B650 Aorus Elite AX Ice Motherboard Assessment: High Costs Meet High-End Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-patriot-viper-vp4300-lite-4tb-ssd-power-and-price-breakdown/"><u>Comprehensive Guide: Patriot Viper VP4300 Lite 4TB SSD - Power and Price Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-hp-omnibook-x-the-future-of-16plus-hour-portability/"><u>Discovering the HP OmniBook X - The Future of 16+ Hour Portability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-transport/"><u>Eco-Friendly Transport</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-bluehost-services-insights-into-cloud-vps-and-shared-hosting-performance/"><u>Evaluating Bluehost Services: Insights Into Cloud, VPS & Shared Hosting Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-gadget-analysis-toms-technological-wisdom/"><u>Expert Gadget Analysis - Tom’s Technological Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-lenovo-yoga-pro-9i-evaluation-thin-design-with-responsive-keyboard/"><u>Expert Lenovo Yoga Pro 9I Evaluation: Thin Design with Responsive Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-on-the-powerful-platinum-series-nzxt-c1ebuilding-with-sustainable-materials-including-recycled-content-when-possible/"><u>Expert Review on the Powerful Platinum Series - NZXT C1ebuilding with Sustainable Materials, Including Recycled Content when Possible.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-perspective-on-gigabytes-g6x-laptop-competent-but-without-any-standout-features/"><u>Gamers' Perspective on Gigabyte's G6X Laptop: Competent but Without Any Standout Features</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-3-and-its-impact-on-seo-practices/"><u>GPT-3 & Its Impact on SEO Practices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12 4G Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-note-30-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Note 30 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-11-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 11 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On OnePlus Nord N30 5G?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-cloud-photo-vaults-unlimited-free-premium-options-available/"><u>In 2024, Ultimate Cloud Photo Vaults  Unlimited Free, Premium Options Available</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-hostgator-vps-vs-shared-web-hosting-options/"><u>In-Depth Evaluation of HostGator VPS Vs. Shared Web Hosting Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-graphics-battlefield-the-unmatched-prowess-of-amd-ryzen-5-and-ryzen-7-with-zen-5-architecture/"><u>Mastering the Graphics Battlefield: The Unmatched Prowess of AMD Ryzen 5 and Ryzen 7 with Zen 5 Architecture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/maximize-impact-strategies-for-successful-instagram/"><u>Maximize Impact  Strategies for Successful Instagram</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-horizons-a-comprehensive-guide-by-tom/"><u>Navigating New Tech Horizons: A Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trends-the-ultimate-resource-from-toms-hardware/"><u>Navigating New Tech Trends - The Ultimate Resource From Tom's Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-unleashed-ios-rom-based-gaming/"><u>Nostalgia Unleashed: IOS ROM-Based Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-the-revolutionary-4tb-wd-blue-sn5000-solid-state-drive-from-western-digital/"><u>Performance Insights on the Revolutionary 4TB WD Blue SN5000 Solid State Drive From Western Digital</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-tecno-spark-20-proplus-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Tecno Spark 20 Pro+ Black and White | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/start-with-snapseed-a-foundation-for-image-editing/"><u>Start with Snapseed  A Foundation for Image Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/symphony-for-statuses-whatsapps-melodic-feature-for-2024/"><u>Symphony for Statuses  WhatsApp's Melodic Feature for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-digital-craftsmanship-diary-by-toms-tech-workshop/"><u>The Digital Craftsmanship Diary by Tom's Tech Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-inside-scoop-on-top-tier-computer-systems-by-toms-experts/"><u>The Inside Scoop on Top-Tier Computer Systems by Tom's Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-netgear-orbi-ac770-wi-fi-mesh-router-reviewed-a-wallet-friendly-option-in-a-sea-of-expensive-competitors/"><u>The Netgear Orbi (AC770) Wi-Fi Mesh Router Reviewed - A Wallet-Friendly Option in a Sea of Expensive Competitors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-by-tom/"><u>The Ultimate Resource for Top-Notch PC Components by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-analysis-decoding-the-latest-tech-innovations/"><u>Tom's Hardware Analysis: Decoding the Latest Tech Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-deep-dive-into-cutting-edge-hardware/"><u>Tom's Tech Insights: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+</ul></div>

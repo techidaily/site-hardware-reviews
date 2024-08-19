@@ -1,7 +1,7 @@
 ---
 title: Pioneer in PC Analysis - Unlocking Performance with Tom's Gear Reviews
-date: 2024-08-17 22:59:36
-updated: 2024-08-18 11:57:35
+date: 2024-08-18T11:35:41.764Z
+updated: 2024-08-19T11:35:41.764Z
 tags:
   - cases
 categories:
@@ -67,6 +67,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
  While I didn't have the time to put together a full review before heading off to Computex, Fractal did send the case ahead of the launch date and, space constraints aside, there's a lot I like about it. It's surprisingly easy to build in for such a small chassis.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,6 +82,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Fractal Design Terra](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -89,6 +95,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/GGZ7h2GYJ9xDyuCYcbGRUQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Mini-ITX motherboard installation is dead simple. You'll want to install your cooler, RAM and any M.2 drives on the board first, then flip the case on its side and the motherboard drops right in, to be anchored via four screws on the pre-installed standoffs. Again, CPU cooler space is extremely limited. I installed a[Thermalright AXP90-X47](http://www.thermalright.com/product/axp90-x47/) cooler for my Ryzen 5 5600 CPU, but the smaller AMD Wraith or Intel stock coolers should fit here just fine (again, depending on how much GPU space you need on the other side, so be sure to double-check those numbers).
@@ -97,6 +106,23 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/hQRNNowsajoJZWAxs2Kk3R-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Next, I spun the case around and installed my GPU. For this build, I used an old Gigabyte RTX 2060 Super. I could have installed something thicker and a couple of inches longer here, but the Gigabyte card wasn't currently in another system, my Zotac GTX 1080 Ti was borderline too thick (and too old), and the Colorful RTX 4090 in my main system is too long, at over 13 inches. I'd say in most instances, you should expect to fit most 4070-class cards in this case – as long as it's not one of the crazy thick overbuild models. Higher-end Nvida FE cards should also fit, but then you're going to need a larger SFX-L power supply, and I don't feel great about all that heat-generating hardware going into a cramped case with, at best, a single intake fan. Again, Fractal could have made this case just a little bigger to accommodate more powerful cards. But as it is, it's probably good that you can't quite fit the most powerful, most overclocked cards in this case, no matter how vented all the panels are.
@@ -113,6 +139,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/cy4rnk357zphPGMR6K8oaQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  There's no[audio](https://tools.techidaily.com) jack here, which may bother some. But as this is a tiny case that's clearly designed to sit on your desk, the audio jacks on the motherboard aren't much more than a foot away at the back of the case. Part of me wants to see more USB ports up front, but again, those are within fairly easy reach around the back.  
@@ -121,6 +150,9 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
 
 ![Fractal Design Terra](https://cdn.mos.cms.futurecdn.net/PiQcTyM4XVJgWtYgom3aGQ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  All in all, the Fractal Terra is a striking and mostly well-thought-out Mini-ITX case. I doubt it will have as wide an appeal as its larger North cousin since component and airflow options are far more limiting here. But if you don't need to pack in the absolute most powerful components (particularly on the CPU side) and you don't need more than a few storage drives, Fractal has once again delivered one of the prettiest cases available – especially if you want a respite from the RGB and aggressive designs that dominate the gaming side of the PC realm.
@@ -143,3 +175,66 @@ Late last year, Fractal's mid-century-inspired[North PC case](https://tools.tech
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-go-viral-on-youtube-with-minimal-effort/"><u>[New] In 2024, How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-pick-prime-drone-gimbals/"><u>[Updated] Expert Pick  Prime Drone Gimbals</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-streamline-your-view-adding-captions-on-windows-media-player/"><u>[Updated] In 2024, Streamline Your View  Adding Captions on Windows Media Player</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>[Updated] The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unraveling-virtual-physical-coexistence-what-is-mixed-reality-for-2024/"><u>[Updated] Unraveling Virtual-Physical Coexistence  What Is Mixed Reality for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-the-world-of-instagram-reel-downloads/"><u>2024 Approved  Navigating the World of Instagram Reel Downloads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-psp-emulator-ios-top-5-picks-on-2023/"><u>2024 Approved  PSP Emulator iOS  Top 5 Picks on 2023</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-motorola-moto-g24-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Motorola Moto G24 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-identify-the-legal-documents-function-in-land-division/"><u>Approach: Identify the Legal Document's Function in Land Division.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/avi-video-cutting-made-easy-top-16-tools-for-windows-mac-android-iphone-and-online/"><u>AVI Video Cutting Made Easy Top 16 Tools for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/best-practices-for-safe-identity-on-facebook/"><u>Best Practices for Safe Identity on Facebook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-oppo-find-x7-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Oppo Find X7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asrocks-value-packed-b760m-pro-rs-affordable-and-feature-filled/"><u>Comprehensive Guide to ASRock's Value-Packed B760M Pro RS: Affordable & Feature-Filled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsairs-latest-gem-the-ultimate-review-for-the-superior-mp600-mini-1tb-m2-2230e2t-ssd-your-perfect-storage-solution/"><u>Corsair's Latest Gem: The Ultimate Review for the Superior MP600 Mini 1TB (M.2 2230/E2^T) SSD - Your Perfect Storage Solution!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-and-components-on-tomtechreviews-your-trusted-source-for-insights/"><u>Discover Top Gadgets and Components on TomTechReviews – Your Trusted Source for Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s21-fe-5g-2023-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy S21 FE 5G (2023) support MOV videos ?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-v27-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo V27 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341731156-expert-analysis-on-asus-rog-azoth-extreme-at-just-500-reviews-inside/"><u>Expert Analysis on Asus ROG Azoth Extreme at Just $500 - Reviews Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-pimoroni-nvme-ssd-base-duo-speed-capacity-and-reliability-assessed/"><u>Expert Review of the Pimoroni NVMe SSD Base Duo - Speed, Capacity & Reliability Assessed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-insights-and-analysis/"><u>Exploring Gadgets with Tom's Hardware Insights and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubics-trailblazing-multicolor-3d-printer-the-kobra-3-edition/"><u>Exploring the Features of Anycubic's Trailblazing Multicolor 3D Printer: The Kobra 3 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695533-exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-solid-reliability-of-the-asus-tuf-gaming-a14-unit/"><u>Exploring the Solid Reliability of the Asus TUF Gaming A14 Unit</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-10c-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 10C to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock Verizon iPhone 11 Pro Max</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-stunning-photographic-mosaics/"><u>In 2024, Mastering Stunning Photographic Mosaics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-navigate-your-way-to-joining-google-live-video-sessions/"><u>In 2024, Navigate Your Way to Joining Google Live Video Sessions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-your-trusted-computer-hub/"><u>Inside Tom's Hardware: Your Trusted Computer Hub</u></a></li>
+<li><a href="https://fox-http.techidaily.com/learning-vector-artistry-an-overview-for-starters-and-software-picks/"><u>Learning Vector Artistry  An Overview for Starters & Software Picks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-sound-on-the-go-unveiling-the-8-best-ios-daws-for-ipad-and-iphone-for-2024/"><u>Mastering Sound on the Go Unveiling the 8 Best iOS DAWs for iPad and iPhone for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology Choices - Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-inside-toms-hardware-reviews/"><u>Mastering the Digital World: Inside Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-value-and-performance-an-in-depth-look-at-the-id-cooling-frozn-a620-pro-se-cooler/"><u>Maximizing Value and Performance: An In-Depth Look at the ID-Cooling Frozn A620 PRO SE Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/on-the-go-connectivity-assessment-asus-rt-ax52018-nano-router-a-review-for-wanderers-and-road-warriors/"><u>On-the-Go Connectivity Assessment: Asus RT-AX52018 Nano Router – A Review for Wanderers and Road Warriors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341713132-regular-follow-up-visits-allow-for-assessment-of-healing-progress-and-detection-of-late-onset-complications/"><u>Regular Follow-Up Visits Allow for Assessment of Healing Progress and Detection of Late Onset Complications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-gigabyte-g6x-for-gamers-reliable-functionality-yet-unremarkable-attributes/"><u>Reviewing the Gigabyte G6X for Gamers: Reliable Functionality Yet Unremarkable Attributes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/rhythms-riches-the-ultimate-dj-templates-collection/"><u>Rhythm's Riches  The Ultimate DJ Templates Collection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-under-pressure-the-ultimate-guide-to-optimizing-cooling-with-5cuum-tower-plus-for-raspberry-pi-45/"><u>Stay Chilled Under Pressure: The Ultimate Guide to Optimizing Cooling with '5Cuum Tower Plus for Raspberry Pi 4/5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-guide-refreshing-your-hp-omen-15-drivers/"><u>Step-by-Step Guide: Refreshing Your HP Omen 15 Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installing-new-intel-uhd-graphics-driver-updates-on-windows-11/"><u>Step-by-Step: Installing New Intel UHD Graphics Driver Updates on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-next-gen-tech-devices-by-toms-hardware-authority/"><u>The Definitive Guide to Next-Gen Tech Devices by Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-impactful-evolution-in-industrial-electronics-an-in-depth-review-of-the-raspberry-pi-compute-module-4s/"><u>The Impactful Evolution in Industrial Electronics: An In-Depth Review of the Raspberry Pi Compute Module 4S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-gadgets-by-toms-tech-wisdom/"><u>The Ultimate Guide to Cutting-Edge Gadgets by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-id-cooling-frozn-a620-pro-series-se-features-benefits-and-review/"><u>The Ultimate Guide to the ID-Cooling Frozn A620 Pro Series SE - Features, Benefits, and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-trusted-guide-in-computer-hardware/"><u>Tom's Tech Review - Your Trusted Guide in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-must-have-educational-apps-learn-like-never-before/"><u>Top 8 Must-Have Educational Apps - Learn Like Never Before</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-budget-friendly-timer-tools/"><u>Top Budget-Friendly Timer Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-video-quality-on-tiktok-2-ways-for-2024/"><u>Transform Video Quality on TikTok (2 Ways) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/trim-the-hours-off-custom-youtube-shorts-image-creation-for-2024/"><u>Trim The Hours Off Custom YouTube Shorts Image Creation for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-unleashed-teamgroup-t-force-dark-airflow-i-nvme-cooler-in-depth-review/"><u>Ultimate Performance Unleashed: TeamGroup T-Force Dark AirFlow I NVMe Cooler In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-kingston-fury-ddr5-6000-a-closer-look-at-its-high-speed-32gbx2-performance/"><u>Unveiling the Capabilities of the Kingston Fury DDR5-6000: A Closer Look at Its High-Speed 32GBx2 Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pineboards-hatdrive-budget-friendly-and-fast-attachment-for-raspberry-pi/"><u>Unveiling the Pineboards HatDrive: Budget-Friendly & Fast Attachment for Raspberry Pi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gadgets-and-hardware-innovations-toms-insight/"><u>Unveiling Top Gadgets and Hardware Innovations - Tom's Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-picks-a-spotlight-on-toms-hardware-selection/"><u>Unveiling Top Tech Picks: A Spotlight on Tom's Hardware Selection</u></a></li>
+</ul></div>

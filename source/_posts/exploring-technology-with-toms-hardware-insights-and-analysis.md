@@ -1,7 +1,7 @@
 ---
 title: Exploring Technology with Tom's Hardware Insights and Analysis
-date: 2024-08-15 23:15:46
-updated: 2024-08-18 12:20:35
+date: 2024-08-18T11:37:14.465Z
+updated: 2024-08-19T11:37:14.465Z
 tags:
   - build
 categories:
@@ -86,6 +86,9 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
@@ -126,10 +129,16 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
@@ -146,10 +155,19 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +188,46 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-dynamic-duels-ranking-the-top-street-fighter-titles/"><u>[New] 2024 Approved  Dynamic Duels  Ranking the Top Street Fighter Titles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-acquisition-101-maximizing-youtubers-earnings-for-2024/"><u>[New] Channel Acquisition 101  Maximizing Youtubers' Earnings for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-archive-mastery-how-and-why/"><u>[New] In 2024, Instagram Archive Mastery  How and Why?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-through-youtubes-revenue-flow-after-monetization/"><u>[New] Navigating Through YouTube's Revenue Flow After Monetization</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-science-behind-optimal-instagram-timings-for-2024/"><u>[New] The Science Behind Optimal Instagram Timings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-youtube-banners-and-thumbnails/"><u>[Updated] 2024 Approved  How to Make YouTube Banners and Thumbnails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-leading-8-flawless-recorder-picks/"><u>[Updated] 2024 Approved  Leading 8 Flawless Recorder Picks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-maximizing-insights-with-twitter-archive-analysis/"><u>[Updated] In 2024, Maximizing Insights with Twitter Archive Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mirthful-montage-mastering-7-comical-video-vignettes/"><u>[Updated] In 2024, Mirthful Montage  Mastering 7 Comical Video Vignettes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlimited-christmas-classics-9-films-available-for-no-charge/"><u>[Updated] Unlimited Christmas Classics  9 Films Available for No Charge</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-in-game-recorder-faceoff/"><u>2024 Approved  In-Game Recorder Faceoff</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-gigabyes-premium-b650-aorus-elite-ax-ice-motherboard-evaluating-cost-vs-quality-and-usb-capabilities/"><u>A Closer Look at Gigabye's Premium B650 Aorus Elite AX Ice Motherboard: Evaluating Cost Vs. Quality and USB Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-evaluation-stunning-volume-and-quality/"><u>BlueAnt Soundblade Evaluation: Stunning Volume & Quality</u></a></li>
+<li><a href="https://article-files.techidaily.com/correcting-iphone-camera-focusing-errors-effectively/"><u>Correcting iPhone Camera Focusing Errors Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-airflow-thermaltakes-new-120mm-and-140mm-flippable-coolers-with-superior-magnetic-force-and-a-minimalist-aesthetic-no-rgb/"><u>Discover the Future of Airflow: Thermaltake's New 120Mm & 140Mm Flippable Coolers with Superior Magnetic Force and a Minimalist Aesthetic (No RGB)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/discover-the-magic-of-high-dynamic-range-in-photography-for-2024/"><u>Discover the Magic of High Dynamic Range in Photography for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-world-of-computer-components-with-expert-guidance-from-toms-hardware/"><u>Dive Into the World of Computer Components with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computers-from-toms-gear-experts/"><u>Expert Advice on Computers From Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-aocs-agon-pro-ag456uczd-the-ultimate-gaming-experience-with-a-45-inch-uhd-oled-display/"><u>Expert Analysis of AOC's Agon Pro AG456UCZD – The Ultimate Gaming Experience with a 45-Inch UHD OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-the-ultimate-guide-to-the-pixio-px2n7-oled-max-top-choice-for-gamers/"><u>Expert Analysis: The Ultimate Guide to the Pixio PX2n7-OLED Max - Top Choice for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-weigh-in-on-the-game-enhancing-performance-of-logitech-g-pro-x-2-keyboard-with-revolutionary-lightspeed-tech-for-gamers/"><u>Experts Weigh In on the Game-Enhancing Performance of Logitech G Pro X 2 Keyboard with Revolutionary Lightspeed Tech for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-in-depth-analysis-at-toms-hardware-hub/"><u>Explore Top Tech: In-Depth Analysis at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-procleanse-top-tier-background-removal-tool/"><u>In 2024, ProCleanse  Top-Tier Background Removal Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-pimoroni-nvme-solid-state-drive-ssd-dual-base-unit-review/"><u>In-Depth Analysis: Pimoroni NVMe Solid State Drive (SSD) Dual Base Unit Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-review-advancements-and-setbacks-with-the-cooler-master-ion-360-liquid-cpu-chiller/"><u>Inside Review: Advancements & Setbacks with the Cooler Master ION 360 Liquid CPU Chiller</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-technology-with-toms-expert-hardware-reviews/"><u>Mastering Modern Technology with Tom's Expert Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-with-toms-hardware-comprehensive-gear-evaluations/"><u>Navigating Tech Trends with Tom's Hardware - Comprehensive Gear Evaluations</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-7-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 7 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-breakdown-honoring-the-legacy-of-voron/"><u>Sovol SV08 Speedster Breakdown: Honoring the Legacy of Voron</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-the-geekworm-x1011-nas-maker-inside-story-and-evaluation/"><u>The Complete Guide to the Geekworm X1011 NAS Maker: Inside Story and Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-understanding-toms-tech-hardware/"><u>The Ultimate Resource for Understanding Tom's Tech Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Review - Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-15-activities-perfect-for-podcast-lovers/"><u>Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g2/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-lenovo-yoga-pro-9i-striking-a-balance-between-weightlessness-and-durable-keyboard/"><u>Unboxing and Testing the Lenovo Yoga Pro 9I: Striking a Balance Between Weightlessness and Durable Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-maximum-space-in-depth-analysis-of-the-western-digital-my-passport-6tb/"><u>Unlocking Maximum Space: In-Depth Analysis of the Western Digital My Passport (6TB)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/video-capture-clash-go-obs-against-shadowgl/"><u>Video Capture Clash  Go OBS! Against ShadowGL</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Future Is ARM-Based: MediaTek Gears Up to Power Windows Laptops Post Qualcomm Pact"
-date: 2024-08-14 21:20:42
-updated: 2024-08-17 12:54:27
+date: 2024-08-18T11:55:34.058Z
+updated: 2024-08-19T11:55:34.058Z
 tags:
   - laptop
 categories:
@@ -39,6 +39,9 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Vivobook S15 (S5507) features two USB 4 ports, two USB 3.2 Type-A ports, a microSD card reader, an HDMI 2.1 port, and a 3.5mm headphone jack. It starts at $1,299.99 on the [Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-1448347873480858520&url=https%3A%2F%2Fshop.asus.com%2Fus%2F90nb14q2-m000w0-asus-vivobook-s-15-s5507.html) , but is out of stock at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -47,10 +50,16 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Dell XPS 13
 
 ![Dell XPS 13](https://cdn.mos.cms.futurecdn.net/QAyqoqgfXVyMCzhuYHvvaS-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 (Image credit: Dell)
 
  The XPS 13 is one of the most popular Windows laptops around, and it’s one of the first[Dell](https://tools.techidaily.com) machines to get the Copilot+ PC brand. The XPS 13 is only available with Snapdragon X Elite X1E-80-100 chip, but you can spec it with 16GB, 32GB, or 64GB of LPDDR5X RAM. You can even get it with a 512GB, 1TB, or 2TB M.2 PCIe NVMe SSD.
@@ -97,10 +106,17 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
  The Yoga Slim 7x uses a 14.5-inch 3K OLED display with a 90 Hz refresh rate. It’s also VESA-certified DisplayHDR True Black 600, giving you a great viewing experience. The laptop starts at $1,199.00 and is available for Pre-Order on[the Lenovo site](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Flenovo.7eer.net%2Fc%2F5597632%2F218864%2F3808%3FsubId1%3Dtechidaily-us-8727768493894058412%26sharedId%3Dtechidaily-us%26u%3Dhttps%253A%252F%252Fwww.lenovo.com%252Fus%252Fen%252Fp%252Flaptops%252Fyoga%252Fyoga-slim-series%252Fyoga-slim-7x-gen-9-%252814-inch-snapdragon%2529%252Flen101y0049) at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Lenovo ThinkPad T14s Gen 6
 
 ![Lenovo ThinkPad T14s Gen 6](https://cdn.mos.cms.futurecdn.net/By8PYnaLQtTDyDkoyxvmNd-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Lenovo)
 
  Lenovo knows that many businesses want to get on the AI bandwagon, so it’s bringing the Copilot+ PC certification to one of the most popular[enterprise](https://tools.techidaily.com) laptops. The ThinkPad T14s Gen 6 has a Snapdragon X Elite processor with 32GB of RAM and a 1TB SSD. It also comes with[Windows 11](https://tools.techidaily.com) Pro right out of the box.
@@ -111,22 +127,34 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
 
 ![Microsoft Surface Laptop](https://cdn.mos.cms.futurecdn.net/C6DJ6XaHjf2BKnT2gskUhk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  Of course,[Microsoft](https://tools.techidaily.com) will not lag behind the competition when it comes to Copilot+ PCs. It is offering the most affordable Snapdragon X option, with the Surface Laptop, which starts at $999.99\. This model has a Snapdragon X Plus processor and a 13.8-inch display. It also comes with 16GB of RAM and a 512GB SSD.
 
  The more powerful Snapdragon X Elite chip-powered Surface Laptops start at $1,399.99 for the 13.8-inch version with 16GB of RAM and a 512GB SSD. Interestingly, the 15-inch model (which can only be had with a Snapdragon X Elite chip) starts at $1,299.99, but this one only has a 256GB SSD, which seems awfully small for today’s requirements. If you want to get this Copilot+ PC, the Surface Laptop is now available on[the Microsoft website](https://www.microsoft.com/en-us/store/configure/surface-laptop-7th-edition/8tq2hq5xxkj9) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Microsoft Surface Pro
 
 ![Microsoft Surface Pro](https://cdn.mos.cms.futurecdn.net/FDVeU5mue9SMrJ7zU7yjHB-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Microsoft)
 
  If you prefer the tablet form factor, you can still get a Copilot+ PC with the Microsoft Surface Pro. This 2-in-1 starts at $999.99 for the Snapdragon X Plus version with a 13-inch LCD display, 16GB of RAM, and a 256GB SSD for the Platinum colorway. The three other colors — Sapphire, Dune, and Black — start at $1,199.99 with a larger 512GB SSD.
 
  The Snapdragon X Elite model gets a 13-inch OLED screen and 16GB of RAM, but you now also have a choice between a 512GB or a 1TB SSD. The Snapdragon X Elite Surface Pro starts at $1,499.99 but jumps to $1,699.99 for the larger storage version. You can also spec this chip with 32GB of RAM and 1TB SSD, but you’ll have to shell out $2,099.99 for this model. You can get it now from[Microsoft](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj) if you want a new Windows 11 tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Samsung Galaxy Book4 Edge
 
 ![Samsung Galaxy Book4 Edge](https://cdn.mos.cms.futurecdn.net/92Lc3j6TS3cq5HjHkBqebH-320-80.jpg)
@@ -153,3 +181,54 @@ Several PC manufacturers recently[launched Qualcomm-powered laptops](https://too
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elite-edition-ultimate-guide-to-superior-cardboard-vr-gaming/"><u>[New] 2024 Approved  Elite Edition  Ultimate Guide to Superior Cardboard VR Gaming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ps3-experience-on-pc-leading-emulators-guide/"><u>[New] In 2024, PS3 Experience on PC  Leading Emulators Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-powerpoint-tips-adding-and-capturing-speech-sounds-for-2024/"><u>[New] PowerPoint Tips  Adding and Capturing Speech Sounds for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-future-of-videos-assessing-av1s-edge-over-vp9/"><u>[New] The Future of Videos  Assessing AV1's Edge over VP9</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-control-over-your-ig-content-exposure/"><u>[Updated] 2024 Approved  Control Over Your IG Content Exposure</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-the-art-of-self-presentation-in-facebook-bios/"><u>[Updated] 2024 Approved  Mastering the Art of Self-Presentation in Facebook Bios</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-color-crafting-chronicles-pro-techniques-compilation-for-2024/"><u>[Updated] Color Crafting Chronicles  Pro Techniques Compilation for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-from-bits-and-bytes-to-subtitles-the-zip-to-srt-pathway/"><u>[Updated] In 2024, From Bits and Bytes to Subtitles  The ZIP To SRT Pathway</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-cost-efficient-guide-to-skype-calls-in-mp3/"><u>[Updated] In 2024, The Cost-Efficient Guide to Skype Calls in MP3</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[Updated] Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-recording-techniques-with-adobe-presenter/"><u>[Updated] Mastering Recording Techniques with Adobe Presenter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laughter-labyrayer-with-adobes-help/"><u>2024 Approved  Laughter Labyrayer with Adobe's Help</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-gigabyes-premium-b650-aorus-elite-ax-ice-motherboard-evaluating-cost-vs-quality-and-usb-capabilities/"><u>A Closer Look at Gigabye's Premium B650 Aorus Elite AX Ice Motherboard: Evaluating Cost Vs. Quality and USB Capabilities</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aesthetic-innovations-showcase/"><u>Aesthetic Innovations Showcase</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-evaluation-stunning-volume-and-quality/"><u>BlueAnt Soundblade Evaluation: Stunning Volume & Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-computer-parts-through-toms-hardware-breakdowns/"><u>Discover Top-Tier Computer Parts Through Tom's Hardware Breakdowns</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-world-of-computer-components-with-expert-guidance-from-toms-hardware/"><u>Dive Into the World of Computer Components with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-youtube-content-with-7-premium-free-audio-sounds-for-2024/"><u>Elevate Your YouTube Content With 7 Premium, Free Audio Sounds for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computers-from-toms-gear-experts/"><u>Expert Advice on Computers From Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-aocs-agon-pro-ag456uczd-the-ultimate-gaming-experience-with-a-45-inch-uhd-oled-display/"><u>Expert Analysis of AOC's Agon Pro AG456UCZD – The Ultimate Gaming Experience with a 45-Inch UHD OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-the-ultimate-guide-to-the-pixio-px2n7-oled-max-top-choice-for-gamers/"><u>Expert Analysis: The Ultimate Guide to the Pixio PX2n7-OLED Max - Top Choice for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-weigh-in-on-the-game-enhancing-performance-of-logitech-g-pro-x-2-keyboard-with-revolutionary-lightspeed-tech-for-gamers/"><u>Experts Weigh In on the Game-Enhancing Performance of Logitech G Pro X 2 Keyboard with Revolutionary Lightspeed Tech for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-in-depth-analysis-at-toms-hardware-hub/"><u>Explore Top Tech: In-Depth Analysis at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-canon-mp560-printer-software-downloads-and-updates/"><u>Fast & Simple Guide: Canon MP560 Printer Software Downloads & Updates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-reno-8t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Reno 8T on Windows??</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-repair-compromised-system-files-within-windows-11/"><u>How to Resolve and Repair Compromised System Files Within Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-strategies-for-viewing-your-subscribers/"><u>In 2024, Essential Strategies for Viewing Your Subscribers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unparalleled-20-anime-series-themes/"><u>In 2024, Unparalleled 20 Anime Series Themes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-pimoroni-nvme-solid-state-drive-ssd-dual-base-unit-review/"><u>In-Depth Analysis: Pimoroni NVMe Solid State Drive (SSD) Dual Base Unit Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-review-advancements-and-setbacks-with-the-cooler-master-ion-360-liquid-cpu-chiller/"><u>Inside Review: Advancements & Setbacks with the Cooler Master ION 360 Liquid CPU Chiller</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341707861-keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveling-up-tabletop-role-playing-strategies-to-amplify-dandd-with-chatgpt/"><u>Leveling Up Tabletop Role-Playing: Strategies to Amplify D&D with ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-systems-with-toms-hardware-tips/"><u>Navigating High-Performance Systems with Tom's Hardware Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-with-toms-hardware-comprehensive-gear-evaluations/"><u>Navigating Tech Trends with Tom's Hardware - Comprehensive Gear Evaluations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-vanished-connections-a-step-by-step-guide-post-iphone-update-or-jailbreak/"><u>Reviving Your Vanished Connections: A Step-by-Step Guide Post-iPhone Update or Jailbreak</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-solution-why-does-outriders-keep-experiencing-crashes/"><u>Simple Solution: Why Does Outriders Keep Experiencing Crashes?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-breakdown-honoring-the-legacy-of-voron/"><u>Sovol SV08 Speedster Breakdown: Honoring the Legacy of Voron</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-the-geekworm-x1011-nas-maker-inside-story-and-evaluation/"><u>The Complete Guide to the Geekworm X1011 NAS Maker: Inside Story and Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-price-of-cool-exploring-the-features-value-and-extensive-usb-options-of-the-gigabyte-b650-aorus-elite-ax-reviewed/"><u>The Price of Cool: Exploring the Features, Value, and Extensive USB Options of the Gigabyte B650 Aorus Elite AX Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-understanding-toms-tech-hardware/"><u>The Ultimate Resource for Understanding Tom's Tech Hardware</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tips-for-including-vimeo-content-on-instagram/"><u>Tips for Including Vimeo Content on Instagram</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-reviews-and-guides/"><u>Tom's Tech Hub: Comprehensive Reviews and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Review - Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g2/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-lenovo-yoga-pro-9i-striking-a-balance-between-weightlessness-and-durable-keyboard/"><u>Unboxing and Testing the Lenovo Yoga Pro 9I: Striking a Balance Between Weightlessness and Durable Keyboard</u></a></li>
+</ul></div>

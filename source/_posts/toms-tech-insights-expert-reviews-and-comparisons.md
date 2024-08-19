@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: Expert Reviews and Comparisons"
-date: 2024-08-16 19:47:22
-updated: 2024-08-18 11:30:11
+date: 2024-08-18T11:33:57.632Z
+updated: 2024-08-19T11:33:57.632Z
 tags:
   - peripherals
 categories:
@@ -142,6 +142,9 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://cdn.mos.cms.futurecdn.net/SrPBCHxjsKZtaKMaebeZKM-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can customize the Q1 HE with Keychron Launcher, Keychron's new web-based tool that supports all of its keyboards. It's Keychron's in-house answer to VIA and it's very similar — it only works in WebHID-enabled browsers and you'll need to connect the keyboard via USB-C to use it. It has several sections: HE Mode, keymapping, lighting, macros, firmware updates, key testing, and bug reports. In the HE Mode tab, you can set switch actuation, turn on and customize Rapid Trigger, program multiple inputs on individual keys, and set up gamepad emulation. It's not the most polished software I've used (updating the board's firmware was a little messy) but it wasn't too difficult to figure out.
@@ -154,6 +157,16 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -162,14 +175,16 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: Tom's Hardware)
-
-![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  You can also change the keyboard's lighting effects in Keychron Launcher, though you are limited to preset effects — most of which only offer customization in the way of speed and/or color. The lighting is bright — thanks to the keyboard's south-facing PCB — and vibrant enough that it looks good behind the Q1 HE's solid, non-shine-through keycaps.
@@ -186,10 +201,17 @@ Today's best Keychron Q1 deals
 
 ![Keychron Q1 HE](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Q1 HE has a 4,000 mAh battery that Keychron says will last "up to 100 hours" with the backlighting turned off. That's not terribly impressive given the keyboard's weight, but it also seems like plenty... given the keyboard's weight. I expect this nearly-four-pound keyboard will spend most of its time on desks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
  The Keychron Q1 HE QMK Wireless Custom keyboard is pretty impressive — even though every custom keyboard company seems to have a nearly identical offer._Nearly_ being the key word — the Q1 HE has the solid build and nice typing experience of the[Meletrix Boog75](https://tools.techidaily.com) , the tri-mode connectivity of the[Akko MOD007B-HE PC](https://tools.techidaily.com) , and the larger layout we wanted from the[Arbiter Studio Polar 65](https://tools.techidaily.com) .
@@ -216,3 +238,38 @@ Today's best Keychron Q1 deals
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzz-the-top-10-competitive-video-editors/"><u>[New] Beyond the Buzz  The Top 10 Competitive Video Editors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-dominate-online-chatter-secrets-to-buzz-creating/"><u>[New] Dominate Online Chatter  Secrets to Buzz-Creating</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-discovering-disconnected-users-in-social-network/"><u>[Updated] 2024 Approved  Discovering Disconnected Users in Social Network</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-download-free-tools-for-converting-fb-video-to-premium-mp4-quality-for-2024/"><u>[Updated] Download-Free Tools for Converting FB Video to Premium MP4 Quality for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-exclusive-pc-sound-recording-with-x-recorder-tool-for-2024/"><u>[Updated] Exclusive PC Sound Recording with X-Recorder Tool for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-chart-topping-tunes-compiling-an-impressive-youtube-playlist/"><u>[Updated] In 2024, Chart-Topping Tunes  Compiling an Impressive YouTube Playlist</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341712256-discover-the-unique-world-of-flsun-s1-fast-and-fun-solar-gadget/"><u>Discover the Unique World of FLSun S1 - Fast and Fun Solar Gadget!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tier-electronics-with-toms-hardware/"><u>Discovering Top-Tier Electronics with Tom's Hardware</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cutting-edge-video-editing-mastering-green-screen-integration/"><u>In 2024, Cutting Edge Video Editing  Mastering Green Screen Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flsun-s1-high-velocity-and-distinctive-delta-shape/"><u>In-Depth Analysis of the FLSun S1 - High Velocity and Distinctive Delta Shape</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-valkyrie-vind-sl125-stunning-anime-design-but-disappointing-functionality/"><u>In-Depth Analysis of the Valkyrie Vind SL125: Stunning Anime Design but Disappointing Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronics-analysis-by-tom-your-guide-to-top-tech-picks/"><u>In-Depth Electronics Analysis by Tom – Your Guide to Top Tech Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-hardware-journey/"><u>Mastering Gadgets with Tom - A Hardware Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-experts/"><u>Mastering Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-hub/"><u>Mastering Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-raspberry-pis-enhanced-speed-and-capacity-insights-from-our-in-depth-analysis-of-the-m2-hatplus/"><u>Navigating Through Raspberry Pi's Enhanced Speed and Capacity: Insights From Our In-Depth Analysis of the M.2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-western-digital-my-passport-6tb-portable-ssd-compact-yet-capacious/"><u>Review of the Western Digital My Passport 6TB Portable SSD - Compact Yet Capacious</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-the-keychron-k2-he-special-edition-a-blend-of-vintage-style-and-contemporary-functionality/"><u>Review: The Keychron K2 HE Special Edition - A Blend of Vintage Style and Contemporary Functionality</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/rugged-protection-meets-elegance-a-detailed-review-of-urban-armor-gears-macbook-pro-case/"><u>Rugged Protection Meets Elegance: A Detailed Review of Urban Armor Gear’s MacBook Pro Case</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-amd-ryzen-5-9600x-and-ryzen-7-9700xs-superior-gaming-capabilities-in-zen-5-era/"><u>The Game Changer: AMD Ryzen 5 9600X & Ryzen 7 9700X's Superior Gaming Capabilities in Zen 5 Era</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-kit-reviewed-exploring-its-capabilities-in-a-2x32gb-setup-at-5000mhz-and-cl4ncas-latency/"><u>The Kingston Fury Beast DDR5 Memory Kit Reviewed: Exploring Its Capabilities in a 2X32GB Setup at 5,000MHz and CL4n/CAS Latency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-odyssey-unveiling-the-power-of-gigabytes-aorus-fo32u2p-monitor-a-fusion-of-elegance-and-buttery-smooth-240-hz-gaming/"><u>The Ultimate 4K Odyssey: Unveiling the Power of Gigabyte's Aorus FO32U2P Monitor, a Fusion of Elegance & Buttery-Smooth 240 Hz Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-through-toms-hardware-experts/"><u>Unveiling Cutting-Edge Technology Through Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-electronics-with-toms-hardware-guidance/"><u>Unveiling the Best Electronics with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pixio-px277s-brilliance-a-comprehensive-review-for-gamers-seeking-excellence/"><u>Unveiling the Pixio PX277's Brilliance: A Comprehensive Review for Gamers Seeking Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-logitech-g-pro-x-2-lightspeed-the-ultimate-review-for-gamers-perfection/"><u>Unveiling the Power of the Logitech G Pro X 2 Lightspeed: The Ultimate Review for Gamers' Perfection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-lenovo-monitors-performance-with-the-latest-driver-software/"><u>Upgrade Your Lenovo Monitor's Performance with the Latest Driver Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-far-cry-6-game-crashes-on-desktops-effective-fixes-and-tweaks/"><u>Winning the Battle Against Far Cry 6 Game Crashes on Desktops: Effective Fixes and Tweaks</u></a></li>
+</ul></div>

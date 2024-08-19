@@ -1,7 +1,7 @@
 ---
 title: Top Redux Masterpieces of 2016 - We're Accepting Entries Now!
-date: 2024-08-17 10:51:46
-updated: 2024-08-18 11:28:44
+date: 2024-08-18T11:37:11.319Z
+updated: 2024-08-19T11:37:11.319Z
 tags:
   - build
 categories:
@@ -90,6 +90,9 @@ Deepcool Gamer Storm Gabriel
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
@@ -130,10 +133,20 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The rest of the assembly went just peachy. The slightly different port layout of the motherboard necessitated different cable routing, but that's it. Everything else is the exact same as the Intel build from a few days ago.
 
 ![](https://cdn.mos.cms.futurecdn.net/kiyNGE2ogxSRTZjnNEBoST-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Overclocking
 
  I did a little more digging on 860K overclocking after last quarter. Most FM2+ motherboards are very liberal with CPU voltage at stock levels. This means it's usually possible to overclock the CPU while undervolting it. This held true for my particular 860K. Stock voltage was set at 1.45V, but I was able to get it to run at 4.0GHz on only 1.35V. Lowering the voltage helped temperatures, but the CPU still has a pretty hard thermal ceiling that won't let it be pushed as much as it could. Regardless of cooling solution or voltage, the CPU cuts back to 3.5 to 3.7GHz when it hits 65 degrees C (total, not over ambient). Even with the cooler at full speed, I was occasionally hitting that ceiling under the most demanding workloads.
@@ -146,10 +159,17 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +190,61 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-the-art-of-viral-youtube-shorts-content/"><u>[New] 2024 Approved  Mastering the Art of Viral YouTube Shorts Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adobes-guide-to-memetic-artistry/"><u>[New] Adobe's Guide to Memetic Artistry</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-make-money-on-youtube-without-ads/"><u>[New] In 2024, How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-shorts-effective-income-strategies/"><u>[New] Mastering YouTube Shorts  Effective Income Strategies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-simplified-sound-conversion-top-6-apps-for-youtube-to-mp3-on-iphone/"><u>[New] Simplified Sound Conversion  Top 6 Apps for YouTube to MP3 on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-getting-more-out-of-youtube-top-8-mobile-downloader-tips-for-2024/"><u>[Updated] Getting More Out of YouTube  Top 8 Mobile Downloader Tips for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-stream-talent-twitter-live-broadcast-basics/"><u>[Updated] Stream Talent  Twitter Live Broadcast Basics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-zoom-essentials-for-webinar-novices-an-introductory-walkthrough-for-2024/"><u>[Updated] Zoom Essentials for Webinar Novices  An Introductory Walkthrough for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-ways-to-prevent-oculus-rift-vr-motion-sickness-for-2024/"><u>10 Ways to Prevent Oculus Rift VR Motion Sickness for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-realistic-blur-on-images-using-photoshop-techniques/"><u>Achieving Realistic Blur on Images Using Photoshop Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/assessing-the-lofree-edge-a-lightweight-thin-choice-comparatively-priced-against-the-apple-magic-keyboard/"><u>Assessing the Lofree Edge: A Lightweight, Thin Choice - Comparatively Priced Against the Apple Magic Keyboard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blackout-brilliance-using-dark-settings-in-microsoft-paint/"><u>Blackout Brilliance: Using Dark Settings in Microsoft Paint</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-mechanical-switches-with-the-logitech-g515-lightspeed-tkl-review/"><u>Discover the Best Value in Mechanical Switches with the Logitech G515 Lightspeed TKL Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-why-every-keysnobber-awaits-the-keychron-q1-he-an-exhaustive-review-of-this-top-tier-mechanical-keyboard/"><u>Discover Why Every Keysnobber Awaits the Keychron Q1-HE: An Exhaustive Review of This Top-Tier Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-components-with-toms-hardware-a-detailed-insight/"><u>Discovering Components with Tom’s Hardware - A Detailed Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-the-ultimate-review-of-the-id-cooling-frozn-a620-pro-ses-unparalleled-value-and-quality/"><u>Elevate Your Gaming Experience - The Ultimate Review of the ID-Cooling Frozn A620 Pro SE's Unparalleled Value and Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-home-networking-experience-with-the-asus-rog-rapture-gt-be9-cu-7-a-detailed-performance-review/"><u>Elevate Your Home Networking Experience with the Asus ROG Rapture GT-BE9 Cu 7 - A Detailed Performance Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-ultra-fast-ddr5-6000-16gb-crucial-ram-overclocked-review/"><u>Expert Insight on Ultra-Fast DDR5-6000 16GB Crucial RAM Overclocked Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-components-with-toms-hardware-experts/"><u>Exploring PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-a-comprehensive-guide/"><u>Exploring Technology with Tom: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-capabilities-of-the-geekworm-x1011-as-a-nas-solution/"><u>Exploring the Capabilities of the Geekworm X1011 as a NAS Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/frozn-a620-pro-se-by-id-cooling-an-unmatched-investment-in-cooling-technology/"><u>Frozn A620 Pro SE by ID-Cooling - An Unmatched Investment in Cooling Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-8-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 8 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-smart-8-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Smart 8?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-an-insiders-guide-to-flawlessly-integrating-tracks-on-youtube/"><u>In 2024, An Insider's Guide to Flawlessly Integrating Tracks on YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-critical-acclaim-top-9-web-recording-microphones-of-the-year-23/"><u>In 2024, Critical Acclaim  Top 9 Web Recording Microphones of the Year ('23)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-guide-to-extracting-and-refining-your-audacity-recordings-as-mp3s/"><u>In 2024, Guide to Extracting and Refining Your Audacity Recordings as MP3s</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-why-the-logitech-g-pro-x-2-lightspeed-is-essential-for-hardcore-gamers/"><u>In-Depth Review: Why the Logitech G Pro X 2 Lightspeed Is Essential for Hardcore Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-and-green-gaming-memory-on-test-a-thorough-analysis-of-the-t-force-vulcan-by-teamgroup-c30-2x16gb/"><u>Innovative and Green Gaming Memory on Test - A Thorough Analysis of the T-Force Vulcan by TeamGroup (C30, 2X16GB)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676801-is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-evaluation-sleek-design-and-premium-cost-compared-to-apples-magic-keyboard/"><u>Lofree Edge Evaluation: Sleek Design & Premium Cost Compared to Apple's Magic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-toms-expert-analysis-on-computer-hardware/"><u>Navigating the Tech World: Tom's Expert Analysis on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware-analysis/"><u>Navigating the World of PC Gear: Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-analysis-and-gadget-testing-by-toms-hardware/"><u>Performance Analysis and Gadget Testing by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-electronic-evaluations-the-toms-hardware-methodology/"><u>Precision Electronic Evaluations - The Tom's Hardware Methodology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v16-files-by-stellar-guide/"><u>Quickly Repair Damaged PDF v1.6 Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-flsun-s1-high-speed-performance-in-a-quirky-design/"><u>Review of FLSun S1: High-Speed Performance in a Quirky Design</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-removing-your-pics-photos-and-images-from-icloud-securely/"><u>Step-by-Step Guide: Removing Your Pics, Photos & Images From iCloud Securely</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-a-deep-dive-into-the-strengths-and-weaknesses-of-the-cooler-master-ion-amoled-liquid-cpu-cooler-moving-forward-with-caution/"><u>Taking a Deep Dive Into the Strengths and Weaknesses of the Cooler Master ION Amoled Liquid CPU Cooler: Moving Forward with Caution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-parts-with-toms-analysis/"><u>The Ultimate Guide to Computer Parts with Tom's Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-mastering-the-raspberry-pi-ai-project-pack/"><u>The Ultimate Guide to Mastering the Raspberry Pi AI Project Pack</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-hardware/"><u>Tom's Tech Review: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Top Hardware</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unify-monitor-edges-seamlessly/"><u>Unify Monitor Edges Seamlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware/"><u>Unlocking Computer Secrets with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-toms-hardware-guide/"><u>Unveiling the Latest in Computer Components - Tom's Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-a-look-at-toms-hardware-findings/"><u>Unveiling the Latest in Electronics - A Look at Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/water-conservation/"><u>Water Conservation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341743549-wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of!</u></a></li>
+</ul></div>

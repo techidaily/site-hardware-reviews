@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Reviews: The Ultimate Guide to Computer Components and Gadgets"
-date: 2024-08-15 15:29:11
-updated: 2024-08-18 10:24:59
+date: 2024-08-18T11:29:59.126Z
+updated: 2024-08-19T11:29:59.126Z
 tags:
   - ram
 categories:
@@ -210,6 +210,9 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
  The Dominator Titanium took first place in the cumulative application performance chart. The memory kit outperformed the 4GB (2x32GB) competitors despite some workloads, such as Adobe Premiere, that favor higher-capacity memory kits. It wasn't a huge lead, but enough to put the Dominator Titanium at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AMD Performance
 
  Image 1 of 20
@@ -228,6 +231,63 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -240,6 +300,9 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -248,42 +311,24 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -296,6 +341,9 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
  However, the memory kit delivered a different level of performance on the AMD platform, where it ranked last cumulatively. It gets outpaced by the rivaling[Trident Z5 RGB DDR5-7200 C36](https://tools.techidaily.com) memory kit. However, the performance difference between the 48GB and 64GB memory kits was more marked on the AMD system.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overclocking and Latency Tuning
 
  Image 1 of 3
@@ -310,10 +358,16 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 ![Corsair Dominator Titanium First Edition DDR5-7200 C36](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
  Corsair Dominator Titanium First Edition DDR5-7200 C36  (Image credit: Tom's Hardware)
 
  The overclocked XMP 3.0 profile on the Dominator Titanium uses 1.4V for DDR5-7400, similar to DDR5-7200\. It was possible to maintain the same voltage because Corsair loosened the timings from 36-46-46-116 to 38-48-48-120\. The M-die ICs have more headroom if you're enthusiastic enough to push a higher DRAM voltage. At 1.45V, the memory can not problem operating at DDR5-7800 with identical DDR5-7200 timings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Lowest Stable Timings
 
  Swipe to scroll horizontally
@@ -375,3 +429,54 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-how-to-change-youtube-video-playback-speed-desktopmobile/"><u>[New] How to Change YouTube Video Playback Speed [Desktop/Mobile]</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-jump-into-action-on-tiktok-live-easy-methods-revealed-for-2024/"><u>[New] Jump Into Action on TikTok Live  Easy Methods Revealed for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-keep-your-iphone-video-steady-three-effective-stabilization-tips/"><u>[New] Keep Your iPhone Video Steady  Three Effective Stabilization Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-comparison-vsdc-screen-recorder-vs-other-leading-solutions/"><u>[New] The Ultimate Comparison  VSDC Screen Recorder vs Other Leading Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-featured-social-media-exchange-for-2024/"><u>[Updated] Discovering Featured Social Media Exchange for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-usb-c-revolution-in-monitors-hp-envy-27s-journey/"><u>[Updated] USB-C Revolution in Monitors  HP Envy 27'S Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-next-level-mp4-experience-integrating-advanced-srt-audio/"><u>2024 Approved  Next-Level MP4 Experience  Integrating Advanced SRT Audio</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anime-style-lackluster-power-uncovering-the-truth-behind-valkyrie-vind-sl1n3-review/"><u>Anime Style, Lackluster Power: Uncovering the Truth Behind Valkyrie Vind SL1n3 Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341735072-approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-vivo-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Vivo .</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-guides-from-toms-digital-workshop/"><u>Comprehensive Computer Guides From Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-lenovo-yoga-pro-9i-assessment-insight-on-durable-keyboard-and-slim-design/"><u>Comprehensive Lenovo Yoga Pro 9I Assessment: Insight on Durable Keyboard & Slim Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-unleashing-the-power-of-amd-ryzen-r9-5900hx-in-the-new-asus-zenbook-s16/"><u>Comprehensive Review: Unleashing the Power of AMD Ryzen R9 5900HX in the New Asus Zenbook S16</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-advanced-gadgets-in-depth-reviews-by-toms-hardware-professionals/"><u>Decoding Advanced Gadgets: In-Depth Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-tech-trends-with-toms-hardware-expertise/"><u>Discover the Latest Tech Trends with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-hardware-the-ultimate-guide-to-tech-reviews-and-comparisons/"><u>Discover Tom's Hardware: The Ultimate Guide to Tech Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-a-deep-dive-into-hardware-by-tomsphere/"><u>Exploring Advanced Tech: A Deep Dive Into Hardware by TomSphere</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/green-consumerism/"><u>Green Consumerism</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-15-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 15 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-color-grading-plugins-top-15-luts-for-action-cams/"><u>In 2024, Best Color Grading Plugins  Top 15 LUTs For Action Cams</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-captivating-asmr-scenes-techniques-for-successful-recording/"><u>In 2024, Crafting Captivating ASMR Scenes  Techniques for Successful Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-secrets-to-mastering-canva-10-insider-tips-for-editors/"><u>In 2024, Secrets to Mastering Canva  10 Insider Tips for Editors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-step-by-step-for-swift-reaction-in-discord-dialogues/"><u>In 2024, Step by Step for Swift Reaction in Discord Dialogues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-the-ultimate-qhd-180hz-gamers-display/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS - The Ultimate QHD 180Hz Gamer's Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-newly-launched-geekworm-x1011-network-storage-device/"><u>In-Depth Look at the Newly Launched GeekWorm X1011 Network Storage Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-snapshots-and-cloud-continuity-how-to-keep-deleted-images-and-solve-issues-with-8-hacks/"><u>IPhone Snapshots & Cloud Continuity: How to Keep Deleted Images, and Solve Issues with 8 Hacks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/master-the-art-of-vlogging-starting-kit-and-tools/"><u>Master the Art of Vlogging  Starting Kit & Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-toms-hardware-experts/"><u>Navigating New Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-horizons-in-depth-analysis-by-toms-hardware-experts/"><u>Navigating New Tech Horizons: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-insights/"><u>Navigating the World of Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-downloads-needed-10-free-online-video-compressor-options/"><u>New In 2024, No Downloads Needed 10 Free Online Video Compressor Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers4/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photographic-standouts-with-our-top-10-grid-picks/"><u>Photographic Standouts with Our Top 10 Grid Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-alert-the-atlas-air-from-turtle-beach-delivers-top-tier-acoustics/"><u>Review Alert! The ATLAS Air From Turtle Beach Delivers Top-Tier Acoustics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-asrock-b760m-pro-rs-economical-and-feature-rich-for-enthusiasts/"><u>Review of ASRock B760M Pro RS: Economical & Feature-Rich for Enthusiasts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-finding-intel-irisplus-gfx-655-drivers-for-your-windows-10-or-11-computer/"><u>Step-by-Step Guide to Finding Intel Iris+ GFX #655 Drivers for Your Windows 10 or 11 Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-file-format-alterations-on-your-pc/"><u>Streamline File Format Alterations on Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-comprehensive-tech-reviews-and-advice/"><u>Tom's Computing: Comprehensive Tech Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-productivity-a-detailed-look-at-hp-omnibook-xs-revolutionary-16-hour-endurance-powered-by-xpower-processor/"><u>Transforming Productivity: A Detailed Look at HP OmniBook X's Revolutionary 16-Hour Endurance Powered by XPower Processor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-diy-repair-dealing-with-nonfunctional-stylus-on-hp-envy-x2-touchscreen/"><u>Ultimate DIY Repair: Dealing with Nonfunctional Stylus on HP Envy X2 Touchscreen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-lofree-edge-delicate-and-pricy-against-apples-magic-type-cover/"><u>Unboxing the Lofree Edge: Delicate and Pricy Against Apple’s Magic Type Cover</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-premium-gaming-performance-with-the-budget-friendly-acer-predator-orion-5000-reviewed/"><u>Unlocking Premium Gaming Performance with the Budget-Friendly Acer Predator Orion 5000 - Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-lenovo-yoga-pro-cuarto-de-hora-a-critique-on-its-enduring-keyboard-and-lightweight-structure/"><u>Unveiling the Lenovo Yoga Pro Cuarto De Hora - A Critique on Its Enduring Keyboard and Lightweight Structure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strongest-nvme-cooling-solution-on-the-market-the-ultimate-teamgroup-t-force-dark-airflow-i-heatsink-review/"><u>Unveiling the Strongest NVMe Cooling Solution on the Market - The Ultimate TeamGroup T-Force Dark AirFlow I Heatsink Review</u></a></li>
+</ul></div>

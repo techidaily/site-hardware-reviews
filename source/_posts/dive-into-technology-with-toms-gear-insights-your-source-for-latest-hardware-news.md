@@ -1,7 +1,7 @@
 ---
 title: "Dive Into Technology with Tom's Gear Insights: Your Source for Latest Hardware News"
-date: 2024-08-17 16:21:31
-updated: 2024-08-18 12:17:57
+date: 2024-08-18T11:37:22.050Z
+updated: 2024-08-19T11:37:22.050Z
 tags:
   - build
 categories:
@@ -31,6 +31,11 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 4. [System Value Compared](https://tools.techidaily.com)
 5. $912 AMD LAN Box PC
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## $912 AMD LAN Box PC
 
  Even though my Intel-based revision of this quarter vindicates my assessments last quarter, a number of readers are still convinced that a properly cooled and overclocked 860K is the gateway to budget gaming goodness. After experiencing the limitations and frustrations last quarter, I still have my reservations. However, the SBM is a perfect place to empirically test this and give AMD's budget quad-core every chance to prove itself.
@@ -86,14 +91,25 @@ Deepcool Gamer Storm Gabriel
 
  Every component is identical to the Intel build earlier this week except the CPU, cooler and motherboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The Definition of Insanity
 
  Some of you out there might be groaning and asking, "What, this again?" Hold on a minute. Those asking for a better 860K overclock have a valid argument. The 860K was handicapped last quarter with insufficient cooling to get any kind of meaningful overclock. You can't argue with that. This time around the CPU gets better treatment in the form of an aftermarket cooler and a larger case. So no, we're not trying the exact same thing and expecting different results. Do I expect the 860K to outperform the i3-4170? No, I don't. However, in order for me to prove that one way or the other, I need hard numbers and data. I'm curious to see if it can close the gap, if not overcome it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Alternate Component Selection
 
  I don't need to spend time explaining the same parts from[two days ago](https://tools.techidaily.com) . To save space and time, I'll only address the three new components.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -126,6 +142,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://cdn.mos.cms.futurecdn.net/nKfSxuUzQNwqBkyJ4996bk-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
  If the fins were a little thinner or my RAM didn't have a heat spreader, this would be a non-issue. It's still not technically a problem. It doesn't keep the RAM from being installed, it doesn't even put flex on the RAM stick. It's just annoying that a cooler marketed as designed specifically for ITX cooling seems to be borderline incompatible with every current AMD ITX motherboard (every model on Newegg right now has the CPU socket oriented the same way). Perhaps some of them have RAM slots a little farther from the CPU socket, which would solve this, but if Deepcool wanted to be universally compatible, shaving a few millimeters off the fins would have accomplished this without impacting thermal performance.
 
 ![](https://cdn.mos.cms.futurecdn.net/EkXfRYe3XW8vhT2PuH7XkJ-320-80.jpg)
@@ -150,6 +169,9 @@ Deepcool Gamer Storm Gabriel
 
 ![](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The RAM caused me no end of heartburn and frustration. I kept running into seemingly random crashes, regardless of RAM timings. I worried the RAM was somehow bad, but it worked flawlessly in the Intel build. After a quick appeal for help to Thomas, I found the motherboard simply required at least 1.64V to run the RAM, even at stock speeds. Again, the Intel build had no problem with 1.5V. I've never seen a motherboard that's more stable overclocked than at stock speeds, until now.
 
  My system this time around was only capable of reaching DDR3-2133, a bit shy of the 2400 speeds I got last quarter. I did get respectable timings of 10-11-10-31, but that was the limit. Along with the RAM, I upped the northbridge from 1800 to 2000MHz with only a slight bump in voltage to 1.1625V. I wasn't trying to match the frequency of last quarter, I simply couldn't boot the machine at anything past 2000MHz.
@@ -170,3 +192,51 @@ Deepcool Gamer Storm Gabriel
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2023-fb-link-collection-access-8-free-and-online-downloads-for-2024/"><u>[New] 2023 FB Link Collection  Access 8 Free & Online Downloads for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-and-easy-conducting-instagram-stories-polls-today/"><u>[New] Quick & Easy  Conducting Instagram Stories Polls Today</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-storage-odyssey-navigating-cloud-leaders-of-2024/"><u>[New] The Ultimate Storage Odyssey  Navigating Cloud Leaders of 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ryan-kajis-net-worth-11-year-old-boy-gets-highest-paid-from-youtube/"><u>[Updated] Ryan Kaji’s Net Worth  11-Year-Old Boy Gets Highest-Paid From YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-rise-of-vidma-transforming-the-landscape-of-capture-technology/"><u>[Updated] The Rise of Vidma  Transforming the Landscape of Capture Technology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-11-budget-friendly-creativity-for-youtube-names/"><u>[Updated] Unlock 11 Budget-Friendly Creativity for YouTube Names</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube/"><u>2024 Approved  A Comprehensive Guide to the Best Makeup Tutorials on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-framelight-free-elevate-mobile-photography-today/"><u>2024 Approved  Framelight Free  Elevate Mobile Photography Today</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-sprinkle-spirits-into-your-screens-animated-text-techniques/"><u>2024 Approved  Sprinkle Spirits Into Your Screens  Animated Text Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-speed-demon-with-style-in-depth-evaluation-of-flsun-s1-model/"><u>A Speed Demon with Style – In-Depth Evaluation of FLSun S1 Model</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bringing-color-to-your-gameplay-viewsonics-240hz-xg272-oled-monitor-reviewed-in-detail/"><u>Bringing Color to Your Gameplay: ViewSonic's 240Hz XG272 OLED Monitor Reviewed in Detail</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/community-gardens-and-cooperatives/"><u>Community Gardens and Cooperatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-technology-products-according-to-toms-experts/"><u>Comprehensive Guide to Technology Products According to Tom's Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-engagement-crafting-instagram-highlights-in-3-steps-for-2024/"><u>Elevate Engagement  Crafting Instagram Highlights in 3 Steps for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-networking-platforms-youtube-instagram-and-twitter/"><u>Exploring Top Networking Platforms: YouTube, Instagram, and Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-your-pc-solutions-to-overcome-missing-or-inaccessible-msvcr71dll-errors/"><u>Fix Your PC! Solutions to Overcome Missing or Inaccessible msvcr71.dll Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-flight-to-frame-editing-drones-into-art/"><u>From Flight to Frame  Editing Drones Into Art</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-low-cost-storage-comprehensive-review-of-the-hatdrive-nano-ssd-for-pi-enthusiasts/"><u>High-Performance, Low-Cost Storage: Comprehensive Review of the HatDrive! Nano SSD for Pi Enthusiasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-se-2022-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone SE (2022) using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x9b-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X9b to New Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-cost-effective-way-to-capture-every-frame-with-free-tools/"><u>In 2024, The Cost-Effective Way to Capture Every Frame with Free Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-expert-team/"><u>In-Depth Analysis of Electronics by Tom's Expert Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-philips-evonia-49m2c8900-monitor-with-quantum-dot-oled-technology-for-gaming-excellence-240hz/"><u>In-Depth Analysis: Philips Evonia 49M2C8900 Monitor with Quantum Dot OLED Technology for Gaming Excellence (240Hz)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insight-into-akasa-geckos-blower-cooler-performance-in-securing-enhanced-ssd-temperature-regulation/"><u>In-Depth Insight Into Akasa Gecko's Blower Cooler Performance in Securing Enhanced SSD Temperature Regulation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-6tb-capacity-and-sturdy-design-of-my-passport-by-western-digital/"><u>In-Depth Look at the 6TB Capacity and Sturdy Design of My Passport by Western Digital</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-hostinger-comparing-their-vps-cloud-compute-and-shared-server-services/"><u>In-Depth Review of Hostinger - Comparing Their VPS, Cloud Compute, and Shared Server Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-digital-workshop-a-closer-look-at-cutting-edge-hardware/"><u>Inside Tom's Digital Workshop: A Closer Look at Cutting-Edge Hardware</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-tech-update-nvidia-970-for-windows-11-users/"><u>Latest Tech Update: Nvidia 970 for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-computer-setup-advanced-reviews-by-toms-hardware-experts/"><u>Master Your Computer Setup: Advanced Reviews by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-expertise-from-toms-hardware/"><u>Mastering Gadgets & Gizmos with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-the-tom-approach/"><u>Mastering Gadgets: The Tom Approach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-authority/"><u>Navigating the World of Computer Hardware with Tom's Authority</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-5-best-free-mov-video-joiners-for-2024/"><u>New Top 5 Best Free MOV Video Joiners for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-premium-class-leader-asus-rog-rapture-gt-be98-pro-wifi-7-superior-functionality-and-upgradable-features/"><u>Reviewing the Premium Class-Leader, Asus ROG Rapture GT-BE98 Pro WIFI 7: Superior Functionality & Upgradable Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-cooler-master-ion-360-aio-cooling-solution-stepping-forward-yet-facing-backtrack-moments/"><u>The Cooler Master ION 360 AIO Cooling Solution - Stepping Forward, Yet Facing Backtrack Moments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-id-cooling-frozn-a620-pro-se-revolutionizing-value-with-advanced-cooling-innovation-for-pc-enthusiasts/"><u>The ID-Cooling Frozn A620 Pro SE: Revolutionizing Value with Advanced Cooling Innovation for PC Enthusiasts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-top-tier-pc-parts-by-toms-technology-experts/"><u>The Ultimate Guide to Top-Tier PC Parts by Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-your-guide-to-the-latest-tech/"><u>Tom's Computer Review: Your Guide to the Latest Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-gadgets-reviewed/"><u>Tom's Tech Hub: Innovative Gadgets Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-sabrent-rocket-nano-a-comprehensive-review-of-the-m2-2242-1tb-ssd-benchmark-king/"><u>Unboxing the Sabrent Rocket Nano: A Comprehensive Review of the M.2 2242 1TB SSD Benchmark King</u></a></li>
+</ul></div>

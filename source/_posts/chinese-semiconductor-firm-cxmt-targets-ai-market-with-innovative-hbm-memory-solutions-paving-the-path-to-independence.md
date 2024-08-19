@@ -1,7 +1,7 @@
 ---
 title: Chinese Semiconductor Firm CXMT Targets AI Market with Innovative HBM Memory Solutions, Paving the Path to Independence
-date: 2024-08-15 11:33:11
-updated: 2024-08-18 11:37:55
+date: 2024-08-18T11:30:02.711Z
+updated: 2024-08-19T11:30:02.711Z
 tags:
   - ram
 categories:
@@ -210,6 +210,10 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
  The Dominator Titanium took first place in the cumulative application performance chart. The memory kit outperformed the 4GB (2x32GB) competitors despite some workloads, such as Adobe Premiere, that favor higher-capacity memory kits. It wasn't a huge lead, but enough to put the Dominator Titanium at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## AMD Performance
 
  Image 1 of 20
@@ -220,6 +224,71 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+DDR5 Review  (Image credit: Tom's Hardware)
+
+![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -248,54 +317,16 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 ![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
-DDR5 Review  (Image credit: Tom's Hardware)
-
-![DDR5 Review](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 DDR5 Review  (Image credit: Tom's Hardware)
 
  However, the memory kit delivered a different level of performance on the AMD platform, where it ranked last cumulatively. It gets outpaced by the rivaling[Trident Z5 RGB DDR5-7200 C36](https://tools.techidaily.com) memory kit. However, the performance difference between the 48GB and 64GB memory kits was more marked on the AMD system.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Overclocking and Latency Tuning
 
  Image 1 of 3
@@ -310,10 +341,16 @@ DDR5 Review  (Image credit: Tom's Hardware)
 
 ![Corsair Dominator Titanium First Edition DDR5-7200 C36](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
  Corsair Dominator Titanium First Edition DDR5-7200 C36  (Image credit: Tom's Hardware)
 
  The overclocked XMP 3.0 profile on the Dominator Titanium uses 1.4V for DDR5-7400, similar to DDR5-7200\. It was possible to maintain the same voltage because Corsair loosened the timings from 36-46-46-116 to 38-48-48-120\. The M-die ICs have more headroom if you're enthusiastic enough to push a higher DRAM voltage. At 1.45V, the memory can not problem operating at DDR5-7800 with identical DDR5-7200 timings.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Lowest Stable Timings
 
  Swipe to scroll horizontally
@@ -361,6 +398,10 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -375,3 +416,41 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enrich-engagement-tailored-questions-for-ig-story-boosting/"><u>[New] In 2024, Enrich Engagement  Tailored Questions for IG Story Boosting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-premier-popularity-prognosticator-for-video-charts/"><u>[New] In 2024, Premier Popularity Prognosticator for Video Charts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-screen-recording-in-win10-gaming/"><u>[New] Step-by-Step  Screen Recording in Win10 Gaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-10-proven-steps-to-skyrocket-traffic-via-facebook-videos/"><u>[Updated] In 2024, 10 Proven Steps to Skyrocket Traffic via Facebook Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-microscopic-views-in-microsoft-teams-chat/"><u>2024 Approved  Mastering the Microscopic Views in Microsoft Teams Chat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-transform-screen-shots-to-videos-mastery-in-aiseesofts-screencast-tools/"><u>2024 Approved  Transform Screen Shots to Videos  Mastery in Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-the-ultimate-asus-rog-azoth-extreme-review-at-half-a-grand/"><u>Affordable Powerhouse: The Ultimate Asus ROG Azoth Extreme Review at Half-a-Grand</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-deliver-pure-magic-play/"><u>Can AM08 Pro Deliver Pure Magic Play?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gigabyte-b650-aorus-elite-ax-ice-motherboard-assessment-high-costs-meet-high-end-features/"><u>Comprehensive Gigabyte B650 Aorus Elite AX Ice Motherboard Assessment: High Costs Meet High-End Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-patriot-viper-vp4300-lite-4tb-ssd-power-and-price-breakdown/"><u>Comprehensive Guide: Patriot Viper VP4300 Lite 4TB SSD - Power and Price Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-trends-insightful-analysis-of-new-hardware-by-tom/"><u>Decoding Tech Trends: Insightful Analysis of New Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-transport/"><u>Eco-Friendly Transport</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-sound-quality-with-the-turtle-beach-atlas-air-an-in-depth-review/"><u>Experience Unmatched Sound Quality with the Turtle Beach ATLAS Air – An In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-gadget-analysis-toms-technological-wisdom/"><u>Expert Gadget Analysis - Tom’s Technological Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-insights-from-toms-hardware/"><u>Exploring the Latest in Tech: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-6s-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 6s Screen | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-lava-blaze-2-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lava Blaze 2 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-f34-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy F34 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-rage-quarters-and-swords-nintendo-switch-fighting-classics/"><u>In 2024, Rage Quarters & Swords  Nintendo Switch Fighting Classics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-steps-to-ensure-quality-film-with-your-iphone/"><u>In 2024, Steps to Ensure Quality Film with Your iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-hostgator-vps-vs-shared-web-hosting-options/"><u>In-Depth Evaluation of HostGator VPS Vs. Shared Web Hosting Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-hardware-tech-top-picks-from-toms-investigation/"><u>Inside Scoop on Hardware Tech - Top Picks From Tom's Investigation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-graphics-battlefield-the-unmatched-prowess-of-amd-ryzen-5-and-ryzen-7-with-zen-5-architecture/"><u>Mastering the Graphics Battlefield: The Unmatched Prowess of AMD Ryzen 5 and Ryzen 7 with Zen 5 Architecture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-horizons-a-comprehensive-guide-by-tom/"><u>Navigating New Tech Horizons: A Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-landscape-unveiling-secrets-from-toms-hardware-experts/"><u>Navigating the Tech Landscape: Unveiling Secrets From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-digital-craftsmanship-diary-by-toms-tech-workshop/"><u>The Digital Craftsmanship Diary by Tom's Tech Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-netgear-orbi-ac770-wi-fi-mesh-router-reviewed-a-wallet-friendly-option-in-a-sea-of-expensive-competitors/"><u>The Netgear Orbi (AC770) Wi-Fi Mesh Router Reviewed - A Wallet-Friendly Option in a Sea of Expensive Competitors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-oled-gaming-display-a-thorough-review-of-gigabyeet-aorus-fo32u2p-with-exceptional-speed-and-style-for-serious-gamers/"><u>The Ultimate 4K OLED Gaming Display - A Thorough Review of Gigabyeet Aorus FO32U2P with Exceptional Speed & Style for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-analysis-decoding-the-latest-tech-innovations/"><u>Tom's Hardware Analysis: Decoding the Latest Tech Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-editors-for-action-cam-footage-for-2024/"><u>Top Editors for Action Cam Footage for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-evaluation-of-the-google-wireless-nest-doorbell-on-batteries/"><u>Ultimate Evaluation of the Google Wireless Nest Doorbell on Batteries</u></a></li>
+</ul></div>

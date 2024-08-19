@@ -1,7 +1,7 @@
 ---
 title: "US Court Battle: YMTC Vs. Micron Over Intellectual Property Rights, Alleging Infringement of Eleven Patents From China's Memory Sector"
-date: 2024-08-15 12:19:37
-updated: 2024-08-17 10:53:34
+date: 2024-08-18T11:40:03.925Z
+updated: 2024-08-19T11:40:03.925Z
 tags:
   - ssd
 categories:
@@ -109,16 +109,25 @@ Show More Deals
 
  If you happen to get the RGB or Epic-X version of the CS3150, PNY supplies its VelocityX RGB control software. This can sync with other PNY RGB products, namely GPUs and DRAM. For[benchmarking](https://tools.techidaily.com) and drive health information, we recommend CrystalDiskMark and CrystalDiskInfo. For cloning and imaging, the free Clonezilla is a good place to start.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PNY CS3150 — A Closer Look
 
  Image 1 of 2
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Our review sample is the CS3150 1TB model with a black heatsink, with the optional RGB lighting. The drive is available in white or black, with or without RGB. The RGB version has a shorter heatsink underneath the fan shroud.  
@@ -135,10 +144,16 @@ Show More Deals
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![PNY CS3150 1TB SSD](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -229,6 +244,9 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -243,3 +261,51 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-beginners-guide-going-live-with-ease-on-facebook/"><u>[New] Beginner’s Guide  Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-understanding-video-standards-on-the-microblogging-site/"><u>[New] In 2024, Understanding Video Standards on the Microblogging Site</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-creating-channel-names-that-capture-attention-for-2024/"><u>[Updated] Creating Channel Names That Capture Attention for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enabling-pip-for-youtube-viewing-on-your-iphone-for-2024/"><u>[Updated] Enabling PIP for YouTube Viewing on Your iPhone for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-ad-free-android-video-maker/"><u>[Updated] In 2024, Ultimate Ad-Free Android Video Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncomplicated-strategy-for-fish-phonetics-tweaking/"><u>2024 Approved  Uncomplicated Strategy for Fish Phonetics Tweaking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-raspberry-pi-performance-boost-with-the-new-m2-hatplus-an-in-depth-review/"><u>Affordable Raspberry Pi Performance Boost with the New M.2 HAT+ - An In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-review-unveiling-the-power-of-miniaturized-wi-fi/"><u>ASRock Z790I Lightning Wireless Review: Unveiling the Power of Miniaturized Wi-Fi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-of-the-year-top-10-iphone-data-rescue-apps-with-ios-17-compatibility/"><u>Best of the Year: Top 10 iPhone Data Rescue Apps with iOS 17 Compatibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-with-tom-into-modern-computing-equipment/"><u>Deep Dive with Tom Into Modern Computing Equipment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/delving-into-ai-categories-discerning-the-unique-features-of-public-private-and-personal-ai/"><u>Delving Into AI Categories: Discerning the Unique Features of Public, Private & Personal AI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-computing-with-toms-hardware-experts/"><u>Discover the Best in Computing with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-our-comprehensive-review-of-id-coolings-frozn-a620-pro-se/"><u>Elevate Your Gaming Experience with Our Comprehensive Review of ID-Cooling's Frozn A620 PRO SE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-and-systems-by-toms-hardware/"><u>Expert Analysis on Gadgets and Systems by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-assessment-of-the-clevetura-clvx-1-bluetooth-keyboard-with-a-focus-on-touch-response/"><u>Expert Assessment of the Clevetura CLVX-1 Bluetooth Keyboard with a Focus on Touch Response</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-gear-hub/"><u>Exploring Technology with Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-experience-enhanced-with-the-aorus-co49dq-oled-by-gigabyte-an-insight-into-its-amazing-colors-and-contrast-quality/"><u>Gaming Experience Enhanced with the Aorus CO49DQ OLED by Gigabyte - An Insight Into Its Amazing Colors & Contrast Quality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-gt-5-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme GT 5 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-plus-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s Plus to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-electronics-guide/"><u>In-Depth Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-asus-rog-swift-pg3-similar-problem/"><u>In-Depth Asus ROG Swift PG3 # Similar Problem</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-circuitry-world-the-ultimate-insights-into-modern-hardware/"><u>Inside Tom's Circuitry World: The Ultimate Insights Into Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-in-depth-analysis-and-gear-reviews/"><u>Inside Tom's Hardware: In-Depth Analysis and Gear Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gear-choices-with-expert-advice-from-toms-equipment-hub/"><u>Master Your Gear Choices with Expert Advice From Tom's Equipment Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-into-computer-components-from-toms-hardware/"><u>Mastering Technology: Insights Into Computer Components From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-gameplay-in-depth-review-of-the-45-inch-curved-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Maximizing Your Gameplay: In-Depth Review of the 45-Inch Curved OLED Monitor AOC Agon Pro AG456UCZD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/multiple-lines/"><u>Multiple Lines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-tom-your-ultimate-guide-to-new-hardware/"><u>Navigating Technology with Tom - Your Ultimate Guide to New Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/netgears-value-proposition-with-the-orbi-770-mesh-router-balancing-price-point-and-performance/"><u>Netgear's Value Proposition with the Orbi 770 Mesh Router - Balancing Price Point and Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-xs-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone XS Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discoveries-the-world-of-toms-technology-insight/"><u>Pioneering Hardware Discoveries: The World of Tom's Technology Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-compute-module-4s-revolutionizing-industrial-automation-a-detailed-examination/"><u>Raspberry Pi Compute Module 4S: Revolutionizing Industrial Automation - A Detailed Examination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-the-asus-rog-strix-xg27acs-where-speed-meets-accuracy-in-an-180hz-gaming-experience/"><u>Review: The Asus ROG Strix XG27ACS, Where Speed Meets Accuracy in an 180Hz Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-new-era-of-industrial-iot-with-raspberry-pis-compute-module-4s/"><u>Reviewing the New Era of Industrial IoT with Raspberry Pi's Compute Module 4S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-in-computing-tips-and-reviews-from-toms-hardware-experts/"><u>Stay Ahead in Computing: Tips and Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12r-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12R FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-gadgets-with-expert-guidance-from-toms-hardware/"><u>Unlock the Secrets of Gadgets with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-closer-look-at-components-with-toms-hardware/"><u>Unveiling Tech Secrets: A Closer Look at Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+</ul></div>

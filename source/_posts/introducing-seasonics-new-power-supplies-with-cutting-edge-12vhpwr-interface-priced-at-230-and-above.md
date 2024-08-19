@@ -1,7 +1,7 @@
 ---
 title: Introducing Seasonic's New Power Supplies with Cutting-Edge 12VHPWR Interface Priced at $230 and Above
-date: 2024-08-17 17:56:36
-updated: 2024-08-18 11:54:15
+date: 2024-08-18T11:32:36.231Z
+updated: 2024-08-19T11:32:36.231Z
 tags:
   - power-supply
 categories:
@@ -72,14 +72,23 @@ Category
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/chevron-left.svg "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
  Back to Everything
 
 Brand
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
  Elgato
 
  GIGABYTE
@@ -92,6 +101,9 @@ Colour
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Black
 
  White
@@ -100,6 +112,9 @@ Price
 
 ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Any Price
 
  Showing 10 of 40 deals
@@ -108,6 +123,9 @@ Any Price
 
 SORT BY Price (low to high)  Price (high to low) Product Name (A to Z)  Product Name (Z to A)  Retailer name (A to Z)  Retailer name (Z to A) ![Arrow](https://search-api.fie.futurecdn.net/img/misc/arrow_down.png "Arrow")
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [GIGABYTE B650M AORUS Elite AX](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F5057986138&subId1=techidaily-us-5322157473801276840&sharedId=techidaily-us)
 
 1
@@ -274,3 +292,46 @@ Our Review
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-individualist-to-institutional-influence-in-the-youtube-universe/"><u>[New] 2024 Approved  From Individualist to Institutional Influence in the YouTube Universe</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>[Updated] 2024 Approved  Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-converting-ordinary-images-into-artistic-hdr-works/"><u>2024 Approved  Converting Ordinary Images Into Artistic HDR Works</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-investing-in-a-new-aerial-gadget-heres-our-list/"><u>2024 Approved  Investing in a New Aerial Gadget? Here's Our List</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-poco-x6-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro-for-2024/"><u>Beneath the Surface  Secrets to Professional Underwater Videos with GoPro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-asrock-b7e60m-pro-rs-review-robust-m2-capacity/"><u>Budget-Friendly ASRock B7e60M Pro RS Review: Robust M.2 Capacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/collaborations-with-urban-gardening-influencers/"><u>Collaborations with Urban Gardening Influencers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asrocks-value-packed-b760m-pro-rs-affordable-and-feature-filled/"><u>Comprehensive Guide to ASRock's Value-Packed B760M Pro RS: Affordable & Feature-Filled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-examination-of-the-cost-effective-nuphy-halo75-v2-the-ideal-mechanical-keyboard-for-gamers/"><u>Detailed Examination of the Cost-Effective Nuphy Halo75 V2 - The Ideal Mechanical Keyboard for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-on-toms-hardware-insights/"><u>Discover the Latest in Tech on Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-and-components-on-tomtechreviews-your-trusted-source-for-insights/"><u>Discover Top Gadgets and Components on TomTechReviews – Your Trusted Source for Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341731156-expert-analysis-on-asus-rog-azoth-extreme-at-just-500-reviews-inside/"><u>Expert Analysis on Asus ROG Azoth Extreme at Just $500 - Reviews Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-computer-components-by-toms-hardware-hub/"><u>Expert Insights on Computer Components by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-hardware-from-toms-domain/"><u>Expert Insights on Latest Hardware From Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-pimoroni-nvme-ssd-base-duo-speed-capacity-and-reliability-assessed/"><u>Expert Review of the Pimoroni NVMe SSD Base Duo - Speed, Capacity & Reliability Assessed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-solid-reliability-of-the-asus-tuf-gaming-a14-unit/"><u>Exploring the Solid Reliability of the Asus TUF Gaming A14 Unit</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hassle-free-logitech-mouse-driver-update-on-win-7/"><u>Hassle-Free Logitech Mouse Driver Update on Win 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-western-digital-4tb-wd-blue-sn5000-the-new-era-for-large-capacity-ssds/"><u>In-Depth Look at the Western Digital 4TB WD Blue SN5000 - The New Era for Large Capacity SSDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-affordable-and-effective-fx360-pro-from-id-cooling/"><u>In-Depth Review of the Affordable and Effective FX360 Pro From ID-Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-tech-in-depth-guides-from-toms-system-solutions/"><u>Inside the World of Tech: In-Depth Guides From Tom's System Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-asus-rog-keris-ii-ace-the-new-king-of-gamers-deathadder-v3-pro-vs-keris-ii-ace-reviewed/"><u>Is Asus ROG Keris II Ace the New King of Gamers? DeathAdder V3 Pro vs Keris II Ace Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-inside-toms-hardware-reviews/"><u>Mastering the Digital World: Inside Tom's Hardware Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-instagrams-inconsistent-video-timings/"><u>Navigating Instagram's Inconsistent Video Timings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341713132-regular-follow-up-visits-allow-for-assessment-of-healing-progress-and-detection-of-late-onset-complications/"><u>Regular Follow-Up Visits Allow for Assessment of Healing Progress and Detection of Late Onset Complications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-under-pressure-the-ultimate-guide-to-optimizing-cooling-with-5cuum-tower-plus-for-raspberry-pi-45/"><u>Stay Chilled Under Pressure: The Ultimate Guide to Optimizing Cooling with '5Cuum Tower Plus for Raspberry Pi 4/5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-next-gen-tech-devices-by-toms-hardware-authority/"><u>The Definitive Guide to Next-Gen Tech Devices by Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-hidden-gem-in-gaming-displays-an-in-depth-evaluation-of-the-pixio-px277-oled-max/"><u>The Hidden Gem in Gaming Displays: An In-Depth Evaluation of the Pixio PX277 OLED MAX</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-impactful-evolution-in-industrial-electronics-an-in-depth-review-of-the-raspberry-pi-compute-module-4s/"><u>The Impactful Evolution in Industrial Electronics: An In-Depth Review of the Raspberry Pi Compute Module 4S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-id-cooling-frozn-a620-pro-series-se-features-benefits-and-review/"><u>The Ultimate Guide to the ID-Cooling Frozn A620 Pro Series SE - Features, Benefits, and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676192-toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review - Expert Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-trusted-guide-in-computer-hardware/"><u>Tom's Tech Review - Your Trusted Guide in Computer Hardware</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-picks-cost-effective-remobell-video-doorbells-for-your-home/"><u>Top Picks: Cost-Effective RemoBell Video Doorbells for Your Home</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transfer-tactics-for-youtube-to-dailymotion-success/"><u>Transfer Tactics for YouTube to Dailymotion Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-unleashed-teamgroup-t-force-dark-airflow-i-nvme-cooler-in-depth-review/"><u>Ultimate Performance Unleashed: TeamGroup T-Force Dark AirFlow I NVMe Cooler In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pineboards-hatdrive-budget-friendly-and-fast-attachment-for-raspberry-pi/"><u>Unveiling the Pineboards HatDrive: Budget-Friendly & Fast Attachment for Raspberry Pi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gadgets-and-hardware-innovations-toms-insight/"><u>Unveiling Top Gadgets and Hardware Innovations - Tom's Insight</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/visual-vaults-expert-tips-on-capturing-and-storing-twitter-video-for-2024/"><u>Visual Vaults  Expert Tips on Capturing and Storing Twitter Video for 2024</u></a></li>
+</ul></div>

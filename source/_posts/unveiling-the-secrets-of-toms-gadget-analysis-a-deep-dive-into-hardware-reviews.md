@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Tom's Gadget Analysis: A Deep Dive Into Hardware Reviews"
-date: 2024-08-14 14:40:53
-updated: 2024-08-17 12:39:30
+date: 2024-08-18T11:42:08.611Z
+updated: 2024-08-19T11:42:08.611Z
 tags:
   - motherboards
 categories:
@@ -101,26 +101,42 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
  Inside the retail packaging, below the motherboard, ASRock includes a few accessories to get you started. You get two SATA cables, a Wi-Fi antenna, screws for M.2 sockets, and a thermistor cable. There isn’t much here, which isn’t surprising at this price point, but it’s enough to cover the basics.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Design of the Lightning Wi-Fi
 
  Image 1 of 3
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/97M3RfrDnnVcKkV4n7VkU8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  Starting in the left corner, we spy a single 8-pin EPS connector just above the heatpipe connecting the heatsinks. The VRMs have plenty of mass and surface area to keep the powerful VRMs below running cool. There’s also a small fan attached to the heatsink tucked in between the rear IO plate and the VRM for additional cooling. The default fan curve sounds improved from the PG-ITX/TB4\. While it was still audible, we could hear it only during stress testing. Of course, you can adjust it if needed. Also by the EPS connector is the 2-pin temperature sensor header to use with the included thermistor.
@@ -135,6 +151,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
@@ -175,3 +194,39 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-tv-friendly-practices-for-facebook-lives-for-2024/"><u>[New] Unveiling TV-Friendly Practices for Facebook Lives for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-determining-film-production-price-points/"><u>[Updated] Determining Film Production Price Points</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-thumbnails-the-secret-to-video-success-for-2024/"><u>[Updated] Effective Thumbnails  The Secret to Video Success for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/achieving-clear-communication-on-skype/"><u>Achieving Clear Communication on Skype</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-300-pro-assessment-excellent-audio-quality-with-simple-features/"><u>BeyerDynamic MMX 300 Pro Assessment - Excellent Audio Quality with Simple Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/comprehensive-iptv-accessibility-for-2024/"><u>Comprehensive IPTV Accessibility for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conquering-your-fitness-aspirations-a-step-by-step-process-with-chatgpt/"><u>Conquering Your Fitness Aspirations: A Step-by-Step Process with ChatGPT</u></a></li>
+<li><a href="https://driver-install.techidaily.com/easy-to-follow-steps-for-amd-driver-software-management/"><u>Easy-to-Follow Steps for AMD Driver Software Management</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-tech-game-an-in-depth-look-at-crucials-speedy-p310-m2-2280-ssd-performance/"><u>Elevate Your Tech Game: An In-Depth Look at Crucial's Speedy P310 M.2 2280 SSD Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-uphere-m201-ssd-heatsink-evaluation-at-just-5-enhancing-your-nvme-drives-performance/"><u>Essential UpHere M201 SSD Heatsink Evaluation at Just $5 - Enhancing Your NVMe Drive's Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-the-efficacy-of-the-akasa-gecko-with-integrated-fan-system-for-ssd-cooling/"><u>Expert Insights Into the Efficacy of the Akasa Gecko with Integrated Fan System for SSD Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-hardware-hub/"><u>Expert Reviews by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fx36-60-pro-cooler-by-id-cooling-exceptional-performance-at-a-budget-friendly-price-point/"><u>FX36 60 Pro Cooler by ID-Cooling - Exceptional Performance at a Budget-Friendly Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-brightness-rich-colors-comprehensive-review-of-the-viewsonic-xg272-2k-240-hz-gaming-display/"><u>High Brightness, Rich Colors - Comprehensive Review of the ViewSonic XG272-2k 240 Hz Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hp-omnibook-x-performance-analysis-ultraportable-laptop-with-extended-battery-life/"><u>HP OmniBook X Performance Analysis - Ultraportable Laptop with Extended Battery Life</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-11-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus 11 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-icy-performance-and-expensive-price-tag-of-the-gigabyte-b650-aorus-elite-ax-motherboard-with-ample-usb-ports/"><u>In-Depth Review: Icy Performance and Expensive Price Tag of the Gigabyte B650 Aorus Elite AX Motherboard with Ample USB Ports</u></a></li>
+<li><a href="https://win11.techidaily.com/invisible-input-concealing-commands-in-windows-11-ui/"><u>Invisible Input: Concealing Commands in Windows 11 UI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-graphics-a-comprehensive-review-of-pixios-game-changer-the-oled-max-monitor-px277/"><u>Mastering Graphics: A Comprehensive Review of Pixio's Game Changer - The OLED Max Monitor (PX277)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-digital-landscape-expert-reviews-on-gadgets-and-components/"><u>Navigating Tom's Digital Landscape: Expert Reviews on Gadgets & Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/never-attempt-to-remove-any-penetrating-objects-from-an-eye-injury-it-may-exacerbate-the-damage-or-introduce-infection/"><u>Never Attempt to Remove Any Penetrating Objects From an Eye Injury; It May Exacerbate the Damage or Introduce Infection.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755543-postoperative-monitoring-for-signs-of-infection-or-inflammation-is-crucial-after-ocular-trauma-treatment/"><u>Postoperative Monitoring for Signs of Infection or Inflammation Is Crucial After Ocular Trauma Treatment.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-home-computing-the-brainiac-review-of-raspberry-pi-ai-modules/"><u>Revolutionizing Home Computing: The Brainiac Review of Raspberry Pi AI Modules</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts-for-2024/"><u>Streamline Your Workflow  Learn to Record Mac's Screen with Shortcuts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-cost-breakdown-of-netgear-orbi-mesh-wi-fi-system-cheaper-yet-still-premium-priced-in-comparison-to-other-brands/"><u>The Cost Breakdown of Netgear Orbi Mesh Wi-Fi System: Cheaper, Yet Still Premium Priced in Comparison to Other Brands</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-pnys-1tb-portable-ssd-satisfactory-yet-lacks-distinctiveness/"><u>The Verdict on PNY's 1TB Portable SSD: Satisfactory Yet Lacks Distinctiveness</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-review-alert-maximize-your-setup-with-the-gskill-trident-z5-rgb-dual-dimm-ddr5-memory-sticks-at-a-sizzling-6400mhz/"><u>Thrilling Review Alert! Maximize Your Setup with the G.SKILL Trident Z5 RGB - Dual-DIMM DDR5 Memory Sticks at a Sizzling 6400MHz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-comprehensive-tech-guides-and-gadget-reviews/"><u>Tom's Hardware: Comprehensive Tech Guides and Gadget Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-dive-into-computer-components-and-hardware/"><u>Tom's Tech Hub: Dive Into Computer Components and Hardware</u></a></li>
+<li><a href="https://win-dash.techidaily.com/tp-link-adapter-drivers-for-windows-users-fresh-downloads-for-1187-systems/"><u>TP-Link Adapter Drivers for Windows Users: Fresh Downloads for 11/8/7 Systems!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovative-gear-the-toms-tech-showcase/"><u>Unveiling Innovative Gear: The Tom's Tech Showcase</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Experience Unmatched Gaming with the Titan Army P2 Groggy180Hz - A Detailed Performance Evaluation
-date: 2024-08-16 15:15:18
-updated: 2024-08-17 10:50:14
+date: 2024-08-18T11:47:59.597Z
+updated: 2024-08-19T11:47:59.597Z
 tags:
   - monitor
 categories:
@@ -103,6 +103,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Dough)
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -123,6 +126,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  The input panel is on the bottom and left side of the bulge in the back. Video ports include two HDMI 2.1, one DisplayPort 1.4 with Display Stream Compression (DSC), and a USB-C. A separate USB-C input handles data up to 10Gbps. USB outputs include two USB-C and two USB-A, version 3.1\. You also get a 3.5mm headphone jack. Control is via a joystick with discrete buttons for power and KVM switching.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ## OSD Features
 
  To summon the Spectrum Black 27’s OSD, press the joystick once to reveal an all-business text-based menu. There are no graphics except for the Dough logo at the top. Signal status is always displayed in the top window, while the bottom window has descriptions of every function as you select it. This OSD is one that all other companies should emulate. It is intuitive, informative and efficient to a fault.
@@ -143,6 +149,23 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Image credit: Tom's Hardware)
+
+![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
@@ -151,14 +174,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
 ![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
- (Image credit: Tom's Hardware)
-
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
- (Image credit: Tom's Hardware)
-
-![Dough Spectrum Black](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The Spectrum Black 27’s input selector does far more than switch video. You can specify port versions for each interface and control the USB ports too. You also get the PBP/PIP options here to view two sources simultaneously. It’s followed by the USB hub controls, which can be configured in many different ways. Once set up, you can switch with the dedicated KVM button below the joystick.
@@ -175,6 +193,10 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 
  Dough has included a comprehensive set of OLED maintenance options. There is pixel shift, a screen saver, logo compensation, and others. Each one is explained at the bottom, so you know what it does. The last two, transistor wear and OLED wear compensation, take about five minutes to complete and can be run whenever you wish.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Dough Spectrum Black 27 Calibration Settings
 
  When I measured my Spectrum Black 27 sample, it hit all the marks near perfection. I could not improve upon the numbers with calibration, so I left them at the factory defaults. I found the best picture and the best test results with Brightness Mode on Maximum. This varies brightness uniformly across the full image range, so you won’t see it in operation. If you need a stable light output level, choose Uniform brightness. You can change gamut modes between DCI-P3, Adobe RGB and sRGB without affecting other parameters. Adobe RGB is off the mark for green and, while fine for casual use, is not accurate enough for critical applications. However, P3 and sRGB are qualified. My suggested settings are below.
@@ -195,6 +217,9 @@ If I had to use a single adjective to describe OLED gaming monitors, it would be
 | Gamma               | 2.2                |
 | Color Temp          | Normal             |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Gaming and Hands-on
 
  The Spectrum Black 27’s main selling point is its Gorilla Glass front layer, which is supposed to make blacks deeper. OLED blacks are already about as black as can be, so, in practice, this is a subtle thing. Lining up an Alienware AW3225QF 32-inch display next to it made the Dough look slightly blacker. It’s subtle, and it depends on how ambient light hits the screen. But the Gorilla Glass makes a positive impact. Though it is shiny, it is also coated to reduce glare and it does this effectively. I liked the way it resisted fingerprints too. Though I am not a screen toucher, other users I know frequently touch the screen when pointing things out. It drives me crazy, but it’s a thing. I would pay the extra $200 for Gorilla Glass over a matte finish.
@@ -251,6 +276,9 @@ powered by
 
 ![Toms Hardware](https://search-api.fie.futurecdn.net/img/sites/tomshardware.png "Toms Hardware")
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -265,3 +293,59 @@ powered by
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-best-voice-conversion-tools-for-vlogging-professionals/"><u>[New] Best Voice Conversion Tools for Vlogging Professionals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid/"><u>[New] In 2024, Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>[New] Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-fb-story-sharing-a-four-step-guide/"><u>[New] Mastering FB Story Sharing  A Four-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>[Updated] 2024 Approved  How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-live-broadcast-faceoff-obs-vs-shadowtoolkit/"><u>[Updated] 2024 Approved  Live Broadcast Faceoff  OBS Vs. ShadowToolkit</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-5-high-quality-online-meeting-capture-devices/"><u>[Updated] 2024 Approved  Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-discovering-those-who-left-my-instagram-circle/"><u>[Updated] Discovering Those Who Left My Instagram Circle</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-beginners-blueprint-steering-clear-of-the-8-most-regrettable-youtubing-mistakes/"><u>[Updated] In 2024, The Beginner's Blueprint  Steering Clear of the 8 Most Regrettable YouTubing Mistakes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-key-sites-for-innovative-font-design-for-2024/"><u>[Updated] Key Sites for Innovative Font Design for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-proven-strategies-for-flawless-xbox-video-capture/"><u>[Updated] Proven Strategies for Flawless Xbox Video Capture</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-18-tips-for-free-online-event-streaming-techniques/"><u>2024 Approved  18 Tips for Free Online Event Streaming Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-soloists-guide-making-your-podcast-stand-out/"><u>2024 Approved  The Soloist's Guide  Making Your Podcast Stand Out</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-itel-a60-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Itel A60? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-expansion-solutions-with-the-highpoint-rocket-1608a-a-comprehensive-evaluation-of-added-storage-and-increased-power/"><u>Advanced Expansion Solutions with the HighPoint Rocket 1608A: A Comprehensive Evaluation of Added Storage and Increased Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-in-depth-analysis-of-the-uphere-m201-ssd-heatsink-your-guide-to-essential-nvme-thermal-management-at-only-5/"><u>Affordable Excellence: In-Depth Analysis of the UpHere M201 SSD Heatsink - Your Guide to Essential NVMe Thermal Management at Only $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anime-style-lackluster-power-uncovering-the-truth-behind-valkyrie-vind-sl1n3-review/"><u>Anime Style, Lackluster Power: Uncovering the Truth Behind Valkyrie Vind SL1n3 Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-unveiled-comprehensive-review-for-serious-gamers-and-builders/"><u>ASUS Pro B760M-CT CSM Unveiled: Comprehensive Review for Serious Gamers and Builders</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-google-pixel-fold-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Google Pixel Fold Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-guides-from-toms-digital-workshop/"><u>Comprehensive Computer Guides From Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-lenovo-yoga-pro-9i-assessment-insight-on-durable-keyboard-and-slim-design/"><u>Comprehensive Lenovo Yoga Pro 9I Assessment: Insight on Durable Keyboard & Slim Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-unleashing-the-power-of-amd-ryzen-r9-5900hx-in-the-new-asus-zenbook-s16/"><u>Comprehensive Review: Unleashing the Power of AMD Ryzen R9 5900HX in the New Asus Zenbook S16</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-troubleshooting-techniques-for-reviving-every-iphones-a-detailed-walkthrough/"><u>Comprehensive Troubleshooting Techniques for Reviving Every iPhones - A Detailed Walkthrough</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-advanced-gadgets-in-depth-reviews-by-toms-hardware-professionals/"><u>Decoding Advanced Gadgets: In-Depth Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-hardware-the-ultimate-guide-to-tech-reviews-and-comparisons/"><u>Discover Tom's Hardware: The Ultimate Guide to Tech Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-by-toms-electronics-hub/"><u>Expert Analysis on Gadgets by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-breakdown-by-tom-your-trusted-source/"><u>Expert Hardware Breakdown by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-electronics-with-toms-wisdom/"><u>Exploring the World of Electronics with Tom's Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-top-notch-equipment-with-toms-hardware-insights/"><u>Exploring Top-Notch Equipment with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fast-flagship-and-funny-a-comprehensive-review-of-the-flsun-s1-device/"><u>Fast, Flagship & Funny: A Comprehensive Review of the FLSun S1 Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 12 Pro Max? | Stellar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-limiting-bitrate-overshoot-in-obs/"><u>In 2024, Limiting Bitrate Overshoot in OBS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-the-ultimate-qhd-180hz-gamers-display/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS - The Ultimate QHD 180Hz Gamer's Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-analysis-featuring-5-m2-slots-and-ultrawhite-design/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard Analysis – Featuring 5 M.2 Slots & Ultrawhite Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-news-at-toms-computer-and-electronics-hub/"><u>In-Depth Reviews and News at Tom's Computer & Electronics Hub</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/integrating-skype-into-zoom-meetings-made-simple/"><u>Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-at-tomer-gadget-central-your-source-for-cutting-edge-devices/"><u>Mastering Tech Trends at Tom'er Gadget Central: Your Source for Cutting-Edge Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-toms-hardware-experts/"><u>Navigating New Gadgets with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-horizons-in-computing-a-look-at-toms-hardware-discoveries/"><u>Navigating New Horizons in Computing - A Look at Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-maze-with-toms-hardware-wisdom/"><u>Navigating the Circuitry Maze with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-reboot-and-choose-os-error-on-windows/"><u>Quick Solutions: Resolve 'Reboot and Choose OS' Error on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-asrock-b760m-pro-rs-economical-and-feature-rich-for-enthusiasts/"><u>Review of ASRock B760M Pro RS: Economical & Feature-Rich for Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-analysis-unveil-the-power-of-chatgpt/"><u>Revolutionizing Analysis: Unveil the Power of ChatGPT</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screenflow-for-mac-a-full-featured-deep-dive-for-2024/"><u>ScreenFlow for Mac - A Full Featured Deep Dive for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-apart-the-mini-yet-powerful-in-depth-analysis-of-asus-rog-nuc-970-pc/"><u>Taking Apart The Mini Yet Powerful: In-Depth Analysis Of Asus ROG NUC 970 PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-meta-quest-3-lite-an-inside-look-at-potential-pricing-release-schedule-and-speculated-technical-specifications/"><u>The Meta Quest 3 Lite: An Inside Look at Potential Pricing, Release Schedule, and Speculated Technical Specifications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-comprehensive-tech-reviews-and-advice/"><u>Tom's Computing: Comprehensive Tech Reviews and Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/uncover-surprising-gaming-capabilities-with-chatgpt-heres-the-top-6-picks-for-gamers/"><u>Uncover Surprising Gaming Capabilities with ChatGPT – Here's the Top 6 Picks for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-potential-of-the-latest-geekworm-x1/"><u>Uncovering the Potential of the Latest GeekWorm X1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-power-of-technology-the-ultimate-guide-to-toms-hardware-selection/"><u>Unlock the Power of Technology: The Ultimate Guide to Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-pimoronis-dual-layered-nvme-ssd-the-complete-breakdown/"><u>Unveiling the Pros and Cons of Pimoroni's Dual-Layered NVMe SSD: The Complete Breakdown</u></a></li>
+</ul></div>

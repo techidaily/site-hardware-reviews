@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Computer Hardware by Tom – In-Depth Testing & Comparisons
-date: 2024-08-16 18:38:36
-updated: 2024-08-18 11:17:32
+date: 2024-08-18T11:34:43.462Z
+updated: 2024-08-19T11:34:43.462Z
 tags:
   - components
 categories:
@@ -68,10 +68,16 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FAudeze-Maxwell-Wireless-Headset-Playstation%2Fdp%2FB0BP6BC17P%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-8383051658675473609-20)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Spotify Premium
 
 ![Spotify Logo](https://cdn.mos.cms.futurecdn.net/KDia7SawcTN93wuYZwQnuc-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
  (Image credit: Spotify)
 
  Spotify is one of the most well-known premium music services, with a very large music catalog available, and is a fantastic resource for playing your favorite tunes and even discovering new artists. With a Premium subscription, you're able to listen to ad-free music, download tracks to your computer, phone, or wearables, have access to high-quality 320 kbps compressed audio, and even listen to music with friends in real-time.
@@ -130,6 +136,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 ![Crucial P3 Plus](https://cdn.mos.cms.futurecdn.net/ALyLNNwPR3UGJkVdsgFN6c-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
  (Image credit: Crucial)
 
  The Crucial P3 Plus is a great option for a storage upgrade on a budget. You can get the drive in a number of capacities from 500GB to a whopping 4TB, and thanks to its price to performance ratio, its going to give you what you need without straining the finite finances.
@@ -146,10 +155,17 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-Plus-PCIe-NAND-5000MB%2Fdp%2FB0B25NTRGD%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-1121119280149340044-20)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Crucial X9 Portable SSD
 
 ![Crucial X9 1TB External SSD](https://cdn.mos.cms.futurecdn.net/PbcVJWyXHTmfgbaMWrHXpi-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Crucial)
 
  Compact and tiny, the the Crucial X9 is a portable SSD that fits snuggly in the palm of your hand. For some reason I always thought these drives were bigger and similar in size to the 2.5" external HDD drives - but they're not.
@@ -168,10 +184,16 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fshop-links.co%2Flink%3Fpublisher%255Fslug%3Dfuture%26exclusive%3D1%26u1%3Dtomshardware-us-6461667939973165955%26url%3Dhttps%253A%252F%252Fwww.bestbuy.com%252Fsite%252Fcrucial-x9-1tb-external-usb-c-ssd-black%252F6557871.p%26article%255Fname%3DBack%2520To%2520School%2520Tech%2520Deals%25202024%253A%2520Save%2520on%2520essential%2520tech%2520for%2520the%2520new%2520term%2520%257C%2520Tom%27s%2520Hardware%26article%255Furl%3Dhttps%253A%252F%252Fwww.tomshardware.com%252Fpc-components%252Fback-to-school-tech-deals-2024-save-on-essential-tech-for-the-new-term)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Crucial X10 Portable SSD
 
 ![Crucial X10 Pro 1TB External SSD](https://cdn.mos.cms.futurecdn.net/kpEAYHfyHPHNxwmQPeCSF4-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Crucial)
 
  Crucial's X10 Pro external SSD is the same size as the previously mentioned X9, but has a few improvements - namely it's twice as fast - with a Gen-2 2x2 USB 3.2 Type-C connection capable of 20Gb/s with sequential read and write speeds 2100/2000MB/s.
@@ -188,6 +210,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2FCrucial-X10-Pro-Portable-CT1000X10PROSSD902%2Fdp%2FB0C9WGGZT9%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3379043427879641339-20)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## USB Hubs and Docks
 
  Let's face it, there are never enough available USB-C ports on your computer whether it's a laptop or desktop PC, and with the number of devices - especially peripherals - using USB-C becoming more commonplace a USB hub is an essential piece of kit.
@@ -216,10 +241,16 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
  You're more than likely going to be using a computer a lot in your new year at school or college and whether it's a laptop or desktop, you want to have the best experience possible when using them. Something to seriously consider is what you're using the computer for, and the ergonomics of your setup. Adding a new mouse, keyboard, or even a wrist rest is a great way of improving your computer setup and can potentially even reduce the risks of any repetitive strain injuries you could incur from excessive computer use.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Logitech MX Keys S
 
 ![Logitech MX Keys S](https://cdn.mos.cms.futurecdn.net/RKag62xcWzrPgVBsAKm6MA-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Logitech)
 
  With its light and dark gray graphite styling (also available in Black and Pale Gray), the MX Keys S is an attractive keyboard that will look great on any desk. The MX Keys doesn’t boast per-key RGB like most modern day gaming keyboards, but instead has white backlighting, which it uses a proximity sensor located on the keyboard’s bottom edge which measures the magnetic field around the peripheral. The MX Keys S notices when your hands are touching the keyboard and lights up the keys without you having to press a button which is pretty cool.
@@ -236,6 +267,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://logitech.cfzu.net/c/221109/499820/8585?subId1=tomshardware-us-1293848247163695391&sharedId=tomshardware-us&u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fproducts%2Fkeyboards%2Fmx-keys-s.920-011558.html)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Logitech MX Master 3S
 
 ![Logitech MX Master 3S Wireless Mouse](https://cdn.mos.cms.futurecdn.net/u664eJMBpQNnX76znUeXSV-320-80.png)
@@ -260,6 +294,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://goto.walmart.com/c/5597632/565706/9383?subId1=techidaily-us-1446280923508857110&sharedId=techidaily-us&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLogitech-MX-Master-3S-Wireless-Performance-Mouse-Ergo-8K-DPI-Quiet-Clicks-USB-C-Black%2F731473988)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## HyperX Wrist Rest
 
 ![HyperX Wrist Rest](https://cdn.mos.cms.futurecdn.net/Qp6sX9i4RfCgboeQFo9Pi3-320-80.png)
@@ -280,6 +317,9 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
 
 [View Deal](https://target.georiot.com/Proxy.ashx?tsid=45723&GR%5FURL=https%3A%2F%2Famazon.com%2Fdp%2FB07GP7JXQY%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtomshardware-us-3681302020797219626-20)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Monitor
 
  For work or play a monitor is a good option for a screen above choosing a television as they can often be cheaper, have more connectivity choices, and vary in size. Perfect for setting up in a small dorm room over a 55-50-inch TV.
@@ -316,3 +356,38 @@ Enjoy what's left of the summer as you prepare to head back to school or maybe t
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unmasked-instagram-stories-pcandroidios-exploration-tips/"><u>[Updated] 2024 Approved  Unmasked Instagram Stories  PC/Android/iOS Exploration Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-disappearing-playback-problem-on-sony-a6400/"><u>[Updated] The Disappearing Playback Problem on Sony A6400</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-breakdown-top-picks-and-reviews-from-toms-experts/"><u>Advanced Gadget Breakdown: Top Picks and Reviews From Tom's Experts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-meteoric-ascent-to-fame-an-exploration-of-the-five-core-catalysts-for-its-swift-expansion/"><u>ChatGPT's Meteoric Ascent to Fame: An Exploration of the Five Core Catalysts for Its Swift Expansion</u></a></li>
+<li><a href="https://facebook.techidaily.com/concealing-comments-securing-your-social-media-content/"><u>Concealing Comments: Securing Your Social Media Content</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-data-unraveling-misconceptions-about-facebook-reports/"><u>Decoding Data: Unraveling Misconceptions About Facebook Reports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tech-picks-and-reviews-a-look-into-toms-hardware-insights/"><u>Discover Top Tech Picks and Reviews: A Look Into Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341687948-dominate-your-pc-builds-in-depth-test-of-gskill-trident-z5-rgb-ddr5-ram-at-6400clk-pairs-perfectly-for-2x48gb-on-quadruple-channel-boards/"><u>Dominate Your PC Builds: In-Depth Test of G.SKILL Trident Z5 RGB DDR5 RAM at 6400CLK, Pairs Perfectly for 2X48GB on Quadruple-Channel Boards!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-asrock-z790i-lightning-wi-fi-mini-pcie-card-a-game-changer-for-small-form-factor-pcs/"><u>Evaluating the ASRock Z790I Lightning Wi-Fi Mini PCIe Card: A Game Changer for Small Form Factor PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-asus-rog-ally-x-assessment-top-tier-windows-mobile-gaming-launcher-at-premium-cost/"><u>Exclusive Asus ROG Ally X Assessment: Top-Tier Windows Mobile Gaming Launcher at Premium Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/highly-evaluating-the-asus-rog-rapture-gt-be98-pro-wifi-7-router-exceptional-speed-and-extensive-upgrade-options/"><u>Highly Evaluating the Asus ROG Rapture GT-BE98 Pro WIFI 7 Router: Exceptional Speed & Extensive Upgrade Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-sony-xperia-1-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Sony Xperia 1 V?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/hype-generator-chief-architect/"><u>Hype Generator Chief Architect</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-eyedome-xtreme-ultimate-os-video-snapper/"><u>In 2024, EyeDome Xtreme  Ultimate OS Video Snapper</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-instagrams-music-ip-policies/"><u>In 2024, Instagram's Music IP Policies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-workstation-display/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR: Unmatched Color Precision in a Workstation Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-g6x-gaming-laptop-solid-execution-lacks-exceptional-qualities/"><u>In-Depth Analysis of the Gigabyte G6X Gaming Laptop: Solid Execution Lacks Exceptional Qualities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-digital-workshop-insights-from-toms-hardware/"><u>Inside the Digital Workshop: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/land-division-must-comply-with-local-zoning-laws-and-land-use-regulations/"><u>Land Division Must Comply with Local Zoning Laws and Land Use Regulations.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-components-with-toms-technology-reviews/"><u>Navigating the World of Components with Tom’s Technology Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-the-first-step-is-conducting-a-detailed-survey-to-understand-the-propertys-physical-features-and-constraints/"><u>Solution: The First Step Is Conducting a Detailed Survey to Understand the Property's Physical Features and Constraints</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-into-the-soil-with-confidence-your-starter-kit-for-an-organic-and-sustainable-home-veg-patch/"><u>Step Into the Soil with Confidence: Your Starter Kit for an Organic and Sustainable Home Veg Patch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surgical-intervention-may-be-necessary-for-certain-types-of-eye-injuries-to-preserve-vision-and-prevent-further-damage/"><u>Surgical Intervention May Be Necessary for Certain Types of Eye Injuries to Preserve Vision and Prevent Further Damage.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hardware-insights-and-expert-reviews/"><u>Tom's Computer Hardware Insights & Expert Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-computer-hardware/"><u>Tom's Tech Review: Expert Insights Into Computer Hardware</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transform-your-content-game-with-creator-studio-insight-for-2024/"><u>Transform Your Content Game with Creator Studio Insight for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755292-ultimate-hardware-hub-dive-into-toms-tech-reviews-today/"><u>Ultimate Hardware Hub: Dive Into Tom's Tech Reviews Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-clevetura-clvx-1-keyboard-a-look-at-its-haptic-feedback-quality/"><u>Unboxing & Testing the Clevetura CLVX 1 Keyboard - A Look at Its Haptic Feedback Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-in-depth-reviews-of-pc-hardware/"><u>Unveiling Gadgets with Tom: In-Depth Reviews of PC Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-powerhouse-a-comprehensive-review-of-asuss-latest-tri-band-7-ghz-wireless-router-rt-be96u/"><u>Unveiling the Powerhouse: A Comprehensive Review of Asus's Latest Tri-Band 7 GHz Wireless Router - RT-BE96U</u></a></li>
+</ul></div>

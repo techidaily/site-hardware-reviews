@@ -1,7 +1,7 @@
 ---
 title: "Tom's Tech Insights: In-Depth Computer Hardware Reviews"
-date: 2024-08-15 23:34:54
-updated: 2024-08-17 11:46:50
+date: 2024-08-18T11:42:02.166Z
+updated: 2024-08-19T11:42:02.166Z
 tags:
   - motherboards
 categories:
@@ -107,14 +107,24 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
 ![ASRock Z790I Lightning Wi-Fi](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  This little motherboard sits on a server-grade 8-layer matte black PCB. The sole design element comes from the actively cooled, heatpipe-connected VRM heatsinks and M.2 heatsinks. The heatsinks have lines that meander their way around the metal bits. On the left, you see the Phantom Gaming branding as well. If you’re interested in RGB lighting in your chassis, you’ll have to add your own to the onboard headers, as the board does not include any natively. The all-black appearance looks good and, in my opinion, better than the more expensive PG-ITX/TB4.
@@ -135,12 +145,18 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Yoyr47AhNxUyUnTePWM7kF-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  Power delivery on the Z790I Lightning has 16 phases, with 14 dedicated to Vcore. Power heads from the 8-pin EPS connector onto a Renesas RAA229131 PWM controller. From there, it heads to the 14 110A Renesas RAA2209004 SPS MOSFETs. The 1,540A available is the most I recall seeing on an ITX board and will surely handle Intel’s flagship-class processors, even when overclocking with sub-ambient cooling.
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/38vzBpWcpKHzwQLj5js8d8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  We’ll continue our counterclockwise journey at the bottom of the board. Here, we see the only expansion slot: a full-length PCIe 5.0 x16 slot. The slot also supports PCIe riser cards to extend one x16 slot to two x8 slots if needed. Above that, under the heatsink, is the first M.2 socket (you’ll find the other on the back of the board). Each M.2 socket runs at PCIe 4.0 x4 (64 Gbps) speeds and supports up to 80mm modules. None of the sockets support SATA-based devices, but they support RAID0/1/10 modes, as do the SATA ports. Thankfully, There’s no lane / bandwidth sharing, and you can run all storage simultaneously without a performance penalty.
@@ -149,6 +165,9 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
 
 ![ASRock Z790I Lightning Wi-Fi](https://cdn.mos.cms.futurecdn.net/Ax7PUWX76BhvWC7HhxEAn8-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock)
 
  The rear IO plate on the Z790I Lightning comes preinstalled on the motherboard. It has a black and gray background, the Phantom Gaming branding in the corner, and plenty of venting for the hidden VRM fan. In total, there are five USB Type-A ports (four are USB 3.2 Gen 1) while the other below the Realtek 2.5 GbE port is faster at USB 3.2 Gen 2 (10 Gbps) speeds. Additionally, you get a USB Type-C port with USB 3.2 Gen 2 (10 Gbps) speeds. There are DisplayPort and HDMI ports for video, while the Wi-Fi 6E antenna connections sit just above that. Last but not least, on the far right, is the audio stack with two 3.5mm jacks (mic in and line out) and the SPDIF output.
@@ -175,3 +194,44 @@ ASRock’s Z790I Lightning Wi-Fi is an affordable and powerful Mini-ITX motherbo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-photoshops-stabilization-an-essential-tool-or-overrated-feature/"><u>[New] Photoshop's Stabilization  An Essential Tool or Overrated Feature?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ace-your-online-presence-youtubes-studio-command-center/"><u>[Updated] Ace Your Online Presence  YouTube's Studio Command Center</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-create-logos-via-free-logo-template-customize-and-download-for-free/"><u>[Updated] Create Logos via Free Logo Template Customize and Download for Free</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-y100t-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo Y100t Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-9plus-ways-to-experience-cricket-live-streaming-at-its-best/"><u>2024 Approved  9+ Ways to Experience Cricket Live Streaming at Its Best</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles/"><u>2024 Approved  Battlefield Brilliance  The Exclusive Selection of Top 7 Total War Chronicles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-defining-key-indicators-for-high-impact-igtv-videos/"><u>2024 Approved  Defining Key Indicators for High-Impact IGTV Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compare-and-contrast-the-lofree-edge-a-detailed-analysis-thin-design-lightweight-build-at-higher-pricing-against-the-apple-magic-keyboard/"><u>Compare and Contrast: The Lofree Edge - A Detailed Analysis, Thin Design, Lightweight Build at Higher Pricing Against the Apple Magic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/csm-technology-empowered-the-ultimate-review-of-the-asus-pro-b760m-ct-motherboard/"><u>CSM Technology Empowered: The Ultimate Review of the Asus Pro B760M-CT Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deciphering-modern-computer-hardware-innovations-with-toms-tech-insights/"><u>Deciphering Modern Computer Hardware Innovations with Tom's Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-mysteries-articles-and-guides-from-toms-hardware/"><u>Decoding Tech Mysteries: Articles and Guides From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-new-pc-builds-features-benchmarks-and-analysis-by-experts-at-toms-hardware-the-gadget-guide/"><u>Deep Dive Into New PC Builds: Features, Benchmarks, and Analysis by Experts at Tom's Hardware | The Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guide-mastering-memory-speeds-with-crucial-pro-ddr5-6000-2x16gb-sticks-ultimate-overclocking-review/"><u>Expert Guide: Mastering Memory Speeds with Crucial Pro DDR5-6000 2X16GB Sticks - Ultimate Overclocking Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-technology-guides/"><u>Exploring Hardware Innovations with Tom's Technology Guides</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-picture-perfect-presentations-posting-on-youtube/"><u>In 2024, Picture-Perfect Presentations  Posting on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-cytron-maker-with-rp2040-the-affordable-diy-pcb-solution/"><u>In-Depth Analysis of the Cytron Maker with RP2040: The Affordable DIY PCB Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-assessing-the-kingston-furys-ddr5-6000-at-60gbs-a-reliable-performer-for-gamers-and-professionals/"><u>In-Depth Analysis: Assessing the Kingston Fury's DDR5-6000 at 60GB/S, a Reliable Performer for Gamers and Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-asus-pro-b760m-ct-csm-a-game-changing-motherboard-analysis/"><u>Inside the Asus Pro B760M-CT CSM: A Game-Changing Motherboard Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-through-toms-authoritative-articles/"><u>Mastering Hardware Knowledge Through Tom's Authoritative Articles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-machines-toms-essential-wisdom-on-personal-technology/"><u>Mastering Machines: Tom's Essential Wisdom on Personal Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-look-at-toms-hardware-discoveries/"><u>Mastering Technology: Inside Look at Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-the-ultimate-guide-to-devices-from-toms-hardware/"><u>Mastering the Digital World: The Ultimate Guide to Devices From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-technology-with-toms-comprehensive-hardware-analysis/"><u>Navigating the Future of Technology with Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-sovol-sv08-the-fast-and-nimble-homage-to-voron-series/"><u>Reviewing Sovol SV08: The Fast and Nimble Homage to Voron Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-alluring-special-edition-a-look-at-keychron-k2-hes-retro-charm/"><u>The Alluring Special Edition: A Look at Keychron K2 HE's Retro Charm</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-best-value-ssd-pineboards-hatdrive-nano-unleashed-for-raspberry-pi-5pi-4-users/"><u>The Best Value SSD: Pineboard's HatDrive! Nano Unleashed for Raspberry Pi 5/Pi 4 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-perfect-balance-of-price-and-design-in-the-logitecug515-lightspeed-tkl-mechanical-keyboard-review/"><u>The Perfect Balance of Price & Design in the LogitecuG515 Lightspeed TKL Mechanical Keyboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341718123-the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-gadget-analysis/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-hardware/"><u>Tom's Tech: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncover-the-latest-in-gadgets-with-toms-equipment-guide/"><u>Uncover the Latest in Gadgets with Tom's Equipment Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-tech-insights-with-tom-a-comprehensive-hardware-overview/"><u>Uncovering Tech Insights with Tom - A Comprehensive Hardware Overview</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341754179-under-budget-breeze-masters-check-out-our-review-of-upheres-c5c-and-d6sec-coolers/"><u>Under-Budget Breeze Masters? Check Out Our Review of UpHere's C5C and D6Sec Coolers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-hub/"><u>Unveiling the Latest in Hardware with Tom's Technology Hub</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-of-truthgpt-coin-investigating-claims-security-and-possible-scam-concerns/"><u>Unveiling the Mystery of TruthGPT Coin: Investigating Claims, Security, and Possible Scam Concerns</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zen-5-revolution-unveiling-the-power-of-amds-ryzen-5-9600x-and-ryzen-pressing-7-9700x/"><u>Zen 5 Revolution: Unveiling the Power of AMD's Ryzen 5 9600X & Ryzen Pressing 7 9700X</u></a></li>
+</ul></div>
