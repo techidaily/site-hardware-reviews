@@ -1,7 +1,7 @@
 ---
 title: "Top 10 DIY Electronics Add-Ons: Create Them with Your Own 3D Printer"
-date: 2024-08-27 12:46:14
-updated: 2024-08-29 12:11:57
+date: 2024-08-28T04:21:57.154Z
+updated: 2024-08-29T04:21:57.154Z
 tags:
   - android
 categories:
@@ -43,6 +43,9 @@ Thingiverse / 3Derp
 
  Products with more standardized designs have a myriad of options available. There are literally [dozens of Raspberry Pi cases](https://www.thingiverse.com/search?q=raspberry), for [lots of different models](https://www.thingiverse.com/thing:410003), ranging from [a TARDIS-shaped one](https://www.thingiverse.com/thing:2430122) to [a handheld console](https://www.thingiverse.com/thing:2658920) to a [full-fledged laptop](https://www.thingiverse.com/thing:3134603). Memory cards also have varied case models for download, like [this one that also stores USB thumb drives](https://www.thingiverse.com/thing:4784411) or [this one that holds microSD cards](https://www.thingiverse.com/thing:6310679) and uses a microSD to SD adapter as a lid.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  2\. Port Covers
 
  With [iPhones finally adopting USB-C](https://fox-access.techidaily.com/2024-approved-the-science-and-magic-behind-full-circle-films/), we're heading towards the [single-port utopia](https://digital-screen-recording.techidaily.com/2024-approved-step-by-step-ppt-and-vo-integration-tutorial/). For now, though, there are still lots of [different connection types](https://youtube-sure.techidaily.com/24-top-youtube-spotlight-key-influences-on-your-viewership-position/). And whether you need [USB-C](https://www.thingiverse.com/thing:3459200), [USB-A](https://www.thingiverse.com/thing:3805674), [Lightning](https://www.thingiverse.com/thing:1021450), [DisplayPort](https://www.thingiverse.com/thing:4278971), [HDMI](https://www.thingiverse.com/thing:1789832), [headphone jack](https://www.thingiverse.com/thing:3459190), or [just about any port](https://www.thingiverse.com/search?q=port+cover) on any electronics you can imagine, you're—pun intended—covered. If you want to be extra-safe, be sure to [print cable caps](https://www.thingiverse.com/search?q=cable+cap) as well.
@@ -57,12 +60,19 @@ Thingiverse / gubutek
 
  There are more generic strain reliefs, like these for [USB cables](https://www.thingiverse.com/thing:9956), [headphones](https://www.thingiverse.com/thing:4789089), [HDMI cords](https://www.thingiverse.com/thing:5580540), [Ethernet connectors](https://www.thingiverse.com/thing:2773556), and [Lightning](https://www.thingiverse.com/thing:1298189) as well. However, you may find less common ones, too, like [this one for the Surface Pro](https://www.thingiverse.com/thing:2345742). The same goes for [cable savers](https://www.thingiverse.com/search?q=cable+saver&page=1), with lots of formats to choose from.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  4\. Cable Holders and Organizers
 
  While we're at it, let's also add holders and organizers to the mix. [This one lets you kind of "plug" your USB cables to a wall](https://www.thingiverse.com/thing:755186), so they're always at hand, but there are also organizers if you'd rather have them [sitting at your desk](https://www.thingiverse.com/thing:2892387). Don't forget to add [identifying cable tags](https://www.thingiverse.com/thing:3159175)!
 
  There's [one to keep the cord from tangling during transport](https://www.thingiverse.com/thing:1107638), too, and, if you own a MacBook, you can try [this wrapper that also acts as a case for the charger](https://www.thingiverse.com/thing:463633). Some Apple laptop models may benefit from [this cable lock](https://www.thingiverse.com/thing:202491), which keeps all the wiring in place.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ##  5\. Headset Hooks
 
  No gaming PC setup is complete without a headset hook. In case you have just got home from the store and realized you forgot to buy one, fret not! Your 3D printer is here to help!
@@ -73,6 +83,9 @@ Thingiverse / ztxdk
 
  You can even choose where to place it. There are options to put it [under your desk](https://www.thingiverse.com/thing:245932), on [your monitor's corner](https://www.thingiverse.com/thing:1324319), on [your computer tower's side](https://www.thingiverse.com/thing:1505298) (with the help of double-sided tape), or even on [your cubicle's wall](https://www.thingiverse.com/thing:2848589), if you're in the office.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  6\. Webcam Covers
 
  Laptops (and dedicated webcams) with privacy covers are becoming more common, but they're far from mainstream. If you want a cheap and fast solution to ensure you're not being watched, a 3D-printed camera cover works better than a piece of paper, and doesn't leave your computer sticky like using tape.
@@ -87,6 +100,9 @@ Thingiverse / ztxdk
 
 ![Pair of LEGO-shaped keycaps, one upside down showing the Cherry MX stem, the other showing the mounting pins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pair-of-lego-shaped-keycaps-one-upside-down-showing-the-cherry-mx-stem-the-other-showing-the-mounting-pins.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Thingiverse / merberich
 
  There are more elaborate designs as well. Star Wars fan? Get a [Mandalorian keycap set](https://www.thingiverse.com/thing:5234703)! More into Pokémon? Here goes a [pokéball](https://www.thingiverse.com/thing:3685198), a [low-poly Pikachu](https://www.thingiverse.com/thing:1200732), and [a more detailed Charmander](https://www.thingiverse.com/thing:4222096).
@@ -101,6 +117,9 @@ Thingiverse / merberich
 
 [Laptop feet](https://www.thingiverse.com/thing:3508283), [keyboard legs](https://www.thingiverse.com/thing:192367), [battery covers](https://www.thingiverse.com/thing:6367104), [headset hinges](https://www.thingiverse.com/thing:2092430), the [cap protecting your Apple Pencil's charging connector](https://www.thingiverse.com/thing:1366689), or the [hooks used to hold the cable on a MacBook charger](https://www.thingiverse.com/thing:192224)... There are lots of parts you can print instead of living with the (admittedly minor) inconvenience of their absence.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  9\. Laptop, Tablet and Phone Stands
 
  You wouldn't believe how many different laptop/phone/tablet stands there are on 3D model repositories. Like, dozens of them. We selected a few to show you the possibilities, but be sure to [check other stand models](https://www.thingiverse.com/search?q=stand) for yourself.
@@ -121,6 +140,9 @@ Thingiverse / HeyVye
 
  To close this section, take a look at the peculiar [Octopus Stand](https://www.thingiverse.com/thing:158069). It's limited to tablets, but apparently, it's very popular—with over 8,000 downloads. It yielded a [Version Two](https://www.thingiverse.com/thing:213990), and [a smaller Version Three](https://www.thingiverse.com/thing:607518), better suited for phones.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  10\. Silly and Fun Accessories
 
  Just because something's useful doesn't mean it has to be all that serious. This [laptop tummy holder](https://www.thingiverse.com/thing:2198112), for instance, does exactly what its name implies. The [laptop drawer stand](https://www.thingiverse.com/thing:5491932) too: pull the drawer, place the stand over it, and you have solved the lack of space on your desk.
@@ -145,3 +167,52 @@ Thingiverse / HeyVye
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-simplifying-speech-integration-into-instagram-content/"><u>[New] 2024 Approved  Simplifying Speech Integration Into Instagram Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-youtubes-activities-post-uploading-videos/"><u>[New] Dissecting YouTube's Activities Post-Uploading Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-strategies-for-capturing-starlit-self-portraits/"><u>[New] In 2024, Essential Strategies for Capturing Starlit Self-Portraits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-your-quick-path-to-multimedia-tweeting/"><u>[Updated] 2024 Approved  Your Quick Path to Multimedia Tweeting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069353575-updated-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users-for-2024/"><u>[Updated] An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users. For 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-tech-picks-for-entering-and-thriving-in-the-metaverse/"><u>[Updated] Top Tech Picks for Entering and Thriving in the Metaverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-data-for-uninterrupted-viewer-experience/"><u>2024 Approved  Total Data for Uninterrupted Viewer Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y78t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y78t to Roku | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-x90s-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo X90S Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/align-technology-the-ultimate-guide-to-controller-links/"><u>Align Technology: The Ultimate Guide to Controller Links</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-anticipated-launch-of-new-800-series-chipsets-compatible-with-ryzen-9000-cpus-numbering-matches-intel/"><u>AMD Anticipated Launch of New 800 Series Chipsets Compatible with Ryzen 9000 CPUs - Numbering Matches Intel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrocks-revolutionary-z791-lightning-motherboard-drives-splave-to-new-overclocking-heights/"><u>ASRock's Revolutionary Z79^1 Lightning Motherboard Drives Splave to New Overclocking Heights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-digital-innovation-at-toms-hardware-hub/"><u>Delving Into Digital Innovation at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862856303-discover-chinas-longsun-processor-motherboards-and-complete-systems-for-us-market-priced-at-a-low-of-just-373/"><u>Discover China's Longsun Processor Motherboards and Complete Systems for U.S Market, Priced at a Low of Just $373</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-new-gadgets-a-look-into-toms-hardware-selections/"><u>Discovering New Gadgets - A Look Into Tom's Hardware Selections</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-longsheng-cpus-us-shipping-begins-now-entry-level-motherboards-and-systems-from-just-373/"><u>Elevate Your Gaming Experience with Longsheng CPUs - US Shipping Begins Now! Entry-Level Motherboards and Systems From Just $373.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-new-horizons-in-technology-dive-into-toms-hardware-reviews/"><u>Explore New Horizons in Technology - Dive Into Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-your-one-stop-resource/"><u>Exploring Technology with Tom's Hardware – Your One-Stop Resource</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-motherboard-innovation-asrock-introduces-an-exclusive-set-of-arrow-lake-compatible-board-offerings-highlighted-by-the-newly-unveiled-taichi-78/"><u>Game Changer in Motherboard Innovation: ASROCK Introduces an Exclusive Set of Arrow Lake Compatible Board Offerings, Highlighted by the Newly Unveiled Taichi Model With Advanced CAMM2 Memory Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-role-in-software-safety-a-debate/"><u>GPT's Role in Software Safety: A Debate</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-14-pro-max-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 14 Pro Max Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-a60-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel A60</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-safeguard-against-youtube-prohibitions/"><u>How to Safeguard Against Youtube Prohibitions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/improved-cpu-temperature-regulation-with-intels-new-lga1851-socket-say-goodbye-to-custom-contact-frames/"><u>Improved CPU Temperature Regulation with Intel's New LGA1851 Socket: Say Goodbye to Custom Contact Frames</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-from-chat-room-to-global-stage-broadcast-google-meet-on-youtube/"><u>In 2024, From Chat Room to Global Stage  Broadcast Google Meet on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-toms-computer-guide/"><u>Inside Look: Tom's Computer Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intels-recommended-power-specs-now-integrated-into-msi-motherboard-defaults-targeting-improved-performance-and-crash-prevention-for-core-i9-systems-under-in83/"><u>Intel's Recommended Power Specs Now Integrated Into MSI Motherboard Defaults, Targeting Improved Performance and Crash Prevention for Core I9 Systems Under Investigation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/latest-msi-z890-and-b860-motherboards-compatible-with-intel-arc-s-hits-the-charts-exclusive-pre-computex-2024-info/"><u>Latest MSI Z890 & B860 Motherboards Compatible with Intel Arc S Hits the Charts - Exclusive Pre-Computex 2024 Info</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/market-bounces-back-over-39-million-motherboards-projected-for-sale-as-pandemic-recovery-boosts-shipments/"><u>Market Bounces Back: Over 39 Million Motherboards Projected for Sale as Pandemic Recovery Boosts Shipments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategies-to-address-and-reduce-excessive-cpu-consumption-on-latest-pcs/"><u>Strategies to Address and Reduce Excessive CPU Consumption on Latest PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-on-computer-gear-and-systems/"><u>Tom's Expertise on Computer Gear and Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gear-lab-in-depth-analysis-of-pc-parts/"><u>Tom's Gear Lab: In-Depth Analysis of PC Parts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-cutting-edge-computer-components/"><u>Tom's Tech Insights: Exploring Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews-t17238628805738/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-innovations-and-reviews/"><u>Tom's Tech Insights: Innovations and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware-wisdom/"><u>Unlocking Computer Secrets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-high-performance-pcs-with-toms-hardware-guidance/"><u>Unlocking the Secrets of High-Performance PCs with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-latest-offerings-intels-arrow-lake-and-amd-ryzen-9000-motherboards-by-maxsun-an-array-of-31-models-across-five-unrevealed-chipset-platforms-al94/"><u>Unpacking the Latest Offerings: Intel's Arrow Lake & AMD Ryzen 9000 Motherboards by Maxsun - An Array of 31 Models Across Five Unrevealed Chipset Platforms, All Donning PCIe 800-Series Emblem</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-toms-hardware-analysis/"><u>Unveiling Cutting-Edge Gadgets: The Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-toms-gadget-analysis-a-deep-dive-into-hardware-reviews/"><u>Unveiling the Secrets of Tom's Gadget Analysis: A Deep Dive Into Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-amd-ryzen-9000-ready-800-series-motherboard-chipsets-how-numbers-align-with-intel-offerings/"><u>Upcoming AMD Ryzen 9000-Ready 800 Series Motherboard Chipsets: How Numbers Align With Intel Offerings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-source-for-in-depth-analysis-toms-hardware-reviews/"><u>Your Trusted Source for In-Depth Analysis: Tom's Hardware Reviews</u></a></li>
+</ul></div>

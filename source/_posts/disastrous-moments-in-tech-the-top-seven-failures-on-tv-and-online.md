@@ -1,7 +1,7 @@
 ---
 title: "Disastrous Moments in Tech: The Top Seven Failures on TV and Online"
-date: 2024-08-27 14:22:56
-updated: 2024-08-29 10:40:18
+date: 2024-08-28T04:20:44.634Z
+updated: 2024-08-29T04:20:44.634Z
 tags:
   - android
 categories:
@@ -25,32 +25,51 @@ Tech companies are good at many things — like making tech products — but mar
 
  In a series of ads, RDJ appears in strange scenarios that depict different definitions of "HTC." The most notable may be "Hipster Troll Carwash," but others included "Hold This Car," "Humongous Tinfoil Catamaran," and "Hot Tea Catapult." Clever, but maybe not the best way to sell phones.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Little Kid Asks "What's a Computer?" (2018)
 
  Apple is known for being very good at marketing its products, but no one is perfect. In 2018, a kid in a purple puffer jacket asked the simple question: "What's a computer?" The internet didn't like that.
 
  In the ad, the kid goes about their day doing various tasks with an iPad Pro, an Apple Pencil, and a keyboard case. The ad ends with the child's neighbor asking, "whatcha doin' on your computer?" to which they reply, "what's a computer?" People did not like the implication that the iPad could replace a full computer or that the iPad itself isn't a type of computer. Apple eventually removed the ad from its official YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Creepy Guy Stalks a Girl With the Samsung Galaxy Gear (2013)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 
 
  In 2013, smartwatches were a budding new category, and Samsung was trying to show people why they needed one in their life. The company decided to go with the archaic angle of "use our product to get the girl," but it came off as very creepy.
 
  In the ad, a guy with a Galaxy Gear smartwatch demands a girl give him her number and takes photos of her skiing without her knowledge. As the ad progresses, he shows off what his watch can do and wins the girl over a watch-less loser. It ends with him winking at the camera as he embraces the girl. Eww.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ##  A Terrible Song Tries to Sell Song-Building Software (2013)
 
  Using a song that was created with the song-building software you're trying to sell sounds like a good idea, in theory. However, it only really works if the song is _good_. This is where Microsoft utterly failed in its 2013 ad for Microsoft Songsmith.
 
  The ad starts with a dad complaining about how he needs to create a campaign to sell glow-in-the-dark towels for his job. His daughter, sitting at the kitchen table on her laptop, begins singing, and the two continue to go back and forth in an extremely awkward and not particularly good song about Songsmith. It's a tough listen.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sprint Puts the Camera on its CEO (2008)
 
  It's never a good sign for a company when it decides to put its CEO in commercials. That's exactly what Sprint did in the late 2000s. The ads featured CEO Dan Hesse casually talking to the camera in various environments — in black and white, for some reason.
 
  While the ads are not poorly made, they really miss the mark. The last person people want to hear talk about the price of phone plans is the millionaire/billionaire CEO. Portraying him in black and white in "every man" situations feels very inauthentic. Sprint was struggling, and these ads certainly didn't help its situation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ##  Asus Mispronounces its Own Name For Laughs (2010)
 
  The name "Asus" is not easy to pronounce, and the company is apparently aware of this fact. Asus decided to lean into this with an ad that featured a pair of women who love Asus computers but think the company name rhymes with "passes."
@@ -75,3 +94,43 @@ Tech companies are good at many things — like making tech products — but mar
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-hero5-black-or-yi-comparing-top-actions-cameras/"><u>[Updated] 2024 Approved  Hero5 Black or YI  Comparing Top Actions Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-tricks-for-quick-webp-to-jpg-conversion/"><u>2024 Approved  Advanced Tricks for Quick WebP to JPG Conversion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sifting-through-cloud-costs-for-maximum-savings/"><u>2024 Approved  Sifting Through Cloud Costs for Maximum Savings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/full-draft-of-the-upcoming-pcie-generation-7-specs-moving-ahead-to-official-release/"><u>Full Draft of the Upcoming PCIe Generation 7 Specs - Moving Ahead to Official Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-find-the-optimal-selfie-extender-a-quick-tip-list/"><u>How to Find The Optimal Selfie Extender - A Quick Tip List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-7-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 7 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g23-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>In 2024, A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-youtube-to-facebook-sharing-pathways/"><u>In 2024, Navigating YouTube to Facebook Sharing Pathways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-pcie-testing-premium-white-atx-design-featuring-5-m2-slots/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard PCIe Testing - Premium White ATX Design Featuring 5 M.2 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-camm2-an-overview-of-the-latest-smaller-swift-and-upgradeable-memory-standard/"><u>Introducing CAMM2: An Overview of the Latest Smaller, Swift, and Upgradeable Memory Standard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-loongson-powered-dtx-boards-and-pcs-in-the-us-market-for-only-373-begin-your-high-performance-journey-today/"><u>Introducing Loongson Powered DTX Boards and PCs in the US Market for Only $373, Begin Your High-Performance Journey Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-wisdom-from-toms-tech-vault/"><u>Mastering Hardware Choices: Wisdom From Tom's Tech Vault</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-hardware-experts/"><u>Mastering Technology Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/motherboard-industry-soars-projected-sales-of-39-million-units-matching-pre-crisis-delivery-numbers/"><u>Motherboard Industry Soars: Projected Sales of 39 Million Units Matching Pre-Crisis Delivery Numbers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/overcome-raptor-lake-chips-crashing-woes-how-asus-introduces-baseline-profile-update-for-optimal-performance/"><u>Overcome Raptor Lake Chips' Crashing Woes: How Asus Introduces Baseline Profile Update for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-tech-advice-from-toms-hardware-resource/"><u>Precision Tech Advice From Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/prepare-for-the-future-how-pcie-60-tackles-heat-with-innovative-cooling-solutions/"><u>Prepare For The Future: How PCIe 6.0 Tackles Heat With Innovative Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pushing-boundaries-asrock-debuts-revolutionary-amd-ryzen-9000-boards/"><u>Pushing Boundaries: ASRock Debuts Revolutionary AMD Ryzen 9000 Boards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-in-the-tech-world-with-toms-hardware-reviews/"><u>Stay Ahead in the Tech World with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964488813-stream-like-a-pro-at-record-lows-with-logiteches-g-yeti-gx-microphone-offer-dont-miss-this-exclusive-deal/"><u>Stream Like a Pro at Record Lows with Logiteche's G Yeti GX Microphone Offer – Don’t Miss This Exclusive Deal!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/support-sobriety-efforts-if-you-confirm-that-your-teenager-has-been-using-drugs-or-alcohol-help-them-find-resources-such-as-support-groups-counseling-servic85/"><u>Support Sobriety Efforts: If You Confirm that Your Teenager Has Been Using Drugs or Alcohol, Help Them Find Resources Such as Support Groups, Counseling Services, Rehabilitation Programs, or Sober Activities to Encourage and Maintain Sobriety.</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackle-the-persistent-memory-error-12707-in-call-of-duty-modern-warfare-3-expert-fixes-and-tricks-revealed/"><u>Tackle the Persistent Memory Error 12707 in Call of Duty: Modern Warfare 3 - Expert Fixes and Tricks Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-computers-by-toms-tech-sanctuary/"><u>The Ultimate Guide to High-Performance Computers by Tom's Tech Sanctuary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-toms-technology-review/"><u>The Ultimate Guide to High-Performance Hardware by Tom's Technology Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-guide-inside-knowledge-from-toms-hardware/"><u>The Ultimate Tech Guide: Inside Knowledge From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-hardware-reviews-t17238628805697/"><u>Tom's Tech Hub: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-innovative-insights-on-hardware-components/"><u>Tom's Tech Review: Innovative Insights on Hardware Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-and-analysis/"><u>Tom's Tech Reviews: Insights and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-leading-guide-on-computer-components/"><u>Tom's Tech Reviews: Leading Guide on Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-motherboards-of-2024-compare-by-socket-type-and-chipset/"><u>Top Rated Gaming Motherboards of 2024: Compare by Socket Type & Chipset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-compact-pc-building-with-maxsuns-newly-engineered-backside-slot-mini-itx-board/"><u>Transforming Compact PC Building with Maxsun's Newly Engineered Backside Slot Mini-ITX Board</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-computer-components-by-toms-hardware-experts/"><u>Ultimate Guide to Computer Components by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-the-power-of-hardware-with-toms-wisdom/"><u>Unleash the Power of Hardware with Tom's Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-new-ice-themed-z790-aorus-xtreme-x-golden-cpu-socket-and-dazzling-giant-m2-cooling/"><u>Unveiling Gigabyte's New Ice-Themed Z790 Aorus XTreme X: Golden CPU Socket & Dazzling Giant M.2 Cooling</u></a></li>
+</ul></div>

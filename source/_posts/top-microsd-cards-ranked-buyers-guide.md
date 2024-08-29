@@ -1,7 +1,7 @@
 ---
 title: "Top MicroSD Cards Ranked : Buyer's Guide"
-date: 2024-08-26 16:20:25
-updated: 2024-08-29 12:27:53
+date: 2024-08-28T04:16:58.106Z
+updated: 2024-08-29T04:16:58.106Z
 tags:
   - hardware
 categories:
@@ -125,10 +125,16 @@ The SanDisk Ultra is a reliable microSD card for everyday essential data storage
 
 [$110 at Amazon](https://www.amazon.com/gp/product/B0CJMRW771/?smid=ATVPDKIKX0DER&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) [$110 at B&H Photo Video](https://www.bhphotovideo.com/c/product/1792744-REG/sandisk%5Fsdsquac%5F1t50%5Fgn6ma%5F1%5F5tb%5Fultra%5Fuhs%5Fi%5Fmicrosd.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  Best microSD Card for Steam Deck: [Samsung Evo Select microSDXC Card](https://www.amazon.com/dp/B0CWPPMD8W?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) 
 
 ![samsung evo select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/samsung-evo-select.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 Samsung
 
 | Pros               | Cons                           |
@@ -146,6 +152,14 @@ Samsung
 
 ![samsung evo select](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/samsung-evo-select.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best microSD Card for Steam Deck
@@ -179,6 +193,9 @@ SanDisk
 
 ![sandisk-extreme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/sandisk-extreme.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
 Best microSD Card for Nintendo Switch
@@ -191,6 +208,10 @@ SanDisk Extreme’s fast transfer speeds ensure quick game loading and a smooth 
 
 [$25 at Amazon](https://www.amazon.com/SanDisk-Extreme-microSDXC-Memory-Adapter-dp-B09X7CRKRZ/dp/B09X7CRKRZ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1692705-REG/sandisk%5Fsdsqxav%5F256g%5Fan6ma%5F256gb%5Fextreme%5Fuhs%5Fi%5Fmicrosd.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ##  Best microSD Card for Raspberry Pi: [Kingston Canvas Go Plus microSDXC card](https://www.bhphotovideo.com/c/product/1557869-REG/kingston%5Fsdcg3%5F128gbsp%5F128gb%5Fcanvas%5Fgo%5Fplus.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
 ![kingston canvas go plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/kingston-canvas-go-plus.jpg) 
@@ -213,8 +234,14 @@ Kingston
 
 ![kingston canvas go plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/kingston-canvas-go-plus.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Best microSD Card for Raspberry Pi
 
 #####  Kingston Canvas Go Plus MicroSDXC
@@ -223,6 +250,9 @@ Thanks to its fantastic read and write speeds, the Kingston Canvas Go Plus is an
 
 [See at B&H Photo Video](https://www.bhphotovideo.com/c/product/1557869-REG/kingston%5Fsdcg3%5F128gbsp%5F128gb%5Fcanvas%5Fgo%5Fplus.html/BI/22163/KBID/28708/SID/UUhtgUeUpU2003667) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Best microSD Card for Cameras: [SanDisk Extreme microSDXC card](https://www.amazon.com/gp/product/B09X7CRKRZ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003667&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbest-microsd-cards%2F&asc%5Fcampaign=Commerce) 
 
 ![sandisk extreme 512gb](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/sandisk-extreme-512gb.jpg) 
@@ -247,6 +277,9 @@ SanDisk
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-best-of-2024-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 Best microSD Card for Cameras
 
 #####  SanDisk Extreme 
@@ -259,6 +292,9 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### What is the difference between an SD and a microSD card?
 
  SD and microSD cards differ in their physical size and typical usage. SD cards are about 24mm x 32mm x 2.1mm, while microSD cards are about 15mm x 11mm x 1mm. Otherwise, both share the same standards for storage capacity and speed.
@@ -267,10 +303,16 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
 
  You can use a microSD card as a normal SD card using an adapter. MicroSD cards are often bundled with an adapter for this very purpose. However, you can buy one separately if your microSD card doesn’t have an adapter.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why is read and write speed important for an SD card?
 
  Read and write speeds are [important for microSD and SD cards](https://some-approaches.techidaily.com/updated-total-takeover-of-powerdirector-with-our-2024-review/) because they impact how quickly you can access the content stored on them or store fresh content. For example, your camera will struggle to record 4K video on a card without a fast writing speed. As cameras often have very little onboard storage, the captured photos and videos are transferred to the microSD and [SD cards](https://facebook-video-content.techidaily.com/2024-approved-what-lurks-behind-the-curtain-of-missing-video-suggestions/) in real time. Similarly, without faster read speeds, your portable gaming console won’t be able to quickly load the apps and games on the card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### What do the microSD card classes mean?
 
  The [microSD card classes](https://screen-video-capture.techidaily.com/new-in-2024-high-quality-video-webcams-top-5-combos-with-sound/) refer to the card’s minimum sustained write speeds or random read/ write speeds. There are different card classes: Speed Class, UHS Speed Class, Video Speed Class, and Application Performance Class.
@@ -299,3 +341,53 @@ The SanDisk Extreme is an excellent microSD card for any type of camera. It’s 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-video-intro-templates-you-need-to-download/"><u>[New] Free Video Intro Templates You Need to Download</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tailored-video-edits-for-exceptional-vimeo-content/"><u>[New] In 2024, Tailored Video Edits for Exceptional Vimeo Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-launching-your-digital-dialogues-in-google-meet-for-2024/"><u>[New] Launching Your Digital Dialogues in Google Meet for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-balancing-act-tripod-use-for-stable-vlogging/"><u>[Updated] 2024 Approved  Balancing Act  Tripod Use for Stable Vlogging</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-efficient-roblox-gaming-save-techniques-on-macs-for-2024/"><u>[Updated] Efficient Roblox Gaming Save Techniques on Macs for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/549-for-the-lg-ultragear-34-qhd-monitor-features-g-sync-available-now-on-amazon/"><u>$549 for the LG Ultragear 34 QHD Monitor - Features G-Sync, Available Now on Amazon!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>2024 Approved  Gentle Glide of Noises  Subdued Amplitude Adjustment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-standout-14-animation-techniques-for-texts/"><u>2024 Approved  Standout 14 Animation Techniques for Texts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>2024 Approved  The Future of Virtual Spaces  Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazing-deal-gigabyte-aorus-49-oled-gaming-monitor-now-just-969-best-ever-pricing/"><u>Amazing Deal: Gigabyte Aorus 49 OLED Gaming Monitor Now Just $969 – Best Ever Pricing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-unveils-powerhouse-triad-the-u3-graphic-pro-monitors-for-professionals/"><u>AOC Unveils Powerhouse Triad - The U3 Graphic Pro Monitors for Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-software-and-more-at-toms-tech-destination/"><u>Delving Into Hardware, Software, and More at Tom's Tech Destination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-through-toms-equipment-insights/"><u>Discover Cutting-Edge Devices Through Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862832943-discover-the-alienware-34-inch-curved-gaming-masterpiece-exclusive-deal-for-749-at-best-buy/"><u>Discover the Alienware 34 Inch Curved Gaming Masterpiece - Exclusive Deal for $749 at Best Buy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862825645-experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unparalleled-gaming-with-the-alienware-aw225df-the-ultimate-review-of-a-360hz-oled-display/"><u>Experience Unparalleled Gaming with the Alienware AW2^®25DF - The Ultimate Review of a 360Hz OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-digital-tools-and-devices-toms-hardware-wisdom/"><u>Expert Analysis on Digital Tools and Devices: Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-electronics-welcome-to-toms-hardware-haven/"><u>Expert Analysis on Electronics - Welcome to Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub/"><u>Exploring Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-display-mastery-experience-vibrant-colors-on-the-gigabyt-aorus-co49dq-oled-monitor/"><u>Gaming Display Mastery: Experience Vibrant Colors on the Gigabyt Aorus CO49DQ OLED Monitor</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-s17-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo S17 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g84-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G84 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/huge-discount-alert-600-off-on-the-incredible-samsung-49-inch-oled-monitor-limited-time-offer/"><u>Huge Discount Alert: $600 Off on the Incredible Samsung 49-Inch OLED Monitor - Limited Time Offer!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/1715859708394-in-2024-best-free-android-capture-app-zero-ads/"><u>In 2024, Best Free Android Capture App, Zero Ads!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-devices-at-toms-hardware/"><u>In-Depth Analysis of Cutting-Edge Devices at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovate-your-setup-tips-from-toms-hardware-reviews/"><u>Innovate Your Setup: Tips From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-build-advanced-insights-from-toms-hardware-experts/"><u>Master Your Build: Advanced Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-new-technology-insights-and-reviews-straight-from-toms-lab/"><u>Mastering New Technology: Insights and Reviews Straight From Tom's Lab</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-gear-a-deep-dive-into-toms-hardware-selection/"><u>Mastering Tech Gear: A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-detailed-hardware-breakdowns-from-toms-team/"><u>Mastering Technology: Detailed Hardware Breakdowns From Tom's Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-needs-with-expert-insights-from-toms-hardware/"><u>Mastering Your Tech Needs with Expert Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastery-in-tech-professional-reviews-and-insights-by-toms-circuitry/"><u>Mastery in Tech: Professional Reviews & Insights by Tom's Circuitry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-choices-wisdom-from-toms-technology-blog/"><u>Navigating Hardware Choices - Wisdom From Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-advanced-hardware-solutions-at-toms-electronics-guide/"><u>Navigating Through Advanced Hardware Solutions at Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-high-tech-equipment-guidance-from-toms-hardware-hub/"><u>Navigating Through High-Tech Equipment: Guidance From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pro-hardware-rundown-expert-analysis-of-the-latest-computing-innovations/"><u>Pro Hardware Rundown: Expert Analysis of the Latest Computing Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829610-sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-behind-chatgpt-jailbreak-failures-unveiling-7-critical-reasons/"><u>The Truth Behind ChatGPT Jailbreak Failures: Unveiling 7 Critical Reasons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-windows-shift-moving-from-7-to-11/"><u>The Windows Shift: Moving From 7 to 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-android-remote-control-applications-managing-your-phone-via-pc/"><u>Top 5 Android Remote Control Applications: Managing Your Phone via PC</u></a></li>
+</ul></div>

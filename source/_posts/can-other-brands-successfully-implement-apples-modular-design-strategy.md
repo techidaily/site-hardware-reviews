@@ -1,7 +1,7 @@
 ---
 title: Can Other Brands Successfully Implement Apple's Modular Design Strategy?
-date: 2024-08-26 16:26:43
-updated: 2024-08-29 11:43:48
+date: 2024-08-28T04:16:27.054Z
+updated: 2024-08-29T04:16:27.054Z
 tags:
   - hardware
 categories:
@@ -43,10 +43,16 @@ Moto Mods
 
  Since then, there have been some attempts from [Fairphone](https://extra-tips.techidaily.com/2024-approved-capture-the-spectacular-with-nikon-d500-in-4k/)–who is more concerned with repairability–and HMD Global is apparently interested in the concept, too. None of these ideas have truly caught on with the general public. Motorola probably had the best effort with a system that lasted several years, but it couldn't save the company from falling into irrelevance.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why MagSafe Succeeded
 
 ![MagSafe on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52533931426_9c32e8d1a7_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  Around the same time that Moto Mods faded out, Apple got into the modular accessory game with [MagSafe](https://techno-recovery.techidaily.com/mastering-regional-adjustments-how-to-update-regions-on-your-iphone/) on the [iPhone 12 and iPhone 12 Pro](https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/). Like Motorola, it used magnets to attach chargers, battery packs, wallets, stands, speakers, and more. Four years later, [it remains a part of iPhone models](https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a15-4g-screen-drfone-by-drfone-android/) and has generated huge demand for accessories.
@@ -57,10 +63,16 @@ Hannah Stryker / How-To Geek
 
  Other manufacturers don't have that same track record and, as a result, don't have the same trust from consumers or accessory makers. LG made a big deal about their "LG Friends" accessories, then completely ditched the idea a year later. Motorola lasted four years. That's a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How Others Can Find Success
 
 ![CMF Phone 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-nothing-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 CMF
 
  The most recent entry in the modular smartphone saga is the [CMF Nothing 1](https://www.androidpolice.com/cmf-phone-1-review/). The device's back plate is easily removed with a screwdriver, and there's a big thumb screw in the bottom corner that can be taken off without tools. CMF offers a wallet, kickstand, and lanyard accessories at launch. Cool idea, but will it last?
@@ -85,3 +97,43 @@ CMF
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elevate-video-calls-browse-through-our-top-5-hd-webcams-and-mics/"><u>[New] 2024 Approved  Elevate Video Calls - Browse Through Our Top 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-witness-humor-with-hearts-on-instagram-top-10-memes-to-admire/"><u>[New] In 2024, Witness Humor with Hearts on Instagram  Top 10 Memes to Admire</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-definitive-iphone-podcast-download-guide/"><u>[New] The Definitive iPhone Podcast Download Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-followers-to-fans-a-strategic-approach-to-instagram-brand-alliances/"><u>[Updated] 2024 Approved  From Followers to Fans  A Strategic Approach to Instagram Brand Alliances</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-success-understanding-youtube-insights/"><u>[Updated] In 2024, Charting Success  Understanding YouTube Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-engagement-personalized-youtube-thumbnail-guide/"><u>[Updated] In 2024, Elevate Engagement  Personalized YouTube Thumbnail Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhancing-smooth-playback-stop-frame-gaps-in-obs/"><u>[Updated] In 2024, Enhancing Smooth Playback  Stop Frame Gaps in OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-splitcam-probe-in-video-techs-top-spot/"><u>[Updated] SplitCam Probe - In Video Tech's Top Spot?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-dominate-your-digital-footprint-with-large-scale-fb-visuals/"><u>2024 Approved  Dominate Your Digital Footprint with Large-Scale Fb Visuals</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/practices-in-digital-image-creation-for-youtube-for-2024/"><u>Best Practices in Digital Image Creation for YouTube for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/calming-chronicles-on-screen-evaluating-bedtime-story-videos/"><u>Calming Chronicles on Screen  Evaluating Bedtime Story Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-pimoronis-nvme-storage-card-a-detailed-duo-review/"><u>Comprehensive Evaluation of Pimoroni's NVMe Storage Card - A Detailed Duo Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsairs-revolutionary-rmx-series-psu-units-with-innovative-side-mounted-modularity/"><u>Corsair's Revolutionary RMx Series: PSU Units with Innovative Side-Mounted Modularity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-worlds-smallest-atx-3n-psu-from-enermax-the-ultimate-choice-for-space-saving-rear-connector-enhanced-computer-builds/"><u>Discover the World’s Smallest ATX 3.n PSU From Enermax – The Ultimate Choice for Space-Saving, Rear-Connector Enhanced Computer Builds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficiency-and-performance/"><u>Efficiency and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-evaluating-performance-and-reliability-of-thermaltakes-1350w-toughpower-gf3-power-supply-unit/"><u>Expert Insights: Evaluating Performance and Reliability of Thermaltake's 1350W Toughpower GF3 Power Supply Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-computing-with-toms-hardware-guides/"><u>Exploring Advanced Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-in-computing-with-toms-gear-insights/"><u>Exploring New Horizons in Computing with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17239718756091/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-command-a-flip-display-using-your-raspberry-pi-a-simple-guide/"><u>How to Command a Flip Display Using Your Raspberry Pi: A Simple Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-tecno-pop-8-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Tecno Pop 8 by Name | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-tube-to-chat-sharing-video-content-from-youtube-and-twitter-directly/"><u>In 2024, From Tube to Chat  Sharing Video Content From YouTube & Twitter Directly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-and-testing-results-for-the-msi-mpg-a650gf-power-unit/"><u>In-Depth Evaluation & Testing Results for the MSI MPG A650GF Power Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-expertise-a-guide-to-cutting-edge-technology-choices/"><u>Inside Tom's Gadget Expertise: A Guide to Cutting-Edge Technology Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/managing-a-flip-screen-with-raspberry-pi-tips-and-techniques-for-successful-setup/"><u>Managing a Flip Screen with Raspberry Pi: Tips and Techniques for Successful Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-insights/"><u>Navigating the Digital Landscape with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-in-depth-hardware-analysis/"><u>Navigating the World of Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964495768-power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-samsung/"><u>Step-by-Step Guide: Updating Your Samsung</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-cutting-edge-reviews-and-advice/"><u>Tom's Tech Insights: Cutting-Edge Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-pc-building/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and PC Building</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-performance-benchmarks/"><u>Tom's Tech Review: In-Depth Analysis and Performance Benchmarks</u></a></li>
+</ul></div>

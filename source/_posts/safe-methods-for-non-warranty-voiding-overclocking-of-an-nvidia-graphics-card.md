@@ -1,7 +1,7 @@
 ---
 title: Safe Methods for Non-Warranty Voiding Overclocking of an NVIDIA Graphics Card
-date: 2024-08-28 21:53:34
-updated: 2024-08-29 10:15:14
+date: 2024-08-28T04:17:38.380Z
+updated: 2024-08-29T04:17:38.380Z
 tags:
   - hardware
 categories:
@@ -25,6 +25,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The NVIDIA app has been updated to include a new feature called Automatic Tuning. This allows you to automatically [overclocks](https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-x50-to-enjoy-more-fun-drfone-by-drfone-virtual-android/) your NVIDIA GPU while ensuring that your GPU’s thermal management system is not overburdened. It's a safe, one-click overclock that doesn’t affect your warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ##  How to Automatically Overclock Your GPU in the NVIDIA App
 
  First, you'll need to download the latest version of the NVIDIA App. At the time of writing the app is still in beta, but it will eventually be released as a stable tool. If you haven't got it already, [download the latest version](https://www.nvidia.com/en-eu/software/nvidia-app/) of the NVIDIA app.
@@ -35,16 +38,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Automatic Tuning feature found in the NVIDIA App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-to-automatically-overclock-your-nvidia-gpu-01.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, you’ll have to wait about 20 minutes for the NVIDIA App to work its magic and test your GPU. Just let the program run and make sure to close all unnecessary apps running in the background.
 
 ![Auto OC process underway in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-to-automatically-overclock-your-nvidia-gpu-02.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
  Once the testing phase finishes, the app will list your results. In my case, I’ve unlocked a 97MHz boost to my GPU clock and a 200MHz boost to my memory.
 
 ![NVIDIA App automatic tuning results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-to-automatically-overclock-your-nvidia-gpu-03.png) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  These results are fine for an automatic overclocking tool but far below what I managed to get when I manually overclocked my card years ago. Back then, I settled for \~120MHz boost to my GPU clock and +1000MHz for memory.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Does Auto Overclock Bring Any Performance Gains?
 
  Personally, I’ve never daily driven my RTX 3070 in an overclocked state. Instead, I [undervolted](https://technical-tips.techidaily.com/complete-guide-step-by-step-process-of-removing-a-twitch-profile/) the GPU @925mV and applied a +1000MHz memory overclock shortly after buying it. With those settings, my GPU has been running cooler and using less power than with the default settings for about a year.
@@ -67,6 +87,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For what it’s worth, I got my GPU at the height of [the infamous chip shortage](https://techtrends.techidaily.com/fix-libcea32dll-not-found-issues-a-stepwise-approach-for-users/), which resulted in buying the cheapest RTX 3070 model available. The Gigabyte RTX 3070 Eagle OC that I picked up has a fairly poor cooling solution. I reckon that if you’ve got a higher-quality GPU with a better cooling setup and a more robust voltage regulating module (VRM), you’ll probably get a better result when using the NVIDIA app to overclock your card.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  Overclocking Your GPU Can Damage It
 
  You should be aware that the Automatic Tuning utility has a very slim chance of messing up your graphics card. In fact, there’s always a slim chance of breaking your GPU or CPU when overclocking it. That said, the chance of anything going south is minuscule because modern GPUs and CPUs have built-in safety features that turn the chip off when a higher-than-normal temperature or power usage is detected.
@@ -95,3 +118,45 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-affordable-methods-for-video-and-text-synergy/"><u>[New] In 2024, Affordable Methods for Video and Text Synergy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>[New] In 2024, Channel Milestone Hurdle – Cross the 10K View Threshold Fast</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-iptv-transmission-across-devices/"><u>[New] IPTV Transmission Across Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-comprehensible-and-cost-free-subtitle-downloader-sites/"><u>[Updated] 2024 Approved  10 Comprehensible & Cost-Free Subtitle Downloader Sites</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-editing-excellence-incorporating-timestamps-and-labels/"><u>[Updated] 2024 Approved  Editing Excellence  Incorporating Timestamps and Labels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-maximize-your-inspiration-free-pinterest-video-downloaders/"><u>[Updated] In 2024, Maximize Your Inspiration  Free Pinterest Video Downloaders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-visual-verve-new-era-of-radeon/"><u>[Updated] In 2024, Visual Verve  New Era of Radeon</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-creme-de-la-creme-of-fps-games-7-for-2024/"><u>[Updated] The Crème De La Créme of FPS Games (7) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-metaverse-vs-multi-meva-key-differences-explained/"><u>2024 Approved  Exploring Metaverse Vs. Multi-Meva  Key Differences Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-f04-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy F04 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-pimoronis-nvme-storage-card-a-detailed-duo-review/"><u>Comprehensive Evaluation of Pimoroni's NVMe Storage Card - A Detailed Duo Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficiency-and-performance/"><u>Efficiency and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-evaluating-performance-and-reliability-of-thermaltakes-1350w-toughpower-gf3-power-supply-unit/"><u>Expert Insights: Evaluating Performance and Reliability of Thermaltake's 1350W Toughpower GF3 Power Supply Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-computing-with-toms-hardware-guides/"><u>Exploring Advanced Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-in-computing-with-toms-gear-insights/"><u>Exploring New Horizons in Computing with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17239718756091/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-resolving-application-cannot-execute-problems-on-personal-computers/"><u>Guide: Resolving ‘Application Cannot Execute’ Problems on Personal Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-command-a-flip-display-using-your-raspberry-pi-a-simple-guide/"><u>How to Command a Flip Display Using Your Raspberry Pi: A Simple Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-11-and-10-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 11 & 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premier-hd-picks-for-impeccable-video-recorders/"><u>In 2024, Premier HD Picks for Impeccable Video Recorders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-and-testing-results-for-the-msi-mpg-a650gf-power-unit/"><u>In-Depth Evaluation & Testing Results for the MSI MPG A650GF Power Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-expertise-a-guide-to-cutting-edge-technology-choices/"><u>Inside Tom's Gadget Expertise: A Guide to Cutting-Edge Technology Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/managing-a-flip-screen-with-raspberry-pi-tips-and-techniques-for-successful-setup/"><u>Managing a Flip Screen with Raspberry Pi: Tips and Techniques for Successful Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-components-with-toms-hardware-guides-your-ultimate-resource-for-gear-analysis-and-selection/"><u>Navigating PC Components with Tom's Hardware Guides: Your Ultimate Resource for Gear Analysis and Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-insights/"><u>Navigating the Digital Landscape with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-in-depth-hardware-analysis/"><u>Navigating the World of Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone/"><u>New In 2024, Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964507389-pineboards-innovative-combo-package-features-raspberry-pi-enhanced-with-neural-processing-unit-and-m2-nvme-storage-now-available/"><u>Pineboards' Innovative Combo Package Features Raspberry Pi Enhanced with Neural Processing Unit and M.2 NVMe Storage - Now Available</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-picks-the-best-11-audio-recorders-guide-for-2024/"><u>Premier Picks  The Best 11 Audio Recorders Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-release-huawei-and-orange-pi-unveil-innovative-development-board-featuring-enigmatic-cpu-and-advanced-ai-processor-outmaneuvering-curious-onlo33/"><u>Revolutionary Release: Huawei & Orange Pi Unveil Innovative Development Board Featuring Enigmatic CPU & Advanced AI Processor, Outmaneuvering Curious Onlookers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-definitive-samsung-galaxy-tab-s7-review-why-it-stands-out-as-a-mid-range-gem-for-android-users/"><u>The Definitive Samsung Galaxy Tab S7 Review: Why It Stands Out as a Mid-Range Gem for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-deeper-dive-into-hardware/"><u>Tom's Tech Insights: A Deeper Dive Into Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-cutting-edge-reviews-and-advice/"><u>Tom's Tech Insights: Cutting-Edge Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-pc-building/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and PC Building</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-on-the-latest-computer-components/"><u>Tom's Tech: Insights on the Latest Computer Components</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-error-code-0x80070570-causes-and-solutions/"><u>Understanding Error Code 0X80070570: Causes & Solutions</u></a></li>
+</ul></div>

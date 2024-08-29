@@ -1,7 +1,7 @@
 ---
 title: "Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users"
-date: 2024-08-26 12:37:27
-updated: 2024-08-29 10:57:43
+date: 2024-08-28T04:20:19.609Z
+updated: 2024-08-29T04:20:19.609Z
 tags:
   - android
 categories:
@@ -31,10 +31,16 @@ Related: [What Is Image Stabilization, and How Does It Work?](https://desktop-re
 
  OIS can make a huge difference in photo and video quality. It's nearly impossible to hold a phone perfectly still with only your hands. The mechanisms that make this possible inside an iPhone or Android camera are remarkably small and delicate. That's where the risk of damage from vibrations comes into play.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  How Can Vibration Damage a Camera?
 
 ![iPhone 13 on a motorcycle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2021-09-17_16-07-48.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Apple_
 
  Moving parts are what often lead to failures, especially when it comes to gadgets. A smartphone camera with OIS has several small moving parts inside it, and those parts are delicate. Enough stress on those parts can cause them to fail.
@@ -43,6 +49,9 @@ _Apple_
 
  This is not something most people need to worry too much about. You're not going to damage the camera by keeping it in your pocket while running. The vibrations to worry about are from high-power, high-volume engines, like the aforementioned motorcycles.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Can I Do to Avoid Damage?
 
  The main thing to avoid is extended exposure to these high-amplitude vibrations. Strapping your iPhone or Android device to a motorcycle for a short trip once in a while is probably fine. If you're doing it twice a day for your 30-minute commute, that's a bigger risk.
@@ -51,6 +60,9 @@ _Apple_
 
 ![31sPsK50zKL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31spsk50zkl-_sl500_.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 For Motorcycles, Bikes, and Cars
 
 #####  Quad Lock Vibration Dampener
@@ -77,3 +89,73 @@ Related: [When Should You Use Image Stabilization When You’re Taking Photos?](
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-guardians-of-the-screen-the-best-webcam-cover-options/"><u>[New] 2024 Approved  Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-best-offline-ios-games-your-ultimate-guide-for-2024/"><u>[New] Discover the Best Offline iOS Games – Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-filmmakers-choice-top-8-free-and-paid-app-list/"><u>[New] IPhone Filmmakers' Choice  Top 8 Free & Paid App List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlining-minecraft-by-boosting-ram-capacity/"><u>[New] Streamlining Minecraft by Boosting RAM Capacity</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-transform-ordinary-pictures-into-viral-masterpieces-on-tiktok-for-2024/"><u>[New] Transform Ordinary Pictures Into Viral Masterpieces on TikTok for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-voice-over-techniques-creating-compelling-video-content/"><u>[New] Voice Over Techniques  Creating Compelling Video Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-frame-your-story-a-guide-to-insta-video-bordering-for-2024/"><u>[Updated] Frame Your Story  A Guide to Insta Video Bordering for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-go-big-go-viral-channel-tiktok-trends-into-instagram-reels-for-2024/"><u>[Updated] Go Big, Go Viral  Channel TikTok Trends Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-techniques-for-alluring-fb-video-marketing/"><u>[Updated] Techniques for Alluring FB Video Marketing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-trailer-showcase-collection/"><u>2024 Approved  Elite Trailer Showcase Collection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/a-detailed-tutorial-on-how-to-use-green-screen-in-kinemaster/"><u>A Detailed Tutorial On How To Use Green Screen In Kinemaster</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-the-new-dual-screen-laptop-watch-out-for-pre-launch-discount-and-details-next-month/"><u>AceMagic X1 - The New Dual-Screen Laptop: Watch Out for Pre-Launch Discount & Details Next Month</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862699721-acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-300-risc-v-developers-laptop-by-chinese-tech-startup/"><u>Affordable $300 RISC-V Developer's Laptop by Chinese Tech Startup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862709133-amazon-prime-day-alert-discounted-16-inch-macbook-pro-with-m3-pro-saving-you-500/"><u>Amazon Prime Day Alert: Discounted 16-Inch MacBook Pro with M3 Pro, Saving You $500</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-introduces-vibrant-display-with-color-e-paper-technology-in-zephyrus-g14s-lid-the-future-of-personalized-gaming/"><u>Asus Introduces Vibrant Display with Color E-Paper Technology in Zephyrus G1^4's Lid – The Future of Personalized Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bargain-hunters-guide-to-the-latest-and-greatest-2024-gaming-notebooks/"><u>Bargain Hunters' Guide to the Latest & Greatest 2024 Gaming Notebooks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-basics-professional-tips-from-vidas-features/"><u>Beyond Basics  Professional Tips From Vida's Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-features-of-lenovos-thinkpad-x1-carbon-gen-12-a-pioneering-blend-of-lightness-and-smart-technology/"><u>Breaking Down the Features of Lenovo's ThinkPad X1 Carbon (Gen 12): A Pioneering Blend of Lightness and Smart Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/classic-meets-contemporary-the-apple-powerbook-520c-equipped-with-an-ipad-style-screen-and-internals-of-a-2015-macbook-pro/"><u>Classic Meets Contemporary: The Apple PowerBook 520C Equipped with an iPad-Style Screen and Internals of a 2015 MacBook Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/copilotplus-takes-on-new-snapdragon-laptop-lineup-real-time-testing-and-reviews/"><u>Copilot+ Takes on New Snapdragon Laptop Lineup - Real-Time Testing & Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/discarding-virtual-gatherings-on-fb-pcsmartphones-for-2024/"><u>Discarding Virtual Gatherings on FB, PC/Smartphones for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-f04-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy F04 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-apple-iphone-se-2020-in-3-ways-drfone-by-drfone-virtual-ios/"><u>Edit and Send Fake Location on Telegram For your Apple iPhone SE (2020) in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/electronics-mishap-how-a-laptop-fire-forced-emergency-disembarkation-from-an-american-airline-plane/"><u>Electronics Mishap: How a Laptop Fire Forced Emergency Disembarkation From an American Airline Plane</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guides-on-pc-components-by-toms-computer-gear/"><u>Expert Guides on PC Components by Tom's Computer Gear</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-techniques-for-opening-srt-on-computers-for-2024/"><u>Expert Techniques for Opening SRT on Computers for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-in-depth-hardware-analysis/"><u>Exploring Gadgets with Tom: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-msi-katana-gaming-laptop-just-1199-a-156-inch-machine-with-ultra-fast-rtx4070-graphics/"><u>Get the MSI Katana Gaming Laptop: Just $1,199 - A 15.6 Inch Machine with Ultra-Fast RTX^4070 Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862738874-get-your-hands-on-the-game-changing-lenovo-legion-slim-5-for-less-than-1100-shop-now-at-newegg/"><u>Get Your Hands on the Game-Changing Lenovo Legion Slim 5 for Less Than $1,100 – Shop Now at Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gpds-anticipated-challenge-to-the-market-a-glimpse-at-their-upcoming-dual-screen-oled-laptop/"><u>GPD's Anticipated Challenge to the Market: A Glimpse at Their Upcoming Dual-Screen OLED Laptop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-13-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone 13 online without jailbreak</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-unleashing-new-voices-premier-applications-for-anime-character-reinterpretation-desktop-and-mobile/"><u>In 2024, Unleashing New Voices Premier Applications for Anime Character Reinterpretation (Desktop & Mobile)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo Phone Network-Ready</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-rhythms-with-the-magix-groove-master-suite/"><u>Innovative Rhythms with the Magix Groove Master Suite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-of-pc-innovation-msis-aiplus-laptops-for-gamers-and-creators-unleashing-power-from-100-to-542-tops/"><u>Introducing the Future of PC Innovation: MSI's AI+ Laptops for Gamers and Creators - Unleashing Power From 100 to 542 TOPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-expert-tips-from-toms-hardware-hub/"><u>Mastering Modern Electronics: Expert Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technological-innovations-a-deep-dive-into-toms-hardware-analyses/"><u>Mastering Technological Innovations: A Deep Dive Into Tom's Hardware Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-needs-with-expert-guides-from-toms-hardware/"><u>Mastering Your Tech Needs with Expert Guides From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-toms-gear-hub/"><u>Navigate Through Technology With Tom's Gear Hub</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-convert-dailymotion-videos-online-for-free-no-cost/"><u>New In 2024, Convert Dailymotion Videos Online for Free - No Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-meets-savings-in-our-lenovo-legion-pro-5i-gen-9-review-a-must-have-for-value-driven-gamers/"><u>Performance Meets Savings in Our Lenovo Legion Pro 5I (Gen 9) Review: A Must-Have for Value-Driven Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862684147-powerbook-520c-back-from-history-now-features-a-refined-ipad-touchscreen-and-the-heart-of-a-201n5-core-i5-macbook-pro/"><u>PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powerbook-520c-back-from-history-now-features-a-refined-ipad-touchscreen-and-the-heart-of-a-201n5-core-i5-macbook-pro/"><u>PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro446/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-older-bios-setup-elements/"><u>Refreshing Older BIOS Setup Elements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-exclusive-savings-cut-700-from-your-price-tag-for-this-beastly-rtx-4090-gaming-laptop-by-alienware/"><u>Score Exclusive Savings: Cut $700 From Your Price Tag for This Beastly, RTX 4090 Gaming Laptop by Alienware!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-dark-side-of-progress-how-windows-firmware-updates-are-plaguing-hp-bricks-probooks-with-display-problems/"><u>The Dark Side of Progress: How Windows Firmware Updates Are Plaguing HP Bricks ProBooks with Display Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-hidden-downside-bios-updates-via-windows-pushes-spark-black-screen-troubles-for-hp-bricks-probooks/"><u>The Hidden Downside: BIOS Updates via Windows Pushes Spark Black Screen Troubles for HP Bricks ProBooks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-components-wisdom-from-toms-hardware/"><u>The Ultimate Guide to PC Components - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-cutting-edge-hardware/"><u>Tom's Tech Review: Expert Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-gadget-analysis/"><u>Tom's Tech Review: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/form-your-content-strategy-with-tubebuddy/"><u>Transform Your Content Strategy with TubeBuddy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/trouble-accessing-roblox-game-crash-or-connection-errors-at-play/"><u>Trouble Accessing Roblox – Game Crash or Connection Errors at Play?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-superior-voice-dictation-solutions/"><u>Ultimate Guide to the Superior Voice Dictation Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unable-to-send-messages-identify-the-issue-and-resolve-it-instantly/"><u>Unable to Send Messages? Identify the Issue and Resolve It Instantly!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-price-on-new-asus-tuf-gaming-a15-memorial-day-special-at-only-658/"><u>Unbeatable Price on New Asus TUF Gaming A15 - Memorial Day Special at Only $658</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-pc-potential-wisdom-from-toms-hardware-experts/"><u>Unleash Your PC Potential - Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/"><u>Unlocking the Potential of Computer Components with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-pc-components-with-guidance-from-toms-computing-site/"><u>Unveiling Cutting-Edge PC Components with Guidance From Tom's Computing Site</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-modern-electronics-at-toms-hardware-resource-center/"><u>Unveiling the Power of Modern Electronics at Tom's Hardware Resource Center</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated 2024 Approved A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-chromecasts-full-potential-streaming-local-videos-on-windows-mac-android-and-ios/"><u>Updated In 2024, Unlock Chromecasts Full Potential Streaming Local Videos on Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y02t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y02T Hard Reset | Dr.fone</u></a></li>
+</ul></div>

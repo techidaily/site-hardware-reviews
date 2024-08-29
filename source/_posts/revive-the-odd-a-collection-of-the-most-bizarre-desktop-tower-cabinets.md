@@ -1,7 +1,7 @@
 ---
 title: "Revive the Odd: A Collection of the Most Bizarre Desktop Tower Cabinets"
-date: 2024-08-28 14:30:45
-updated: 2024-08-29 12:30:46
+date: 2024-08-28T04:15:56.426Z
+updated: 2024-08-29T04:15:56.426Z
 tags:
   - hardware
 categories:
@@ -38,6 +38,9 @@ DeepCool
 
 ![DeepCool Quadstelalr Infinity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/deepcool-quadstelalr-infinity.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 DeepCool
 
  The [QuadStellar](https://www.deepcool.com/company/pressroom/newsrelease/2020/4303.shtml) is basically the TriStellar, but one better. It might not be quite as radical-looking, but it's definitely got plenty of the same desktop spaceship vibe going for it. It keeps the compartmentalized design idea from the TriStellar, but now accommodates E-ATX motherboards. Just as with its three-pointed sibling, the QuadStellar offers compartments that isolate major components and allow for optimal cooling, but also goes all out with the liquid cooling options, letting you set up multiple radiators. The extra compartment can be used exclusively for SSDs and HDDs, so it was actually not a bad choice for creatives or professionals who needed lots of storage housed and cooled properly.
@@ -50,10 +53,16 @@ Lian-Li
 
  As an avowed [arachnophile](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/), and fan of cyberpunk spider tanks, the T1R immediately appealed to me. I've always wanted to run a test-bench open-air system, but ultimately decided not to because of the very real chance that my cat or a glass of soda would end my PC's existence. Still, this is a great design for anyone who does hardware testing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 4  Thermaltake Level 10 GT 
 
 ![Thermaltake Level 10 GT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/thermaltake-level-10-gt.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ThermalTake
 
  When this case was announced back in 2011, there was no way I could afford it, or the components that justified owning it, but it was clearly the Rolls-Royce of PC cases. The Level 10 GT is humangous, and designed specifically to maximize cooling and minimize noise. What's even crazier, is that this was the [more affordable version](https://tools.techidaily.com/anandtech/products/) of the original level 10!
@@ -66,6 +75,9 @@ Corsair
 
  Of all the cases on this list, it's the 380T that I actually bought with my own money. This was my second mini-ITX build, and I stuffed this portable mesh case with a liquid-cooled 4690K CPU and a massive R9 390 GPU. After swapping out the 140MM front fan for a 200MM model, it honestly looked like something from the Death Star's server room. I loved the car door handles that opened the side panels, and I actually did schlep this to work a few times for special presentation and VR projects.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  Cooler Master Sneaker X 
 
 ![Cooler Master Sneaker X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/cooler-master-sneaker-x.jpeg) 
@@ -80,10 +92,16 @@ Cooler Master
 
 ![Thermaltake Core P90](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/thermaltake-core-p90.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ThermalTake
 
  Glass corner or "fishtank" cases are all the rage today, but the P90 from Thermaltake strips that idea down into its basics and gives you a two-faced glass case, but without the actual case panels. This is as close to a modern art piece as a PC case has ever come, and if I didn't dread having to keep it clean, I might even have considered it, assuming my bank account could justify it.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## 8  HP Omen X 
 
 ![HP Omen X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/hp-omen-x.jpeg) 
@@ -92,6 +110,9 @@ HP
 
  We are HP, surrender your wallets. We will add your PC components to our case. Resistance is futile.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9  COUGAR Conquer 
 
 ![COUGAR Conquer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/cougar-conquer.png) 
@@ -100,10 +121,16 @@ COUGAR
 
  I've actually seen one of these [COUGAR Conquer](https://cougargaming.com/products/cases/conquer/) cases in person, and this is one of the few cases on this list that you can readily buy at the time of writing. It's even more beautiful than the photos suggest, and it looks like it will leap off your desk at a moments notice. The main impression I get is "Lambo PC", but without the actual license to use the branding. It's a singular, _angular_ masterpiece and I'd rather have this than the boring fishtanks everyone shows off these days any time.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10  The Hydra Desk 
 
 ![The Hydra Desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-hydra-desk.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 HYDRA
 
  If you don't intend on taking your computer anywhere inbetween house moves, the [Hydra Desk](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fpromotions.newegg.com%2Fmarketplace%2F2017%2F17-8195%2Flp%2Findex.html) kills two birds with one expensive PC desk and chassic combo. Somehow, it manages to be both ridiculously extravagant, while also being minimalist as all heck.
@@ -124,3 +151,59 @@ HYDRA
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2023s-largest-threaded-video-compilation-for-2024/"><u>[New] 2023'S Largest Threaded Video Compilation for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-comprehensive-guide-to-making-gifs-from-youtube-tracks/"><u>[New] A Comprehensive Guide to Making GIFs From YouTube Tracks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oosting-your-content-reach-with-eye-catching-youtube-video-thumbnails/"><u>[New] Boosting Your Content Reach with Eye-Catching YouTube Video Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-for-iphones-in-virtual-reality/"><u>[New] Expert Techniques for iPhones in Virtual Reality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-filmmakers-essential-guide-to-free-royalty-free-audiosites/"><u>[New] In 2024, A Filmmaker's Essential Guide to Free Royalty-Free Audiosites</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-conversion-service-from-video-to-written-form/"><u>[New] In 2024, Expert Conversion Service  From Video to Written Form</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-laughter-lab-free-comic-creation-at-the-gateway/"><u>[New] Laughter Lab  Free Comic Creation at the Gateway</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimal-quick-glance-windows-photo-app/"><u>[New] Optimal Quick Glance Window's Photo App</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-rhythmic-revelations-adding-audio-to-your-vimeo-videos-for-2024/"><u>[New] Rhythmic Revelations  Adding Audio to Your Vimeo Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>[Updated] First Home Frontier  Top 6 Beginner-Friendly MC Abodes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[Updated] From Scribbles to Spectacle  Personalized Effect Crafting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ace-your-youtube-livestreams-mastering-broadcast-techniques-using-wirecast/"><u>[Updated] In 2024, Ace Your Youtube Livestreams  Mastering Broadcast Techniques Using WireCast</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-the-social-media-labyrinth-for-virality/"><u>[Updated] Mastering the Social Media Labyrinth for Virality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-vr-wave-crafting-engaging-360-video-narratives-for-youtube-audiences/"><u>[Updated] The VR Wave  Crafting Engaging 360 Video Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862800926-99-asus-tuf-gaming-screen-24-ips-display-with-165-hz-exclusive-deal-on-newegg/"><u>$99 ASUS TUF Gaming Screen, 24 IPS Display with 165 Hz, Exclusive Deal on Newegg!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>2024 Approved  Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-video-experience-ranking-the-best-12-players/"><u>Elevate Video Experience  Ranking the Best 12 Players</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-asus-rog-phone-8-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Asus ROG Phone 8 Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-f04-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy F04 Phone Screen?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-12plus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 12+ 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-s23-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel S23 Fingerprint Lock</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-mini-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 mini i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-device-with-a-complete-list-of-ipados-versions-explained/"><u>Mastering Your Device with a Complete List of iPadOS Versions Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862775770-memorial-day-special-high-performance-dell-s322ndmg-32monitor-only-279/"><u>Memorial Day Special: High-Performance Dell S322nDMG 32Monitor, Only $279</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/minisforum-unveils-portable-gaming-device-a-budget-friendly-option-at-189-with-a-15ninch-display-and-144-hz-refresh-rate/"><u>Minisforum Unveils Portable Gaming Device: A Budget-Friendly Option at $189 - with a 15.nInch Display and 144 Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-in-computing-with-toms-hardware-analysis/"><u>Navigate the Latest in Computing with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nextgen-gear-insights-deciphering-todays-cutting-edge-hardware-choices/"><u>NextGen Gear Insights: Deciphering Today's Cutting-Edge Hardware Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-system-expert-advice-from-the-tech-vault-of-toms-hardware/"><u>Optimize Your System: Expert Advice From the Tech Vault of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-with-toms-tech-analysis/"><u>Pioneering Hardware Discussions with Tom's Tech Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-powerhouse-a-comprehensive-eyoyo-em105-105-screen-value-assessment/"><u>Portable Powerhouse: A Comprehensive EYOYO EM105 10.5” Screen Value Assessment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Realme support - Forgotten screen lock.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis52/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%%!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-the-ultimate-bargain-279-32-dell-s322dmg-monitor-perfect-for-gamers-this-memorial-day/"><u>Score the Ultimate Bargain: $279 32” Dell S322DMG Monitor, Perfect for Gamers This Memorial Day!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/spectacular-gaming-screen-bargain-acer-nitro-34-curved-wqhd-monitor-for-just-200-on-newegg/"><u>Spectacular Gaming Screen Bargain – Acer Nitro 34 Curved WQHD Monitor for Just $200 on Newegg.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-tecno-pova-6-pro-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer & Gadget Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-130-music-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia 130 Music Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-cutting-edge-hardware-by-toms-technology-digest/"><u>Ultimate Guide to Cutting-Edge Hardware by Tom's Technology Digest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-exploring-the-finest-computer-screens/"><u>Ultimate Selection: Exploring the Finest Computer Screens</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862803497-unbelievable-bargain-alert-a-high-quality-sceptre-24-curve-gaming-monitor-for-just-79/"><u>Unbelievable Bargain Alert: A High-Quality Sceptre 24 Curve Gaming Monitor for Just $79</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-toms-detailed-guide-to-computer-components/"><u>Unlocking Technology Secrets: Tom's Detailed Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-value-a-deep-dive-into-the-mammoth-yet-economical-monoprice-144-hz-44-inch-gaming-display-review/"><u>Unlocking Value: A Deep Dive Into the Mammoth, Yet Economical Monoprice 144 Hz 44-Inch Gaming Display Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-gadgets-toms-hardware-rundown/"><u>Unveiling the Latest in Gadgets - Tom's Hardware Rundown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-at-toms-digital-workshop/"><u>Unveiling the Latest Tech Trends at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-hardware-with-toms-expertise/"><u>Unveiling the Secrets of Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%%</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/xiaomi-g34wqi-gaming-monitor-ultimate-value-in-depth-analysis-of-34-screen-180hz-refresh-rate-with-stunning-colors-and-contrast/"><u>Xiaomi G34WQi Gaming Monitor - Ultimate Value: In-Depth Analysis of 34 Screen, 180Hz Refresh Rate with Stunning Colors & Contrast</u></a></li>
+</ul></div>

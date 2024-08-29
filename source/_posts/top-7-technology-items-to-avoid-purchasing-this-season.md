@@ -1,7 +1,7 @@
 ---
 title: Top 7 Technology Items to Avoid Purchasing This Season
-date: 2024-08-28 15:27:28
-updated: 2024-08-29 10:55:53
+date: 2024-08-28T04:16:56.949Z
+updated: 2024-08-29T04:16:56.949Z
 tags:
   - hardware
 categories:
@@ -45,6 +45,9 @@ Enjoy significant enhancements to the Apple AirPods Pro with this 2nd generation
 
 [Buy on Amazon](https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0D1XD1ZV3/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) [See at Apple](https://www.apple.com/shop/product/MTJV3LL/A/airpods-pro) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Fairpods-pro-2nd-generation-with-magsafe-case-usb-c%2F-%2FA-85978622) [See at Walmart](https://www.walmart.com/ip/AirPods-Pro-2nd-generation-with-MagSafe-Case-USB-C/5689919121) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2  Google Pixel Phone, Watch, and Buds Pro 
 
  Just like the iPhone and other Apple devices, Google has a lineup of devices coming out very soon. To be more specific, we'll see a whole new lineup of [Pixel 9 phones coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/), along with a new [Pixel Watch 3](https://www.androidauthority.com/google-pixel-watch-3-price-leak-3461683/) and [Pixel Buds Pro 2](https://www.gsmarena.com/google%5Fpixel%5Fbuds%5Fpro%5F2%5Fcolorways%5Fleak%5Fahead%5Fof%5Fpossible%5Faugust%5Funveiling-news-63648.php). The release is less than a month away, so just hold out for a little while longer to snatch yourself a newer device or a better deal.
@@ -53,6 +56,9 @@ Enjoy significant enhancements to the Apple AirPods Pro with this 2nd generation
 
 ![Samsung Watch 7 Product Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/watch-7-product-image-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Samsung Galaxy Watch 7
 
 The Samsung Galaxy Watch 7 is Samsung's entry-level smartwatch for 2024\. It resembles the Galaxy Watch 6 but features an enhanced Exynos W1000 chipset, promising significantly improved battery life and performance.
@@ -79,8 +85,14 @@ _Sonos_
 
 ![A white Sony PlayStation 5 Console on display at CES 2023.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52625290774_550554ac19_k.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5  Nintendo Switch 
 
  The Nintendo Switch is one of the oldest "current-gen" consoles in existence. It was released in 2017, long before [PC-grade handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) powered by advanced SoCs like the [Steam Deck](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) entered the mainstream. Plus, the Switch was [underpowered even at launch](https://www.xda-developers.com/why-switch-cpu-underpowered-switch-2-preview/#:~:text=As%20a%20recap%2C%20the%20Nintendo,launch%20the%20CPU%20was%20underpowered.), so it's fair to say that a Switch 2 is long overdue. The OLED version was a nice improvement, however!
@@ -91,6 +103,9 @@ Hannah Stryker / How-To Geek
 
 Goran Damnjanovic/How-To Geek
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  NVIDIA RTX-40 Series and AMD RX 7000 Series GPUs 
 
  The [NVIDIA RTX-50 Series](https://www.guru3d.com/story/nvidia-geforce-rtx-50series-blackwell-to-launch-in-january-2025-at-ces/) will reportedly launch in January 2025; [AMD RX 8000 Series](https://www.digitaltrends.com/computing/amd-rdna-4-news-release-date-price-rumors/) RDNA 4, along with a long-rumored [RX 7000 Series RDNA 3 refresh](https://wccftech.com/amd-radeon-rx-7950-xtx-7950-xt-7800-xt-7700-xt-7600-xt-7500-xt-rdna-3-gpus-show-up-in-rocm-5-6/), is also coming out at around the same time. It's worth noting that RDNA 4 GPUs focus heavily on ray-tracing performance and, according to [rumors](https://www.pcgamesn.com/amd/radeon-7900-xtx-faster-rdna-4), AMD's next-gen GPUs can't beat AMD's outgoing flagship GPU, the RX 7900 XTX.
@@ -99,6 +114,9 @@ Goran Damnjanovic/How-To Geek
 
 ![MSI GeForce RTX 4070 TI Ventus 12G OC GPU in a gaming PC at CES 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52606768067_aff13d7ea2_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
 ## 7  AMD Ryzen 7000 Series and 14th Gen Intel CPUs 
@@ -125,3 +143,46 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-key-steps-to-screen-record-on-your-phone/"><u>[New] 2024 Approved  Key Steps to Screen Record on Your Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-must-see-hd-screenshots-for-mac-users-char-limit-156-for-2024/"><u>[New] Must See HD Screenshots for Mac Users (Char Limit  156) for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862812083-999-yes-get-the-epic-lg-ultragears-39-curved-gaming-monitor-with-qhd-at-amazon-today/"><u>$999? Yes! Get the Epic LG Ultragear's 39 Curved Gaming Monitor with QHD at Amazon Today</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-thriving-on-youtube-using-creative-studio-tools/"><u>2024 Approved  Thriving on YouTube Using Creative Studio Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862748367-affordable-xiaomi-g34wqi-34-screen-review-exceptional-gamers-display-with-vivid-colors-at-180hz/"><u>Affordable Xiaomi G34WQI 34 Screen Review: Exceptional Gamers' Display with Vivid Colors at 180Hz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-showdown-are-we-on-the-verge-of-change/"><u>ChatBot Showdown: Are We on the Verge of Change?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-scribes-leading-screen-recorder-software-for-2024/"><u>Digital Scribes  Leading Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862788628-elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862809089-get-a-quality-curved-screen-for-gamers-acers-24-monitor-sale-hits-just-81/"><u>Get a Quality Curved Screen for Gamers – Acer's 24 Monitor Sale Hits Just $81</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862758543-get-your-hands-on-a-premium-240hz-gaming-monitor-acer-nitro-for-just-159/"><u>Get Your Hands on a Premium 240Hz Gaming Monitor – Acer Nitro, for Just $159!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/grab-your-bargain-a-thor-darth-vader-motif-monitor-is-just-1e6-more-than-expected-retailer-selling-24-inch-ips-display-at-low-price/"><u>Grab Your Bargain: A 'Thor Darth Vader' Motif Monitor Is Just $1E6 More Than Expected - Retailer Selling 24-Inch IPS Display at Low Price</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-xr-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone XR Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-meizu-21-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Meizu 21 Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-perfect-thumbnail-formula-for-youtube-success/"><u>In 2024, Unveiling The Perfect Thumbnail Formula for YouTube Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-systems-with-toms-tech-wisdom/"><u>Mastering Gadgets and Systems with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-top-picks-of-toms-hardware/"><u>Mastering Technology: The Top Picks of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-horizons-with-thorough-analysis-by-toms-hardware/"><u>Navigate New Tech Horizons with Thorough Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-pc-hardware-with-toms-authoritative-articles/"><u>Navigating the Latest PC Hardware with Tom's Authoritative Articles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-wisdom/"><u>Navigating the World of Technology with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newest-tp-link-wifi-network-card-drivers-download-now-supports-windows-11-8-and-7-systems/"><u>Newest TP-Link WiFi Network Card Drivers - Download Now | Supports Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-gameplay-a-comprehensive-review-of-the-alienware-aw2n5df-360hz-gaming-monitor-with-breathtaking-oled-technology/"><u>Next-Level Gameplay: A Comprehensive Review of the Alienware AW2n5DF 360Hz Gaming Monitor with Breathtaking OLED Technology</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-your-workflow-efficiently-editing-360-degree-videos-in-premiere-pro-for-2024/"><u>Optimizing Your Workflow  Efficiently Editing 360 Degree Videos in Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadget-analysis-with-toms-hardware-experts/"><u>Pioneering Gadget Analysis with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-ancient-crt-tech-achieves-record-breaking-700hz-sacrifices-full-1280x1024-resolution/"><u>Revolutionary Ancient CRT Tech Achieves Record-Breaking 700Hz, Sacrifices Full 1280X1024 Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-multi-user-interactions-jdis-two-view-displays-with-dual-touch-capability/"><u>Revolutionizing Multi-User Interactions: JDI's Two View Displays with Dual Touch Capability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsungs-odyssey-g9-the-epic-49-oled-curved-screen-now-at-record-lows/"><u>Samsung's Odyssey G9: The Epic 49 OLED Curved Screen Now at Record Lows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-on-the-ultrawide-screen-spectacle-save-60samsungs-49-oled-tv-today/"><u>Score Big Savings on the Ultrawide Screen Spectacle – Save $60([Samsung’s] 49” OLED TV) Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-technology-curves-with-toms-reliable-hardware-reviews/"><u>Stay Ahead of Technology Curves with Tom's Reliable Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-modern-hardware-solutions-by-tom/"><u>The Ultimate Guide to Modern Hardware Solutions by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-resource-for-your-pc-needs-by-tom/"><u>The Ultimate Tech Resource for Your PC Needs by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-exploration-a-deep-dive-into-pc-specs-and-performance/"><u>Tom's Hardware Exploration: A Deep Dive Into PC Specs and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review - Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-tech-secrets-the-ultimate-toms-hardware-exploration/"><u>Unveiling High-Tech Secrets - The Ultimate Tom's Hardware Exploration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-computer-gear-at-toms-hardware-insights/"><u>Unveiling the Latest Computer Gear at Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-with-toms-electronics-analysis/"><u>Unveiling the Latest in Computing with Tom’s Electronics Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/xiaomis-budget-gaming-masterpiece-the-34-180hz-display-with-exceptional-color-and-contrast-unveiled-in-comprehensive-reveiw/"><u>Xiaomi's Budget Gaming Masterpiece: The 34 180Hz Display with Exceptional Color & Contrast Unveiled in Comprehensive Reveiw</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-one-stop-destination-for-high-performance-hardware-toms-insights/"><u>Your One-Stop Destination for High-Performance Hardware: Tom's Insights</u></a></li>
+</ul></div>

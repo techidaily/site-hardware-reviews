@@ -1,7 +1,7 @@
 ---
 title: "Inside the Pros and Cons of Onyx Boox Tab Ultra: A Comprehensive Guide to the Premier E-Paper Tablet"
-date: 2024-08-26 20:23:44
-updated: 2024-08-29 12:33:46
+date: 2024-08-28T04:19:34.865Z
+updated: 2024-08-29T04:19:34.865Z
 tags:
   - android
 categories:
@@ -82,6 +82,14 @@ Expand
 
 [See at Amazon](https://www.amazon.com/BOOX-Tab-Ultra-ePaper-Digital/dp/B0BDRF66D2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU905155&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F138095%2Fonyx-boox-tab-ultra-review%2F&asc%5Fcampaign=Affiliate) [See at Boox](https://shop.boox.com/products/tab) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## **Form Factor and Screen** 
 
 ![Tab Ultra showing YouTube website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/721bc89c.jpg) 
@@ -116,10 +124,16 @@ _Tyler Hayes / Reviews Geek_
 
  There were a few aspects I was surprised by. Battery life was tremendous and was always measured in days. It will depend on your usage, but I would expect that even pushing it hard for hours on end would still result in two days of use before needing to recharge the battery. Spending less time with it each day could result in it lasting more than a week and a half. A bit minor, but I also appreciated the Tab Ultra's ability to combat glare outdoors.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Software and Hardware
 
 ![Tab Ultra showing the camera used for scanning documents](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/76b46fd8.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Using the camera with a monochrome screen was harder than expected. - _Tyler Hayes / Reviews Geek_
 
  Inside the Onyx Boox Tab Ultra is a [Qualcomm Octa-core chip](https://www.qualcomm.com/products/application/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-662-mobile-platform) for powering through tasks. The tablet runs [Android 11](https://some-techniques.techidaily.com/in-2024-how-to-generate-stellar-podcast-title-ideas/) and comes with the Google Play Store right on the home screen. There was no problem downloading all the apps I wanted on it. Of course, Android apps used on larger screens still leave a lot to be desired. A lot of times you'll get big phone apps instead of finely crafted tablet ones.
@@ -130,6 +144,9 @@ Using the camera with a monochrome screen was harder than expected. - _Tyler Hay
 
  The tablet has 4GB of [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/) and 128GB of storage. You can add more space with the device's available microSD card slot, though I have a hard time imagining needing more storage space than what's built-in. To top it off there's a fingerprint sensor in the power button for increased security, speakers that get plenty loud, and a [USB-C port](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) for charging. (There's no front-facing camera for video calls, but that might be a line too far for a lot of people.)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Keyboard Cover** 
 
  The keyboard cover from Boox had the ability to completely ruin the Tab Ultra's experience. Without it, the product is just a fancy, expensive, e-reader instead of the more computer or tablet-like device it is with a keyboard attached. (In fact, at the time of writing, the Tab Ultra was only being sold with the keyboard cover bundled on the company's website.)
@@ -140,10 +157,16 @@ Using the camera with a monochrome screen was harder than expected. - _Tyler Hay
 
  I had to turn off the floating predictive text on the screen when using the physical keyboard. Not only was it distracting because it covered up the words I was typing, but it interfered when trying to use certain characters like using the apostrophe. Hitting that key would cause double and triple words to appear on the screen each time. Typing on my lap with the keyboard case was doable. It wasn't anything remarkable or desirable, but it was certainly usable when needed.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Should You Buy the Onyx Boox Tab Ultra?** 
 
 ![Tab Ultra with the notes app open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1414ea7e.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 _Tyler Hayes / Reviews Geek_
 
  The viability and likeability of the [Onyx Boox Tab Ultra](https://www.amazon.com/BOOX-Tab-Ultra-ePaper-Digital/dp/B0BDRF66D2/?tag=hotoge-20&ascsubtag=UUhtgUeUpU905155&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F138095%2Fonyx-boox-tab-ultra-review%2F&asc%5Fcampaign=Affiliate) will ultimately come down to your expectations. How do you plan to use it? And how are you hoping it can help you accomplish tasks? Even if its features indicate it's a general-purpose tablet, it's not. It's a unique device that converges on a bunch of different areas. That makes it amazing to do certain things and more thorny for others.
@@ -174,3 +197,58 @@ _Tyler Hayes / Reviews Geek_
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-maximize-your-visuals-10-free-image-editing-tools-for-smartphones/"><u>[New] Maximize Your Visuals  10 Free Image Editing Tools for Smartphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>[New] Rhythmic Reinvention  The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-creating-captivating-insta-vids-3-description-strategies/"><u>[Updated] 2024 Approved  Creating Captivating Insta Vids  3 Description Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-movie-editing-saving-and-enhancing-mov-files-in-windows-11-for-2024/"><u>[Updated] Advanced Movie Editing  Saving and Enhancing MOV Files in Windows 11 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exploring-imovies-default-cropping-behavior/"><u>[Updated] In 2024, Exploring iMovie's Default Cropping Behavior</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-speedy-tutorial-crafting-youtube-image-thumbnails-from-scratch-for-2024/"><u>[Updated] Speedy Tutorial  Crafting YouTube Image Thumbnails From Scratch for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stepwise-guide-for-powerpoints-speech-to-text-functionality/"><u>[Updated] Stepwise Guide for PowerPoint's Speech-to-Text Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>[Updated] Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-mix-incorporating-and-refining-music-into-canva-projects/"><u>2024 Approved  Master the Mix  Incorporating & Refining Music Into Canva Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-pc-world-find-the-perfect-hardware-solutions/"><u>Expert Advice From Tom's PC World: Find the Perfect Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-at-toms-technology-hub/"><u>Expert Analysis on Gadgets at Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-gadgets-and-hardware-from-toms-hardware/"><u>Expert Insights on Gadgets and Hardware From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-guide-to-hardware/"><u>Exploring the Latest in Technology with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-your-perfect-pc-part-with-toms-hardware-advice/"><u>Find Your Perfect PC Part with Tom's Hardware Advice</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chuckle-chronicles-best-free-top-rated-comic-designs/"><u>In 2024, Chuckle Chronicles  Best Free, Top-Rated Comic Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-with-windows-movie-maker-6-installs/"><u>In 2024, Getting Started with Windows Movie Maker 6 Installs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-realistic-or-risky-vrs-hidden-dangers/"><u>In 2024, Realistic or Risky? VR's Hidden Dangers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-insiders-guide-to-leveraging-spotify-ads-effectively/"><u>In 2024, The Insider's Guide to Leveraging Spotify Ads Effectively</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-triumphs-in-transparency-reddits-top-posts-reviewed-10/"><u>In 2024, Triumphs in Transparency  Reddit's Top Posts Reviewed (10)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-technology-hub/"><u>In-Depth Gadget Analysis by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-toms-technology-experts/"><u>In-Depth Hardware Analysis by Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intels-raptor-lake-and-refresh-chip-instability-cured-discover-the-power-of-the-latest-asus-firmware-upgrade-for-gamers/"><u>Intel's Raptor Lake & Refresh Chip Instability Cured - Discover the Power of the Latest Asus Firmware Upgrade for Gamers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-toms-hardware-top-tips-and-analysis/"><u>Master Your Gadgets with Tom's Hardware – Top Tips and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-with-toms-hardware-essentials/"><u>Mastering Gadget Selection with Tom's Hardware Essentials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-dive-into-toms-hardware-discoveries/"><u>Mastering Gadgets: Dive Into Tom's Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-with-toms-expertise-comprehensive-tech-evaluation/"><u>Mastering Hardware Knowledge with Tom's Expertise: Comprehensive Tech Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastery-of-machine-your-guide-to-computer-hardware-on-toms-hardware/"><u>Mastery of Machine: Your Guide to Computer Hardware on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-your-pc-upgrade-journey-with-guidance-from-toms-hardware/"><u>Navigate Your PC Upgrade Journey with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-geekdom-with-toms-electronics-hub-top-picks-for-every-needs/"><u>Navigating Gadget Geekdom with Tom's Electronics Hub: Top Picks for Every Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-the-toms-hardware-guide-to-pc-excellence/"><u>Navigating Through Technology: The Tom's Hardware Guide to PC Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partnered-amd-motherboards-deploy-critical-bios-patch-to-resolve-emblematic-failure-issue/"><u>Partnered AMD Motherboards Deploy Critical BIOS Patch to Resolve Emblematic Failure Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discovery-through-toms-hardware-reviews/"><u>Pioneering Tech Discovery Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-setup-the-asrock-z89et-taichi-aqua-motherboard-comes-with-10x-usb-type-c-and-2x-lightning-fast-thunderbolt-ports/"><u>Revolutionize Your PC Setup: The ASRock Z89eT Taichi Aqua Motherboard Comes with 10X USB Type-C & 2X Lightning-Fast Thunderbolt Ports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-high-performance-motherboards-and-boards-with-longsun-cpus-beginning-at-just-373-available-in-the-us/"><u>Shop High-Performance Motherboards & Boards with Longsun CPUs: Beginning at Just $373 - Available in the U.S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snag-your-asus-x670-p-wifi-am5-mobo-now-unbelievable-sale-135/"><u>Snag Your Asus X670-P WiFi AM5 Mobo Now - Unbelievable Sale @$135</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-asrock-z790i-lightning-wi-fi-board-review-packed-potency-in-a-petite-package/"><u>The ASROCK Z790I Lightning Wi-Fi Board Review - Packed Potency in a Petite Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computers-and-peripherals-by-toms-technology-hub/"><u>The Complete Guide to Computers and Peripherals by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-source-for-pc-hardware-at-toms-hardware/"><u>The Definitive Source for PC Hardware at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-perfect-blend-of-form-and-function-in-a-thin-motherboard-asrocks-x600tm-itx-mini-itx-option/"><u>The Perfect Blend of Form and Function in a Thin Motherboard: ASRock's X600TM-ITX Mini-ITX Option</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis-t17238628805656/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-gadget-rundown-for-savvy-consumers/"><u>The Ultimate Tom's Gadget Rundown for Savvy Consumers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-review-expert-insights-and-in-depth-analysis/"><u>Tom's Computing Review: Expert Insights and In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-into-the-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights Into the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transition-to-modern-light-management-with-asus-new-bios-and-microsoft-dynamic-lighting-a-smoother-alternative-to-armory-crate-solutions/"><u>Transition to Modern Light Management with Asus' New BIOS and Microsoft Dynamic Lighting: A Smoother Alternative to Armory Crate Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-your-non-functional-usb-to-hdmi-converter/"><u>Troubleshooting Tips: Fixing Your Non-Functional USB-to-HDMI Converter</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-for-continuous-nox-player-crashes-on-windowsmac/"><u>Ultimate Troubleshooting Guide for Continuous Nox Player Crashes on Windows/Mac</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-asrocks-latest-cutting-edge-amd-ryzen-9000-series-mobo-lineup/"><u>Unveiling ASRock's Latest: Cutting-Edge AMD Ryzen 9000 Series Mobo Lineup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-tech-secrets-toms-hardware-experts/"><u>Unveiling High-Performance Tech Secrets: Tom's Hardware Experts</u></a></li>
+</ul></div>
