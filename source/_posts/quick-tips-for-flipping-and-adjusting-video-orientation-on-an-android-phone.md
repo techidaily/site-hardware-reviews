@@ -1,7 +1,7 @@
 ---
 title: Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone
-date: 2024-08-28T04:22:27.469Z
-updated: 2024-08-29T04:22:27.469Z
+date: 2024-09-05T07:51:59.392Z
+updated: 2024-09-06T07:51:59.392Z
 tags:
   - android
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ## Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * If your recorded video is in the wrong orientation, you can easily rotate it using the Google Photos app on your Android device.
@@ -23,6 +29,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  On other occasions, you may rotate your phone while recording a video. The orientation is locked after you start recording, so the parts of the videos where you rotated your phone won't look right. If that's what happened to you, you'll want to [trim off the first part](https://facebook-clips.techidaily.com/new-in-2024-masterfb-mp4-hacking-facebook-videos-with-ease/) before rotating the video.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Rotate Videos on Android With Google Photos
 
  We'll be using the [Google Photos](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU217602/https://play.google.com/store/apps/details?id=com.google.android.apps.photos) app to do this. It's free and has [tons of great features](https://extra-approaches.techidaily.com/in-2024-no-cost-humor-in-your-arsenal-ultimate-meme-guide/) you may want to check out. However, for this guide, we'll be sticking with the basics. You can skip through the initial set-up process.
@@ -31,10 +43,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Select a video.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2022-08-16_13-32-20.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, tap the screen to bring up the controls—if they aren't already visible—and tap "Edit."
 
 ![Tap "Edit."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2022-08-16_13-33-33.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Switch over to the "Crop" tab in the bottom toolbar.
 
 ![Select "Crop."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2022-08-16_13-34-11.jpg) 
@@ -43,10 +73,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ![Tap the rotate icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2022-08-16_13-34-52.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you're done, tap "Save Copy." Google Photos won't let you overwrite the original video.
 
 ![Tap "Save Copy."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/2022-08-16_13-36-21.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It's as simple as that—the new video will be saved in your gallery in the new orientation! Since you saved a copy, the original video in the original orientation will also be available. Google Photos has a bunch of handy editing tools for both [photos](https://fox-hovers.techidaily.com/updated-top-slide-show-collections-10-places-to-download-high-quality-designs-for-2024/)and [videos](https://fox-boxes.techidaily.com/new-in-2024-generate-hits-adobe-made-memes/). You probably don't think about needing to rotate a video as much as rotating photos, but it's handy to be able to do this when you need it. Don't worry about holding your phone the wrong way again!
 
 <ins class="adsbygoogle"
@@ -139,7 +187,3 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-breakdown/"><u>Unveiling the Latest in Technology: Tom's Hardware Breakdown</u></a></li>
 <li><a href="https://driver-download.techidaily.com/usb-audio-device-drivers-updating-steps-for-windows-11107/"><u>USB Audio Device Drivers: Updating Steps for Windows 11/10/7</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

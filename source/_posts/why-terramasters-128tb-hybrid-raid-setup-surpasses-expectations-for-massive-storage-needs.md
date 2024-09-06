@@ -1,7 +1,7 @@
 ---
 title: Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs
-date: 2024-08-28T04:18:50.841Z
-updated: 2024-08-29T04:18:50.841Z
+date: 2024-09-05T07:51:55.588Z
+updated: 2024-09-06T07:51:55.588Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs
 
 Professionals and hobbyists who deal with a boatload of data should check out the new TerraMaster D8 Hybrid, an eight-bay drive enclosure that combines HDD capacity with SSD speed. It looks impressive, and you can save $100 on your pre-order during TerraMaster's crowdfunding campaign.
@@ -19,6 +25,12 @@ Professionals and hobbyists who deal with a boatload of data should check out th
 
 ![A diagram of the D8 Hybrid with HDDs labeled as 'cold' data and SSDs labeled as 'hot' data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 TerraMaster
 
  Anyone who needs _this much_ storage probably wants some data redundancy. The D8 Hybrid always leaves its M.2 SSDs in Single Disk mode, meaning that they're treated as a large, ultra-fast storage pool. If you set the slower HDDs to RAID 1, they'll mirror the contents of your SSDs and serve as a backup in case of a drive failure. Those who prefer to maximize both storage capacity and speed can choose between RAID 0, Single Disk, or JBOD modes.
@@ -95,7 +107,3 @@ TerraMaster
 <li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-reviews-and-guides-for-high-performance-computing/"><u>Tom's Tech: Expert Reviews and Guides for High-Performance Computing</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/unboxing-review-of-the-latest-raspberry-pi-pico-a-deep-dive-into-its-new-arm-plus-risc-v-cores-at-an-affordable-price/"><u>Unboxing Review of the Latest Raspberry Pi Pico: A Deep Dive Into Its New Arm + RISC-V Cores at an Affordable Price</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->

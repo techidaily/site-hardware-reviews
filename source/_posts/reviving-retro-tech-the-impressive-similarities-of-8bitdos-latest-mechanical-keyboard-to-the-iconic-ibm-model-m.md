@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M"
-date: 2024-08-28T04:15:58.098Z
-updated: 2024-08-29T04:15:58.098Z
+date: 2024-09-05T07:51:52.523Z
+updated: 2024-09-06T07:51:52.523Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb499e343dac1cbda32fedf601.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M
 
 Even though the IBM Model M not a "real" mechanical keyboard and even though it's several decades old, it still has a certain charm to it that some people still want to keep today. Only problem is that using an original one might prove challenging if you don't have a PS/2 port (the first few models actually had an even older DIN port). Thankfully, 8bitDo is coming through with its own copycat for you to check out.
@@ -106,7 +112,3 @@ Even though the IBM Model M not a "real" mechanical keyboard and even though it'
 <li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-why-does-my-mouse-keep-losing-signal/"><u>Troubleshooting Steps: Why Does My Mouse Keep Losing Signal?</u></a></li>
 <li><a href="https://win-solutions.techidaily.com/ultimate-tricks-to-enhance-origin-download-speed-for-a-faster-2024-experience/"><u>Ultimate Tricks to Enhance Origin Download Speed for a Faster 2024 Experience</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

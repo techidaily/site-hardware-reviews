@@ -1,7 +1,7 @@
 ---
 title: "Disastrous Moments in Tech: The Top Seven Failures on TV and Online"
-date: 2024-08-28T04:20:44.634Z
-updated: 2024-08-29T04:20:44.634Z
+date: 2024-09-05T07:51:57.646Z
+updated: 2024-09-06T07:51:57.646Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824f3ccac5078e8475f10ac115.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Disastrous Moments in Tech: The Top Seven Failures on TV and Online
 
 Tech companies are good at many things — like making tech products — but marketing those products is often a different story. While there have been some truly iconic ads over the years, there have also been some major fails. Get your popcorn ready.
@@ -19,6 +25,18 @@ Tech companies are good at many things — like making tech products — but mar
 
  The ads feature actress Tamara Hope talking to the camera in an almost whisper. She's in front of a backdrop that looks like it should be the wallpaper on a Windows computer. In the multiple ads, she talks about reincarnation, deja vu, and syncing contacts. The vibes are real weird.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Robert Downey Jr. Explains What "HTC" Stands For (2013)
 
  Nowadays, HTC is but a distant memory in the tech space, but back in 2013, the company was still doing pretty well. With devices on every carrier, it had become somewhat of a household name, but what did "HTC" stand for? Whether or not anyone was asking that question, HTC decided to drop [$1B to let Robert Downey Jr. answer it](https://venturebeat.com/business/htc-spends-1b-to-have-robert-downey-jr-tell-us-what-htc-stands-for-video/).
@@ -26,7 +44,16 @@ Tech companies are good at many things — like making tech products — but mar
  In a series of ads, RDJ appears in strange scenarios that depict different definitions of "HTC." The most notable may be "Hipster Troll Carwash," but others included "Hold This Car," "Humongous Tinfoil Catamaran," and "Hot Tea Catapult." Clever, but maybe not the best way to sell phones.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  A Little Kid Asks "What's a Computer?" (2018)
 
@@ -35,14 +62,13 @@ Tech companies are good at many things — like making tech products — but mar
  In the ad, the kid goes about their day doing various tasks with an iPad Pro, an Apple Pencil, and a keyboard case. The ad ends with the child's neighbor asking, "whatcha doin' on your computer?" to which they reply, "what's a computer?" People did not like the implication that the iPad could replace a full computer or that the iPad itself isn't a type of computer. Apple eventually removed the ad from its official YouTube channel.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Creepy Guy Stalks a Girl With the Samsung Galaxy Gear (2013)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 
 
  In 2013, smartwatches were a budding new category, and Samsung was trying to show people why they needed one in their life. The company decided to go with the archaic angle of "use our product to get the girl," but it came off as very creepy.
@@ -50,7 +76,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In the ad, a guy with a Galaxy Gear smartwatch demands a girl give him her number and takes photos of her skiing without her knowledge. As the ad progresses, he shows off what his watch can do and wins the girl over a watch-less loser. It ends with him winking at the camera as he embraces the girl. Eww.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  A Terrible Song Tries to Sell Song-Building Software (2013)
 
@@ -58,9 +87,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  The ad starts with a dad complaining about how he needs to create a campaign to sell glow-in-the-dark towels for his job. His daughter, sitting at the kitchen table on her laptop, begins singing, and the two continue to go back and forth in an extremely awkward and not particularly good song about Songsmith. It's a tough listen.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sprint Puts the Camera on its CEO (2008)
 
  It's never a good sign for a company when it decides to put its CEO in commercials. That's exactly what Sprint did in the late 2000s. The ads featured CEO Dan Hesse casually talking to the camera in various environments — in black and white, for some reason.
@@ -68,7 +94,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  While the ads are not poorly made, they really miss the mark. The last person people want to hear talk about the price of phone plans is the millionaire/billionaire CEO. Portraying him in black and white in "every man" situations feels very inauthentic. Sprint was struggling, and these ads certainly didn't help its situation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Asus Mispronounces its Own Name For Laughs (2010)
 

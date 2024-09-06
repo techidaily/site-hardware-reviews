@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing"
-date: 2024-08-28T04:16:40.545Z
-updated: 2024-08-29T04:16:40.545Z
+date: 2024-09-05T07:51:53.278Z
+updated: 2024-09-06T07:51:53.278Z
 tags:
   - hardware
 categories:
@@ -23,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Insta360 X4
 
 8/ 10 
@@ -84,6 +90,18 @@ Expand
 
 [$499.99 at insta360](https://store.insta360.com/product/x4) [$499.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Finsta360-x4-8k-360-degree-action-camera-black%2F6578876.p%3FskuId%3D6578876%26ref%3D212%26loc%3D1%26utm_source%3Dfeed%26extStoreId%3D1425) [$500 at Amazon](https://www.amazon.com/Insta360-Waterproof-Wide-Angle-Invisible-Stabilization/dp/B0CXPWMZQS?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003236&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Finsta360-x4-camera-review%2F&asc%5Fcampaign=Authority) 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Price and Availability
 
  The Insta360 X4 starts at $499.99 and is available now. There are multiple bundles available that go up to $651 in price depending on what additional accessories you want included with the camera.
@@ -136,6 +154,12 @@ Expand
 
 ![The power and quick settings button on the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-power-and-quick-settings-button-on-the-insta360-x4_53647692914_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The latest Insta360 X4 bears a striking resemblance to its slightly older sibling, the X3\. With a very similar overall design, there’s not much that’s changed externally here. Physically, there’s no difference here. The same accessories work between the two, and if you’re used to the button layout on the X3, you’ll be right at home on the X4.
@@ -143,22 +167,19 @@ Jerome Thomas / How-To Geek
 ![The back of the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-back-of-the-insta360-x4_53647693049_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  At the bottom right, there’s the mode button. This lets you flip between video, active HDR, timelapse, time shift, bullet time, and more. Plus, it lets you toggle photo or video mode. To the left of that is the shutter, which has a new feature this time around. Of course, clicking it starts and stops recording, but, if you accidentally click record when you didn’t mean to, simply hold the shutter button and it’ll stop recording _and_ delete the captured clip. This is something I didn’t really utilize in my time with the camera, but I can absolutely see the value in it.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ##  8K Footage? 4K Is Still the Sweet Spot for Me
 
 ![The resolution selection screen on the Insta360 X4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-resolution-selection-screen-on-the-insta360-x4_53646477902_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  In the race to pack as many pixels into a small space as possible, I am staunchly in the camp that 4K (and sometimes 5.7K) is more than enough. The average person still watches content on their phone, and at that small of a screen, 4K is plenty, if not 1080p. This is just how I feel when it comes to this, and let me explain my reasoning.
@@ -169,6 +190,12 @@ Jerome Thomas / How-To Geek
 
  Resolution aside, all the footage is recorded in 360 degrees, and that's what makes this camera special. You don't have to worry about whether you have the camera aimed just right or not, as it simply captures just about everything (outside of what's directly below itself.) This is what makes the camera unique, and thankfully, this feature works whether you're recording 4K100, 8K30, or taking a 72MP still photo.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Desktop and Mobile Software Is Easy To Use and Make Simple Edits In
 
 ![The Insta360 app on a Pixel 7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-app-on-a-pixel-7-3_53647349466_o.jpg) 
@@ -183,15 +210,21 @@ Jerome Thomas / How-To Geek
 
 ![The Insta360 X4 attached to the Bullet Time tripod](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-x4-attached-to-the-bullet-time-tripod_53647692939_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Outside of that, whenever you go to export, you can choose to send it as a cropped video that’s only within the view that you set in the editor, or a full 360-degree video. Doing the latter will let you bring the video file into software like Premiere Pro or Final Cut Pro and do all the editing there, which is how I plan to use the footage from the X4\. The files are formatted in a way that the software will let you handle all the pan and tilt functions as well as do all of your other edits. Plus, Insta360 [has a LUT that you can use](https://www.insta360.com/download) to get the right colors when editing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Rugged for Whatever Lies Ahead
 
@@ -203,6 +236,12 @@ Jerome Thomas / How-To Geek
 
  Simply attach a selfie stick, tripod, or hold the camera in your hand, and you’re ready to go. The USB-C flap is waterproof when closed, and the battery also makes a water-tight seal once inserted. Whether you plan to take the camera snowboarding in the winter, surfing in the summer, or just strap it to your motorcycle to use as a dash camera, the Insta360 X4 is built to handle it all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What’s the Difference Between the Insta360 X4 and Insta360 X3?
 
  While the outside of both cameras is quite similar, there are a few key differences between the last generation and the latest camera from Insta360\. For starters, you can now record 8K30 and 5.7K60, both of which aren’t available on the X3\. There’s also an AI chip on the new one, which is what helps to take better footage. There’s a bigger screen and larger battery on the X4 as well, which are pretty nice to have.
@@ -215,12 +254,27 @@ Jerome Thomas / How-To Geek
 * Bluetooth Headset Support (for motorcycles and the like)
 * Auto Dash Mode (also a motorcycle feature)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Insta360 X4?
 
 ![The Insta360 X4 next to box and included accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-x4-next-to-box-and-included-accessories_53647349546_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -235,7 +289,10 @@ Jerome Thomas / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #####  Insta360 X4
 

@@ -1,7 +1,7 @@
 ---
 title: "Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory"
-date: 2024-08-28T04:21:42.175Z
-updated: 2024-08-29T04:21:42.175Z
+date: 2024-09-05T07:51:58.609Z
+updated: 2024-09-06T07:51:58.609Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory
 
 ### Key Takeaways
@@ -19,12 +25,24 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
  Companies are trying to turn everything they can into a service, so that the drip-feed of money from customers never ends. That's not the worst thing if the service is valuable, but sometimes the ideas can verge on the silly side—such as the Logitech "Forever Mouse."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Folly of the “Forever Mouse”
 
  In an [interview with The Verge](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decdoer-podcast-interview), Logitech CEO Hanneke Faber expressed the idea of a mouse that would get new software features over the years, possibly with a paid subscription for users to get access to these later firmware and app updates.
 
 ![Logitech MX Master 3S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/a009ed8f.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Dave McQuilling / Review Geek_
 
  The idea is to sell you a high-quality mouse that's not designed to be replaced every few years, but this, of course, isn't a smart business model. If you sell someone a product that never needs replacement, you won't get any repeat business. The potential answer for Logitech here is that you can support the mouse from the software side, and so have money come in with less e-waste produced from discarded mice.
@@ -34,7 +52,16 @@ _Dave McQuilling / Review Geek_
  Once you actually read what Faber said about a "Rolex" mouse with long-term paid software support, it doesn't seem as mad as the headlines make it out to be, but the optics of this are still pretty poor. No one likes it when a company makes its planned obsolescence so obvious. It actually feels a little vulgar in a way. We all know our gear isn't built to last, but having it highlighted feels gross.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Phone Hardware Loses Support Too Soon
 
@@ -44,16 +71,10 @@ _Dave McQuilling / Review Geek_
 
 ![Person pressing the S Pen button while holding the Samsung Galaxy S24 Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53468724291_c8e61563e6_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  The main reason we have to give up our phones is simply due to a lack of software support. Apple has been the least worst company in this regard, with iPhones often getting support up to six years after their debut, and Samsung has been [committing to longer support cycles](https://www.androidauthority.com/samsung-android-updates-1148888/) too, but for most handsets, you can bargain on around two years of OS updates and perhaps a year or two more for security updates. After that, you might run into apps no longer working because they need newer OS versions, or security vulnerabilities that don't get patched. A serious issue for a device filled with your most personal info!
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A “Forever Phone” Subscription Makes Way More Sense
 
  If I bought an expensive phone, and could extend its software support cycle significantly by paying a few dollars a month, that's something that would interest me for sure. Heck, there doesn't even have to be a subscription, just charge me for software updates past the included support cycle. The main reasons Android phones tend to get relatively short support cycles is that there are too many models in each company's range, and not enough money and resources to justify continued support.
@@ -61,19 +82,20 @@ Justin Duino / How-To Geek
  Apple has relatively few models of phone to support (and they wholly control the operating system), so the numbers are different for them, but on the Android side of the equation it's understandable (if vexing) that good phone hardware might become unusable due to a lack of software support resources.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Lots of Tech Could Use Anti-Obsolescence Subscriptions
 
 ![Colored lights behind a Smart TV with Apple TV open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53468253061_44c0fc720e_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 

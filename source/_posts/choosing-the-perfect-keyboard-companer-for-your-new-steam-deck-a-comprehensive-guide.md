@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Perfect Keyboard Companer for Your New Steam Deck: A Comprehensive Guide"
-date: 2024-08-28T04:17:19.494Z
-updated: 2024-08-29T04:17:19.494Z
+date: 2024-09-05T07:51:53.940Z
+updated: 2024-09-06T07:51:53.940Z
 tags:
   - hardware
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
  While the Steam Deck is the closest we’ve got to a gaming console out of all handheld PCs, I recommend grabbing a keyboard if you plan to venture out into Desktop Mode or use your Deck docked. Here’s how to pick one, along with a few recommendations if you don’t feel like window shopping online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Bluetooth Connectivity Is A Must
 
  First and foremost, make sure to get a Bluetooth keyboard, or one that supports 2.4GHz wireless connectivity, because having to hook a wired keyboard to your Deck every time you want to type something is not only a huge pain, but also requires a USB-C dock since the Deck only has a single USB-C port.
@@ -31,15 +37,18 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
  While Bluetooth also uses 2.4Ghz radio frequencies, I'm using "2.4Ghz" here as a catch-all for the proprietary wireless technologies used by mouse and keyboard manufacturers, such as Logitech's Unifying Receiver system.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Foldable Keyboard Is Great for Steam Deck Owners Who Are Constantly on the Move
 
  If you’re a frequent traveler and want a keyboard that won’t take up lots of space in your bag, check out foldable keyboards. They aren’t the greatest choice for typing and gaming due to their design, but they take much less space than even 60% keyboards, most models are super affordable, and virtually every foldable keyboard supports wireless connectivity.
 
  A foldable keyboard is also a great choice for Steam Deck owners looking for a super-compact and affordable keyboard which they can tuck away in a drawer and take out for an occasional excursion into Desktop Mode to install a new game launcher such as the [Epic Games Launcher](https://youtube-blog.techidaily.com/n-2024-the-future-of-tv-watching-a-closer-look-at-youtube-tv/), install and configure emulators, or just have it lying around while using their Deck docked.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  If a Foldable Keyboard Doesn’t fit the Bill, Get Something Compact and Low-Profile
 
  If you don’t like foldable keyboards and want something that’s made for heavy typing, stick to compact and preferably low-profile keyboards. The market is teeming with excellent compact, low-profile keyboards, many of which are mechanical and/or relatively affordable, offering a great typing and gaming experience.
@@ -49,7 +58,10 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
  If you need a keyboard for typing and easier navigation around Desktop Mode, a great option would be a compact, low-profile keyboard with a built-in touchpad. That way you won’t have to carry a mouse with you when traveling, and can instead use a single device when using your Deck in Desktop Mode or docked.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  You Can Use Your Main Keyboard With Your Deck
 
@@ -57,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
  I also have a [Vissles LP85](https://easy-unlock-android.techidaily.com/lock-your-realme-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/) lying around that’s great to have when I’m not sitting at the desk because it’s compact and relatively lightweight; a perfect option to use when my Deck is docked to the TV or when I just want to type something quickly while chilling on the sofa.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Recommendations That Work Great With Steam Deck
 
  If you’ve come to the end of this piece and don’t feel like spending hours on the web looking for a keyboard for your Deck, don’t fret; I’ve got a few recommendations listed below that all work great with the Steam Deck.
@@ -74,16 +83,15 @@ iClever
 
  On the flip side, some keys are placed awkwardly compared to regular keyboards, and some owners do report issues including keys stopping working after some time, relatively poor battery life, and low traction on slippery surfaces. If you want something with a built-in touchpad, check out the [OMOTON Foldable Bluetooth Keyboard with Touchpad](https://www.amazon.com/OMOTON-Foldable-Bluetooth-Multi-Device-Rechargeable/dp/B0C4CW77XX/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ###  Low Profile Mechanical Option: [Nuphy Air60 V2](https://nuphy.com/collections/keyboards/products/air60-v2?variant=40715868143725) 
 
 ![Nuphy Air60 keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nuphy-air60.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Nuphy
 
@@ -92,12 +100,33 @@ Nuphy
  Talking about negatives, the keyboard features a tiny right Shift key and its lightweight design might turn off hardcore mechanical keyboard fans. The [Redragon K652](https://www.amazon.com/Redragon-K652-Mechanical-Ultra-Thin-Supported/dp/B0BYJWMTW4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) is a pretty solid alternative that’s lighter on the wallet. On the other hand, the [Lowfree Flow](https://www.amazon.com/LOFREE-Mechanical-Rechargeable-Keyboards-Connection/dp/B0CJTV8P4Z?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) is a high-end option [made for typists](https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s17t-drfone-by-drfone-virtual-android/) that has one of the best typing sounds you can find in a low-profile mechanical keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Affordable Option With a Trackpad: [Logitech K400 Plus](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK/ref=cm%5Fcr%5Farp%5Fd%5Fproduct%5Ftop?ie=UTF8&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) 
 
 ![Logitech K400 keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/logitech-k400.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Logitech
 
  The [Logitech K400 Plus](http://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK/ref=cm%5Fcr%5Farp%5Fd%5Fproduct%5Ftop?ie=UTF8&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) is a super affordable wireless keyboard, and a great choice for the Steam Deck. You’ve got a trackpad, media keys, a serviceable typing experience, a price of less than $30, and an extremely long battery life.

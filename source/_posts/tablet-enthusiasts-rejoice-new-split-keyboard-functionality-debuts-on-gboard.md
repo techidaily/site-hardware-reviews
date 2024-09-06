@@ -1,7 +1,7 @@
 ---
 title: "Tablet Enthusiasts Rejoice: New Split Keyboard Functionality Debuts on Gboard!"
-date: 2024-08-28T04:21:54.825Z
-updated: 2024-08-29T04:21:54.826Z
+date: 2024-09-05T07:51:58.808Z
+updated: 2024-09-06T07:51:58.808Z
 tags:
   - android
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de2b915844ef28bdfbf11f7f0.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tablet Enthusiasts Rejoice: New Split Keyboard Functionality Debuts on Gboard!
 
 There are very few things that are as annoying as trying to type something on a tablet. If you're holding it with both of your hands, it can be hard to reach the keyboard keys with your thumbs. Luckily, the Gboard keyboard has a solution, which is now rolling out to Android tablets.
@@ -17,6 +29,18 @@ There are very few things that are as annoying as trying to type something on a 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Gboard-Split-Keyb-1.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _9to5Google_
 
  We should remember Google is also actively trying to revitalize Android tablets --- after all, Google not only launched [a foldable phone](https://some-skills.techidaily.com/the-ultimate-insight-into-dji-inspire-2-for-2024/) but also [its first tablet in years](https://youtube-help.techidaily.com/in-2024-navigating-the-shadows-an-overview-of-youtubes-unlisted-videos/). It wouldn't be far-fetched to think that the timing for this rollout is related to that device's launch. Google's push is towards big-screen devices in general, and Gboard was one of the first devices to get adapted to big screens. It was just a matter of time before it made it to tablets as well.
@@ -88,7 +112,3 @@ _9to5Google_
 <li><a href="https://hardware-reviews.techidaily.com/us-customers-can-now-order-loongson-cpu-equipped-mothers-and-systems-from-373-shipping-available/"><u>US Customers Can Now Order Loongson-CPU-Equipped Mothers & Systems From $373: Shipping Available</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/us-launch-affordable-longsheng-loongson-cpu-based-motherboards-and-systems-starting-at-just-373-get-the-ultimate-value-deal/"><u>US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards & Systems Starting at Just $373 - Get the Ultimate Value Deal</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

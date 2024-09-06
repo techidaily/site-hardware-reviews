@@ -1,7 +1,7 @@
 ---
 title: The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed
-date: 2024-08-28T04:16:54.595Z
-updated: 2024-08-29T04:16:54.595Z
+date: 2024-09-05T07:51:53.489Z
+updated: 2024-09-06T07:51:53.489Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-horizontal-pc-case-with-a-monitor-on-top-of-it.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed
 
 ### Key Takeaways
@@ -19,55 +25,62 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I was ten years old before I first saw a tower PC case. Until then, horizontal desktop cases were still the norm, and then suddenly they were all gone. However, it's not so clear that desktop towers are actually superior.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  It’s a Free Monitor Riser
 
  Back in the day, our desktop PCs made sure our CRT monitors were at a good ergonomic height. These days, so few flat screen monitors come with a height adjustable stand, so people end up investing in [monitor risers](https://www.amazon.com/SimpleHouseware-Metal-Monitor-Organizer-Drawer/dp/B075KP5JLH/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003307&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhorizontal-pc-cases-were-peak-case-design-heres-why%2F&asc%5Fcampaign=Evergreen) or [monitor arms](https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x9b-drfone-by-drfone-virtual-android/). If we still had horizontal desktop PC cases around, you could cut that whole step out of your desk ergonomics process.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ![SimpleHouseware Metal Desk Monitor Stand Riser with Organizer Drawer](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/19617662.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  GPUs Can’t Sag
 
  The engineers who came up with tower cases did not envision GPUs that weight as much as a small laptop hanging off a PCIe slot and two panel screws. [GPU sag](https://common-error.techidaily.com/how-incompatible-drivers-can-compromise-the-integrity-of-your-ftdi-synchronous-data-transmission/) is a real issue, and there are various brackets, holders, and other increasingly silly solutions. Things have sort of come full circle with the use of GPU risers, where an extension cable from the motherboard's PCIe slot leads to a [vertical stand for the GPU](https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/). Well, you might as well have a horizontal case to begin with!
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Working Inside Is Easier
 
  I've always felt that desktop tower cases are more of a pain to work inside than horizontal cases. After all, what does everyone do with their towers when they work on them? They turn them on their sides! Again, a completely unnecessary in-between step that horizontal cases make moot. With a horizontal case, you can even make the lid of the case a functional part of the case, instead of a completely separate panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  It’s More Space Efficient
 
  I've seen people argue that a tower case is more space efficient than a horizontal case and, honestly, this was never really the case. Even if you put your tower case on the floor, as most people ended up doing as they got larger, your monitor's footprint was still pretty much the same as the PC case was, if perhaps a little smaller.
 
  That may be even more true today. I have a 34-inch [ultrawide monitor](https://fox-friendly.techidaily.com/new-handheld-panorama-peacekeeper-360-stabilizer-for-2024/) on my desk, and certainly a horizontal PC case would fit under it without exceeding its horizontal footprint. A traditional horizontal case would still eat a few inches of depth on the desk, but as I'll explain shortly, that might not be necessary in a modern context.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  It Doesn’t Have to Go on the Floor
 
  Frankly, I rarely see desk setups where the tower is on the desk itself, unless it's one of those enormous streamer dream setups or hardcore enthusiast gamers. It's far more common for people to just plop their towers on the floor next to the desk, and there's nothing wrong with that. It's what they were made for.
 
  However, this does make them a huge dust magnet, as dust on the floor gets sucked into the case and clogs up the vents. This happens to all computers eventually, but much more slowly for systems that actually go on top of your desk.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  It Would Be Even Better Today
 
  The main advantage of tower cases is that there's so much room for expansion drives. Back in the day, you would have multiple optical drives, hard drives, and maybe even two kinds of floppy drive at the same time!

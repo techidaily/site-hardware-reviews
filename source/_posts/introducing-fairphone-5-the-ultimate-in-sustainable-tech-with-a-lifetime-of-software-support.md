@@ -1,7 +1,7 @@
 ---
 title: "Introducing Fairphone 5: The Ultimate in Sustainable Tech with a Lifetime of Software Support"
-date: 2024-08-28T04:20:13.791Z
-updated: 2024-08-29T04:20:13.791Z
+date: 2024-09-05T07:51:57.122Z
+updated: 2024-09-06T07:51:57.122Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947afe8b79e803b03fc556698ce.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing Fairphone 5: The Ultimate in Sustainable Tech with a Lifetime of Software Support
 
 Fairphone has been producing smartphones with a focus on repairability and sustainability, and more recently, has branched out into other categories like [headphones](https://tech-hub.techidaily.com/techniques-to-curtail-ai-fictional-responses/). Today the company announced the Fairphone 5, a mid-range Android smartphone built to last as long as possible.
@@ -74,7 +80,3 @@ Fairphone has been producing smartphones with a focus on repairability and susta
 <li><a href="https://remote-screen-capture.techidaily.com/real-time-combination-of-screenwebcam-feed/"><u>Real-Time Combination of Screen/Webcam Feed</u></a></li>
 <li><a href="https://techidaily.com/solved-microsoft-excel-2000-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2000 File Error The document cannot be saved</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Original Replacement Components for Google Pixel Available at iFixit
-date: 2024-08-28T04:19:40.753Z
-updated: 2024-08-29T04:19:40.753Z
+date: 2024-09-05T07:51:56.497Z
+updated: 2024-09-06T07:51:56.497Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Pixel-6-and-Pixel-6-Pro.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Original Replacement Components for Google Pixel Available at iFixit
 
 Google and iFixit teamed up earlier this year to offer genuine replacement parts and repair guides for Google Pixel phones, with the goal of making self-repairs as easy as possible. Now the promised parts are available to purchase.
@@ -17,6 +23,12 @@ Google and iFixit teamed up earlier this year to offer genuine replacement parts
 
 ![Replacement parts for Pixel 6 on iFixit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Screenshot-2022-06-29-163300.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 iFixit products for Pixel 6
 
  The new parts are available alongside the existing online guides for most types of repairs. iFixit and Google are also working to make parts and guides available soon after new models are released. The Google Pixel 6a will be released next month, and iFixit says "a full selection of Pixel 6a parts plus a full set of repair guides" will be available this fall. More parts will also be added to the store for existing models.
@@ -84,7 +96,3 @@ Related: [Apple's Self Service Repair Program Seems Like a Mess](https://win11.t
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computers-your-guide-to-toms-hardware/"><u>Unveiling the Latest in Computers - Your Guide to Tom's Hardware</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-comprehensive-guide-to-asus-rog-z790-formulas-advanced-cooling-and-elite-hardware/"><u>Unveiling the Performance: A Comprehensive Guide to Asus ROG Z790 Formula's Advanced Cooling and Elite Hardware</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

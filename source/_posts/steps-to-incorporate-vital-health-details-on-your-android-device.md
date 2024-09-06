@@ -1,7 +1,7 @@
 ---
 title: Steps to Incorporate Vital Health Details on Your Android Device
-date: 2024-08-28T04:19:44.238Z
-updated: 2024-08-29T04:19:44.238Z
+date: 2024-09-05T07:51:56.551Z
+updated: 2024-09-06T07:51:56.551Z
 tags:
   - android
 categories:
@@ -15,6 +15,18 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
  Most Android phones—including [Samsung Galaxy](https://instagram-clips.techidaily.com/new-connecting-consciously-with-content-craftsmen-of-your-realm-for-2024/) and [Google Pixel](https://vp-tips.techidaily.com/updated-2024-approved-breaking-the-loop-fixing-frozen-photo-booth-videos/) devices—include a "Safety and Emergency" section in the Settings. The idea is you can add important medical information that a paramedic or someone else might need in an emergency, and it can be accessed without unlocking your phone. Let's do it.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add Medical Information on Android
 
  To add your medical information to your Android phone, go to Settings > Safety and Emergency > Medical Info. Here's how it works:
@@ -23,10 +35,22 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-56-31.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, go to the "Safety and Emergency" section.
 
 ![Select "Safety and Emergency."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-57-07.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now select ""Medical Info" or "Medical Information."
 
 ![Select "Medical Info."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-57-56.jpg) 
@@ -35,10 +59,28 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Tap "Confirm."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-59-10.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Google Pixel devices will launch the "Personal Safety" app, which can be used with or without your Google account.
 
 ![Personal Safety app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-00-17.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Regardless of how you got there, you'll now be looking at several text boxes for various medical information such as allergies, blood type, medications, etc. Fill out as many as you'd like.
 
 ![Fill out the medical information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-02-15.jpg) 
@@ -53,6 +95,18 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
  That's all there is to it!
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Add Emergency Contacts on Android
 
  To add emergency contacts on your Android phone, go to Settings > Safety and Emergency > Emergency Contacts. Let's do it.
@@ -61,6 +115,12 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-56-31.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, go to the "Safety and Emergency" section.
 
 ![Select "Safety and Emergency."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-57-07.jpg) 
@@ -77,6 +137,12 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Choose someone from your contacts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-09-52.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll also see the option to have your emergency contacts be available from the lock screen.
 
 ![Select "Show on Lock Screen."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-10-46.jpg) 
@@ -148,7 +214,3 @@ Your Android phone is probably one of the few things that goes everywhere with y
 <li><a href="https://hardware-reviews.techidaily.com/team-group-debuts-revolutionary-tech-in-taiwan-next-gen-pcie-50-ssds-for-enhanced-ai-performance-innovative-ssd-coolers-and-new-bluetooth-tag-featured-porta3/"><u>Team Group Debuts Revolutionary Tech in Taiwan: Next-Gen PCIe 5.0 SSDs for Enhanced AI Performance, Innovative SSD Coolers & New Bluetooth Tag Featured Portable Drive at Computex 202N4</u></a></li>
 <li><a href="https://tech-hub.techidaily.com/top-8-issues-of-openais-chatgpt-unveiled/"><u>Top 8 Issues of OpenAI's ChatGPT Unveiled</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

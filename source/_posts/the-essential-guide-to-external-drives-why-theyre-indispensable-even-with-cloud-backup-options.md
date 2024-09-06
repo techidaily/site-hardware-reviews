@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to External Drives: Why They're Indispensable Even With Cloud Backup Options"
-date: 2024-08-28T04:16:53.432Z
-updated: 2024-08-29T04:16:53.432Z
+date: 2024-09-05T07:51:53.472Z
+updated: 2024-09-06T07:51:53.472Z
 tags:
   - hardware
 categories:
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 * [USB Storage Is Much, Much Cheaper](https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [USB Drives Have Other Uses Aside From Storage](https://win11-tips.techidaily.com/navigate-with-style-adding-emoji-15-to-win11-setup/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Flash drives and external SSDs transfer files faster than ever.
@@ -36,12 +42,21 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
  Flash drives were (physically) never particularly large, but now they're even smaller. Plus, you can get a drive with both a USB-C and USB-A port, so that you're ready for whichever machine you encounter. Though you may be [best off with an external SSD](https://visual-screen-recording.techidaily.com/updated-2024-approved-compre-omprehensive-razer-video-cam-test/), considering how small they've become, too.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You're Not Dependent on an Internet Connection
 
 ![A USB-C flash drive next to an external SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-external-drive-flash-drive-ssd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Bertel King / How-To Geek
 
@@ -49,9 +64,6 @@ Bertel King / How-To Geek
 
  I grew up with [dial-up](https://extra-resources.techidaily.com/updated-5-premier-drone-engines-to-supercharge-your-qxp/), and my parents still live in a rural area that is only just now getting access to cable internet. Even so, I don't have enough signal to stream anything for half of the drive from my home to theirs. As fast and dependable as my internet may be at home (also in a rural area, mind you), I have never hit the point where I take the internet for granted. Files stored on an external drive are files I can access regardless of how poor the internet connection is. Files stuck in cloud storage feel nearby when the internet is fast, but you become aware of how far away those servers are when the connection slows down or even disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Your Data Is Less Likely to Leak
 
  When you store files online, you copy them from your machine to someone else's. Unless you're encrypting your files before they go off onto the web, you're essentially trusting that someone won't go snooping through your files.
@@ -64,9 +76,6 @@ Bertel King / How-To Geek
 
  It's worth mentioning that simply deleting files on a local drive does not destroy the data. If you want to ensure that your data is truly gone from a drive, you should use a reputable file shredding application to scrub the drive clean and ensure nothing can be recovered from it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ##  There's No Censorship Over What Files You Can Store
 
  Since your online files are stored on someone else's machines, they're liable for whatever it is that you're uploading. They may take issue with your intimate photos or consider your stash of ripped DVDs to be pirated. When you store stuff online, you have to be mindful of how other people feel about your data.
@@ -74,14 +83,20 @@ Bertel King / How-To Geek
  Unless someone physically gets their hands on your external drive and plugs it into something, they have no idea what's on it. If they don't know what's on it, they can't tell you to delete it. You're the one who decides what gets to go onto your drive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  USB Storage Is Much, Much Cheaper
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -92,7 +107,10 @@ Jerome Thomas / How-To Geek
  Maybe you're just [considering whether to pay for more iCloud space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/). By buying your own storage, you turn an ongoing recurring cost into a handful of one-time expenses. Get yourself enough drives to make multiple copies of your data, and then stop there. You won't need an additional subscription service to help you find all the ways that you're wasting money on automatic payments, because no money is going out the door.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  USB Drives Have Other Uses Aside From Storage
 

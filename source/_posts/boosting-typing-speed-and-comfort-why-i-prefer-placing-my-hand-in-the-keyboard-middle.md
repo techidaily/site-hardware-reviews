@@ -1,7 +1,7 @@
 ---
 title: "Boosting Typing Speed and Comfort: Why I Prefer Placing My Hand in the Keyboard Middle"
-date: 2024-08-28T04:16:25.934Z
-updated: 2024-08-29T04:16:25.934Z
+date: 2024-09-05T07:51:53.017Z
+updated: 2024-09-06T07:51:53.017Z
 tags:
   - hardware
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb6364e0dccb7651832a4251dcd.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boosting Typing Speed and Comfort: Why I Prefer Placing My Hand in the Keyboard Middle
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * A split keyboard enables reconfiguring your desk, crucial for ergonomic comfort and efficiency.
@@ -21,12 +39,24 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 
  I know that sounds like a sales pitch, but it’s not. Putting my mouse between my keyboard halves really changed everything for me as a work-from-home journalist that would often sit at a computer for 9 or more hours per day. Here’s why you should put your mouse between your keyboard halves too!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Split Keyboard Makes It Possible To Reconfigure Your Desk
 
  Let’s start at the beginning here. Before you can put your mouse between your keyboard halves, you have to _have_ keyboard halves. I personally use the [Dygma Raise](https://dygma.com/pages/dygma-raise-2), but there are [other split keyboards](https://eaxpv-info.techidaily.com/new-2024-approved-from-footage-to-feature-making-youtube-thumbnails-mobile/) to choose from. This is crucial because, unless you plan to just cut your keyboard in half, placing a mouse on top of your keyboard won’t be very beneficial. So, split your keyboard and learn to live a little.
 
 ![Logitech MX Master 3 In the middle of a Dygma Raise Split Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/logitech-mx-master-3-in-the-middle-of-a-dygma-raise-split-keyboard.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
  If we sit at a computer naturally, our hands typically rest in the middle of our bodies. Normally, your hand doesn’t rest all the way to the left or the right of your keyboard. The resting position is in the middle, which is typically the most comfortable place. So, it’s only natural to place the mouse there. Right?
@@ -35,15 +65,15 @@ Patrick Campanale / How-To Geek
 
  It was the first time I saw a split keyboard like the Dygma, and it completely threw me for a loop. I wasn’t sure what I was looking at, and when I first tried it, it was anything but “comfortable.” However, once I got my own (I got bit by the tech bug), and spent a few days adjusting to the split keyboard lifestyle, I was hooked.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Placing The Mouse In Between The Keyboard Halves Is Much More Ergonomic and Comfortable
 
 ![Mouse Beetween Split Keyboard Halves](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/mouse-beetween-split-keyboard-halves.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 
@@ -55,15 +85,15 @@ Patrick Campanale / How-To Geek
 
  Moving the mouse to the center of my desk helped a lot with the various pains that I had from sitting at a desk for nine or more hours per day. My wrist hurt less, my arm hurt less, and my shoulder hurt less. All from just moving the position of my mouse. So, if your arm, wrist, or shoulder is hurting, try moving your mouse. It might seem odd at first, but, like a split keyboard, it only takes a few days to get used to it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  With The Right Keyboard, You Can Even Keep A Lot Of Functionality While Only Using Half Of It
 
 ![Mouse In The Middle of a Split Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/mouse-in-the-middle-of-a-split-keyboard.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Patrick Campanale / How-To Geek
 

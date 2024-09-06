@@ -1,7 +1,7 @@
 ---
 title: Comparing the Pixel 9, Pixel
-date: 2024-08-28T04:21:26.395Z
-updated: 2024-08-29T04:21:26.395Z
+date: 2024-09-05T07:51:58.351Z
+updated: 2024-09-06T07:51:58.351Z
 tags:
   - android
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## Comparing the Pixel 9, Pixel
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Pixel 9 (128GB) costs $799, while the Pixel 9 Pro starts from $999\. The Pixel 9 Pro XL is available from $1,099.
@@ -24,14 +30,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  The [regular Pixel 9 with a 6.1-inch screen](https://screen-activity-recording.techidaily.com/new-perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google/) and 128 GB of storage costs $799 for the baseline variant. On the other hand, the Pixel 9 Pro, with a 6.1-inch screen and a telephoto camera, costs $999 for the 128GB model. Last but not least, the Pixel 9 Pro XL, with a 6.8-inch screen and a telephoto sensor, starts from $1,099\. All the phones are available to pre-order right now and will begin shipping on August 22.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Pixel 9 Series Looks Beautiful
 
 ![Google Pixel 9 and 9 Pro lined up on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-9-and-9-pro-lined-up-on-a-table.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
@@ -47,13 +59,16 @@ Justin Duino / How-To Geek
 
  While all the models are available in Obsidian and Porcelain finishes, the Pixel 9 also ships in Wintergreen and Peony (the new shade). The Pro models are available in two other colors: Hazel and Rose Quartz. In terms of design, it's the back panel's finish, the dimensions, and the colors that set the models apart.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Want The Biggest Screen? Go For The Pixel 9 Pro XL
 
 ![Person holding the Google Pixel 9 showing the display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/person-holding-the-google-pixel-9-showing-the-display.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
  The regular Pixel 9 ships with a 6.3-inch Actua screen that achieves a [peak brightness](https://facebook-clips.techidaily.com/updated-2024-approved-covert-videography-the-premier-8-downloader-list/) of 2,700 nits (1,800 nits in HDR mode). Further, the screen has a pixel density of 422 ppi and supports a refresh rate of 120Hz. In comparison, the Pixel 9 Pro also has a 6.3-inch, but it has been bumped up to a "Super Actua" display that can shine as bright as 3,000 nits (2,000 nits in HDR mode) and has a higher pixel density of 495 ppi.
@@ -64,9 +79,6 @@ Justin Duino / How-To Geek
 
  Those looking for a compact smartphone can go with the Pixel 9 or the Pixel 9 Pro, while those who frequently watch movies or consume a lot of content should opt for the bigger-screened Pixel 9 Pro XL.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Pro Models Offer Better Performance
 
 ![Representation of the Google Tensor G4 SoC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/google-tensor-g4-soc.png) 
@@ -88,7 +100,10 @@ Google
 ![Rear camera bar on the Google Pixel 9 Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53921631548_cc99d7e44d_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 
@@ -100,6 +115,18 @@ Justin Duino / How-To Geek
 
  This year, Google has enabled 8K (30 fps) video recording on the Pixel 9 Pro and Pixel 9 Pro XL (with the primary sensor), but the Pixel 9 maxes out at 4K (60 fps). Some Pro-exclusive video recording features include Video Boost, Night Sight Video, and Super Res Zoom Video. Other features like Macro Focus Video, Cinematic Blur, and Audio Zoom are standard across the lineup.
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Seven Years Of Software Upgrades Are Standard
 
 ![Google Gemini update for Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/0-blog-header.png) 
@@ -114,6 +141,12 @@ Google
 
 ![Google Pixel 9 Pro and Pixel 9 Pro XL next to each other.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/google-pixel-9-pro-and-pixel-9-pro-xl.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google
 
  The larger chassis allows the Pixel 9 Pro XL to pack the largest battery of all. We're talking about a 5,060 mAh battery, which Google claims could provide "24+ hour battery life." Interestingly, even though the smaller phones -- Pixel 9 and Pixel 9 Pro -- have a 4,700 mAh battery, they are also rated to provide a similar battery life. Further, the phones can last up to 100 hours with [the Extreme Battery Saver mode](https://some-knowledge.techidaily.com/exploring-why-filmmakers-cherish-filmora-features-for-2024/) (with limited functionality).
@@ -122,13 +155,22 @@ Google
 
  Regarding wired charging rates, the smaller models are stuck with 27W charging, while the XL variant supports 37W charging. As the fine print on the specification sheet mentions, the wireless charging rates are 15W for the regular Pixel 9, 21W for the Pixel 9 Pro, and 23W for the Pixel 9 Pro XL with Google Pixel Stand (2nd Gen). It also supports 12W Qi-certified EPP chargers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Pixel 9 Pro Gets An Ultra-Wideband Chip
 
 ![Photo of headphones in Find My Device](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/screenshot-05-10-2023-142502.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Google](https://www.youtube.com/watch?v=cNfINi5CNbY)_
 
  Besides the basic sensors like proximity sensor, accelerometer, and gyrometer, the Pixel 9 Pro and Pixel 9 Pro XL ship with a temperature sensor. What's good is that the company has received FDA approval for human use of the temperature sensor, something that was missing when it [first came out with the Pixel 8 Pro](https://www.google.com/search?q=site%3Ahowtogeek.com+Pixel+temperature+sensor&sca%5Fesv=8c5b23401a0c4f4e&sca%5Fupv=1&rlz=1C5CHFA%5FenIN1067IN1067&ei=j9a8ZonLNcPd2roP05S30A0&ved=0ahUKEwjJztOH7%5FSHAxXDrlYBHVPKDdoQ4dUDCA8&uact=5&oq=site%3Ahowtogeek.com+Pixel+temperature+sensor&gs%5Flp=Egxnd3Mtd2l6LXNlcnAiK3NpdGU6aG93dG9nZWVrLmNvbSBQaXhlbCB0ZW1wZXJhdHVyZSBzZW5zb3JIkSFQmghYmBtwAngAkAEAmAHqAaABnR2qAQYwLjIxLjO4AQPIAQD4AQGYAgCgAgCYAwCIBgGSBwCgB7gI&sclient=gws-wiz-serp).
@@ -136,7 +178,10 @@ _[Google](https://www.youtube.com/watch?v=cNfINi5CNbY)_
  Connectivity options on the smartphone include 5G (mmWave + Sub 6GHz), Wi-Fi 7, Bluetooth v5.3, NFC, and Google Cast. The Pro models also feature an Ultra-Wideband Chip for "accurate ranging and spatial orientation." In other words, the phone will now support precise, direction-based tracking for all the supported devices via the [Google Find My Device app](https://win-blog.techidaily.com/troubleshooting-tricks-for-recurring-disruptions-and-crashes-in-ghostwire-tokyo-gaming-experience/) (as and when the feature arrives).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Which Is Right For You?
 

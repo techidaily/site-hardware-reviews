@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Detecting & Blocking Mobile Ad Spyware on Android
-date: 2024-08-28T04:20:02.276Z
-updated: 2024-08-29T04:20:02.276Z
+date: 2024-09-05T07:51:56.924Z
+updated: 2024-09-06T07:51:56.924Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/google-play-store-logo-lens.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effective Strategies for Detecting & Blocking Mobile Ad Spyware on Android
 
 ### Quick Links
@@ -27,6 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ["Third-party" trackers](https://www.reviewgeek.com/72272/the-lastpass-android-app-contains-7-trackers-from-third-party-companies-%F0%9F%98%AC/), however, send data to external services the company uses, or to the company's business partners. These are often advertisers wanting to sell stuff to you. They're likely using your data to do things like learning what your interests are, or judging what time of day you're likely to tap on ads. You can limit trackers' knowledge of you by [opting out of personalized ads](https://youtube-lab.techidaily.com/n-2024-curating-the-perfect-soundtrack-youtubes-best-audio-sites-ranked/), but that doesn't stop them from learning what they can.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Take Control of Your Privacy
 
  If all of this has you concerned, then meet [TrackerControl](https://trackercontrol.org/), a free and [open-source](https://facebook-videos.techidaily.com/new-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/) app capable of identifying those trackers and blocking them as well. It works by piping your network data through an on-device [VPN](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) server and checking the traffic against a database of known trackers. If you're worried by the [privacy concerns associated with VPNs](https://fox-cloud.techidaily.com/updated-learning-vector-artistry-an-overview-for-starters-and-software-picks/), don't be; it's not a true VPN and is located on your device, not a remote server. Unfortunately, this does mean you can't use a regular VPN while TrackerControl is working.
@@ -40,7 +52,10 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
  The second caveat is that blocking trackers can and often does prevent apps from working properly. Typically, this looks like loading screens that never complete. In our testing, web browsers and social media apps almost always have this issue, since they're often fetching media to serve you from outside domains. You can solve the problem by allowing trackers necessary for function while still blocking others, although this involves some trial and error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Setting Up TrackerControl
 
@@ -50,24 +65,30 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 
 ![Toggle on TrackerControl by tapping the switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-enable.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll be prompted to allow the app permission to set up its VPN server. Tap "Ok."
 
 ![Tap "Ok" to allow TrackerControl to set up its VPN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-allow-vpn.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You should see a small key icon appear in the status bar signifying the VPN is operational, and TrackerControl's rocket icon should also appear in your notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Monitoring Trackers
 
  With TrackerControl activated, launch any app you want to monitor. Then go back to TrackerControl and look for the app in the main menu. Tap it, and under "Tracker Libraries" you'll see a summary of the companies and services collecting data through the app. Scroll down, and you'll see individual trackers divided by category, like Essential, Analytics, Fingerprinting, and Social. You'll also see how long ago your data was sent.
 
 ![Libraries and tracker lists for GroupMe in TrackerControl Slim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-slim-monitoring-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Feel free to search for information on the different trackers by looking up their names on the internet. Note that this list will likely grow as you continue to use the app.
 
  If you're using the Slim edition and are uncomfortable with the trackers, you can stop them by flipping the "Internet Access" switch to the off position. However, the app will not work as long as TrackerControl is operational, or at least won't be able to do anything that involves the internet.
@@ -75,7 +96,16 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 ![Toggle off internet access to completely block an app from connecting to the internet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-disable-internet-access.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It's a rather blunt tool, and you're probably better off simply [uninstalling the offending app](https://howto.techidaily.com/9-solutions-to-fix-honor-x50-gt-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/) to protect your privacy.
 
@@ -90,7 +120,16 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 ![Disable Monitoring for an app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-disable-monitoring.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Alternatively, you can unblock individual trackers by tapping them inside their categories. We don't recommend this, though, because ensuring you unblocked the correct ones can require a lot of testing. And even if you succeed, other trackers may later become active, which TrackerControl will automatically block, forcing you to go through the process again.
 
@@ -98,9 +137,6 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 
 ![Tap "Pause for 10 Mins" in the TrackerControl notification](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-pause-ten-minutes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need more than 10 minutes, you can disable TrackerControl entirely by again hitting the toggle button in the top-left corner of the main menu.
 
  To make sure your device is as private and secure as possible, you may want to consider some ways you can [avoid malware](https://twitter-videos.techidaily.com/updated-the-quintessential-toptiktok-tweets-in-popularity-for-2024/) and [judge when Android apps aren't safe](https://fox-boxes.techidaily.com/updated-effortless-srt-to-txt-conversion-in-under-minutes/).

@@ -1,7 +1,7 @@
 ---
 title: Meta's Horizon OS Powers New Virtual Reality Devices by ASUS & Lenovo
-date: 2024-08-28T04:15:52.890Z
-updated: 2024-08-29T04:15:52.890Z
+date: 2024-09-05T07:51:52.454Z
+updated: 2024-09-06T07:51:52.454Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/10/a-close-up-look-at-the-interior-lenses-of-the-quest-3-1.JPG
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Meta's Horizon OS Powers New Virtual Reality Devices by ASUS & Lenovo
 
 Meta’s Quest headsets are the most popular hardware for virtual reality and augmented reality. Now, Meta will allow other companies to build headsets that use the same software, and Lenovo and ASUS are already on board.
@@ -19,6 +25,18 @@ Meta’s Quest headsets are the most popular hardware for virtual reality and au
 
 ![Render of a box with a "Built with Meta Horizon OS" sticker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/438925457_755278050044906_778773150524739163_n.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Meta
 
  Meta says ASUS is working on “an all-new performance gaming headset” using the new platform, and Lenovo will “develop mixed reality devices for productivity, learning, and entertainment. ASUS and Lenovo both created [Windows Mixed Reality headsets](https://some-skills.techidaily.com/new-ultimate-metaverse-vr-gear-list-top-8-choices/) when that platform was new, and Lenovo helped design the Oculus Rift S in 2019\. Meta also confirmed that it will sell a “limited-edition” Meta Quest with an Xbox-inspired design.
@@ -101,7 +119,3 @@ Meta
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-guided-by-toms-expertise/"><u>Unveiling the Latest in Hardware - Guided by Tom's Expertise</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-how-to-record-your-memorable-honeymoon-video-for-2024/"><u>Updated How to Record Your Memorable Honeymoon Video for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

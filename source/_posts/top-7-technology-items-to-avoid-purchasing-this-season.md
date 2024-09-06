@@ -1,7 +1,7 @@
 ---
 title: Top 7 Technology Items to Avoid Purchasing This Season
-date: 2024-08-28T04:16:56.949Z
-updated: 2024-08-29T04:16:56.949Z
+date: 2024-09-05T07:51:53.530Z
+updated: 2024-09-06T07:51:53.530Z
 tags:
   - hardware
 categories:
@@ -23,6 +23,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Struggling to keep up with the latest tech releases? I hear you. With so many new and upcoming releases of our favorite phones, consoles, and gadgets, it's hard to stay on top of it all. That's why I've compiled a list of tech products you shouldn't purchase this summer, as they'll soon be outdated.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  iPhone and Some Other Apple Products 
 
  Apple usually drops new iPhones in September or October each year, so the worst time to buy a new iPhone is always the summer preceding the new phone. If you were planning to buy a new iPhone and some new AirPods before your summer vacation, or maybe a couple of devices for your kids when it's back to school season, put your credit card back into your wallet immediately.
@@ -37,6 +43,12 @@ Justin Duino / How-To Geek
 
 ![apple-airpods-pro-2nd-generation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/apple-airpods-pro-2nd-generation.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Apple AirPods Pro (2nd Generation) 
 
 $190 $249 Save $59 
@@ -46,7 +58,10 @@ Enjoy significant enhancements to the Apple AirPods Pro with this 2nd generation
 [Buy on Amazon](https://www.amazon.com/Apple-Generation-Cancelling-Transparency-Personalized/dp/B0D1XD1ZV3/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) [See at Apple](https://www.apple.com/shop/product/MTJV3LL/A/airpods-pro) [See at Target](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Fairpods-pro-2nd-generation-with-magsafe-case-usb-c%2F-%2FA-85978622) [See at Walmart](https://www.walmart.com/ip/AirPods-Pro-2nd-generation-with-MagSafe-Case-USB-C/5689919121) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2  Google Pixel Phone, Watch, and Buds Pro 
 
@@ -56,25 +71,46 @@ Enjoy significant enhancements to the Apple AirPods Pro with this 2nd generation
 
 ![Samsung Watch 7 Product Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/watch-7-product-image-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Samsung Galaxy Watch 7
 
 The Samsung Galaxy Watch 7 is Samsung's entry-level smartwatch for 2024\. It resembles the Galaxy Watch 6 but features an enhanced Exynos W1000 chipset, promising significantly improved battery life and performance.
 
 [$300 at Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch7%2F) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004220/https://www.verizon.com/connected-smartwatches/samsung-galaxy-watch7/) [$350 at Amazon](https://amazon.com/dp/B0D1YP5ZQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3  Sonos Arc 
 
  When the [original Sonos Arc](https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70e-device-by-drfone-android/) dropped back in 2020, it disrupted the TV soundbar industry. This was a premium soundbar with Dolby Atmos, a sleek design, and excellent sound quality. However, it was quite expensive when it launched at $799\. What's worse is that it actually got a price bump to [$899](https://www.techradar.com/reviews/sonos-arc#:~:text=The%20Sonos%20Arc%20has%20long,which%20delivers%20high%2Dimpact%205.0.), and it's currently [$872.50](https://www.amazon.com/dp/B087CCKWWP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) for the white model or $889.99 for the black one.
 
 ![Sonos Arc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/sonos-arc.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _Sonos_
 
  With the [second generation](https://www.techradar.com/televisions/soundbars/sonos-arc-2-set-for-2024-launch-with-next-gen-speaker-tech-and-a-serious-price-tag) apparently around the corner, it makes little sense to buy the original model at such a high price tag. It's worth noting that the 2nd-gen Arc will reportedly cost $1,200, but it'll likely have even better sound quality. If you're an audiophile, and no price is too high, the 2nd-gen Sonos Arc is worth the wait. If you want to upgrade your TV's sound quality at a reasonable price, check out our list of the [best soundbars of 2024](https://discord-videos.techidaily.com/how-to-keep-the-conversation-flowing-on-discord/) instead.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4  PlayStation 5 
 
  AMD has launched a new generation of [Zen 5 CPUs](https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-smart-8-without-backup-by-fonelab-android-recover-pictures/), and RDNA 3.5 GPUs are coming soon as well. With this news in mind, it comes as no surprise that Sony is working hard to release the [PlayStation 5 Pro](https://www.techopedia.com/ps5-pro-release-date) before Christmas. We don't know if the PS5 Pro will use Zen 5 CPUs or the slightly older Zen 4 models, but we know that it'll be a significant performance uplift over the original PlayStation 5.
@@ -85,14 +121,8 @@ _Sonos_
 
 ![A white Sony PlayStation 5 Console on display at CES 2023.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/01/52625290774_550554ac19_k.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  Nintendo Switch 
 
  The Nintendo Switch is one of the oldest "current-gen" consoles in existence. It was released in 2017, long before [PC-grade handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) powered by advanced SoCs like the [Steam Deck](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) entered the mainstream. Plus, the Switch was [underpowered even at launch](https://www.xda-developers.com/why-switch-cpu-underpowered-switch-2-preview/#:~:text=As%20a%20recap%2C%20the%20Nintendo,launch%20the%20CPU%20was%20underpowered.), so it's fair to say that a Switch 2 is long overdue. The OLED version was a nice improvement, however!
@@ -101,11 +131,14 @@ Hannah Stryker / How-To Geek
 
 ![A Nintendo Switch Lite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nintendo-switch-lite.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Goran Damnjanovic/How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6  NVIDIA RTX-40 Series and AMD RX 7000 Series GPUs 
 
  The [NVIDIA RTX-50 Series](https://www.guru3d.com/story/nvidia-geforce-rtx-50series-blackwell-to-launch-in-january-2025-at-ces/) will reportedly launch in January 2025; [AMD RX 8000 Series](https://www.digitaltrends.com/computing/amd-rdna-4-news-release-date-price-rumors/) RDNA 4, along with a long-rumored [RX 7000 Series RDNA 3 refresh](https://wccftech.com/amd-radeon-rx-7950-xtx-7950-xt-7800-xt-7700-xt-7600-xt-7500-xt-rdna-3-gpus-show-up-in-rocm-5-6/), is also coming out at around the same time. It's worth noting that RDNA 4 GPUs focus heavily on ray-tracing performance and, according to [rumors](https://www.pcgamesn.com/amd/radeon-7900-xtx-faster-rdna-4), AMD's next-gen GPUs can't beat AMD's outgoing flagship GPU, the RX 7900 XTX.
@@ -115,7 +148,16 @@ Goran Damnjanovic/How-To Geek
 ![MSI GeForce RTX 4070 TI Ventus 12G OC GPU in a gaming PC at CES 2023](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52606768067_aff13d7ea2_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Justin Duino / How-To Geek
 

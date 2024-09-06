@@ -1,7 +1,7 @@
 ---
 title: "Top 10 DIY Electronics Add-Ons: Create Them with Your Own 3D Printer"
-date: 2024-08-28T04:21:57.154Z
-updated: 2024-08-29T04:21:57.154Z
+date: 2024-09-05T07:51:58.858Z
+updated: 2024-09-06T07:51:58.858Z
 tags:
   - android
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8c525b5adaf36446317042da.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 10 DIY Electronics Add-Ons: Create Them with Your Own 3D Printer
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Cases for Just About Anything](https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/)
@@ -31,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
  There are a few good repositories you can check, like [Printables](https://www.printables.com/) and [Pinshape](https://pinshape.com/). For this list, we'll link models available on [Thingiverse](https://www.thingiverse.com/) because it only lists free 3D models, while the other two also feature paid ones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  1\. Cases for Just About Anything
 
  A good starting point is printing cases. It's probably not surprising that you can get protective covers for phones, like [this one for the Galaxy S22 Ultra](https://www.thingiverse.com/thing:5339723), and laptops, like [this one for the 2019 Razer Blade Stealth](https://www.thingiverse.com/thing:3945076). Although there's a lot more down that rabbit hole.
@@ -44,7 +62,10 @@ Thingiverse / 3Derp
  Products with more standardized designs have a myriad of options available. There are literally [dozens of Raspberry Pi cases](https://www.thingiverse.com/search?q=raspberry), for [lots of different models](https://www.thingiverse.com/thing:410003), ranging from [a TARDIS-shaped one](https://www.thingiverse.com/thing:2430122) to [a handheld console](https://www.thingiverse.com/thing:2658920) to a [full-fledged laptop](https://www.thingiverse.com/thing:3134603). Memory cards also have varied case models for download, like [this one that also stores USB thumb drives](https://www.thingiverse.com/thing:4784411) or [this one that holds microSD cards](https://www.thingiverse.com/thing:6310679) and uses a microSD to SD adapter as a lid.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  2\. Port Covers
 
@@ -56,12 +77,27 @@ Thingiverse / 3Derp
 
 ![3D printed, dark gray cable saver wrapped around a white USB-A connector](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3d-printed-dark-gray-cable-saver-wrapped-around-a-white-usb-a-connector.jpeg) 
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Thingiverse / gubutek
 
  There are more generic strain reliefs, like these for [USB cables](https://www.thingiverse.com/thing:9956), [headphones](https://www.thingiverse.com/thing:4789089), [HDMI cords](https://www.thingiverse.com/thing:5580540), [Ethernet connectors](https://www.thingiverse.com/thing:2773556), and [Lightning](https://www.thingiverse.com/thing:1298189) as well. However, you may find less common ones, too, like [this one for the Surface Pro](https://www.thingiverse.com/thing:2345742). The same goes for [cable savers](https://www.thingiverse.com/search?q=cable+saver&page=1), with lots of formats to choose from.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  4\. Cable Holders and Organizers
 
@@ -69,10 +105,6 @@ Thingiverse / gubutek
 
  There's [one to keep the cord from tangling during transport](https://www.thingiverse.com/thing:1107638), too, and, if you own a MacBook, you can try [this wrapper that also acts as a case for the charger](https://www.thingiverse.com/thing:463633). Some Apple laptop models may benefit from [this cable lock](https://www.thingiverse.com/thing:202491), which keeps all the wiring in place.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  5\. Headset Hooks
 
  No gaming PC setup is complete without a headset hook. In case you have just got home from the store and realized you forgot to buy one, fret not! Your 3D printer is here to help!
@@ -83,15 +115,18 @@ Thingiverse / ztxdk
 
  You can even choose where to place it. There are options to put it [under your desk](https://www.thingiverse.com/thing:245932), on [your monitor's corner](https://www.thingiverse.com/thing:1324319), on [your computer tower's side](https://www.thingiverse.com/thing:1505298) (with the help of double-sided tape), or even on [your cubicle's wall](https://www.thingiverse.com/thing:2848589), if you're in the office.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  6\. Webcam Covers
 
  Laptops (and dedicated webcams) with privacy covers are becoming more common, but they're far from mainstream. If you want a cheap and fast solution to ensure you're not being watched, a 3D-printed camera cover works better than a piece of paper, and doesn't leave your computer sticky like using tape.
 
  There's [this one with square edges](https://www.thingiverse.com/thing:3383461), [this model with rounded ones](https://www.thingiverse.com/thing:3605827), and [this one with... Well, with both](https://www.thingiverse.com/thing:4099067). You can also get a more straightforward one, that just [slides over your laptop's lid](https://www.thingiverse.com/thing:556704), or [decorated covers for die-hard brand fans](https://www.thingiverse.com/thing:1131064). This ["anti-spy" model](https://www.thingiverse.com/thing:655641) deserves a mention as well for being very on-point.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  7\. Keycaps
 
  Perhaps you got unlucky and purchased a keyboard with nonstandard keycaps, [like Logitech's MX Mechanical duo](https://remote-screen-capture.techidaily.com/essential-guide-to-screencasting-with-google-meet/). Perhaps you're just in need of a change and don't want to wait for online-purchased keycaps to arrive. Well, why not use your 3D printer to make your own?
@@ -100,9 +135,6 @@ Thingiverse / ztxdk
 
 ![Pair of LEGO-shaped keycaps, one upside down showing the Cherry MX stem, the other showing the mounting pins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/pair-of-lego-shaped-keycaps-one-upside-down-showing-the-cherry-mx-stem-the-other-showing-the-mounting-pins.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Thingiverse / merberich
 
  There are more elaborate designs as well. Star Wars fan? Get a [Mandalorian keycap set](https://www.thingiverse.com/thing:5234703)! More into Pokémon? Here goes a [pokéball](https://www.thingiverse.com/thing:3685198), a [low-poly Pikachu](https://www.thingiverse.com/thing:1200732), and [a more detailed Charmander](https://www.thingiverse.com/thing:4222096).
@@ -117,9 +149,6 @@ Thingiverse / merberich
 
 [Laptop feet](https://www.thingiverse.com/thing:3508283), [keyboard legs](https://www.thingiverse.com/thing:192367), [battery covers](https://www.thingiverse.com/thing:6367104), [headset hinges](https://www.thingiverse.com/thing:2092430), the [cap protecting your Apple Pencil's charging connector](https://www.thingiverse.com/thing:1366689), or the [hooks used to hold the cable on a MacBook charger](https://www.thingiverse.com/thing:192224)... There are lots of parts you can print instead of living with the (admittedly minor) inconvenience of their absence.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  9\. Laptop, Tablet and Phone Stands
 
  You wouldn't believe how many different laptop/phone/tablet stands there are on 3D model repositories. Like, dozens of them. We selected a few to show you the possibilities, but be sure to [check other stand models](https://www.thingiverse.com/search?q=stand) for yourself.
@@ -141,7 +170,10 @@ Thingiverse / HeyVye
  To close this section, take a look at the peculiar [Octopus Stand](https://www.thingiverse.com/thing:158069). It's limited to tablets, but apparently, it's very popular—with over 8,000 downloads. It yielded a [Version Two](https://www.thingiverse.com/thing:213990), and [a smaller Version Three](https://www.thingiverse.com/thing:607518), better suited for phones.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  10\. Silly and Fun Accessories
 
@@ -149,6 +181,12 @@ Thingiverse / HeyVye
 
  Ever heard of the [DIY phone amplifier with party cups and a cardboard tube](https://www.youtube.com/watch?v=wQ4G5U1v%5Fi0)? You can 3D print [a slightly less hacky](https://www.thingiverse.com/thing:3535043) version of it. Want an inexpensive (and, to be fair, not very trustworthy) way to protect your data? Check this [USB drive cryptex](https://www.thingiverse.com/thing:1196989) out. There are also wired earphone holders, like [this bat-signal-shaped one](https://www.thingiverse.com/thing:1041882) or [this one that fits into an Altoids case](https://www.thingiverse.com/thing:2764239).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  3D Printing Is As Useful As It's Fun
 
  Whether you're a newcomer to the 3D printing community or a seasoned veteran, there are always new projects to discover. However, if printing accessories gets too boring, you may consider [3D printing a whole new 3D printer](https://www.thingiverse.com/thing:1023641). Or [a house](https://fox-glue.techidaily.com/new-venturing-into-video-production-top-5-mac-videographers-for-2024/).

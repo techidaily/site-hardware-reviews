@@ -1,7 +1,7 @@
 ---
 title: Can Low-Cost Wireless HDMI Dongles Deliver Quality Performance in Gaming, Cinema, and Slideshows?
-date: 2024-08-28T04:17:18.332Z
-updated: 2024-08-29T04:17:18.332Z
+date: 2024-09-05T07:51:53.918Z
+updated: 2024-09-06T07:51:53.918Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Can Low-Cost Wireless HDMI Dongles Deliver Quality Performance in Gaming, Cinema, and Slideshows?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Wireless HDMI adapters work well for movies and streaming, offering decent image quality without tearing or artifacts.
@@ -27,6 +33,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generic wireless HDMI adapters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-1.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
  The wireless HDMI Adapters as they arrived: a nice case, and some handy accessories.
@@ -35,15 +47,18 @@ Brad Morton / How-To Geek
 
 ![Wireless HDMI adapter plugged in to a TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2.jpeg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
  Above you can see my wireless HDMI adapter set up and ready to receive video.
 
  These adapters are sold under a number of different brand names by different online vendors, so, like a lot of other cheap Amazon gadgets, you'll need to go by their appearance, not their product label. While there's a number of more expensive wireless HDMI adapters available on Amazon (some from more widely known and reputable brands), I wanted to see what the absolute cheapest option could do. After all, I plan on using these adapters while traveling, and don't want to risk leaving something expensive plugged into the back of a hotel TV.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Testing Conditions
 
  To perform these tests, I'm using a Windows 11 computer that is about 2.5 meters away from my 1080p TV, with a couch in the way for good measure. Before testing, I checked that the wireless HDMI adapters worked with some other devices, including an Apple MacBook and an Xbox Series S, to confirm that they worked with a variety of devices.
@@ -61,7 +76,10 @@ Brad Morton / How-To Geek
 ![Watching a movie over wireless HDMI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
@@ -69,9 +87,6 @@ Brad Morton / How-To Geek
 
  One real bonus is the wide compatibility. I've had no small amount of trouble trying to share video to a TV in a hotel using various wireless standards, only to find that it doesn't work. HDMI is pretty much just HDMI, so these hardware adapters work with everything (so long as I can reach behind the TV to get to the socket).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  Wireless HDMI for Gaming: It's Doable (Just)
 
  Now the most important test: Gaming. For these adapters to be effective, the latency (the time it takes for the video signal to reach the TV) needs to be very low, as playing games isn't fun when it takes a few moments for your input on the controller to show up on the screen.
@@ -79,7 +94,10 @@ Brad Morton / How-To Geek
 ![Playing Horizon: Zero Dawn over wireless HDMI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Brad Morton / How-To Geek
 
@@ -87,9 +105,6 @@ Brad Morton / How-To Geek
 
  Interestingly, the video quality and frame rate seemed worse when gaming than when watching a movie, rendering the usually [visually striking](https://some-skills.techidaily.com/in-2024-the-insider-guide-to-listening-to-podcasts-on-your-iphone/) Horizon Zero Dawn an ugly mess. This may be because of a difference in [frame rate](https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-smart-7-hd-devices-by-drfone-android/): while movies are presented at 24 frames per second, games are usually expected to run at 60 frames per second, and anything less is considered suboptimal. To transmit more frames, the quality appears to suffer. So, if you must use wireless HDMI for gaming, you'll probably want to stick to something with a slower pace, like turn-based strategy or point-and-click adventures.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Wireless HDMI for Presentations: Perfection
 
  We've discussed video quality already, and most presentations aren't made to the standards of a Hollywood film, so we don't need to worry too much there. If wireless HDMI is good enough for watching movies, it's good enough for [PowerPoint presentations](https://youtube-webster.techidaily.com/24-mastering-shots-a-vloggers-lens-compendium/).
@@ -97,7 +112,16 @@ Brad Morton / How-To Geek
  It's practicality that wins out here. Work presentations are usually made on a big TV on a wall or from a projector sitting on a meeting table. Getting a cable from there to your laptop usually means creating a trip hazard, or moving your laptop closer so that you have to strike a yoga pose to reach for the keyboard and move to the next slide. Wireless HDMI adapters solve this perfectly: plug them in, and put your laptop wherever you want it. It's also great for events and conferences where different presenters might need to quickly connect with a variety of different devices.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Final Verdict
 

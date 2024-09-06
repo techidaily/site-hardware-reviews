@@ -1,7 +1,7 @@
 ---
 title: The Power of Performance Tests Over Specifications in Choosing PC Parts
-date: 2024-08-28T04:18:37.454Z
-updated: 2024-08-29T04:18:37.454Z
+date: 2024-09-05T07:51:55.325Z
+updated: 2024-09-06T07:51:55.325Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-pc-with-some-charts-on-the-screen.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Power of Performance Tests Over Specifications in Choosing PC Parts
 
 ### Quick Links
@@ -18,6 +24,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Comparing Specs Across Brands and Generations Is Tricky](https://youtube-sure.techidaily.com/izing-channels-with-tubebuddy-expertise/)
 * [Potential Drawbacks of Benchmarks](https://digital-screen-recording.techidaily.com/2024-approved-streamline-recorder-quality-test/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Real-world benchmarks are easier to interpret than specs and also provide accurate performance data.
@@ -27,7 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Struggling to pick out the parts for your next PC? I know how exhausting comparing specs can be. The good news is that you can end up with a pretty solid PC by relying on benchmarks alone, especially if you're on a tight budget.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Benchmarks Are Much Easier to Interpret Than Specs
 
@@ -36,7 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![TimeSpy 3DMark Benchmark running on the Razer Blade 18](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/52690361817_1034920621_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -46,9 +64,6 @@ Hannah Stryker / How-To Geek
 
  Amazing writers, forum users, and YouTubers have put in countless hours testing PC parts for you; your job is simply to learn how to read [CPU](https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-guide-never-see-youtube-shorts-again/) and GPU benchmarks. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Real Benchmarks Provide Real Data
 
  The thing I hate the most about specs is that they're not even accurate, at least not always. I own an older [Ryzen 7 2700X](https://www.amazon.com/AMD-Ryzen-Processor-Wraith-Cooler/dp/B07B428M7F?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003354&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fwhen-buying-pc-parts-i-dont-check-specs-i-just-check-benchmarks-heres-why%2F&asc%5Fcampaign=Evergreen), which supposedly has a [maximum boost clock](https://extra-resources.techidaily.com/vectors-for-novices-uncover-essentials-types-and-applications/) of 4.3GHz. While buying the CPU, I thought that was the frequency that the CPU would run at all the time if I kept it cool, but that's actually the peak clock speed that the CPU can hit for only a few seconds. I've never seen it go above 4.0GHz, regardless of the load and temperature.
@@ -58,7 +73,10 @@ Hannah Stryker / How-To Geek
  Power draw is another spec that isn't necessarily the same as on the spec sheet. Both CPUs and GPUs can draw more power compared to what the box suggests, especially if the manufacturer only publishes the [TDP](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/). Also, you can [increase the maximum power limit](https://www.pcworld.com/article/2054936/how-to-make-your-graphics-card-better-with-just-one-click.html) on graphics cards so that they get more juice to run at a higher clock speed. This means you should account for the real maximum power draw without [overspending on your PSU](https://instagram-video-recordings.techidaily.com/new-in-2024-essential-tips-building-an-instagram-money-machine/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Comparing Specs Across Brands and Generations Is Tricky
 
@@ -69,7 +87,10 @@ Hannah Stryker / How-To Geek
  It's important to remember that you shouldn't make your purchase decision by looking at a random synthetic benchmark score; they're sort of arbitrary. Instead, look at benchmarks that are relevant to your use case. I slightly favor CPUs that do better at productivity tasks, even if they did slightly worse in games, because I also use my PC for work. But if you're building a gaming machine, your primary metric should be how much FPS you're getting per dollar spent, so a few good in-game benchmarks are a fantastic starting point.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Potential Drawbacks of Benchmarks
 

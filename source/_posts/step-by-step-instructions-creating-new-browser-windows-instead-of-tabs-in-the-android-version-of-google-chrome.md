@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Creating New Browser Windows Instead of Tabs in the Android Version of Google Chrome"
-date: 2024-08-28T04:22:39.097Z
-updated: 2024-08-29T04:22:39.097Z
+date: 2024-09-05T07:51:59.586Z
+updated: 2024-09-06T07:51:59.586Z
 tags:
   - android
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/88c6b83c6e65598f301ec5b1e8fb9b13fd16a0c81d9ff03972a4b84d06ac7c03.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Instructions: Creating New Browser Windows Instead of Tabs in the Android Version of Google Chrome
 
 Whether you're a researcher, someone with too many hobbies to keep track of, or are a generally curious person, having multiple browser tabs open can become difficult to manage. Thankfully, Google brought two important features from desktop Chrome to the Android version—and you probably didn't know it.
@@ -19,6 +25,12 @@ Whether you're a researcher, someone with too many hobbies to keep track of, or 
 
 ![An example of how to open an app in split screen mode on an Android smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, open another app that is capable of running in split screen mode, and tap Chrome’s three-dot menu in the top-right corner. The “New Window” option will now be available.
 
 Close 
@@ -27,12 +39,24 @@ Close
 
 ![A screenshot showing how to switch from split screen to full screen mode on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Swipe up to show all recent apps again and close one or both instances of Chrome to enable switching between windows.
 
  If all instances of Chrome are kept running, a new window will open when you attempt to switch windows. This only applies during the initial setup.
 
 ![Two instances of Google Chrome running on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now that you’ve enabled multiple windows in Chrome, the “Manage Windows” option will be available in the three-dot menu. This also shows a count of how many windows are currently open.
 
  Tap “Manage Windows” to alternate between open windows, close an open window, or add a new window. To return to your current window, tap “Cancel” in the bottom-right corner of your screen.
@@ -49,6 +73,18 @@ Close
 
 ![Two Chrome windows running on an Android phone in split screen mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/10-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  While the initial process of opening a new window on your smartphone is more complicated than on the tablet or desktop versions of Google Chrome, once it’s set up, managing your Chrome windows is a breeze!
 
 <ins class="adsbygoogle"
@@ -134,7 +170,3 @@ Close
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-the-stunning-design-and-exceptional-capabilities-of-dell-xps-16-9640-and-xps-14-9440-a-comprehensive-review-with-notable-quirks/"><u>Unveiling the Stunning Design and Exceptional Capabilities of Dell XPS 16 (9640) and XPS 14 (9440): A Comprehensive Review with Notable Quirks</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-from-hours-to-minutes-how-to-rapidly-cut-large-videos-on-mac/"><u>Updated From Hours to Minutes How to Rapidly Cut Large Videos on Mac</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

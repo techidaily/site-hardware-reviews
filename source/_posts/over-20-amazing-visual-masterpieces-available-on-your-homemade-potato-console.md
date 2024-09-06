@@ -1,7 +1,7 @@
 ---
 title: Over 20 Amazing Visual Masterpieces Available on Your Homemade Potato Console
-date: 2024-08-28T04:17:36.938Z
-updated: 2024-08-29T04:17:36.938Z
+date: 2024-09-05T07:51:54.247Z
+updated: 2024-09-06T07:51:54.247Z
 tags:
   - hardware
 categories:
@@ -11,11 +11,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Over 20 Amazing Visual Masterpieces Available on Your Homemade Potato Console
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is a Potato Gaming PC?](https://extra-information.techidaily.com/18-quick-and-inspiring-ideas-to-try-in-your-vlog/)
 * [12 Good-Looking Games You Can Still Play Today](https://sound-issues.techidaily.com/trouble-with-two-channel-mix-expert-advice-on-restoring-stereo-functionality/)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * A "potato" PC is an outdated gaming PC, more than 5 years old, with entry-level specs.
@@ -39,7 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  So, let’s see what games I can run with these specs.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  12 Good-Looking Games You Can Still Play Today
 
@@ -48,7 +69,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I’ve tweaked some settings and options to squeeze every last drop of performance out of my PC and get these games to run. [Learn how to optimize your gaming PC](https://fox-helps.techidaily.com/dissecting-the-sony-s6700-enhancements/) for optimal performance without buying extra parts.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### _Prince of Persia: The Sands of Time Trilogy_ 
 
@@ -58,9 +82,6 @@ _Prince of Persia: The Sands of Time_ is an action-adventure 3D platformer that 
 
  For all three titles, the story is captivating, the level designs are awesome, and the time travel shenanigans are super fun and well-integrated.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### _Assassin's Creed_ (Up To _Black Flag_)
 
 _Assassin’s Creed_ is another action-adventure series that started in 2007, and it’s still going, with [a possible conclusion on the horizon](https://www.gamingbible.com/news/platform/assassins-creed-shadows-open-world-980332-20240610). There are a total of 14 releases in the main series, out of which the first six run on the above-discussed specs. This includes:
@@ -77,12 +98,24 @@ _Assassin’s Creed_ is another action-adventure series that started in 2007, an
 
  At its core, all games have satisfying parkour elements with stealth sequences and some 3D platforming. Depending on the title, you’ll explore historical places like Damascus, Renaissance Italy, Colonial America, and the West Indies during the golden age of piracy—which is why I like _Black Flag_, because you’ll be able to pilot pirate ships and engage in nautical combat.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Prototype_ and _Prototype 2_ 
 
 _Prototype_ and its sequel deliver one of, if not the best, power fantasies with brutal, over-the-top, hack-and-slash action. If annihilating armies of mutated zombies on the streets of Manhattan as everything descends into chaos sounds fun—get these games! I’m still praying for _Prototype 3_!
 
  You can shapeshift into other people, run up walls, glide through the air, turn your arm into a massive blade, slice through armored tanks, latch onto helicopters and hack them midair, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Darksiders_ and _Darksiders 2_ 
 
  The _Darksiders_ games have great lore, great combat, great voice acting, awesome Zelda-like puzzle-solving, and massive worlds for you to explore.
@@ -97,25 +130,24 @@ _Darksiders_ has you playing as War, one of the four horsemen of the Apocalypse.
 
  The gameplay revolves around reading the room, analyzing NPC movement, and figuring out the best way to navigate the situation and assassinate your target. The disguise system allows you to blend in with crowds, offering multiple approaches to each mission.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### _Bioshock Infinite_ 
 
 _BioShock Infinite_ is a visual masterpiece set in the floating city of Columbia. Its early 20th-century Americana aesthetic creates a unique and unforgettable world.
 
  The game's art style combines realistic textures with slightly exaggerated proportions, and Columbia's sun-drenched streets all showcase impressive attention to detail. Aside from the visuals, the game has a gripping story and captivating, fast-paced aerial combat that I adore.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Dragon Age: Inquisition_ 
 
 _Dragon Age: Inquisition_ is an RPG from 2014 featuring diverse, beautifully crafted environments, from lush forests to snow-capped mountains. This is certainly one of the most demanding titles on the list, but I can run it at low graphics settings and with bearable frame drops here and there.
 
  The story evolves depending on the choices you make, and gameplay focuses on tactical combat. You have a “war table” to manage your inquisitions on a global scale which should appeal to players who like strategy games.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### _Half-Life 2_ 
 
  Released in 2004, _Half-Life 2_ set the benchmark for storytelling and physics in FPS games. It looks like a quintessential game from the 2000s, which I don’t particularly see as a bad thing. Character models, especially facial animations, were groundbreaking for their time and are still commendable.
@@ -136,9 +168,6 @@ _Arkham Asylum_ traps the caped crusader in the titular prison, which is now tee
 
  Coming to the sequel, _Arkham City_ carries over the strong foundations of _Arkham Asylum_ but expands the map into a larger open world. The game puts you in a walled-off section of Gotham City, allowing for greater freedom and exploration.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### _Ori and The Blind Forest_ 
 
 _Ori and the Blind Forest_ is a personal favorite of mine, with its vibrant hand-painted art style, wonderfully animated characters, emotional story, and hauntingly beautiful and melancholic orchestral score. Potato PC or not, it’s a wonderful Metroidvania platformer that everyone should try out.
@@ -146,7 +175,10 @@ _Ori and the Blind Forest_ is a personal favorite of mine, with its vibrant hand
  The 2D graphics are not only visually stunning but easy on the hardware, making it an excellent choice for potato PCs. It's a prime example of how artistic style can outshine pure graphical power.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### _Grand Theft Auto V_ 
 

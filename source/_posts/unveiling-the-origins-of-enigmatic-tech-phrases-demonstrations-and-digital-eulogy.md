@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy
-date: 2024-08-28T04:17:58.335Z
-updated: 2024-08-29T04:17:58.335Z
+date: 2024-09-05T07:51:54.660Z
+updated: 2024-09-06T07:51:54.660Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-laptop-with-some-computer-terms-above-its-keyboard.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy
 
 ### Quick Links
@@ -30,19 +36,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Computer Daemon Cartoon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/computer-daemon-cartoon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
  The word was coined in its computer context by Professor Fernando J. Corbato, who stated it was [inspired by Maxwell's daemon of physics and thermodynamics](https://ei.cs.vt.edu/%7Ehistory/Daemon.html). They understood it to be a type of attending spirit from the Greek meaning.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Guru Meditation
 
 ![Cartoon of a guru meditating in front of a computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cartoon-of-a-guru-meditating-in-front-of-a-computer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
@@ -62,26 +74,29 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  This is an error message that comes from UNIX, and therefore also applies to members of the UNIX family like Linux, and macOS. The [kernel](https://driver-download.techidaily.com/nvidia-rtx-2n60-graphics-card-fresh-driver-downloads-for-all-windows-oses-including-win-11-10-8-and-7/) is the core of an operating system, and the bit that's in charge of everything. A kernel "panic" means there's been some sort of error so fundamental that the kernel can't recover from it. The whole system will stop, and the machine has to be rebooted. The kernel has lost control of the situation and is flipping the table, basically.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Race Condition
 
 ![Two computers in a foto race](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/two-computers-in-a-foto-race.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
  While it might sound like some sort of term from a sociology textbook, a "race condition" happens when two or more processes are running on a computer, and the outcome of the one depends on the timing or order of execution of the other. Basically, there's a lack of communication between the two processes, they don't wait for each other to finish their job before doing their own, and this can lead to all sorts of weird and sometimes dangerous situations. Especially in systems that have critical jobs like keeping a nuclear power plant cooled, or monitoring someone's vital signs. The term was already in use [as far back as 1954](https://dspace.mit.edu/bitstream/handle/1721.1/4804/RLE-TR-274-14266383.pdf?sequence=1) in the field of electronics, since it can happen in any situation where two dependent processes are running.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Fatal Exception
 
  While his sounds like the movie title of a thriller, a fatal exception is an error that forces a program or the whole operating system to close or shut down. This usually happens when a program tries to run an "illegal" instruction or tries to access a section of memory it's not meant to. It's "fatal" in the sense that it's the end of the road. You can't keep going anymore. [You are an ex program](https://en.wikipedia.org/wiki/Dead%5FParrot%5Fsketch).
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Nonce
 
@@ -90,12 +105,21 @@ Sydney Louw Butler / How-To Geek / MidJourney
  By adding in a nonce, you ensure that there can't be duplicate commutations, because there's a [pseudorandom](https://facebook-video-share.techidaily.com/new-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/) number that's different each time. The term may also be related to the linguistic concept of a [nonce word](https://dictionary.cambridge.org/dictionary/english/nonce-word), which is "a word invented for a particular occasion or situation." according to the Cambridge dictionary.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Salt
 
 ![A cartoon of a salt shaker next to a computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-cartoon-of-a-salt-shaker-next-to-a-computer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
  Somewhat related to nonces, "salt" is random data added to a hash. Hungry yet?

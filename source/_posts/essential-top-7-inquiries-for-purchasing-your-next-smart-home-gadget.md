@@ -1,7 +1,7 @@
 ---
 title: Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget
-date: 2024-08-28T04:15:39.411Z
-updated: 2024-08-29T04:15:39.411Z
+date: 2024-09-05T07:51:52.247Z
+updated: 2024-09-06T07:51:52.247Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Choose a system based on what's most convenient - like using Amazon Alexa if you have a Ring doorbell camera.
@@ -19,6 +25,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There’s more to building a smart home than simply picking a few lights and cameras. You need to be sure that the devices you pick are suitable, safe, and compatible with the other tech in your home.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Smart Home Systems Does This Device Support?
 
  There are three dominant smart home systems: Google Home, Amazon Alexa, and Apple HomeKit. It’s generally a good idea to build your smart home around one of these systems since it guarantees native support with the devices you already have.
@@ -29,6 +41,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![ring-doorbell-light-on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ring-doorbell-light-on.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lucas Gouveia/How-To Geek | [Fortgens Photography](https://www.shutterstock.com/image-photo/lunteren-netherlands-oct-2018-ring-bell-1205704129)/Shutterstock
 
  The smart assistant you use to control your devices is also a factor. These assistants are tied to smartphones, but also smart speakers, TVs, and bulkier items like smart fridges. If everything works with a single system, you’ll be able to do a lot more from any one point of control.
@@ -38,7 +62,10 @@ Lucas Gouveia/How-To Geek | [Fortgens Photography](https://www.shutterstock.com/
  There are also platforms like [Home Assistant](https://www.home-assistant.io/), an [open source smart home project](https://vp-tips.techidaily.com/essential-gopro-video-editors-for-pros-for-2024/) which already brings together thousands of devices into a single platform. That said, even dedicated Home Assistant users should check the list of compatible devices before they purchase anything.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Can I Use This Locally, Without Internet Access?
 
@@ -49,7 +76,16 @@ Lucas Gouveia/How-To Geek | [Fortgens Photography](https://www.shutterstock.com/
 ![Wyze security camera mounted on a tree trunk with water droplets on the lens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/wyze.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Wyze
 
@@ -66,7 +102,16 @@ Wyze
 ![The Arlo app library showing available recorded videos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/arlo-app-library.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Arlo
 
@@ -90,9 +135,6 @@ SwitchBot
 
  Some devices may never get software updates. Some companies may simply be in the business of churning out devices without a second thought to the security that goes into them. Once you’ve bought the device, it’s your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Do I Need Any Extra Equipment to Make This Device Work?
 
  Not every smart home device is plug-and-play. While most make it easy to get started, some require a bit more thought. Some examples include security cameras, smart thermostats, smart doorbells, and smart locks.
@@ -117,9 +159,6 @@ TP-Link
 
 ![The TP-Link Tapo Wire-Free Security Camera shining its built-in spotlight at night.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/44.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 TP-Link
 
  You’re looking for good reviews, ideally from people in the same position as you. If you’re building an off-grid cabin and you need a security system, reviews from grandma in the suburbs aren’t going to cut it. Social media is often the most reliable indicator, given the prevalence of fake reviews. Reddit and message boards are your friends.
@@ -127,7 +166,16 @@ TP-Link
  This is the usual due diligence you should be doing whenever you buy something of value that will have a big impact on your life. With IoT devices, you should be extra careful since the usability, security, and privacy implications are massive.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Are You OK with Devices That Fail This Checklist?
 

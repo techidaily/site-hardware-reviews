@@ -1,7 +1,7 @@
 ---
 title: DIY Personalized Android User Interface Creation Using Cost-Free Tools
-date: 2024-08-28T04:23:00.870Z
-updated: 2024-08-29T04:23:00.870Z
+date: 2024-09-05T07:51:59.989Z
+updated: 2024-09-06T07:51:59.989Z
 tags:
   - android
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Many Android enthusiasts are familiar with basic personalization through launchers and custom icon packs, but that barely scratches the surface of just how much you can customize on Android. Here’s your beginner’s guide to exploring the world of advanced Android customization.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What This Guide Covers
 
  With [custom launchers](https://screen-video-capture.techidaily.com/rapidrush-framefrozen-recording/) and [icon packs](https://fox-http.techidaily.com/updated-in-2024-navigating-the-complexities-of-mac-and-mixer-streaming/), you can change the look of your home screen very easily. However, that’s just the tip of the Android-theming iceberg. Kustom is a suite of Android tools that lets you make your own beautiful widgets, lock screens, wallpapers, and more. They work without root, and they’re all free to use.
@@ -31,6 +37,12 @@ Reddit
 
 ![Pure white Android theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/5h6me9wgram41.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Reddit
 
 ![Custom dark mode theme on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/czpohhc.jpg) 
@@ -39,6 +51,18 @@ Reddit
 
 ![Flat aesthetic theme on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/myn0tmaelbq51-1.png) 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Reddit
 
 Close 
@@ -80,33 +104,30 @@ Close
 ![Open button highlighted for KWGT on the Play Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-11-04-837_com-android-vending.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Launching the KWGT setup on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-08-778_org-kustom-widget-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 Close 
 
  Tap “Next” twice, and grant location access. Your phone’s automatic battery optimization might interfere with Kustom, so I recommend [turning off battery optimization](https://instagram-videos.techidaily.com/navigating-youtube-and-instagram-sharing-video-content-without-limits-for-2024/) for this app. Tap “Open Settings”, scroll down to Battery Saver, and select “No Restrictions.” Then go back to the KWGT app.
 
 ![Next button highlighted for continuing the KWGT setup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-11-277_org-kustom-widget.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Granting location access to the KWGT app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-16-213_com-google-android-permissioncontroller.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![Turning off battery optimization in KWGT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-20-680_org-kustom-widget.jpg) 
 
 ![Battery saver settings in the Android app menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-39-770_com-miui-securitycenter.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Turning off all battery restrictions for KWGT in the Android settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-42-655_com-miui-powerkeeper.jpg) 
 
@@ -117,17 +138,34 @@ Close
 ![Button for creating a dedicated folder for storing KWGT assets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-05-51-233_org-kustom-widget.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Creating and naming the new folder for KWGT assets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-06-08-766_com-google-android-documentsui.jpg) 
 
 ![Allowing access to the newly created KWGT assets folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-06-14-122_com-google-android-documentsui.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Closing the KWGT setup on Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-06-18-990_org-kustom-widget.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close 
 
@@ -137,15 +175,30 @@ Close
 
 ![Long-pressing a blank space on the homescreen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-21-09-584_com-teslacoilsw-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![KWGT highlighted in the list of all available widgets.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-22-36-679_com-teslacoilsw-launcher.jpg) 
 
 ![Creating a new KWGT widget from a template.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-23-18-872_com-teslacoilsw-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Blank KWGT widget dropped on the homescreen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-25-02-931_com-teslacoilsw-launcher.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Now for the fun part! Tap the blank space you created and KWGT will take you to the app’s landing page. The app comes preinstalled with a pack of 22 widgets. The community also creates and shares widget packs (some free, some paid) available in the Discover tab. You can work with any pack that catches your eye. I’m using Feast KWGT for this demonstration.
@@ -153,7 +206,16 @@ Close
 ![Menu options highlighted on the KWGT Explore page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-28-14-551_org-kustom-widget.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Selecting a KWGT widget pack from the Discover tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-11-45-37-988_org-kustom-widget.jpg) 
 
@@ -167,21 +229,20 @@ Close
 
 ![Selecting a widget from the selection in the widgetpack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-28-08-11-18-366_org-kustom-widget.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 Close 
 
  The selected widget will open inside the Kustom editor. Here you can edit every single element you see: text, font, color, size, shapes, layout, animations, layers, or anything else you can name. To use the widget as it is, tap the save icon on the top. Now go to your home screen and the blank widget will have been replaced.
 
 ![Using a preset widget from the widgetpack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-12-06-31-288_org-kustom-widget.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Kustom widget active on the homescreen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-12-04-47-557_com-teslacoilsw-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  It looks good so far, but I would like the accent colors to match my wallpaper, and I would like my weather info to be more detailed. To do that, I tap the widget to open the Kustom editor once again. I tap “Globals” and open the color picker. Here, I’ll use the color wheel, spectrum, or the hex code to change the red accents to orange. Tap “Apply” when you’re ready.
@@ -189,13 +250,13 @@ Close
 ![Steps for changing global colors in a widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-28-07-47-40-970_org-kustom-widget.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Selecting a new color for the widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-28-07-47-57-440_org-kustom-widget.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Saving changes made to the edited widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-28-07-48-00-515_org-kustom-widget.jpg) 
 
 Close 
@@ -205,7 +266,10 @@ Close
 ![Changing the weather info in the widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-12-09-09-588_org-kustom-widget.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Text button highlighted in the KWGT editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-12-09-22-514_org-kustom-widget.jpg) 
 
@@ -214,12 +278,21 @@ Close
 ![Successfully replaced air quality with weather info in the edited widget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-19-39-341_com-teslacoilsw-launcher.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close 
 
  These are just a few edits you can make to any given widget. You can mess around with the Kustom editor to add, modify, or remove any UI elements to truly make it your own.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Make a Custom Lock Screen
 
  Next up is Kustom Lock. Now that you’ve gotten a taste of the Kustom Widget Maker, using the rest of the tools in the suite should be easier. Kustom Lock (KLCK) has the same setup as the Kustom Widget Maker (KWGT). You can refer to the section above for the step-by-step.
@@ -227,7 +300,10 @@ Close
 ![Launching the Kustom Lock Setup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-28-11-179_org-kustom-lockscreen-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Kustom Lock setup in progress.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-06-928_org-kustom-lockscreen-1.jpg) 
 
@@ -236,20 +312,29 @@ Close
 ![Disabling battery optimization for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-12-248_org-kustom-lockscreen-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Selecting no battery saver restrictions on Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-20-774_com-miui-powerkeeper-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Selecting the assets folder for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-31-658_org-kustom-lockscreen-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Enabling storage access for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-30-36-083_com-google-android-documentsui-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
  Select the same Kustom folder for Kustom Lock (KLCK) storage.
@@ -260,13 +345,16 @@ Close
 
 ![Selecting a Kustom Lock preset to edit.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-32-38-472_org-kustom-lockscreen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Granting required permissions to Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-36-55-362_org-kustom-lockscreen-1.jpg) 
 
 ![Enabling notification permissions for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-37-16-436_com-android-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Confirming notification permissions for Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-37-22-513_com-miui-securitycenter.jpg) 
 
 Close 
@@ -277,26 +365,49 @@ Close
 
 ![Changing the background image in Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-40-46-088_org-kustom-lockscreen.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steps for changing the background image in Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-41-45-472_org-kustom-lockscreen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Highlighting the selected background image in Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-43-42-603_com-google-android-documentsui.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Background image successfully updated in the Kustom Lock editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-44-05-435_org-kustom-lockscreen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Deleting a text stack in the Kustom Lock editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-45-16-768_org-kustom-lockscreen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Close 
 
@@ -305,12 +416,18 @@ Close
 ![New element button highlighted in Kustom Lock editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-50-56-972_org-kustom-lockscreen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Creating a new progress bar using the element menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1716872545569.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![New default progress added to the lockscreen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-53-13-591_org-kustom-lockscreen.jpg) 
 
@@ -322,17 +439,32 @@ Close
 
 ![Editing the progress bar to display the battery status.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-54-01-413_org-kustom-lockscreen.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Changing the the battery progress bar color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-13-58-08-242_org-kustom-lockscreen.jpg) 
 
 ![Replacing the linear progress bar with a circular battery icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-05-13-966_org-kustom-lockscreen.jpg) 
 
 ![Repositioning the edited battery progress icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-05-16-490_org-kustom-lockscreen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A list of freely available fonts in Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-07-13-287_org-kustom-lockscreen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Close 
 
  When you’re done, tap the save icon and grant any permission requirements. Once it’s successfully saved, swipe right to open the menu and tap the Lock Screen toggle to enable your newly created lock screen.
@@ -340,21 +472,33 @@ Close
 ![Granting required permissions to enable Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-14-09-464_org-kustom-lockscreen.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Enabling the newly created lockscreen in Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-18-14-357_org-kustom-lockscreen.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close 
 
  Here is the final look of the home screen and the lock screen.
 
 ![Custom lockscreen created using Kustom Lock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-17-52-762_org-kustom-lockscreen.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom widget created using KWGT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/screenshot_2024-05-23-14-20-14-439_com-teslacoilsw-launcher.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Close 
 
 ---

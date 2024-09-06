@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ"
-date: 2024-08-28T04:15:40.572Z
-updated: 2024-08-29T04:15:40.572Z
+date: 2024-09-05T07:51:52.275Z
+updated: 2024-09-06T07:51:52.275Z
 tags:
   - hardware
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81e7fb9a2b0bcd4cf8d7ba0d8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Assembling the Model G was straightforward & it has the convenience of electric power, but the cooking experience left much to be desired.
@@ -23,6 +41,18 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![Front screen on the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/front-screen-on-the-current-model-g-dual-zone-grill.JPG) 
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  The Current Model G Dual Zone Grill is all-electric, meaning it only needs a 110V wall outlet for power. This is what initially attracted me to it. Using electricity should be much simpler than keeping wood pellets around, monitoring propane, or cleaning up charcoal.
@@ -43,9 +73,6 @@ Close
 
 ![the front of the Current Model G Dual Zone Grill with the lid open, nothing on the grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-the-lid-open-nothing-on-the-grill.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  I cooked the basics on the grill. Burgers and steaks were covered right away. I also tried bacon right on the grates, which worked surprisingly well. The food I cooked didn’t lack flavor and tasted fine, but using electricity to grill felt more sterile and, whether in actuality or perception, the meals often felt lackluster.
@@ -57,8 +84,10 @@ Tyler Hayes / How-To Geek
 ![Burgers cooking on the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/burgers-cooking-on-the-current-model-g-dual-zone-grill.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -73,21 +102,10 @@ Tyler Hayes / How-To Geek
 ![Looking at the clip inside the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/looking-at-the-clip-inside-the-current-model-g-dual-zone-grill.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
@@ -96,16 +114,15 @@ The black plastic clip kept coming out of its square hole.
  Although the grill was easy to assemble, I did notice a few things that concerned me about its long-term durability. At least one plastic clip holding the side panel in place had become detached and wouldn’t stay clipped after about a month. The overall ricketiness of the frame while rolling it on my (relatively flush) backyard pavers gave me pause. The add-on side panels provided a nice storage area, but they didn't keep wind-blown dirt and drops off rain from getting inside.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Is the Current Model G Dual Zone Grill Worth Spending Money On?
 
 ![the front of the Current Model G Dual Zone Grill with its cabinet door open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-its-cabinet-door-open.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  If you’re set on electric grilling, for whatever reason, then don’t let me talk you out of the [Current Model G Dual Zone Grill](https://www.currentbackyard.com/current-330-dual-zone-grill-cart). I used it; it worked as advertised. I had no problem with the essentials, like its 12-foot cord length or it holding its temperature. But if you’re trying to decide between this $899 grill and a gas or wood pellet grill, I would advise you to go with one of the latter.
@@ -114,9 +131,6 @@ Tyler Hayes / How-To Geek
 
 ![Current 330 Grill Cart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/current-330-grill-cart.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Current Model G Dual Zone Grill
 
 6/ 10 

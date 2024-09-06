@@ -1,7 +1,7 @@
 ---
 title: "Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2"
-date: 2024-08-28T04:19:17.536Z
-updated: 2024-08-29T04:19:17.536Z
+date: 2024-09-05T07:51:56.119Z
+updated: 2024-09-06T07:51:56.119Z
 tags:
   - hardware
 categories:
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
  Finding the fastest USB connection used to be easy: choose USB 3.0 instead of 2.0\. But now, you’ll need to know the difference between USB 3.2 Gen 1, Gen 2, and Gen 2x2—and what various types of "SuperSpeed" mean, too.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  USB Naming Used to Be Simple
 
  Once upon a time, USB came in two main flavors, 2.0 and 3.0\. All you needed to know about them was 3.0 was faster than 2.0\. You could buy a USB 2.0 flash drive and plug it into a computer that had USB 3.0 slots, and it would still work—just at the slower USB 2.0 speeds. Buying a USB 3.0 drive and plugging it into a USB 2.0 port would give you USB 2.0 speeds, too.
@@ -41,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
 ![Various USB cable connectors on a wood grain surface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52760045818_fce215d5d8_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jason Montoya / How-To Geek
 
  The [USB Implementors Forums](https://www.usb.org/) (USB-IF) maintains [USB](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-11-5g-by-drfone-android/) specifications and compliance, and it's behind the naming schemes found on USB cables and devices. When it introduced USB 3.1, rather than keep things simple and let that name differentiate from USB 3.0, it called the new standard "USB 3.1 Gen 2." USB 3.0 was retroactively renamed "USB 3.1 Gen 1."
@@ -54,12 +48,21 @@ Jason Montoya / How-To Geek
 
  The difference between the two was slightly confusing. But, as long as you remembered Gen 2 was better than Gen 1, you were good to go. To help differentiate the speeds, USB-IF also implemented logos, which manufacturer can only use by passing a certification to prove a cable matches the promised specs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  USB 3.2 is Even Faster and More Confusing
 
 ![Close up of the front ports on the Ugreen DXP2800 NAS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53573450918_64d6493307_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
@@ -72,7 +75,16 @@ Jerome Thomas / How-To Geek
  The 20 Gbps standard would be named USB 3.2 Gen 2x2, breaking the predictable pattern. Physically, this has two 10 Gbps channel, so it literally is 2x2\. There's a logic to the name, but it's confusing, and you have to understand the hardware to realize it makes any sense.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Simpler Branding Is Here (But Not Always Used)
 
@@ -88,13 +100,33 @@ Hannah Stryker / How-To Geek
 
 ![Closeup of a USB-C port on an SSD drive enclosure. The port is labeled 'SS 10' to indicate SuperSpeed USB 10 Gbps performance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/usb-ss-10.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jordan Gloor / How-To Geek
 
  If you remember [USB-C's early issues](https://screen-recording.techidaily.com/updated-2024-approved-winning-gameplay-capture-with-fbx/), this will probably seem very familiar. Read carefully before buying cables, and buy them from reputable, trusted sources. In the past, we've recommended Amazon Basics cables—but even with those you still need to look carefully. For instance, this [Amazon Basics cable](https://www.amazon.com/AmazonBasics-Type-C-USB-Male-Cable/dp/B01GGKYO1I?tag=hotoge-20&ascsubtag=UUhtgUeUpU214194&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F406199%2Fwhat-are-usb-gen-1-gen-2-and-gen-2x2%2F&asc%5Fcampaign=Evergreen) is USB-C but only offers 2.0 speeds. This [Amazon Basics cable](https://www.amazon.com/AmazonBasics-Type-C-USB-Male-Cable/dp/B01GGKYS6E?tag=hotoge-20&ascsubtag=UUhtgUeUpU214194&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F406199%2Fwhat-are-usb-gen-1-gen-2-and-gen-2x2%2F&asc%5Fcampaign=Evergreen), which looks practically the same, offers 10 Gbps transfers and is marked as USB 3.1 Gen 2\. And, of course, this doesn't just apply to USB cables. It applies to any piece of hardware that uses USB-C.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Comparing USB 3.2 Gen 1 vs. Gen 2 vs. Gen 2x2 Speeds
 
@@ -111,7 +143,10 @@ The ultimate burning program for all your needs!</a>
  The only other significant difference between these generations is that USB 20 Gbps (Gen 2x2) is limited to USB Type-C ports and cords. You won't see any [USB Type-A](https://vp-tips.techidaily.com/updated-in-2024-exploring-the-full-features-sony-fdr-x1000-model/) or Micro USB connections sporting that label.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  There Won't Be Anymore USB 3.2 Generations
 

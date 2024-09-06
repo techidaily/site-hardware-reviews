@@ -1,7 +1,7 @@
 ---
 title: "Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?"
-date: 2024-08-28T04:18:13.008Z
-updated: 2024-08-29T04:18:13.008Z
+date: 2024-09-05T07:51:54.899Z
+updated: 2024-09-06T07:51:54.899Z
 tags:
   - hardware
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a
 
 ## Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Ray Tracing and Ray Reconstruction](https://tech-recovery.techidaily.com/get-ahead-in-the-tech-game-insights-into-samsungs-galaxy-z-fold-6-its-specs-release-schedule-and-cost-estimates/)
@@ -46,12 +58,24 @@ thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a
 ![The game 'Portal' with ray tracing enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/da6b48fc.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 _[Steam](https://store.steampowered.com/app/2012840/Portal%5Fwith%5FRTX/)_
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  AI Upscaling and Anti-Aliasing
 
@@ -75,11 +99,20 @@ _[Steam](https://store.steampowered.com/app/2012840/Portal%5Fwith%5FRTX/)_
 
 ![Starfield screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/starfield.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _Bethesda / Xbox Game Studios_
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  GPU-Accelerated Storage
 
  Traditionally, your CPU and RAM have to decompress data from your storage drive before it can be sent to the GPU. GPU-accelerated storage skips this extra step by offloading the work from the CPU directly to the GPU, which allows games to load data significantly faster.
@@ -92,15 +125,18 @@ _Bethesda / Xbox Game Studios_
 
 ![startech.com hdmi 2.1 cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/startech-com-hdmi-2-1-cable.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 StarTech.com
 
 [HDMI 2.1](https://some-knowledge.techidaily.com/updated-full-length-video-view-remove-youtube-preview/) is the latest generation of the HDMI standard and can support resolutions of up to 10K at 120FPS. You need HDMI 2.1 to enable VRR (Variable Refresh Rate), ALLM (Auto-Low Latency Mode), and a couple of other gaming-oriented features. HDMI 2.1 is even more powerful than DisplayPort 1.4, which has long been the standard for PC gamers.
 
  If you have a compatible monitor or TV, you can take advantage of HDMI 2.1 to get the best image signal delivery possible. GPUs with HDMI 2.1 support include the AMD RX 6000 and 7000 Series, NVIDIA RTX 3000 and 4000 Series, and Intel Arc. However, if you're using a monitor with DP 1.4, there's no real benefit. HDMI 2.1 is best paired with a modern high-end 4K TV. VRR technologies like NVIDIA G-Sync work just fine on DisplayPort.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Mesh Shading
 
  Without getting too technical, [graphics-accelerated](https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-premium-androidpc-video-editors/) mesh shading allows a GPU to render more graphics with less data. If a game uses mesh shaders, but a GPU doesn't support it, it leads to serious performance issues that can render the game unplayable. We saw that recently with [_Alan Wake 2_](https://www.pcgamer.com/alan-wake-2-mesh-shader-support/), so things are only going to get worse for old GPUs from here.
@@ -114,16 +150,26 @@ StarTech.com
  By focusing the resources on the environment, your GPU is able to render the image more efficiently, resulting in more FPS. It's especially useful in VR because the GPU can spend more time rendering what's in front of you. Just like mesh shading, VRS was introduced with Turing GPUs. It also works on Intel GPUs. AMD has its own version called FidelityFX Variable Shading, which works on RDNA 2 and newer GPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Resizeable BAR & Smart Access Memory
 
 [Resizeable BAR](https://hardware-tips.techidaily.com/toms-tech-insights-unveiling-the-latest-in-hardware/), or ReBAR for short, allows your CPU to access the full GPU VRAM instead of transferring data in 256MB chunks. As you can imagine, this leads to a direct performance increase in most games. ReBAR works on both NVIDIA and Intel GPUs. AMD's version is called Smart Access Memory. It's worth noting that you don't just need a compatible GPU; your CPU and motherboard also need to support ReBAR to work.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  AV1 Encoding
 

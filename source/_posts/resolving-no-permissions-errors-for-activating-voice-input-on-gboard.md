@@ -1,7 +1,7 @@
 ---
 title: Resolving 'No Permissions' Errors for Activating Voice Input on Gboard
-date: 2024-08-28T04:21:43.323Z
-updated: 2024-08-29T04:21:43.323Z
+date: 2024-09-05T07:51:58.625Z
+updated: 2024-09-06T07:51:58.625Z
 tags:
   - android
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/samsung-galaxy-keyboard-android-gboard.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Resolving 'No Permissions' Errors for Activating Voice Input on Gboard
 
 ### Key Takeaways
@@ -19,12 +31,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You wanted to use your voice to type with Gboard, but instead of launching the voice typing feature, the keyboard displayed a “No Permission to Enable: Voice typing” error. How do you fix this error now? We’ve got a few easy ways to get around this problem on your Android phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Let Gboard Access Your Phone’s Microphone
 
  I have myself run into this problem, and I was able to fix it by allowing Gboard to [access my Android phone’s microphone](https://fox-hovers.techidaily.com/2024-approved-prime-gopro-movie-maker-list/). This is because voice typing needs the mic in order to hear your voice.
 
 !['No Permission to Enable: Voice Typing' Gboard error on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/no-permission-to-enable-voice-typing-gboard-android-error.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We’ve performed the following steps on a Samsung Galaxy phone. The steps will vary slightly depending on your phone model.
 
  To start fixing the issue, launch the Settings app on your phone and go to "Apps."
@@ -43,15 +67,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Microphone' highlighted on Gboard's 'App Permissions' page in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-android-gboard-microphone-permission.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the "Microphone" page, select "Allow Only While Using the App."
 
 !['Allow Only While Using the App' highlighted on Gboard's permissions screen in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-android-gboard-enable-mic-permission.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This allows Gboard to use your phone’s mic whenever you’ve opened the keyboard on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Clear Your Gboard App Cache
 
  If your issue persists, Gboard’s cached files may be corrupted. In this case, [you can clear the cached files to resolve the issue](https://facebook-clips.techidaily.com/breakthroughs-in-fb-advertising-with-a-focus-on-video-content-mastery/). Note that you don’t lose any personal data when you do this, and your keyboard will rebuild these cache files as you use the app.
@@ -61,10 +94,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Clear Cache' highlighted on Gboard's 'Storage' screen in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-androdi-gboard-clear-cache.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Update Your Gboard App
 
@@ -76,9 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Update' highlighted for Gboard in Google Play Store on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-update-gboard-android.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ---
 
  That's all there is to it! Thankfully, the voice typing permission issue is not a major problem, and the fixes are quick and easy. You should be well on your way to typing with your voice.

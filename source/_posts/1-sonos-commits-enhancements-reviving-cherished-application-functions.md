@@ -1,7 +1,7 @@
 ---
 title: "1. Sonos Commits Enhancements: Reviving Cherished Application Functions"
-date: 2024-08-28T04:18:01.782Z
-updated: 2024-08-29T04:18:01.782Z
+date: 2024-09-05T07:51:54.710Z
+updated: 2024-09-06T07:51:54.710Z
 tags:
   - hardware
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de237a4feeb628da33c12d9648.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1. Sonos Commits Enhancements: Reviving Cherished Application Functions
 
 It's been four months since Sonos launched an updated, overhauled version of its mobile app. The update, as it turns out, was extremely unpopular. Users complained about lost functionality and criticized Sonos for failing to maintain software reliability. Now, Sonos is giving a proper apology and a timeline for when we might see things improve.
@@ -80,8 +86,3 @@ It's been four months since Sonos launched an updated, overhauled version of its
 <li><a href="https://youtube-data.techidaily.com/-new-in-youtube-tv-updates-and-features-for-2024/"><u>What's New in YouTube TV Updates & Features for 2024</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/windows-laptop-revolution-looms-with-mediatek-preparing-arm-processors-as-qualcomms-exclusive-access-ends/"><u>Windows Laptop Revolution Looms with MediaTek Preparing ARM Processors as Qualcomm's Exclusive Access Ends</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->

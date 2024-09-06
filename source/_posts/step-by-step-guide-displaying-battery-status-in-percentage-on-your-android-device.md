@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Displaying Battery Status in Percentage on Your Android Device"
-date: 2024-08-28T04:22:33.240Z
-updated: 2024-08-29T04:22:33.240Z
+date: 2024-09-05T07:51:59.477Z
+updated: 2024-09-06T07:51:59.477Z
 tags:
   - android
 categories:
@@ -29,6 +29,12 @@ Related: [How to Check Battery Health on Android](https://hardware-updates.techi
 
 ![Tap &quot;Advanced Settings.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/5-samsung-android-advanced-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you're on Android 10 (learn [how to check your Android version](https://sound-issues.techidaily.com/troubleshooting-sound-issues-in-windows-solutions-for-audio-pop-ups/)), you'll head into Settings > Notifications > Status Bar.
 
  Then, toggle on the "Show Battery Percentage" option.
@@ -39,28 +45,37 @@ Related: [How to Check Battery Health on Android](https://hardware-updates.techi
 
 Related: [What Version of Android Do I Have?](https://sound-issues.techidaily.com/troubleshooting-sound-issues-in-windows-solutions-for-audio-pop-ups/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Show the Battery Percentage on a Pixel Phone
 
  If you use a Pixel phone, then first, launch the Settings app on your phone. In Settings, tap "Battery."
 
 ![Tap "Battery" in the main Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Screenshot_20220825-100513_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Then turn on the "Battery Percentage" option.
 
 ![Toggle on the "Battery Percentage" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Screenshot_20220825-100612.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You now have your [phone's current battery levels](https://twitter-videos.techidaily.com/funny-frenzy-top-10-tweets/) shown in your screen's top-right corner. Later, you can hide the percentage by toggling off the "Battery Percentage" option.
 
 Related: [How to Get More Meaningful Battery Stats on Your Android Phone](https://twitter-videos.techidaily.com/funny-frenzy-top-10-tweets/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Make Other Android Phones Always Show Battery Percentage
 
@@ -71,14 +86,20 @@ Related: [How to Get More Meaningful Battery Stats on Your Android Phone](https:
 ![Tap "Display" in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/1-android-display-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Scroll down the "Display" page and select "Status Bar." You'll customize the status bar (the bar at the top of your phone's screen) so it displays the battery option.
 
 ![Choose "Status Bar."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/2-android-customize-status-bar.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On the "Status Bar" page, turn on the "Show Battery Percentage" option.
 
@@ -87,7 +108,10 @@ Related: [How to Get More Meaningful Battery Stats on Your Android Phone](https:
 ![Enable "Show Battery Percentage."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/3-android-show-battery-percentage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And that's it. Your phone now displays the current battery levels in the screen's top-right corner.
 
