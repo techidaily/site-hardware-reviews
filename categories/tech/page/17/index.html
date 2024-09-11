@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"hardware-reviews.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1280px","pages":"1280px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -266,8 +323,6 @@
     
     
     
-    <!-- tailwind.css -->
-    <script async src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script>
 <meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="Hardware Reviews" type="application/atom+xml">
 </head>
 
@@ -631,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-05'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-10'>
                 
                     
-                        <a href="/easy-steps-turning-your-android-device-into-an-on-the-go-laptop-substitute/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Easy Steps: Turning Your Android Device Into an On-the-Go Laptop Substitute</span>
+                        <a href="/top-ranking-wireless-sound-systems-the-ultimate-guide-to-the-finest-portable-speakers/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top-Ranking Wireless Sound Systems - The Ultimate Guide to the Finest Portable Speakers</span>
                         </a>
                     
               
                 
                     
-                        <a href="/easy-steps-to-customize-languages-for-specific-apps-on-your-android-device/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Easy Steps to Customize Languages for Specific Apps on Your Android Device</span>
+                        <a href="/top-7-frequently-asked-battery-faqs-answering-your-most-common-queries/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top 7 Frequently Asked Battery FAQs - Answering Your Most Common Queries</span>
                         </a>
                     
               
                 
                     
-                        <a href="/discover-the-top-10-essential-gboard-functions-for-enhanced-typing-on-android-devices/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Discover the Top 10 Essential Gboard Functions for Enhanced Typing on Android Devices</span>
+                        <a href="/top-6-causes-of-overspending-on-graphics-processing-units-gpus/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Top 6 Causes of Overspending on Graphics Processing Units (GPUs)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/complete-walkthrough-changing-the-built-in-browser-in-your-android-device/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Complete Walkthrough: Changing the Built-In Browser in Your Android Device</span>
+                        <a href="/the-ultimate-travel-companion-tp-links-all-in-one-portable-wifi-hub/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">The Ultimate Travel Companion: TP-Link&#39;s All-in-One Portable WiFi Hub</span>
                         </a>
                     
               
                 
                     
-                        <a href="/comparing-mobile-platforms-evaluating-the-performance-of-android-tablets-vs-ipads/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Comparing Mobile Platforms: Evaluating the Performance of Android Tablets Vs. IPads</span>
+                        <a href="/step-by-step-tutorial-on-how-to-factory-reset-ipod-airpods-series-for-optimal-performance/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Tutorial on How To Factory Reset iPod AirPods Series for Optimal Performance</span>
                         </a>
                     
               
                 
                     
-                        <a href="/1-ditch-microsofts-phone-link-discover-the-superior-alternative-application/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">1. Ditch Microsoft&#39;s Phone Link: Discover the Superior Alternative Application</span>
+                        <a href="/step-by-step-guide-updating-the-software-on-your-airpods/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Guide: Updating the Software on Your AirPods</span>
                         </a>
                     
               
                 
                     
-                        <a href="/why-are-there-no-wps-buttons-anymore-on-android-phones-a-comprehensive-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Why Are There No WPS Buttons Anymore on Android Phones: A Comprehensive Guide</span>
+                        <a href="/review-of-cherry-xtrfy-k5v2-keyboard-innovative-red-switches-shine/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Review of Cherry XTRFY K5V2 Keyboard: Innovative Red Switches Shine</span>
                         </a>
                     
               
                 
                     
-                        <a href="/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</span>
+                        <a href="/revamping-the-amd-ryzen-5000-series-the-allyn-x-review-and-future-desires/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Revamping the AMD Ryzen 5000 Series: The Allyn X Review &amp; Future Desires</span>
                         </a>
                     
               
                 
                     
-                        <a href="/understanding-the-5g-uc-indicator-in-mobile-devices/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Understanding the &#39;5G UC&#39; Indicator in Mobile Devices</span>
+                        <a href="/pop-up-logitech-casa-desk-performance-analysis-topnotch-keyboard-and-trackpad-with-subpar-casing/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard &amp; Trackpad with Subpar Casing</span>
                         </a>
                     
               
                 
                     
-                        <a href="/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</span>
+                        <a href="/learning-from-errors-improving-your-smart-home-setups-with-these-common-blunders/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Learning From Errors: Improving Your Smart Home Setups with These Common Blunders</span>
                         </a>
                     
               
