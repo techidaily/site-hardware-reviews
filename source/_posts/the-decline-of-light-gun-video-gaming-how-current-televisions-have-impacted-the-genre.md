@@ -1,7 +1,7 @@
 ---
 title: "The Decline of Light Gun Video Gaming: How Current Televisions Have Impacted the Genre"
-date: 2024-09-05T07:51:52.582Z
-updated: 2024-09-06T07:51:52.582Z
+date: 2024-09-10T10:50:25.802Z
+updated: 2024-09-11T10:50:25.802Z
 tags:
   - hardware
 categories:
@@ -9,13 +9,27 @@ categories:
 thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d46c032a8d8313dfde48c7a09.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Decline of Light Gun Video Gaming: How Current Televisions Have Impacted the Genre
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -25,28 +39,10 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 
  Light gun shooters were once a popular staple of arcades and home consoles but now they're practically non-existent on most platforms. Here's why the genre has all but disappeared in recent years, and what can be done about it.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Early Light Guns Relied on CRT Televisions
 
 ![An old CRT television sitting on a dresser with a static filled screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/oldstatickytv1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Peter Gudella / Shutterstock.com](https://www.shutterstock.com/image-photo/no-signal-just-noise-on-old-2084239993)
 
  The downfall of the light gun can be attributed to a variety of factors, but none were as influential as the decline of [CRT (cathode-ray tube) televisions](https://screen-sharing-recording.techidaily.com/updated-2024-approved-mastering-video-recording-and-editing-with-adobe-connect/). To understand why CRTs were an essential part of the light gun's design, it’s important to first understand how light guns functioned.
@@ -61,22 +57,38 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 
  Despite its innovative design, the Zapper relies heavily on the CRT's analog display to function. Even the slightest amount of latency or input lag disrupts the sensitive timing between the trigger pull and flashing screen, ruining the light sensor's hit detection. As such, the quick and consistent display of a CRT monitor was vital for early light gun shooters.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Light Guns Evolved with New Technology
 
 ![Terminator 2 arcade cabinet with light guns.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/00bbfa7c.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Cory Gunther / How-To Geek
 
  As light gun games improved, so did their respective peripherals. Games like _Virtua Cop_, _T_ _ime Crisis_, and _The House of the Dead_ set a new standard for light gun shooters in the 90s. Their switch to 3D graphics and faster gameplay was made possible thanks to a new form of light gun.
@@ -91,12 +103,6 @@ Cory Gunther / How-To Geek
 
  Cathode-ray timing not only helped light guns become even more accurate, but also allowed 90s light gun shooters to implement new features such as on-screen crosshairs, destructible environments, and enemies that react to being hit in specific body parts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Modern Screens Can't Support Conventional Light Guns
 
 ![A living room with a TV.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-living-room-with-a-tv.jpg) 
@@ -113,16 +119,44 @@ Lucas Gouveia / How-To Geek
 
  Because light guns need to register both the input from a trigger pull and information from the screen within milliseconds to work properly, this delay renders most classic light gun shooters functionally unplayable.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Can Light Gun Shooters Make a Comeback?
 
 ![The Sinden Lightgun in three color variants and 4 light gun shooting games, including The House of the Dead, Time Crisis II, Virtua Cop 2, and Point Blank.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sinden-lightgun-and-retro-games.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sinden Lightgun
 
  There have been numerous attempts at reviving the light gun genre through new games and peripherals. Early attempts at designing light guns for modern screens used infrared (IR) emitters, which allow for the peripheral to be tracked by an external motion sensor. The most popular examples of this technology include the GunCon 3 and the Wii Remote (as well as its light gun attachment, the Wii Zapper).
@@ -136,6 +170,20 @@ Sinden Lightgun
  Although [VR is becoming the new hub for light gun-inspired shooters](https://data-safeguard.techidaily.com/reliable-software-for-swift-iphone-data-rescue-regain-what-youve-lost/), that doesn't mean it will completely replace physical light guns. The Sinden Lightgun is a modern light gun peripheral, and arguably one of the best since the 90s. It uses a built-in camera to establish a border around your monitor and then tracks where you aim within that defined border. Furthermore, the Sinden Lightgun works with nearly any PC light gun shooter (including emulated games).
 
  But the Sinden Lightgun comes with a hefty price tag of $107.99 (or $159.99 for a variant with added recoil) and requires a lengthy set-up process. As such, it's unlikely to appeal to anyone who isn't already a fan of light guns. While it may not be single-handedly reviving the genre, the Sinden Lightgun proves that classic light gun shooters have a chance at making a resurgence in the future.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  The Future of Light Guns
 

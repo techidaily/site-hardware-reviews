@@ -1,7 +1,7 @@
 ---
 title: "Efficient Energy Use in Mobile: How to Prevent App Drain with Android's Hidden Power Mode"
-date: 2024-09-05T07:51:59.132Z
-updated: 2024-09-06T07:51:59.132Z
+date: 2024-09-10T10:50:31.719Z
+updated: 2024-09-11T10:50:31.719Z
 tags:
   - android
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c72efe6f7be7ff8eafc610cc4.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Efficient Energy Use in Mobile: How to Prevent App Drain with Android's Hidden Power Mode
 
 ### Quick Links
@@ -38,12 +40,20 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
  Apps running in the background can be a leading reason why an Android phone's battery drains quickly. To tackle this problem, most Android phones offer a feature that lets you stop the apps' background activity, reducing battery usage. Samsung refers to this feature as "Deep Sleeping Apps," while other devices may call it by different names.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Is the Deep Sleeping Apps List?
 
  On Samsung phones, the Deep Sleeping Apps list contains apps that are put into a deep sleep state, which prevents them from running in the background and consuming your phone's resources, especially the battery.
@@ -58,36 +68,60 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
 ![Opening the deep sleeping apps list from Android settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-opening-the-deep-sleeping-apps-list-from-android-settings.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Tap the '+' icon in the top-right corner, select the apps you want to add by checking the circles beside them, and then tap "Add" in the bottom-right corner.
 
 ![Adding apps to the deep sleeping apps list in Android settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/adding-apps-to-the-deep-sleeping-apps-list-in-android-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Manually added apps will appear under the User-Added category, while those automatically added by your phone will be listed under the Automatically Added category.
 
 ![User-added and automatically added apps in the deep sleeping apps list in Android settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/user-added-and-automatically-added-apps-in-the-deep-sleeping-apps-list-in-android-settings.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On Pixel phones, you need to manually turn off background activity for each app. To do this, open the Settings app, navigate to the battery settings, and tap "Battery Usage." Next, locate and tap on the app for which you want to disable background activity, and switch off the toggle next to "Allow Background Activity."
 
  If you use a device from a different manufacturer, the instructions might vary, but you should be able to find this setting either in the battery settings or the app's info.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Remove an App from the Deep Sleep List
 
  While adding an app to the Deep Sleeping Apps list can extend your battery life, you might miss essential notifications from these apps. If, for some reason, you want to start receiving notifications from a particular app, you can easily remove it from the list and allow it to run in the background again.
@@ -97,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 ![Removing apps from the deep sleeping apps list in Android settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/removing-apps-from-the-deep-sleeping-apps-list-in-android-settings.jpg) 
 
  On other phones, you need to enable background activity for individual apps from the settings, similar to how you turn it off.
+
+
+
+
 
 <!-- affiliate ads begin -->
 <span id="1793213">
@@ -110,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Other Key Settings to Manage Background Activity
 
  In addition to the Deep Sleeping Apps, the Background Usage Limits contains a few other settings that can help [manage battery consumption](https://sim-unlock.techidaily.com/in-2024-best-free-iphone-12-mini-imei-checker-by-drfone-ios/).

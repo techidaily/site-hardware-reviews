@@ -1,7 +1,7 @@
 ---
 title: "Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard & Trackpad with Subpar Casing"
-date: 2024-09-05T07:51:55.831Z
-updated: 2024-09-06T07:51:55.831Z
+date: 2024-09-10T10:50:28.822Z
+updated: 2024-09-11T10:50:28.822Z
 tags:
   - hardware
 categories:
@@ -11,18 +11,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 ## Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard & Trackpad with Subpar Casing
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Logitech Casa Pop-Up Desk offers a slick workspace with a responsive keyboard and smooth trackpad.
@@ -33,12 +21,20 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 ![Logitech Casa Pop Up Desk Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/logitech-casa-pop-up-desk-kit.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Logitech Casa Pop-Up Desk
 
 6/ 10 
@@ -58,12 +54,6 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
 
 [$160 at Amazon](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-Bluetooth/dp/B0B6GVH4NQ?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002679&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Flogitech-casa-pop-up-desk-review%2F&asc%5Fcampaign=Authority) [$179.99 at Logitech](https://www.logitech.com/en-us/products/combos/casa-pop-up-desk.920-011236.html) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Price and Availability
 
  This all-in-one work-from-home comes in three colors and retails for $179.99.
@@ -82,28 +72,70 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
 
  3 weeks 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  A Laptop or iPad Work Station
 
  If the Casa Pop-Up Desk was just geared towards any single operating system, I don’t think it would be as appealing. But its compatibility across mobile and desktop systems, from iPadOS to Windows, makes it more valuable for a wide range of uses.
 
  It’s not surprising that Logitech employs wide compatibility since most of the company’s other products usually work across multiple platforms. The Casa Pop-Up Desk is essentially a packaging of the Casa Keys keyboard and the Casa Touch touchpad in a clever case (Casa Book). My big hope is that we see these devices sold independently at some point.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Feel of Casa Keys and Casa Touch
 
 ![Logitech Casa Keys Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-keyboard.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  For someone who tests and tries out a lot of keyboards, I was immediately impressed by the feel and response of the Casa Keys. It’s not a mechanical keyboard nor does it have the thinness of Apple’s Magic Keyboard but it isn’t too far off from the experience of the latter.
@@ -120,6 +152,20 @@ Jerome Thomas / How-To Geek
 
  I also had the occasional unregistered touch where the cursor would jump to a different part of the screen, but that was only once or twice and uncommon enough to mostly ignore. Unlike the Casa Keys' long battery life, the Touch only gets about 3 weeks of power before needing to recharge it. I didn't mind that.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Software Is a (Small) Factor
 
  While you can get away without using the [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) software for the keyboard, it’s pretty much a necessity for the Touch. The app allows customization of gestures, cursor speed, and all kinds of other fiddly details.
@@ -130,16 +176,24 @@ Jerome Thomas / How-To Geek
 
  Smart Actions allows multiple apps and tasks to be launched at once. Basically, it does macros. This feels like a more practical need for more people, but I still didn’t find too many instances where I wanted to have 12 items fire off for me at the press of a button. Maybe I’m less imaginative in this area. It’s neat and it worked, but I wouldn’t buy a Logitech product for this feature.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  How Much Is the Case Worth?
 
 ![Logitech Casa Pop Up Desk laying on a desk outside of its box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Interestingly, I found that the case stand was the weakest part of this combo. While the keyboard or touchpad not being up to snuff would mostly render the whole product moot, the stand being less than ideal makes things more complicated.
@@ -147,6 +201,26 @@ Jerome Thomas / How-To Geek
  First, using the case as a stand takes up a lot of space on a desk or table. It has a wide base that needs its room. Then there’s only one stand angle. That’s less of an issue for a laptop with a hinging screen, but the single position can be annoying when used with a tablet.
 
 ![Logitech Casa Pop Up Desk laptop stand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-laptop-stand.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Jerome Thomas / How-To Geek
 
@@ -172,18 +246,6 @@ Tyler Hayes / How-To Geek
 
 ![Logitech Casa Pop Up Desk Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/logitech-casa-pop-up-desk-kit.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Logitech Casa Pop-Up Desk
 
 6/ 10 

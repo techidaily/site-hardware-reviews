@@ -1,7 +1,7 @@
 ---
 title: Can Others Replicate Apple's Success with Modular Accessory Technology?
-date: 2024-09-05T07:51:56.207Z
-updated: 2024-09-06T07:51:56.207Z
+date: 2024-09-10T10:50:29.123Z
+updated: 2024-09-11T10:50:29.123Z
 tags:
   - android
 categories:
@@ -11,12 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Can Others Replicate Apple's Success with Modular Accessory Technology?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [The Graveyard of Failed Attempts](https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-android/)
@@ -25,12 +19,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Smartphones are a core part of our daily lives, and because of that, there have been many attempts to extend their functionality. Project Ara, LG modules, Moto Mods, and the recent CMF Phone 1, to name a few. However, only Apple's MagSafe has actually spawned a successful ecosystem of adaptable accessories. Why is that?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Graveyard of Failed Attempts
 
  The concept of a "modular" smartphone has been around for a long time. One of the first big splashes was a project called "[Phonebloks](https://en.wikipedia.org/wiki/Phonebloks)" in 2013\. This was supposed to be a phone with a huge range of swappable components. Everything from the camera to storage to the vibration motor could be pulled and plugged like LEGO blocks.
@@ -38,6 +40,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Phonebloks never made it past the concept phase, but the idea carried on with Google's "[Project Ara](https://en.wikipedia.org/wiki/Project%5FAra)" in that same year. Google–who was working with Motorola–had essentially the same execution as Phonebloks, but there was actually a real physical prototype and a Developer Edition. However, as was the problem with Phonebloks, the technology was just not ready, and it ended in 2016.
 
 ![Project Ara](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/project-ara.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Google
 
@@ -47,12 +63,6 @@ Project Ara
 
 ![Moto Mods](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/moto-mods.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Motorola
 
 Moto Mods
@@ -61,16 +71,38 @@ Moto Mods
 
  Since then, there have been some attempts from [Fairphone](https://extra-tips.techidaily.com/2024-approved-capture-the-spectacular-with-nikon-d500-in-4k/)–who is more concerned with repairability–and HMD Global is apparently interested in the concept, too. None of these ideas have truly caught on with the general public. Motorola probably had the best effort with a system that lasted several years, but it couldn't save the company from falling into irrelevance.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Why MagSafe Succeeded
 
 ![MagSafe on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52533931426_9c32e8d1a7_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek  
   
  Around the same time that Moto Mods faded out, Apple got into the modular accessory game with [MagSafe](https://techno-recovery.techidaily.com/mastering-regional-adjustments-how-to-update-regions-on-your-iphone/) on the [iPhone 12 and iPhone 12 Pro](https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-edgeplus-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/). Like Motorola, it used magnets to attach chargers, battery packs, wallets, stands, speakers, and more. Four years later, [it remains a part of iPhone models](https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-a15-4g-screen-drfone-by-drfone-android/) and has generated huge demand for accessories.
@@ -81,22 +113,38 @@ Hannah Stryker / How-To Geek
 
  Other manufacturers don't have that same track record and, as a result, don't have the same trust from consumers or accessory makers. LG made a big deal about their "LG Friends" accessories, then completely ditched the idea a year later. Motorola lasted four years. That's a problem.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  How Others Can Find Success
 
 ![CMF Phone 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-nothing-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 CMF
 
  The most recent entry in the modular smartphone saga is the [CMF Nothing 1](https://www.androidpolice.com/cmf-phone-1-review/). The device's back plate is easily removed with a screwdriver, and there's a big thumb screw in the bottom corner that can be taken off without tools. CMF offers a wallet, kickstand, and lanyard accessories at launch. Cool idea, but will it last?

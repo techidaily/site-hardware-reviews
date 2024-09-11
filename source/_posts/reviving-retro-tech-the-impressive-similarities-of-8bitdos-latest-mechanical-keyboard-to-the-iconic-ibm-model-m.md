@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M"
-date: 2024-09-05T07:51:52.523Z
-updated: 2024-09-06T07:51:52.523Z
+date: 2024-09-10T10:50:25.755Z
+updated: 2024-09-11T10:50:25.755Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb499e343dac1cbda32fedf601.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M
 
 Even though the IBM Model M not a "real" mechanical keyboard and even though it's several decades old, it still has a certain charm to it that some people still want to keep today. Only problem is that using an original one might prove challenging if you don't have a PS/2 port (the first few models actually had an even older DIN port). Thankfully, 8bitDo is coming through with its own copycat for you to check out.

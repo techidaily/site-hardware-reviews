@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Automatic MAC Address Generation on Your Android Device"
-date: 2024-09-05T07:51:58.718Z
-updated: 2024-09-06T07:51:58.718Z
+date: 2024-09-10T10:50:31.352Z
+updated: 2024-09-11T10:50:31.352Z
 tags:
   - android
 categories:
@@ -11,16 +11,24 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
 ## Step-by-Step Guide: Turning Off Automatic MAC Address Generation on Your Android Device
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Disable the Random Wi-Fi MAC on Android?](https://facebook-video-share.techidaily.com/new-clean-soundscape-youtube-audio-enhancement-guide-for-2024/)
 * [How to Disable Randomized MAC Addresses on Android](https://fox-direct.techidaily.com/new-2024-approved-master-the-basics-essential-photo-edits-for-starters/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -30,6 +38,20 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
  For better privacy, Android devices use a randomized Wi-Fi [MAC address](https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y36-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/) by default. In some cases, you might want to disable this feature. Thankfully, it's very easy to do this. We'll show you how in just a few steps.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Why Disable the Random Wi-Fi MAC on Android?
 
  For most people, it's OK to leave randomized MAC addresses turned on. It's a privacy and security feature that [makes you harder to track](https://facebook-video-recording.techidaily.com/mastering-video-presentation-utilizing-lc-and-bb-techniques-on-facebook/).
@@ -38,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
  Also, if you have your router configured to [always assign a certain static IP address to a device](https://facebook-video-footage.techidaily.com/updated-top-5-video-and-photography-mobile-apps-for-iphoneandroid-users/) on your local network, you'll need to link that IP with a certain device's MAC address.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Disable Randomized MAC Addresses on Android
 
  It's easy to switch a randomized MAC address on or off whenever you want. But before you do this, know that various Android models and versions use different names for certain Settings options. Some models may call the Settings "Wi-Fi & Network," while others simply call it "Connections."
@@ -52,46 +68,78 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
 ![Quick Settings on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_20231120_151729_photos.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Settings, tap "Wi-Fi & Network" (or "Connections" or "Network & Internet" depending on your device).
 
 ![Settings menu in Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_20231120_151740_settings.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Next, tap "Wi-Fi" to view your Wi-Fi networks.
 
 ![Wi-Fi settings menu on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_20231120_151750_settings.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  When you see your Wi-Fi network name in the list, tap the gear icon beside it.
 
 ![Wi-Fi networks list on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_20231120_151759_settings.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Next, tap "Advanced" or expand the Settings to see more. On OnePlus and Pixel phones, select "Use device MAC." If you use a Samsung device, tap "MAC address type" and choose "Phone MAC." If your device is different than both of these, look for a similar option that says "MAC" and enable it.
 
 ![Wi-Fi privacy menu on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_20231120_151903_settings.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  That's it! Exit Settings, and you're done. Make sure that you follow this procedure for each Wi-Fi network where you want to use the phone's actual MAC address.
 
  If you use an iPhone or iPad, your device also randomizes the MAC address. Luckily, you can [turn that option off](https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-7-drfone-by-drfone-virtual-android/) on your Apple devices, too.

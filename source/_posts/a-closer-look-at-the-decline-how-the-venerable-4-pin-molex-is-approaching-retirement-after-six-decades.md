@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades"
-date: 2024-09-05T07:51:53.815Z
-updated: 2024-09-06T07:51:53.815Z
+date: 2024-09-10T10:50:26.964Z
+updated: 2024-09-11T10:50:26.964Z
 tags:
   - hardware
 categories:
@@ -9,20 +9,36 @@ categories:
 thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a92405de9a612b975012aa5f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * The 4-pin Molex power connector is a pin-and-socket design used for sending power.
@@ -31,18 +47,52 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  For the entirety of my PC building career, the 4-pin Molex power connector has been there. At one point it felt like everything on my computer used it, but my love-hate relationship with this common connector is almost at an end, it seems. So it's time to prepare the eulogy.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Say Hello to the 4-Pin Molex
 
  The 4-pin Molex connector is a pin-and-socket design with a molded plug shaped to make it impossible to plug it in the wrong way around. It has four pins, with one yellow +12V, two black ground connectors, and one red +5V connection. Although, you'll find many variations on this pinout and wiring scheme as the connector has been adapted for different purposes over the years.
 
  Molex connectors provide power to electronic devices using a secure connection, and because the pins and socket have large contact areas and fit securely, it's appropriate to send power, rather than simply low-power signals.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  A Brief Look at a Long History
 
  Representing one of the earliest standards in the then-nascent field of electronics, the Molex quickly found its way into everything from home appliances to cars. The Molex connector was developed in the late 1950s by the Molex company, but the version you might know is actually the AMP Mate-n-Lok produced in 1963\. The main difference with the AMP version is the inclusion of two chamfered corners, making it easier to pull out. The AMP connector is not actually interchangeable with the patented Molex connector, but it's the AMP connector that became the standard for floppy and hard drive power connections. Both the AMP and Molex connectors were used in computers, and both were referred to as "Molex" connectors, despite that only being half right.
@@ -51,12 +101,6 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  Establishing the basic facts of the Molex connector's history outside the Wikipedia entry (which has its own issues), proved a little tricky. This seems to be the [1962 patent](https://patents.google.com/patent/US3178673A/en) for the original. Likewise, facts about the Mate-n-Lok and the later 8981 connectors are also hard to nail down, though, of course, we all used them! Even looking for information about them on Molex or TE Connectivity's own sites doesn't yield much, so I've tried to stick to the basics.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Good, the Bad, and the Ugly of the 4-Pin Molex
 
  Molex connectors were clearly a big deal in the world of consumer electronics and later in home computing. It was an easy, widespread standard that made it easy for manufacturers of computer parts to ensure that everything would work together. Since it has such a long lifespan, it also meant that Molex connectors allowed for parts that were many years apart to interoperate.
@@ -65,18 +109,26 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
 ![Two Molex connectors to one 6-pin PCI Express connector on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_244972945.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Olga Popova / Shutterstock.com](https://www.shutterstock.com/image-photo/two-molex-connectors-one-6pin-pci-244972945)
 
  Putting together a system using Molex connectors is a breeze, downright pleasant even. However, when the time came to take that system apart or upgrade or replace a component, the Molex connector demanded its sacrifices. I owe many busted knuckles, torn nails, and once even a cut lip to stubborn Molex connectors that just don't want to let go.
@@ -85,18 +137,20 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  Also, while Molex represented a standard, some companies stuck to it so loosely, that quality could be widely different between cables. The only [computer fire](https://win-solutions.techidaily.com/solved-monster-hunter-rise-wont-start-fixed-solution-inside/) I have personally experienced was caused by a cheap Molex connector which shorted and melted, as flames licked out of the computer's vents. This isn't really the fault of the Molex connector design, just a symptom of a connector that anyone could make, and so some were made poorly.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  How the 4-Pin Molex Is Hanging on Today
 
  Few if any computer components still use the Molex connector. The most common device that still uses these connectors is the humble case fan, and then only the cheapest examples. It's more common for good fans to use a [4-pin PWM](https://video-screen-grab.techidaily.com/updated-2024-approved-next-gen-webcams-top-5-featuring-premium-audio-capabilities/) connector that is attached directly to your mother board, or to a fan speed controller. Since all the Molex connector can provide is power, any fan using such a connection will always run at full blast. Not idea for noise or fan longevity.

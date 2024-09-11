@@ -1,7 +1,7 @@
 ---
 title: "Frequent Auto-Restarts on Mobile Devices: Why It Happens and How to Fix Them"
-date: 2024-09-05T07:51:57.055Z
-updated: 2024-09-06T07:51:57.055Z
+date: 2024-09-10T10:50:29.854Z
+updated: 2024-09-11T10:50:29.854Z
 tags:
   - android
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d681690353291c54c1139b976.png
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Frequent Auto-Restarts on Mobile Devices: Why It Happens and How to Fix Them
 
 ### Quick Links
@@ -40,6 +42,26 @@ thumbnail: https://thmb.techidaily.com/3bd086f6ddbea0000b61dea6630a396d485fdb4d6
 
 ![Closeup of an iPhone display showing an available software update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/iphone-software-update.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 _[nikkimeel/Shutterstock.com](https://www.shutterstock.com/image-photo/rostovondon-russia-august-1-2019-iphone-1467902834)_
 
  Outdated system software may be responsible for your troubles if your phone hasn't been updated in a long time. The system updates don't just include new features but also often come with fixes for bugs and other issues present in the software. So if you are running an older software version on your phone, it's time to update it as that could very well solve the intermittent reboots.
@@ -50,12 +72,6 @@ Related: [How to Update Your iPhone to the Latest iOS Version](https://screen-vi
 
 Related: [How to Update Android](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nubia-without-puk-codes-by-drfone-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Malfunctioning Apps
 
  Apart from the system software, apps play a significant role on smartphones. As we often install new apps and the existing ones get updated with new features, there is a good chance that any change in your phone's behavior may result from a fresh app install or an update.
@@ -63,6 +79,20 @@ Related: [How to Update Android](https://sim-unlock.techidaily.com/in-2024-how-t
  On Android, you can find out if a downloaded app is causing the reboots by restarting your phone in Safe Mode. As phones from different manufacturers have different steps to [enable Safe Mode](https://snapchat-videos.techidaily.com/new-in-2024-crafting-visual-magic-the-essentials-of-snapchat-photo-editing/), you can consult your manufacturer's support website for the proper steps. But typically, you can reach Safe Mode by pressing and holding the power button until the power off pop-up appears. Then long press the power off option until the Safe Mode prompt appears.
 
 ![Safe Mode on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/safe_mode_android.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Safe Mode on Android restricts third-party apps. If the problem goes away in Safe Mode, then an app is likely causing the restarts.
 
@@ -72,12 +102,6 @@ Related: [How to Update Apps on Android](https://android-pokemon-go.techidaily.c
 
  Unfortunately, there is no Safe Mode on iPhone. So you'll just have to remove recently installed or updated apps one by one to identify if there is any malfunctioning app at fault.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Malware
 
  Although some types of PC malware are known for causing the computer to crash or reboot, the problem is relatively rare for smartphones, [particularly iPhones](https://instagram-video-files.techidaily.com/updated-in-2024-mastering-multimedia-content-putting-photos-together-on-insta-story/). But given the ever-changing malware landscape, random reboots due to a virus isn't a completely absurd idea.
@@ -86,44 +110,62 @@ Related: [How to Update Apps on Android](https://android-pokemon-go.techidaily.c
 
 Related: [Does a Factory Reset Remove Viruses?](https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-s23-by-drfone-android/) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Cases and Other Accessories
 
 ![RIG Nacon MG-X Pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/rig-nacon-mg-x-pro.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _RIG Gaming_
 
  Although accessories like a case, [battery pack](https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/), or [game controller](https://digital-screen-recording.techidaily.com/new-in-2024-apple-devices-enthusiasts-guide-to-top-voice-recorders/) are helpful, they can sometimes cause issues. So when diagnosing random restarts on your phone, try taking them off to ensure they are not causing the problem. Also, remember that accessories shouldn't cover the phone's sensors or touch the buttons.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Debris in Ports
 
  As you use your smartphone, the USB port can sometimes get clogged with dirt, lint, or other things. So if your phone is restarting when it's plugged for charging, debris present in the charging USB port may be the cause. A [compressed air can](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSJB/dp/B0000AE67M/?tag=htg-v2-3nh2or3-20&ascsubtag=UUhtgUeUpU204435&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F833151%2Fwhy-does-my-phone-keep-randomly-restarting%2F&asc%5Fcampaign=Short-Term) or a [plastic toothpick](https://www.amazon.com/Creative-Converting-Picks-Party-Assorted/dp/B001BDGE00/?tag=htg-v2-3nh2or3-20&ascsubtag=UUhtgUeUpU204435&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F833151%2Fwhy-does-my-phone-keep-randomly-restarting%2F&asc%5Fcampaign=Short-Term) can help you remove this debris. Our sister site, Review Geek, has an excellent detailed guide on how you can [keep your phone's USB port clean](https://www.reviewgeek.com/107181/why-you-should-regularly-clean-your-phones-usb-c-port-and-how-to-do-it/).
 
 Related: [image.png](https://www.reviewgeek.com/107181/why-you-should-regularly-clean-your-phones-usb-c-port-and-how-to-do-it/) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Limited Storage Space
 
  While uncommon, your phone's lack of storage space may also result in intermittent reboots. 15% to 20% of free space is generally recommended for the smooth functioning of your phone. But if there is insufficient storage on your phone, it's time to [remove rarely used or unused apps](https://howto.techidaily.com/9-solutions-to-fix-honor-x50-gt-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/) and large files from your phone. iPhone users also get the option to [offload seldom used apps](https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-15-pro-4-easy-ways-by-drfone-ios/) to keep storage free on the phone.
@@ -131,6 +173,26 @@ Related: [image.png](https://www.reviewgeek.com/107181/why-you-should-regularly-
 ##  Hardware Issues
 
 ![Person holding an iPhone under running water from a tap.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/rinse-iphone-tap-water-sink.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 _[Luca Scarabottini/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-usa-22-september-2016-545012869)_
 

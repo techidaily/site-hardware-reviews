@@ -1,7 +1,7 @@
 ---
 title: "Guide: How to Input Critical Emergency Health Information Into Your Android Smartphone"
-date: 2024-09-05T07:51:58.554Z
-updated: 2024-09-06T07:51:58.554Z
+date: 2024-09-10T10:50:31.204Z
+updated: 2024-09-11T10:50:31.204Z
 tags:
   - android
 categories:
@@ -15,6 +15,20 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
  Most Android phones—including [Samsung Galaxy](https://instagram-clips.techidaily.com/new-connecting-consciously-with-content-craftsmen-of-your-realm-for-2024/) and [Google Pixel](https://vp-tips.techidaily.com/updated-2024-approved-breaking-the-loop-fixing-frozen-photo-booth-videos/) devices—include a "Safety and Emergency" section in the Settings. The idea is you can add important medical information that a paramedic or someone else might need in an emergency, and it can be accessed without unlocking your phone. Let's do it.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Add Medical Information on Android
 
  To add your medical information to your Android phone, go to Settings > Safety and Emergency > Medical Info. Here's how it works:
@@ -27,36 +41,60 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Select "Safety and Emergency."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-57-07.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Now select ""Medical Info" or "Medical Information."
 
 ![Select "Medical Info."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-57-56.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Here's where things will vary a bit depending on your phone. Samsung Galaxy devices will let you know that medical info is available from the lock screen by default, but you can change that later. Tap "Confirm."
 
 ![Tap "Confirm."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-59-10.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Google Pixel devices will launch the "Personal Safety" app, which can be used with or without your Google account.
 
 ![Personal Safety app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-00-17.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Regardless of how you got there, you'll now be looking at several text boxes for various medical information such as allergies, blood type, medications, etc. Fill out as many as you'd like.
 
 ![Fill out the medical information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-02-15.jpg) 
@@ -71,18 +109,26 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
  That's all there is to it!
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983539">
+<span id="1982485">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Add Emergency Contacts on Android
 
  To add emergency contacts on your Android phone, go to Settings > Safety and Emergency > Emergency Contacts. Let's do it.
@@ -91,12 +137,26 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-56-31.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Next, go to the "Safety and Emergency" section.
 
 ![Select "Safety and Emergency."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_12-57-07.jpg) 
@@ -105,12 +165,6 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Select "Emergency Contacts."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-19-18.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The wording may be slightly different depending on your phone, but select "Add Member" or "Add Contact" to proceed.
 
 ![Select "Add Member."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-08-38.jpg) 
@@ -119,28 +173,44 @@ Your Android phone is probably one of the few things that goes everywhere with y
 
 ![Choose someone from your contacts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-09-52.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You'll also see the option to have your emergency contacts be available from the lock screen.
 
 ![Select "Show on Lock Screen."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-07-21_13-10-46.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You're all set!
 
 ---

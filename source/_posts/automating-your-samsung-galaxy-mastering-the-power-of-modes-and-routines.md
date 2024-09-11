@@ -1,7 +1,7 @@
 ---
 title: "Automating Your Samsung Galaxy: Mastering the Power of Modes & Routines"
-date: 2024-09-05T07:51:56.189Z
-updated: 2024-09-06T07:51:56.189Z
+date: 2024-09-10T10:50:29.106Z
+updated: 2024-09-11T10:50:29.106Z
 tags:
   - android
 categories:
@@ -10,6 +10,20 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ---
 
 ## Automating Your Samsung Galaxy: Mastering the Power of Modes & Routines
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -47,16 +61,24 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![The control panel on a Samsung phone, highlighting the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230922_132910_nova-launcher.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Next, tap "Modes and Routines" to open the app.
 
 ![The 'Modes and Routines' option in One UI's settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230922_163603_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here, you'll see a list of preset modes. Select one and tap "Start" to begin the guided setup.
 
 ![List of preset modes on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/list-of-preset-modes-on-samsung.jpeg) 
@@ -71,12 +93,20 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![Adding Do not disturb to Work mode on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/adding-do-not-disturb-to-work-mode-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On the third screen, choose the settings you want to apply when this mode is active from the list of suggestions. These settings include adjusting the sound mode and volume level, playing music, [enabling Power Saving to save battery life](https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-xcover-6-pro-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/), opening an app of your choice, and more. Once set, hit "Done" at the bottom.
 
 ![Choosing settings for Work mode on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/choosing-settings-for-work-mode-on-samsung.jpeg) 
@@ -93,44 +123,62 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
  And you're done! Configure the other modes the same way.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  How to Add a Custom Mode on Samsung
 
  Aside from preset modes, you can also create your own custom mode. Go back to the main page and tap "Add Mode."
 
 ![The 'Add Mode' option for Samsung's Modes and Routines.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230922_163629_modes-and-routines.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Give this custom mode a name and choose an icon design and color. Tap "Done" at the bottom to proceed to the summary page.
 
 ![Naming a focus mode on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230922_163706_modes-and-routines.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  On the summary page, tap "Turn On Automatically."
 
 ![The option to automatically add conditions for a Samsung mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/screenshot_20230922_164012_modes-and-routines.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On the following screen, set conditions for when you want to start this mode. Choose from the listed suggested conditions or tap "Add Condition" to browse for more options. Once you've set your desired conditions, hit "Done" at the bottom to continue.
 
 ![Setting conditions to custom mode on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/setting-conditions-to-custom-mode-on-samsung.jpeg) 
@@ -139,34 +187,30 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![Adding actions to custom mode on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/adding-actions-to-custom-mode-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On the following screen, choose from the suggested settings or scroll down and tap "Add Action" to browse for more options. Once you've set your desired settings, hit "Done" at the bottom to continue. Finally, review all the details on the summary page and customize as you see fit.
 
  Your custom mode is now set!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Create a Custom Routine on Samsung
 
  Creating a routine is similar to creating a custom mode, but you get a lot more triggers and commands to choose from. The process is also a little simpler and easier to understand. To begin, open Modes and Routines and go to the "Routines" tab at the bottom.
 
 ![Routines tab in Modes and Routines app on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/routines-tab-in-modes-and-routines-app-on-samsung.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here, tap the "+" button at the top of the screen.
 
 ![The 'Add Routine' button on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_20231123_235824_modes-and-routines.jpeg) 
@@ -175,52 +219,70 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 !['If' command on Routines on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/if-command-on-routines-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On the following screen, browse from the list of conditions that should be met to activate this routine. Hit "Done" to confirm your choice(s).
 
 ![Browsing 'If' routine commands on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/browsing-if-routine-commands-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Next, under the "Then" heading, tap "Add what this routine will do."
 
 !['Then' command on Routines on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/then-command-on-routines-on-samsung.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the following screen, browse from the list of actions this routine should do when it's active. These actions are divided into different categories for easier navigation. Hit "Done" to confirm each action.
 
 ![Browsing 'Then' routine commands on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/browsing-then-routine-commands-on-samsung.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also long-press an action to change its order. Once you've added all your desired actions, tap "Save" at the bottom.
 
 ![Saving a routine on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/saving-a-routine-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Next, give this routine a name and choose a suitable icon design and color. Tap "Done" at the bottom to save.
 
 ![Adding name, icon, and color to routine on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/adding-name-icon-and-color-to-routine-on-samsung.jpeg) 
@@ -231,39 +293,77 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![The 'Browse Routines' button on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot_20231123_235854_modes-and-routines.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The list contains more than 20 preset routines, each categorized based on unique situations and use cases. Browse each category and see if you find something useful.
 
 ![Recommended routines on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/recommended-routines-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  If you like a recommended routine, tap "Save" at the bottom to add it. You can also tap "Edit" first to customize the preset routine to your liking.
 
 ![Saving a recommended routine on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/saving-a-recommended-routine-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  And you're done! This routine has been added to your saved routines.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  How to Create a Shortcut to Modes and Routines
 
@@ -273,15 +373,43 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![Add button in Quick Settings panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/add-button-in-quick-settings-panel.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  This will reveal a whole set of buttons that are available for you to use. Here, drag the "Modes" button and drop it among your other active buttons.
 
 ![Adding Modes button to Quick Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/adding-modes-button-to-quick-settings.jpeg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Tap "Done" to confirm.
 
@@ -295,21 +423,43 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 
 ![Home screen widgets menu on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/home-screen-widgets-menu-on-samsung.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  From the list, find and tap "Modes and Routines" to reveal the app's widgets. Drag "Single Routine" and drop it on your home screen. If you've created multiple routines, select the one of your choice.
 
 ![Routines widget on Samsung.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/routines-widget-on-samsung.jpeg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Automate Your Galaxy Phone Like a Pro
 

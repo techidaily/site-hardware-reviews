@@ -1,7 +1,7 @@
 ---
 title: Why the Classic Clamshell Computer Design Remains Forever Popular
-date: 2024-09-05T07:51:54.678Z
-updated: 2024-09-06T07:51:54.678Z
+date: 2024-09-10T10:50:27.775Z
+updated: 2024-09-11T10:50:27.775Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-laptop-floating-in-space-eternal.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why the Classic Clamshell Computer Design Remains Forever Popular
 
 ### Key Takeaways
@@ -31,24 +19,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There have been many attempts, past and present, at creating the ideal portable computer form-factor. However, in my mind, the perfect portable computers, at least those that want to measure up to desktop systems, is the classic clamshell design. You can refine it, or alter it, but there's no escape from the inevitable.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Clamshell Is at the Peak of Laptop Evolution
 
  Before battery-powered clamshell laptops, portable computers were known as "luggables." The Osborne 1 is a classic example of this style of computer. You lugged it around to the nearest outlet, and yes that's a tiny CRT screen.
 
 ![The Osborne 1 luggable computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/osborne-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [The National Media Museum, Bradford](https://collection.sciencemuseumgroup.org.uk/objects/co8094436/osborne-1-portable-computer-personal-computer)
 
  For years computer makers struggled with the technology of the day, to figure out how to take what we have on the desktop, and make it practical to travel with and use anywhere. In the late 80s, we would see those efforts come to fruition, and throughout the 90s the clamshell laptop would be cemented as the de facto design for a mobile PC.
@@ -59,17 +49,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Computer chronicles 1989 laptop episode featuring clamshell laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-20-54-49.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Computer Chronicles
 
  An understandable reaction when what you're selling is this.
 
 ![Scene from 1989 computer chronicles episode showing old-style portable computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-20-58-00.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 The Computer Chronicles
 
@@ -77,19 +75,47 @@ The Computer Chronicles
 
 ![Scene from a 1989 episode of The Computer Chronicles showing an early clamshell laptop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-30-at-21-00-38.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993645">
+<span id="1983473">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Even the 90s aesthetic for laptops survives to this day in the form of the [indomitable ThinkPad](https://extra-lessons.techidaily.com/new-benq-sw320-monitor-review-a-leap-into-4k-territory/). A computer design that stirs a certain fandom into fervent loyalty that would make the average Mac evangelist seem mild in comparison. Not that there's anything wrong with that!
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  It’s Inherently Rugged
 
@@ -97,19 +123,41 @@ The Computer Chronicles
 
  Tablet PCs have been perhaps the closest form factor design equivalent to a competitor, but we end up putting them in cases that emulate the clamshell design in some ways, or at least to protect the screen! Even convertible laptops are just a way to stray from the clamshell for short bursts until you need it again.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  The Clamshell Is Infinitely Adaptable
 
 ![ASUS ZenBook Duo 14](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/asus-zenbook-duo-14.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Despite the basic design of laptops still being the same, there have been many variations within those broad outlines. [Dual-screen laptops](https://youtube-stream.techidaily.com/instant-expertise-changing-photos-to-captivating-youtube-thumbnails-for-2024/) and foldable laptops are two great examples of how the clamshell design can be adapted.
 
 ![HP Spectre Foldable promotional photo, with a white background, the laptop is partially opened, in the vertical position, with the keyboard partially covering the bottom half](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/hp-spectre-foldable-promotional-photo-with-a-white-background-the-laptop-is-partially-opened-in-the-vertical-position-with-the-keyboard-partially-covering-the-bottom-half.jpeg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Image credit: [HP UK](https://www.hp.com/gb-en/shop/product.aspx?id=8r2r4ea&opt=abu&sel=ntb)
 

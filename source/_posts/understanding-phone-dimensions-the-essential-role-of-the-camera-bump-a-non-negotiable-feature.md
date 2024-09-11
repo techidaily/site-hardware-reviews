@@ -1,7 +1,7 @@
 ---
 title: "Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature"
-date: 2024-09-05T07:51:54.614Z
-updated: 2024-09-06T07:51:54.614Z
+date: 2024-09-10T10:50:27.711Z
+updated: 2024-09-11T10:50:27.711Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b4525c4f54b2150317447813.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature
 
 ### Key Takeaways
@@ -25,68 +33,108 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 
  With rumors of an Apple iPhone Air milling around, right after the M4 iPad Pro went on a major diet, it seems the topic of thinner phones is back on the table, but just like OLED TVs with thin tops and big booties, a phone is only as thin as the fattest part of its body: the camera bump.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Phones Are Getting Thinner
 
  There's definitely a trend towards thinner phones, and considering the lethal brick that my first phone (a [Nokia 2110](https://en.wikipedia.org/wiki/Nokia%5F2110)) was, that's generally a good thing. How thin does a phone have to be, however? The Galaxy S24 Ultra and iPhone 15 Pro are both around 0.33 inches thick, or 8.6 and 8.4 millimeters, respectively. My own S22 Ultra is just a slice under 9mm thick, and I can't imagine the utility of paring that down even further, yet we might see an [iPhone 17 Air](https://www.techradar.com/phones/iphone/the-rumored-iphone-17-slim-could-instead-be-called-the-iphone-17-air) at some point, as thin as 5mm or 0.19685 inches.
 
 ![Right side of the Samsung Galaxy S24 Ultra showing the titanium edge and buttons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/right-side-of-the-samsung-galaxy-s24-ultra-showing-the-titanium-edge-and-buttons-1.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Justin Duino / How-To Geek
 
  Now, I'm not the biggest fan of [thinness for its own sake](https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/), but clearly those numbers attract customers. It's also a mild bit of cheating, because the phone thickness excludes the camera bump!
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Camera Bumps, Er, Bump Up the Thickness
 
  The last phone I had that didn't sport a camera bump was my Note 10 Plus, which had cameras virtually flush with the body of the phone. My S21 Ultra had a chonky old bump, and my current S22 Ultra trimmed that back considerably, though it's hardly gone. My iPhone 13 Pro and 14 Pro both had shameless camera blocks. The iPhone 14 Pro [adds another 4.18mm to the 7.85mm body of the phone](https://www.cnet.com/tech/mobile/iphone-14-pro-cameras-are-a-big-leap-for-photo-enthusiasts/). So is it really a half-inch phone or one-third?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Big Bumps, Big Wobbles
 
 ![iPhone 14 Pro and S22 Ultra in Leather Cases](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Leather-Case-Hero.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Butler / How-To Geek
 
  I used to be a naked phone advocate, and I would still prefer that, but the camera bumps on my modern phones basically made me get [leather cases](https://facebook-video-footage.techidaily.com/new-discover-the-top-30-freefire-hashtags-for-amplifying-video-growth-for-2024/) for them. Because of those bumps, the phones don't feel good to hold or handle, and they are wobbly on flat surfaces, where, believe it or not, I often use them. The case essentially flattens the back and makes the camera bump flush.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Cases Reveal True Thickness
 
  Since the case adds thickness to the phone to match the protrusion of the camera bump, that's the actual thickness of the phone. The practice of quoting the thinnest part of a device, as was done with the MacBook Air wedge design or with [OLED TVs with big bottoms](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-edge-2023-devices-by-drfone-android/), is a marketing tactic. It would be one thing if the majority of people didn't use phone cases or that phones with big bumps felt good to use naked, but in my opinion, those are the exception rather than the rule. Which means that you should add the camera bump size to the phone's quoted figures to get the real story. A number that the manufacturers themselves generally don't provide.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don’t Fall for the Hype
 
  If it does turn out that Apple really is bringing out a phone with a 5mm body and that a bunch of other manufacturers will inevitably emulate that like so many lemmings tumbling from a cliff, then there should be a moment of reflection. A collective sanity check. Especially if it's actually a 10mm phone thanks to its camera.

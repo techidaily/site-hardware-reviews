@@ -1,7 +1,7 @@
 ---
 title: "Introducing Nanoleaf's Innovative Smart LED Enclosures: Officially Launched!"
-date: 2024-09-05T07:51:52.382Z
-updated: 2024-09-06T07:51:52.382Z
+date: 2024-09-10T10:50:25.624Z
+updated: 2024-09-11T10:50:25.624Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e56306af6bf8cabd1b35043cc3e.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Introducing Nanoleaf's Innovative Smart LED Enclosures: Officially Launched!
 
 Nanoleaf’s Expo Smart LED Display Cases showcase your sneakers, rare figurines, or any prized collection for that matter with animated lighting that syncs across hundreds of cases.
@@ -29,18 +37,26 @@ Nanoleaf’s Expo Smart LED Display Cases showcase your sneakers, rare figurines
 
 ![Nanoleaf's Expo Smart LED Display Case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/nanoleaf-expo-smart-led-display-case-physical-buttons.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Nanoleaf
 
  You can [pre-order your EXPO Smart LED Display Cases](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004731/https://nanoleaf.me/en-US/products/?product=expo-case) on the Nanoleaf website. An Expansion Pack comprising one case and one rigid linker costs $80\. Save money with the Smarter Kit, available in 4-Pack ($300), 8-Pack ($573), and 12-Pack ($882) variants, which bundles everything you need to use them together, including a controller and power supply.

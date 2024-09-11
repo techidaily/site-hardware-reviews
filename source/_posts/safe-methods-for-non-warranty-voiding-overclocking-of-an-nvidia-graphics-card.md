@@ -1,7 +1,7 @@
 ---
 title: Safe Methods for Non-Warranty Voiding Overclocking of an NVIDIA Graphics Card
-date: 2024-09-05T07:51:54.266Z
-updated: 2024-09-06T07:51:54.266Z
+date: 2024-09-10T10:50:27.390Z
+updated: 2024-09-11T10:50:27.390Z
 tags:
   - hardware
 categories:
@@ -11,18 +11,46 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Safe Methods for Non-Warranty Voiding Overclocking of an NVIDIA Graphics Card
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [How to Automatically Overclock Your GPU in the NVIDIA App](https://program-issues.techidaily.com/ultimate-guide-resolving-the-league-of-legends-not-launching-issue/)
 * [Does Auto Overclock Bring Any Performance Gains?](https://extra-lessons.techidaily.com/introducing-the-essence-of-motion-blur-techniques-on-iphone/)
 * [Overclocking Your GPU Can Damage It](https://instagram-video-recordings.techidaily.com/updated-essential-techniques-for-sizing-up-your-instagram-video-reach/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Use NVIDIA's Automatic Tuning feature to safely overclock your GPU without voiding your warranty.
@@ -31,12 +59,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The NVIDIA app has been updated to include a new feature called Automatic Tuning. This allows you to automatically [overclocks](https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-x50-to-enjoy-more-fun-drfone-by-drfone-virtual-android/) your NVIDIA GPU while ensuring that your GPU’s thermal management system is not overburdened. It's a safe, one-click overclock that doesn’t affect your warranty.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  How to Automatically Overclock Your GPU in the NVIDIA App
 
  First, you'll need to download the latest version of the NVIDIA App. At the time of writing the app is still in beta, but it will eventually be released as a stable tool. If you haven't got it already, [download the latest version](https://www.nvidia.com/en-eu/software/nvidia-app/) of the NVIDIA app.
@@ -47,40 +89,50 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Automatic Tuning feature found in the NVIDIA App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-to-automatically-overclock-your-nvidia-gpu-01.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, you’ll have to wait about 20 minutes for the NVIDIA App to work its magic and test your GPU. Just let the program run and make sure to close all unnecessary apps running in the background.
 
 ![Auto OC process underway in the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-to-automatically-overclock-your-nvidia-gpu-02.png) 
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the testing phase finishes, the app will list your results. In my case, I’ve unlocked a 97MHz boost to my GPU clock and a 200MHz boost to my memory.
 
 ![NVIDIA App automatic tuning results.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/how-to-automatically-overclock-your-nvidia-gpu-03.png) 
 
- These results are fine for an automatic overclocking tool but far below what I managed to get when I manually overclocked my card years ago. Back then, I settled for \~120MHz boost to my GPU clock and +1000MHz for memory.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ These results are fine for an automatic overclocking tool but far below what I managed to get when I manually overclocked my card years ago. Back then, I settled for \~120MHz boost to my GPU clock and +1000MHz for memory.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Does Auto Overclock Bring Any Performance Gains?
 
  Personally, I’ve never daily driven my RTX 3070 in an overclocked state. Instead, I [undervolted](https://technical-tips.techidaily.com/complete-guide-step-by-step-process-of-removing-a-twitch-profile/) the GPU @925mV and applied a +1000MHz memory overclock shortly after buying it. With those settings, my GPU has been running cooler and using less power than with the default settings for about a year.
@@ -103,12 +155,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  For what it’s worth, I got my GPU at the height of [the infamous chip shortage](https://techtrends.techidaily.com/fix-libcea32dll-not-found-issues-a-stepwise-approach-for-users/), which resulted in buying the cheapest RTX 3070 model available. The Gigabyte RTX 3070 Eagle OC that I picked up has a fairly poor cooling solution. I reckon that if you’ve got a higher-quality GPU with a better cooling setup and a more robust voltage regulating module (VRM), you’ll probably get a better result when using the NVIDIA app to overclock your card.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Overclocking Your GPU Can Damage It
 
  You should be aware that the Automatic Tuning utility has a very slim chance of messing up your graphics card. In fact, there’s always a slim chance of breaking your GPU or CPU when overclocking it. That said, the chance of anything going south is minuscule because modern GPUs and CPUs have built-in safety features that turn the chip off when a higher-than-normal temperature or power usage is detected.

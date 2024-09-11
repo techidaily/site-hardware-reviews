@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Drawbacks of Choosing a Suitcase Turntable: Exploring Alternatives"
-date: 2024-09-05T07:51:54.405Z
-updated: 2024-09-06T07:51:54.405Z
+date: 2024-09-10T10:50:27.514Z
+updated: 2024-09-11T10:50:27.514Z
 tags:
   - hardware
 categories:
@@ -31,12 +31,20 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
  However, vinyl audio, although nice, still depends on the speakers you listen through, and the portable options almost always feature tiny, cheap speakers that demolish any hope of getting a reasonable sound. Every time I've listened to a portable record player, I've found myself wincing at the level of distortion and electromagnetic feedback. So, yes, you get a sliver of that vintage sound, but the speakers are usually very quiet, given they have astonishingly weak drivers and poor frequency response.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Good Luck Upgrading or Adjusting Any Components
 
  Typically, with record players, if you aren't happy with the sound or system configuration, you have the ability to make modifications. With portable players, you pretty much forfeit these rights.
@@ -45,24 +53,40 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 ![A suitcase-style record player.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6c513364.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _[Andrew Heffernan / Shutterstock.com](https://www.shutterstock.com/image-photo/brown-vinyl-record-player-600668258)_
 
  Other core parts, like cartridges and needles, are mostly unalterable. Traditional record players, especially older models, are usually very forgiving and allow users to swap or adjust parts. Portable players aren't designed for this, meaning you're stuck with these cheapskate, mass-manufactured parts.
 
  I remember finding out that a lot of these players don't allow you to swap out the cartridge or allow you to adjust the headshell screws if it's at the wrong angle, and it ruined my afternoon.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  They'll Eat Your Records
 
  Portable record players have styluses with dangerously low lifespans. Given this, it doesn't take long to wear out and make deep grooves in your records. With any record player, you ought to replace the stylus at least every 1,000 hours, but with portable options, it seems like you need to replace them in a fraction of that time, and like I said earlier, many don't even let you.
@@ -71,44 +95,62 @@ _[Andrew Heffernan / Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 ![Retro styled image of boxes with vinyl turntable records on a flee market](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/d23e0a51.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 [Martin Bergsma/Shutterstock.com](https://www.shutterstock.com/image-photo/retro-styled-image-boxes-vinyl-turntable-213728074)
 
  For the sake of fairness, there are additional risks from taking your player outside. I can't blame the devices themselves for this, but you're asking to burn through your records at a greater pace if you use one of these players.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It'll Fall Apart Before You Know It
 
  Another obvious point, but I was genuinely surprised at how cheap the parts are, and how fast they deteriorate. I know a couple of folks who didn't even have a portable record player for over 6 months before it developed a serious humming, buzzing, and speed inconsistency.
 
  I find that portable record players feature much weaker designs because they sacrifice durability for style. They're also designed for travel, meaning the parts are often lightweight plastic (sometimes aluminum, if you're lucky), and prone to breaking.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Poor Battery Life
 
  I've seen some portable record player models with rechargeable batteries that support up to 12 hours of continuous playback, but from what I've seen, that's the exception. Many don't even have batteries, meaning you'll have to use an AC adapter with an outlet. Then, those that do have batteries typically offer 3-4 hours of playback, which means if you plan on using them all day for outdoor activity, you'll need to limit how much you listen.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Skip the Suitcase, Here's What to Go for Instead
 
  If you really feel the urge to get a portable record player I recommend considering higher-end options, as they are made with better components, some allow you to connect to external speakers and are less likely to destroy your vinyl collection. However, when it comes to creating a great portable listening environment, even the pricier options have serious flaws.

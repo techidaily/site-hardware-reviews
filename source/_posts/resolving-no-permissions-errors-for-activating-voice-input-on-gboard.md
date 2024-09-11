@@ -1,7 +1,7 @@
 ---
 title: Resolving 'No Permissions' Errors for Activating Voice Input on Gboard
-date: 2024-09-05T07:51:58.625Z
-updated: 2024-09-06T07:51:58.625Z
+date: 2024-09-10T10:50:31.271Z
+updated: 2024-09-11T10:50:31.271Z
 tags:
   - android
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/samsung-galaxy-keyboard-android-gboard.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Resolving 'No Permissions' Errors for Activating Voice Input on Gboard
 
 ### Key Takeaways
@@ -31,24 +33,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You wanted to use your voice to type with Gboard, but instead of launching the voice typing feature, the keyboard displayed a “No Permission to Enable: Voice typing” error. How do you fix this error now? We’ve got a few easy ways to get around this problem on your Android phone.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Let Gboard Access Your Phone’s Microphone
 
  I have myself run into this problem, and I was able to fix it by allowing Gboard to [access my Android phone’s microphone](https://fox-hovers.techidaily.com/2024-approved-prime-gopro-movie-maker-list/). This is because voice typing needs the mic in order to hear your voice.
 
 !['No Permission to Enable: Voice Typing' Gboard error on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/no-permission-to-enable-voice-typing-gboard-android-error.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We’ve performed the following steps on a Samsung Galaxy phone. The steps will vary slightly depending on your phone model.
 
  To start fixing the issue, launch the Settings app on your phone and go to "Apps."
@@ -59,30 +69,60 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Gboard' highlighted on the 'Apps' page in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-android-gboard-app-settings.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  On Gboard's "App Info" page, select "Permissions."
 
 !['Permissions' highlighted on Gboard's 'App Info' page in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-android-gboard-app-permissions.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Tap the "Microphone" option.
 
 !['Microphone' highlighted on Gboard's 'App Permissions' page in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-android-gboard-microphone-permission.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  On the "Microphone" page, select "Allow Only While Using the App."
 
 !['Allow Only While Using the App' highlighted on Gboard's permissions screen in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-android-gboard-enable-mic-permission.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This allows Gboard to use your phone’s mic whenever you’ve opened the keyboard on your phone.
 
 ##  Clear Your Gboard App Cache
@@ -93,18 +133,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Clear Cache' highlighted on Gboard's 'Storage' screen in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-androdi-gboard-clear-cache.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Update Your Gboard App
 
  The Gboard keyboard app updates automatically, but if you’ve disabled automatic updates or the app hasn’t updated for other reasons, the outdated app may be why you have issues using the voice typing feature.
@@ -114,6 +142,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can do that by opening the Play Store on your phone, finding "Gboard," and tapping "Update" next to the app. If you don’t find the "Update" option, your app is already up to date.
 
 !['Update' highlighted for Gboard in Google Play Store on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-update-gboard-android.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ---
 

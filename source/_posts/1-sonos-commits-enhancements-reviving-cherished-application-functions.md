@@ -1,7 +1,7 @@
 ---
 title: "1. Sonos Commits Enhancements: Reviving Cherished Application Functions"
-date: 2024-09-05T07:51:54.710Z
-updated: 2024-09-06T07:51:54.710Z
+date: 2024-09-10T10:50:27.804Z
+updated: 2024-09-11T10:50:27.804Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de237a4feeb628da33c12d9648.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## 1. Sonos Commits Enhancements: Reviving Cherished Application Functions
 
 It's been four months since Sonos launched an updated, overhauled version of its mobile app. The update, as it turns out, was extremely unpopular. Users complained about lost functionality and criticized Sonos for failing to maintain software reliability. Now, Sonos is giving a proper apology and a timeline for when we might see things improve.

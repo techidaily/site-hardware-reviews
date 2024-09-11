@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Detecting & Blocking Mobile Ad Spyware on Android
-date: 2024-09-05T07:51:56.924Z
-updated: 2024-09-06T07:51:56.924Z
+date: 2024-09-10T10:50:29.742Z
+updated: 2024-09-11T10:50:29.742Z
 tags:
   - android
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/google-play-store-logo-lens.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Effective Strategies for Detecting & Blocking Mobile Ad Spyware on Android
 
 ### Quick Links
@@ -27,18 +21,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Apps you [install on Android](https://tech-hub.techidaily.com/unveiling-the-7-optimal-artifice-intelligence-tools-for-superior-math-proficiency/) often collect data about you and your activity for the app developers and their affiliates. With a tool developed at the University of Oxford, you can see those trackers and even stop them in their tracks.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  I'm Being Tracked?
 
  At the very least, most Android apps are collecting data on crashes and bugs for the app developers to review. Apps may also use trackers in order to function, especially if the app has a social aspect, like to fetch content from external domains. The developers may also want to understand how people use their app so they can fine-tune the [user experience](https://facebook-video-files.techidaily.com/updated-2024-approved-expert-video-grabbing-kit-perfect-for-firefox-browser-users/). Trackers that report directly to the app's owner are usually referred to as "first-party" trackers and are, in theory, the safer kind.
 
 ["Third-party" trackers](https://www.reviewgeek.com/72272/the-lastpass-android-app-contains-7-trackers-from-third-party-companies-%F0%9F%98%AC/), however, send data to external services the company uses, or to the company's business partners. These are often advertisers wanting to sell stuff to you. They're likely using your data to do things like learning what your interests are, or judging what time of day you're likely to tap on ads. You can limit trackers' knowledge of you by [opting out of personalized ads](https://youtube-lab.techidaily.com/n-2024-curating-the-perfect-soundtrack-youtubes-best-audio-sites-ranked/), but that doesn't stop them from learning what they can.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Take Control of Your Privacy
 
  If all of this has you concerned, then meet [TrackerControl](https://trackercontrol.org/), a free and [open-source](https://facebook-videos.techidaily.com/new-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/) app capable of identifying those trackers and blocking them as well. It works by piping your network data through an on-device [VPN](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) server and checking the traffic against a database of known trackers. If you're worried by the [privacy concerns associated with VPNs](https://fox-cloud.techidaily.com/updated-learning-vector-artistry-an-overview-for-starters-and-software-picks/), don't be; it's not a true VPN and is located on your device, not a remote server. Unfortunately, this does mean you can't use a regular VPN while TrackerControl is working.
@@ -51,12 +53,20 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 
  The second caveat is that blocking trackers can and often does prevent apps from working properly. Typically, this looks like loading screens that never complete. In our testing, web browsers and social media apps almost always have this issue, since they're often fetching media to serve you from outside domains. You can solve the problem by allowing trackers necessary for function while still blocking others, although this involves some trial and error.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Setting Up TrackerControl
 
  The first time you launch TrackerControl, tap the toggle switch in the top-left corner of the app to begin monitoring.
@@ -65,23 +75,51 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 
 ![Toggle on TrackerControl by tapping the switch](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-enable.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  You'll be prompted to allow the app permission to set up its VPN server. Tap "Ok."
 
 ![Tap "Ok" to allow TrackerControl to set up its VPN](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-allow-vpn.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You should see a small key icon appear in the status bar signifying the VPN is operational, and TrackerControl's rocket icon should also appear in your notifications.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Monitoring Trackers
 
@@ -95,19 +133,35 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 
 ![Toggle off internet access to completely block an app from connecting to the internet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-disable-internet-access.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  It's a rather blunt tool, and you're probably better off simply [uninstalling the offending app](https://howto.techidaily.com/9-solutions-to-fix-honor-x50-gt-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/) to protect your privacy.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Blocking and Unblocking Trackers
 
@@ -119,23 +173,25 @@ Related: [How to Sideload Apps on Android](https://facebook-video-content.techid
 
 ![Disable Monitoring for an app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-disable-monitoring.png) 
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can unblock individual trackers by tapping them inside their categories. We don't recommend this, though, because ensuring you unblocked the correct ones can require a lot of testing. And even if you succeed, other trackers may later become active, which TrackerControl will automatically block, forcing you to go through the process again.
 
  If lack of functionality has you frustrated, TrackerControl also shows a persistent notification with the option to "Pause for 10 Mins." Pull down on the status bar to access it. This button switches off all monitoring and blocking for 10 minutes while you do what you're trying to accomplish. Note that this will allow [all running apps](https://on-screen-recording.techidaily.com/2024-approved-streamlining-movie-capture-with-multiple-technology-systems/) to do their tracking business.
 
 ![Tap "Pause for 10 Mins" in the TrackerControl notification](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/12/trackercontrol-pause-ten-minutes.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  If you need more than 10 minutes, you can disable TrackerControl entirely by again hitting the toggle button in the top-left corner of the main menu.
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy
-date: 2024-09-05T07:51:54.660Z
-updated: 2024-09-06T07:51:54.660Z
+date: 2024-09-10T10:50:27.756Z
+updated: 2024-09-11T10:50:27.756Z
 tags:
   - hardware
 categories:
@@ -9,13 +9,27 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-laptop-with-some-computer-terms-above-its-keyboard.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -36,12 +50,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Computer Daemon Cartoon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/computer-daemon-cartoon.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  The word was coined in its computer context by Professor Fernando J. Corbato, who stated it was [inspired by Maxwell's daemon of physics and thermodynamics](https://ei.cs.vt.edu/%7Ehistory/Daemon.html). They understood it to be a type of attending spirit from the Greek meaning.
@@ -50,21 +72,63 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![Cartoon of a guru meditating in front of a computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/cartoon-of-a-guru-meditating-in-front-of-a-computer.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Sydney Louw Butler / How-To Geek / MidJourney
 
  "Guru meditation" sounds properly "new age" and spiritual, but it's actually an error message from the Amiga family of computers. This was an error you saw when your Amiga hit a fatal exception (more on that later) and the screen would show the message along with a code. It seems to be a bit of an [in-joke](https://archive.org/details/info-magazine-13/page/n43/mode/2up?view=theater), and I could not find an absolutely definitive origin for the term, other than the idea that the computer's mind was empty like a Zen monk meditating.
 
  These days you are likely to see a Guru Meditation when a website you're trying to visit goes belly up, since the error message is part of the popular Varnish back-end software used to accelerate content-heavy, dynamic websites.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Grok
 
 ![Martians grokking](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/martians-grokking.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Sydney Louw Butler / How-To Geek / MidJourney
 
@@ -78,12 +142,6 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![Two computers in a foto race](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/two-computers-in-a-foto-race.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
  While it might sound like some sort of term from a sociology textbook, a "race condition" happens when two or more processes are running on a computer, and the outcome of the one depends on the timing or order of execution of the other. Basically, there's a lack of communication between the two processes, they don't wait for each other to finish their job before doing their own, and this can lead to all sorts of weird and sometimes dangerous situations. Especially in systems that have critical jobs like keeping a nuclear power plant cooled, or monitoring someone's vital signs. The term was already in use [as far back as 1954](https://dspace.mit.edu/bitstream/handle/1721.1/4804/RLE-TR-274-14266383.pdf?sequence=1) in the field of electronics, since it can happen in any situation where two dependent processes are running.
@@ -92,34 +150,44 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  While his sounds like the movie title of a thriller, a fatal exception is an error that forces a program or the whole operating system to close or shut down. This usually happens when a program tries to run an "illegal" instruction or tries to access a section of memory it's not meant to. It's "fatal" in the sense that it's the end of the road. You can't keep going anymore. [You are an ex program](https://en.wikipedia.org/wiki/Dead%5FParrot%5Fsketch).
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Nonce
 
  This is a word you'll see come up often if you work in the cryptographic space, and on many websites you'll find this word in nestled somewhere in the site's code. The word is a shortening of "number used once", and basically means a random number that's added into an encryption protocol or some sort of digital signature or handshake. Nonces are crucial in preventing a specific type of attack referred to as a ["replay" attack](https://desktop-recording.techidaily.com/2024-approved-launching-your-digital-dialogues-in-google-meet/). This is where a hacker records data that's been sent and simply repeats it to gain access.
 
  By adding in a nonce, you ensure that there can't be duplicate commutations, because there's a [pseudorandom](https://facebook-video-share.techidaily.com/new-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/) number that's different each time. The term may also be related to the linguistic concept of a [nonce word](https://dictionary.cambridge.org/dictionary/english/nonce-word), which is "a word invented for a particular occasion or situation." according to the Cambridge dictionary.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Salt
 
 ![A cartoon of a salt shaker next to a computer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-cartoon-of-a-salt-shaker-next-to-a-computer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sydney Louw Butler / How-To Geek / MidJourney
 
  Somewhat related to nonces, "salt" is random data added to a hash. Hungry yet?

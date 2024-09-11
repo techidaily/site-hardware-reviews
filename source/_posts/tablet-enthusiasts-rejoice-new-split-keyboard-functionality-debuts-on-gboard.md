@@ -1,7 +1,7 @@
 ---
 title: "Tablet Enthusiasts Rejoice: New Split Keyboard Functionality Debuts on Gboard!"
-date: 2024-09-05T07:51:58.808Z
-updated: 2024-09-06T07:51:58.808Z
+date: 2024-09-10T10:50:31.437Z
+updated: 2024-09-11T10:50:31.437Z
 tags:
   - android
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de2b915844ef28bdfbf11f7f0.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Tablet Enthusiasts Rejoice: New Split Keyboard Functionality Debuts on Gboard!
 
 There are very few things that are as annoying as trying to type something on a tablet. If you're holding it with both of your hands, it can be hard to reach the keyboard keys with your thumbs. Luckily, the Gboard keyboard has a solution, which is now rolling out to Android tablets.
@@ -29,18 +31,20 @@ There are very few things that are as annoying as trying to type something on a 
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Gboard-Split-Keyb-1.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _9to5Google_
 
  We should remember Google is also actively trying to revitalize Android tablets --- after all, Google not only launched [a foldable phone](https://some-skills.techidaily.com/the-ultimate-insight-into-dji-inspire-2-for-2024/) but also [its first tablet in years](https://youtube-help.techidaily.com/in-2024-navigating-the-shadows-an-overview-of-youtubes-unlisted-videos/). It wouldn't be far-fetched to think that the timing for this rollout is related to that device's launch. Google's push is towards big-screen devices in general, and Gboard was one of the first devices to get adapted to big screens. It was just a matter of time before it made it to tablets as well.

@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 10 Essential Gboard Functions for Enhanced Typing on Android Devices
-date: 2024-09-05T07:51:56.865Z
-updated: 2024-09-06T07:51:56.865Z
+date: 2024-09-10T10:50:29.688Z
+updated: 2024-09-11T10:50:29.688Z
 tags:
   - android
 categories:
@@ -9,26 +9,8 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/Gboard-hero.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover the Top 10 Essential Gboard Functions for Enhanced Typing on Android Devices
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Adjust the Height](https://howto.techidaily.com/how-to-unbrick-a-dead-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
@@ -48,44 +30,88 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Go to &quot;Keyboard Height.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/2021-08-23_16-52-26.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  The great thing about a virtual keyboard is you can customize it to fit your typing needs. That includes the size of your hand. [Gboard allows you to adjust the height of the keyboard](https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-pro-by-drfone-ios/) from "Extra-Short" all the way to "Extra-Tall." Make it fit your fingers.
 
 Related: [How to Adjust Gboard's Height on Android](https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-apple-iphone-11-pro-by-drfone-ios/) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Turn on the Number Row
 
 ![Turn on the number row.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_15-47-38.jpg) 
 
  By default, Gboard puts the numbers behind the "?123" key. However, if you type numbers a lot---like you probably do---you should [add a permanent number row to the top of the keyboard](https://screen-mirroring-recording.techidaily.com/updated-superior-live-streaming-and-conferencing-apps-for-2024/). Simply go to Gboard Settings > Preferences > Enable "Number Row."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Change the Theme
 
 ![Choose a Gboard theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_15-49-50.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Gboard has a wide variety of themes to help you personalize the keyboard to your liking. You can have a "System Auto" theme to match the system theme of Android---or to choose a bunch of colors and even images. Gboard even lets you decide if you want borders on the keys. Go to Gboard Settings > Themes to choose one.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Create Emoji Mash-Ups
 
 ![An emoji mash-up of fire and thinking.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/emoji-mashup-hero.png?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Gboard's most fun feature might be the "[Emoji Kitchen](https://graphic-issues.techidaily.com/gpu-recognition-error-fix/)." It allows you to create brand new---usually pretty weird---emoji by mashing up two of them. 🔥+🤔= a flame with a thinking face, for example. It's super fun to play around with, and you can create some amazing custom emoji.
 
 Related: [How to Create Emoji Mash-Ups Using Gboard](https://graphic-issues.techidaily.com/gpu-recognition-error-fix/) 
@@ -94,53 +120,99 @@ Related: [How to Create Emoji Mash-Ups Using Gboard](https://graphic-issues.tech
 
 ![gboard clipboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/2020-09-28_12-00-23.jpg?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You probably know you can copy and paste things on your Android device, but where is all of it actually stored? Android does have a clipboard, and [Gboard is one of the easiest ways to access it](https://screen-activity-recording.techidaily.com/new-the-essentials-of-webcam-capture-with-free2x-app/). Simply tap the clipboard icon in the toolbar and you'll see a list of recent things you copied.
 
 Related: [How to Access Your Clipboard on Android](https://screen-activity-recording.techidaily.com/new-the-essentials-of-webcam-capture-with-free2x-app/) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Turn Off Keyboard Sounds
 
 ![Turn off keypress sounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_15-56-49.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  A virtual keyboard doesn't have the sound of a real keyboard---and you might like it that way. Thankfully, it's easy to [turn off the keypress sounds in Gboard](https://extra-resources.techidaily.com/boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options-for-2024/). Go to the Gboard Settings > Preferences > Disable "Sound on Keypress."
 
 Related: [How to Turn Off the Keyboard Sound on Any Device](https://extra-resources.techidaily.com/boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Enable or Disable Autocorrect
 
 ![Turn off autocorrect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_15-59-30.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Autocorrect is one of those things that you either love or hate. The good news is [you don't have to use it](https://screen-sharing-recording.techidaily.com/updated-top-3g-networks-and-plans-for-gamers-on-a-budget-for-2024/) if you find it gets in your way more than it helps. To turn off ([or on](https://some-skills.techidaily.com/updated-the-comprehensive-blueprint-to-powerdirectors-full-potential/)) autocorrect in Gboard, go to Settings > Text Correction > Disable "Auto Correction."
 
 Related: [How to Turn off Autocorrect for Android](https://screen-sharing-recording.techidaily.com/updated-top-3g-networks-and-plans-for-gamers-on-a-budget-for-2024/) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Add Words and Phrases to the Dictionary
 
 ![Add the word to the dictionary.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/01/2022-01-07_17-00-05.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Autocorrect is pretty decent when it comes to correcting common words, but what about those words and phrases that are unique to you? Things like names, obscure towns or cities, street names, and pet names may not be known by Gboard. [You can add these things to the dictionary](https://data-wizards.techidaily.com/avoiding-typical-video-setbacks-with-proven-fixes/) so Gboard doesn't try to fix them in the future.
 
@@ -150,12 +222,20 @@ Related: [How to Add a Word or Phrase to Android's Autocorrect Dictionary](https
 
 ![Turn off haptic feedback.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_16-04-27.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Keyboard vibration---or "haptic feedback"---is there to help you "feel" when you press keys on the flat touchscreen surface. However, you might not like the vibration, or maybe you just don't want it to be so strong. [You can turn off haptic feedback altogether](https://instagram-videos.techidaily.com/updated-sequential-image-storytelling-on-ig-for-2024/) or fine-tune the vibration strength.
 
 Related: [How to Turn Off Keyboard Vibration on Android](https://instagram-videos.techidaily.com/updated-sequential-image-storytelling-on-ig-for-2024/) 

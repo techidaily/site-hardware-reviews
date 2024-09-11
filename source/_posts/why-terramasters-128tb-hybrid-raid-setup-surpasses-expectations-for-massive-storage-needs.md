@@ -1,7 +1,7 @@
 ---
 title: Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs
-date: 2024-09-05T07:51:55.588Z
-updated: 2024-09-06T07:51:55.588Z
+date: 2024-09-10T10:50:28.613Z
+updated: 2024-09-11T10:50:28.613Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs
 
 Professionals and hobbyists who deal with a boatload of data should check out the new TerraMaster D8 Hybrid, an eight-bay drive enclosure that combines HDD capacity with SSD speed. It looks impressive, and you can save $100 on your pre-order during TerraMaster's crowdfunding campaign.
@@ -25,12 +33,20 @@ Professionals and hobbyists who deal with a boatload of data should check out th
 
 ![A diagram of the D8 Hybrid with HDDs labeled as 'cold' data and SSDs labeled as 'hot' data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 TerraMaster
 
  Anyone who needs _this much_ storage probably wants some data redundancy. The D8 Hybrid always leaves its M.2 SSDs in Single Disk mode, meaning that they're treated as a large, ultra-fast storage pool. If you set the slower HDDs to RAID 1, they'll mirror the contents of your SSDs and serve as a backup in case of a drive failure. Those who prefer to maximize both storage capacity and speed can choose between RAID 0, Single Disk, or JBOD modes.

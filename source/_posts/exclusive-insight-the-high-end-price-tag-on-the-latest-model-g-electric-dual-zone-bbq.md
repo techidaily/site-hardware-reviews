@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ"
-date: 2024-09-05T07:51:52.275Z
-updated: 2024-09-06T07:51:52.275Z
+date: 2024-09-10T10:50:25.525Z
+updated: 2024-09-11T10:50:25.525Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81e7fb9a2b0bcd4cf8d7ba0d8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Assembling the Model G was straightforward & it has the convenience of electric power, but the cooking experience left much to be desired.
@@ -37,22 +33,44 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
  It’s tempting to re-evaluate your outdoor cooking setup when grilling season rolls around each year. I thought I would fall in love with the [Current Model G Dual Zone Grill](https://www.currentbackyard.com/current-330-dual-zone-grill-cart) with its convenient electric power. In the end, it performed okay, but I wasn’t blown away like I was expecting to be.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  What’s the Current Model G and How Does It Work?
 
 ![Front screen on the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/front-screen-on-the-current-model-g-dual-zone-grill.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
  The Current Model G Dual Zone Grill is all-electric, meaning it only needs a 110V wall outlet for power. This is what initially attracted me to it. Using electricity should be much simpler than keeping wood pellets around, monitoring propane, or cleaning up charcoal.
@@ -69,6 +87,20 @@ Close
 
  I didn’t mind the app’s minimal approach, but often the sparseness didn’t result in easier-to-find controls, just limited ones. The app lacked substance too, with few recipes and discovery items. Still, I liked being able to control the dual zones with my phone, either locally or remotely.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  I’m Not Trading In My Pellet Smoker Just Yet
 
 ![the front of the Current Model G Dual Zone Grill with the lid open, nothing on the grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-the-lid-open-nothing-on-the-grill.JPG) 
@@ -83,12 +115,6 @@ Tyler Hayes / How-To Geek
 
 ![Burgers cooking on the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/burgers-cooking-on-the-current-model-g-dual-zone-grill.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  While the unit is small enough for an apartment balcony or a condo patio, I thought its 422-inch cooking area was sufficient for a family meal. It might not be ideal for a big party, but I don’t think this is one of its weak points.
@@ -101,24 +127,40 @@ Tyler Hayes / How-To Geek
 
 ![Looking at the clip inside the Current Model G Dual Zone Grill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/looking-at-the-clip-inside-the-current-model-g-dual-zone-grill.JPG) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Tyler Hayes / How-To Geek
 
 The black plastic clip kept coming out of its square hole.
 
  Although the grill was easy to assemble, I did notice a few things that concerned me about its long-term durability. At least one plastic clip holding the side panel in place had become detached and wouldn’t stay clipped after about a month. The overall ricketiness of the frame while rolling it on my (relatively flush) backyard pavers gave me pause. The add-on side panels provided a nice storage area, but they didn't keep wind-blown dirt and drops off rain from getting inside.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Is the Current Model G Dual Zone Grill Worth Spending Money On?
 
 ![the front of the Current Model G Dual Zone Grill with its cabinet door open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-front-of-the-current-model-g-dual-zone-grill-with-its-cabinet-door-open.JPG) 

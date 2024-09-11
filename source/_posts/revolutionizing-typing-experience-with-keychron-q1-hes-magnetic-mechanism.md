@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Typing Experience with Keychron Q1 HE's Magnetic Mechanism
-date: 2024-09-05T07:51:53.415Z
-updated: 2024-09-06T07:51:53.415Z
+date: 2024-09-10T10:50:26.571Z
+updated: 2024-09-11T10:50:26.571Z
 tags:
   - hardware
 categories:
@@ -9,13 +9,21 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663002999_8a27c4c961_o.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Revolutionizing Typing Experience with Keychron Q1 HE's Magnetic Mechanism
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -26,6 +34,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Keychron is entering a new field of keyboards with its [Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard). If you've been interested in what magnetic switches are all about, this keyboard is sure to sate your curiosity. It convinced me that these switches are the future.
 
 ![Keychron Q1 Carbon Black](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/keychron-q1-carbon-black.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -123,6 +145,26 @@ Expand
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Price and Availability
 
  The Keychron Q1 HE retails for $219\. Only the Carbon Black colorway is available at launch, but you can update the knob to a variety of types, as well as customize your Q1 HE on the [Keychron website](https://www.keychron.com/pages/customize-your-keychron-q1-he).
@@ -203,22 +245,38 @@ Expand
 
 Expand 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Design: Sturdy, With a Premium Feel
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663109255_5c9feda0fa_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  The first thing I noticed when I got this keyboard was just how heavy it was. The Keychron Q1 HE's metal body adds a fair amount of heft compared to plastic, and while I was testing it, the keyboard did not move around my desk mat like lighter keyboards would.
@@ -237,18 +295,6 @@ Jerome Thomas / How-To Geek
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663002984_f2992c0a1f_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The standout aspect of the Keychron Q1 HE is the use of magnetic switches as opposed to normal mechanical switches. What this boils down to is that instead of the switch sending a manual signal that it's pressed with electricity and pins, magnets will send the signals.
@@ -267,12 +313,20 @@ Jerome Thomas / How-To Geek
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard settings switches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662647656_67083e17b3_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  The Keychron Q1 HE is made for gaming, but it's also a great productivity keyboard. With a smooth and quiet typing experience straight out of the box, you really can't go wrong here. Since you can switch easily between Mac and Windows modes (with swappable keycaps to match) and between wired and wireless modes, this keyboard is easy to use with any device you have.
@@ -285,12 +339,20 @@ Jerome Thomas / How-To Geek
 
 ![53662860768_5b90521472_oThe Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with included accessories and box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662860768_5b90521472_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  The [Keychron Q1 HE](https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-keyboard) is a great keyboard that offers an excellent typing experience, whether you plan to use it for gaming or productivity. The magnetic switches are smooth and quiet, and the ability to adjust actuation points is a boon for hardcore gamers. Besides some minor slip-ups, this is a keyboard worth the investment.
@@ -299,12 +361,6 @@ Jerome Thomas / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Keychron Q1 HE
 
 8/ 10 

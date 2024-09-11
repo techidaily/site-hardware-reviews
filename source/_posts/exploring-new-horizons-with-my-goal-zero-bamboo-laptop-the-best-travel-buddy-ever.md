@@ -1,7 +1,7 @@
 ---
 title: Exploring New Horizons with My Goal Zero Bamboo Laptop - The Best Travel Buddy Ever!
-date: 2024-09-05T07:51:54.114Z
-updated: 2024-09-06T07:51:54.114Z
+date: 2024-09-10T10:50:27.248Z
+updated: 2024-09-11T10:50:27.248Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,22 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-woman-in-a-beach-chair-using-a-gpd-micro-with-a-landscape-view-in-the-background.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exploring New Horizons with My Goal Zero Bamboo Laptop - The Best Travel Buddy Ever!
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * GPD Micro-PC is a tiny, inconspicuous laptop suitable for travel, that runs full Windows or Linux.
@@ -37,18 +33,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The GPD Micro-PC is a tiny laptop that (actually) fits in your pocket. It's got a tiny screen, a cramped keyboard, a so-so trackpad—and it's my favorite travel device! Here's why.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The GPD Micro-PC Might Be the Smallest Laptop Going Around (That Doesn’t Suck)
 
  The GPD is a fully featured laptop that runs full-fat Windows or Linux. It's got full sized USB, USB-C, HDMI and even a serial port! That's because it's designed for IT techs working in data centers, but that's not what I'm using it for. It's even smaller than GPD's other micro laptops and [handheld gaming PCs](https://facebook-video-recording.techidaily.com/new-eight-essential-free-fb-link-extractors-for-2024/) (if a little thicker).
@@ -61,40 +59,84 @@ _Seriously, it's small!_
 
  It's got a Celeron N4120 Quad Core processor, 8GB RAM, and 128GB SSD with a 7-inch screen, giving it enough oomph for some basic computing tasks. Rounding it out is a battery life of about 5 to 6 hours, and an incredibly robust build quality that puts it above similar mini laptops that you can find online. So what makes it so good for travel?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It's Inconspicuous
 
  Using your MacBook when traveling can make you a target for theft: Apple devices aren't really hard to spot with their big logos. PC laptops are also easily spotted (the current trend of putting RGB LEDs on every device doesn't help them fly under the radar), marking you as a potential victim. Not so with the GPD Micro-PC: it's an inconspicuous black blob, so you can tuck yourself away and quickly hammer out an email before continuing on with your journey without bringing attention to yourself.
 
  It's small size also means it's easy to quickly pull out of your pocket at airport security checks (rather than having to unpack your bag to find your laptop), and makes it easy to hide if you're concerned about leaving it in your hotel room.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It's a Full PC, Without Mobile OS Compromises
 
  The GPD Micro-PC runs a full Windows or Linux operating system. While iOS and Android have come a long way, there are still some things that are just better done on a real computer. I can run a full desktop version of Outlook and Office, Firefox with all of my desktop add-ons and tweaks, and then, for heavy tasks that need some extra computing power, remote desktop to my home PC.
 
  Be warned though, if you do any serious typing, a compact USB keyboard is a must as the built-in keyboard is really better used with your thumbs like an old BlackBerry. There's also no webcam, though I consider this an advantage, as it means I can't be dragged into a Zoom meeting while on holiday.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  It's a Mobile Media Center
 
  With a full-sized HDMI port, you can connect your Micro-PC to your hotel TV and use it to watch whatever you want. This is especially cool if you're traveling overseas and want to access the Netflix library from your home country.To get around hard-to-reach hotel TVs, I usually take my [wireless HDMI adapters](https://some-skills.techidaily.com/updated-syncing-voice-with-images-online/) with me.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It's Important to Stay Secure When On The Road
 
  By encrypting your Windows or Linux partition on your laptop, you can make sure that all the data on it is useless to thieves. For additional security, you can install a [privacy VPN](https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-14-pro-smoothly-by-drfone-ios/) or take a [travel router](https://facebook-record-videos.techidaily.com/new-in-2024-essential-selection-the-greatest-free-editing-software/) that secures all of your devices traffic.

@@ -1,7 +1,7 @@
 ---
 title: "Transparent Brilliance Unveiled: The Second Look at the Nothing Phone"
-date: 2024-09-05T07:51:58.119Z
-updated: 2024-09-06T07:51:58.119Z
+date: 2024-09-10T10:50:30.814Z
+updated: 2024-09-11T10:50:30.814Z
 tags:
   - android
 categories:
@@ -9,13 +9,21 @@ categories:
 thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620b0dde812294a010c625a831.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transparent Brilliance Unveiled: The Second Look at the Nothing Phone
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -25,18 +33,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 * [Nothing OS: Bold, For Better or Worse](https://facebook-video-recording.techidaily.com/new-top-10-undiscovered-memelists-on-facebook-for-2024/)
 * [Should You Buy the Nothing Phone (2)?](https://www.howtogeek.com/nothing-phone-2-review/#should-you-buy-the-nothing-phone-2)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The Nothing Phone (2) offers a unique design with its transparent back and LED lights, setting it apart from other smartphones on the market.
@@ -48,6 +44,20 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  Last year’s Nothing Phone was a great first foray into smartphones for the company—though former OnePlus founder Carl Pei is no stranger to the space. One of the biggest stories this time around is availability. Unlike the original, the Nothing Phone (2) is available for purchase in the US. But is it worth the $599 price tag? Let’s find out.
 
 ![Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/nothing-phone-2.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -134,12 +144,6 @@ Expand
 
 [$599 at Nothing](https://us.nothing.tech/pages/phone-2?variant=42721597685912/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Design and Display: Something to See
 
 ![Front of the Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-time-displayed-on-the-nothing-phone-2-lock-screenjpg_53041301166_o-2.jpg) 
@@ -152,12 +156,6 @@ Hannah Stryker / How-To Geek
 
 ![Changing volume on the Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/changing-the-volume-on-the-nothing-phone-2jpg_53041779838_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The most eye-catching feature is the Glyph system, which consists of several LED strips placed around the back of the phone. These lights can display different patterns depending on what’s happening. For example, they can show your battery level when charging, custom patterns for notifications, display the volume level, act as a flash for your camera, and be used as a flashlight. Nothing’s Glyph Composer app allows you to create your own unique light patterns as well.
@@ -166,12 +164,6 @@ Hannah Stryker / How-To Geek
 
 ![Port and speakers on Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/charging-port-speaker-and-sim-card-tray-on-the-bottom-of-the-nothing-phone-2jpg_53041300461_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Thanks to the glass and aluminum construction, the Nothing Phone (2) has a very nice feel for a $599 phone. There’s not the plastic-y, lightweight feeling that you might find in some mid-range devices. Sadly, the Nothing Phone (2) only has an IP54 rating for [splash and dust resistance](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/)—it can get a little wet but shouldn’t be submerged in water. The other knock on the hardware is the haptic feedback motor—it feels very cheap.
@@ -184,18 +176,6 @@ Hannah Stryker / How-To Geek
 
 ![Charging light on the Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/charging-light-on-the-nothing-phone-2jpg_53041482584_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The Nothing Phone (2) is powered by the Qualcomm Snapdragon 8 Plus Gen 1 chipset. This is the same processor that can be found in the [Samsung Galaxy Z Fold 4](https://www.reviewgeek.com/128886/samsung-galaxy-z-fold-4-review-an-enthusiasts-dream/). The phone is available with 8GB or 12GB of RAM—I’ve been using the 12GB model ($699). The 8GB RAM model has 128GB of storage, while the 12GB models are available with 256GB or 512GB.
@@ -204,34 +184,44 @@ Hannah Stryker / How-To Geek
 
 ![Nothing Phone 2 charging cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/accessories-provided-with-the-nothing-phone-2jpg_53041480359_o-2.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  On the battery front, the Nothing Phone (2) has a 4700mAh battery. I had no issues getting through a full day with juice to spare. For the times when you need a quick top-off, it supports fast charging at up to 45W with the included charger, which can give you a full charge in about an hour. It also supports wireless charging at up to 15W, and reverse wireless charging at up to 5W.
 
  While battery life is generally not something you have to worry about on mid-range phones—that’s certainly the case here—performance can be a mixed bag. The good news is the Nothing Phone (2) offers an experience that punches well above its weight class.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Cameras: Above Average
 
 ![Nothing Phone 2 rear cameras](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/rear-camera-on-the-nothing-phone-2-1jpg_53041479929_o-2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  The Nothing Phone (2) has a dual camera setup on the back, consisting of a 50MP main camera and a 50MP wide-angle camera. The main camera takes excellent photos in good lighting conditions, with plenty of detail and not overly saturated colors. Shutter speed has been improved this time around, and it does appear to actually work. I didn’t get many blurry photos of fast-moving kids or pets.
@@ -250,21 +240,43 @@ Hannah Stryker / How-To Geek
 
 Close 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Nothing OS: Bold, For Better or Worse
 
 ![Nothing Phone 2 home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-home-screen-on-the-nothing-phone-2jpg_53041779013_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The Nothing Phone (2) runs on Nothing OS, which is based on Android 13 at the time of publishing. I am pretty picky when it comes to [software skins](https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y200e-5g-location-drfone-by-drfone-virtual-android/), but I generally like what Nothing is doing here. Nothing OS maintains much of the “[stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/)” feel while adding some useful features. Lock screen widgets, for example, is a great addition. These widgets also appear on the always-on display, which is great.
 
 ![Nothing Phone 2 black and white icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-app-tray-on-the-nothing-phone-2jpg_53041684260_o-2.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Hannah Stryker / How-To Geek
 
@@ -272,22 +284,38 @@ Hannah Stryker / How-To Geek
 
  I generally like the vibe of Nothing OS, but it also feels like a third-party theme that’s trying too hard at times. However, this was my first experience with Nothing OS, and it’s quickly become one of my favorite Android skins. I always appreciate it when an OEM doesn’t stray too far from the “stock Android” look.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the Nothing Phone (2)?
 
 ![Person making a call on Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/person-making-a-call-on-the-nothing-phone-2jpg_53041685000_o-2.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  There’s no question that the [Nothing Phone](https://us.nothing.tech/products/phone-2/)[(2)](http://us.nothing.tech/products/phone-2) is a great smartphone with a lot of value for its price. It has an eye-catching design, a beautiful and smooth display, powerful performance, long-lasting battery life, and mostly clean, minimal software. It also has some innovative features that make it stand out from the crowd, such as the Glyph LED light system and some added software features in Nothing OS.
@@ -295,6 +323,26 @@ Hannah Stryker / How-To Geek
  The only minor drawbacks of the phone are the “just okay” cameras and the IP54 rating. Other phones in this price range—such as the Google Pixel 7—offer much better IP67 protection.
 
 ![Nothing Phone 2 and a notebook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-nothing-phone-2-and-a-notebookjpg_53041482744_o-2.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 Hannah Stryker / How-To Geek
 
@@ -304,7 +352,35 @@ Hannah Stryker / How-To Geek
 
 ![Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/nothing-phone-2.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 #####  Nothing Phone 2
 

@@ -1,7 +1,7 @@
 ---
 title: "The Lenovo Chromebox Mini: A New Compact Powerhouse for DIY Enthusiasts and Tech Explorers"
-date: 2024-09-05T07:51:52.599Z
-updated: 2024-09-06T07:51:52.599Z
+date: 2024-09-10T10:50:25.817Z
+updated: 2024-09-11T10:50:25.817Z
 tags:
   - hardware
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d131fe0f5a053db33ae9c232d.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## The Lenovo Chromebox Mini: A New Compact Powerhouse for DIY Enthusiasts and Tech Explorers
 
 Lenovo is now selling the smartphone-sized Chromebox Micro, a tiny ChromeOS computer that's intended for retail signage but may be useful to hobbyists, tinkerers, and DIYers.

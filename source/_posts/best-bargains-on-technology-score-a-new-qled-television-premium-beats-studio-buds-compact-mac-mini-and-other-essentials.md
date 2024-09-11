@@ -1,7 +1,7 @@
 ---
 title: "Best Bargains on Technology: Score a New QLED Television, Premium Beats Studio Buds, Compact Mac Mini, and Other Essentials!"
-date: 2024-09-05T07:51:52.076Z
-updated: 2024-09-06T07:51:52.076Z
+date: 2024-09-10T10:50:25.345Z
+updated: 2024-09-11T10:50:25.345Z
 tags:
   - hardware
 categories:
@@ -13,22 +13,24 @@ thumbnail: https://thmb.techidaily.com/1c4a4d46a04bc65b65a32c086aba8a7780a088299
 
 The warm weather is here, and that means it's time for BBQs, relaxing by the pool, or vacations. Get a discounted wireless meat thermometer, save $120 on the best Apple Mac Mini deal yet, or get some new earbuds for upcoming travels.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Amazon Fire TV 55-inch Omni 4K Series for $429 ($170 Off)](https://www.amazon.com/introducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv/dp/B09N6ZRH6C?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-06-11 at 11.03.15 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-11-at-11-03-15-am.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Amazon Fire TV 55 Omni QLED Series 4K UHD
 
 $430 $600 Save $170 
@@ -39,22 +41,44 @@ This TV by Amazon has a 55-inch QLED screen, a 4K resolution, and a relatively a
 
  If you want to upgrade the living room or outfit the patio with a new QLED TV, Amazon's stunning 55-inch 4K Omni series smart TV is available for [nearly 30% off](https://www.amazon.com/introducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv/dp/B09N6ZRH6C?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term).
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## [Apple 2023 Mac Mini (M2) Desktop with 256GB for $479 ($120 Off)](https://www.amazon.com/dp/B0BSHGHGXR/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term) 
 
 ![apple mini](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/apple-mini.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Apple Mac Mini M2 (2023)
 
 $499 $599 Save $100 
@@ -65,22 +89,24 @@ With an 8-core CPU and 10-core GPU, 8GB of unified RAM, a 256GB SSD, and Gigabit
 
  Apple's Mac Mini desktop computer is an extremely capable machine all in a small package. With [macOS 15 Sequoia coming soon](https://youtube-tips.techidaily.com/approved-youtube-editing-essentials-the-ultimate-guide-post-upload-refinements/), grab this system [while it's $120 off](https://www.amazon.com/dp/B0BSHGHGXR/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term).
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## [ThermoPro (500FT) Wireless Meat BBQ Thermometer for $63 ($37 Off)](https://www.amazon.com/ThermoPro-TempSpike-Thermometer-Bluetooth-Rotisserie/dp/B0B48NL6L8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-06-11 at 10.38.53 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-11-at-10-38-53-am.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  ThermoPro TempSpike Wireless Thermometer
 
 $63 $100 Save $37 
@@ -91,12 +117,26 @@ Using this Bluetooth-equipped smart meat thermometer, you can check the temperat
 
  If you love a good BBQ or smoking meat, you'll love this wireless meat thermometer with app support. Grab one for yourself or for Dad, especially considering it's [37% off right now](https://www.amazon.com/ThermoPro-TempSpike-Thermometer-Bluetooth-Rotisserie/dp/B0B48NL6L8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term).
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## [Beats Studio Buds Wireless Earbuds for $80 ($70 Off)](https://www.amazon.com/gp/product/B096SV8SJG/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term) 
 
 ![Beats Studio Bud headphones in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot-2023-12-19-at-1-03-50-pm.jpg) 
@@ -110,6 +150,26 @@ The Beats Studio Buds are a great AirPod alternative, with advanced features lik
  Apple's Beats Studio Buds are down to the lowest price we've seen yet. Elevate your listening experience and grab a pair of these true wireless [noise-canceling earbuds for only $80](https://www.amazon.com/gp/product/B096SV8SJG/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003590&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-qled-tv-apple-mac-beats-earbuds-phones%2F&asc%5Fcampaign=Short-Term).
 
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  More Tech Deals
 

@@ -1,7 +1,7 @@
 ---
 title: Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen
-date: 2024-09-05T07:51:53.331Z
-updated: 2024-09-06T07:51:53.331Z
+date: 2024-09-10T10:50:26.491Z
+updated: 2024-09-11T10:50:26.491Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/amd-ryzen-9000-hero.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen
 
 There used to be a time where we would get new Ryzen chips every year, but AMD has slowed down a bit. The company switched to a biannual release schedule, and as a result, we've only really seen minor revisions to what AMD released as the Ryzen 7000 series back in 2022\. Now, though, we have proper successors. Zen 5 is here, and with it, AMD has introduced both the Ryzen 9000 and the Ryzen AI 300 ranges.

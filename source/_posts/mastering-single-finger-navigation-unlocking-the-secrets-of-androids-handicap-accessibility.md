@@ -1,7 +1,7 @@
 ---
 title: "Mastering Single-Finger Navigation: Unlocking the Secrets of Android's Handicap Accessibility"
-date: 2024-09-05T07:51:56.450Z
-updated: 2024-09-06T07:51:56.450Z
+date: 2024-09-10T10:50:29.331Z
+updated: 2024-09-11T10:50:29.331Z
 tags:
   - android
 categories:
@@ -9,13 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c6d7712345148ce88c83b02a.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Mastering Single-Finger Navigation: Unlocking the Secrets of Android's Handicap Accessibility
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -25,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
  There's no denying that phones have gotten big, sometimes comically so. It can be nearly impossible to use a modern Android phone with one hand. That's where "One-Handed Mode" comes in, and many Android phones have it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What is One-Handed Mode?
 
  If you're unfamiliar with "[One-Handed Mode](https://screen-activity-recording.techidaily.com/new-customize-screenshot-storing-on-mac-for-2024/)," it's simply a feature that shifts the UI to make things easier to reach. On some phones, this means sliding the contents of the display down to the bottom half of the screen. Some devices also allow you to shrink the entire display down to a corner of the screen. This isn't a permanent thing, but it's handy in certain situations. 
@@ -43,6 +59,26 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
 ![Swipe down and tap the gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-49-37.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Scroll to the bottom of the Settings and select "Advanced Features."
 
 ![Scroll to the bottom of the Settings and select "Advanced Features."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-50-07.jpg) 
@@ -51,98 +87,128 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
 ![Select "One-Handed Mode."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-50-44.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Toggle the switch on at the top of the screen.
 
 ![Toggle the switch on at the top of the screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-51-14.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, you can choose how One-Handed Mode is activated. If you're using gesture navigation, you can only choose "Gesture." But if you use the three-button layout, you also have the option to double-tap the home button.
 
 ![Choose how to enable One Handed Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-52-52.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  In One-Handed Mode, you can tap the arrow icon to move the shrunken screen to the left or right. You can also grab the corner to resize the screen. Tap on any empty screen space to exit.
 
 ![One Handed Mode options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-54-27.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  One-Handed Mode for Google Pixel Phones
 
  To get started with One-Handed Mode on a [Google Pixel phone](https://vp-tips.techidaily.com/updated-2024-approved-breaking-the-loop-fixing-frozen-photo-booth-videos/), swipe down twice from the top of the screen to reveal the Quick Settings menu, and then tap the gear icon.
 
 ![Swipe down twice and tap gear icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-10_16-45-27.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, scroll down and select "System."
 
 ![Next, scroll down and select "System."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-39-47.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Now, select "Gestures."
 
 ![Now select "Gestures."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-40-17.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Lastly, go to "One-Handed Mode."
 
 ![Lastly, go to "One-Handed Mode."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-57-50.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  Toggle the switch to turn on One-Handed Mode.
 
 ![Toggle the switch at the top to turn on One-Handed Mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-41-27.jpg) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Google gives you the option to have the One-Handed Mode gesture slide the display down or pull down the notifications.
 
 ![One Handed Mode options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/2023-08-02_16-46-09.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With that out of the way, you can activate One-Handed Mode by swiping down on the home button or gesture bar. To leave One-Handed Mode, swipe up on the same spot or tap the blank area at the top of the screen.
 
 ![How to use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/2021-06-22_13-42-18.jpg) 

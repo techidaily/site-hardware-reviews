@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Accessibility: Real-Time Transcription Feature Added to Pixel Smartphone Calls"
-date: 2024-09-05T07:51:57.680Z
-updated: 2024-09-06T07:51:57.680Z
+date: 2024-09-10T10:50:30.433Z
+updated: 2024-09-11T10:50:30.433Z
 tags:
   - android
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5ea703a9227f88bc7f132643b.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Enhanced Accessibility: Real-Time Transcription Feature Added to Pixel Smartphone Calls
 
 Google loves its Pixel Feature Drops, and the latest one brings some exciting features to the devices. Perhaps most interesting is the inclusion of [live captions](https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-htc-by-drfone-android/) during a phone call, so you can read your conversations as you go.

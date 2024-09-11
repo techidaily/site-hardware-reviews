@@ -1,7 +1,7 @@
 ---
 title: "Meet the Game-Changer in Smartphones: The New Google Pixel Fold"
-date: 2024-09-05T07:51:56.467Z
-updated: 2024-09-06T07:51:56.467Z
+date: 2024-09-10T10:50:29.346Z
+updated: 2024-09-11T10:50:29.346Z
 tags:
   - android
 categories:
@@ -9,18 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a66fb89768e9cd878c5a4c7b.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Meet the Game-Changer in Smartphones: The New Google Pixel Fold
 
 Google has been rumored to be working on a [foldable smartphone](https://fox-blue.techidaily.com/step-beyond-reality-reviewing-lgs-virtual-vision-for-2024/) for years, and a few [recent leaks](https://www.reviewgeek.com/152356/are-these-the-first-official-pixel-fold-renders/) pointed to a launch at [next week's Google I/O event](https://ai-video-apps.techidaily.com/new-2024-approved-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro/). Surprisingly, Google went ahead and revealed the device today.

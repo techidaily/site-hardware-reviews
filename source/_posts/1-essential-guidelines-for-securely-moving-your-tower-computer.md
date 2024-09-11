@@ -1,7 +1,7 @@
 ---
 title: 1. Essential Guidelines for Securely Moving Your Tower Computer
-date: 2024-09-05T07:51:52.005Z
-updated: 2024-09-06T07:51:52.005Z
+date: 2024-09-10T10:50:25.275Z
+updated: 2024-09-11T10:50:25.275Z
 tags:
   - hardware
 categories:
@@ -9,20 +9,22 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-suitcase-with-some-clothes-and-a-pc-case.jpg
 ---
 
-## 1. Essential Guidelines for Securely Moving Your Tower Computer
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## 1. Essential Guidelines for Securely Moving Your Tower Computer
+
 ### Quick Links
 
 * [Remove the Graphics Card, CPU Cooler, and HDDs](https://extra-guidance.techidaily.com/2024-approved-newbies-navigation-to-net-worth-on-periscope/)
@@ -32,12 +34,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Secure the Cargo](https://graphic-issues.techidaily.com/reestablishing-communication-hdmi-between-gadgets-worked-again/)
 * [Build a Travel-Friendly Small Form Factor PC](https://screen-video-capture.techidaily.com/updated-groundbreenas-choosing-first-time-gamers-editing-apps/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Back up essential data to the cloud before transporting your PC.
@@ -48,12 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Before you start packing up your PC to transport it, back up all essential data to the cloud. There's always a small chance that your storage drives could break and take all your data with them.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remove the Graphics Card, CPU Cooler, and HDDs
 
  The first and most important step in preparing your desktop PC is to take out the [graphics card](https://android-unlock.techidaily.com/unlock-vivo-s17-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/), assuming your computer has one. Modern graphics cards are quite bulky and heavy, as they have heat sinks made of solid metal (usually aluminum), but they're only held by a single PCIe slot and a couple of screws that press the thin GPU I/O shield against the case.
@@ -64,6 +68,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A gaming PC with Kingston memory, RGB fans, lights, MSI CPU cooler, and GeForce RTX GPU.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/52647613799_89e2459914_o.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Justin Duino / How-To Geek
 
  If your PC uses an AIO cooler, you could consider leaving it in. AIO coolers are generally much easier to ship, despite the use of liquids and large radiators, because the radiator can be tightly mounted to the case.
@@ -71,6 +89,20 @@ Justin Duino / How-To Geek
  If you [still use an HDD](https://video-capture.techidaily.com/updated-2024-approved-obs-full-screen-troubles-now-under-control/), you should remove it from the drive bay. Hard drives have moving parts that are sensitive to shocks and vibrations. You don't want a small pothole to render your hard drive useless, so store it separately and make sure to put plenty of bubble wrap around it.
 
  Once you arrive at your destination, it'll only take a few minutes to reinsert the graphics card and HDD. The only "problematic" part is the CPU cooler because you'll have to reapply the thermal paste, so don't forget to bring a tube of the stuff with you.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Stuff the PC Like a Thanksgiving Turkey
 
@@ -80,20 +112,22 @@ Justin Duino / How-To Geek
 
 ![The internal components of an old, dusty computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1280305549.jpg) 
 
-[Only\_NewPhoto / Shutterstock.com](https://www.shutterstock.com/image-photo/inside-details-old-personal-computer-cooler-1280305549)
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+[Only\_NewPhoto / Shutterstock.com](https://www.shutterstock.com/image-photo/inside-details-old-personal-computer-cooler-1280305549)
+
 ##  Use the Case's Original Box for the PC
 
  If you still have the box that your PC case came in, that's the perfect box to transport the PC in. Not only is the box the right size, but it most likely has custom-shaped packaging foam that'll hold your case tightly on the edges.
@@ -110,12 +144,6 @@ Justin Duino / How-To Geek
 
 ![A pile of USB cables on a wood surface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53743808325_2c31e73b60_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
 ##  Secure the Cargo
@@ -124,18 +152,20 @@ Hannah Stryker / How-To Geek
 
  You can easily prevent this by using a [cargo net](https://www.amazon.com/TireTek-4x6-Bungee-Cargo-Net/dp/B07ZQP5QG7/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004063&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftips-to-safely-transport-your-desktop-pc%2F&asc%5Fcampaign=Evergreen) and strong [bungee cords](https://www.amazon.com/Cartman-Bungee-Cords-Assortment-Piece/dp/B00S7HKJ1I?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004063&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftips-to-safely-transport-your-desktop-pc%2F&asc%5Fcampaign=Evergreen) and [straps](https://www.amazon.com/Ratchet-Tie-Down-Straps-Alternative/dp/B01F7KSAGI?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004063&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftips-to-safely-transport-your-desktop-pc%2F&asc%5Fcampaign=Evergreen). If you don't have back seat passengers, a good place for your stuff is the footwell, as it's closer to the center of the car and on the floor, so it has nowhere to slide.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Build a Travel-Friendly Small Form Factor PC
 
  If you plan to bring your PC wherever you go, and you're [not a fan of gaming laptops](https://ai-video-editing.techidaily.com/updated-how-to-use-motion-blur-on-video-star-for-2024/) like me, building an SFF (Small Form Factor) PC is a great long-term investment (and it's hardly more expensive than a standard PC). SFF PCs are lighter and have a small footprint, so they're much easier to transport. There are some seriously travel-friendly PC cases out there, with features like [vertical GPU mounts](https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/) to mount the GPU in a more secure spot for travel and robust handles for effortless carrying.

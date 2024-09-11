@@ -1,7 +1,7 @@
 ---
 title: "Revamping the AMD Ryzen 5000 Series: The Allyn X Review & Future Desires"
-date: 2024-09-05T07:51:55.854Z
-updated: 2024-09-06T07:51:55.854Z
+date: 2024-09-10T10:50:28.844Z
+updated: 2024-09-11T10:50:28.844Z
 tags:
   - hardware
 categories:
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  The specs of the upcoming ASUS ROG Ally X, a refresh of the ASUS ROG Ally, are all but fully leaked, and I’m pretty satisfied with what I’m seeing. Here’s what I think about the ROG Ally X and what I want to see in the ROG Ally 2.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The ROG Ally X Packs Some Cool Upgrades
 
  It looks like ASUS tweaked or upgraded everything the community complained about with the [original ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/). We’re expecting a much bigger battery, an SD card slot that actually works, more storage, more [RAM](https://youtube-web.techidaily.com/ed-2024-approved-unlocking-youtube-success-top-video-strategies-to-explode-views/), and several other smaller upgrades.
@@ -33,18 +27,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![An ASUS ROG Ally.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/rog-ally-x.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ASUS
 
  The next big improvement is a larger battery. According to [Videocardz](https://videocardz.com/newz/asus-rog-ally-x-specs-leaked-24gb-lpddr5x-7500-memory-and-massive-80-wh-battery), which apparently acquired a document listing the official specs of the ROG Ally X, the new revision features an 80Wh cell, doubling the capacity of the original ROG Ally’s battery. This should hopefully allow the ROG Ally X to last two hours at its max TDP, considering I get about an hour when gaming at 25W.
@@ -61,18 +43,6 @@ ASUS
 
  While this is already a pretty strong collection of improvements, I’d like to see a couple more upgrades on the ROG Ally X.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Extra Improvements I'd Love to See in the ROG Ally X
 
  The most important change I’d like to see is ASUS removing the proprietary XG Mobile port and replacing it with a USB 4 or an Oculink port. Both can be used with any external GPU enclosure and the new wave of eGPUs that's coming from Chinese brands such as GPD and AYANEO.
@@ -83,12 +53,6 @@ ASUS
 
 ![ASUS ROG Ally Charging Clamp holding the charging cable, preventing it to exert force on the USB-C port.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/asus-rog-ally-charging-clamp-connected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Goran Damnjanovic / How-To Geek
 
  The linked report also mentions a new “Precision D-Pad” and I’m all for it. The D-Pad on the Ally isn’t _bad_, but it isn’t great either. Any improvement is welcome since it will most likely find its way to the ROG Ally 2.
@@ -97,13 +61,55 @@ Goran Damnjanovic / How-To Geek
 
  The Verge also mentioned that ASUS redesigned the back buttons, which are helpful but feel cheap and are hard to hold on the original Ally. Considering [how much I like using back buttons](https://some-skills.techidaily.com/the-best-ai-naming-assistants-for-podcast-innovation-for-2024/) when playing games, the redesigned back buttons on the ROG All X are an exciting development.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Things I Want to See on the Rog Ally 2
 
  If the ROG Ally 2 keeps the upgrades mentioned above, sheds some weight, and comes with a more powerful APU, I’ll be happy. But I’ll be even happier if it packs some of the following upgrades.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  A Trackpad
 
  I understand why the Ally X doesn’t feature a trackpad. To fit one, ASUS would have to completely redesign the chassis and rearrange the internal components. But the ROG Ally 2 should really come with one because having one makes navigating around Desktop Mode on my Steam Deck so much more enjoyable. I’m positive a trackpad would make navigating around Windows [almost pain-free](https://win-solutions.techidaily.com/overcoming-unexpected-shutdowns-in-cod-modern-warfare-3-game-application/), too, which is anything but on the ROG Ally.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  A Slightly Larger, OLED Screen
 
@@ -111,26 +117,28 @@ Goran Damnjanovic / How-To Geek
 
  That said, if I had to choose between an OLED screen without [variable refresh rate](https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/) (VRR) and an LCD screen with VRR, I’d pick the latter any day of the week. OLED screens are fantastic, but after experiencing VRR on my ROG Ally, I realized that VRR on gaming handhelds is essential.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  Taller Triggers
 
  The triggers on the Ally are pretty good. They have just the right resistance and pretty generous travel, but they’re just a tad too short for my taste. Triggers being even a half centimeter (a fifth of an inch) taller on the next ROG Ally would be great.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  A Physical Button for Switching Between Desktop and Controller Modes
 
 ![GPD Win 4 Mouse Controller Switch button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpd-mouse-controller-switch-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 GPD
 
  Virtually all handheld gaming PCs from GPD come with a physical switch for swapping between desktop and controller modes, and having one on the ROG Ally 2 would be awesome. That way, switching between modes would take just one step instead of four—opening the Command Center, going to the Control Mode toggle, toggling it, and then closing the Command Center.
@@ -147,11 +155,45 @@ GPD
 
  But if they could somehow pack Hall effect thumbsticks and make them work with Hall effect triggers on the ROG Ally 2, we wouldn’t have to worry about the joystick drift. If nothing else, analog sticks that are legitimately easier to replace or upgrade on the ROG Ally X (as ASUS claims) are a nice consolation prize.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ###  A Proper Budget Version
 
  The ROG Ally with the AMD Z1 APU isn’t a proper budget version of the ROG Ally. The price difference isn’t there, and the 1080p screen on the Z1 model is overkill for the level of gaming performance the Z1 offers.
 
  I’d like the ROG Ally 2 lineup to include a proper budget model—at least 30% more affordable than the high-end model, featuring a 900p screen instead of a 1080p panel.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  An APU That’s Designed for a Gaming Handheld
 
@@ -163,40 +205,58 @@ GPD
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Intel
 
  There are also rumors that NVIDIA is preparing an ARM-based [system on a chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC) with MediaTek that will have a beastly [iGPU](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/), so I can’t wait to see what's in store in the next 12-24 months and which of the future APUs will power the ASUS ROG Ally 2.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  32GB of Memory
 
  24GB of memory on the ROG Ally X is great, but considering just how memory-hungry modern AAA games are and how 8GB of video memory isn’t enough to play certain games with max textures, even at 1080p, I’d like for the ROG Ally 2 to pack 32GB of RAM. Increasing texture detail is one of the most visible yet least demanding ways to improve visuals in modern games, and more memory is necessary to make it happen.
 
  That way, we could reserve 10GB of memory for the iGPU and leave Windows and games with 22GB of RAM, which should be enough even for the most demanding games still set to arrive in this console generation.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Multiple Color Options
 
  This is a first-world problem, but I’d like to see the ROG Ally 2 arrive in multiple flavors.
@@ -207,12 +267,20 @@ Intel
 
 ![Miscrosoft Surface with its SSD Cover removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/miscrosoft-surface-ssd-cover.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Microsoft
 
  An SSD cover would mean we wouldn’t have to remove the entire back cover of our handhelds and instead just unscrew the SSD cover, replace the storage drive, screw the cover back, and continue with our day. This is yet another minor tweak that would make the lives of the ROG Ally 2 owners much easier.

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Room Audio: A Guide to Using Home Assistant"
-date: 2024-09-05T07:51:54.182Z
-updated: 2024-09-06T07:51:54.182Z
+date: 2024-09-10T10:50:27.311Z
+updated: 2024-09-11T10:50:27.311Z
 tags:
   - hardware
 categories:
@@ -9,26 +9,22 @@ categories:
 thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3b7699086866b0998ff7b7cb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Multi-Room Audio: A Guide to Using Home Assistant
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Home Assistant integrates with Spotify and other streaming music providers for smart home possibilities
@@ -49,16 +45,44 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Installing the Music Assistant addon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ma-addon.png) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Search for "Music Assistant" and select it. You can then install it into Home Assistant by clicking the "Install" button. Once Music Assistant is installed, access it directly from your Home Assistant UI.
 
 ![The Spotify playlist in Music Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/spotify-playlist.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Adding Spotify as a provider
 
  Now that Music Assistant is installed on your Home Assistant device, it's time to add Spotify as a music provider. Click the "Add Music Provider" button and select "Spotify."
@@ -69,17 +93,45 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
  Once you've logged in, your Spotify playlists, artists, and other data will be imported into Music Assistant, allowing you to enjoy your entire Spotify library on any connected smart speaker.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ###  Adding Other Streaming Music Providers
 
  If Spotify isn't your preferred music service, you can still use Home Assistant to enhance your music listening experience. Music Assistant supports a wide range of music providers including YouTube Music, Plex Media Server libraries, Deezer, Tidal, and many more.
 
  To set up Music Assistant with these alternative providers, simply select the desired provider within the Music Assistant interface, just as you would with Spotify.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Listening to Music All Over the House
 
@@ -87,15 +139,37 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Music Assistant playing Spotify music on a single speaker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ma-playing-on-one-speaker.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  For instance, I frequently use Music Assistant to play my Spotify playlists on the "Living Room" group, which includes a Google Nest Mini. However, I can easily expand the listening experience to my entire house by simply selecting the "Home" group in the Music Assistant interface.
 
 ![Music Assistant playing music throughout my house via the Home Group.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ma-home-group.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ###  Creating Speaker Groups
 
@@ -107,22 +181,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 ![Selecting media player group in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/media-player-group.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Add Group" window, enter the name of the group. Then, use the drop-down menu and add all the speakers you wish to your group.
 
 ![Adding a new group in Home Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-group.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once your devices are in the group, you will be able to select them from Music Assistant and listen to music all over the house. Create more groups to control separate zones, like all the speakers in your living room or outdoor speakers when you're entertaining outside.
 
 ---

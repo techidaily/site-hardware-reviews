@@ -1,7 +1,7 @@
 ---
 title: Apple Watch Update Enables Ring Pausing During Workouts
-date: 2024-09-05T07:51:52.959Z
-updated: 2024-09-06T07:51:52.959Z
+date: 2024-09-10T10:50:26.150Z
+updated: 2024-09-11T10:50:26.150Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/33.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Apple Watch Update Enables Ring Pausing During Workouts
 
 Everybody's excited about newly-announced functionality for the iPhone and the Mac. Thankfully, the Apple Watch got a decent amount of lovin' at WWDC 2024\. The watchOS 11 update arrives this fall with a mess of new features, including one that Activity Ring-addicted athletes are sure to love.

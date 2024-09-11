@@ -1,7 +1,7 @@
 ---
 title: Why Paddle Controllers Enhance My Gaming Experience - An Insider Look
-date: 2024-09-05T07:51:53.798Z
-updated: 2024-09-06T07:51:53.798Z
+date: 2024-09-10T10:50:26.948Z
+updated: 2024-09-11T10:50:26.948Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/8bitdo-ultimate-2-4g-controller-with-back-paddle-buttons-showed.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Why Paddle Controllers Enhance My Gaming Experience - An Insider Look
 
 ### Quick Links
@@ -24,12 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [A Paddle Controller Gives Me an Edge in Multiplayer Games](https://facebook-clips.techidaily.com/updated-in-2024-streaming-sounds-into-your-social-story-arcs/)
 * [On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level](https://fox-links.techidaily.com/updated-in-2024-elevate-your-drone-game-with-these-top-mods/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Remap often-used and hard-to-reach controls to rear paddle buttons for easier access.
@@ -37,6 +39,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Native support for rear buttons on devices like the Steam Deck and ROG Ally allows for in-depth mapping and modifier functions.
 
  The best thing about my 8Bitdo Ultimate 2.4G controller is the pair of paddle buttons on the back. Add to that the fact that both my Steam Deck and ROG Ally come with paddle buttons and I’ve gotten so used to this setup that I don’t want to game with an old-fashioned controller anymore.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Controls Hard to Reach? Remap to a Rear Paddle
 
@@ -46,24 +62,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Steam Deck OLED With a Focus on the new, orange, power button against a pitch black background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/steam-deck-oled-power-button.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Valve
 
  This was around the time I purchased a Steam Deck, which has _four_ paddle buttons. So, naturally, I started mapping bumpers to the paddles in most games, especially those that have moves you often use mapped to one or both triggers. Since then, I've never looked back.
 
  Considering that I have medium-sized hands, I found that using paddles is much more convenient than having to reach for bumpers. Nowadays, I use paddles instead of bumpers in most games I play. If you have small hands, I reckon back paddles could massively improve your gaming experience, especially on devices like the Steam Deck, which is not very friendly to gamers with small hands.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Rear Paddles Make Some Control Schemes Easier to Use
 
  But that’s not all. The two buttons I hate using on every controller are the thumbstick clicks, also known as L3 or LS and R3 or RS. They are hard to press on most controllers, yet you end up accidentally pressing them in high-tension moments, usually right when you don't want to. The most egregious example of a game with annoying L3/R3 mappings I’ve found to date is _Everspace 2_. A highly enjoyable spaceship shooter but, as those usually go, a game with a highly convoluted control scheme.
@@ -72,11 +96,45 @@ Valve
 
 ![rear-of-the-asus-rog-ally-3jpg_53307363035_o](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/12/rear-of-the-asus-rog-ally-3jpg_53307363035_o.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 Hannah Stryker / How-To Geek
 
  The solution is to remap L3 and R3 to the paddles, and the result is glorious. I can’t explain just how delightful it is not to have to press and hold the thumbsticks and instead use easy-to-reach and easy-to-press paddle buttons. Because of this, I even forgo using one of the two paddle buttons on my ROG Ally as a modifier in _Everspace 2_.
 
  Paddle buttons also allowed me to finally try playing racing games with manual transmission. I just can’t bother using manual on a regular controller because it’s either mapped to the bumpers, which are hard to reach, or face buttons, which leads to me pressing the wrong button in tense moments. Now, I can finally enjoy driving cars with manual shifting without needing a wheel, which is great considering [I much prefer gaming on my handhelds](https://visual-screen-recording.techidaily.com/new-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/) than on my PC.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  A Paddle Controller Gives Me an Edge in Multiplayer Games
 
@@ -86,12 +144,20 @@ Hannah Stryker / How-To Geek
 
  In shooters like _Call of Duty_, on the other hand, I can reload, jump, and crouch or slide without taking my thumb off the right thumbstick. This means I can always adjust my aim, even while reloading or sliding. For console players who have little choice but to use a controller, this can be a huge boon. You can get [a similar advantage](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/) in other FPS games since most of them have frequently used moves mapped to face buttons.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level
 
  While a regular paddle button controller is brilliant, rear buttons being natively supported, like on the Steam Deck and ROG Ally, is even better. On the two handhelds, you aren’t limited to copying other button mappings; you can map anything you like, including keyboard keys and key combos. On the Ally, I can use one of the two paddles as a modifier, practically doubling the number of buttons available.
@@ -100,12 +166,6 @@ Hannah Stryker / How-To Geek
 
 ![Sony's DualSense Edge controller rear paddles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_paddles.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony
 
  I just hope Microsoft, Sony, and Nintendo start natively supporting rear paddles sooner or later, and bring paddle buttons to their base controllers instead of keeping them exclusive to the [Xbox Elite](https://www.amazon.com/Elite-2-Controller-Black-Xbox-One/dp/B07SFKTLZM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002816&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-love-using-a-paddle-controller-for-gaming%2F&asc%5Fcampaign=Evergreen) and [DualSense Edge](https://www.amazon.com/PlayStation-DualSense-Edge-Wireless-Controller-5/dp/B0BSYFB99D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002816&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fheres-why-i-love-using-a-paddle-controller-for-gaming%2F&asc%5Fcampaign=Evergreen) controllers. That way, everyone would be able to remap any control they want to the paddles, and developers would also get two, maybe even four, extra buttons at their disposal, ending the era of multiple inputs mapped to a single controller button.

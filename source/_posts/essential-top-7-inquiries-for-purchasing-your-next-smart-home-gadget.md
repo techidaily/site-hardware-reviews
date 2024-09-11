@@ -1,7 +1,7 @@
 ---
 title: Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget
-date: 2024-09-05T07:51:52.247Z
-updated: 2024-09-06T07:51:52.247Z
+date: 2024-09-10T10:50:25.503Z
+updated: 2024-09-11T10:50:25.503Z
 tags:
   - hardware
 categories:
@@ -11,12 +11,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Choose a system based on what's most convenient - like using Amazon Alexa if you have a Ring doorbell camera.
@@ -25,12 +39,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There’s more to building a smart home than simply picking a few lights and cameras. You need to be sure that the devices you pick are suitable, safe, and compatible with the other tech in your home.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Smart Home Systems Does This Device Support?
 
  There are three dominant smart home systems: Google Home, Amazon Alexa, and Apple HomeKit. It’s generally a good idea to build your smart home around one of these systems since it guarantees native support with the devices you already have.
@@ -41,18 +63,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![ring-doorbell-light-on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ring-doorbell-light-on.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lucas Gouveia/How-To Geek | [Fortgens Photography](https://www.shutterstock.com/image-photo/lunteren-netherlands-oct-2018-ring-bell-1205704129)/Shutterstock
 
  The smart assistant you use to control your devices is also a factor. These assistants are tied to smartphones, but also smart speakers, TVs, and bulkier items like smart fridges. If everything works with a single system, you’ll be able to do a lot more from any one point of control.
@@ -61,12 +71,20 @@ Lucas Gouveia/How-To Geek | [Fortgens Photography](https://www.shutterstock.com/
 
  There are also platforms like [Home Assistant](https://www.home-assistant.io/), an [open source smart home project](https://vp-tips.techidaily.com/essential-gopro-video-editors-for-pros-for-2024/) which already brings together thousands of devices into a single platform. That said, even dedicated Home Assistant users should check the list of compatible devices before they purchase anything.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Can I Use This Locally, Without Internet Access?
 
  Some smart home devices are entirely dependent on the internet, while others work locally over a network. Some fuse both of these approaches. It’s good to know what you’re getting yourself into if you’re worried about service disruptions affecting the normal operation of your smart home.
@@ -75,23 +93,39 @@ Lucas Gouveia/How-To Geek | [Fortgens Photography](https://www.shutterstock.com/
 
 ![Wyze security camera mounted on a tree trunk with water droplets on the lens.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/wyze.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Wyze
 
  If the worst happens and your house is broken into and the thief manages to successfully knock out power or internet access, will you have any evidence to hand to the police? The same is true of doorbell cameras, many of which only work over the internet.
 
  Some of the most mission-critical devices already have safeguards for this, particularly smart locks. Though doors can be unlocked or locked remotely and be set up to allow access as necessary, most also have backups like a keypad, fingerprint reader, or a physical key slot for “analog” entry.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  What Happens if the Smart Service Stops Working?
 
@@ -101,18 +135,6 @@ Wyze
 
 ![The Arlo app library showing available recorded videos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/arlo-app-library.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Arlo
 
  But if the camera manufacturer insists on using their servers to get the most basic functionality, you could be left with a useless home security system once the servers are switched off. It’s easy to assume that these companies will be around forever, but there’s no guarantee. This is especially true for cheap, no-name products.
@@ -151,6 +173,26 @@ TP-Link
 
  And then there’s the additional “stress” of having too many wireless devices in your house. At some point, you might need to [upgrade your router](https://tiktok-video-recordings.techidaily.com/updated-in-2024-easy-breezy-country-playlist-best-songs-for-stress-relief-tiktok/). You might want to place a device in an area with poor coverage, at which point a [mesh Wi-Fi network](https://extra-lessons.techidaily.com/manipulating-media-with-mastery-tools/) might make sense.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Is the Manufacturer Reliable?
 
  Ultimately, buying a smart home gadget is no different from buying a car, a smartphone, or a TV. One of the most important criteria you’ll want to satisfy is that of reliability. For smart home gadgets, this doesn’t just mean that the device is durable or offers a decent warranty.
@@ -165,18 +207,20 @@ TP-Link
 
  This is the usual due diligence you should be doing whenever you buy something of value that will have a big impact on your life. With IoT devices, you should be extra careful since the usability, security, and privacy implications are massive.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Are You OK with Devices That Fail This Checklist?
 
  Sometimes, you have to make compromises. We recommend you compromise a little on functionality and usability and maybe settle for rechargeable batteries on your doorbell camera. You should never compromise on security.

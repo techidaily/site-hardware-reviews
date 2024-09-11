@@ -1,7 +1,7 @@
 ---
 title: The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed
-date: 2024-09-05T07:51:53.489Z
-updated: 2024-09-06T07:51:53.489Z
+date: 2024-09-10T10:50:26.643Z
+updated: 2024-09-11T10:50:26.643Z
 tags:
   - hardware
 categories:
@@ -9,13 +9,35 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/a-horizontal-pc-case-with-a-monitor-on-top-of-it.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -25,55 +47,87 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I was ten years old before I first saw a tower PC case. Until then, horizontal desktop cases were still the norm, and then suddenly they were all gone. However, it's not so clear that desktop towers are actually superior.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It’s a Free Monitor Riser
 
  Back in the day, our desktop PCs made sure our CRT monitors were at a good ergonomic height. These days, so few flat screen monitors come with a height adjustable stand, so people end up investing in [monitor risers](https://www.amazon.com/SimpleHouseware-Metal-Monitor-Organizer-Drawer/dp/B075KP5JLH/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003307&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhorizontal-pc-cases-were-peak-case-design-heres-why%2F&asc%5Fcampaign=Evergreen) or [monitor arms](https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x9b-drfone-by-drfone-virtual-android/). If we still had horizontal desktop PC cases around, you could cut that whole step out of your desk ergonomics process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## ![SimpleHouseware Metal Desk Monitor Stand Riser with Organizer Drawer](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/19617662.jpg) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
+## ![SimpleHouseware Metal Desk Monitor Stand Riser with Organizer Drawer](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/19617662.jpg) 
+
 ##  GPUs Can’t Sag
 
  The engineers who came up with tower cases did not envision GPUs that weight as much as a small laptop hanging off a PCIe slot and two panel screws. [GPU sag](https://common-error.techidaily.com/how-incompatible-drivers-can-compromise-the-integrity-of-your-ftdi-synchronous-data-transmission/) is a real issue, and there are various brackets, holders, and other increasingly silly solutions. Things have sort of come full circle with the use of GPU risers, where an extension cable from the motherboard's PCIe slot leads to a [vertical stand for the GPU](https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/). Well, you might as well have a horizontal case to begin with!
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Working Inside Is Easier
 
  I've always felt that desktop tower cases are more of a pain to work inside than horizontal cases. After all, what does everyone do with their towers when they work on them? They turn them on their sides! Again, a completely unnecessary in-between step that horizontal cases make moot. With a horizontal case, you can even make the lid of the case a functional part of the case, instead of a completely separate panel.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  It’s More Space Efficient
 
  I've seen people argue that a tower case is more space efficient than a horizontal case and, honestly, this was never really the case. Even if you put your tower case on the floor, as most people ended up doing as they got larger, your monitor's footprint was still pretty much the same as the PC case was, if perhaps a little smaller.
 
  That may be even more true today. I have a 34-inch [ultrawide monitor](https://fox-friendly.techidaily.com/new-handheld-panorama-peacekeeper-360-stabilizer-for-2024/) on my desk, and certainly a horizontal PC case would fit under it without exceeding its horizontal footprint. A traditional horizontal case would still eat a few inches of depth on the desk, but as I'll explain shortly, that might not be necessary in a modern context.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  It Doesn’t Have to Go on the Floor
 

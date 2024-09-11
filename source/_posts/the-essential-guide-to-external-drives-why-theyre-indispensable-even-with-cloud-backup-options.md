@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to External Drives: Why They're Indispensable Even With Cloud Backup Options"
-date: 2024-09-05T07:51:53.472Z
-updated: 2024-09-06T07:51:53.472Z
+date: 2024-09-10T10:50:26.627Z
+updated: 2024-09-11T10:50:26.627Z
 tags:
   - hardware
 categories:
@@ -9,7 +9,35 @@ categories:
 thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29bed97ca0ab60000543775d0.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## The Essential Guide to External Drives: Why They're Indispensable Even With Cloud Backup Options
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Quick Links
 
@@ -20,12 +48,20 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 * [USB Storage Is Much, Much Cheaper](https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [USB Drives Have Other Uses Aside From Storage](https://win11-tips.techidaily.com/navigate-with-style-adding-emoji-15-to-win11-setup/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Key Takeaways
 
 * Flash drives and external SSDs transfer files faster than ever.
@@ -42,22 +78,24 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
  Flash drives were (physically) never particularly large, but now they're even smaller. Plus, you can get a drive with both a USB-C and USB-A port, so that you're ready for whichever machine you encounter. Though you may be [best off with an external SSD](https://visual-screen-recording.techidaily.com/updated-2024-approved-compre-omprehensive-razer-video-cam-test/), considering how small they've become, too.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You're Not Dependent on an Internet Connection
 
 ![A USB-C flash drive next to an external SSD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/android-external-drive-flash-drive-ssd.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Bertel King / How-To Geek
 
  Many of us live in places where we take high-speed internet for granted. On the other hand, just as many of us don't, even in places like New York City. Having portable USB storage means you can still access data even when the last bar of signal disappears or everything is constantly buffering.
@@ -82,22 +120,44 @@ Bertel King / How-To Geek
 
  Unless someone physically gets their hands on your external drive and plugs it into something, they have no idea what's on it. If they don't know what's on it, they can't tell you to delete it. You're the one who decides what gets to go onto your drive.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  USB Storage Is Much, Much Cheaper
 
 ![An external SSD connected to a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53614790673_96282e6bce_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  Storage costs have dropped rapidly over the years. You can now buy a 512GB USB stick for the price of treating a date to dinner. For a little bit more, you can [buy an external SSD](https://screen-capture.techidaily.com/new-optimize-logitech-footage-background-free-method/) with much faster transfer speeds. Most of us aren't actually carrying around terabytes of data and don't need to spring for a larger drive.
@@ -106,12 +166,6 @@ Jerome Thomas / How-To Geek
 
  Maybe you're just [considering whether to pay for more iCloud space](https://smart-video-creator.techidaily.com/top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/). By buying your own storage, you turn an ongoing recurring cost into a handful of one-time expenses. Get yourself enough drives to make multiple copies of your data, and then stop there. You won't need an additional subscription service to help you find all the ways that you're wasting money on automatic payments, because no money is going out the door.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  USB Drives Have Other Uses Aside From Storage
 
  Backing up files is just the first (and perhaps most boring) use of an external hard drive. You can use one for pretty much anything an internal drive is good for. Consider:

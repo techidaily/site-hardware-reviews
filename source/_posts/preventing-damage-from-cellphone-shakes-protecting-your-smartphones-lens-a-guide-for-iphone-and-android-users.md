@@ -1,7 +1,7 @@
 ---
 title: "Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users"
-date: 2024-09-05T07:51:57.216Z
-updated: 2024-09-06T07:51:57.216Z
+date: 2024-09-10T10:50:29.991Z
+updated: 2024-09-11T10:50:29.991Z
 tags:
   - android
 categories:
@@ -9,20 +9,36 @@ categories:
 thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4f03feb88ed4fbbfd3a7861e.jpg
 ---
 
-## Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [What Is Optical Image Stabilization (OIS)?](https://www.howtogeek.com/755708/how-vibrations-can-ruin-your-iphone-or-android-camera/#what-is-optical-image-stabilization-ois)
@@ -33,12 +49,20 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
  It's easy to make the iPhone the butt of a joke---and Apple [didn't do themselves any favors](https://mashable.com/article/iphone-13-motorcycle)\---but this is a legitimate issue. It all revolves around optical image stabilization (OIS), which is a feature found in many modern smartphones, not just iPhones.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  What Is Optical Image Stabilization (OIS)?
 
 [Optical image stabilization](https://desktop-recording.techidaily.com/updated-step-by-step-guide-to-sims-4-gameplay-recording-for-2024/) is a feature that aims to stabilize the camera while you snap a photo or record a video.
@@ -49,22 +73,44 @@ Related: [What Is Image Stabilization, and How Does It Work?](https://desktop-re
 
  OIS can make a huge difference in photo and video quality. It's nearly impossible to hold a phone perfectly still with only your hands. The mechanisms that make this possible inside an iPhone or Android camera are remarkably small and delicate. That's where the risk of damage from vibrations comes into play.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  How Can Vibration Damage a Camera?
 
 ![iPhone 13 on a motorcycle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2021-09-17_16-07-48.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _Apple_
 
  Moving parts are what often lead to failures, especially when it comes to gadgets. A smartphone camera with OIS has several small moving parts inside it, and those parts are delicate. Enough stress on those parts can cause them to fail.
@@ -73,18 +119,6 @@ _Apple_
 
  This is not something most people need to worry too much about. You're not going to damage the camera by keeping it in your pocket while running. The vibrations to worry about are from high-power, high-volume engines, like the aforementioned motorcycles.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Can I Do to Avoid Damage?
 
  The main thing to avoid is extended exposure to these high-amplitude vibrations. Strapping your iPhone or Android device to a motorcycle for a short trip once in a while is probably fine. If you're doing it twice a day for your 30-minute commute, that's a bigger risk.
@@ -93,12 +127,20 @@ _Apple_
 
 ![31sPsK50zKL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31spsk50zkl-_sl500_.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 For Motorcycles, Bikes, and Cars
 
 #####  Quad Lock Vibration Dampener

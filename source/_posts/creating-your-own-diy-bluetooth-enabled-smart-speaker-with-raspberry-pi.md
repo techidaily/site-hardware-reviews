@@ -1,7 +1,7 @@
 ---
 title: Creating Your Own DIY Bluetooth-Enabled Smart Speaker with Raspberry Pi
-date: 2024-09-05T07:51:53.052Z
-updated: 2024-09-06T07:51:53.052Z
+date: 2024-09-10T10:50:26.238Z
+updated: 2024-09-11T10:50:26.238Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-bluetooth-speaker-with-the-raspberry-pi-logo.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Creating Your Own DIY Bluetooth-Enabled Smart Speaker with Raspberry Pi
 
 ### Key Takeaways
@@ -25,11 +33,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I transformed a Raspberry Pi into a powerful Bluetooth smart speaker that can stream music from my phone, tablet, or computer. It uses BalenaSound and turns my Raspberry Pi into a smart speaker that supports a wide range of services, including Spotify, Apple AirPlay, and Bluetooth—and more.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Download and Install Balena Sound on Your Raspberry Pi
 
  To get started with your Smart Speaker, you need to set up a [BalenaCloud](https://www.balena.io/cloud) account. Head over to their website, and create an account. Find the "Sign Up" button, and select it to start the sign-up process. You can sign up with an email account, GitHub, or Google.
 
 ![Sign up for BalenaCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/bc-sign-up.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  Once you've created a BalenaCloud account, it will load up their dashboard. From here, find the "Create a new fleet" button to start setting up your Raspberry Pi device. Creating a "fleet" allows you to monitor your [Raspberry Pi device](https://extra-hints.techidaily.com/top-10-guidelines-for-breaking-through-cover-art/) remotely through the Balena interface.
 
@@ -37,56 +73,54 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Creating the fleet on BalenaCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-create-fleet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that you're familiar with the fleet dashboard, find the "Add device" button, and select it. Once you've selected the "Add device" button, do the following. First, select "Development". Then, find "Network", select "Wi-Fi + Ethernet", and enter your WiFi network name and password. When everything is configured, click the arrow button next to "Flash," and select "Download balenaOS".
 
 ![Filling out hardware details on BalenaCloud.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-add-hardware.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  With your customized balenaOS downloaded, download the [Balena Etcher](https://etcher.balena.io/) tool to your computer and install it. Then, do the following to install your image on the Raspberry Pi.
 
 ![Downloading BalenaCloud image file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-download-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find the "Flash from file" button and select it with the mouse. From here, browse for the balenaOS file on your computer that you downloaded from your Balena Cloud fleet.
 
 ![Etcher Flash from file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-etcher-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find the "Select target" button and select it. Insert your Raspberry Pi SD card into your computer, and select it in the "Select target" menu.
 
 ![Etcher select target.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-etcher-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Find the "Flash!" button and select it to begin the flashing process. When the process is complete, eject your SD card and insert it into your Raspberry Pi.
 
 ![Etcher begin flashing to target.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-etcher-3.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Connect and Power Up Your Raspberry Pi
 
  After inserting your SD card into the Pi, plug in the power supply, and turn it on. You should also plug in an HDMI cable to the Pi and your audio system (if it supports HDMI). Alternatively, if your audio system does not support HDMI, plug it in via the Pi's analog audio port.
@@ -97,14 +131,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Raspberry Pi deploy to fleet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/deploy-pi-to-fleet.png) 
 
- Selecting the "Deploy to fleet" button will download and install BalenaSound on your Pi. This process will take a bit of time, but once it is finished, it can accept connections via Spotify Connect, Bluetooth, Apple Airplay, and many other features.
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+ Selecting the "Deploy to fleet" button will download and install BalenaSound on your Pi. This process will take a bit of time, but once it is finished, it can accept connections via Spotify Connect, Bluetooth, Apple Airplay, and many other features.
+
 ##  Configure Balena Sound Settings for Optimal Audio Performance
 
  Your Raspberry Pi's sound settings need to be configured to handle BalenaSound correctly. To start, access your device in Balena Cloud. Then, find "Terminal" and click "Select a target." Set the target to "audio," and select the "Start terminal session" button. Once connected, you'll be able to send commands to your Raspberry Pi sound system.
@@ -123,18 +171,20 @@ amixer -c 0 cset numid=3 100%`
     
  Once you've configured your audio settings, you can close the terminal in BalenaCloud.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Stream Audio on your Raspberry Pi with BalenaSound
 
  Streaming audio to your Raspberry Pi running BalenaSound is incredibly easy. To use your Pi as a Bluetooth speaker, simply open the Bluetooth settings on your phone, tablet, or PC and connect to the device labeled "balenaOS". Once connected, it will work just like any other Bluetooth speaker you've used before.
@@ -145,23 +195,39 @@ amixer -c 0 cset numid=3 100%`
 
 ![Spotify outputting to the Pi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spotify-playback.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Troubleshooting and Optimizing Your Balena Sound Setup
 
  Now that you've set up BalenaSound on your Raspberry Pi and turned it into a Bluetooth speaker, it's time to fine-tune it for optimal performance. If you run into any issues or want to get the best possible sound quality, don't worry - troubleshooting isn't as hard as it seems. Start with the basics: ensure your Raspberry Pi is properly connected to your speaker, and that the volume is turned up and not muted. Be sure to also take a look at the command output for each of the services on the Balena Cloud dashboard. For example, below we see the Spotify service output, and it shows that it is working correctly.
 
 ![The Spotify logs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spotify-logs.png) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
  If you run into more complicated issues or want to take your setup to the next level, consider checking out the BalenaSound settings and exploring the options available. You can adjust buffer sizes, latency settings, and more to meet your needs. Don't be afraid to experiment and try out different configurations. If you get stuck, the [issues page on GitHub](https://github.com/balena-io-experimental/balena-sound/issues) is always a good place to check.
 

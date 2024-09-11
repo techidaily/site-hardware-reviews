@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Origin: What's Behind the Name 'Bluetooth'?"
-date: 2024-09-05T07:51:52.814Z
-updated: 2024-09-06T07:51:52.814Z
+date: 2024-09-10T10:50:26.020Z
+updated: 2024-09-11T10:50:26.020Z
 tags:
   - hardware
 categories:
@@ -9,20 +9,42 @@ categories:
 thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3f3f6a2e608d839212aa9eeb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Unraveling the Origin: What's Behind the Name 'Bluetooth'?
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Unraveling the Origin: What's Behind the Name 'Bluetooth'?
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [A Brief History of Bluetooth](https://extra-resources.techidaily.com/10-superior-virtual-background-switchers-guide-for-2024/)
@@ -31,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
  Few technologies have become as embedded in our daily lives as Bluetooth. From smartphones and computers to TVs and speakers, this wireless technology has evolved far beyond hands-free headsets. But what's the deal with that odd name, and does it actually have anything to do with teeth?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A Brief History of Bluetooth
 
  The [beginnings of Bluetooth](https://article-posts.techidaily.com/2024-approved-insta-to-tik-integration-masterclass/) go back to 1989, when Nils Rydbeck, the CTO of Ericsson Mobile, started development on "short link" radio technology that would eventually become Bluetooth. The original purpose was specifically for wireless headsets.
@@ -45,12 +61,26 @@ thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3
 
 ![Ericsson T29](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ericsson-t29.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Hfiweyh372yer / Wikipedia](https://commons.wikimedia.org/wiki/File:T39ljusstake.jpg)
 
 Ericsson T29
@@ -59,12 +89,20 @@ Ericsson T29
 
  Nowadays, the [Bluetooth SIG](https://www.bluetooth.com/) has over 30,000 members, and Bluetooth is found in far more devices than only wireless headsets and phones. Bluetooth 1.0 came out over 20 years ago, but the most recent version is only Bluetooth 5.4, released in February 2023.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Origin of the Bluetooth Name
 
  The origins of the Bluetooth name are a bit odd. It's a term that has become so common it's lost all meaning, but smashing the words "Blue" and "Tooth" together doesn't seem to make much sense in relation to wireless technology. In fact, it has nothing to do with that.
@@ -72,6 +110,20 @@ Ericsson T29
  The Bluetooth name came from Jim Kardach of Intel in 1997\. "Bluetooth" was the nickname for [King Harald Gormsson](https://en.wikipedia.org/wiki/Harald%5FBluetooth) of Denmark and Norway in the 10th century. Historians have guessed that the nickname came from a discolored tooth—imagine that. But how does that become the name of a wireless standard?
 
  Kardach said he chose the Bluetooth name because the king was "famous for uniting Scandinavia just as we intended to unite the PC and cellular industries with a short-range wireless link." It was originally going to be the codename, but here we are, nearly 30 years later, still saying "Bluetooth."
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  The Secret Meaning of the Bluetooth Logo
 
@@ -81,12 +133,20 @@ Ericsson T29
 
 ![bluetooth icon meaning.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/bluetooth-icon-meaning-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [LINAK](https://www.linak-us.com/segments/medline-careline/tech-and-trends/wireless-platform/)
 
  Who knew we've all been saying the name of an ancient king and sporting his initials everywhere? Bluetooth is one of the most significant modern inventions—we use it all the time. Now, every time you do, you'll think about a guy with bad teeth from Scandanavia.

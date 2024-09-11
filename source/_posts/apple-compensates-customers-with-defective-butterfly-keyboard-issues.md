@@ -1,7 +1,7 @@
 ---
 title: Apple Compensates Customers with Defective Butterfly Keyboard Issues
-date: 2024-09-05T07:51:52.058Z
-updated: 2024-09-06T07:51:52.058Z
+date: 2024-09-10T10:50:25.327Z
+updated: 2024-09-11T10:50:25.327Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,20 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53527334623_dda9a713d5_o.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Apple Compensates Customers with Defective Butterfly Keyboard Issues
 
 If you bought a Mac between 2015 and 2019, you probably remember Apple bragging about its slim "Butterfly Keyboard." The keyboards failed often enough to kick off a class-action lawsuit, and Apple is finally paying out affected owners.

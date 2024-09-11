@@ -1,7 +1,7 @@
 ---
 title: Unleash Creativity with the Lenovo Chromebox Micro – The Perfect Device for Hobbyists & Makers
-date: 2024-09-05T07:51:53.747Z
-updated: 2024-09-06T07:51:53.747Z
+date: 2024-09-10T10:50:26.897Z
+updated: 2024-09-11T10:50:26.897Z
 tags:
   - hardware
 categories:
@@ -9,12 +9,26 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/24.jpg
 ---
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ## Unleash Creativity with the Lenovo Chromebox Micro – The Perfect Device for Hobbyists & Makers
 
 Lenovo is now selling the smartphone-sized Chromebox Micro, a tiny ChromeOS computer that's intended for retail signage but may be useful to hobbyists, tinkerers, and DIYers.

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating the Software on Your AirPods"
-date: 2024-09-05T07:51:55.907Z
-updated: 2024-09-06T07:51:55.907Z
+date: 2024-09-10T10:50:28.879Z
+updated: 2024-09-11T10:50:28.879Z
 tags:
   - hardware
 categories:
@@ -11,18 +11,46 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ## Step-by-Step Guide: Updating the Software on Your AirPods
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [AirPods Typically Update the Firmware Automatically](https://facebook.techidaily.com/beyond-the-newsfeed-narrative-unveiling-fact-fiction-at-facebook/)
 * [How to Check Which Firmware Your AirPods Are Running](https://facebook-record-videos.techidaily.com/principles-of-filming-inspirational-daily-living-documentaries-for-2024/)
 * [How to Force an AirPods Firmware Update](https://printer-issues.techidaily.com/canon-printer-setup-simplified-with-pictures/)
 * [What About Android Users?](https://some-techniques.techidaily.com/in-2024-highlighted-top-5-minimalist-action-camera-picks/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Key Takeaways
 
@@ -33,6 +61,20 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
  Apple's AirPods are one of the company's most popular accessories, and they're pretty great. Like all modern wireless headphones, they have firmware that sometimes needs to be updated for optimal performance. AirPods firmware should update automatically, but here's how to force an update if needed.
 
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  AirPods Typically Update the Firmware Automatically
 
@@ -52,6 +94,20 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
@@ -60,12 +116,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
 
 ![AirPods option in iPhone's About settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6406381607.jpg) 
@@ -74,24 +124,20 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+
+
+
 ##  How to Force an AirPods Firmware Update
 
  If you find that a new version of AirPods firmware is available, but not yet installed, you can try forcing your AirPods to update.
@@ -100,22 +146,30 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What About Android Users?
 
  There aren't many Android users with AirPods, but they do exist. If you're one of them, then unfortunately your AirPods can't update their firmware automatically. Instead, your only option is to find someone with an iPhone or Mac that you can temporarily [pair your AirPods](https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-gionee-f3-pro-pattern-lock-screen-by-drfone-android/) with for them to update the firmware.

@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices"
-date: 2024-09-05T07:51:58.329Z
-updated: 2024-09-06T07:51:58.329Z
+date: 2024-09-10T10:50:31.006Z
+updated: 2024-09-11T10:50:31.006Z
 tags:
   - android
 categories:
@@ -9,20 +9,36 @@ categories:
 thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ecb771027987a79177a9a76e0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### Quick Links
 
 * [Get The Message](https://extra-information.techidaily.com/updated-auditory-accents-integrating-tracks-into-video-on-modern-windows/)
@@ -31,12 +47,20 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 
  iMessage is one of the strongest selling points for the iPhone, but it falls back to using regular SMS when someone in the conversation doesn't have an Apple device. Google wants Apple to fix the problem, but it's not that simple.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Get The Message
 
  Google has embarked on a marketing campaign called [#GetTheMessage](https://twitter.com/Android/status/1557758915357642752), which aims to pressure Apple into supporting [Rich Communication Service](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (RCS for short) on iPhones. RCS is a newer standard for text messaging that supports larger file attachments, reactions, varying levels of encryption, read indicators, and other features common in modern messaging services. Android devices can use RCS through the [Android Messages](https://messages.google.com/) application, which is the default texting app on most Android phones.
@@ -45,12 +69,20 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 
  Google has already partnered with some celebrities and influencers to promote the campaign, including [Madelaine Petsch](https://twitter.com/madelainepetsch/status/1557424410025332736), [Vanessa Hudgens](https://twitter.com/VanessaHudgens/status/1557465801652707333), and [ATTN](https://www.youtube.com/watch?v=ED4es0-j8M4), and more ads are likely on the way. So, is it really Apple's fault that texting with Android devices is difficult?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  A Quick Refresher on RCS
 
  Rich Communication Services is not a new technology, as the first version was released in 2008 -- the same year the iPhone 3G was released, and a few years before iMessage even existed. It was an upgrade over SMS texting, but it wasn't compatible across different networks or devices. That only started to change with the introduction of the [RCS Universal Profile in November 2016](https://en.wikipedia.org/wiki/IPhone%5F3G), which made it technically possible for RCS conversations to work across different mobile networks.
@@ -59,24 +91,40 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 
 ![Android Messages screenshots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Image-5.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 _Google_
 
  There are many, many, many other factors in play. Most of the world uses services like WhatsApp and WeChat for mobile messaging instead of iMessage or SMS, so this specific problem is mostly irrelevant to millions (or even billions) of people. RCS also isn't as open of a platform as Google might lead you to believe -- [it doesn't work with third-party messaging apps on Android](https://www.xda-developers.com/google-messages-rcs-api-third-party-apps/), and no matter what mobile network you're on, your messages usually pass through Google's Jibe servers.
 
  After several years of fighting with mobile networks, Android Messages is the default messaging app on most Android phones, which in turn allows the phones to use RCS messaging. The next challenge for Google is working with Apple to support RCS.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The Battle with Apple
 
  So, is Apple blocking RCS from working on iPhones? Technically, there's nothing stopping Apple from integrating RCS into its iMessage infrastructure. Apple could also side-step the problem and make an iMessage app for Android phones, giving both platforms an equal texting experience.

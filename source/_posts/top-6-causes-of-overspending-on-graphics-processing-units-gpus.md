@@ -1,7 +1,7 @@
 ---
 title: Top 6 Causes of Overspending on Graphics Processing Units (GPUs)
-date: 2024-09-05T07:51:55.971Z
-updated: 2024-09-06T07:51:55.971Z
+date: 2024-09-10T10:50:28.924Z
+updated: 2024-09-11T10:50:28.924Z
 tags:
   - hardware
 categories:
@@ -9,14 +9,22 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-gpu-with-a-pile-of-money-around-it.jpg
 ---
 
-## Top 6 Causes of Overspending on Graphics Processing Units (GPUs)
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Top 6 Causes of Overspending on Graphics Processing Units (GPUs)
+
 ### Quick Links
 
 * [It Had a Fancy Design and a Tiny Overclock](https://article-files.techidaily.com/updated-virtual-veracity-versus-physical-prowess-in-live-links-for-2024/)
@@ -28,6 +36,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  GPUs are one of the most sought-after and expensive computer components, but there's a good chance the typical GPU buyer is spending more than they need to on that shiny new graphics card, and (you guessed it) I'm going to tell you why.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  It Had a Fancy Design and a Tiny Overclock
 
  Different board partners (the companies that actually make the cards) have small profit margins, and are in heated competition with each other. Which is why they'll do absolutely anything to get your dollars versus the other options for the same model of GPU.
@@ -36,64 +58,90 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Sometimes the extra money goes towards a factory overclock, where the card is set a little faster than the stock speeds recommended by the GPU maker. The card is designed by the board partner to run at those speeds all day, but the truth is that most people can overclock their cards to the same level or beyond just as easily.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It Had More Cooling Than It Needed
 
 ![A GPU with two fans highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-gpu-with-two-fans-highlighted.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Lucas Gouveia / How-To Geek | [Zachary Hoover](https://www.shutterstock.com/image-photo/computer-graphics-card-on-white-background-1164796630) / Shutterstock
 
  Speaking of overclocking and performance, GPU buyers are often worried about keeping their GPUs cool, but more often than not, cooler than they need to be. Processors have a safe rated temperature range, and will give you long and fruitful service as long as they stay in that range. You don't need to chill the chip down to room temperature under load, but some people pay a premium for better cooling to cut a few pointless degrees from the card's operating temperature.
 
  That said, I think it is worth paying more for a graphics card that makes less noise. Now that's a practical luxury worth its weight in gold! Buying the card that offers the lowest decibel rating is what I'd recommend.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  And It Was More GPU Than Needed
 
  There's always a sweet spot in the graphics card market where you can get a great experience at a reasonable price. Very few people should buy halo cards like the [RTX 4090](https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/), and you certainly shouldn't base your purchasing decisions on benchmark results based on ["ultra" settings](https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-meizu-21-drfone-by-drfone-virtual-android/) in current games. Instead, buy the card that will give you the best experience at the resolution and detail settings you'll actually accept, and in most cases, medium to high settings are more than good enough, with ultra settings doing little visually other than making those rendered light rays eat up real Watts on your power bill.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Brand Snobbery
 
  There are premium card partner brands, and then there are more budget-oriented ones. Most people tend to look for the more expensive, premium brands, but I've been buying budget bare-bones GPU brands for all my life and have never had a performance or quality issue with any of them. There's nothing wrong with buying the cheapest incarnation of a GPU you can find, as long as the warranty is reasonable and there are no serious performance compromises. I'd definitely take a 2% hit on peak performance for a 20% difference in price!
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Buying Too Soon
 
  Buying a graphics card right as it releases is the worst time to pull the trigger. The demand for it is at its peak, and the supply is at its lowest point. Over time, cards will become more readily available, competing cards from other brands will launch, and all sorts of downward pressure on price will happen in the weeks following a release. So, do you really need to get that new GPU as soon as it lands? Chances are your current GPU is just fine, and if you've been waiting years for a new GPU upgrade, another month or two won't hurt, surely?
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  Buying New
 
  I know that for some people the idea of buying a used computer component doesn't sit right, but about half of my GPUs have been used models, and again I've never had an issue. As long as you get to test it before taking it home, chances are it will keep running for years. Even worries about [GPUs used for cryptocurrency mining](https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/) are probably a non-issue in most cases. In fact, those cards are undervolted and well-cooled, with wear on the replaceable fan being the largest concern. Think of all those people who buy a new GPU every year, dumping their barely-used GPUs on the market at a huge loss. That's your ticket to cheap GPU nirvana.
