@@ -1,7 +1,7 @@
 ---
 title: "Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard & Trackpad with Subpar Casing"
-date: 2024-09-10T10:50:28.822Z
-updated: 2024-09-11T10:50:28.822Z
+date: 2024-09-09T16:03:52.610Z
+updated: 2024-09-16T16:04:23.945Z
 tags:
   - hardware
 categories:
@@ -20,20 +20,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
  Whether people are clamoring for a keyboard, touchpad, and laptop stand combo that packs away in a folio case is debatable. Still, the [Logitech Casa Pop-Up Desk](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-Bluetooth/dp/B0B6GVH4NQ?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002679&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Flogitech-casa-pop-up-desk-review%2F&asc%5Fcampaign=Authority) is a slick solution for anyone with that exact need who wants to move around the house.
 
 ![Logitech Casa Pop Up Desk Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/logitech-casa-pop-up-desk-kit.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #####  Logitech Casa Pop-Up Desk
 
@@ -72,69 +58,28 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
 
  3 weeks 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  A Laptop or iPad Work Station
 
  If the Casa Pop-Up Desk was just geared towards any single operating system, I don’t think it would be as appealing. But its compatibility across mobile and desktop systems, from iPadOS to Windows, makes it more valuable for a wide range of uses.
 
  It’s not surprising that Logitech employs wide compatibility since most of the company’s other products usually work across multiple platforms. The Casa Pop-Up Desk is essentially a packaging of the Casa Keys keyboard and the Casa Touch touchpad in a clever case (Casa Book). My big hope is that we see these devices sold independently at some point.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  The Feel of Casa Keys and Casa Touch
 
 ![Logitech Casa Keys Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-keyboard.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Jerome Thomas / How-To Geek
 
@@ -152,20 +97,6 @@ Jerome Thomas / How-To Geek
 
  I also had the occasional unregistered touch where the cursor would jump to a different part of the screen, but that was only once or twice and uncommon enough to mostly ignore. Unlike the Casa Keys' long battery life, the Touch only gets about 3 weeks of power before needing to recharge it. I didn't mind that.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Software Is a (Small) Factor
 
  While you can get away without using the [Logi Options+](https://www.logitech.com/en-us/software/logi-options-plus.html) software for the keyboard, it’s pretty much a necessity for the Touch. The app allows customization of gestures, cursor speed, and all kinds of other fiddly details.
@@ -176,19 +107,12 @@ Jerome Thomas / How-To Geek
 
  Smart Actions allows multiple apps and tasks to be launched at once. Basically, it does macros. This feels like a more practical need for more people, but I still didn’t find too many instances where I wanted to have 12 items fire off for me at the press of a button. Maybe I’m less imaginative in this area. It’s neat and it worked, but I wouldn’t buy a Logitech product for this feature.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How Much Is the Case Worth?
 
@@ -201,26 +125,6 @@ Jerome Thomas / How-To Geek
  First, using the case as a stand takes up a lot of space on a desk or table. It has a wide base that needs its room. Then there’s only one stand angle. That’s less of an issue for a laptop with a hinging screen, but the single position can be annoying when used with a tablet.
 
 ![Logitech Casa Pop Up Desk laptop stand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-laptop-stand.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Jerome Thomas / How-To Geek
 
@@ -246,6 +150,13 @@ Tyler Hayes / How-To Geek
 
 ![Logitech Casa Pop Up Desk Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/logitech-casa-pop-up-desk-kit.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #####  Logitech Casa Pop-Up Desk
 
 6/ 10 
@@ -262,8 +173,6 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,39 +182,18 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[New] 10 Best Screenshot Enhancers  IPhone/Android Sticker Magic</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[New] 2024 Approved  2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-frame-perfection-top-10-tools-to-edge-your-instagram-content/"><u>[Updated] Frame Perfection  Top 10 Tools to Edge Your Instagram Content</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-startup-manipulating-boot-timeout-on-windows-11/"><u>Accelerate Startup: Manipulating Boot Timeout on Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862676764-acemagic-x1-the-new-dual-screen-laptop-watch-out-for-pre-launch-discount-and-details-next-month/"><u>AceMagic X1 - The New Dual-Screen Laptop: Watch Out for Pre-Launch Discount & Details Next Month!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-insight-by-toms-technology-hub/"><u>Advanced Computing Insight by Tom's Technology Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-income-avenues-assessing-gpt-powered-job-prospects/"><u>AI Income Avenues: Assessing GPT-Powered Job Prospects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-asus-rog-strix-g16-just-1164-for-the-ultimate-2024-gaming-experience/"><u>Amazon's Exclusive Deal: ASUS ROG Strix G16 - Just $1,164 for the Ultimate 2024 Gaming Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakthrough-in-efficient-energy-storage-how-massless-carbon-hewn-batteries-are-changing-the-game-for-portable-tech/"><u>Breakthrough in Efficient Energy Storage: How Massless Carbon Hewn Batteries Are Changing the Game for Portable Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-gaming-setup-with-msis-titan-18-pro-ryzen-edition-featuring-the-cutting-edge-combo-of-amd-ryzen-9-and-nvidia-rtx-graphics/"><u>Discover the Ultimate Gaming Setup with MSI’s Titan 18 Pro Ryzen Edition: Featuring the Cutting-Edge Combo of AMD Ryzen 9 and Nvidia RTX Graphics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-innovation-with-toms-computing-insights/"><u>Discovering Innovation with Tom's Computing Insights</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/does-the-sub4sub-strategy-improve-content-consumption-in-2024/"><u>Does the Sub4Sub Strategy Improve Content Consumption, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets-for-2024/"><u>Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fast-and-simple-guide-samsung-nvme-controller-drivers-free-download/"><u>Fast and Simple Guide: Samsung NVMe Controller Drivers - Free Download</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-6s-plus-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 6s Plus iCloud Bypass</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-ringtone-hunt-prime-downloads/"><u>Ideal Ringtone Hunt  Prime Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinkpad-x1-carbon-gen-12-evaluation-ultra-light-design-meets-advanced-artificial-intelligence/"><u>Lenovo ThinkPad X1 Carbon Gen 12 Evaluation: Ultra-Light Design Meets Advanced Artificial Intelligence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-pcs-the-toms-expertise-collection/"><u>Mastering Gadgets and PCs: The Tom's Expertise Collection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gear-quality-a-deep-dive-into-hardware-reviewed-by-tom/"><u>Mastering Gear Quality: A Deep Dive Into Hardware Reviewed by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-tips-and-tricks-from-toms-hardware/"><u>Mastering Modern Devices: Tips & Tricks From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-toms-world-of-innovation-the-ultimate-source-for-hardware-expertise/"><u>Navigate Tom’s World of Innovation | The Ultimate Source for Hardware Expertise 🔧</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/new-era-of-portable-computing-upgraded-laptop-frameworks-with-cutting-edge-intel-core-ultra-and-amd-ryzen-powerhouse-engines/"><u>New Era of Portable Computing: Upgraded Laptop Frameworks with Cutting-Edge Intel Core Ultra & AMD Ryzen Powerhouse Engines</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-smooth-scrolling-expert-advice-for-a-broken-logitech-mouse-wheel/"><u>Restoring Smooth Scrolling: Expert Advice for a Broken Logitech Mouse Wheel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-tech-gadgets-and-components-at-tomhardware/"><u>The Ultimate Guide to Tech Gadgets and Components at TomHardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-a-complete-guide/"><u>Tom's Computer Components - A Complete Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-expert-hardware-guidance/"><u>Tom's Tech Advisor: Expert Hardware Guidance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-netgear-orbi-rbs50y-transforming-your-outdoor-internet-experience/"><u>Ultimate Guide to Netgear Orbi RBS50Y: Transforming Your Outdoor Internet Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-with-toms-tech-advice/"><u>Unlocking Performance Secrets with Tom's Tech Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-technology-secrets-insights-from-toms-hardware-experts/"><u>Unraveling Technology Secrets - Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-in-depth-analysis-by-toms-hardware-experts/"><u>Unveiling Technology Secrets: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-gear-with-toms-hardware-guides/"><u>Unveiling the Latest in Computer Gear with Tom's Hardware Guides</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-split-trim-and-perfect-video-editing-techniques-in-windows-live-movie-maker/"><u>Updated In 2024, Split, Trim, and Perfect Video Editing Techniques in Windows Live Movie Maker</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-innovators-playbook-for-premiere-pro-fullscreen-edits-for-2024/"><u>[Updated] The Innovator's Playbook for Premiere Pro Fullscreen Edits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-quick-and-easy-methods-for-recording-audio-on-your-android-device/"><u>1. Quick and Easy Methods for Recording Audio on Your Android Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>2024 Approved Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-insiders-look-at-vlc-functionality-on-macbooks/"><u>2024 Approved Insider's Look at VLC Functionality on MacBooks</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-yuva-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Yuva 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-practices-for-picking-your-perfect-wireless-phone-charger/"><u>Best Practices for Picking Your Perfect Wireless Phone Charger</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bridging-the-gap-the-ongoing-effort-by-google-for-seamless-text-communication-between-iphones-and-android-devices/"><u>Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-ace-3-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Ace 3 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-integration-for-steam-deck-users/"><u>Seamless Windows Integration for Steam Deck Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-selection-of-youtubes-finest-cosmetics-vloggers-for-2024/"><u>The Ultimate Selection of YouTube's Finest Cosmetics Vloggers for 2024</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory"
-date: 2024-09-10T10:50:31.255Z
-updated: 2024-09-11T10:50:31.255Z
+date: 2024-09-13T16:35:32.663Z
+updated: 2024-09-16T16:01:10.846Z
 tags:
   - android
 categories:
@@ -11,20 +11,6 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
 ## Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Key Takeaways
 
 * Companies aim to create perpetual revenue streams by offering subscriptions for hardware updates.
@@ -33,39 +19,11 @@ thumbnail: https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93c
 
  Companies are trying to turn everything they can into a service, so that the drip-feed of money from customers never ends. That's not the worst thing if the service is valuable, but sometimes the ideas can verge on the silly side—such as the Logitech "Forever Mouse."
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  The Folly of the “Forever Mouse”
 
  In an [interview with The Verge](https://www.theverge.com/24206847/logitech-ceo-hanneke-faber-mouse-keyboard-gaming-decdoer-podcast-interview), Logitech CEO Hanneke Faber expressed the idea of a mouse that would get new software features over the years, possibly with a paid subscription for users to get access to these later firmware and app updates.
 
 ![Logitech MX Master 3S](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/a009ed8f.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 _Dave McQuilling / Review Geek_
 
@@ -75,20 +33,6 @@ _Dave McQuilling / Review Geek_
 
  Once you actually read what Faber said about a "Rolex" mouse with long-term paid software support, it doesn't seem as mad as the headlines make it out to be, but the optics of this are still pretty poor. No one likes it when a company makes its planned obsolescence so obvious. It actually feels a little vulgar in a way. We all know our gear isn't built to last, but having it highlighted feels gross.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Phone Hardware Loses Support Too Soon
 
  However, the whole proposition of a forever mouse got me thinking—what other product would this actually work for?
@@ -97,37 +41,9 @@ _Dave McQuilling / Review Geek_
 
 ![Person pressing the S Pen button while holding the Samsung Galaxy S24 Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53468724291_c8e61563e6_o.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 Justin Duino / How-To Geek
 
  The main reason we have to give up our phones is simply due to a lack of software support. Apple has been the least worst company in this regard, with iPhones often getting support up to six years after their debut, and Samsung has been [committing to longer support cycles](https://www.androidauthority.com/samsung-android-updates-1148888/) too, but for most handsets, you can bargain on around two years of OS updates and perhaps a year or two more for security updates. After that, you might run into apps no longer working because they need newer OS versions, or security vulnerabilities that don't get patched. A serious issue for a device filled with your most personal info!
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  A “Forever Phone” Subscription Makes Way More Sense
 
@@ -135,9 +51,23 @@ Justin Duino / How-To Geek
 
  Apple has relatively few models of phone to support (and they wholly control the operating system), so the numbers are different for them, but on the Android side of the equation it's understandable (if vexing) that good phone hardware might become unusable due to a lack of software support resources.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Lots of Tech Could Use Anti-Obsolescence Subscriptions
 
 ![Colored lights behind a Smart TV with Apple TV open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53468253061_44c0fc720e_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -151,8 +81,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,34 +90,21 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-libertycam-studio-a-user-friendly-review/"><u>[Updated] 2024 Approved  LibertyCam Studio  A User-Friendly Review</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-az-screenshot-mastery-full-app-review-for-2024/"><u>[Updated] AZ Screenshot Mastery - Full App Review for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro/"><u>[Updated] Beneath the Surface  Secrets to Professional Underwater Videos with GoPro</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-belly-laughs-list-ultimate-guide-to-free-memes/"><u>2024 Approved  Belly Laughs List  Ultimate Guide to Free Memes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-new-frontiers-metaverses-vs-omniverse/"><u>2024 Approved  Navigating New Frontiers  Metaverses Vs. Omniverse</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smart-strategies-for-iphone-podcast-acquisition/"><u>2024 Approved  Smart Strategies for iPhone Podcast Acquisition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862820338-acer-nitros-stunning-34-inch-curved-screen-qhd-quality-at-unbeatable-200-shop-now-on-newegg/"><u>Acer Nitro's Stunning 34-Inch Curved Screen: QHD Quality at Unbeatable $200 - Shop Now on Newegg!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/alcatel-joy-tab-2-analysis-affordable-lte-tablet-guide/"><u>Alcatel Joy Tab 2 Analysis: Affordable LTE Tablet Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862743546-experience-enhanced-productivity-top-tier-lg-34-curved-display-awaits-for-an-unbeatable-price-of-499/"><u>Experience Enhanced Productivity: Top-Tier LG 34 Curved Display Awaits for an Unbeatable Price of $499!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862823268-get-the-lg-ultragear-34-qhd-display-with-g-sync-for-549-at-amazon-limited-time-offer/"><u>Get the LG Ultragear 34 QHD Display with G-Sync for $549 at Amazon – Limited Time Offer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862770787-get-the-ultimate-deal-samsung-odyssey-g50a-27-qhd-ips-display-for-only-255-on-amazon/"><u>Get the Ultimate Deal: Samsung Odyssey G50A 27 QHD IPS Display for Only $255 on Amazon!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-expert-moves-for-sharing-youtube-and-twitter-on-whatsapp-platform/"><u>In 2024, Expert Moves for Sharing YouTube and Twitter on WhatsApp Platform</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-10-v-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 10 V to Outlook | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/move-up-your-step-by-step-handbook-for-switching-to-windows-11/"><u>Move-Up: Your Step by Step Handbook for Switching to Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862824936-professional-gamers-choice-in-depth-analysis-of-dough-spectrums-27-oled-display-top-tiers-in-color-precision-and-visual-fidelity/"><u>Professional Gamers' Choice: In-Depth Analysis of Dough Spectrum's 27 OLED Display - Top Tiers in Color Precision & Visual Fidelity!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862808588-shop-the-best-gaming-monitor-of-the-year-for-a-steal-asus-tufs-34-curve-now-at-just-under-250/"><u>Shop the Best Gaming Monitor of The Year for a Steal - ASUS TUF's 34 Curve Now At Just Under $250</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862778698-spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-up-to-ultra-fast-gaming-the-new-asus-rog-strix-xg27wcs-monitor-delivers-crisp-visuals-on-its-27-va-screen-running-at-180-hz/"><u>Step Up to Ultra-Fast Gaming - The New Asus Rog Strix XG27WCS Monitor Delivers Crisp Visuals on Its 27 VA Screen Running at 180 Hz</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-buying-guide-for-computer-enthusiasts-by-toms-hardware/"><u>The Comprehensive Buying Guide for Computer Enthusiasts by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862810235-title-master-your-gameplay-on-asus-rog-strix-xg27acs-the-180hz-gaming-marvel-unveiled/"><u>Title: Master Your Gameplay on Asus ROG Strix XG27ACS - The 180Hz Gaming Marvel Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-the-ultimate-tech-guide/"><u>Tom's Computer Components: The Ultimate Tech Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-the-ultimate-guide/"><u>Tom's Tech Advisor: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guide-to-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Guide to the Latest Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-from-the-leading-hardware-experts/"><u>Tom's Tech Reviews: Insights From the Leading Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se39/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44%% Off Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-value-priced-4k-monitors/"><u>Ultimate Selection of Value-Priced 4K Monitors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-tech-the-ultimate-resource-hub-by-toms-experts/"><u>Unveiling New Tech: The Ultimate Resource Hub by Tom’s Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-guided-by-toms-expertise/"><u>Unveiling the Latest in Hardware - Guided by Tom's Expertise</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/windowsnap-tool-for-straightforward-recording/"><u>WindowSnap Tool for Straightforward Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-3-easy-youtube-audio-extraction-methods-free-and-secure/"><u>[New] In 2024, 3 Easy YouTube Audio Extraction Methods Free & Secure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-memorable-youtube-shorts-10-must-do-tips/"><u>[Updated] 2024 Approved Creating Memorable YouTube Shorts - 10 Must-Do Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-full-screen-fixes-for-online-streams/"><u>[Updated] Full-Screen Fixes for Online Streams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>[Updated] In 2024, Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-ways-to-solve-app-cannot-be-started-problem-in-microsoft-operating-system/"><u>Easy Ways to Solve 'App Cannot Be Started' Problem in Microsoft Operating System</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-m6-pro-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco M6 Pro 5G Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/story-3-the-cross-sectional-survey-misconception/"><u>Story 3: The Cross-Sectional Survey Misconception</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-trends-update-discover-whats-new-with-windows-portables-and-inside-scores-on-spotifys-upcoming-moves/"><u>Tech Trends Update: Discover What's New with Windows Portables and Inside Scores on Spotify's Upcoming Moves!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-demise-of-chromecast-a-tale-of-lost-potential-in-googles-oversight/"><u>The Demise of Chromecast: A Tale of Lost Potential in Google's Oversight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-impossibility-of-fixing-the-samsung-galaxy-ring/"><u>The Impossibility of Fixing the Samsung Galaxy Ring</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-3-benefits-of-upcoming-1000hz-display-technology-why-you-should-get-excited/"><u>Top 3 Benefits of Upcoming 1000Hz Display Technology: Why You Should Get Excited</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-5-drawbacks-of-choosing-a-suitcase-turntable-exploring-alternatives/"><u>Top 5 Drawbacks of Choosing a Suitcase Turntable: Exploring Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-gpus-the-ultimate-list-of-leading-graphics-cards/"><u>Top-Ranking GPUs: The Ultimate List of Leading Graphics Cards</u></a></li>
 </ul></div>
+

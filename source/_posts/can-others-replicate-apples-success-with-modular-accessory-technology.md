@@ -1,7 +1,7 @@
 ---
 title: Can Others Replicate Apple's Success with Modular Accessory Technology?
-date: 2024-09-10T10:50:29.123Z
-updated: 2024-09-11T10:50:29.123Z
+date: 2024-09-11T16:28:20.962Z
+updated: 2024-09-16T16:19:22.499Z
 tags:
   - android
 categories:
@@ -19,20 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Smartphones are a core part of our daily lives, and because of that, there have been many attempts to extend their functionality. Project Ara, LG modules, Moto Mods, and the recent CMF Phone 1, to name a few. However, only Apple's MagSafe has actually spawned a successful ecosystem of adaptable accessories. Why is that?
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  The Graveyard of Failed Attempts
 
  The concept of a "modular" smartphone has been around for a long time. One of the first big splashes was a project called "[Phonebloks](https://en.wikipedia.org/wiki/Phonebloks)" in 2013\. This was supposed to be a phone with a huge range of swappable components. Everything from the camera to storage to the vibration motor could be pulled and plugged like LEGO blocks.
@@ -40,20 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Phonebloks never made it past the concept phase, but the idea carried on with Google's "[Project Ara](https://en.wikipedia.org/wiki/Project%5FAra)" in that same year. Google–who was working with Motorola–had essentially the same execution as Phonebloks, but there was actually a real physical prototype and a Developer Edition. However, as was the problem with Phonebloks, the technology was just not ready, and it ended in 2016.
 
 ![Project Ara](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/project-ara.png) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Google
 
@@ -71,37 +43,9 @@ Moto Mods
 
  Since then, there have been some attempts from [Fairphone](https://extra-tips.techidaily.com/2024-approved-capture-the-spectacular-with-nikon-d500-in-4k/)–who is more concerned with repairability–and HMD Global is apparently interested in the concept, too. None of these ideas have truly caught on with the general public. Motorola probably had the best effort with a system that lasted several years, but it couldn't save the company from falling into irrelevance.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ##  Why MagSafe Succeeded
 
 ![MagSafe on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/52533931426_9c32e8d1a7_o.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Hannah Stryker / How-To Geek  
   
@@ -113,37 +57,29 @@ Hannah Stryker / How-To Geek
 
  Other manufacturers don't have that same track record and, as a result, don't have the same trust from consumers or accessory makers. LG made a big deal about their "LG Friends" accessories, then completely ditched the idea a year later. Motorola lasted four years. That's a problem.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How Others Can Find Success
 
 ![CMF Phone 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-nothing-1.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 CMF
 
@@ -161,8 +97,6 @@ CMF
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,50 +106,17 @@ CMF
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-crafting-content-for-successful-instagram-story-segments/"><u>[New] Crafting Content for Successful Instagram Story Segments</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-direct-from-instagram-masterful-techniques-for-igtv-video-transferring-for-2024/"><u>[New] Direct From Instagram  Masterful Techniques for IGTV Video Transferring for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-ultimate-guide-to-4k-capturing-applications/"><u>[New] In 2024, Ultimate Guide to 4K Capturing Applications</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-a-comprehensive-approach-to-adding-text-overlays-vimeo/"><u>2024 Approved  A Comprehensive Approach to Adding Text Overlays (Vimeo)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-make-slow-motion-videos-for-instagram/"><u>2024 Approved  How to Make Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>2024 Approved Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-9-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 9 Pro+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862822842-amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/composing-persuasive-podcast-introductions-for-2024/"><u>Composing Persuasive Podcast Introductions for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/connectivity-glitches-between-iphones-and-computers-how-to-fix-them/"><u>Connectivity Glitches Between iPhones and Computers: How to Fix Them</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/countdown-to-love-top-10-timing-tools-for-your-big-day-for-2024/"><u>Countdown to Love  Top 10 Timing Tools for Your Big Day for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dissecting-asuss-proart-pa-329q-an-expert-review-on-its-professional-capabilities/"><u>Dissecting Asus's ProArt PA 329Q  An Expert Review on Its Professional Capabilities</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/te-video-clarity-with-expert-tips-for-youtube-editors-for-2024/"><u>Elevate Video Clarity with Expert Tips for YouTube Editors for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862816787-elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/essential-steps-for-embedding-facebook-streams-online/"><u>Essential Steps for Embedding Facebook Streams Online</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862805004-experience-next-level-gaming-on-a-budget-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-now-at-199/"><u>Experience Next-Level Gaming on a Budget: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor Now at $199</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-through-toms-expert-analysis/"><u>Mastering Hardware Knowledge Through Tom's Expert Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/memorial-day-special-high-performance-dell-s322ndmg-32monitor-only-279/"><u>Memorial Day Special: High-Performance Dell S322nDMG 32Monitor, Only $279!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-innovations-a-deep-dive-by-toms-hardware-team/"><u>Navigating Tech Innovations: A Deep Dive by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-tips-from-toms-hardware-hub/"><u>Navigating the World of Electronics: Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-modern-hardware-with-expertise-from-toms-tech-zone/"><u>Navigating the World of Modern Hardware with Expertise From Tom's Tech Zone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/oled-monitor-sales-soar-as-experts-predict-shipping-of-134-million-devices-annually/"><u>OLED Monitor Sales Soar as Experts Predict Shipping of 1.34 Million Devices Annually</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-advice-by-toms-technology-tribune/"><u>Pioneering PC Advice by Tom's Technology Tribune</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ready-to-game-in-style-score-an-unbelievable-deal-on-the-24-inch-curved-acer-nitro-monitor-for-only-81/"><u>Ready to Game in Style? Score an Unbelievable Deal on the 24-Inch Curved Acer Nitro Monitor for Only $81!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722143239568-redefine-mobile-browsing-bings-intelligent-search-now-available/"><u>Redefine Mobile Browsing - Bing's Intelligent Search Now Available.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/securing-your-audio-library-the-top-5-steps-for-internet-radio-storage-for-2024/"><u>Securing Your Audio Library  The Top 5 Steps for Internet Radio Storage for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-asus-proart-pa32ucxr-revolutionary-mini-led-with-professional-grade-color-accuracy-explored/"><u>The Ultimate Guide to Asus ProArt PA32UCXR – Revolutionary Mini LED with Professional-Grade Color Accuracy Explored</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-tom/"><u>The Ultimate Guide to High-Performance Hardware by Tom</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-phantom-v-flip-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Phantom V Flip</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862771438-title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-diving-deep-into-computer-hardware/"><u>Tom's Tech Insights: Diving Deep Into Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-t17238628801698/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components/"><u>Tom's Tech Review: Expert Insights on Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Review: In-Depth Analysis and Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862790686-unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-10-hidden-powers-of-photoshop-newbies/"><u>Unveiling 10 Hidden Powers of Photoshop Newbies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-computer-secrets-top-picks-from-toms-comprehnensive-hardware-analysis/"><u>Unveiling Computer Secrets: Top Picks From Tom's Comprehnensive Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-in-depth-articles-on-gadgets-from-toms-computer-digest/"><u>Unveiling Tech Secrets: In-Depth Articles on Gadgets From Tom's Computer Digest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-with-toms-hardware-hub/"><u>Unveiling the Latest in Technology with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-technology-trends-at-toms-hardware-haven/"><u>Unveiling Top Technology Trends at Tom's Hardware Haven</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-fcpxs-full-potential-tips-and-tricks-for-managing-your-macs-storage-for-2024/"><u>Updated Unleash FCPXs Full Potential Tips and Tricks for Managing Your Macs Storage for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/urgent-alert-displayport-21-faces-critical-problems-with-uhbr-compatible-cables-why-nvidia-prefers-dp-14-for-rtx-40-series/"><u>Urgent Alert: DisplayPort 2.1 Faces Critical Problems With UHBR-Compatible Cables – Why NVIDIA Prefers DP 1.4 for RTX 40 Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/vaio-unveils-visionplus14-the-largest-and-lightest-portable-display-in-the-market/"><u>Vaio Unveils Vision+14: The Largest and Lightest Portable Display in the Market</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/viewsonic-va1nte-portable-monitor-evaluation-expected-performance-across-the-board/"><u>ViewSonic VA1nte Portable Monitor Evaluation: Expected Performance Across the Board</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-prime-steadicam-recommendations-for-professional-dslr-workflows/"><u>[Updated] Prime Steadicam Recommendations for Professional DSLR Workflows</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unveil-tiktoks-most-effective-typefaces-for-video-growth-this-year-for-2024/"><u>[Updated] Unveil TikTok's Most Effective Typefaces for Video Growth This Year for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-zany-zooms-a-list-of-10-hilarious-short-youtube-video-scenes-for-2024/"><u>[Updated] Zany Zooms A List of 10 Hilarious, Short YouTube Video Scenes for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-babel-fish-assessing-new-translation-titles/"><u>AI Babel Fish: Assessing New Translation Titles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/best-5-gif-to-video-converters-online-no-need-to-download/"><u>Best 5 GIF to Video Converters Online [No Need to Download]</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-audio-free-video-formats-mastering-the-art-of-silence-removal-in-popular-file-types-mp4-mkv-avi-mov-wmv-for-2024/"><u>New Audio-Free Video Formats Mastering the Art of Silence Removal in Popular File Types (MP4, MKV, AVI, MOV, WMV) for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcasts-features-and-pricing/"><u>New The Great DVR Debate TiVo vs Comcasts Features and Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-steelseries-gg-engine-problems-in-windows-systems/"><u>Troubleshooting Tips for Resolving SteelSeries GG Engine Problems in Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-next-gen-foldable-samsung-galaxy-z-flip-4-pros-and-innovations-compared/"><u>Unboxing the Next Gen Foldable: Samsung Galaxy Z Flip 4 Pros and Innovations Compared</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-causes-behind-your-phones-unexpected-reboots-a-comprehensive-guide/"><u>Understanding the Causes Behind Your Phone's Unexpected Reboots: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-functionality-of-the-android-systems-webview-component/"><u>Understanding the Functionality of the Android System's WebView Component</u></a></li>
 </ul></div>
+

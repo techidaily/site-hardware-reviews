@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating the Software on Your AirPods"
-date: 2024-09-10T10:50:28.879Z
-updated: 2024-09-11T10:50:28.879Z
+date: 2024-09-13T16:28:24.119Z
+updated: 2024-09-16T16:26:38.336Z
 tags:
   - hardware
 categories:
@@ -11,46 +11,12 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ## Step-by-Step Guide: Updating the Software on Your AirPods
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Quick Links
 
 * [AirPods Typically Update the Firmware Automatically](https://facebook.techidaily.com/beyond-the-newsfeed-narrative-unveiling-fact-fiction-at-facebook/)
 * [How to Check Which Firmware Your AirPods Are Running](https://facebook-record-videos.techidaily.com/principles-of-filming-inspirational-daily-living-documentaries-for-2024/)
 * [How to Force an AirPods Firmware Update](https://printer-issues.techidaily.com/canon-printer-setup-simplified-with-pictures/)
 * [What About Android Users?](https://some-techniques.techidaily.com/in-2024-highlighted-top-5-minimalist-action-camera-picks/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Key Takeaways
 
@@ -61,20 +27,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
  Apple's AirPods are one of the company's most popular accessories, and they're pretty great. Like all modern wireless headphones, they have firmware that sometimes needs to be updated for optimal performance. AirPods firmware should update automatically, but here's how to force an update if needed.
 
  Firmware updates are used to fix bugs in the AirPods and sometimes even add new features. If your AirPods are behaving how you'd expect, it's always a good idea to check whether there are updates available.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  AirPods Typically Update the Firmware Automatically
 
@@ -94,20 +46,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Inside the Settings app, tap the "General" button.
 
 ![General settings option on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_3_4524686351.png) 
@@ -115,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
  Next, tap "About" to progress.
 
 ![About option in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_6032957546.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scroll to the bottom of the screen, and you will notice your AirPods listed. Tap their entry.
 
@@ -124,19 +69,12 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![AirPods firmware version in iPhone settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_8828672558.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ##  How to Force an AirPods Firmware Update
 
@@ -146,29 +84,22 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 ![AirPods battery notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/imageedit_1_5622234489.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  That should be all that's needed. If you have a Mac, just make sure they're connected to the Mac while charging and that the Mac is connected to Wi-Fi instead.
 
  You won't see anything on-screen to suggest an update is underway, which isn't ideal. However, leave your AirPods for a few minutes and then follow the process above to check the current firmware version. It should have changed to the new version.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What About Android Users?
 
@@ -182,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,40 +122,13 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-best-of-the-best-crafting-a-top-5-racing-game-selection/"><u>[New] In 2024, The Best of the Best  Crafting a Top 5 Racing Game Selection</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-drive-sales-through-smart-use-of-snapchats-tools/"><u>[Updated] 2024 Approved  Drive Sales Through Smart Use of Snapchat's Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-imageinterplay-hub/"><u>[Updated] ImageInterplay Hub</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tech-tutorial-record-on-hangouts/"><u>[Updated] In 2024, Tech Tutorial  Record on Hangouts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/300-savings-available-now-hp-omen-transcend-laptop-featuring-rtx-graphics-and-stunning-oled-screen/"><u>$300 Savings Available Now: HP Omen Transcend Laptop Featuring RTX Graphics and Stunning OLED Screen</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-entering-a-friends-tiktok-live-a-step-by-step-guide/"><u>2024 Approved  Entering a Friend's TikTok Live  A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-with-dual-intel-powered-screens-begin-at-a-budget-of-899/"><u>Acemagic X1 with Dual Intel-Powered Screens — Begin at a Budget of $899</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-breakdown-navigating-the-world-of-gadgets-on-toms-digital-platform/"><u>Advanced Tech Breakdown: Navigating the World of Gadgets on Tom's Digital Platform</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/copilotplus-showcases-cutting-edge-snapdragon-notebooks-join-our-live-testing-event/"><u>Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-insights-from-toms-comprehensive-equipment-reviews/"><u>Cutting-Edge Tech Insights From Tom's Comprehensive Equipment Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-unveiling-the-secrets-of-high-performance-systems-by-toms-circuitry/"><u>Dive Into Technology: Unveiling the Secrets of High-Performance Systems by Tom's Circuitry</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-get-the-2024-asus-tuf-gaming-a15-laptop-this-memorial-day-for-an-exclusive-price-of-658/"><u>Don't Miss Out - Get the 2024 Asus TUF Gaming A15 Laptop This Memorial Day for an Exclusive Price of $658</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/emergency-evacuation-how-a-laptop-fired-up-an-american-airlines-flight/"><u>Emergency Evacuation: How a Laptop Fired Up an American Airlines Flight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-new-scented-way-to-compute-with-asus-adol-book-laptop-combining-technology-and-aromatherapy/"><u>Experience the New Scented Way to Compute With Asus' Adol Book Laptop: Combining Technology and Aromatherapy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862737205-experience-top-tier-performance-with-the-discounted-dell-16-inch-g16-laptop-only-949/"><u>Experience Top-Tier Performance with the Discounted Dell 16-Inch G16 Laptop - Only $949</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-gear-guides-and-tips/"><u>Exploring Computer Hardware with Tom: Gear Guides and Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-innovations-at-toms-tech-hub/"><u>Exploring the Latest Innovations at Tom's Tech Hub</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-vivo-y100a-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y100A Face Lock?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on Apple iPhone XR</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximize-visual-impact-the-perfect-blend-of-windows-11-photos-and-storyremix/"><u>In 2024, Maximize Visual Impact  The Perfect Blend of Windows 11, Photos and StoryRemix</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computing-world-top-picks-in-hardware-and-software/"><u>Inside Tom’s Computing World: Top Picks in Hardware and Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-adol-book-asus-latest-innovation-a-laptop-with-built-in-scent-technology/"><u>Introducing the Adol Book: Asus' Latest Innovation - A Laptop with Built-In Scent Technology</u></a></li>
-<li><a href="https://fox-info.techidaily.com/smirksketcher-lighten-up-with-quick-art-tools/"><u>SmirkSketcher  Lighten Up with Quick Art Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-application-launch-failure-the-0xc000003e-error-on-windows-11/"><u>Solving Application Launch Failure: The 0XC000003E Error on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-broad-vs-narrow-impact-of-artificial-intelligence/"><u>The Broad Vs. Narrow Impact of Artificial Intelligence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-top-tech-insights/"><u>Tom's Hardware Review - Top Tech Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-analysis/"><u>Tom's Tech Insights: In-Depth Computer Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-buyers-guide-to-the-best-gaming-laptops-real-world-benchmarks-and-evaluations/"><u>Ultimate Buyer's Guide to the Best Gaming Laptops : Real-World Benchmarks and Evaluations</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862654706-unbeatable-deal-m3-macbook-air-with-16gb-ram-and-13-display-at-just-1149/"><u>Unbeatable Deal: M3 MacBook Air with 16GB RAM & 13 Display at Just $1,149</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-reviews/"><u>Unveiling the Latest in Computing - Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-tips-from-tom/"><u>Unveiling the Latest in Computing: Tips From Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-techpicks/"><u>Unveiling the Latest in Computing: Tom's TechPicks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-tech-toms-pioneering-hardware-guides-and-analysis/"><u>Unveiling the Latest in Tech: Tom's Pioneering Hardware Guides and Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-through-toms-hardware-guides/"><u>Unveiling the Latest in Technology Through Tom's Hardware Guides</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-10-premier-travel-blogs-to-watch-online-for-2024/"><u>[Updated] 10 Premier Travel Blogs to Watch Online for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-bridging-the-media-gap-coordinating-vids-on-twitter-and-tumblr/"><u>[Updated] In 2024, Bridging the Media Gap Coordinating Vids on Twitter & Tumblr</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-tips-for-pc-based-console-game-recording/"><u>Essential Tips for PC-Based Console Game Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/making-the-smart-choice-prioritizing-a-timeless-mobile-device-over-a-novelty-computer-accessory/"><u>Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-ejecting-usb-mass-storage-device-easy-fixes/"><u>Problem Ejecting USB Mass Storage Device (EASY FIXES)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/resolving-no-permissions-errors-for-activating-voice-input-on-gboard/"><u>Resolving 'No Permissions' Errors for Activating Voice Input on Gboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/simultaneous-multi-device-setup-a-step-by-step-guide-to-installing-android-apps-on-all-your-gadgets/"><u>Simultaneous Multi-Device Setup: A Step-by-Step Guide to Installing Android Apps on All Your Gadgets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-introduction-to-luts-their-overview-and-benefits/"><u>Updated Introduction to LUTs Their Overview and Benefits</u></a></li>
 </ul></div>
+

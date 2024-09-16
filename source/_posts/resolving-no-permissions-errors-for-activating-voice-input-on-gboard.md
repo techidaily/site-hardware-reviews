@@ -1,27 +1,13 @@
 ---
 title: Resolving 'No Permissions' Errors for Activating Voice Input on Gboard
-date: 2024-09-10T10:50:31.271Z
-updated: 2024-09-11T10:50:31.271Z
+date: 2024-09-11T16:18:29.251Z
+updated: 2024-09-16T16:21:26.060Z
 tags:
   - android
 categories:
   - tech
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/samsung-galaxy-keyboard-android-gboard.jpg
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Resolving 'No Permissions' Errors for Activating Voice Input on Gboard
 
@@ -32,26 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * You can update your Gboard app to possibly resolve your problem. Do that by opening Play Store on your phone, finding "Gboard," and tapping "Update."
 
  You wanted to use your voice to type with Gboard, but instead of launching the voice typing feature, the keyboard displayed a “No Permission to Enable: Voice typing” error. How do you fix this error now? We’ve got a few easy ways to get around this problem on your Android phone.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ##  Let Gboard Access Your Phone’s Microphone
 
@@ -69,55 +35,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Gboard' highlighted on the 'Apps' page in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-android-gboard-app-settings.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  On Gboard's "App Info" page, select "Permissions."
 
 !['Permissions' highlighted on Gboard's 'App Info' page in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-android-gboard-app-permissions.jpg) 
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Tap the "Microphone" option.
 
 !['Microphone' highlighted on Gboard's 'App Permissions' page in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-android-gboard-microphone-permission.jpg) 
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  On the "Microphone" page, select "Allow Only While Using the App."
 
@@ -133,6 +57,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Clear Cache' highlighted on Gboard's 'Storage' screen in Android Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-androdi-gboard-clear-cache.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Update Your Gboard App
 
  The Gboard keyboard app updates automatically, but if you’ve disabled automatic updates or the app hasn’t updated for other reasons, the outdated app may be why you have issues using the voice typing feature.
@@ -143,19 +74,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Update' highlighted for Gboard in Google Play Store on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-update-gboard-android.jpg) 
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ---
 
@@ -167,8 +91,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,48 +100,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-elevate-your-tiktok-presence-with-exquisite-video-templates/"><u>[New] 2024 Approved  Elevate Your TikTok Presence with Exquisite Video Templates</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtubes-image-files-made-simple-online-desktop-and-terminal-steps/"><u>[New] 2024 Approved  Youtube’s Image Files Made Simple  Online, Desktop & Terminal Steps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-zoompictorialpro-perfect-image-expansion/"><u>[New] 2024 Approved  ZoomPictorialPro  Perfect Image Expansion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-discovering-the-quintessential-25-influence-kings-and-queens/"><u>[New] Discovering The Quintessential 25 Influence Kings and Queens</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-expert-advice-on-achieving-high-quality-gopro-videos/"><u>[New] Expert Advice on Achieving High-Quality GoPro Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-six-straightforward-mojang-homes-for-creative-builders-for-2024/"><u>[New] Six Straightforward Mojang Homes for Creative Builders for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-solutions-to-decipher-muted-facebook-videos/"><u>[Updated] 2024 Approved  Solutions to Decipher Muted Facebook Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-become-a-selfie-pro-10-premium-free-ios-camera-apps-for-2024/"><u>[Updated] Become a Selfie Pro  10 Premium, Free iOS Camera Apps for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-lg-bp350-monitors-unique-features/"><u>[Updated] Exploring the LG BP350 Monitor's Unique Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-talent-hunters-unite-top-10-video-roundup/"><u>[Updated] Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-critical-look-at-displayport-21s-shortcomings-with-uhbr-certified-cables-and-how-it-influences-nvidia-to-continue-with-dp-14-for-the-rtx-40-series/"><u>A Critical Look at DisplayPort 2.1'S Shortcomings With UHBR Certified Cables - And How It Influences Nvidia to Continue with DP 1.4 for the RTX 40-Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-top-of-the-line-asus-tuf-34-monitor-curved-display-lowest-price-at-249/"><u>Amazon's Exclusive Deal: Top-of-the-Line Asus TUF 34 Monitor, Curved Display – Lowest Price at $249</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aoc-breaks-into-professional-sector-with-dynamic-u3-lineup-for-graphic-professionals/"><u>AOC Breaks Into Professional Sector with Dynamic U3 Lineup for Graphic Professionals</u></a></li>
-<li><a href="https://fox-http.techidaily.com/auditory-adaptability-for-ace-gamers/"><u>Auditory Adaptability for Ace Gamers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boosting-your-instagrams-video-popularity/"><u>Boosting Your Instagram's Video Popularity</u></a></li>
-<li><a href="https://fox-http.techidaily.com/crafting-visual-dynamics-illustrator-motion-blur-tips-for-2024/"><u>Crafting Visual Dynamics  Illustrator Motion Blur Tips for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-1399-ultrawide-240-hz-oled-monitor-the-latest-launch-from-aocs-agon-pro-ag456uczd-series/"><u>Discover Cutting-Edge: $1,399 Ultrawide 240 Hz OLED Monitor - The Latest Launch From AOC's Agon Pro AG456UCZD Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-advanced-computing-at-toms-tech-store/"><u>Dive Into Advanced Computing at Tom's Tech Store</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elite-selection-of-wide-view-gaming-monitors-for-the-latest-year/"><u>Elite Selection of Wide-View Gaming Monitors for the Latest Year</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-pinnacle-of-professional-monitoring-asus-newest-creation-the-unrivaled-8k-mini-led-proart-display-brilliance-at-1200-nits-and-customizable-wi51/"><u>Experience the Pinnacle of Professional Monitoring: Asus' Newest Creation, The Unrivaled 8K Mini LED ProArt Display - Brilliance at 1200 Nits and Customizable with Cuatro Mil Lighting Zones.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862834381-get-the-best-deal-just-249-for-a-stunning-34-inch-asus-tuf-curved-monitor-amazon-exclusive/"><u>Get the Best Deal: Just $249 for a Stunning 34-Inch Asus TUF Curved Monitor - Amazon Exclusive</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-vivo-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Vivo Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ideal-display-options-for-an-enhanced-experience-on-ps5-and-xbox-series-sx/"><u>Ideal Display Options for an Enhanced Experience on PS5 and Xbox Series S/X</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone XS Max?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-gear-by-toms-hardware-team/"><u>In-Depth Analysis of PC Gear by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovating-your-setup-expert-advice-on-hardware-by-tom/"><u>Innovating Your Setup: Expert Advice on Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-for-enthusiasts-discover-what-toms-hardware-offers/"><u>Innovative Solutions for Enthusiasts – Discover What Tom's Hardware Offers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125186460-mastering-technology-with-toms-hardware-top-notch-reviews-tips-and-buying-advice/"><u>Mastering Technology with Tom's Hardware: Top-Notch Reviews, Tips, and Buying Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-middle-ground-with-viewsonic-va1655-a-balanced-review-of-its-capabilities/"><u>Mastering the Middle Ground with ViewSonic VA1655: A Balanced Review of Its Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-visual-excellence-the-asus-proart-pa32ucxr-review-a-leader-in-accurate-colors-and-precision-display-technology/"><u>Mastering Visual Excellence: The Asus ProArt PA32UCXR Review – A Leader in Accurate Colors and Precision Display Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-visual-impact-and-comfort-the-premium-34-curved-display-from-lg-available-for-just-499/"><u>Maximize Visual Impact and Comfort: The Premium 34 Curved Display From LG, Available for Just $499</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware-team/"><u>Navigate the Tech World: In-Depth Analysis by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-components-with-tom-a-guide-to-modern-hardware/"><u>Navigating Computer Components with Tom - A Guide to Modern Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-hardware-tips-from-tom/"><u>Navigating High-Performance Hardware - Tips From Tom</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-shaky-footage-no-problem-fcpx-video-stabilization-tips/"><u>New In 2024, Shaky Footage? No Problem! FCPX Video Stabilization Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-solutions-from-toms-technological-realm/"><u>Pioneering Hardware Solutions From Tom's Technological Realm</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/power-up-your-gameplay-in-depth-review-of-the-sleek-and-fast-gigabyte-aorus-fn32-ultragear-240hz-4k-display/"><u>Power Up Your Gameplay: In-Depth Review of the Sleek and Fast Gigabyte Aorus FN32 UltraGear 240Hz 4K Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-setup-with-the-aoc-agon-pro-ag45nucg-an-in-depth-look-at-the-45-ultrawide-oled-gaming-screen-sharp-performance-meets-stylish-extreme-curv68/"><u>Revolutionize Your Setup with The AOC Agon Pro AG45nUCG - An In-Depth Look at the 45 Ultrawide OLED Gaming Screen: Sharp Performance Meets Stylish Extreme Curve!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-with-the-incredible-deal-lgs-34-curved-monitor-for-only-499-upgrade-now/"><u>Revolutionize Your Visual Experience with the Incredible Deal: LG's 34 Curved Monitor for Only $499 - Upgrade Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-impact-of-conversations-on-the-growth-of-chatgpts-knowledge-base/"><u>The Impact of Conversations on the Growth of ChatGPT's Knowledge Base</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862829967-unbeatable-deal-alert-samsung-odyssey-g50a-27-inch-qhd-ips-monitor-drops-to-just-255-at-amazon/"><u>Unbeatable Deal Alert: Samsung Odyssey G50A 27-Inch QHD IPS Monitor Drops to Just $255 at Amazon</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>[Updated] 2024 Approved Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightning-fast-video-delivery-on-facebook-select-extensions-and-apps/"><u>2024 Approved Lightning-Fast Video Delivery on Facebook Select Extensions & Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mac-users-check-your-hardware-for-big-sur/"><u>2024 Approved Mac Users, Check Your Hardware for Big Sur</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-guide-transforming-apple-numbers-documents-into-microsoft-excel-format/"><u>Easy Guide: Transforming Apple Numbers Documents Into Microsoft Excel Format</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assemble-and-build-your-own-google-vr-viewing-device/"><u>In 2024, Assemble and Build Your Own Google VR Viewing Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-cable-modems-your-ultimate-buying-guide/"><u>Top Rated Cable Modems : Your Ultimate Buying Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-jbl-clip-n-5-portable-speaker-showdown-is-it-really-the-best/"><u>Top Rated JBL Clip N 5 Portable Speaker Showdown: Is It Really The Best?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-reviews-for-the-ultimate-desk-illuminator-lume-cube-edge-light-20-a-game-changer-in-office-efficiency/"><u>Top Reviews for the Ultimate Desk Illuminator: Lume Cube Edge Light 2.0 – A Game Changer in Office Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-the-future-beyond-turings-legacy/"><u>Tracing the Future: Beyond Turing's Legacy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-restoring-your-apple-airpods-airpods-pro-and-airpods-max/"><u>Ultimate Guide: Restoring Your Apple AirPods, AirPods Pro, and AirPods Max</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-premium-ipad-air-add-ons-reviewed-and-rated/"><u>Ultimate Selection: Premium iPad Air Add-Ons Reviewed and Rated!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-shielding-solutions-expertly-selected-samsung-galaxy-z-flip-n-cases/"><u>Ultimate Shielding Solutions: Expertly Selected Samsung Galaxy Z Flip N Cases</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-phone-dimensions-the-essential-role-of-the-camera-bump-a-non-negotiable-feature/"><u>Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-what-is-omegle-is-omegle-safe/"><u>Updated 2024 Approved What Is Omegle, Is Omegle Safe？</u></a></li>
 </ul></div>
+
