@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Typing Experience with Keychron Q1 HE's Magnetic Mechanism
-date: 2024-09-09T16:17:38.302Z
-updated: 2024-09-16T16:26:36.845Z
+date: 2024-09-17T06:34:01.145Z
+updated: 2024-09-21T23:11:31.056Z
 tags:
   - hardware
 categories:
@@ -220,10 +220,10 @@ Jerome Thomas / How-To Geek
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with keys removed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53663002984_f2992c0a1f_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -240,16 +240,16 @@ Jerome Thomas / How-To Geek
 
  This fancy magnetic switch tech does come with a disadvantage—the Q1 HE cannot be customized with the [VIA app](https://www.caniusevia.com/) like many keyboards are. You have to use the browser app, which is serviceable enough but not as good of an experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Great for Productivity And Gaming
 
 ![The Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard settings switches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662647656_67083e17b3_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -264,16 +264,10 @@ Jerome Thomas / How-To Geek
 ![53662860768_5b90521472_oThe Keychron Q1 HE -Wireless QMK Custom Magnetic Switch Keyboard with included accessories and box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/53662860768_5b90521472_o.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -307,19 +301,17 @@ The Q1 HE is the world's first 75% layout wireless QMK custom keyboard equipped 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-inquiry-into-youtubes-monetary-frequency/"><u>[New] In 2024, Inquiry Into YouTube's Monetary Frequency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/activision-breach-exposed-implications-for-gaming-security/"><u>Activision Breach Exposed: Implications for Gaming Security</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/behind-the-screen-samsung-ue590-4k-freesync-analysis-for-2024/"><u>Behind the Screen Samsung UE590 4K, FreeSync Analysis for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chortlechaos-dive-deep-into-meme-genesis/"><u>ChortleChaos Dive Deep Into Meme Genesis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nubia-z50-ultra-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nubia Z50 Ultra</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-hurdles-preventing-human-progress-and-advancement/"><u>Guide to Overcoming Hurdles Preventing Human Progress and Advancement</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-s23-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel S23 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revitalize-your-typing-experience-creative-combinations-of-keycap-sets/"><u>Revitalize Your Typing Experience: Creative Combinations of Keycap Sets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-7-technology-items-to-avoid-purchasing-this-season/"><u>Top 7 Technology Items to Avoid Purchasing This Season</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-microsd-cards-ranked-buyers-guide/"><u>Top MicroSD Cards Ranked : Buyer's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-ranking-dslr-photography-gear/"><u>Top-Ranking DSLR Photography Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-enhancements-the-ultimate-guide/"><u>Top-Rated Laptop Enhancements: The Ultimate Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tunefab-screen-recorder-review/"><u>Tunefab Screen Recorder Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-overcoming-frame-loss-in-high-pace-broadcasts-with-obs/"><u>[Updated] 2024 Approved Overcoming Frame Loss in High-Pace Broadcasts with OBS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-brand-voice-via-micro-business-videos/"><u>Building Brand Voice via Micro-Business Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-fitbit-inspire-hr-your-perfect-around-the-clock-workout-buddy/"><u>Comprehensive Analysis of the Fitbit Inspire HR: Your Perfect Around-the-Clock Workout Buddy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertidor-libre-y-descentralizado-para-cambiar-flac-a-wav-por-movavi-sin-pagos/"><u>Convertidor Libre Y Descentralizado Para Cambiar FLAC a WAV Por Movavi - Sin Pagos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-create-a-restore-point-in-windows-7-and-vista/"><u>How to Create a Restore Point in Windows 7 & Vista</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-civi-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Civi 3 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hasten-your-windows-doc-analysis-process/"><u>In 2024, Hasten Your Windows Doc Analysis Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-toms-detailed-guide-to-computer-components/"><u>Unlocking Technology Secrets: Tom's Detailed Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-value-a-deep-dive-into-the-mammoth-yet-economical-monoprice-144-hz-44-inch-gaming-display-review/"><u>Unlocking Value: A Deep Dive Into the Mammoth, Yet Economical Monoprice 144 Hz 44-Inch Gaming Display Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro-for-2024/"><u>Unveil Your Creative Potential Comprehensive Guide to PowerDirector Pro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-gadgets-toms-hardware-rundown/"><u>Unveiling the Latest in Gadgets - Tom's Hardware Rundown</u></a></li>
 </ul></div>
 

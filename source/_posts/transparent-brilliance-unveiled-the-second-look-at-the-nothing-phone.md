@@ -1,7 +1,7 @@
 ---
 title: "Transparent Brilliance Unveiled: The Second Look at the Nothing Phone"
-date: 2024-09-15T16:00:59.495Z
-updated: 2024-09-16T16:29:59.638Z
+date: 2024-09-19T03:10:18.901Z
+updated: 2024-09-22T08:10:15.426Z
 tags:
   - android
 categories:
@@ -145,10 +145,10 @@ Hannah Stryker / How-To Geek
  In general, the design of the Nothing Phone (2) would be fairly generic for a smartphone in 2023 if not for the transparent glass back. But it’s great to see a company doing something different, and it shows how any little feature that strays from the norm can be a big deal.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance and Battery: Good and Great
@@ -170,10 +170,10 @@ Hannah Stryker / How-To Geek
  While battery life is generally not something you have to worry about on mid-range phones—that’s certainly the case here—performance can be a mixed bag. The good news is the Nothing Phone (2) offers an experience that punches well above its weight class.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Cameras: Above Average
@@ -188,13 +188,6 @@ Hannah Stryker / How-To Geek
 
 ![Front camera and camera app on Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-front-camera-on-the-nothing-phone-2jpg_53041684530_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  The 32MP front camera takes decent selfies but has an annoying problem. Even with the “Retouching” feature disabled, it does quite a bit of smoothing and post-processing. Photos appear as if a light version of the Portrait Mode effect is being applied. That shouldn’t happen with “Retouching” turned off.
@@ -204,6 +197,13 @@ Hannah Stryker / How-To Geek
  The phone can record videos at up to 4K resolution at 30fps,1080p at 30 or 60fps, and with OIS and live HDR support. The video quality is good, but not outstanding. That’s a pretty accurate description for the cameras in general: good, but not outstanding.
 
 Close 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Nothing OS: Bold, For Better or Worse
 
@@ -215,18 +215,18 @@ Hannah Stryker / How-To Geek
 
 ![Nothing Phone 2 black and white icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-app-tray-on-the-nothing-phone-2jpg_53041684260_o-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  If you want to go all in on Nothing’s aesthetic, you can choose to have all your app icons be black and white. Unfortunately, you don’t always get that choice. Nothing is going for something much more stylistic and bold than other Android skins, and you’re locked into it. For example, the lock screen clock uses a dot matrix font. That would be cool as one option among others, but it can’t be changed—same deal for the red accent color in some of the system apps.
 
  I generally like the vibe of Nothing OS, but it also feels like a third-party theme that’s trying too hard at times. However, this was my first experience with Nothing OS, and it’s quickly become one of my favorite Android skins. I always appreciate it when an OEM doesn’t stray too far from the “stock Android” look.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Nothing Phone (2)?
 
@@ -240,6 +240,13 @@ Hannah Stryker / How-To Geek
 
 ![Nothing Phone 2 and a notebook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/the-nothing-phone-2-and-a-notebookjpg_53041482744_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Overall, the Nothing Phone (2) is an excellent second attempt from a relatively new company, but it’s not the only contender in this price range. The [Google Pixel 7](https://video-content-creator.techidaily.com/new-split-mkv-videos-with-ease-top-10-free-software-options-for-2024/)—which has been my daily phone for the past six months—is also $599 for 8GB of RAM. The Nothing Phone (2) offers a very similar experience, but I lean toward the Pixel for a couple of reasons: significantly better cameras, and I still prefer Google’s software.
@@ -249,13 +256,6 @@ Hannah Stryker / How-To Geek
 ![Nothing Phone 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/nothing-phone-2.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Nothing Phone 2
 
@@ -280,14 +280,15 @@ The Nothing Phone (2) offers unique features and a bold aesthetic in both hardwa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-no-cost-humor-in-your-arsenal-ultimate-meme-guide/"><u>2024 Approved No-Cost Humor in Your Arsenal – Ultimate Meme Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/can-others-replicate-apples-success-with-modular-accessory-technology/"><u>Can Others Replicate Apple's Success with Modular Accessory Technology?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/choosing-your-perfect-smartphone-a-comparison-between-samsung-galaxy-and-google-pixel/"><u>Choosing Your Perfect Smartphone: A Comparison Between Samsung Galaxy and Google Pixel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/determine-the-total-number-of-vehicles-passed-through-texas-in-june-which-is-given-as-8-times-106/"><u>Determine the Total Number of Vehicles Passed Through Texas in June, Which Is Given as $8 Times 10^6$.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-advanced-artificial-intelligence-cameras-of-google-pixel-7-series-starting-at-599/"><u>Discover the Advanced Artificial Intelligence Cameras of Google Pixel 7 Series, Starting at $599</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fix-your-amd-fx-8350-driver-glitches-easily-for-smooth-windows-performance/"><u>Fix Your AMD FX-8350 Driver Glitches Easily for Smooth Windows Performance</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-augmenting-youtube-video-space-for-2024/"><u>Step-by-Step Augmenting YouTube Video Space for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-aligning-brands-with-youtube-content-for-2024/"><u>The Art of Aligning Brands with YouTube Content for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-best-of-fcp-top-10-movies-mastered-with-final-cut-pro/"><u>Updated 2024 Approved The Best of FCP Top 10 Movies Mastered with Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-youtube-live-with-high-quality-webcam-cameras/"><u>[New] In 2024, Elevating YouTube Live with High-Quality Webcam Cameras</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-leading-20-anime-theme-anthems/"><u>[New] Leading 20 Anime Theme Anthems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-the-latest-drivers-for-your-epson-scanning-equipment/"><u>How to Securely Download the Latest Drivers for Your Epson Scanning Equipment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-in-depth-analysis-simplified-dynamic-range-photography/"><u>In 2024, In-Depth Analysis Simplified Dynamic Range Photography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/instant-insight-method-for-punctuation-of-timelines-in-images-for-2024/"><u>Instant Insight Method for Punctuation of Timelines in Images for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-science-behind-oleds-working-principle-explained/"><u>The Science Behind OLEDs: Working Principle Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-usb-standards-a-comprehensive-guide-to-generations-1-2-and-2x2-decoding-usb-32/"><u>Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
 </ul></div>
 

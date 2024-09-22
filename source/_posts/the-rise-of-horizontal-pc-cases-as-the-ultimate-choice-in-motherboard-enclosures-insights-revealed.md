@@ -1,7 +1,7 @@
 ---
 title: The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed
-date: 2024-09-10T16:13:16.606Z
-updated: 2024-09-16T16:39:27.626Z
+date: 2024-09-16T09:43:56.729Z
+updated: 2024-09-22T10:50:49.503Z
 tags:
   - hardware
 categories:
@@ -29,16 +29,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The engineers who came up with tower cases did not envision GPUs that weight as much as a small laptop hanging off a PCIe slot and two panel screws. [GPU sag](https://common-error.techidaily.com/how-incompatible-drivers-can-compromise-the-integrity-of-your-ftdi-synchronous-data-transmission/) is a real issue, and there are various brackets, holders, and other increasingly silly solutions. Things have sort of come full circle with the use of GPU risers, where an extension cable from the motherboard's PCIe slot leads to a [vertical stand for the GPU](https://win11.techidaily.com/6-ways-to-fix-the-windows-11-mail-app-when-it-shows-html-code-for-emails/). Well, you might as well have a horizontal case to begin with!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Working Inside Is Easier
 
  I've always felt that desktop tower cases are more of a pain to work inside than horizontal cases. After all, what does everyone do with their towers when they work on them? They turn them on their sides! Again, a completely unnecessary in-between step that horizontal cases make moot. With a horizontal case, you can even make the lid of the case a functional part of the case, instead of a completely separate panel.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  It’s More Space Efficient
 
@@ -46,18 +46,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  That may be even more true today. I have a 34-inch [ultrawide monitor](https://fox-friendly.techidaily.com/new-handheld-panorama-peacekeeper-360-stabilizer-for-2024/) on my desk, and certainly a horizontal PC case would fit under it without exceeding its horizontal footprint. A traditional horizontal case would still eat a few inches of depth on the desk, but as I'll explain shortly, that might not be necessary in a modern context.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  It Doesn’t Have to Go on the Floor
 
  Frankly, I rarely see desk setups where the tower is on the desk itself, unless it's one of those enormous streamer dream setups or hardcore enthusiast gamers. It's far more common for people to just plop their towers on the floor next to the desk, and there's nothing wrong with that. It's what they were made for.
 
  However, this does make them a huge dust magnet, as dust on the floor gets sucked into the case and clogs up the vents. This happens to all computers eventually, but much more slowly for systems that actually go on top of your desk.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  It Would Be Even Better Today
 
@@ -84,19 +84,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/utting-edge-strategies-for-flawless-custom-shorts-coverage-for-2024/"><u>[New] Cutting-Edge Strategies for Flawless Custom Shorts Coverage for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enigmatic-engagements-in-top-escape-venues/"><u>[New] In 2024, Enigmatic Engagements in Top Escape Venues</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-leveraging-snap-functions-boosting-virtual-interaction-during-meets-for-2024/"><u>[New] Leveraging Snap Functions Boosting Virtual Interaction During Meets for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-quickcopy-consultants-thoughts/"><u>[New] QuickCopy Consultants' Thoughts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-eliminating-grey-edges-on-video-a-youtube-fix-guide/"><u>[Updated] 2024 Approved Eliminating Grey Edges on Video A YouTube Fix Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-cinematography-skills-editing-and-sharing-360-videos-on-youtube/"><u>[Updated] Elevate Your Cinematography Skills Editing and Sharing 360° Videos on YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apple-compensates-customers-with-defective-butterfly-keyboard-issues/"><u>Apple Compensates Customers with Defective Butterfly Keyboard Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-bargains-on-technology-score-a-new-qled-television-premium-beats-studio-buds-compact-mac-mini-and-other-essentials/"><u>Best Bargains on Technology: Score a New QLED Television, Premium Beats Studio Buds, Compact Mac Mini, and Other Essentials!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beyond-the-hype-how-ray-tracing-transforms-graphics-with-unmatched-depth-and-realism/"><u>Beyond the Hype: How Ray Tracing Transforms Graphics with Unmatched Depth and Realism</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comparing-top-ereader-gadgets-your-go-to-guide-s-best-picks/"><u>Comparing Top eReader Gadgets: Your Go-To Guide 'S Best Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-switchbot-remote-overview-does-it-truly-merge-all-your-needs/"><u>Comprehensive SwitchBot Remote Overview: Does It Truly Merge All Your Needs?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-to-performing-risk-free-bios-update-operations/"><u>Guide to Performing Risk-Free BIOS Update Operations</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-sim-not-provisioned-mmi-issues-a-step-by-step-guide/"><u>Resolving 'SIM Not Provisioned MMI' Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-list-of-8-youtube-mistakes-to-evade/"><u>[Updated] In 2024, The Ultimate List of 8 Youtube Mistakes to Evade</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-battle-between-youtubes-copyright-clause-and-cc-license/"><u>[Updated] The Battle Between YouTube’s Copyright Clause & CC License</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-your-creativity-best-practices-for-snap-ad-success/"><u>[Updated] Unleash Your Creativity Best Practices for Snap Ad Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-innovative-hardware-with-tom-expert-insights-and-evaluations/"><u>Discover Innovative Hardware with Tom - Expert Insights and Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-deal-alert-samsungs-cutting-edge-odyssey-g9-monitor-drops-to-record-lows/"><u>Exclusive Deal Alert: Samsung's Cutting-Edge Odyssey G9 Monitor Drops to Record Lows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-computing-equipment-toms-hardware-wisdom/"><u>Expert Guidance on Computing Equipment - Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-toms-hardware-products/"><u>Expert Insights on Tom's Hardware Products</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-world-of-computers-with-toms-hardware-insights/"><u>Explore the World of Computers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-transformative-strategies-for-impartiating-patient-narratives/"><u>In 2024, Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-interactive-display-malfunction-now-operational/"><u>Lenovo Interactive Display Malfunction - Now Operational</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-enablingdisabling-picture-in-picture/"><u>Step by Step Enabling/Disabling Picture-in-Picture</u></a></li>
 </ul></div>
 

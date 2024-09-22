@@ -1,7 +1,7 @@
 ---
 title: "Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature"
-date: 2024-09-13T16:07:12.746Z
-updated: 2024-09-16T16:36:47.583Z
+date: 2024-09-17T19:00:51.864Z
+updated: 2024-09-22T07:22:55.312Z
 tags:
   - hardware
 categories:
@@ -37,32 +37,26 @@ Justin Duino / How-To Geek
 
 ![iPhone 14 Pro and S22 Ultra in Leather Cases](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Leather-Case-Hero.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sydney Butler / How-To Geek
 
  I used to be a naked phone advocate, and I would still prefer that, but the camera bumps on my modern phones basically made me get [leather cases](https://facebook-video-footage.techidaily.com/new-discover-the-top-30-freefire-hashtags-for-amplifying-video-growth-for-2024/) for them. Because of those bumps, the phones don't feel good to hold or handle, and they are wobbly on flat surfaces, where, believe it or not, I often use them. The case essentially flattens the back and makes the camera bump flush.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Cases Reveal True Thickness
 
  Since the case adds thickness to the phone to match the protrusion of the camera bump, that's the actual thickness of the phone. The practice of quoting the thinnest part of a device, as was done with the MacBook Air wedge design or with [OLED TVs with big bottoms](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-edge-2023-devices-by-drfone-android/), is a marketing tactic. It would be one thing if the majority of people didn't use phone cases or that phones with big bumps felt good to use naked, but in my opinion, those are the exception rather than the rule. Which means that you should add the camera bump size to the phone's quoted figures to get the real story. A number that the manufacturers themselves generally don't provide.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don’t Fall for the Hype
@@ -86,12 +80,15 @@ Sydney Butler / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-4-effective-methods-for-slide-embedding-from-youtube/"><u>[New] In 2024, 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elite-mp4-streamer-system-for-fb-for-2024/"><u>[Updated] Elite MP4 Streamer System for FB for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-asrocks-latest-breakthrough-dual-27-inch-1440p-ips-screens-with-built-in-wifi-antennas-on-desk-mounts/"><u>Discover ASRock's Latest Breakthrough: Dual 27-Inch 1440P IPS Screens with Built-In WiFi Antennas on Desk Mounts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-latest-insignia-bluetooth-adapter-drivers-for-windows-systems/"><u>Install the Latest Insignia Bluetooth Adapter Drivers for Windows Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/steps-to-incorporate-vital-health-details-on-your-android-device/"><u>Steps to Incorporate Vital Health Details on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-secret-behind-exceptional-phone-experience-its-all-about-timeless-uncomplicated-design/"><u>The Secret Behind Exceptional Phone Experience: It's All About Timeless, Uncomplicated Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-14-friendly-multiplayer-android-gaming-experiences-you-shouldnt-miss/"><u>Top 14 Friendly Multiplayer Android Gaming Experiences You Shouldn't Miss</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-momentfreeze-immediate-screen-grab-guide-for-2024/"><u>[New] MomentFreeze Immediate Screen Grab Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-significant-security-flaw-with-latest-update-msi-releases-agesa-120c-for-ryzen-processors/"><u>AMD Resolves Significant Security Flaw with Latest Update: MSI Releases AGESA 1.2.0.C for Ryzen Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-announces-latest-generation-of-arrow-lake-motherboards-featuring-an-enhanced-taichi-model-supporting-camm2-ram/"><u>ASROCK Announces Latest Generation of Arrow Lake Motherboards - Featuring an Enhanced Taichi Model Supporting CAMM2 RAM</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-revolutionizes-chinas-pc-building-with-a-dedicated-motherboard-skyrocketing-kx-7000-cpu-speed-by-25-through-overclocking/"><u>Asus Revolutionizes China’s PC Building with a Dedicated Motherboard, Skyrocketing KX-7000 CPU Speed by 25% Through Overclocking</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/audio-ambiance-weaving-music-into-instagram-moments/"><u>Audio Ambiance Weaving Music Into Instagram Moments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/audiorecorder-examination-for-2024/"><u>Audiorecorder Examination for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-8-plus-5-ways-to-get-into-a-locked-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 8 Plus? 5 Ways to get into a Locked Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-last-epoch-startup-problems-on-pc-expert-tips-and-patch-notes-for-202e/"><u>Overcome Last Epoch Startup Problems on PC: Expert Tips and Patch Notes for 202E</u></a></li>
+<li><a href="https://video-capture.techidaily.com/steps-to-record-your-gameplay-on-a-nintendo-switch-for-2024/"><u>Steps to Record Your Gameplay on a Nintendo Switch for 2024</u></a></li>
 </ul></div>
 

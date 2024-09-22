@@ -1,7 +1,7 @@
 ---
 title: Top 7 Technology Items to Avoid Purchasing This Season
-date: 2024-09-09T16:09:47.295Z
-updated: 2024-09-16T16:17:00.503Z
+date: 2024-09-20T09:53:41.769Z
+updated: 2024-09-21T23:26:48.870Z
 tags:
   - hardware
 categories:
@@ -59,13 +59,6 @@ The Samsung Galaxy Watch 7 is Samsung's entry-level smartwatch for 2024\. It res
 
 [$300 at Samsung](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch7%2F) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004220/https://www.verizon.com/connected-smartwatches/samsung-galaxy-watch7/) [$350 at Amazon](https://amazon.com/dp/B0D1YP5ZQB?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3  Sonos Arc 
 
  When the [original Sonos Arc](https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70e-device-by-drfone-android/) dropped back in 2020, it disrupted the TV soundbar industry. This was a premium soundbar with Dolby Atmos, a sleek design, and excellent sound quality. However, it was quite expensive when it launched at $799\. What's worse is that it actually got a price bump to [$899](https://www.techradar.com/reviews/sonos-arc#:~:text=The%20Sonos%20Arc%20has%20long,which%20delivers%20high%2Dimpact%205.0.), and it's currently [$872.50](https://www.amazon.com/dp/B087CCKWWP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004220&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-products-you-shouldnt-buy-this-summer%2F&asc%5Fcampaign=Short-Term) for the white model or $889.99 for the black one.
@@ -75,6 +68,13 @@ The Samsung Galaxy Watch 7 is Samsung's entry-level smartwatch for 2024\. It res
 _Sonos_
 
  With the [second generation](https://www.techradar.com/televisions/soundbars/sonos-arc-2-set-for-2024-launch-with-next-gen-speaker-tech-and-a-serious-price-tag) apparently around the corner, it makes little sense to buy the original model at such a high price tag. It's worth noting that the 2nd-gen Arc will reportedly cost $1,200, but it'll likely have even better sound quality. If you're an audiophile, and no price is too high, the 2nd-gen Sonos Arc is worth the wait. If you want to upgrade your TV's sound quality at a reasonable price, check out our list of the [best soundbars of 2024](https://discord-videos.techidaily.com/how-to-keep-the-conversation-flowing-on-discord/) instead.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4  PlayStation 5 
 
@@ -97,10 +97,10 @@ Hannah Stryker / How-To Geek
 ![A Nintendo Switch Lite.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nintendo-switch-lite.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Goran Damnjanovic/How-To Geek
@@ -116,10 +116,10 @@ Goran Damnjanovic/How-To Geek
 Justin Duino / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  AMD Ryzen 7000 Series and 14th Gen Intel CPUs 
@@ -147,17 +147,15 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-premium-downloader-suite-for-vimeo-content/"><u>2024 Approved Premium Downloader Suite for Vimeo Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/critical-bug-solutions-for-call-of-duty-modern-warfare-and-victory-road-warzone/"><u>Critical Bug Solutions for Call of Duty: Modern Warfare and Victory Road (Warzone)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-the-high-end-price-tag-on-the-latest-model-g-electric-dual-zone-bbq/"><u>Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-hd-photography-insta360s-new-tiny-go-3-shoots-in-stunning-4k-resolution/"><u>Experience Ultra-HD Photography: Insta360's New Tiny Go 3 Shoots in Stunning 4K Resolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cherry-xtrfy-k5v2-a-game-changing-review-with-cutting-edge-red-keyswitch-technology/"><u>Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-extract-to-temp-folder-error-1152-on-win/"><u>Fixing 'Extract to Temp Folder Error 1152' On Win</u></a></li>
-<li><a href="https://driver-download.techidaily.com/flawless-workflow-with-wacom-intuos-3-ultimate-driver-downloads-for-windows-systems/"><u>Flawless Workflow with Wacom Intuos 3: Ultimate Driver Downloads for Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-razr-40-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Razr 40</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/skyrim-infinite-screen-glitch-no-more-issue-resolved/"><u>Skyrim Infinite Screen Glitch No More: Issue Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-a-broken-or-unresponsive-apple-mouse/"><u>Step-by-Step Solution for a Broken or Unresponsive Apple Mouse</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-face-off-a-detailed-comparison-guide/"><u>[New] GoPro Face-Off A Detailed Comparison Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-ultimate-3-fb-movie-extractors/"><u>[Updated] Ultimate 3 Fb Movie Extractors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11/"><u>In 2024, Expertise Unlocked Smooth Video Cuts on Photos via Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgetry-inside-tips-from-toms-hardware-experts/"><u>Mastering Gadgetry: Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-high-fps-discover-tcls-innovative-1000hz-refresh-rate-in-their-new-4k-gaming-display/"><u>Mastering High FPS: Discover TCL’s Innovative 1,000Hz Refresh Rate in Their New 4K Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-a-guide-to-hardware-by-toms-tech-wisdom/"><u>Mastering Modern Devices: A Guide to Hardware by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-components-essential-reviews-by-tomebased-hardware-guru/"><u>Mastering Tech Components: Essential Reviews by Tom'ebased Hardware Guru</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-here-are-some-useful-tips-to-help-you-get-the-most-out-of-virtualdub/"><u>New Here Are some Useful Tips to Help You Get the Most Out of VirtualDub</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-humor-in-gif-form-mastering-the-most-important-8-creation-methods/"><u>The Art of Humor in GIF Form Mastering the Most Important 8 Creation Methods</u></a></li>
 </ul></div>
 

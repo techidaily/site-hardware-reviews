@@ -1,7 +1,7 @@
 ---
 title: Why Paddle Controllers Enhance My Gaming Experience - An Insider Look
-date: 2024-09-15T16:21:52.008Z
-updated: 2024-09-16T16:16:26.154Z
+date: 2024-09-15T01:32:55.084Z
+updated: 2024-09-22T03:08:17.888Z
 tags:
   - hardware
 categories:
@@ -40,6 +40,13 @@ Valve
 
  Considering that I have medium-sized hands, I found that using paddles is much more convenient than having to reach for bumpers. Nowadays, I use paddles instead of bumpers in most games I play. If you have small hands, I reckon back paddles could massively improve your gaming experience, especially on devices like the Steam Deck, which is not very friendly to gamers with small hands.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Rear Paddles Make Some Control Schemes Easier to Use
 
  But that’s not all. The two buttons I hate using on every controller are the thumbstick clicks, also known as L3 or LS and R3 or RS. They are hard to press on most controllers, yet you end up accidentally pressing them in high-tension moments, usually right when you don't want to. The most egregious example of a game with annoying L3/R3 mappings I’ve found to date is _Everspace 2_. A highly enjoyable spaceship shooter but, as those usually go, a game with a highly convoluted control scheme.
@@ -62,13 +69,6 @@ Hannah Stryker / How-To Geek
 
  In shooters like _Call of Duty_, on the other hand, I can reload, jump, and crouch or slide without taking my thumb off the right thumbstick. This means I can always adjust my aim, even while reloading or sliding. For console players who have little choice but to use a controller, this can be a huge boon. You can get [a similar advantage](https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/) in other FPS games since most of them have frequently used moves mapped to face buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  On Steam Deck and ROG Ally, Rear Paddles Take Things to the Next Level
 
  While a regular paddle button controller is brilliant, rear buttons being natively supported, like on the Steam Deck and ROG Ally, is even better. On the two handhelds, you aren’t limited to copying other button mappings; you can map anything you like, including keyboard keys and key combos. On the Ally, I can use one of the two paddles as a modifier, practically doubling the number of buttons available.
@@ -78,10 +78,10 @@ Hannah Stryker / How-To Geek
 ![Sony's DualSense Edge controller rear paddles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dualsense_paddles.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sony
@@ -107,17 +107,15 @@ Sony
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortlessly-enhanced-images-learn-the-insider-snapchat-tactics/"><u>[New] In 2024, Effortlessly Enhanced Images Learn the Insider Snapchat Tactics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>[New] In 2024, How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-chorus-of-content-perfecting-music-placement-on-ig/"><u>[Updated] 2024 Approved The Chorus of Content Perfecting Music Placement on IG</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-approach-for-creating-and-merging-stunning-hdr-photos/"><u>2024 Approved A Step-by-Step Approach for Creating & Merging Stunning HDR Photos</u></a></li>
-<li><a href="https://facebook.techidaily.com/behind-the-shield-understanding-secure-fb/"><u>Behind the Shield: Understanding Secure FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-the-ultimate-elgato-stream-deck-model/"><u>Find the Ultimate Elgato Stream Deck Model</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-top-15-online-and-desktop-platforms-to-create-gifs/"><u>In 2024, Top 15 Online & Desktop Platforms to Create GIFs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-extracting-compressed-folders-on-android-phones-and-tablets/"><u>Step-by-Step Tutorial: Extracting Compressed Folders on Android Phones and Tablets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-a-risk-with-android-15-beta-heres-your-step-by-step-trial-and-uninstallation-process/"><u>Taking a Risk with Android 15 Beta? Here's Your Step-by-Step Trial and Uninstallation Process.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-cooking-apps-for-android-devices-find-your-perfect-match/"><u>Top Rated Cooking Apps for Android Devices: Find Your Perfect Match</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/videopad-video-editor-review-the-best-choice-for-your-video-editing-needs-for-2024/"><u>Videopad Video Editor Review The Best Choice for Your Video Editing Needs for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-7-hdmi-audio-fix-a-comprehensive-solution-guide/"><u>Windows 7 HDMI Audio Fix: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aximizing-impact-strategies-for-watermark-and-logo-insertion-in-yt-videos/"><u>[New] Maximizing Impact Strategies for Watermark & Logo Insertion in YT Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-list-of-affordable-high-definition-cameras-for-2024/"><u>[New] Prime List of Affordable High Definition Cameras for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premier-10-lenses-for-superior-image-capture/"><u>[Updated] 2024 Approved Premier 10 Lenses for Superior Image Capture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-spectacular-scrutiny-and-different-directions/"><u>[Updated] Spectacular Scrutiny & Different Directions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-turbocharge-your-instagram-videos-online-tactics/"><u>2024 Approved Turbocharge Your Instagram Videos Online Tactics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-the-course-from-adsense-income-to-savings-for-2024/"><u>Charting the Course From AdSense Income to Savings for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-open-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Open Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovation-and-reviews-at-your-fingertips/"><u>Tom's Tech Hub - Innovation & Reviews at Your Fingertips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-computer-hardware-reviews/"><u>Tom's Tech Hub: Innovative Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-news/"><u>Tom's Tech Insights: In-Depth Reviews & News</u></a></li>
 </ul></div>
 

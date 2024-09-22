@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy
-date: 2024-09-13T16:29:45.894Z
-updated: 2024-09-16T16:20:06.851Z
+date: 2024-09-18T01:54:29.733Z
+updated: 2024-09-22T02:30:59.562Z
 tags:
   - hardware
 categories:
@@ -44,6 +44,13 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
  These days you are likely to see a Guru Meditation when a website you're trying to visit goes belly up, since the error message is part of the popular Varnish back-end software used to accelerate content-heavy, dynamic websites.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Grok
 
 ![Martians grokking](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/martians-grokking.png) 
@@ -51,6 +58,13 @@ Sydney Louw Butler / How-To Geek / MidJourney
 Sydney Louw Butler / How-To Geek / MidJourney
 
  I wrote an entire article about [how the word "Grok" became a computer term](https://tiktok-video-recordings.techidaily.com/swift-playback-in-tiktok-enhancing-performance/), but the Cliffs Notes version is that the word comes from the SF novel _Stranger in a Strange Land_by Robert A. Heinlein. Yes, the same guy who wrote _Starship Troopers,_ among many other classics. It's a Martian word that means literally to "drink", but in context, it means to understand something on a holistic and fundamental level. In a computer context, it means understanding something intuitively. For example, if you Grok generative AI, you really understand it on a deep level.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Kernel Panic
 
@@ -60,40 +74,32 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 ![Two computers in a foto race](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/two-computers-in-a-foto-race.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sydney Louw Butler / How-To Geek / MidJourney
 
  While it might sound like some sort of term from a sociology textbook, a "race condition" happens when two or more processes are running on a computer, and the outcome of the one depends on the timing or order of execution of the other. Basically, there's a lack of communication between the two processes, they don't wait for each other to finish their job before doing their own, and this can lead to all sorts of weird and sometimes dangerous situations. Especially in systems that have critical jobs like keeping a nuclear power plant cooled, or monitoring someone's vital signs. The term was already in use [as far back as 1954](https://dspace.mit.edu/bitstream/handle/1721.1/4804/RLE-TR-274-14266383.pdf?sequence=1) in the field of electronics, since it can happen in any situation where two dependent processes are running.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fatal Exception
 
  While his sounds like the movie title of a thriller, a fatal exception is an error that forces a program or the whole operating system to close or shut down. This usually happens when a program tries to run an "illegal" instruction or tries to access a section of memory it's not meant to. It's "fatal" in the sense that it's the end of the road. You can't keep going anymore. [You are an ex program](https://en.wikipedia.org/wiki/Dead%5FParrot%5Fsketch).
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Nonce
 
  This is a word you'll see come up often if you work in the cryptographic space, and on many websites you'll find this word in nestled somewhere in the site's code. The word is a shortening of "number used once", and basically means a random number that's added into an encryption protocol or some sort of digital signature or handshake. Nonces are crucial in preventing a specific type of attack referred to as a ["replay" attack](https://desktop-recording.techidaily.com/2024-approved-launching-your-digital-dialogues-in-google-meet/). This is where a hacker records data that's been sent and simply repeats it to gain access.
 
  By adding in a nonce, you ensure that there can't be duplicate commutations, because there's a [pseudorandom](https://facebook-video-share.techidaily.com/new-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/) number that's different each time. The term may also be related to the linguistic concept of a [nonce word](https://dictionary.cambridge.org/dictionary/english/nonce-word), which is "a word invented for a particular occasion or situation." according to the Cambridge dictionary.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Salt
 
@@ -130,16 +136,18 @@ Sydney Louw Butler / How-To Geek / MidJourney
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/deciphering-the-function-of-an-hdmi-arc-inputoutput-in-modern-televisions/"><u>Deciphering the Function of an HDMI-ARC Input/Output in Modern Televisions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-the-best-aqara-smart-lock-option-an-experts-roadmap-to-making-the-choice-that-suits-you/"><u>Decoding the Best Aqara Smart Lock Option: An Expert's Roadmap to Making the Choice That Suits You</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-tricks-of-finding-vanished-airtags-and-invisible-bluetooth-tracks-easily/"><u>Discovering the Tricks of Finding Vanished Airtags & Invisible Bluetooth Tracks Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gross-income-strategies-for-podcasters/"><u>Gross Income Strategies for Podcasters</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/how-cookiebot-enhances-your-digital-marketing-efforts-through-smart-bidding-and-automation/"><u>How Cookiebot Enhances Your Digital Marketing Efforts Through Smart Bidding and Automation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-moto-g14-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Moto G14</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/maximize-your-gains-highest-earning-instagram-tactics-for-2024/"><u>Maximize Your Gains Highest Earning Instagram Tactics for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-efficiency-essential-7-strategies-in-windows-11/"><u>Maximizing Efficiency: Essential 7 Strategies in Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-dell-desktop-screen-capture-tutorial-for-2024/"><u>Step-by-Step Dell Desktop Screen Capture Tutorial for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlocking-seamless-gaming-expert-fixes-for-non-working-steam-remote-play/"><u>Unlocking Seamless Gaming: Expert Fixes for Non-Working Steam Remote Play</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-are-there-no-wps-buttons-anymore-on-android-phones-a-comprehensive-guide/"><u>Why Are There No WPS Buttons Anymore on Android Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-your-guide-to-stellar-igtv-talent-for-2024/"><u>[Updated] Your Guide to Stellar IGTV Talent for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-changing-tvs-for-ps5-and-xbox-series-x-enthusiasts/"><u>2024 Approved Game-Changing TVs for PS5 & Xbox Series X Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-realms-with-toms-gadget-analysis/"><u>Dive Into Digital Realms with Tom's Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/early-bird-access-to-msi-z890-and-b860-motherboards-prepare-your-rig-ahead-of-computex-2024-with-the-latest-arrow-lake-s-supported-kits/"><u>Early Bird Access to MSI Z890 & B860 Motherboards - Prepare Your Rig Ahead of Computex 2024 with the Latest Arrow Lake-S Supported Kits</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/examining-ravpowers-24w-car-charger-powerful-yet-fragile-in-depth-review/"><u>Examining RAVPower's 24W Car Charger: Powerful Yet Fragile? - In Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-rigs-the-cutting-edge-features-of-gigabytes-new-aorus-xtreme-and-xtreme-ice-mobos-gpu-lines-revealed-at-computex/"><u>Experience Next-Level Gaming Rigs: The Cutting-Edge Features of Gigabyte’s New Aorus Xtreme and Xtreme Ice Mobos, GPU Lines Revealed at Computex</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-at-toms-pc-parts-store-find-what-you-need-here/"><u>Expert Reviews at Tom's PC Parts Store - Find What You Need Here!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-the-definitive-guide-to-high-performance-equipment/"><u>Exploring Tech with Tom: The Definitive Guide to High-Performance Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-hardware-reviews-and-tips/"><u>Exploring the World of Computing with Tom - Hardware Reviews and Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-v29-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo V29 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-sharing-strategies-maximize-video-impact-from-youtube-to-facebook/"><u>In 2024, Sharing Strategies Maximize Video Impact From YouTube to Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-solutions-to-stop-blank-spots-in-obs-media/"><u>In 2024, Solutions to Stop Blank Spots in OBS Media</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-asus-rog-phone-7-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Asus ROG Phone 7</u></a></li>
 </ul></div>
 

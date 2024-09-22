@@ -1,7 +1,7 @@
 ---
 title: "Building Simplistic Mobile Tech: Crafting a Basic Handset with Gratis Programming Resources"
-date: 2024-09-10T16:15:00.799Z
-updated: 2024-09-16T16:10:08.481Z
+date: 2024-09-17T22:50:31.280Z
+updated: 2024-09-22T05:08:24.088Z
 tags:
   - android
 categories:
@@ -41,10 +41,10 @@ Close
  To keep your phone a minimalist phone, avoid this step. The Play Store is an endless well of distraction. Leaving the Play Store off means you don't have to resist thousands of games, streaming platforms, or dedicated social media apps. Instead of having to [set limits on which apps you use](https://eaxpv-info.techidaily.com/updated-how-to-increase-youtube-traffic-by-a-million-safely-done-for-2024/), they simply aren't available, even though you're still running Android.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Download F-Droid for a Few Apps
@@ -60,10 +60,10 @@ Close
  I turn to F-Droid for [Auxio](https://f-droid.org/en/packages/org.oxycblt.auxio/), an alternative I prefer over the default Music app in LineageOS. There's [AntennaPod](https://f-droid.org/en/packages/de.danoeh.antennapod/) for podcasts and [Voice](https://f-droid.org/en/packages/de.ph1b.audiobook/) for audiobooks. [Breezy](https://f-droid.org/en/packages/org.breezyweather/) is an incredibly stylish weather app. There's also the entire [Fossify suite of apps](https://search.f-droid.org/?q=fossify&lang=en) that provide everything you need for a functional phone, such as a Dialer, Messages, Contacts, Gallery, Voice recorder, and so on. Going all in on Fossify apps is not a bad way to have a consistent experience that's more fleshed out than what the default LineageOS apps provide.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Top It Off With a Minimalist Launcher
@@ -105,19 +105,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-ios-download-episodes-like-a-pro/"><u>[New] Step-by-Step iOS Download Episodes Like a Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-5-easy-ways-to-multiply-your-youtube-follower-base/"><u>[Updated] In 2024, 5 Easy Ways to Multiply Your YouTube Follower Base</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-leading-music-service-streaming-channels/"><u>2024 Approved Leading Music Service Streaming Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-method-for-onoff-windows-11-hdr-feature/"><u>2024 Approved Method for On/Off Windows 11 HDR Feature</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-x7b-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor X7b? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-dealing-with-an-enormous-pagefilesys-snafu/"><u>Effective Solutions for Dealing With an Enormous Pagefile.sys Snafu</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-itel-p55-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-photography-transforming-your-android-device-into-a-professional-web-camera/"><u>Mastering Mobile Photography: Transforming Your Android Device Into a Professional Web Camera</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/permanently-switched-on-why-i-chose-dark-mode-for-good/"><u>Permanently Switched On: Why I Chose Dark Mode for Good</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/portable-charging-with-a-twist-the-mophie-battery-includes-an-additional-ac-connection-for-versatile-use/"><u>Portable Charging with a Twist: The Mophie Battery Includes an Additional AC Connection for Versatile Use</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/quick-tips-for-flipping-and-adjusting-video-orientation-on-an-android-phone/"><u>Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/recognizing-age-related-wear-and-tear-in-your-4-year-old-android-device/"><u>Recognizing Age-Related Wear and Tear in Your 4-Year-Old Android Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-and-science-of-capturing-stunning-gopro-time-lapse/"><u>The Art & Science of Capturing Stunning GoPro Time Lapse</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-beautifying-videos-for-youtube-viewers/"><u>[New] 2024 Approved Beautifying Videos for YouTube Viewers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-next-level-of-collaboration-youtubes-elite-meetups/"><u>[New] The Next Level of Collaboration Youtube's Elite Meetups</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-classroom-aid-selecting-effective-recorders-for-2024/"><u>[Updated] Classroom Aid Selecting Effective Recorders for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-grab-speech-file-and-review/"><u>2024 Approved Grab Speech File & Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-accessibility-real-time-transcription-feature-added-to-pixel-smartphone-calls/"><u>Enhanced Accessibility: Real-Time Transcription Feature Added to Pixel Smartphone Calls</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-guide-unlocking-200-savings-on-latest-samsung-gadgets-launching-soon/"><u>Exclusive Guide: Unlocking $200 Savings on Latest Samsung Gadgets Launching Soon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-quality-sound-the-new-pixel-tablet-at-just-499-features-built-in-speaker-docking-system/"><u>Experience High-Quality Sound: The New Pixel Tablet at Just $499 Features Built-In Speaker Docking System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-eye-catching-aesthetics-of-the-new-galaxy-tab-s9-series-are-they-worth-their-cost/"><u>Exploring the Eye-Catching Aesthetics of the New Galaxy Tab S9 Series - Are They Worth Their Cost?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/rendering-rivalry-directx-11-vs-directx-12-benefits/"><u>Rendering Rivalry: DirectX 11 Vs. DirectX 12 Benefits</u></a></li>
 </ul></div>
 

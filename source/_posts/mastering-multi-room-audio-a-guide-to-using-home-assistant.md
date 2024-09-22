@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Room Audio: A Guide to Using Home Assistant"
-date: 2024-09-11T16:30:48.143Z
-updated: 2024-09-16T16:20:35.143Z
+date: 2024-09-16T20:06:56.278Z
+updated: 2024-09-22T03:05:42.889Z
 tags:
   - hardware
 categories:
@@ -46,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
  Once you've logged in, your Spotify playlists, artists, and other data will be imported into Music Assistant, allowing you to enjoy your entire Spotify library on any connected smart speaker.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Adding Other Streaming Music Providers
@@ -71,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ![Music Assistant playing Spotify music on a single speaker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ma-playing-on-one-speaker.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For instance, I frequently use Music Assistant to play my Spotify playlists on the "Living Room" group, which includes a Google Nest Mini. However, I can easily expand the listening experience to my entire house by simply selecting the "Home" group in the Music Assistant interface.
@@ -82,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 ![Music Assistant playing music throughout my house via the Home Group.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ma-home-group.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Creating Speaker Groups
@@ -123,20 +117,21 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-brilliant-barrage-essential-gadgets-for-clips/"><u>[New] Brilliant Barrage Essential Gadgets for Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-spicing-up-videos-with-youtube-music-linking-techniques/"><u>[New] Spicing Up Videos with YouTube Music Linking Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-clip-sound-and-format-transformation/"><u>[Updated] In 2024, Twitter Clip Sound and Format Transformation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-internet-aid-social-story-recorder/"><u>[Updated] Internet Aid Social Story Recorder</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/activating-the-do-not-disturb-feature-in-google-pixel-automatically-during-driving-a-step-by-step-guide/"><u>Activating the 'Do Not Disturb' Feature in Google Pixel Automatically During Driving: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bending-budgets-less-surprisingly-reasonable-prices-for-high-tech-foldable-phones/"><u>Bending Budgets Less: Surprisingly Reasonable Prices for High-Tech Foldable Phones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/building-simplistic-mobile-tech-crafting-a-basic-handset-with-gratis-programming-resources/"><u>Building Simplistic Mobile Tech: Crafting a Basic Handset with Gratis Programming Resources</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/competing-with-giants-can-an-open-source-replacement-challenge-googles-photo-dominance/"><u>Competing with Giants: Can an Open Source Replacement Challenge Google's Photo Dominance?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/disabling-mobile-notifications-a-step-by-step-guide/"><u>Disabling Mobile Notifications: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/disastrous-moments-in-tech-the-top-seven-failures-on-tv-and-online/"><u>Disastrous Moments in Tech: The Top Seven Failures on TV and Online</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/downloadable-mp4-converter-tool-easily-switch-your-mov-videos-to-mp4-on-any-device-including-mac-and-windows-11/"><u>Downloadable MP4 Converter Tool - Easily Switch Your MOV Videos to MP4 on Any Device Including MAC & Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-magic-5-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor Magic 5 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-price-of-playing-free-to-play-switch-gems/"><u>The Price of Playing: Free-to-Play Switch Gems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/worthwhile-or-outdated-the-debate-over-upgrading-from-stock-android-keyboard/"><u>Worthwhile or Outdated: The Debate Over Upgrading From Stock Android Keyboard</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-fun-girl-games-for-kids/"><u>[New] 2024 Approved Top Fun Girl Games for Kids</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unleash-creativity-gratuity-in-humor-tools/"><u>[New] In 2024, Unleash Creativity Gratuity in Humor Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-reimagining-gender-portrayal-in-social-media-images/"><u>[New] Reimagining Gender Portrayal in Social Media Images</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-video-dimensions-for-peak-performance-for-2024/"><u>[Updated] Mastering Instagram Video Dimensions for Peak Performance for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-seedling-to-sunset-the-best-farming-titles-for-togetherness/"><u>2024 Approved From Seedling to Sunset The Best Farming Titles for Togetherness</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/escalating-image-size-ensuring-unimpaired-detail/"><u>Escalating Image Size Ensuring Unimpaired Detail</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy A25 5G Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-frames-per-second-in-slow-motion-vids/"><u>In 2024, Ideal Frames Per Second in Slow Motion Vids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-comfortable-virtual-experiences/"><u>Mastering the Art of Comfortable Virtual Experiences</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-in-the-tech-world-with-toms-hardware-reviews/"><u>Stay Ahead in the Tech World with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/support-sobriety-efforts-if-you-confirm-that-your-teenager-has-been-using-drugs-or-alcohol-help-them-find-resources-such-as-support-groups-counseling-servic85/"><u>Support Sobriety Efforts: If You Confirm that Your Teenager Has Been Using Drugs or Alcohol, Help Them Find Resources Such as Support Groups, Counseling Services, Rehabilitation Programs, or Sober Activities to Encourage and Maintain Sobriety.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-computers-by-toms-tech-sanctuary/"><u>The Ultimate Guide to High-Performance Computers by Tom's Tech Sanctuary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-toms-technology-review/"><u>The Ultimate Guide to High-Performance Hardware by Tom's Technology Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-guide-inside-knowledge-from-toms-hardware/"><u>The Ultimate Tech Guide: Inside Knowledge From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-hardware-reviews-t17238628805697/"><u>Tom's Tech Hub: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-innovative-insights-on-hardware-components/"><u>Tom's Tech Review: Innovative Insights on Hardware Components</u></a></li>
 </ul></div>
 

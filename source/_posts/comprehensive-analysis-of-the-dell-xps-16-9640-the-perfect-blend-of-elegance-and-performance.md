@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of the Dell XPS 16-9640: The Perfect Blend of Elegance and Performance"
-date: 2024-09-14T16:18:09.601Z
-updated: 2024-09-16T16:40:56.687Z
+date: 2024-09-16T04:42:41.327Z
+updated: 2024-09-22T07:01:02.177Z
 tags:
   - hardware
 categories:
@@ -125,6 +125,13 @@ Expand
 
 ![Outside lid of the Dell XPS 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-sitting-on-a-table_53633594046_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 is undoubtedly a looker. Its platinum or graphite aluminum chassis is sleek and minimalist, reminiscent of a MacBook, while the prominent speaker grilles flanking the keyboard add a touch of visual interest. The 4K OLED is the star of the show, delivering stunning visuals with vibrant colors, deep blacks, and excellent viewing angles. Whether you're editing photos, watching movies, or just browsing the web, the display is a pleasure to look at.
@@ -137,6 +144,13 @@ Jerome Thomas / How-To Geek
 
  The touchpad is perhaps the most divisive design choice. It's a smooth, unmarked surface that relies on LED lights to indicate its boundaries. While this looks modern and minimalist, it can be unintuitive in practice. The lack of a physical edge or indentation makes it easy to overshoot or miss the touchpad altogether, especially in well-lit environments where the LEDs are less visible. While these design choices are subjective, they are noticeable enough to impact the overall user experience. For a laptop with such a premium price tag, the cramped keyboard, finicky touchpad, and lack of tactile feedback on the function keys are areas where this laptop could use improvement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Display, Audio, and Camera
 
  The 16.3-inch 4K OLED is a standout feature, ideal for content creation, gaming, and media consumption. Audio quality is equally impressive, with the speakers delivering rich, loud sound with ample bass. In fact, it's one of the best laptop speaker systems I've encountered. However, their placement on either side of the keyboard is an unusual design choice.
@@ -147,19 +161,6 @@ Jerome Thomas / How-To Geek
 
 ![The system info for the Dell XPS 16.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-system-info-on-the-dell-xps-16-9640_53634038190_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 delivered impressive performance in my testing. The Intel Core Ultra 7 processor and 32GB of RAM in my review unit made quick work of demanding applications like virtual machines and Docker containers. I never experienced any significant slowdowns or performance issues, even when running multiple resource-intensive tasks simultaneously. And, thanks to Windows 11, it's possible to assign graphically intense tasks to the GPU (like video editing, gaming, etc.), while using the integrated Intel Arc graphics for everyday things.
@@ -167,19 +168,6 @@ Jerome Thomas / How-To Geek
  The gaming performance was equally impressive. The Core Ultra 7 processor effortlessly handled CPU-intensive titles like "Minecraft" and "Cities: Skylines," delivering smooth gameplay even at higher settings. For those who demand even more power, the optional Core Ultra 9 processor should provide an additional performance boost.
 
  The 32GB of RAM proved more than sufficient for my multitasking needs, allowing me to juggle numerous applications and browser tabs without any noticeable impact on performance. While the base configuration comes with 16GB of RAM, which should be adequate for most users, the extra memory in my review unit provided a noticeable boost for more demanding workloads. Overall, the Dell XPS 16 is a well-rounded laptop that offers excellent performance for both work and play.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Gaming Performance
 
@@ -203,6 +191,13 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left of the DelL XPS 16.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-ports-on-the-left-of-the-dell-xps-16-9640_53634038205_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 comes equipped with a headphone and microphone combo port, three Thunderbolt 4 ports (each capable of charging the device and connecting peripherals), and a MicroSD card slot for extra storage purposes. Dell also includes a USB-C adapter for using standard USB-A devices and HDMI output, allowing connection to projectors, TVs, or external monitors. While I'm not a fan of dongles, and believe these functions could have been integrated into the laptop itself, it's a nice inclusion nonetheless, especially considering it's not a standard offering on all laptops.
@@ -225,6 +220,13 @@ Jerome Thomas / How-To Geek
 
 ![The file explorer on the dell XPS 16](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-file-explorer-on-the-dell-xps-16-9640_53633807303_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  The Dell XPS 16 is one of the first laptops to sport the new "Copilot" button, integrating Microsoft's AI-powered Bing Chat assistant directly into the hardware. While the Copilot icon is accessible from the Windows 11 taskbar, the dedicated keyboard button offers a more convenient way to summon the AI companion. With Copilot, you can ask questions, get creative suggestions, summarize information, and more, making it a handy tool for both work and personal use.
@@ -233,28 +235,15 @@ Jerome Thomas / How-To Geek
 
  With this array of AI-powered features and pre-installed software, the Dell XPS 16 offers a comprehensive and user-friendly experience right out of the box.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Dell XPS 16 (9640)?
 
 ![Dell XPS 16 with its cables and charge on a table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-dell-xps-16-9640-with-charging-cable-and-muliport-adapter_53634038265_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -264,19 +253,6 @@ Jerome Thomas / How-To Geek
 ![Dell XPS 16 9640](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-27-vsdm8wdb-2x.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Dell XPS 16 9640
 
@@ -301,20 +277,21 @@ Bring your most intensive projects to life with our most powerful XPS laptop, en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-masterful-approaches-to-live-sports-video-capture/"><u>[Updated] 2024 Approved Masterful Approaches to Live Sports Video Capture</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[Updated] 2024 Approved Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-mobility-examination-2023/"><u>[Updated] Full Mobility Examination 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>2024 Approved Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-news-tile-encounters-serious-data-breach-immediate-measures-and-consequences-explained/"><u>Breaking News: Tile Encounters Serious Data Breach – Immediate Measures and Consequences Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-eufy-s350-home-monitoring-cam-spotlight-on-superior-motion-detection-features/"><u>Comprehensive Review of the Eufy S350 Home Monitoring Cam - Spotlight on Superior Motion Detection Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/does-the-future-belong-to-modular-accessories-after-apples-trial/"><u>Does the Future Belong to Modular Accessories After Apple's Trial?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fun-flair-for-text-memes-with-easy-genrator-for-2024/"><u>Fun Flair for Text Memes with Easy Gen'rator for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-tackle-everyday-windows-glitches/"><u>Quick Fixes to Tackle Everyday Windows Glitches</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/smooth-movies-clean-shots-the-10-best-for-superior-image-stabilization-for-2024/"><u>Smooth Movies, Clean Shots The 10 Best for Superior Image Stabilization for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-usb-standards-a-comprehensive-guide-to-generations-1-2-and-2x2-decoding-usb-32/"><u>Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-use-kapwing-meme-maker/"><u>[Updated] Use Kapwing Meme Maker</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pioneers-of-virtual-reality-top-vr-headsets-on-pc/"><u>2024 Approved Pioneers of Virtual Reality Top VR Headsets on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-overcoming-permission-denied-messages-winos/"><u>A Guide to Overcoming 'Permission Denied' Messages, WinOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-digital-tools-with-toms-hardware-reviews/"><u>Discover the Best in Digital Tools with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-artificial-intelligence-sk-hynix-debuts-revolutionary-pcie-50-ssd-technology/"><u>Embracing Artificial Intelligence - SK Hynix Debuts Revolutionary PCIe 5.0 SSD Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-samsungs-petabyte-ssd-cloud-storage-with-tailored-server-solutions/"><u>Explore Samsung's Petabyte SSD Cloud Storage with Tailored Server Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-separation-to-symbiosis-logic-pro-x-audio-blending-for-2024/"><u>From Separation To Symbiosis Logic Pro X Audio Blending for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-handhelds-evolve-nextorage-delivers-a-breakthrough-in-speed-with-its-m2-2230-ssd-offering-lightning-fast-7n40mbs-speeds/"><u>Game Handhelds Evolve: Nextorage Delivers a Breakthrough in Speed with Its M.2 2230 SSD Offering Lightning-Fast 7,N40MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-with-nextorages-new-ultra-rapid-handheld-ssd-drive-at-7400mbs-speeds/"><u>Game Like Never Before with Nextorage's New Ultra-Rapid Handheld SSD Drive at 7,400MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-live-stream-on-twitter/"><u>In 2024, How to Live Stream on Twitter</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-air-split-screen-hack-how-to-multitask-like-a-pro-without-buying-extras/"><u>MacBook Air Split Screen Hack: How to Multitask Like a Pro Without Buying Extras</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>New 2024 Approved Top 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-civ-6-installation-problems-in-windows-10-solutions-revealed/"><u>Troubleshooting Civ 6 Installation Problems in Windows 10: Solutions Revealed.</u></a></li>
 </ul></div>
 

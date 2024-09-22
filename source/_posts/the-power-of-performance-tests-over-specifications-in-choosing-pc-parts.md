@@ -1,7 +1,7 @@
 ---
 title: The Power of Performance Tests Over Specifications in Choosing PC Parts
-date: 2024-09-09T16:25:35.730Z
-updated: 2024-09-16T16:29:36.275Z
+date: 2024-09-19T02:05:04.639Z
+updated: 2024-09-22T03:11:47.090Z
 tags:
   - hardware
 categories:
@@ -49,16 +49,10 @@ Hannah Stryker / How-To Geek
  Power draw is another spec that isn't necessarily the same as on the spec sheet. Both CPUs and GPUs can draw more power compared to what the box suggests, especially if the manufacturer only publishes the [TDP](https://tech-haven.techidaily.com/boost-your-pcs-speaker-performance-with-a-new-install-of-realtek-hd-audio-manager-in-win-1011/). Also, you can [increase the maximum power limit](https://www.pcworld.com/article/2054936/how-to-make-your-graphics-card-better-with-just-one-click.html) on graphics cards so that they get more juice to run at a higher clock speed. This means you should account for the real maximum power draw without [overspending on your PSU](https://instagram-video-recordings.techidaily.com/new-in-2024-essential-tips-building-an-instagram-money-machine/).
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Comparing Specs Across Brands and Generations Is Tricky
@@ -70,16 +64,10 @@ Hannah Stryker / How-To Geek
  It's important to remember that you shouldn't make your purchase decision by looking at a random synthetic benchmark score; they're sort of arbitrary. Instead, look at benchmarks that are relevant to your use case. I slightly favor CPUs that do better at productivity tasks, even if they did slightly worse in games, because I also use my PC for work. But if you're building a gaming machine, your primary metric should be how much FPS you're getting per dollar spent, so a few good in-game benchmarks are a fantastic starting point.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Potential Drawbacks of Benchmarks
@@ -113,15 +101,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-lexicon-of-persuasion-in-business-communication/"><u>[New] 2024 Approved The Lexicon of Persuasion in Business Communication</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
-<li><a href="https://games-able.techidaily.com/diy-repair-the-ultimate-xbox-joystick-guide-for-gamers/"><u>DIY Repair - The Ultimate Xbox Joystick Guide for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/embrace-the-future-of-safety-swap-out-your-old-ring-doorbell-today/"><u>Embrace the Future of Safety - Swap Out Your Old Ring Doorbell Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-s18-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo S18 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-chromebook-2-analysis-the-epitome-of-compact-efficiency/"><u>Samsung Galaxy Chromebook 2 Analysis: The Epitome of Compact Efficiency</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-amplify-vram-in-windows-os/"><u>Strategies to Amplify VRAM in Windows OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-valorant-wont-start-issues-on-pc/"><u>Ultimate Guide: Resolving 'Valorant Won't Start' Issues on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-meticulous-review-the-complete-guide-to-androids-lightroom/"><u>[New] A Meticulous Review The Complete Guide to Android's Lightroom</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-comprehensive-tiktok-video-upload-strategies-for-chrome-android-and-ios-users/"><u>[Updated] 2024 Approved Comprehensive TikTok Video Upload Strategies for Chrome, Android, and iOS Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-look-at-benq-sw320s-4k-features/"><u>[Updated] A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-10-sound-recording-essentials-on-spotify-platform-for-2024/"><u>[Updated] Elite 10 Sound Recording Essentials on Spotify Platform for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-narrative-nuance-in-voiceovers-mastering-the-art-of-storytelling-on-ppts/"><u>[Updated] Narrative Nuance in Voiceovers Mastering the Art of Storytelling on PPTs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-8-collaborative-video-collage-apps-for-android-users-freepaid/"><u>[Updated] Top 8 Collaborative Video Collage Apps for Android Users (Free/Paid)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/epic-showdown-reviewing-the-playful-action-and-strategy-of-plants-vs-zombies-in-battle-for-neighborhood/"><u>Epic Showdown: Reviewing the Playful Action and Strategy of Plants Vs. Zombies in 'Battle for Neighborhood'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-resource-hardware-breakdown-and-reviews/"><u>Exploring Technology with Tom's Resource: Hardware Breakdown and Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-installing-gpeditmsc-for-customizing-policies-on-windows-home-systems/"><u>Guide: Installing GPEdit.msc for Customizing Policies on Windows Home Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-innovative-yeswebuild-campaign-a-fresh-take-on-pc-creation/"><u>Introducing MSI's Innovative '#YesWeBuild' Campaign - A Fresh Take on PC Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-diy-constructing-an-ice-chilled-living-room-computer-tower-expert-tips-from-toms-hardware/"><u>The Ultimate DIY: Constructing an Ice-Chilled Living Room Computer Tower - Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-analysis-in-depth-evaluation-of-latest-electronics-and-specs/"><u>Tom's Gadget Analysis: In-Depth Evaluation of Latest Electronics and Specs</u></a></li>
 </ul></div>
 

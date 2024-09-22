@@ -1,7 +1,7 @@
 ---
 title: Discover the Top 10 Essential Gboard Functions for Enhanced Typing on Android Devices
-date: 2024-09-15T16:36:11.877Z
-updated: 2024-09-16T16:34:25.340Z
+date: 2024-09-21T04:15:17.769Z
+updated: 2024-09-22T09:19:51.770Z
 tags:
   - android
 categories:
@@ -40,40 +40,33 @@ Related: [How to Adjust Gboard's Height on Android](https://apple-account.techid
 
  By default, Gboard puts the numbers behind the "?123" key. However, if you type numbers a lot---like you probably do---you should [add a permanent number row to the top of the keyboard](https://screen-mirroring-recording.techidaily.com/updated-superior-live-streaming-and-conferencing-apps-for-2024/). Simply go to Gboard Settings > Preferences > Enable "Number Row."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Change the Theme
 
 ![Choose a Gboard theme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_15-49-50.jpg) 
 
  Gboard has a wide variety of themes to help you personalize the keyboard to your liking. You can have a "System Auto" theme to match the system theme of Android---or to choose a bunch of colors and even images. Gboard even lets you decide if you want borders on the keys. Go to Gboard Settings > Themes to choose one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Create Emoji Mash-Ups
 
 ![An emoji mash-up of fire and thinking.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/emoji-mashup-hero.png?width=1198&amp;trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Gboard's most fun feature might be the "[Emoji Kitchen](https://graphic-issues.techidaily.com/gpu-recognition-error-fix/)." It allows you to create brand new---usually pretty weird---emoji by mashing up two of them. 🔥+🤔= a flame with a thinking face, for example. It's super fun to play around with, and you can create some amazing custom emoji.
 
 Related: [How to Create Emoji Mash-Ups Using Gboard](https://graphic-issues.techidaily.com/gpu-recognition-error-fix/) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Access the Clipboard
 
@@ -95,6 +88,13 @@ Related: [How to Turn Off the Keyboard Sound on Any Device](https://extra-resour
 
 ![Turn off autocorrect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_15-59-30.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Autocorrect is one of those things that you either love or hate. The good news is [you don't have to use it](https://screen-sharing-recording.techidaily.com/updated-top-3g-networks-and-plans-for-gamers-on-a-budget-for-2024/) if you find it gets in your way more than it helps. To turn off ([or on](https://some-skills.techidaily.com/updated-the-comprehensive-blueprint-to-powerdirectors-full-potential/)) autocorrect in Gboard, go to Settings > Text Correction > Disable "Auto Correction."
 
 Related: [How to Turn off Autocorrect for Android](https://screen-sharing-recording.techidaily.com/updated-top-3g-networks-and-plans-for-gamers-on-a-budget-for-2024/) 
@@ -103,20 +103,27 @@ Related: [How to Turn off Autocorrect for Android](https://screen-sharing-record
 
 ![Add the word to the dictionary.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/01/2022-01-07_17-00-05.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Autocorrect is pretty decent when it comes to correcting common words, but what about those words and phrases that are unique to you? Things like names, obscure towns or cities, street names, and pet names may not be known by Gboard. [You can add these things to the dictionary](https://data-wizards.techidaily.com/avoiding-typical-video-setbacks-with-proven-fixes/) so Gboard doesn't try to fix them in the future.
 
 Related: [How to Add a Word or Phrase to Android's Autocorrect Dictionary](https://data-wizards.techidaily.com/avoiding-typical-video-setbacks-with-proven-fixes/) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Turn Off or Adjust Haptic Feedback
 
 ![Turn off haptic feedback.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_16-04-27.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Keyboard vibration---or "haptic feedback"---is there to help you "feel" when you press keys on the flat touchscreen surface. However, you might not like the vibration, or maybe you just don't want it to be so strong. [You can turn off haptic feedback altogether](https://instagram-videos.techidaily.com/updated-sequential-image-storytelling-on-ig-for-2024/) or fine-tune the vibration strength.
 
@@ -125,19 +132,6 @@ Related: [How to Turn Off Keyboard Vibration on Android](https://instagram-video
 ##  Put the Keyboard in One-Handed Mode
 
 ![Gboard one-handed mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-28_16-08-39.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let's be honest, your Android phone is probably bigger than you would like. That's just how modern smartphones have evolved. The good news is you can [make Gboard easier to use with one hand](https://screen-activity-recording.techidaily.com/new-customize-screenshot-storing-on-mac-for-2024/). All you have to do is long-press the common key and slide your finger to the One-Handed Mode icon. The keyboard will shrink to one side of the screen, and you can move it to the other side if you'd like.
 
@@ -162,18 +156,16 @@ Related: [How to Enable One-Handed Mode in Android's Google Keyboard](https://sc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-halt-youtube-suggested-content-now/"><u>[New] 2024 Approved Halt YouTube Suggested Content Now</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-masterclass-selection-top-7-precision-games/"><u>[Updated] In 2024, Masterclass Selection Top 7 Precision Games</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-maximizing-impact-the-20-key-principles-of-fb-video-marketing/"><u>[Updated] In 2024, Maximizing Impact The 20 Key Principles of FB Video Marketing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-foremost-websites-accelerating-youtube-traffic/"><u>2024 Approved Foremost Websites Accelerating YouTube Traffic</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-future-of-vacuuming-with-yeedis-newly-released-m12-proplus-robovac-in-the-us-market/"><u>Experience the Future of Vacuuming with Yeedi's Newly Released M12 Pro+ Robovac in the US Market</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expertly-selected-ultimate-laptops-guide-2024-edition/"><u>Expertly Selected Ultimate Laptops Guide - 2024 Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-with-my-goal-zero-bamboo-laptop-the-best-travel-buddy-ever/"><u>Exploring New Horizons with My Goal Zero Bamboo Laptop - The Best Travel Buddy Ever!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/farewell-your-alexa-show-top-picks-for-replacing-the-amazon-echo-with-a-display/"><u>Farewell Your Alexa Show: Top Picks for Replacing the Amazon Echo with a Display</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-winning-hearts-an-approach-to-encourage-sign-ups/"><u>In 2024, Winning Hearts An Approach to Encourage Sign-Ups</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-investing-in-exclusive-ai-craftsmanship-worthwhile/"><u>Is Investing in Exclusive AI Craftsmanship Worthwhile?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/no-cost-split-screen-video-editors-online-and-offline-options-reviewed/"><u>No-Cost Split Screen Video Editors Online and Offline Options Reviewed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y28-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y28 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-your-palworld-eos-account-a-guide-to-resolving-the-notorious-login-failure-with-6-key-fixes/"><u>Unlock Your Palworld EOS Account: A Guide to Resolving the Notorious Login Failure with 6 Key Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-demystifying-the-srt-to-subcap-process-for-2024/"><u>[New] Demystifying the SRT to SUBCAP Process for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[Updated] 2024 Approved Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-gaming-with-pathfinder-wrath-of-the-righteeus-updated-fixes-released/"><u>Crash-Free Gaming with Pathfinder: Wrath of the Righteeus Updated Fixes Released</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-hardware-by-toms-experts/"><u>In-Depth Analysis of PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-expert-insights-on-pc-components-and-gear/"><u>Inside Tom's Equipment: Expert Insights on PC Components and Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-zerowriter-inks-latest-typewriter-enhanced-52-e-ink-display-and-weeklong-battery-life-with-comfortable-mechanical-keys/"><u>Introducing Zerowriter Ink's Latest Typewriter: Enhanced 5.2 E-Ink Display & Weeklong Battery Life with Comfortable Mechanical Keys</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-strategies-for-wellness-campaigns-online-for-2024/"><u>Optimal Strategies for Wellness Campaigns Online for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-projects-with-waveshares-new-iot-board-seamlessly-integrates-with-raspberry-pi-zero-includes-4glte-connectivity-and-customized-micropytho34/"><u>Revolutionize Your Projects with Waveshare's New IoT Board: Seamlessly Integrates with Raspberry Pi Zero, Includes 4G/LTE Connectivity & Customized MicroPython Environment</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-restore-disappeared-contacts-from-my-iphone/"><u>Step-by-Step Guide to Restore Disappeared Contacts From My iPhone</u></a></li>
 </ul></div>
 

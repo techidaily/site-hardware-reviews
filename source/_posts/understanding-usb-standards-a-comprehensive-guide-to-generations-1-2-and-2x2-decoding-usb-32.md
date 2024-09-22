@@ -1,7 +1,7 @@
 ---
 title: "Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2"
-date: 2024-09-12T16:07:37.930Z
-updated: 2024-09-16T16:37:36.633Z
+date: 2024-09-20T05:41:12.292Z
+updated: 2024-09-22T10:39:17.969Z
 tags:
   - hardware
 categories:
@@ -48,22 +48,15 @@ Jason Montoya / How-To Geek
 
  The difference between the two was slightly confusing. But, as long as you remembered Gen 2 was better than Gen 1, you were good to go. To help differentiate the speeds, USB-IF also implemented logos, which manufacturer can only use by passing a certification to prove a cable matches the promised specs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  USB 3.2 is Even Faster and More Confusing
 
 ![Close up of the front ports on the Ugreen DXP2800 NAS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53573450918_64d6493307_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -90,16 +83,16 @@ Hannah Stryker / How-To Geek
 
 ![Closeup of a USB-C port on an SSD drive enclosure. The port is labeled 'SS 10' to indicate SuperSpeed USB 10 Gbps performance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/usb-ss-10.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jordan Gloor / How-To Geek
 
  If you remember [USB-C's early issues](https://screen-recording.techidaily.com/updated-2024-approved-winning-gameplay-capture-with-fbx/), this will probably seem very familiar. Read carefully before buying cables, and buy them from reputable, trusted sources. In the past, we've recommended Amazon Basics cables—but even with those you still need to look carefully. For instance, this [Amazon Basics cable](https://www.amazon.com/AmazonBasics-Type-C-USB-Male-Cable/dp/B01GGKYO1I?tag=hotoge-20&ascsubtag=UUhtgUeUpU214194&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F406199%2Fwhat-are-usb-gen-1-gen-2-and-gen-2x2%2F&asc%5Fcampaign=Evergreen) is USB-C but only offers 2.0 speeds. This [Amazon Basics cable](https://www.amazon.com/AmazonBasics-Type-C-USB-Male-Cable/dp/B01GGKYS6E?tag=hotoge-20&ascsubtag=UUhtgUeUpU214194&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F406199%2Fwhat-are-usb-gen-1-gen-2-and-gen-2x2%2F&asc%5Fcampaign=Evergreen), which looks practically the same, offers 10 Gbps transfers and is marked as USB 3.1 Gen 2\. And, of course, this doesn't just apply to USB cables. It applies to any piece of hardware that uses USB-C.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Comparing USB 3.2 Gen 1 vs. Gen 2 vs. Gen 2x2 Speeds
 
@@ -114,6 +107,13 @@ Jordan Gloor / How-To Geek
  If you're wondering about [power delivery](https://visual-screen-recording.techidaily.com/updated-in-2024-historys-heaviest-battles-rts-review-of-7-epic-games/) in addition to speed, that's pretty simple: regardless of generation all USB 3.x ports deliver a humble 4.5W in charging capabilities. That's a far cry from the 18W required for [fast charging](https://snapchat-videos.techidaily.com/new-elevate-your-social-media-presence-by-pining-on-snapchat/) your phone, but it's at least better than USB 2.0's 2.5W of juice. So if you have the choice between a USB 2.0 and 3.2 port for charging a device, you'll always want the 3.2 port (but don't expect too much from the little guy).
 
  The only other significant difference between these generations is that USB 20 Gbps (Gen 2x2) is limited to USB Type-C ports and cords. You won't see any [USB Type-A](https://vp-tips.techidaily.com/updated-in-2024-exploring-the-full-features-sony-fdr-x1000-model/) or Micro USB connections sporting that label.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  There Won't Be Anymore USB 3.2 Generations
 
@@ -134,21 +134,21 @@ Jordan Gloor / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-cinema-smartphone-mac-and-desktop-screenshots/"><u>[New] In 2024, Capturing Cinema Smartphone, Mac, and Desktop Screenshots</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-privacy-in-focus-the-leading-10-no-cost-highly-secured-video-calling-platforms/"><u>[New] Privacy in Focus The Leading 10 No-Cost, Highly-Secured Video Calling Platforms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-practices-leveraging-videos-to-boost-education/"><u>[Updated] In 2024, Best Practices Leveraging Videos to Boost Education</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-strategies-for-documenting-ps3-matches/"><u>[Updated] In 2024, Essential Strategies for Documenting PS3 Matches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-access-immediate-professional-results-free-plus-purchased-luts-for-canon/"><u>2024 Approved Access Immediate Professional Results - FREE + Purchased LUTs for Canon</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-tiny-tycoons-trail-to-treasure-ryan-kaji-and-youtube-earnings/"><u>2024 Approved Tiny Tycoon’s Trail to Treasure Ryan Kaji and YouTube Earnings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-setting-up-song-crossfading-feature-on-apple-music/"><u>Guide: Setting Up Song Crossfading Feature on Apple Music</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-google-messages-when-it-continuously-fails/"><u>How to Fix Google Messages When It Continuously Fails</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-p55plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel P55+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-introduction-to-effective-telegram-promotion-for-rookies/"><u>In 2024, Introduction to Effective Telegram Promotion for Rookies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-critical-take-on-sharex-expert-evaluations-and-alternates/"><u>In 2024, The Critical Take on ShareX Expert Evaluations & Alternates</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/live-coverage-of-the-google-pixel-6-launch-top-insights-and-predictions/"><u>Live Coverage of the Google Pixel 6 Launch – Top Insights & Predictions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/locating-and-understanding-your-android-smartphones-operating-instructions/"><u>Locating and Understanding Your Android Smartphone's Operating Instructions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-art-of-mobile-recording-tips-and-tricks-for-android-users/"><u>Mastering the Art of Mobile Recording: Tips and Tricks for Android Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mophies-compact-power-bank-features-convenient-ac-adapter-option/"><u>Mophie's Compact Power Bank Features Convenient AC Adapter Option</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-business-on-instagram-a-step-by-step-guide/"><u>2024 Approved Mastering Business on Instagram A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-beyerdynamic-mmx-300-pro-exceptional-audio-quality-meets-fundamental-design/"><u>Analyzing the Beyerdynamic MMX 300 Pro: Exceptional Audio Quality Meets Fundamental Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-on-logitechs-latest-marvel-the-g-pro-x-2-with-incredible-speed-tailored-for-hardcore-gamers/"><u>Exclusive Insight on Logitech's Latest Marvel - The G Pro X 2 with Incredible Speed, Tailored for Hardcore Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487700-experience-enhanced-productivity-with-sabrents-350-hybrid-display-and-thunderbolt-dock-featuring-65w-usb-c-ethernet-ports-and-more/"><u>Experience Enhanced Productivity with Sabrent's $350 Hybrid Display and Thunderbolt Dock - Featuring 65W USB-C, Ethernet Ports, and More</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-poco-m6-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco M6 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>In 2024, The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-tips-and-tricks-recording-conversations-on-whatsapp/"><u>In 2024, Tips and Tricks Recording Conversations on WhatsApp</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-navigating-cutting-edge-gadgets-and-computing-insights/"><u>Inside Tom's Hardware: Navigating Cutting-Edge Gadgets and Computing Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-filmora-insights-for-every-content-creator-for-2024/"><u>Leveraging Filmora Insights for Every Content Creator for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-toms-guide-expert-tips-and-reviews-for-every-device/"><u>Navigating Hardware with Tom's Guide: Expert Tips and Reviews for Every Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-updating-your-scansnap-ix500-printer-drivers-on-windows-systems/"><u>Simple Guide: Updating Your ScanSnap iX500 Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-se-2020-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone SE (2020)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-productivity-with-nuphy-gem80-a-seamless-custom-keyboard-journey/"><u>Unlocking Productivity with Nuphy Gem80: A Seamless Custom Keyboard Journey</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725285198924-ai-8/"><u>오래된 사진을 다시 제공하는 무료 AI 회상 도구 - 8개를 위해</u></a></li>
 </ul></div>
 

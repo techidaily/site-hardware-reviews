@@ -1,7 +1,7 @@
 ---
 title: Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology
-date: 2024-09-12T16:24:30.637Z
-updated: 2024-09-16T16:12:02.967Z
+date: 2024-09-14T20:02:52.233Z
+updated: 2024-09-21T18:05:35.689Z
 tags:
   - hardware
 categories:
@@ -125,16 +125,22 @@ Sergio Rodriguez / How-To Geek
 
  Preferences vary, of course, but I feel confident saying that if you like Cherry Red switches, you'll be very happy with this new switch version.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  No Software? No Problem—Mostly
 
 ![Angled view of the backlit Cherry K5V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/angled-view-of-the-backlit-cherry-k5v2-keyboard-1jpg_53543595886_o-2.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -150,6 +156,13 @@ Sergio Rodriguez / How-To Geek
 
 ![The Cherry K5V2 keyboard with its box and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-cherry-k5v2-keyboard-with-its-box-and-accessories-2jpg_53542721052_o-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  The [Cherry XTRFY K5V2](http://www.amazon.com/Xtrfy-Mechanical-Keyboard-Swappable-Switches/dp/B0CTMZY7TX/ref=sr%5F1%5F3?crid=2M1QNB34S5TNV&dib=eyJ2IjoiMSJ9.Sy%5FFSJt40vqerbZFmwv5LmMlFvnH9w0fpztAICjRFQw.n41vgrDyU0LpZgB%5FZv0yWlg%5F2mV2LiiVhO-re9iehzc&dib%5Ftag=se&keywords=cherry+xtrfy+k5v2&qid=1712543144&sprefix=cherry+xt%2Caps%2C120&sr=8-3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002348&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fcherry-xtrfy-k5v2-review%2F&asc%5Fcampaign=Authority) is a big win. Yes, the lack of software means you have to interpret various icons to change settings. And, at $139, it's pricier than, say, the [Keychron C3 Pro](https://some-tips.techidaily.com/updated-the-art-of-transferring-tunes-between-platforms/). But should the XTRFY K5V2 fit your budget, I'd jump on it. I love the sound and feel of the new keys, the layout, and the RGB lighting. I don't think a gamer can go wrong with this mechanical keyboard.
@@ -157,13 +170,6 @@ Sergio Rodriguez / How-To Geek
 ![Cherry XTRFY K5V2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/amazoncherryxtrfyk5v2.jpg) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Cherry XTRFY K5V2
 
@@ -244,18 +250,16 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-ios-emulators-reviving-classic-psp-game-experiences-2023-guide/"><u>[New] 2024 Approved Top iOS Emulators Reviving Classic PSP Game Experiences - 2023 Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-glow-up-guide-3-masterful-instagram-highlight-tricks/"><u>[New] In 2024, Glow-Up Guide 3 Masterful Instagram Highlight Tricks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-most-impactful-personalities-top-25-edition/"><u>[Updated] Instagram's Most Impactful Personalities Top 25 Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-where-to-find-high-quality-copyright-free-game-audio-online-for-2024/"><u>[Updated] Where to Find High-Quality Copyright-Free Game Audio Online for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-kinemasters-gs-complete-guide/"><u>2024 Approved Mastering KineMaster's GS Complete Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-practices-for-picking-your-perfect-wireless-phone-charger/"><u>Best Practices for Picking Your Perfect Wireless Phone Charger</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bridging-the-gap-the-ongoing-effort-by-google-for-seamless-text-communication-between-iphones-and-android-devices/"><u>Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-rotate-a-video-on-vlc-media-player-for-2024/"><u>How to Rotate A Video on VLC Media Player for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seamless-proportion-refinement-from-home/"><u>Seamless Proportion Refinement From Home</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ideal-steadicams-for-superior-quality-shoots-with-dslr-cameras/"><u>[New] 2024 Approved Ideal Steadicams for Superior Quality Shoots with DSLR Cameras</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ioneer-productions-leading-free-editors-on-android-for-2024/"><u>[New] Pioneer Productions Leading Free Editors on Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-science-of-choosing-music-for-movie-previews/"><u>2024 Approved The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-the-pioneers-at-toms-hardware/"><u>Advanced Computing Tips From the Pioneers at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-brilliance-the-ultimate-review-of-gigabyte-aorus-oled-monitor-true-to-life-colors-and-crisp-contrasts/"><u>Breaking Down Brilliance: The Ultimate Review of Gigabyte Aorus OLED Monitor - True-to-Life Colors & Crisp Contrasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capturing-cinematic-moments-across-devices-for-2024/"><u>Capturing Cinematic Moments Across Devices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cloud-service-pricing-a-comparative-look/"><u>Cloud Service Pricing A Comparative Look</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incredible-drone-photoshoot-contenders-10/"><u>In 2024, Incredible Drone Photoshoot Contenders #10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862841548-level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/"><u>Level Up Your Game with Our Top-Pick Dell S3222DGM Gaming Display Now at an All-Time Low - Grab It for $229!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862838906-score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150!</u></a></li>
 </ul></div>
 

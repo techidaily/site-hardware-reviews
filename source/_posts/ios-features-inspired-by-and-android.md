@@ -1,7 +1,7 @@
 ---
 title: IOS, Features Inspired by, and Android.
-date: 2024-09-09T16:39:40.190Z
-updated: 2024-09-16T16:12:56.170Z
+date: 2024-09-15T00:38:49.244Z
+updated: 2024-09-22T09:53:42.504Z
 tags:
   - android
 categories:
@@ -33,13 +33,6 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Game Mode made its way from [macOS](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y17s-without-them-knowing-drfone-by-drfone-virtual-android/) to iOS, a feature that the first wave of Android gaming phones pioneered before it got baked into [Android 12](https://developer.android.com/games/optimize/adpf/gamemode/about-API-and-interventions) in 2021\. Game mode minimizes background activity and focuses processing power on your game to achieve better in-game performance and lower latency for accessories like AirPods and wireless controllers.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  RCS Messaging
 
 ![iPhone Messages RCS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-messages-rcs.png) 
@@ -47,10 +40,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/) (Rich Communication Service) is a mobile communication protocol that significantly improves upon traditional SMS messaging by offering richer chat functionalities like file and media sharing. RCS has been available since Android 5 (2014), and it's finally coming to iPhones with iOS 18\. RCS support means you'll finally be able to chat properly and share stickers and high-res images with your Android friends.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  App Lock
@@ -63,35 +56,48 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
 
  Another feature that's been around for years on Android phones is hidden apps. Similar to app lock, it's a privacy feature that ensures your friends don't see your most embarrassing apps on your home screen. When you hide an app on iOS 18, it goes into a locked "Hidden" folder that you can access just like any other locked app.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Custom Lock Screen Shortcuts
 
 ![Custom lock screen shortcuts in iOS 18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/newvoideop-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Apple](https://www.apple.com/mt/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/)
 
  The default lock screen shortcuts on iPhone are the camera on the right and the flashlight on the left. These shortcuts are nothing new, but what _is_ new is that you can now customize or even fully remove them. I'm surprised to see that Apple will let people launch third-party apps; Snapchat was shown as a shortcut example. Again, custom lock screen shortcuts are old news for Android users, as they've had this feature since Android 14.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Password Manager
 
 ![iPhone Passwords](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-passwords.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Password managers](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) are useful utility tools that keep all of your passwords stored in one safe location. They suggest and load highly complex and unique passwords for each app and website you log in to. Android phones and Google Chrome share the Google Password Manager, and I've been using it for as long as I can remember.
 
  You can actually use Google Password Manager on iOS as well, but it's great to see that Apple is now adding a first-party Passwords app. It'll store your Wi-Fi passwords, passcodes, and verification codes as well, so it'll be a real log-in one-stop shop.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More Customization in the Control Center
 
@@ -108,10 +114,10 @@ Apple has announced many new iOS 18 features at WWDC 2024\. As an Android user w
  Credit where credit is due: I quite like the new digest view that consolidates all emails from a business into one window. This view allows you to quickly check snippets of all emails from a business without having to fiddle around with the search function.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Calendar Reminders
@@ -155,16 +161,19 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-installing-snapchat-for-mac-users/"><u>[New] In 2024, Installing Snapchat for Mac Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-long-term-snap-storage-on-androidmac-systems-for-2024/"><u>[New] Long-Term Snap Storage on Android/Mac Systems for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-your-influence-amidst-changing-social-media-ecosystem/"><u>2024 Approved Mastering Your Influence Amidst Changing Social Media Ecosystem</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-phantom-v-fold-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Phantom V Fold Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-from-scenes-to-screenings-filming-across-os-ecosystems/"><u>In 2024, From Scenes to Screenings Filming Across OS Ecosystems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-marvelous-monitors-top-10-macbooks-with-4k-resolution/"><u>In 2024, Marvelous Monitors Top 10 MacBooks with 4K Resolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/safe-methods-for-non-warranty-voiding-overclocking-of-an-nvidia-graphics-card/"><u>Safe Methods for Non-Warranty Voiding Overclocking of an NVIDIA Graphics Card</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/selecting-your-ideal-aqara-smart-lock-finding-the-perfect-match-in-our-comprehensive-guide/"><u>Selecting Your Ideal Aqara Smart Lock: Finding the Perfect Match in Our Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/snapdragon-x-demonstrating-its-capability-to-compete-with-apples-advanced-silicon-architecture/"><u>Snapdragon X: Demonstrating Its Capability to Compete with Apple's Advanced Silicon Architecture</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-quick-guide-to-korean-mastery-6-recommended-digital-platforms/"><u>The Quick Guide to Korean Mastery - 6 Recommended Digital Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unraveling-the-mystery-how-does-the-netgear-c3000-stack-against-modern-modem-routers-in-a-comparative-analysis/"><u>Unraveling the Mystery: How Does the Netgear C3000 Stack Against Modern Modem-Routers in a Comparative Analysis?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elite-mobile-apps-for-high-quality-android-screenshots/"><u>[New] In 2024, Elite Mobile Apps for High-Quality Android Screenshots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-free-and-fast-the-ultimate-list-of-mac-screen-recorders/"><u>[New] In 2024, Free and Fast The Ultimate List of Mac Screen Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-achieving-seamless-ages-shifting-scenes/"><u>[Updated] Achieving Seamless Ages Shifting Scenes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-essential-guidelines-for-securely-moving-your-tower-computer/"><u>1. Essential Guidelines for Securely Moving Your Tower Computer</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-quality-frames-at-low-motion-velocity/"><u>2024 Approved Best Quality Frames at Low Motion Velocity</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-amd-rx-ultimate-downloading-guide-for-windows-11-10-8-and-7/"><u>Find and Install AMD RX 지원 드라이버: Ultimate Downloading Guide for Windows 11, 10, 8 & 7!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oneplus-nord-ce-3-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to OnePlus Nord CE 3 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-nokia-xr21-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Nokia XR21 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unexpected-lithium-aa-battery-drainage-causes-and-proactive-solutions/"><u>Unexpected Lithium-AA Battery Drainage: Causes and Proactive Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-creativity-with-the-lenovo-chromebox-micro-the-perfect-device-for-hobbyists-and-makers/"><u>Unleash Creativity with the Lenovo Chromebox Micro – The Perfect Device for Hobbyists & Makers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-alienwares-new-high-def-and-ultra-hd-gaming-display/"><u>Unveiling Alienware's New High-Def and Ultra HD Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-invest-in-luxury-understanding-costs-of-the-new-model-g-two-section-charcoal-griller/"><u>Why Invest in Luxury? Understanding Costs of the New Model G Two-Section Charcoal Griller</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-paddle-controllers-enhance-my-gaming-experience-an-insider-look/"><u>Why Paddle Controllers Enhance My Gaming Experience - An Insider Look</u></a></li>
 </ul></div>
 

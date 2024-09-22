@@ -1,7 +1,7 @@
 ---
 title: "Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?"
-date: 2024-09-14T16:32:13.886Z
-updated: 2024-09-16T16:35:00.271Z
+date: 2024-09-20T09:33:03.228Z
+updated: 2024-09-22T06:22:33.243Z
 tags:
   - hardware
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a
 
 _[Steam](https://store.steampowered.com/app/2012840/Portal%5Fwith%5FRTX/)_
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI Upscaling and Anti-Aliasing
 
  Intel, AMD, and NVIDIA all have their own proprietary [upscaling technologies](https://desktop-recording.techidaily.com/new-2024-approved-capture-master-high-res-screen-record/) in the form of XeSS, FSR, and DLSS. These upscaling algorithms allow you to render games at below native resolutions to improve performance without sacrificing visuals. Hardware-accelerated AI upscaling does a much better job at this than traditional upscaling algorithms.
@@ -79,16 +86,16 @@ _Bethesda / Xbox Game Studios_
 
  This is all enabled, thanks to [Microsoft DirectStorage](https://win-howtos.techidaily.com/solutions-for-when-your-steam-store-wont-load-correctly/). NVIDIA has built [RTX IO](https://www.nvidia.com/en-us/geforce/news/rtx-io-for-geforce-gpus-available-now/) on top of DirectStorage, and you can enable it on any modern NVIDIA GPU in supported games. It works best on powerful GPUs and fast [NVMe SSDs](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-z60-ultra-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/). AMD is also working on its version of GPU-accelerated storage called [Smart Access Storage](https://www.digitaltrends.com/computing/what-is-amd-smart-access-storage/), but it's not yet available.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  HDMI 2.1
 
 ![startech.com hdmi 2.1 cable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/startech-com-hdmi-2-1-cable.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 StarTech.com
 
@@ -96,18 +103,18 @@ StarTech.com
 
  If you have a compatible monitor or TV, you can take advantage of HDMI 2.1 to get the best image signal delivery possible. GPUs with HDMI 2.1 support include the AMD RX 6000 and 7000 Series, NVIDIA RTX 3000 and 4000 Series, and Intel Arc. However, if you're using a monitor with DP 1.4, there's no real benefit. HDMI 2.1 is best paired with a modern high-end 4K TV. VRR technologies like NVIDIA G-Sync work just fine on DisplayPort.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Mesh Shading
 
  Without getting too technical, [graphics-accelerated](https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-premium-androidpc-video-editors/) mesh shading allows a GPU to render more graphics with less data. If a game uses mesh shaders, but a GPU doesn't support it, it leads to serious performance issues that can render the game unplayable. We saw that recently with [_Alan Wake 2_](https://www.pcgamer.com/alan-wake-2-mesh-shader-support/), so things are only going to get worse for old GPUs from here.
 
  You don't even need that much of a recent GPU to get mesh shaders. Older NVIDIA Turing GPUs (GTX 16 and RTX 20 Series), AMD RDNA 2 (RX 6000 Series), and Intel Arc GPUs all support parallel mesh shaders. If you're still on an old high-end GPU, like the GTX 1080 Ti or RX 5700 XT, maybe the time has come for an upgrade.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Variable Rate Shading
 
@@ -116,28 +123,15 @@ StarTech.com
  By focusing the resources on the environment, your GPU is able to render the image more efficiently, resulting in more FPS. It's especially useful in VR because the GPU can spend more time rendering what's in front of you. Just like mesh shading, VRS was introduced with Turing GPUs. It also works on Intel GPUs. AMD has its own version called FidelityFX Variable Shading, which works on RDNA 2 and newer GPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Resizeable BAR & Smart Access Memory
 
 [Resizeable BAR](https://hardware-tips.techidaily.com/toms-tech-insights-unveiling-the-latest-in-hardware/), or ReBAR for short, allows your CPU to access the full GPU VRAM instead of transferring data in 256MB chunks. As you can imagine, this leads to a direct performance increase in most games. ReBAR works on both NVIDIA and Intel GPUs. AMD's version is called Smart Access Memory. It's worth noting that you don't just need a compatible GPU; your CPU and motherboard also need to support ReBAR to work.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  AV1 Encoding
 
@@ -162,16 +156,15 @@ StarTech.com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-non-disclosure-measures-for-video-footage/"><u>[New] Non-Disclosure Measures for Video Footage</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-direct-digital-diaries-2023-edition/"><u>[Updated] In 2024, Direct Digital Diaries - 2023 Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price-for-2024/"><u>Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-installers-for-your-msi-z370-a-pro-graphics-cards-and-chipset/"><u>Latest Installers for Your MSI Z370-A PRO Graphics Cards & Chipset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-common-problems-getting-your-razer-blackshark-v2-mic-up-and-running/"><u>Overcoming Common Problems: Getting Your Razer Blackshark V2 Mic Up and Running</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultra-hd-and-smart-assistant-combined-a-look-into-the-insignia-43df710ns-fire-tv-stick-for-less/"><u>Ultra HD & Smart Assistant Combined - A Look Into the Insignia 43DF710NS Fire TV Stick for Less</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/week-in-review-latest-iphone-software-enhancements-and-product-recalls/"><u>Week in Review: Latest iPhone Software Enhancements & Product Recalls</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/weekly-insights-exploring-the-latest-features-in-windows-laptops-and-unveiling-hidden-strategies-of-spotify/"><u>Weekly Insights: Exploring the Latest Features in Windows Laptops & Unveiling Hidden Strategies of Spotify</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-combining-a-standard-refrigerator-with-an-ipad-offers-more-value-than-one-integrated-smart-fridge/"><u>Why Combining a Standard Refrigerator with an iPad Offers More Value Than One Integrated 'Smart Fridge'</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-recycling-an-old-tablet-can-benefit-your-furry-friends-playtime/"><u>Why Recycling an Old Tablet Can Benefit Your Furry Friends' Playtime</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-terramasters-128tb-hybrid-raid-setup-surpasses-expectations-for-massive-storage-needs/"><u>Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streaming-tools-duel-go-with-obs-or-shadowplay-for-2024/"><u>[New] Streaming Tools Duel Go with OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-test-of-tomtom-bandit-2023-cam-for-2024/"><u>[Updated] The Ultimate Test of TomTom Bandit 2023 Cam for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-uniting-voices-and-visions-the-top-mics-for-educational-gaming-and-lifestyle-yt-screens-for-2024/"><u>[Updated] Uniting Voices & Visions The Top Mics For Educational, Gaming, and Lifestyle YT Screens for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-cpus-to-gpus-expert-tips-on-cutting-edge-hardware-with-tom/"><u>From CPUs to GPUs: Expert Tips on Cutting-Edge Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-sabrents-speedy-rocket-5-ssds-pre-order-begins-at-an-affordable-price-of-190/"><u>Get Your Hands on Sabrent's Speedy Rocket 5 SSDs - Pre-Order Begins at an Affordable Price of $190!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-cleanly-remove-nvidia-software-on-a-windows-11-system/"><u>How to Cleanly Remove NVIDIA Software on a Windows 11 System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y78plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y78+ Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-zero-30-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Zero 30 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-sabrent-rocket-5-2tb-ssd-performance-elevated/"><u>In-Depth Analysis of Sabrent Rocket 5 2TB SSD - Performance Elevated</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-11-fs-data-loss-and-corruption/"><u>Solutions for Windows 11 FS Data Loss and Corruption</u></a></li>
 </ul></div>
 

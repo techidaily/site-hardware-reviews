@@ -1,7 +1,7 @@
 ---
 title: "Revamping the AMD Ryzen 5000 Series: The Allyn X Review & Future Desires"
-date: 2024-09-13T16:27:37.746Z
-updated: 2024-09-16T16:32:37.383Z
+date: 2024-09-18T09:11:59.539Z
+updated: 2024-09-22T09:53:33.535Z
 tags:
   - hardware
 categories:
@@ -65,6 +65,13 @@ Goran Damnjanovic / How-To Geek
 
  If the ROG Ally 2 keeps the upgrades mentioned above, sheds some weight, and comes with a more powerful APU, I’ll be happy. But I’ll be even happier if it packs some of the following upgrades.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  A Trackpad
 
  I understand why the Ally X doesn’t feature a trackpad. To fit one, ASUS would have to completely redesign the chassis and rearrange the internal components. But the ROG Ally 2 should really come with one because having one makes navigating around Desktop Mode on my Steam Deck so much more enjoyable. I’m positive a trackpad would make navigating around Windows [almost pain-free](https://win-solutions.techidaily.com/overcoming-unexpected-shutdowns-in-cod-modern-warfare-3-game-application/), too, which is anything but on the ROG Ally.
@@ -79,27 +86,20 @@ Goran Damnjanovic / How-To Geek
 
  The triggers on the Ally are pretty good. They have just the right resistance and pretty generous travel, but they’re just a tad too short for my taste. Triggers being even a half centimeter (a fifth of an inch) taller on the next ROG Ally would be great.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  A Physical Button for Switching Between Desktop and Controller Modes
 
 ![GPD Win 4 Mouse Controller Switch button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/gpd-mouse-controller-switch-button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 GPD
 
  Virtually all handheld gaming PCs from GPD come with a physical switch for swapping between desktop and controller modes, and having one on the ROG Ally 2 would be awesome. That way, switching between modes would take just one step instead of four—opening the Command Center, going to the Control Mode toggle, toggling it, and then closing the Command Center.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Four Back Buttons Instead of Two
 
@@ -108,16 +108,10 @@ GPD
  This means that I can only use one back button in most games. But if the ROG Ally 2 copies the Steam Deck and packs four buttons, I’ll be able to use three of those as regular back buttons, which would be yet another small yet super handy upgrade.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Hall Effect Thumbsticks
@@ -126,24 +120,18 @@ GPD
 
  But if they could somehow pack Hall effect thumbsticks and make them work with Hall effect triggers on the ROG Ally 2, we wouldn’t have to worry about the joystick drift. If nothing else, analog sticks that are legitimately easier to replace or upgrade on the ROG Ally X (as ASUS claims) are a nice consolation prize.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  A Proper Budget Version
 
  The ROG Ally with the AMD Z1 APU isn’t a proper budget version of the ROG Ally. The price difference isn’t there, and the 1080p screen on the Z1 model is overkill for the level of gaming performance the Z1 offers.
 
  I’d like the ROG Ally 2 lineup to include a proper budget model—at least 30% more affordable than the high-end model, featuring a 900p screen instead of a 1080p panel.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  An APU That’s Designed for a Gaming Handheld
 
@@ -155,16 +143,16 @@ GPD
 
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Intel
 
  There are also rumors that NVIDIA is preparing an ARM-based [system on a chip](https://screen-activity-recording.techidaily.com/new-discovering-win11s-finest-screen-grabbers-for-2024/) (SoC) with MediaTek that will have a beastly [iGPU](https://tech-savvy.techidaily.com/is-it-wise-to-delegate-money-matters-to-ai/), so I can’t wait to see what's in store in the next 12-24 months and which of the future APUs will power the ASUS ROG Ally 2.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  32GB of Memory
 
@@ -205,12 +193,19 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-your-intel-uhd-graphics-driver-today-perfect-for-windows-1011-users/"><u>Download and Update Your Intel UHD Graphics Driver Today - Perfect for Windows 10/11 Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/easy-methods-for-relocating-apps-onto-external-sd-cards-on-your-android-device/"><u>Easy Methods for Relocating Apps Onto External SD Cards on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-tips-for-crafting-professional-slug-line-notations-for-2024/"><u>Expert Tips for Crafting Professional Slug Line Notations for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>In 2024, In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/jest-jamboree-the-most-entertaining-youtubers-to-watch/"><u>Jest Jamboree The Most Entertaining YouTubers to Watch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-memorable-moments-from-the-2022-skatescape/"><u>[New] 2024 Approved Memorable Moments From the 2022 Skatescape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-for-iphone-image-arrangement/"><u>[New] Innovative Methods for iPhone Image Arrangement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-peak-performance-audio-organizer-android/"><u>[New] Peak Performance Audio Organizer, Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-enhancing-viewership-the-right-aspect-ratio-choice/"><u>[Updated] Enhancing Viewership The Right Aspect Ratio Choice</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pros-of-selecting-best-vtuber-sound-alteration-apps-for-2024/"><u>[Updated] Pros of Selecting Best Vtuber Sound Alteration Apps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guidance-by-toms-technology-blog-unveiling-the-latest-innovations/"><u>Advanced Hardware Guidance by Tom's Technology Blog: Unveiling the Latest Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-5-8600g-cpu-gpu-combo-sale-save-big-with-181-pricing-on-amazon/"><u>AMD Ryzen #5 8600G CPU-GPU Combo Sale - Save Big with $181 Pricing on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-your-guide-to-cutting-edge-technology/"><u>Exploring Gadgets with Tom's Hardware - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-affordable-4tb-performance-tested/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite: Affordable 4TB Performance Tested</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovating-roleplay-elements-fusing-technology-and-art-in-dungeons-and-dragons/"><u>Innovating Roleplay Elements: Fusing Technology & Art in Dungeons & Dragons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-versus-amd-an-in-depth-look-at-which-cpu-outperforms/"><u>Intel Versus AMD: An In-Depth Look at Which CPU Outperforms?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-tom-an-authoritative-source-on-cutting-edge-computer-hardware/"><u>Navigating New Gadgets with Tom: An Authoritative Source on Cutting-Edge Computer Hardware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Tecno Phantom V Fold? | Dr.fone</u></a></li>
 </ul></div>
 

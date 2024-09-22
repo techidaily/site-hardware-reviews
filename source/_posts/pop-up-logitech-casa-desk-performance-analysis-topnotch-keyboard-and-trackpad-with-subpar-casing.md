@@ -1,7 +1,7 @@
 ---
 title: "Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard & Trackpad with Subpar Casing"
-date: 2024-09-09T16:03:52.610Z
-updated: 2024-09-16T16:04:23.945Z
+date: 2024-09-20T02:22:23.421Z
+updated: 2024-09-21T16:26:19.227Z
 tags:
   - hardware
 categories:
@@ -64,19 +64,6 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
 
  It’s not surprising that Logitech employs wide compatibility since most of the company’s other products usually work across multiple platforms. The Casa Pop-Up Desk is essentially a packaging of the Casa Keys keyboard and the Casa Touch touchpad in a clever case (Casa Book). My big hope is that we see these devices sold independently at some point.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Feel of Casa Keys and Casa Touch
 
 ![Logitech Casa Keys Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-keyboard.jpg) 
@@ -107,16 +94,16 @@ Jerome Thomas / How-To Geek
 
  Smart Actions allows multiple apps and tasks to be launched at once. Basically, it does macros. This feels like a more practical need for more people, but I still didn’t find too many instances where I wanted to have 12 items fire off for me at the press of a button. Maybe I’m less imaginative in this area. It’s neat and it worked, but I wouldn’t buy a Logitech product for this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How Much Is the Case Worth?
 
 ![Logitech Casa Pop Up Desk laying on a desk outside of its box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-1.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -136,9 +123,23 @@ Jerome Thomas / How-To Geek
 
  Despite liking the keyboard and thinking the touchpad was decent, I would be hard-pressed to want to spend $150 on both combined. And even $30 for the case in that pricing scenario seems high unless it’s used constantly, which I didn't feel the need to do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Logitech Casa Pop-Up Desk?
 
 ![Items from the Logitech Casa Pop Up Desk stored in the case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/logitech-casa-pop-up-desk-2.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tyler Hayes / How-To Geek
 
@@ -149,13 +150,6 @@ Tyler Hayes / How-To Geek
  The product is, however, much more apt for a portable workstation around your house or apartment. This whole thing could be tucked away on a bookcase each weekend if you really want to compartmentalize work and leisure. Overall, it's a fine product with a skewed price. It's best to try and find it on sale.
 
 ![Logitech Casa Pop Up Desk Kit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/logitech-casa-pop-up-desk-kit.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #####  Logitech Casa Pop-Up Desk
 
@@ -182,18 +176,18 @@ This all-in-one, ergonomic workspace includes a minimalist keyboard, intuitive w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-the-innovators-playbook-for-premiere-pro-fullscreen-edits-for-2024/"><u>[Updated] The Innovator's Playbook for Premiere Pro Fullscreen Edits for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-quick-and-easy-methods-for-recording-audio-on-your-android-device/"><u>1. Quick and Easy Methods for Recording Audio on Your Android Device</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>2024 Approved Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-insiders-look-at-vlc-functionality-on-macbooks/"><u>2024 Approved Insider's Look at VLC Functionality on MacBooks</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-yuva-2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Yuva 2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-practices-for-picking-your-perfect-wireless-phone-charger/"><u>Best Practices for Picking Your Perfect Wireless Phone Charger</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bridging-the-gap-the-ongoing-effort-by-google-for-seamless-text-communication-between-iphones-and-android-devices/"><u>Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-ace-3-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Ace 3 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-integration-for-steam-deck-users/"><u>Seamless Windows Integration for Steam Deck Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-selection-of-youtubes-finest-cosmetics-vloggers-for-2024/"><u>The Ultimate Selection of YouTube's Finest Cosmetics Vloggers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-vidmessenger-extractor-plus/"><u>[New] 2024 Approved VidMessenger Extractor Plus</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-expert-guide-how-to-keep-a-log-of-google-voice-chats/"><u>[Updated] Expert Guide How to Keep a Log of Google Voice Chats</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oppo-reno-9a-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Oppo Reno 9A Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparative-analysis-camm2-memory-modules-vs-traditional-dimms-benchmarking-kingstons-ddr5-72nsec-c38-camm2/"><u>Comparative Analysis: CAMM2 Memory Modules Vs. Traditional DIMMs - Benchmarking Kingston's DDR5-72n/Sec, C38 CAMM2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-tom-comprehensive-hardware-insights-and-guides/"><u>Exploring Computer Gear with Tom: Comprehensive Hardware Insights and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-your-ultimate-resource-for-cutting-edge-hardware-insights/"><u>Exploring Tech with Tom: Your Ultimate Resource for Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-flip-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 Flip Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-intels-latest-arc-a76na-graphics-card-unleashing-high-performance-aaa-gaming-on-the-go-for-your-vehicle-with-advanced-xe-cores-ample-memory-and-11/"><u>Introducing Intel's Latest Arc A76nA Graphics Card: Unleashing High-Performance 'AAA Gaming on the Go' For Your Vehicle with Advanced Xe-Cores, Ample Memory & Efficient Power Draw</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware-t17239718723911/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-you-need-an-apple-watch-for-instant-chatting-embrace-its-walkie-talkie-features-today/"><u>Why You Need an Apple Watch for Instant Chatting – Embrace Its Walkie-Talkie Features Today!</u></a></li>
 </ul></div>
 

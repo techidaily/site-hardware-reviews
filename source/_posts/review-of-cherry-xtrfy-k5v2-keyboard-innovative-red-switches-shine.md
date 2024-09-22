@@ -1,7 +1,7 @@
 ---
 title: "Review of Cherry XTRFY K5V2 Keyboard: Innovative Red Switches Shine"
-date: 2024-09-11T16:00:13.041Z
-updated: 2024-09-16T16:23:00.143Z
+date: 2024-09-16T02:53:48.742Z
+updated: 2024-09-22T00:40:57.777Z
 tags:
   - hardware
 categories:
@@ -125,13 +125,6 @@ Sergio Rodriguez / How-To Geek
 
  Preferences vary, of course, but I feel confident saying that if you like Cherry Red switches, you'll be very happy with this new switch version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  No Software? No Problem—Mostly
 
 ![Angled view of the backlit Cherry K5V2 Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/angled-view-of-the-backlit-cherry-k5v2-keyboard-1jpg_53543595886_o-2.jpg) 
@@ -146,21 +139,22 @@ Sergio Rodriguez / How-To Geek
 
  The keyboard also has a function key that lets you swap between USB 2.0 and 3.0\. If you plug the keyboard into a USB 3.0 port, it can improve the RGB lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Cherry XTRFY K5V2?
 
 ![The Cherry K5V2 keyboard with its box and accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/04/the-cherry-k5v2-keyboard-with-its-box-and-accessories-2jpg_53542721052_o-2.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
@@ -250,20 +244,20 @@ Expand
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-guide-pcmobile-save-meetings/"><u>[Updated] Step-by-Step Guide PC/Mobile Save Meetings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/8-tools-to-record-computer-sound-and-microphone-for-2024/"><u>8 Tools to Record Computer Sound and Microphone for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/diy-solutions-for-maximizing-speaker-performance-in-windows-11/"><u>DIY Solutions for Maximizing Speaker Performance in Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-techniques-to-trim-your-tunes-cross-platform-guide/"><u>Effortless Techniques to Trim Your Tunes: Cross-Platform Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effortlessly-cutting-and-pasting-content-in-android-text-hyperlinks-and-visual-media-tips/"><u>Effortlessly Cutting & Pasting Content in Android: Text, Hyperlinks & Visual Media Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhancing-sleep-with-android-bedtime-functionality-personal-experience-and-tips/"><u>Enhancing Sleep with Android Bedtime Functionality: Personal Experience and Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-calculating-necessary-internal-storage-for-optimal-performance-on-android-smartphones/"><u>Essential Guide: Calculating Necessary Internal Storage for Optimal Performance on Android Smartphones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exciting-tech-alert-the-release-date-for-nothing-phone-2-set-for-july-11th-revealed/"><u>Exciting Tech Alert: The Release Date for Nothing Phone 2 Set for July 11Th Revealed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-how-to-input-critical-emergency-health-information-into-your-android-smartphone/"><u>Guide: How to Input Critical Emergency Health Information Into Your Android Smartphone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y78-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y78 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-amazon-fire-tablets-unresponsive-play-store/"><u>How to Fix Amazon Fire Tablet's Unresponsive Play Store</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-expert-techniques-for-ps4-gameplay-documentation/"><u>In 2024, Expert Techniques for PS4 Gameplay Documentation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR, Apples New iPhone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ios-features-inspired-by-and-android/"><u>IOS, Features Inspired by, and Android.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/psvr2-unveiled-latest-updates-on-features-costs-launch-timeline-and-technical-details/"><u>PSVR2 Unveiled: Latest Updates on Features, Costs, Launch Timeline & Technical Details</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-soundtrack-strategy-amplifying-unboxing-content/"><u>[New] 2024 Approved The Soundtrack Strategy Amplifying Unboxing Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-laughoutloud-maker-get-funny-faces-on-the-web/"><u>[New] LaughOutLoud Maker Get Funny Faces on the Web</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-windows-color-rich-video-landscape/"><u>[New] Navigating Windows' Color-Rich Video Landscape</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-poco-m6-5g-frp-bypass-by-drfone-android/"><u>About Poco M6 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-challenge-established-online-search-platforms-for-supremacy/"><u>Can ChatGPT Challenge Established Online Search Platforms for Supremacy?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-c67-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme C67 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a23-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A23 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-guides-on-consumer-electronics-by-toms-hardware-experts/"><u>In-Depth Guides on Consumer Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-gear-galaxy-with-toms-hardware-experts-the-definitive-resource-for-computer-components/"><u>Navigating the Gear Galaxy with Tom's Hardware Experts: The Definitive Resource for Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-tom-in-depth-testing-and-comparisons/"><u>The Ultimate Guide to Computer Hardware by Tom – In-Depth Testing & Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-on-hardware/"><u>Tom's Tech Insights: Comprehensive Guides on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: Comprehensive Analysis of the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-the-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-processor-performance-index-of-2024-comprehensive-cpu-ratings/"><u>Top Processor Performance Index of 2024: Comprehensive CPU Ratings</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-privacy-disabling-windows-trackers/"><u>Unlock Privacy: Disabling Windows Trackers</u></a></li>
 </ul></div>
 

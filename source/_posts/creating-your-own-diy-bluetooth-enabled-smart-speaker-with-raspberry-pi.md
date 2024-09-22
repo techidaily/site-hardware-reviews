@@ -1,7 +1,7 @@
 ---
 title: Creating Your Own DIY Bluetooth-Enabled Smart Speaker with Raspberry Pi
-date: 2024-09-11T16:05:47.067Z
-updated: 2024-09-16T16:21:01.685Z
+date: 2024-09-19T17:58:56.909Z
+updated: 2024-09-22T09:40:23.549Z
 tags:
   - hardware
 categories:
@@ -87,22 +87,22 @@ amixer -c 0 cset numid=3 100%`
 
 ![BalenaSound running services.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/bc-services.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Want to stream music via [Spotify](https://twitter-videos.techidaily.com/new-in-2024-digital-drama-videoviral-sagas-unfold-online/)? Open the Spotify app on your device (phone, tablet, or PC), select the device menu, and use Spotify Connect to broadcast your songs to your Raspberry Pi. Additionally, BalenaSound transforms your Raspberry Pi into an AirPlay device, allowing you to select it as a streaming destination on Apple Music or other AirPlay-supported apps on iOS.
 
 ![Spotify outputting to the Pi.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spotify-playback.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Troubleshooting and Optimizing Your Balena Sound Setup
@@ -112,10 +112,10 @@ amixer -c 0 cset numid=3 100%`
 ![The Spotify logs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/spotify-logs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into more complicated issues or want to take your setup to the next level, consider checking out the BalenaSound settings and exploring the options available. You can adjust buffer sizes, latency settings, and more to meet your needs. Don't be afraid to experiment and try out different configurations. If you get stuck, the [issues page on GitHub](https://github.com/balena-io-experimental/balena-sound/issues) is always a good place to check.
@@ -137,15 +137,18 @@ amixer -c 0 cset numid=3 100%`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-full-disclosure-inside-djis-next-gen-drone-inspire-2-for-2024/"><u>[New] Full Disclosure Inside DJI's Next Gen Drone - Inspire 2 for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-and-dominating-unique-segments-in-youtube/"><u>[Updated] In 2024, Discovering and Dominating Unique Segments in YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-stream-like-a-pro-fb-live-tips-2023/"><u>[Updated] Stream Like a Pro FB Live Tips 2023</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-handheld-game-devices-s-gamers/"><u>Discover the Leading Handheld Game Devices 'S Gamers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-perfect-workout-partner-samsung-galaxy-fit2s-advanced-fitness-tracking-technology/"><u>Discover the Perfect Workout Partner: Samsung Galaxy Fit2's Advanced Fitness Tracking Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-issue-preventing-spotify-from-closing-on-ios-upon-screen-lock/"><u>Fixing the Issue: Preventing Spotify From Closing on iOS Upon Screen Lock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rising-cost-of-hard-drives-discover-affordable-options-and-secrets/"><u>Rising Cost of Hard Drives? Discover Affordable Options and Secrets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsung-discovery-sale-unbeatable-deal-on-the-top-ultrawide-displays-save-600-now/"><u>Samsung Discovery Sale: Unbeatable Deal on the Top Ultrawide Displays - Save $600 Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/satechi-dual-purpose-qi2-charger-unveiled-compact-and-versatile-wireless-power-solution-for-modern-gadgets/"><u>Satechi Dual-Purpose Qi2 Charger Unveiled: Compact and Versatile Wireless Power Solution for Modern Gadgets</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-itunes-troubleshooting-companion-a-comprehensive-qanda-resource-with-100-solutions/"><u>Ultimate ITunes Troubleshooting Companion: A Comprehensive Q&A Resource with 100 Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-harness-the-power-of-wins11-new-gaming-titles/"><u>[New] Harness the Power of Wins11 New Gaming Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-skype-quality-with-obs-studio-plugins-for-2024/"><u>[New] Maximizing Skype Quality with OBS Studio Plugins for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-advanced-steps-for-securing-stock-photo-borders-for-2024/"><u>[Updated] Advanced Steps for Securing Stock Photo Borders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-this-video-will-get-you-100000-views-on-youtube/"><u>2024 Approved This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mf8500c-printer-software-free-download-for-windows-operating-systems/"><u>Canon MF8500C Printer Software: Free Download for Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862743546-experience-enhanced-productivity-top-tier-lg-34-curved-display-awaits-for-an-unbeatable-price-of-499/"><u>Experience Enhanced Productivity: Top-Tier LG 34 Curved Display Awaits for an Unbeatable Price of $499!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862770787-get-the-ultimate-deal-samsung-odyssey-g50a-27-qhd-ips-display-for-only-255-on-amazon/"><u>Get the Ultimate Deal: Samsung Odyssey G50A 27 QHD IPS Display for Only $255 on Amazon!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Change Netflix Location to Get More Country Version On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862778698-spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/strategies-to-rectify-freeze-in-obs-fullscreen-functionality-for-2024/"><u>Strategies to Rectify Freeze in OBS Fullscreen Functionality for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-value-priced-4k-monitors/"><u>Ultimate Selection of Value-Priced 4K Monitors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-tech-the-ultimate-resource-hub-by-toms-experts/"><u>Unveiling New Tech: The Ultimate Resource Hub by Tom’s Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-guided-by-toms-expertise/"><u>Unveiling the Latest in Hardware - Guided by Tom's Expertise</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unmissable Deal Alert! Outstanding Samsung TV Selection Slashed by Almost Half for Labor Day Celebrations | Consumer Reports
-date: 2024-09-17 10:53:53
-updated: 2024-09-20 11:44:32
+date: 2024-09-18T04:15:05.537Z
+updated: 2024-09-21T18:46:43.741Z
 tags:
   - tvs
 categories:
@@ -94,6 +94,13 @@ Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Gaming 
 
 Where I was the most surprised with the Omni QLED is just how well it does with console gaming. I set up both my [PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlayStation-5-Console%2Fdp%2FB0BCNKKZ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and [Nintendo Switch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNintendo-Switch-OLED-Model-White-Joy%2Fdp%2FB098RKWHHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and ran this TV through every test and challenge I could think of. And the Omni Series QLED is more than capable of delivering a quality console gaming experience. 
@@ -154,6 +161,13 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -193,11 +207,26 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-preventing-non-displayed-images-in-youtubes-shorts/"><u>[Updated] 2024 Approved Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-funimate-unlocked-a-complete-experience/"><u>[Updated] Funimate Unlocked A Complete Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-buys-unbeatable-offer-asus-rog-zephyrus-g14-with-rtx-4060-for-999/"><u>Best Buy's Unbeatable Offer: Asus ROG Zephyrus G14 with RTX 4060 for $999</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-2020-evaluation-continued-stylish-design-enhanced-by-the-latest-snapdragon-x-elite-chipset/"><u>Dell XPS 13 (2020) Evaluation: Continued Stylish Design Enhanced by the Latest Snapdragon X Elite Chipset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-innovations-on-toms-tech-hub-your-guide-to-cutting-edge-hardware/"><u>Discover Innovations on Tom's Tech Hub - Your Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-with-toms-hardware-guides/"><u>Discover the Latest in Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-notch-hardware-tips-with-toms-hardware-hub/"><u>Discover Top-Notch Hardware Tips with Tom's Hardware Hub</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-excellent-free-cam-snipping-software/"><u>In 2024, Excellent Free Cam Snipping Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/microsoft-introduces-cutting-edge-functionalities-to-notepad-for-windows-11-users/"><u>Microsoft Introduces Cutting-Edge Functionalities to Notepad for Windows 11 Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streaming-success-secrets-unveiling-monetization-on-dm-and-yo/"><u>Streaming Success Secrets Unveiling Monetization on Dm & Yo</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-transform-your-photos-the-ultimate-guide-to-animation-tools/"><u>Updated Transform Your Photos The Ultimate Guide to Animation Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/what-lies-unseen-in-instagram-story-watching/"><u>What Lies Unseen in Instagram Story Watching</u></a></li>
+</ul></div>
+

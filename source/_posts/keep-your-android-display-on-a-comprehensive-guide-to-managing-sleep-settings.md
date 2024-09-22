@@ -1,7 +1,7 @@
 ---
 title: "Keep Your Android Display On: A Comprehensive Guide to Managing Sleep Settings"
-date: 2024-09-12T16:15:47.625Z
-updated: 2024-09-16T16:37:50.610Z
+date: 2024-09-14T17:54:05.734Z
+updated: 2024-09-22T02:06:08.098Z
 tags:
   - android
 categories:
@@ -47,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
  Repeat these steps any time you want to adjust the Screen Timeout length.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Stop the Screen From Turning Off Entirely
@@ -61,18 +67,18 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
 
 ![android caffeine app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot_2023-12-05-16-46-57-04_b5a5c5cb02ca09c784c5d88160e2ec24.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The app works via a "Quick Settings" toggle, so [follow our guide for customizing the Quick Settings](https://video-content-creator.techidaily.com/updated-in-2024-uncover-the-best-green-screen-software-for-mac-video-editing/) to add the "Caffeine" button to the panel.
 
  Once you're all done, you can then simply tap the coffee mug icon in "Quick Settings." By default, the screen timeout will be changed to "Infinite," and the screen will not turn off.
 
 ![android caffeine toggle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/screenshot_2023-12-05-16-47-17-77_daee99a6dac36362cd22bb0972c74d0e.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tap the Coffee Mug icon again to return to your normal screen timeout length. Caffeine has a number of other customization options; just open the app to adjust these to your liking.
 
@@ -91,16 +97,20 @@ thumbnail: https://thmb.techidaily.com/d4c7cd2172ccba4bdb571077b4ff8032d0659877f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/astering-content-visibility-on-youtube-your-guide-to-effective-featured-channels-for-2024/"><u>[New] Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-profitability-guide-cpm-and-earnings-analysis/"><u>2024 Approved YouTube Profitability Guide CPM and Earnings Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-concept-of-reverse-inductive-charging-technology/"><u>Exploring the Concept of Reverse Inductive Charging Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/identify-the-exact-model-of-your-android-smartphone-a-step-by-step-guide/"><u>Identify the Exact Model of Your Android Smartphone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-6s-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 6s Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-10-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 10 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy F34 5G FRP</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/mastering-typing-ease-with-the-microsoft-sculpt-keyboard-best-features-and-costs-unveiled/"><u>Mastering Typing Ease with the Microsoft Sculpt Keyboard – Best Features and Costs Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-tips-for-perfect-hdr-shots-with-your-iphone/"><u>[Updated] Essential Tips for Perfect HDR Shots with Your iPhone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-youtube-to-facebook-sharing-pathways-for-2024/"><u>[Updated] Navigating YouTube to Facebook Sharing Pathways for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-preventing-sickness-while-engaging-with-vr/"><u>2024 Approved Preventing Sickness While Engaging with VR</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-1100w-cooler-master-passive-psu-silent-performance-and-stable-output/"><u>Efficient 1100W Cooler Master Passive PSU: Silent Performance & Stable Output</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/evaluating-the-stability-of-tech-giants-microsofts-interruptions-as-a-catalyst-for-change-in-public-technology-choices/"><u>Evaluating the Stability of Tech Giants: Microsoft's Interruptions as a Catalyst for Change in Public Technology Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-capabilities-of-next-gen-llama-technology/"><u>Exploring the Capabilities of Next-Gen Llama Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-budget-friendly-recording-software-for-windows-users/"><u>In 2024, Budget-Friendly Recording Software for Windows Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Insights: Exploring the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-latest-in-computing-expert-analysis-by-toms-storehouse-of-knowledge/"><u>Uncovering the Latest in Computing - Expert Analysis by Tom's Storehouse of Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-tech-discover-in-depth-reviews-at-toms-comprehensive-hardware-guide/"><u>Unleashing the Power of Tech: Discover In-Depth Reviews at Tom’s Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-hardware-with-toms-gear-advice/"><u>Unveiling the Latest in PC Hardware with Tom's Gear Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgraded-performance-and-sturdiness-discover-cooler-masters-reinforced-psu-with-innovative-1nvhpwr-connectors-for-superior-gaming-rigs/"><u>Upgraded Performance & Sturdiness: Discover Cooler Master's Reinforced PSU with Innovative 1nVHPWR Connectors for Superior Gaming Rigs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-samsungs-collaboration-with-ubreakifix-falls-short-of-expectations/"><u>Why Samsung's Collaboration with uBreakiFix Falls Short of Expectations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Outstanding Savings on Electronics with Sony PSVR², $69 Apple AirPods, & the Versatile Anker Power Station
-date: 2024-09-11T16:40:21.672Z
-updated: 2024-09-16T16:19:24.039Z
+date: 2024-09-18T09:03:09.995Z
+updated: 2024-09-22T05:54:37.565Z
 tags:
   - hardware
 categories:
@@ -86,10 +86,16 @@ Sleek and comfy, Apple's in-ear iPhone 14 AirPods can serenade you with high-qua
  If anyone in your household needs a new set of AirPods you'll want to grab these while they're nearly 50% off. The older 2nd generation earbuds go on sale quite often, and if anyone has lost a bud or needs some headphones for school, don't pass up [AirPods for $70](https://www.amazon.com/dp/B07PXGQC1Q?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004520&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftech-deals-ps-vr2-power-station-airpods-tvs%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  More Tech Deals
@@ -97,10 +103,10 @@ Sleek and comfy, Apple's in-ear iPhone 14 AirPods can serenade you with high-qua
 ![Some tech products with several 'x' icons around them.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/some-tech-products-with-several-x-icons-around-them.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek
@@ -130,16 +136,19 @@ Lucas Gouveia / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-jumpstarting-video-communication-a-3-step-guide-for-snapchat-users/"><u>[New] 2024 Approved Jumpstarting Video Communication A 3-Step Guide for Snapchat Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-maximize-ps5-space-premier-top-10-hdds/"><u>[Updated] Maximize PS5 Space Premier Top 10 HDDs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conquer-the-interview-arena-strategies-with-chatgpt/"><u>Conquer the Interview Arena: Strategies with ChatGPT</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-capabilities-detailed-insights-into-the-lenovo-legion-7i-with-ryzen-processor-and-nvidia-graphics/"><u>Exploring the Capabilities: Detailed Insights Into the Lenovo Legion 7I with Ryzen Processor and NVIDIA Graphics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>In 2024, Galactic Glitter Top 10 Accessories for SJ4000 Stargazers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-msi-magic-cognizant-oled-top-gaming-display-unveiled/"><u>In-Depth Analysis of the MSI Magic Cognizant OLED - Top Gaming Display Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-insta360-x4-camera-analysis-high-quality-shots-at-premium-pricing/"><u>In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigate-with-ease-our-pick-of-the-best-7-traffic-applications/"><u>Navigate with Ease: Our Pick of the Best 7 Traffic Applications</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-avidemux-sound-problems-heres-how-to-fix-them-quickly/"><u>New 2024 Approved Avidemux Sound Problems? Heres How to Fix Them Quickly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/proper-mac-photo-tips-identifying-and-comparing-the-top-5-techniques/"><u>Proper Mac Photo Tips Identifying and Comparing The Top 5 Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-11x-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme 11X 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-analysis-top-9-digital-recording-tools-assessed-for-2024/"><u>[New] Expert Analysis Top 9 Digital Recording Tools Assessed for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-editing-reimagined-by-vidas-innovations/"><u>[New] The Art of Editing Reimagined by Vida's Innovations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-your-own-youtube-closures-without-spending/"><u>[Updated] 2024 Approved How to Make Your Own YouTube Closures Without Spending</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amds-breakthrough-invention-seamless-automated-memory-clock-boosting-solution/"><u>AMD's Breakthrough Invention: Seamless Automated Memory Clock Boosting Solution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-your-ppt-shows-with-advanced-techniques/"><u>Elevate Your PPT Shows with Advanced Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-recommendations-free-chat-apps-with-screen-viewing-for-2024/"><u>Expert Recommendations Free Chat Apps with Screen Viewing for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725289692995-hulu/"><u>Hulu 動画ダウンロード保存の究極ガイド - 無料で見放題動画をダウンロードする方法</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-sideways-to-right-side-up-easy-video-flipping/"><u>In 2024, From Sideways to Right-Side Up Easy Video Flipping</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-combine-multiple-avi-files-into-one-top-10-free-avi-merger-tools/"><u>New Combine Multiple AVI Files Into One Top 10 Free AVI Merger Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-12-pro-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 12 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-and-expert-insights/"><u>Tom's Tech Review: Comprehensive Guides & Expert Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-go-to-source-for-comprehensive-hardware-analysis/"><u>Tom's Tech Review: Your Go-To Source for Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-evaluations/"><u>Tom's Tech Reviews: In-Depth Insights and Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-legacy-the-remarkable-journey-of-a-vintage-14-year-old-celeron-d-347-overclocked-to-an-astounding-837ghz/"><u>Unleashing the Power of Legacy: The Remarkable Journey of a Vintage 14-Year-Old Celeron D 347, Overclocked to an Astounding 8.37Ghz</u></a></li>
 </ul></div>
 

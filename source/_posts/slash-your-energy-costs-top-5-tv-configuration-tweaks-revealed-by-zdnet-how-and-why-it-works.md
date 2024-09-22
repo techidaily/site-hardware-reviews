@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Energy Costs: Top 5 TV Configuration Tweaks Revealed by ZDNet - How and Why It Works!"
-date: 2024-09-19 13:11:43
-updated: 2024-09-20 11:38:37
+date: 2024-09-19T22:40:54.232Z
+updated: 2024-09-22T07:04:49.979Z
 tags:
   - tvs
 categories:
@@ -86,6 +86,13 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -166,6 +173,19 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -193,11 +213,30 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs/"><u>[New] Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-sifting-through-cloud-costs-for-maximum-savings-for-2024/"><u>[New] Sifting Through Cloud Costs for Maximum Savings for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-streaming-made-simple-your-guide-2023-edition/"><u>[Updated] Facebook Streaming Made Simple Your Guide, 2023 Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-outlining-expenditures-the-price-tag-of-video-capturing-tunes/"><u>[Updated] In 2024, Outlining Expenditures The Price Tag of Video Capturing Tunes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-enhancing-productivity-the-benefits-of-using-a-dual-monitor-setup-over-a-single-ultrawide/"><u>1. Enhancing Productivity: The Benefits of Using a Dual-Monitor Setup Over a Single UltraWide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/artificial-intelligence-boosting-computer-performance-next-gen-spec-leap/"><u>Artificial Intelligence Boosting Computer Performance: Next-Gen Spec Leap</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-bargains-on-technology-featuring-amazon-firestick-anker-portable-charger-and-dji-quadcopter-among-others/"><u>Best Bargains on Technology: Featuring Amazon Firestick, Anker Portable Charger & DJI Quadcopter Among Others</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-budget-friendly-ticking-clocks-online/"><u>Best Budget-Friendly Ticking Clocks Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-your-youtube-channels-for-accurate-monetization-practices-for-2024/"><u>Check Your YouTube Channels for Accurate Monetization Practices for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-down-error-code-0x80004005-a-comprehensive-guide-for-quick-rectification/"><u>Cracking Down Error Code 0X80004005 – A Comprehensive Guide for Quick Rectification</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-70-lite-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor 70 Lite 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-v27-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo V27 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
+</ul></div>
+

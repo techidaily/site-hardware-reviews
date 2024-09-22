@@ -1,7 +1,7 @@
 ---
 title: "1. Ditch Microsoft's Phone Link: Discover the Superior Alternative Application"
-date: 2024-09-11T16:44:29.440Z
-updated: 2024-09-16T16:23:30.287Z
+date: 2024-09-19T06:08:06.021Z
+updated: 2024-09-22T02:37:23.470Z
 tags:
   - android
 categories:
@@ -45,6 +45,13 @@ Close
 
 ![Open Plugin settings on KDE Connect Phone App](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/open-plugin-settings-on-kde-connect-phone-app-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just tap the toggle next to each option to enable or disable it.
 
 Close 
@@ -52,6 +59,13 @@ Close
  Do remember that you need to enable the plugin and also provide the necessary permissions for the respective features to work. Even if the plugin is enabled, without the proper permissions, the app won't be able to send and receive data between devices. KDE Connect will let you know which plugins require your attention as soon as you open the app.
 
 ![Permissions required for KDE Plugins to Funciton Properly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/permissions-required-for-kde-plugins-to-funciton-properly.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  KDE Connect doesn’t send your data to the cloud and works over your local Wi-Fi without using the internet. This means your data transferred via the app isn’t stored on any server. What’s more, all data is TLS-encrypted. Check out its [privacy policy page](https://community.kde.org/KDEConnect/PrivacyPolicy) for more information on its security measures.
 
@@ -77,9 +91,23 @@ Close
 
 ![Control Media Playback using KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/control-media-playback-using-kde-connect-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another feature I love is getting notified of incoming calls on my desktop**.** When you get a call on your phone, you’ll see the caller's name and the option to mute the call. Unfortunately, the option to receive calls right from your PC is missing.
 
 ![Incoming Phone call notification on PC via KDE Connect](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/incoming-phone-call-notification-on-pc-via-kde-connect-1.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That said, you do get the handy option to automatically pause any media playback on your PC or reduce the volume when you get a call. To enable this, go to Plugin Settings on the KDE Connect PC app and check the "Pause media during calls" option.
 
@@ -98,20 +126,13 @@ Close
 ![KDE Connect Slideshow Pointer feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/kde-connect-slideshow-pointer-feature.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Dibakar Ghosh | How-To Geek
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Transfer Large Files
 
@@ -123,13 +144,6 @@ Dibakar Ghosh | How-To Geek
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Send Two-Way Inputs Between Phone and Desktop
 
  Arguably, one of the best features of KDE Connect is the ability to remotely control your PC from your phone and vice versa. For instance, open the KDE Connect app on your phone and click the "Remote Input" option. Now, you can use the phone screen as a trackpad to control the desktop cursor. Also, click on the Keyboard Icon at the top and use your phone’s keyboard to type on your computer.
@@ -140,13 +154,6 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Create Desktop Commands and Execute Them From Your Phone
 
  This is a super handy KDE Connect feature for remotely opening apps and controlling your PC with your phone. All you need to do is open the KDE Connect app on your desktop, select the connected device, go to "Plugin Settings," scroll down and check the "Run Commands" option.
@@ -156,13 +163,6 @@ Close
 Close 
 
  To test, tap on "Lock Screen," and your PC's screen will lock. Likewise, tap on "File Explorer" to open File Explorer. You’re only restricted by your imagination at this point.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Happened to Screen Mirroring Though?
 
@@ -187,21 +187,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unveiling-top-10-trending-tweets-of-2023/"><u>[New] 2024 Approved Unveiling Top 10 Trending Tweets of 2023</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-seamless-instagram-video-mp4-conversion-pro-strategies-unlocked/"><u>[New] In 2024, Seamless Instagram Video-MP4 Conversion - Pro Strategies Unlocked</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-sideways-surprise-decoding-instagram-video-strange-behavior-for-2024/"><u>[New] The Sideways Surprise Decoding Instagram Video Strange Behavior for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-most-popular-firefox-screenshots-and-recorders/"><u>[Updated] Most Popular Firefox Screenshots & Recorders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries/"><u>[Updated] The Ultimate Visual Verdict SJ6 Meets Xiaomi’s Yi Visionaries</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-decline-how-the-venerable-4-pin-molex-is-approaching-retirement-after-six-decades/"><u>A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-views-with-optimal-youtube-thumbnails-and-ratios/"><u>Elevate Views with Optimal YouTube Thumbnails & Ratios</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oneplus-ace-3-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on OnePlus Ace 3 online without jailbreak</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated 2024 Approved How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/week-in-review-latest-iphone-software-enhancements-and-product-recalls/"><u>Week in Review: Latest iPhone Software Enhancements & Product Recalls</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/weekly-insights-exploring-the-latest-features-in-windows-laptops-and-unveiling-hidden-strategies-of-spotify/"><u>Weekly Insights: Exploring the Latest Features in Windows Laptops & Unveiling Hidden Strategies of Spotify</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-combining-a-standard-refrigerator-with-an-ipad-offers-more-value-than-one-integrated-smart-fridge/"><u>Why Combining a Standard Refrigerator with an iPad Offers More Value Than One Integrated 'Smart Fridge'</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-recycling-an-old-tablet-can-benefit-your-furry-friends-playtime/"><u>Why Recycling an Old Tablet Can Benefit Your Furry Friends' Playtime</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-terramasters-128tb-hybrid-raid-setup-surpasses-expectations-for-massive-storage-needs/"><u>Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-your-phone-needs-more-than-one-usb-c-exploring-the-power-of-dual-ports-in-mobile-devices/"><u>Why Your Phone Needs More Than One USB-C: Exploring the Power of Dual Ports in Mobile Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>[New] Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-video-editors-alternatives-to-inshot/"><u>[New] Video Editors Alternatives to Inshot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-upgrades-and-gadgets-for-the-ultimate-raspberry-pi-pico-experience-22024/"><u>Essential Upgrades & Gadgets for the Ultimate Raspberry Pi Pico Experience 2#2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expand-your-storage-install-add-on-board-enabling-dual-nvme-ssd-configuration-on-raspberry-pi-5/"><u>Expand Your Storage: Install Add-On Board Enabling Dual NVMe SSD Configuration on Raspberry Pi 5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-at-toms-computer-gear-hub/"><u>Expert Analysis at Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-an-in-depth-hardware-review/"><u>Exploring Computer Components with Tom - An In-Depth Hardware Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-glide-and-glory-short-track-highlights-from-22/"><u>In 2024, Glide and Glory Short Track Highlights From '22</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grappling-giants-twitch-triumph-or-hitbox-heroics/"><u>In 2024, Grappling Giants Twitch Triumph or Hitbox Heroics?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-livestran-interactions-with-these-ten-backtrack-techniques/"><u>In 2024, Mastering Livestran Interactions with These Ten Backtrack Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-maker-project-the-ultimate-raspberry-pi-1000-with-5-cores-enhanced-performance/"><u>Innovative Maker Project: The Ultimate 'Raspberry Pi 1000' With 5 Cores, Enhanced Performance</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-wireless-potential-easy-bluetooth-setup-instructions-for-win11-and-win10-users/"><u>Unlocking Wireless Potential: Easy Bluetooth Setup Instructions for Win11 & Win10 Users</u></a></li>
 </ul></div>
 

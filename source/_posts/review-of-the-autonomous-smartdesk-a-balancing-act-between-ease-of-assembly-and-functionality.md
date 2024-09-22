@@ -1,7 +1,7 @@
 ---
 title: "Review of the Autonomous SmartDesk: A Balancing Act Between Ease of Assembly and Functionality"
-date: 2024-09-13T16:18:39.752Z
-updated: 2024-09-16T16:07:12.641Z
+date: 2024-09-18T09:59:46.534Z
+updated: 2024-09-21T23:14:16.860Z
 tags:
   - hardware
 categories:
@@ -101,13 +101,6 @@ Mark LoProto / How-to Geek
 
  The desktop itself is also a nice, light wood finish. It reminds me a little of FlexiSpot’s Q8 Pro Standing Desk, just thicker. Unfortunately, the thick desktop and steel frame made it impossible for me to use my clamp monitor arm without having to modify the arm in ways it’s not meant to be modified.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Levitate Sensor: Who Asked for This?
 
  I ask earnestly and not with an air of sarcasm. There must have been a roundtable at Autonomous where the creative leads addressed some users' concerns about the current standing desk controls. Otherwise, I can’t fathom why they’d dilute an easy-to-use control panel to a singular button that frequently glitches and a sensor that makes part of the desk completely unusable.
@@ -118,18 +111,18 @@ Your browser does not support the video tag.
 
  The biggest issue is that the sensor responds to literally anything. If I had a book too close and moved it, the sensor either picked it or its shadow up and reacted. Even my cats set the desk off, which is when I realized how much of a niche audience this will have. I ultimately had to cover the sensor when I wasn’t using the desk so my cats wouldn’t jump up and kick the sensor off. Initially, I kept returning to the office to find the table at either the maximum or minimum height.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  It’s Not All Bad
 
  I think there’s a neat idea in here. This implementation just isn't it. I was surprised mainly by how well the sensor responded to my hand movements. I don’t recall an instance where it raised when I wanted it to lower or didn’t pick up that I was moving my hand. So long as I moved slowly and steadily and kept my hand at the same distance from the sensor while it moved, it worked well. If the sensor stopped registering my hand, which happened immediately after assembly and perhaps a week into use, the underside button is used to reset the system.
 
 ![Autonomous SmartDesk Levitate  sensor built into the desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/autonomous-smartdesk-levidesk-sensor.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mark LoProto / How-to Geek
 
@@ -148,10 +141,10 @@ Mark LoProto / How-to Geek
  Promo materials suggest routing your monitor’s cord into the well and pulling it back out to hide excess, but the small cutout limits the types of cords that will fit. You can just hide the wire and leave the ends exposed, but that’s less wire management and more creating a tangled mess elsewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Autonomous SmartDesk Levitate?
@@ -163,6 +156,13 @@ Mark LoProto / How-to Geek
  For its cost, I think there is way too much that needs to be addressed before this standing desk is anything beyond fodder for technology lovers like myself.
 
 ![Autonomous SmartDesk Levitate](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/autonomous-smartdesk-levitate.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #####  Autonomous SmartDesk Levitate
 
@@ -187,17 +187,20 @@ Autonomous SmartDesk Levitate puts a new spin on standing desks. Its sensor simu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-on-slomo-video-softwares-performance/"><u>[New] Expert Analysis on SloMo Video Software's Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-connected-but-cant-hear-a-thing-expert-solutions-inside/"><u>Bluetooth Connected, but Can't Hear a Thing? Expert Solutions Inside</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-kobo-libra-ebook-reader-analysis-outstanding-features-beyond-the-multicolor-screen/"><u>In-Depth Kobo Libra Ebook Reader Analysis: Outstanding Features Beyond the Multicolor Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/laptop-and-desktop-reimagined-with-the-introduction-of-amds-revolutionary-zen/"><u>Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lenovo-and-asus-team-up-with-meta-for-cutting-edge-horizon-os-vr-gear/"><u>Lenovo & Asus Team Up with Meta for Cutting-Edge Horizon OS VR Gear</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-asus-rog-phone-8-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-pc-issues-comprehensive-guide-to-avoiding-lost-ark-game-crashes/"><u>Resolving PC Issues: Comprehensive Guide to Avoiding Lost Ark Game Crashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-dark-mysteries-the-13-most-captivating-crime-podcasts/"><u>Unveiling Dark Mysteries: The 13 Most Captivating Crime Podcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ensuring-long-term-access-to-itunes-videos/"><u>[New] In 2024, Ensuring Long-Term Access to iTunes Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-overcoming-airborne-vibration-phenomenon/"><u>2024 Approved Overcoming Airborne Vibration Phenomenon</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/audio-mix-mastery-the-essence-of-crossfade-for-2024/"><u>Audio Mix Mastery The Essence of Crossfade for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/debugging-disaster-how-to-successfully-reinstall-coredll-and-revive-system-stability/"><u>Debugging Disaster: How to Successfully Reinstall Core.dll and Revive System Stability</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-archive-video-discussions-with-ease-and-security-for-2024/"><u>How to Archive Video Discussions with Ease & Security for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/kids-can-stay-connected-safely-with-t-mobiles-budget-friendly-monthly-12-child-sized-smartwatch/"><u>Kids Can Stay Connected Safely with T-Mobile’s Budget-Friendly Monthly $12 Child-Sized Smartwatch!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nextgen-gear-insights-deciphering-todays-cutting-edge-hardware-choices/"><u>NextGen Gear Insights: Deciphering Today's Cutting-Edge Hardware Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-system-expert-advice-from-the-tech-vault-of-toms-hardware/"><u>Optimize Your System: Expert Advice From the Tech Vault of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-with-toms-tech-analysis/"><u>Pioneering Hardware Discussions with Tom's Tech Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-powerhouse-a-comprehensive-eyoyo-em105-105-screen-value-assessment/"><u>Portable Powerhouse: A Comprehensive EYOYO EM105 10.5” Screen Value Assessment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis52/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-14-pro-max-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 14 Pro Max Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
 </ul></div>
 

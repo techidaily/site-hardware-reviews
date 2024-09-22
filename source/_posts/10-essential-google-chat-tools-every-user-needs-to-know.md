@@ -1,7 +1,7 @@
 ---
 title: 10 Essential Google Chat Tools Every User Needs to Know
-date: 2024-09-10T16:02:45.204Z
-updated: 2024-09-16T16:41:52.550Z
+date: 2024-09-20T08:19:51.575Z
+updated: 2024-09-21T20:18:47.190Z
 tags:
   - android
 categories:
@@ -42,13 +42,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  To turn this on, open the Messages Settings and go to "Message Organization." Here, you'll see an option titled "Auto-delete OTPs after 24 hours." As the name says, the app will attempt to automatically remove OTPs after they've been in your inbox for 24 hours. In my experience, this doesn't always work, but some is better than none.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Schedule Text Messages to Send Later
 
 ![Scheduling options for Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-13-38-32-02_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
@@ -65,13 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  People who use the Messages app (with or without RCS enabled) will see the reaction appear on the message. For everyone else, including iPhone users, they'll get a separate message that says "\[emoji\] to \[message\]." If you've ever texted an iMessage user, you're probably familiar with receiving similar texts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Star Your Favorite Text Messages
 
 ![The starred messages section in Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-13-57-43-28_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
@@ -79,6 +65,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Some messages are so funny or important that you may want to save them. Rather than searching or scrolling through hundreds of messages, the [Messages app allows you to "star" those messages](https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/) to easily find them later on.
 
  The feature is simple but quite useful. Similar to Gmail, you can "star" any text message, and it gets saved to the "Starred" category. To find starred messages, tap the search button at the top of the app and select "Starred." People do not get notified if you star a message.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Pin Conversations to the Top
 
@@ -92,6 +85,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Google Assistant receiving the "read my messages" command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-05-25-09_b783bf344239542886fee7b48fa4b892.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is not technically a Messages-only feature, but it does work particularly well with the Messages app. You can make [Google Assistant read text messages](https://sound-issues.techidaily.com/solving-audio-problems-enable-your-mic-for-google-meets-on-pc-windows-1110/) you receive by simply saying, "Read my messages."
 
  You don't actually have to do anything to set this up. It works with any text messaging app, but the message has to still be in the notification shade in order for Google Assistant to read it to you. After the message is read out loud, you'll have the option to use your voice to write a response and send it.
@@ -100,27 +100,33 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Screenshots showing how to share your location in Google Messages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-10-18-67_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The rigamarole of telling someone where you are and when you'll arrive somewhere can be completely avoided, thanks to smartphones. The Messages app has a built-in Google Maps feature that allows you to [quickly send your location to someone.](https://fox-boxes.techidaily.com/updated-symphony-for-statuses-whatsapps-melodic-feature/) 
 
  To use this handy feature, tap the plus button in the text box bar in a conversation. You'll see a few different things to send here—GIFs, stickers, files, etc—but the one you want is "Location." A map will open with some options, and when you tap "Send," a Google Maps link will be sent to your friend.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Block Text Messages
 
 ![Reporting a text message as spam or blocking.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-29-51-75_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Whether it's spam or unwanted messages from someone you know, we all get annoying text messages ([SMS](https://network-issues.techidaily.com/nvidia-patch-rtx210-win11-driver-update/)) from time to time. The good news is it's extremely simple to [block text messages with the Messages app](https://techtrends.techidaily.com/guide-ensuring-your-email-address-securely-listed-online/).
 
@@ -131,10 +137,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![RCS toggles in the Google Messages app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/screenshot_2023-10-27-14-22-20-50_0ce57feeccaa51fb7deed04b4dbda235.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/)is the long-awaited successor to SMS, and it's [available on the majority of Android devices nowadays](https://vp-tips.techidaily.com/updated-2024-approved-key-10-plug-ins-for-elevating-your-fcp-workflow/). In short, RCS makes text messaging more like instant messaging. You can see when someone has read your message, it shows when someone is typing, and media can be shared at much higher quality, among other things.
@@ -158,16 +164,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-bluetooth-not-detecting-devices-on-windows-11/"><u>[Fixed] Bluetooth Not Detecting Devices on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-overview-of-installing-wm6/"><u>[Updated] Full Overview of Installing WM6</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-gaming-techniques-mastering-switch-pro-controller-on-steam/"><u>2024 Approved Expert Gaming Techniques Mastering Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://fox-http.techidaily.com/from-hashtags-to-challenges-insta-meets-tiktok-for-2024/"><u>From Hashtags to Challenges Insta Meets TikTok for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-samsung-960-evo-m2-ssd-on-a-windows-pc-complete-guide/"><u>How to Install Samsung 960 EVO M.2 SSD on a Windows PC: Complete Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix GT 10 Pro Lock Screen Password</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-integrate-with-ease-an-in-depth-look-at-instagrams-music-icons/"><u>In 2024, Integrate with Ease An In-Depth Look at Instagram's Music Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-system-recovery-in-windows-10-and-11/"><u>Mastering File System Recovery in Windows 10 & 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamless-power-sharing-using-an-iphone-magsafe-charger-on-your-android-smartphone/"><u>Seamless Power Sharing: Using an iPhone MagSafe Charger on Your Android Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/simple-steps-to-modify-and-authenticate-your-pdfs-using-android/"><u>Simple Steps to Modify and Authenticate Your PDFs Using Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-understanding-samsung-galaxys-update-longevity-forecast/"><u>Stay Ahead of the Curve: Understanding Samsung Galaxy's Update Longevity Forecast</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-tutorial-on-embedding-yt-playlists-online/"><u>2024 Approved The Ultimate Tutorial on Embedding YT Playlists Online</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-driven-conversions-optimize-your-sites-user-experience/"><u>Cookiebot-Driven Conversions: Optimize Your Site's User Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/disable-dim-display-feature-via-control-panel-quick-guide/"><u>Disable Dim Display Feature via Control Panel Quick Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-gear-with-tom-in-depth-reviews-and-insights-on-hardware/"><u>Exploring PC Gear with Tom: In-Depth Reviews & Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-and-reviews-your-guide-to-the-latest-gadgets/"><u>Exploring Tom's Tech Insights & Reviews - Your Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-rtx-2070-super-graphics-card-drivers-and-latest-updates-for-windows-10-and-11/"><u>Free RTX 2070 Super Graphics Card Drivers & Latest Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488742-gamers-bargain-alert-snap-up-the-steelseries-arctis-nova-pro-wireless-at-a-steep-discount-of-64-off-the-leading-sound-experience/"><u>Gamer's Bargain Alert: Snap Up the SteelSeries Arctis Nova Pro Wireless at a Steep Discount of 64% Off – The Leading Sound Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-15-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone 15 Pro Max Stuck On Activation Lock?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-creating-high-impact-short-waterway-previews/"><u>In 2024, Creating High-Impact Short Waterway Previews</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-understanding-why-youre-not-seen/"><u>In 2024, Understanding Why You're Not Seen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-tom-expert-hardware-analysis-and-tips/"><u>Navigating Gadgets with Tom: Expert Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-revolutionary-keychron-q1-he-a-comprehensive-wireless-gaming-and-typing-experience-unleashed/"><u>The Revolutionary Keychron Q1 HE: A Comprehensive Wireless Gaming and Typing Experience Unleashed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unbiased-gadget-analysis-and-reviews/"><u>Tom's Tech Review: Unbiased Gadget Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-the-best-gaming-audio-equipment/"><u>Ultimate Selection: The Best Gaming Audio Equipment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-historical-data-your-complete-guide-to-leveraging-the-wayback-machine/"><u>Unlocking Historical Data: Your Complete Guide to Leveraging the Wayback Machine</u></a></li>
 </ul></div>
 

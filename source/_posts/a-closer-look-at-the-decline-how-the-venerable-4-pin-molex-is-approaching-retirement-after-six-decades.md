@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades"
-date: 2024-09-10T16:30:59.592Z
-updated: 2024-09-16T16:12:53.650Z
+date: 2024-09-18T07:37:54.124Z
+updated: 2024-09-21T18:53:03.548Z
 tags:
   - hardware
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
  Establishing the basic facts of the Molex connector's history outside the Wikipedia entry (which has its own issues), proved a little tricky. This seems to be the [1962 patent](https://patents.google.com/patent/US3178673A/en) for the original. Likewise, facts about the Mate-n-Lok and the later 8981 connectors are also hard to nail down, though, of course, we all used them! Even looking for information about them on Molex or TE Connectivity's own sites doesn't yield much, so I've tried to stick to the basics.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Good, the Bad, and the Ugly of the 4-Pin Molex
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 ![Two Molex connectors to one 6-pin PCI Express connector on white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_244972945.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Olga Popova / Shutterstock.com](https://www.shutterstock.com/image-photo/two-molex-connectors-one-6pin-pci-244972945)
@@ -86,20 +86,19 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-youtubes-guide-to-the-best-gaming-tech/"><u>[New] 2024 Approved YouTube's Guide to the Best Gaming Tech</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/beyond-reality-expert-tips-for-documenting-vr-gaming-sessions/"><u>Beyond Reality Expert Tips for Documenting VR Gaming Sessions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/comprehensive-guide-scaling-up-youtube-media-for-2024/"><u>Comprehensive Guide Scaling Up YouTube Media for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-definitive-guide-to-audio-interfaces-in-podcasting/"><u>In 2024, The Definitive Guide to Audio Interfaces in Podcasting</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-missing-desktop-icons-on-windows-11/"><u>Resolved: Fixing Missing Desktop Icons on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-no-more-lag-fixes-for-unresponsive-warframe-game/"><u>Resolved: No More Lag - Fixes for Unresponsive Warframe Game</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-android-lockscreen-into-an-iphone-inspired-display/"><u>Transform Your Android Lockscreen Into an iPhone-Inspired Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-web-surfing-experience-easily-changing-to-a-new-browser-on-android-phones-and-tablets/"><u>Transform Your Web Surfing Experience: Easily Changing to a New Browser on Android Phones and Tablets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/troubleshooting-play-store-connectivity-issues-on-your-amazon-fire-device/"><u>Troubleshooting: Play Store Connectivity Issues on Your Amazon Fire Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-disabling-mobile-data-usage-for-specific-apps-on-android-devices/"><u>Ultimate Guide: Disabling Mobile Data Usage for Specific Apps on Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-apk-files-are-they-secure-for-downloads/"><u>Understanding APK Files: Are They Secure for Downloads?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-how-androids-healthconnect-function-enhances-wellness-management-worth-using-or-not/"><u>Understanding How Android's HealthConnect Function Enhances Wellness Management - Worth Using or Not?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-webcam-accessories-top-10-secure-solutions/"><u>[New] Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>[New] Bring Life to Your Photos Motion Blur Techniques for Illustration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-unlocking-window-11s-best-kept-secrets-for-maximum-productivity/"><u>[New] In 2024, Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-step-by-step-journey-of-becoming-an-ez-grabber-user-for-2024/"><u>[New] The Step-By Step Journey of Becoming an EZ Grabber User for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-expert-guide-to-converting-xmlssattml-into-srt/"><u>[Updated] Expert Guide to Converting XML/SSA/TTML Into SRT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revelations-on-elon-musks-ai-endeavor-the-mystery-behind-truthgpt/"><u>Revelations on Elon Musk’s AI Endeavor – The Mystery Behind TruthGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-the-latest-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-definitive-guide-to-hardware/"><u>Tom's Tech Review: The Definitive Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-for-your-pc-needs-at-toms-hardware-hub/"><u>Top Picks for Your PC Needs at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-immersive-gaming-experience-newly-launched-minisforum-portable-screen-156-hd-with-144hz-display-only-189/"><u>Unleash Immersive Gaming Experience: Newly Launched Minisforum Portable Screen – 15.6 HD with 144Hz Display Only $189</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-advanced-computing-a-dive-into-toms-hardware-analysis/"><u>Unveiling Advanced Computing: A Dive Into Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hard-drive-technology-with-tom/"><u>Unveiling the Latest in Hard Drive Technology with Tom</u></a></li>
 </ul></div>
 

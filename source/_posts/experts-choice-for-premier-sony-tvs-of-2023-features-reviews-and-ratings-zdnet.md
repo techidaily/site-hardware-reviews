@@ -1,7 +1,7 @@
 ---
 title: "Experts' Choice for Premier Sony TVs of 2023: Features, Reviews & Ratings | ZDNET"
-date: 2024-09-18 18:26:59
-updated: 2024-09-20 11:26:32
+date: 2024-09-20T09:47:34.937Z
+updated: 2024-09-21T20:50:37.688Z
 tags:
   - tvs
 categories:
@@ -94,6 +94,13 @@ Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Gaming 
 
 Where I was the most surprised with the Omni QLED is just how well it does with console gaming. I set up both my [PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPlayStation-5-Console%2Fdp%2FB0BCNKKZ91%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and [Nintendo Switch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNintendo-Switch-OLED-Model-White-Joy%2Fdp%2FB098RKWHHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1) and ran this TV through every test and challenge I could think of. And the Omni Series QLED is more than capable of delivering a quality console gaming experience. 
@@ -166,6 +173,13 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -193,11 +207,29 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-to-affirm-your-youtube-status/"><u>[New] In 2024, Guidelines to Affirm Your YouTube Status</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-survival-in-mc-top-house-ideas-and-plans/"><u>[Updated] In 2024, Survival in MC Top House Ideas & Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-prompt-creation-with-these-7-essential-digital-resources/"><u>Elevate Your Prompt Creation with These 7 Essential Digital Resources</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-15-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 15 Pro Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-troubleshooting-guide-resolving-the-unreal-engine-4-process-crash-error/"><u>Outriders Troubleshooting Guide: Resolving the Unreal Engine 4 'Process Crash' Error</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-wireless-sound-systems-the-ultimate-guide-to-the-finest-portable-speakers/"><u>Top-Ranking Wireless Sound Systems - The Ultimate Guide to the Finest Portable Speakers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-smart-home-controllers-the-ultimate-list/"><u>Top-Rated Smart Home Controllers: The Ultimate List</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-the-most-advanced-chromebooks-on-the-market/"><u>Ultimate Guide: The Most Advanced Chromebooks on the Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-streamer-comparison-clash-of-titans-apple-tv-roku-amazon-fire-tv-and-google-tv/"><u>Ultimate Streamer Comparison: Clash of Titans - Apple TV, Roku, Amazon Fire TV & Google TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-usb-standards-a-comprehensive-guide-to-generations-1-2-and-2x2-decoding-usb-32/"><u>Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
+</ul></div>
+

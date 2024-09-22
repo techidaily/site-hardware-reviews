@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Perfect Keyboard Companer for Your New Steam Deck: A Comprehensive Guide"
-date: 2024-09-12T16:05:19.645Z
-updated: 2024-09-16T16:29:16.392Z
+date: 2024-09-18T03:59:24.805Z
+updated: 2024-09-21T18:40:17.459Z
 tags:
   - hardware
 categories:
@@ -38,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
  A foldable keyboard is also a great choice for Steam Deck owners looking for a super-compact and affordable keyboard which they can tuck away in a drawer and take out for an occasional excursion into Desktop Mode to install a new game launcher such as the [Epic Games Launcher](https://youtube-blog.techidaily.com/n-2024-the-future-of-tv-watching-a-closer-look-at-youtube-tv/), install and configure emulators, or just have it lying around while using their Deck docked.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  If a Foldable Keyboard Doesn’t fit the Bill, Get Something Compact and Low-Profile
@@ -72,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 
 ![Iclever Foldable Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/iclever-foldable-keyboard.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 iClever
 
  The [iClever BK03](http://www.amazon.com/iClever-Bluetooth-Keyboard-Foldable-Smartphones/dp/B00YWLJNPQ/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) is a relatively affordable and very compact foldable keyboard that supports Bluetooth connectivity and is compatible with Steam Deck. It offers a surprisingly decent typing experience, and is compact enough to fit in your pocket, making it a perfect travel companion for your Deck.
@@ -82,29 +83,22 @@ iClever
 
 ![Nuphy Air60 keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nuphy-air60.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nuphy
 
  While not the absolute best low-profile mechanical keyboard around, the [Nuphy Air60 V2](http://nuphy.com/collections/keyboards/products/air60-v2?variant=40715868143725) offers [a lot for the money](https://extra-skills.techidaily.com/2024-approved-mastering-livestran-interactions-with-these-ten-backtrack-techniques/). Excellent typing experience with a ton of different switches and keycap sets to choose from, lengthy battery life, Bluetooth and 2.4GHz connectivity, double-shot PBT keycaps, pretty solid typing sound for a low-profile mechanical keyboard, QMK and VIA support for full key customization, sturdy build quality, and lightweight design that’s perfect for travel.
 
  Talking about negatives, the keyboard features a tiny right Shift key and its lightweight design might turn off hardcore mechanical keyboard fans. The [Redragon K652](https://www.amazon.com/Redragon-K652-Mechanical-Ultra-Thin-Supported/dp/B0BYJWMTW4/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) is a pretty solid alternative that’s lighter on the wallet. On the other hand, the [Lowfree Flow](https://www.amazon.com/LOFREE-Mechanical-Rechargeable-Keyboards-Connection/dp/B0CJTV8P4Z?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) is a high-end option [made for typists](https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s17t-drfone-by-drfone-virtual-android/) that has one of the best typing sounds you can find in a low-profile mechanical keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Affordable Option With a Trackpad: [Logitech K400 Plus](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK/ref=cm%5Fcr%5Farp%5Fd%5Fproduct%5Ftop?ie=UTF8&th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2002848&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fbuying-a-steam-deck-youll-want-a-keyboard-heres-how-to-pick-one%2F&asc%5Fcampaign=Evergreen) 
 
 ![Logitech K400 keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/logitech-k400.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Logitech
 
@@ -131,17 +125,20 @@ Logitech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[New] Quick and Easy Channels Personalize Your YouTube URL Now!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-re-enable-sound-on-twitter-video-tweets/"><u>[Updated] In 2024, Re-Enable Sound on Twitter Video Tweets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-voice-capture-made-easy-the-ultimate-ipad-guide-for-2024/"><u>[Updated] Voice Capture Made Easy The Ultimate iPad Guide for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/jokesters-journal-the-top-10-hilarious-tweet-threads/"><u>Jokester's Journal The Top 10 Hilarious Tweet Threads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-your-schedule-how-chatgpt-can-improve-time-management-skills/"><u>Mastering Your Schedule: How ChatGPT Can Improve Time Management Skills</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solve-these-prevalent-android-glitches-in-just-a-few-simple-steps/"><u>Solve These Prevalent Android Glitches in Just a Few Simple Steps!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-activating-safe-and-private-dns-settings-in-your-android-device/"><u>Step-by-Step Guide: Activating Safe & Private DNS Settings in Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-displaying-battery-status-in-percentage-on-your-android-device/"><u>Step-by-Step Guide: Displaying Battery Status in Percentage on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-dropping-markers-on-google-maps/"><u>Step-by-Step Guide: Dropping Markers on Google Maps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-switching-dns-settings-on-your-android-device/"><u>Step-by-Step Guide: Switching DNS Settings on Your Android Device</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/worlds-finest-screen-recording-software-no-deadline-for-2024/"><u>World's Finest Screen Recording Software (No Deadline) for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-ready-360-videos-editing-and-sharing-made-simple/"><u>YouTube-Ready 360 Videos Editing & Sharing Made Simple</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-surging-views-selecting-best-hashtags-for-yt/"><u>[New] 2024 Approved Surging Views Selecting Best Hashtags for YT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>[New] Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-image-superimposition-for-desktop/"><u>[New] Seamless Image Superimposition for Desktop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-tips-for-finding-hidden-exclusive-photos-on-snapchat-for-2024/"><u>[New] Tips for Finding Hidden, Exclusive Photos on Snapchat for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-create-awe-inspiring-gopro-time-lapse-cinematography/"><u>[Updated] Create Awe-Inspiring GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/addressing-the-problem-how-msi-is-fixing-the-heat-sink-design-error-in-new-z790-motherboards/"><u>Addressing the Problem: How MSI Is Fixing the Heat Sink Design Error in New Z790 Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-b760m-pro-rs-motherboard-analysis-budget-friendly-with-plenty-of-m2-support/"><u>ASRock B760M Pro RS Motherboard Analysis: Budget-Friendly with Plenty of M.2 Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-mobo-exceptional-deal-at-just-135/"><u>Asus Prime X670-P WiFi AM5 Mobo - Exceptional Deal at Just $135!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-in-class-gaming-motherboards-of-2024-find-your-ideal-socket-compatibility-and-chipset-configuration/"><u>Best-in-Class Gaming Motherboards of 2024: Find Your Ideal Socket Compatibility and Chipset Configuration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/chill-out-with-power-gigabyte-unveils-the-next-gen-golden-cpu-socked-misty-iceberg-design-intelligent-board/"><u>Chill Out with Power: Gigabyte Unveils the Next-Gen Golden CPU Socked Misty Iceberg Design Intelligent Board</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/critical-bug-fixes-in-motion-as-amds-partner-brands-update-bios/"><u>Critical Bug Fixes in Motion as AMD's Partner Brands Update BIOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-magic-5-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Magic 5 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862868318-how-much-will-you-pay-for-elite-gaming-the-declassified-x670e-by-evga-demands-over-1300/"><u>How Much Will You Pay for Elite Gaming? The Declassified X670E by EVGA Demands Over $1,300!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-k70-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi K70 Pro Users</u></a></li>
 </ul></div>
 

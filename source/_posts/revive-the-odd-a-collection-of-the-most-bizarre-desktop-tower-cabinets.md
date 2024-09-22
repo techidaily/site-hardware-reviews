@@ -1,7 +1,7 @@
 ---
 title: "Revive the Odd: A Collection of the Most Bizarre Desktop Tower Cabinets"
-date: 2024-09-12T16:03:28.626Z
-updated: 2024-09-16T16:00:27.799Z
+date: 2024-09-19T02:34:00.702Z
+updated: 2024-09-21T16:50:13.894Z
 tags:
   - hardware
 categories:
@@ -46,13 +46,6 @@ DeepCool
 
 ![Lian Li PC T1R](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/lian-li-pc-t1r.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lian-Li
 
  As an avowed [arachnophile](https://win11.techidaily.com/hacking-the-lock-screen-windows-11-edition/), and fan of cyberpunk spider tanks, the T1R immediately appealed to me. I've always wanted to run a test-bench open-air system, but ultimately decided not to because of the very real chance that my cat or a glass of soda would end my PC's existence. Still, this is a great design for anyone who does hardware testing.
@@ -60,6 +53,13 @@ Lian-Li
 ## 4  Thermaltake Level 10 GT 
 
 ![Thermaltake Level 10 GT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/thermaltake-level-10-gt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ThermalTake
 
@@ -69,33 +69,19 @@ ThermalTake
 
 ![Corsair Graphite 380T](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/corsair-graphite-380t.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Corsair
 
  Of all the cases on this list, it's the 380T that I actually bought with my own money. This was my second mini-ITX build, and I stuffed this portable mesh case with a liquid-cooled 4690K CPU and a massive R9 390 GPU. After swapping out the 140MM front fan for a 200MM model, it honestly looked like something from the Death Star's server room. I loved the car door handles that opened the side panels, and I actually did schlep this to work a few times for special presentation and VR projects.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6  Cooler Master Sneaker X 
 
 ![Cooler Master Sneaker X](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/cooler-master-sneaker-x.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Cooler Master
@@ -108,16 +94,16 @@ Cooler Master
 
 ![Thermaltake Core P90](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/thermaltake-core-p90.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ThermalTake
 
  Glass corner or "fishtank" cases are all the rage today, but the P90 from Thermaltake strips that idea down into its basics and gives you a two-faced glass case, but without the actual case panels. This is as close to a modern art piece as a PC case has ever come, and if I didn't dread having to keep it clean, I might even have considered it, assuming my bank account could justify it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8  HP Omen X 
 
@@ -135,9 +121,29 @@ COUGAR
 
  I've actually seen one of these [COUGAR Conquer](https://cougargaming.com/products/cases/conquer/) cases in person, and this is one of the few cases on this list that you can readily buy at the time of writing. It's even more beautiful than the photos suggest, and it looks like it will leap off your desk at a moments notice. The main impression I get is "Lambo PC", but without the actual license to use the branding. It's a singular, _angular_ masterpiece and I'd rather have this than the boring fishtanks everyone shows off these days any time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10  The Hydra Desk 
 
 ![The Hydra Desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/the-hydra-desk.png) 
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 HYDRA
 
@@ -160,17 +166,13 @@ HYDRA
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-revolutionize-your-posts-with-automated-story-and-video-captions/"><u>[New] 2024 Approved Revolutionize Your Posts with Automated Story and Video Captions</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-customize-tiktok-vids-a-step-by-step-guide-to-bg-swap/"><u>[Updated] 2024 Approved Customize TikTok Vids A Step-by-Step Guide to BG Swap</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>[Updated] In 2024, Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-best-10-pc-cameras-and-recording-software-on-win-10-for-2024/"><u>[Updated] The Best 10 PC Cameras & Recording Software on Win 10 for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/intense-review-the-gecata-game-watcher-for-2024/"><u>Intense Review The Gecata Game Watcher for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/live-coverage-of-the-google-pixel-6-launch-top-insights-and-predictions/"><u>Live Coverage of the Google Pixel 6 Launch – Top Insights & Predictions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/locating-and-understanding-your-android-smartphones-operating-instructions/"><u>Locating and Understanding Your Android Smartphone's Operating Instructions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-art-of-mobile-recording-tips-and-tricks-for-android-users/"><u>Mastering the Art of Mobile Recording: Tips and Tricks for Android Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mophies-compact-power-bank-features-convenient-ac-adapter-option/"><u>Mophie's Compact Power Bank Features Convenient AC Adapter Option</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/persistent-android-application-crashes-discover-9-reliable-solutions/"><u>Persistent Android Application Crashes? Discover 9 Reliable Solutions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/top-tips-for-masterful-looped-videos-on-instagram-for-2024/"><u>Top Tips for Masterful Looped Videos on Instagram for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-boosting-remote-meeting-effectiveness-through-optimized-zoom-recordings/"><u>[New] 2024 Approved Boosting Remote Meeting Effectiveness Through Optimized Zoom Recordings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>[Updated] In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-navigating-the-social-media-seas-to-boost-follower-count/"><u>2024 Approved Navigating the Social Media Seas to Boost Follower Count</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/huge-discount-alert-600-off-on-the-incredible-samsung-49-inch-oled-monitor-limited-time-offer/"><u>Huge Discount Alert: $600 Off on the Incredible Samsung 49-Inch OLED Monitor - Limited Time Offer!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-devices-at-toms-hardware/"><u>In-Depth Analysis of Cutting-Edge Devices at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovate-your-setup-tips-from-toms-hardware-reviews/"><u>Innovate Your Setup: Tips From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-your-way-to-epic-tales-chatgpt-and-artful-ai-for-rpg-world-building/"><u>Innovate Your Way to Epic Tales: ChatGPT & Artful AI for RPG World-Building</u></a></li>
+<li><a href="https://blog-min.techidaily.com/retaining-your-customized-settings-step-by-step-guide-on-reverting-from-kodi-19-matrix-to-version-18-leia/"><u>Retaining Your Customized Settings: Step-by-Step Guide on Reverting From Kodi 19 Matrix to Version 18 Leia</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Boosting Computer Performance: Next-Gen Spec Leap"
-date: 2024-09-14T16:14:55.717Z
-updated: 2024-09-16T16:13:51.005Z
+date: 2024-09-20T16:05:04.800Z
+updated: 2024-09-21T16:27:31.421Z
 tags:
   - hardware
 categories:
@@ -35,6 +35,13 @@ Microsoft
 
  Then we have LLMs small enough to run on a smartphone, such as [phi-3-mini](https://techmonitor.ai/technology/ai-and-automation/microsoft-phi-3-mini) which clocks in at 2.4GB. That's more in line with what's actually going to be running on these AI laptops, though probably not quite as anemic!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Models Have to Live in RAM
 
 ![AI chip hologram with circuits around.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ai-chip-hologram-with-circuits-around.jpg) 
@@ -49,13 +56,6 @@ AI chip hologram with circuits around
 
  To be sure, these new PCs all have ultra-fast SSDs that can swap data in and out of RAM quickly, but apart from the additional wear and tear that puts on your SSD, it's still just not fast enough for everything to run smoothly, and don't forget you still want to run all of your other apps at the same time! If your PC had to dump your browser and other apps from RAM to disk every time you wanted the AI to do something, it wouldn't be a great experience.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  16GB Is the Absolute Minimum
 
  While 8GB of RAM is still perfectly fine for a modern office desktop or laptop used for general productivity and media consumption, Windows computers with AI features simply would not get by with that little space. Which is why Microsoft has made 16GB of RAM the [absolute minimum for Copilot PCs](https://www.techpowerup.com/317978/microsoft-sets-16-gb-ram-as-minimum-requirement-for-copilot-and-windows-ai-features).
@@ -63,10 +63,16 @@ AI chip hologram with circuits around
  While that's a healthy amount for a normal non-AI PC, I have a feeling that for PCs running local AI assistants in the background all the time, this will be more like an 8GB PC plus AI, unless you disable the AI part of the equation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Some AI PCs Won’t Have Upgradable RAM
@@ -96,20 +102,15 @@ AI chip hologram with circuits around
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-10-common-vlogging-fears-and-how-to-beat-them-for-2024/"><u>[New] 10 Common Vlogging Fears and How To Beat Them for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-8-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone 8 Plus/iPad/iPod</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s24-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy S24 support AVCHD video?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elite-analysis-of-the-nomad-stand-one-max-review-the-quintessential-luscious-three-in-one-iphone-charging-station/"><u>Elite Analysis of the Nomad Stand One Max Review: The Quintessential Luscious Three-in-One iPhone Charging Station</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhancements-for-the-switch-2-a-call-for-improved-virtual-storefront/"><u>Enhancements for The Switch 2: A Call for Improved Virtual Storefront</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-games-demanding-enhanced-performance-when-is-it-time-for-a-graphics-card-refresh/"><u>Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluate-tech-specs-with-geekbenchs-recent-benchmarking-tool/"><u>Evaluate Tech Specs with Geekbench's Recent Benchmarking Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-active-audio-with-the-sennheiser-momentum-sport-top-pick-for-workout-buddies/"><u>Experience Active Audio with the Sennheiser Momentum Sport – Top Pick for Workout Buddies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-magic-of-govee-glide-hexa-light-panels-a-detailed-analysis-for-wall-mounted-ambiance/"><u>Experience the Magic of Govee Glide Hexa Light Panels - A Detailed Analysis for Wall-Mounted Ambiance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-brother-hl-l2460dw-perfect-fit/"><u>Expert Insight on Brother HL-L2460DW: Perfect Fit</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro System? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-revolutionary-free-fb-story-magicians-for-extensions-and-mobile/"><u>In 2024, Revolutionary Free FB Story Magicians for Extensions & Mobile</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-music-to-a-video-online-for-free/"><u>New In 2024, How to Add Music to a Video Online for Free</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-framework-for-selecting-winning-podcast-names-for-2024/"><u>The Ultimate Framework for Selecting Winning Podcast Names for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-icloud-settings-top-strategies-for-iphone-and-ipad-users/"><u>Unlocking iCloud Settings: Top Strategies for iPhone and iPad Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-integration-hacks-adding-vimeo-content-to-powerpoint-decks/"><u>[New] 2024 Approved Integration Hacks Adding Vimeo Content to PowerPoint Decks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-understanding-consumer-behavior-a-guide-for-market-researchers/"><u>[New] 2024 Approved Understanding Consumer Behavior A Guide for Market Researchers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixelated-performance-making-music-videos-on-the-go/"><u>2024 Approved Pixelated Performance Making Music Videos on the Go</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-whether-the-papacy-has-adapted-to-modern-communication-with-email-usage/"><u>Exploring Whether the Papacy Has Adapted to Modern Communication with Email Usage.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-premium-tech-tools-curated-by-the-a-team-at-toms-corner/"><u>Inside Look at Premium Tech Tools – Curated by the A-Team at Tom's Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-asus-stunning-8k-mini-led-proart-display-a-beacon-of-visual-excellence-in-the-world-of-high-end-professional-monitors-boasting-exceptional-lumin55/"><u>Introducing Asus' Stunning 8K Mini LED ProArt Display - A Beacon of Visual Excellence in the World of High-End Professional Monitors, Boasting Exceptional Luminance and Precise Control Over Illumination Zones.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/limited-time-offer-high-performance-dell-gaming-monitor-with-quad-hd-ips-display-now-just-199/"><u>Limited-Time Offer: High-Performance Dell Gaming Monitor with Quad HD IPS Display, Now Just $199!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-expert-reviews-and-advice-from-toms-hardware-solutions/"><u>Master Your PC: Expert Reviews and Advice From Tom's Hardware Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tips-how-to-enable-and-play-dvd-movies-on-a-lenovo-computer/"><u>Troubleshooting Tips: How to Enable and Play DVD Movies on a Lenovo Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/upgraded-ram-for-high-performance-laptops-what-you-need-to-know/"><u>Upgraded RAM for High-Performance Laptops: What You Need to Know</u></a></li>
 </ul></div>
 

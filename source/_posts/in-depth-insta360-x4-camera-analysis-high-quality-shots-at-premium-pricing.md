@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing"
-date: 2024-09-15T16:26:32.748Z
-updated: 2024-09-16T16:09:45.554Z
+date: 2024-09-15T23:44:21.842Z
+updated: 2024-09-22T04:19:03.558Z
 tags:
   - hardware
 categories:
@@ -147,10 +147,10 @@ Jerome Thomas / How-To Geek
  At the bottom right, there’s the mode button. This lets you flip between video, active HDR, timelapse, time shift, bullet time, and more. Plus, it lets you toggle photo or video mode. To the left of that is the shutter, which has a new feature this time around. Of course, clicking it starts and stops recording, but, if you accidentally click record when you didn’t mean to, simply hold the shutter button and it’ll stop recording _and_ delete the captured clip. This is something I didn’t really utilize in my time with the camera, but I can absolutely see the value in it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  8K Footage? 4K Is Still the Sweet Spot for Me
@@ -166,13 +166,6 @@ Jerome Thomas / How-To Geek
  Now, while we’re talking about recording at 4K, the video footage that comes straight out of the camera with the X4 is very crispy. I loved seeing what it could produce, and it was a blast to use. The 8K videos looked great, and the still photos were solid too. You won’t be disappointed with the video or photo quality no matter what resolution you choose. I found it all superb. I'd recommend sticking to 4K though for smaller file sizes, less heat, and better low-light performance.
 
  Resolution aside, all the footage is recorded in 360 degrees, and that's what makes this camera special. You don't have to worry about whether you have the camera aimed just right or not, as it simply captures just about everything (outside of what's directly below itself.) This is what makes the camera unique, and thankfully, this feature works whether you're recording 4K100, 8K30, or taking a 72MP still photo.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Desktop and Mobile Software Is Easy To Use and Make Simple Edits In
 
@@ -191,6 +184,13 @@ Jerome Thomas / How-To Geek
 Jerome Thomas / How-To Geek
 
  Outside of that, whenever you go to export, you can choose to send it as a cropped video that’s only within the view that you set in the editor, or a full 360-degree video. Doing the latter will let you bring the video file into software like Premiere Pro or Final Cut Pro and do all the editing there, which is how I plan to use the footage from the X4\. The files are formatted in a way that the software will let you handle all the pan and tilt functions as well as do all of your other edits. Plus, Insta360 [has a LUT that you can use](https://www.insta360.com/download) to get the right colors when editing.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Rugged for Whatever Lies Ahead
 
@@ -214,16 +214,22 @@ Jerome Thomas / How-To Geek
 * Bluetooth Headset Support (for motorcycles and the like)
 * Auto Dash Mode (also a motorcycle feature)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Should You Buy the Insta360 X4?
 
 ![The Insta360 X4 next to box and included accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/the-insta360-x4-next-to-box-and-included-accessories_53647349546_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -238,10 +244,10 @@ Jerome Thomas / How-To Geek
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #####  Insta360 X4
@@ -267,20 +273,14 @@ The Insta360 X4 8K 360-degree action camera offers a fun and unique way to captu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-masterful-techniques-for-perfect-time-lapse-videos-on-hero-10/"><u>[Updated] Masterful Techniques for Perfect Time-Lapse Videos on Hero 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-master-the-art-of-listening-select-best-android-music-video-apps/"><u>2024 Approved Master the Art of Listening Select Best Android Music Video Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/dissecting-freecapture-a-software-review-for-2024/"><u>Dissecting FreeCapture A Software Review for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-gionee-f3-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Gionee F3 Pro</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oneplus-ace-3-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from OnePlus Ace 3</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-jbl-clip-n-5-portable-speaker-showdown-is-it-really-the-best/"><u>Top Rated JBL Clip N 5 Portable Speaker Showdown: Is It Really The Best?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-reviews-for-the-ultimate-desk-illuminator-lume-cube-edge-light-20-a-game-changer-in-office-efficiency/"><u>Top Reviews for the Ultimate Desk Illuminator: Lume Cube Edge Light 2.0 – A Game Changer in Office Efficiency</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-y100i-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo Y100i FRP Bypass</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-restoring-your-apple-airpods-airpods-pro-and-airpods-max/"><u>Ultimate Guide: Restoring Your Apple AirPods, AirPods Pro, and AirPods Max</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-premium-ipad-air-add-ons-reviewed-and-rated/"><u>Ultimate Selection: Premium iPad Air Add-Ons Reviewed and Rated!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-shielding-solutions-expertly-selected-samsung-galaxy-z-flip-n-cases/"><u>Ultimate Shielding Solutions: Expertly Selected Samsung Galaxy Z Flip N Cases</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-phone-dimensions-the-essential-role-of-the-camera-bump-a-non-negotiable-feature/"><u>Understanding Phone Dimensions: The Essential Role of the Camera Bump - A Non-Negotiable Feature</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-wi-fi-7-features-and-benefits-is-it-worth-the-upgrade/"><u>Understanding Wi-Fi 7: Features & Benefits - Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] In 2024, Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-securely-obtain-and-install-the-epson-xp-830-driver-a-comprehensive-guide/"><u>How to Securely Obtain and Install the Epson XP-830 Driver – A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-analyzing-hero5-black-and-yi-4k-cameras-for-modern-adventurers/"><u>In 2024, Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-c55-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme C55 FRP Bypass</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sapphire-gpu-drivers-update-and-download-options-for-windows-users/"><u>Sapphire GPU Drivers Update & Download Options for Windows Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultra-high-definition-graphics-unveiled-aocs-new-graphic-pro-series-u3-hits-the-pro-arena/"><u>Ultra-High Definition Graphics Unveiled: AOC's New Graphic Pro Series U3 Hits the Pro Arena</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-on-screen-a-comprehensive-guide-to-asus-rog-swift-pg49wcd-monitor-review/"><u>Unveiling the Colors on Screen: A Comprehensive Guide to Asus ROG Swift PG49WCD Monitor Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-by-toms-experts/"><u>Unveiling the Latest in Computer Components by Tom's Experts</u></a></li>
 </ul></div>
 

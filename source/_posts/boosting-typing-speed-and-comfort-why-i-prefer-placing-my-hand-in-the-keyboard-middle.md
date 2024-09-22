@@ -1,7 +1,7 @@
 ---
 title: "Boosting Typing Speed and Comfort: Why I Prefer Placing My Hand in the Keyboard Middle"
-date: 2024-09-09T16:04:00.183Z
-updated: 2024-09-16T16:39:51.807Z
+date: 2024-09-18T20:34:43.564Z
+updated: 2024-09-22T07:14:11.858Z
 tags:
   - hardware
 categories:
@@ -50,10 +50,10 @@ Patrick Campanale / How-To Geek
  Moving the mouse to the center of my desk helped a lot with the various pains that I had from sitting at a desk for nine or more hours per day. My wrist hurt less, my arm hurt less, and my shoulder hurt less. All from just moving the position of my mouse. So, if your arm, wrist, or shoulder is hurting, try moving your mouse. It might seem odd at first, but, like a split keyboard, it only takes a few days to get used to it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  With The Right Keyboard, You Can Even Keep A Lot Of Functionality While Only Using Half Of It
@@ -61,10 +61,10 @@ Patrick Campanale / How-To Geek
 ![Mouse In The Middle of a Split Keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/mouse-in-the-middle-of-a-split-keyboard.JPG) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Patrick Campanale / How-To Geek
@@ -94,12 +94,18 @@ Patrick Campanale / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-android-and-iphones-leading-social-apps-to-skyrocket-likes-on-fb/"><u>In 2024, Android & iPhone's Leading Social Apps to Skyrocket Likes on FB</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-yeedis-cutting-edge-m12-proplus-robovac-now-available-for-american-households/"><u>Introducing Yeedi's Cutting-Edge M12 Pro+ RoboVac: Now Available for American Households</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-a-step-by-step-guide-to-using-the-openai-interface/"><u>Mastering GPT-3: A Step-by-Step Guide to Using the OpenAI Interface</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/moving-on-from-smart-displays-heres-how-to-find-alternatives-to-the-echo-dot-and-clock/"><u>Moving On From Smart Displays? Here's How to Find Alternatives to the Echo Dot and Clock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-tech-2024s-best-ereaders-unveiled/"><u>Navigating the Latest Tech: 2024'S Best eReaders Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/nvidia-introduces-new-unified-application-the-evolution-from-control-panel-and-geforce-experience/"><u>Nvidia Introduces New Unified Application: The Evolution From Control Panel & GeForce Experience</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/slow-down-time-adding-slow-motion-effects-in-windows-live-movie-maker/"><u>Slow Down Time Adding Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-transform-your-youtube-vids-a-guide-to-softened-screens-for-2024/"><u>[New] How to Transform Your Youtube Vids A Guide to Softened Screens for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ictorial-word-constructor/"><u>[New] Pictorial Word Constructor</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-the-art-of-deleting-discord-servers/"><u>[Updated] In 2024, Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-v30-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-and-insights-on-the-newest-apple-m1-chip-powered-macbook-pro-with-16-inch-display-top-reviews/"><u>Comprehensive Guide & Insights on the Newest Apple M1 Chip Powered MacBook Pro with 16-Inch Display - Top Reviews</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-broadcast-keepers-2023-for-2024/"><u>Facebook Broadcast Keepers 2023 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-technology-tips-and-tricks-from-toms-experience/"><u>Navigate the World of Technology: Tips and Tricks From Tom's Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computer-components-with-toms-expertise/"><u>Navigating the Latest in Computer Components with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-200-on-dell-alienware-aw3225qf-premium-32-240hz-4k-oled-gamers-dream-display/"><u>Save $200 on Dell Alienware AW3225QF: Premium 32 240Hz, 4K OLED Gamer's Dream Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-the-highest-gaming-quality-with-our-best-ever-rated-dell-s3222dgm-for-a-shocking-low-of-229/"><u>Score the Highest Gaming Quality with Our Best Ever Rated Dell S3222DGM for a Shocking Low of $229</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-authentication-disabling-questions-on-windows-11-local-account/"><u>Silent Authentication: Disabling Questions on Windows 11 Local Account</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snag-the-ultimate-deal-240hz-acer-nitro-27-curved-display-at-only-159/"><u>Snag the Ultimate Deal: 240Hz Acer Nitro 27 Curved Display at Only $159!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-up-to-ultra-fast-gaming-the-new-asus-rog-strix-xg27wcs-monitor-delivers-crisp-visuals-on-its-27-va-screen-running-at-180-hz/"><u>Step Up to Ultra-Fast Gaming - The New Asus Rog Strix XG27WCS Monitor Delivers Crisp Visuals on Its 27 VA Screen Running at 180 Hz</u></a></li>
 </ul></div>
 
