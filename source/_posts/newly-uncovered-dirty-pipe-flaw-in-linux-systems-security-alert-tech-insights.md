@@ -1,0 +1,98 @@
+---
+title: Newly Uncovered 'Dirty Pipe' Flaw in Linux Systems - Security Alert | Tech Insights
+date: 2024-09-18 13:10:17
+updated: 2024-09-20 10:38:30
+tags:
+  - cyber-threats
+categories:
+  - tech
+thumbnail: https://www.zdnet.com/topic/cyber-threats/    https://www.zdnet.com/a/img/resize/0c703378493d2628fac6457ff48a3034233f646e/2021/08/30/4fe3da01-bdec-4847-a70c-86eb698d828d/linux-chess-board.jpg?width=170&height=96&fit=crop&auto=webp
+---
+
+## Newly Uncovered 'Dirty Pipe' Flaw in Linux Systems - Security Alert | Tech Insights
+
+On Monday, a cybersecurity researcher [released the details](https://dirtypipe.cm4all.com/) of a Linux vulnerability that allows an attacker to overwrite data in arbitrary read-only files.
+
+The vulnerability -- CVE-2022-0847 -- was discovered by Max Kellermann in April 2021, but it took another few months for him to figure out what was actually happening. 
+
+### **ZDNET** Recommends
+
+[![cybersecurity-courses-shutterstock-1540336541.jpg](https://www.zdnet.com/a/img/resize/db89ddecc179d37afafcf8b50e47985c2dbb2f75/2021/05/13/f73f2e51-e8c0-4759-bd8c-ce9ab985a5f7/shutterstock-1540336541.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best ethical hacking certifications Becoming a certified ethical hacker can lead to a rewarding career. Here are our recommendations for the top certifications.  Read now](https://www.zdnet.com/article/best-ethical-hacking-certification/)
+
+Kellermann explained that the vulnerability affects Linux Kernel 5.8 and later versions but [was fixed](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9d2231c5d74e13b2a0546fee6737ee4446017903) in Linux 5.16.11, 5.15.25 and 5.10.102.
+
+"It all started a year ago with a support ticket about corrupt files. A customer complained that the access logs they downloaded could not be decompressed. And indeed, there was a corrupt log file on one of the log servers; it could be decompressed, but gzip reported a CRC error. I could not explain why it was corrupt, but I assumed the nightly split process had crashed and left a corrupt file behind. I fixed the file's CRC manually, closed the ticket, and soon forgot about the problem," Kellermann said. 
+
+"Months later, this happened again and yet again. Every time, the file's contents looked correct, only the CRC at the end of the file was wrong. Now, with several corrupt files, I was able to dig deeper and found a surprising kind of corruption. A pattern emerged."
+
+Kellermann went on to show how he discovered the issue and how someone could potentially exploit it. He initially assumed the bug was only exploitable while a privileged process writes the file and that it depended on timing.
+
+But he later found that it is possible to overwrite the page cache even in the absence of writers, with no timing constraints, "at (almost) arbitrary positions with arbitrary data."
+
+### Linux
+
+* [The best Linux laptops for consumers and developers](https://www.zdnet.com/article/best-linux-laptop/)
+* [Want to save your aging computer? Try these 5 Linux distributions](https://www.zdnet.com/article/want-to-save-your-old-computer-try-these-5-linux-distributions/)
+* [The best distros for beginners](https://www.zdnet.com/article/best-linux-desktops-for-beginners/)
+* [How to enable Linux on your Chromebook (and why you should)](https://www.zdnet.com/article/how-to-enable-linux-on-your-chromebook-and-why-you-should/)
+
+In order to exploit the vulnerability, the attacker needs to have read permissions, the offset must not be on a page boundary, the write cannot cross a page boundary and the file cannot be resized. 
+
+"To exploit this vulnerability, you need to: Create a pipe, fill the pipe with arbitrary data (to set the PIPE\_BUF\_FLAG\_CAN\_MERGE flag in all ring entries), drain the pipe (leaving the flag set in all struct pipe\_buffer instances on the struct pipe\_inode\_info ring), splice data from the target file (opened with O\_RDONLY) into the pipe from just before the target offset \[and\] write arbitrary data into the pipe," he explained. 
+
+"This data will overwrite the cached file page instead of creating a new anonymous struct pipe\_buffer because PIPE\_BUF\_FLAG\_CAN\_MERGE is set. To make this vulnerability more interesting, it not only works without write permissions, it also works with immutable files, on read-only btrfs snapshots and on read-only mounts (including CD-ROM mounts). That is because the page cache is always writable (by the kernel), and writing to a pipe never checks any permissions."
+
+He also shared his own proof-of-concept exploit. 
+
+The bug report, exploit, and patch were sent to the [Linux kernel security team](https://www.kernel.org/doc/html/latest/admin-guide/security-bugs.html) by Kellermann on February 20\. The bug was reproduced on Google Pixel 6 and a bug report was sent to the Android Security Team. 
+
+Linux released fixes ([5.16.11](https://lore.kernel.org/stable/1645618039140207@kroah.com/), [5.15.25](https://lore.kernel.org/stable/164561803311588@kroah.com/), [5.10.102](https://lore.kernel.org/stable/164561802556115@kroah.com/)) on February 23 and Google merged Kellermann's [bug fix into the Android kernel](https://android-review.googlesource.com/c/kernel/common/+/1998671) on February 24\. 
+
+Kellermann and other experts [compared](https://twitter.com/grsecurity/status/1500810408105496584) the vulnerability to [CVE-2016-5195 "Dirty Cow"](https://dirtycow.ninja/) but said it is even [easier](https://www.zdnet.com/article/hackers-use-drupalgeddon-2-and-dirty-cow-exploits-to-take-over-web-servers/) to [exploit](https://www.zdnet.com/article/the-dirty-cow-linux-security-bug-moos/).
+
+> Dirty Pipe PoC (<https://t.co/ql5Y8pWDBj>) works beautifully. 🤑 [pic.twitter.com/OrRYJE5skC](https://t.co/OrRYJE5skC)
+> 
+> — BLASTY (@bl4sty) [March 7, 2022](https://twitter.com/bl4sty/status/1500812285358530561?ref%5Fsrc=twsrc^tfw)
+
+Vulcan Cyber's Mike Parkin said any exploit that gives root level access to a Linux system is problematic. 
+
+"An attacker that gains root gains full control over the target system and may be able to leverage that control to reach other systems. The mitigating factor with this vulnerability is that it requires local access, which slightly lowers the risk," Parkin said. 
+
+"Escalating privileges to root (POSIX family) or Admin (Windows) is often an attacker's first priority when they gain access to a system, as it gives them full control of the target and can help them extend their foothold to other victims. That hasn't changed for ages and is unlikely to change in the foreseeable future."
+
+Shweta Khare, cybersecurity evangelist at Delinea, noted that several Windows kernel, DNS server RCE, and Adobe vulnerabilities of high severity rating have already made news this year because they allow attackers to gain elevated local system or admin privileges. 
+
+OS bugs and application-level vulnerabilities like these can allow attackers to elevate privileges, move laterally inside the network, execute arbitrary code, and completely take over devices, Khare said. 
+
+#### Security
+
+[The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/ "The best VPN services of 2024: Expert tested")
+
+[How to turn on Private DNS Mode on Android (and why you should)](https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android-and-why-you-should/ "How to turn on Private DNS Mode on Android (and why you should)")
+
+[The best antivirus software and apps you can buy](https://www.zdnet.com/article/best-antivirus/ "The best antivirus software and apps you can buy")
+
+[The best VPN routers you can buy](https://www.zdnet.com/article/best-vpn-router/ "The best VPN routers you can buy")
+
+[How to find and remove spyware from your phone](https://www.zdnet.com/article/how-to-find-and-remove-spyware-from-your-phone/ "How to find and remove spyware from your phone")
+
+* [The best VPN services of 2024: Expert tested](https://www.zdnet.com/article/best-vpn/ "The best VPN services of 2024: Expert tested")
+* [How to turn on Private DNS Mode on Android (and why you should)](https://www.zdnet.com/article/how-to-turn-on-private-dns-mode-on-android-and-why-you-should/ "How to turn on Private DNS Mode on Android (and why you should)")
+* [The best antivirus software and apps you can buy](https://www.zdnet.com/article/best-antivirus/ "The best antivirus software and apps you can buy")
+* [The best VPN routers you can buy](https://www.zdnet.com/article/best-vpn-router/ "The best VPN routers you can buy")
+* [How to find and remove spyware from your phone](https://www.zdnet.com/article/how-to-find-and-remove-spyware-from-your-phone/ "How to find and remove spyware from your phone")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
