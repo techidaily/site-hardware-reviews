@@ -1,7 +1,7 @@
 ---
 title: "The Long Haul of Television Technology: A New Chipset Promises Over Ten Years of Cutting-Edge Features for Your OLED Set | ZDNET"
-date: 2024-09-18T10:27:45.617Z
-updated: 2024-09-22T09:06:25.624Z
+date: 2024-09-21T17:39:03.913Z
+updated: 2024-09-28T16:17:23.260Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,21 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-changes-in-instagrams-algorithm-user-perspectives/"><u>[Updated] 2024 Approved Changes in Instagram's Algorithm User Perspectives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expertly-crafted-video-making-software-iphone-android/"><u>[Updated] 2024 Approved Expertly Crafted Video-Making Software (iPhone, Android)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-optimizing-viewing-distance-youtube-tips/"><u>[Updated] Optimizing Viewing Distance YouTube Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200e-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200e 5G</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-guide-on-updating-device-drivers-in-windows-881/"><u>Effortless Guide on Updating Device Drivers in Windows 8/8.1</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-converter-transform-wmv-files-into-mpeg-format-with-ease/"><u>Free Online Converter: Transform WMV Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-monitor-insight-asrocks-pg27qft2a-with-ultra-fast-180-hz-display-analyzed/"><u>Gaming Monitor Insight: ASRock's PG27QFT2A with Ultra-Fast 180 Hz Display Analyzed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>Lockdown Protocol Instantaneous, Secure TikTok Link Addition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-expert-hardware-analysis/"><u>Mastering Gadgets with Tom - Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-scoop-from-toms-hardware-experts/"><u>Mastering Technology: Inside Scoop From Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-still-to-wow-how-to-create-stop-motion-videos-on-instagram/"><u>New From Still to Wow How to Create Stop Motion Videos on Instagram</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/public-hearings-may-provide-community-members-with-a-platform-to-influence-the-land-division-process/"><u>Public Hearings May Provide Community Members with a Platform to Influence the Land Division Process.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-hardware-solutions/"><u>Tom's Ultimate Guide to Cutting-Edge Hardware Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-hashtags-to-boost-your-youtube-views-beyond-six-figures-for-2024/"><u>Top 10 Hashtags to Boost Your Youtube Views Beyond Six Figures for 2024</u></a></li>
+</ul></div>
 

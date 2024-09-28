@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection: 2023'S Leading 8K TV Models Reviewed by ZDNet"
-date: 2024-09-17T17:14:03.274Z
-updated: 2024-09-21T20:38:14.701Z
+date: 2024-09-23T19:03:25.086Z
+updated: 2024-09-28T19:33:45.705Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-overcoming-uneven-sound-in-fb-video-playback/"><u>[New] 2024 Approved Overcoming Uneven Sound in FB Video Playback</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-turning-insta-vids-into-music-your-complete-guide-for-2024/"><u>[New] Turning Insta Vids Into Music Your Complete Guide for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-make-money-on-tiktok-in-8-ways-for-2024/"><u>[Updated] How to Make Money on TikTok in 8 Ways for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-sow-and-reap-rivalries-farming-games-to-remember/"><u>[Updated] Sow & Reap Rivalries Farming Games to Remember</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>2024 Approved Action Sequence Mastery Selecting GoPro's Best Cinematic LUTs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-screen-captures-in-firefox-land/"><u>2024 Approved Top Screen Captures in Firefox Land</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676604-adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bluehost-hosting-services-breakdown-testing-the-waters-of-cloud-vps-and-shared-plans/"><u>Bluehost Hosting Services Breakdown: Testing the Waters of Cloud, VPS, and Shared Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-ultimate-sound-of-turtle-beachs-atlas-air-headphones-comfort-meets-acoustic-excellence/"><u>Experience the Ultimate Sound of Turtle Beach's Atlas Air Headphones – Comfort Meets Acoustic Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-unparalleled-precision-meets-dynamic-180hz-gameplay/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS: Unparalleled Precision Meets Dynamic 180Hz Gameplay</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insightful-reviews-for-garmin-vivosmart-4-the-new-era-in-body-energy-and-stress-evaluation/"><u>Insightful Reviews for Garmin Vivosmart 4 - The New Era in Body Energy & Stress Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-ssd-lifespan-with-akasa-gecko-a-thorough-review-of-this-superior-blower-heatsink-technology/"><u>Maximizing SSD Lifespan with Akasa Gecko: A Thorough Review of This Superior Blower Heatsink Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-critique-ensuring-a-protected-experience/"><u>NZXT H7 Flow Critique: Ensuring a Protected Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/pinpointing-the-leading-10-invisible-story-enthusiasts/"><u>Pinpointing the Leading 10 Invisible Story Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/swift-and-simple-techniques-to-download-hundreds-on-tiktok-for-2024/"><u>Swift and Simple Techniques to Download Hundreds on TikTok for 2024</u></a></li>
+</ul></div>
 

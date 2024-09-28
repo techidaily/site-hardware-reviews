@@ -1,7 +1,7 @@
 ---
 title: "Top Best Buy Bargains in June 2024: Exclusive Finds on ZDNet"
-date: 2024-09-16T10:43:40.204Z
-updated: 2024-09-22T06:06:38.854Z
+date: 2024-09-26T18:04:49.784Z
+updated: 2024-09-28T16:42:40.284Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-exclusive-deals-on-superior-quality-economical-asmr-mics/"><u>[New] Exclusive Deals on Superior-Quality, Economical ASMR Mics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-influencers-roadmap-instagram-edition/"><u>[New] In 2024, The Influencer's Roadmap Instagram Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-decoding-the-essentials-of-your-youtube-tv-experience/"><u>[Updated] 2024 Approved Decoding the Essentials of Your YouTube TV Experience</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-youtube-presentations-with-captions/"><u>2024 Approved Streamline Your YouTube Presentations with Captions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>2024 Approved Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-comfort-with-uphere-in-depth-look-at-the-c5cd6sec-air-cooler-series/"><u>Affordable Comfort with UpHere: In-Depth Look at the C5C/D6Sec Air Cooler Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluations-of-computer-parts-wisdom-from-toms-hardware/"><u>Comprehensive Evaluations of Computer Parts - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhanced-user-experience-new-bottom-navigation-bar-in-google-chrome-for-iphones/"><u>Enhanced User Experience: New Bottom Navigation Bar in Google Chrome for iPhones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-pro-ddr5-c36-modules-2x1geb-unleashing-the-full-potential-for-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Pro DDR5 C36 Modules (2X1geb): Unleashing the Full Potential for Enhanced Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-hyperx-cloud-alpha-wireless-headset-evaluation-exceptional-long-lasting-battery-performance-for-gamers-and-music-lovers-techradar/"><u>In-Depth HyperX Cloud Alpha Wireless Headset Evaluation: Exceptional Long-Lasting Battery Performance for Gamers & Music Lovers - TechRadar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/six-best-applications-of-samsung-dex-technology-unveiled/"><u>Six Best Applications of Samsung DeX Technology Unveiled!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-choosing-the-best-solid-state-drive-exclusive-review-on-corsairs-mp60mini-1tb-e27t/"><u>The Definitive Guide to Choosing the Best Solid-State Drive: Exclusive Review on Corsair's MP60^Mini 1TB (E27T)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341741079-toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review - Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-review-of-gigabytes-affordable-b760m-ds3h-ax-perfect-entry-point-into-micro-atx-and-3-monitor-systems/"><u>Top Review of Gigabyte’s Affordable B760M DS3H AX - Perfect Entry Point Into Micro ATX & 3-Monitor Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-television-sets-a-buyers-guide/"><u>Top-Rated Television Sets : A Buyer's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-asrock-z790i-lightning-wi-fi-motherboard-compact-performance-meets-reliable-connectivity/"><u>Unboxing and Testing the ASRock Z790I Lightning Wi-Fi Motherboard: Compact Performance Meets Reliable Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadget-expertise-the-ultimate-guide-by-tom/"><u>Unveiling Gadget Expertise: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-toms-expert-insights/"><u>Unveiling the Latest in Electronics - Tom's Expert Insights</u></a></li>
+</ul></div>
 

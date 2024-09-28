@@ -1,7 +1,7 @@
 ---
 title: "Amazing Deal Alert: Get 46%% Off on Samsung S95C OLED - Save $1,500 in Your Pocket! | TechRadar"
-date: 2024-09-19T08:10:58.668Z
-updated: 2024-09-22T05:20:01.676Z
+date: 2024-09-24T16:23:11.415Z
+updated: 2024-09-28T19:28:46.140Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,18 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-harmonize-video-quality-with-instagrams-visual-theme-for-2024/"><u>[Updated] Harmonize Video Quality with Instagram's Visual Theme for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-method-for-iptv-screen-recordings/"><u>2024 Approved The Ultimate Method for IPTV Screen Recordings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cytron-maker-rp2nano-review-a-budget-friendly-pick-for-hobbyists-and-professionals-alike/"><u>Cytron Maker RP2nano Review - A Budget-Friendly Pick for Hobbyists and Professionals Alike</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earning-insights-from-viewing-data-on-youtube-for-2024/"><u>Earning Insights From Viewing Data on YouTube for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-components-a-deep-dive-into-hardware-by-tom/"><u>Mastering Components: A Deep Dive Into Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-expert-advice-on-hardware-choices/"><u>Navigating Computer Gear with Tom - Expert Advice on Hardware Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-informed-perspective/"><u>Navigating the World of Computing with Tom's Informed Perspective</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-silence-no-more-effortless-solutions-to-restore-sounds/"><u>Netflix Silence No More: Effortless Solutions to Restore Sounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-final-era-launch-issues-pc-optimization-guide/"><u>Solving the 'Final Era' Launch Issues: PC Optimization Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-analysis-when-animation-meets-an-underperforming-motorcycle/"><u>Valkyrie Vind SL125 Analysis - When Animation Meets an Underperforming Motorcycle</u></a></li>
+</ul></div>
 

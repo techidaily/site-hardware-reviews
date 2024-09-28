@@ -1,7 +1,7 @@
 ---
 title: "Why I Continue to Suggest the Classic Samsung Series to Buyers: Avail Discounted Prices Now at $1,00N"
-date: 2024-09-19T20:34:36.962Z
-updated: 2024-09-22T04:23:44.467Z
+date: 2024-09-26T17:08:01.247Z
+updated: 2024-09-28T19:38:17.974Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-woven-wisdom-expertise-in-loom-recordings/"><u>[New] In 2024, Woven Wisdom Expertise in Loom Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-first-choice-of-android-photo-editors/"><u>[Updated] First Choice of Android Photo Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-virtual-screenscapes-for-streamers/"><u>2024 Approved Ideal Virtual Screenscapes for Streamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dvd-extraction-made-easy-transforming-dvd-content-into-videots-for-editing/"><u>DVD Extraction Made Easy: Transforming DVD Content Into Video_TS for Editing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-setup-official-ricoh-printer-drivers-compatible-with-all-windows-versions/"><u>Easy Setup: Official Ricoh Printer Drivers Compatible with All Windows Versions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-compute-module-4s-a-comprehensive-industry-focused-assessment/"><u>Exploring the Raspberry Pi Compute Module 4S: A Comprehensive Industry-Focused Assessment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tech-picks-leading-drone-gimbals/"><u>In 2024, Tech Picks Leading Drone Gimbals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-tips-from-toms-computing-experts/"><u>Mastering Hardware Choices with Tips From Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-assessment-navigating-the-allure-of-design-and-the-underwhelming-ai-capabilities/"><u>Microsoft Surface Pro Assessment: Navigating the Allure of Design and the Underwhelming AI Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-ease-toms-hardware-wisdom/"><u>Navigating Gadgets with Ease - Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-for-gadgets-in-depth-analysis-from-toms-hardware-blog/"><u>Top Picks for Gadgets: In-Depth Analysis From Tom's Hardware Blog</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-moto-g34-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola Moto G34 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-asus-rog-keris-ii-ace-the-real-competitor-to-deathadder-v3-pro/"><u>Unboxing and Testing Asus ROG Keris II Ace - The Real Competitor to DeathAdder V3 Pro?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/winegards-flatwave-fl5500a-great-signal-high-price-point-in-depth-analysis/"><u>Winegard's FlatWave FL5500A: Great Signal, High Price Point - In-Depth Analysis</u></a></li>
+</ul></div>
 

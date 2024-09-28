@@ -1,7 +1,7 @@
 ---
 title: "The Most Value-Packed Sony Bravia: Top Choice at a Steal! Unbeatable Price on Sale Now | ZDNET"
-date: 2024-09-19T21:45:32.339Z
-updated: 2024-09-22T04:47:57.337Z
+date: 2024-09-24T18:06:35.114Z
+updated: 2024-09-28T19:14:00.306Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-precision-in-numbers-a-3-step-process-to-examine-your-youtube-earnings/"><u>[New] 2024 Approved Precision in Numbers A 3-Step Process to Examine Your YouTube Earnings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-ways-to-broadcast-and-record-athletic-competitions-live-for-2024/"><u>[New] Premium Ways to Broadcast & Record Athletic Competitions Live for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-power-of-networking-building-strong-relationships-with-stakeholders/"><u>[New] The Power of Networking Building Strong Relationships with Stakeholders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/atlas-air-by-turtle-beach-an-immersive-audio-journey-with-unmatched-comfort/"><u>Atlas Air by Turtle Beach: An Immersive Audio Journey with Unmatched Comfort</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341747676-comprehensive-breakdown-of-asus-rog-keris-ii-ace-vs-deathadder-v3-pro-battle-for-gaming-supremacy-begins/"><u>Comprehensive Breakdown of Asus ROG Keris II Ace vs DeathAdder V3 Pro: Battle for Gaming Supremacy Begins!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/decreasing-mix-intensity-step-by-step/"><u>Decreasing Mix Intensity Step by Step</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-hardware-insights-with-expert-tom/"><u>Discover Top Hardware Insights with Expert Tom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-stop-your-game-of-doom-eternal-from-keep-on-crashing/"><u>Effective Techniques to Stop Your Game of DOOM Eternal From Keep on Crashing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-complete-overview-of-full-scene-in-ppro/"><u>In 2024, Complete Overview of Full Scene in PPro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-ace-2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Ace 2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-reno-8t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo Reno 8T – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-easy-winx-dvd-ripper-pro-copy-your-entire-dvd-library-under-five-minutes/"><u>Quick and Easy WinX DVD Ripper Pro: Copy Your Entire DVD Library Under Five Minutes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Hardware</u></a></li>
+</ul></div>
 

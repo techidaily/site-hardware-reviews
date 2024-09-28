@@ -1,7 +1,7 @@
 ---
 title: "P.C. Choudhuri and Suresh Gopala Mukherjee: C. 860 CE During the Reign of Kalyana Chalukya King Vijayaditya I (R. C. 857-890) or Krishna III"
-date: 2024-09-18 14:52:56
-updated: 2024-09-20 10:29:54
+date: 2024-09-27T16:24:17.708Z
+updated: 2024-09-28T18:16:21.835Z
 tags:
   - tvs
 categories:
@@ -46,11 +46,36 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[New] 2024 Approved Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-building-a-community-through-periscope-streams/"><u>[New] In 2024, Building a Community Through Periscope Streams</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-aim-higher-boosting-views-and-reach-on-youtube/"><u>[Updated] 2024 Approved Aim Higher Boosting Views and Reach on YouTube</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-best-to-greatest-mondlys-journey-in-german-learning/"><u>From Best to Greatest: Mondly’s Journey in German Learning</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-compatible-brother-hl-2280dw-drivers-for-new-and-older-versions-of-windows/"><u>Get the Latest Compatible Brother HL-2280DW Drivers for New and Older Versions of Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 6 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/jubilant-join-and-leave-steps/"><u>Jubilant Join & Leave Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-new-technology-insights-and-reviews-straight-from-toms-lab/"><u>Mastering New Technology: Insights and Reviews Straight From Tom's Lab</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-gear-a-deep-dive-into-toms-hardware-selection/"><u>Mastering Tech Gear: A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-detailed-hardware-breakdowns-from-toms-team/"><u>Mastering Technology: Detailed Hardware Breakdowns From Tom's Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-needs-with-expert-insights-from-toms-hardware/"><u>Mastering Your Tech Needs with Expert Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastery-in-tech-professional-reviews-and-insights-by-toms-circuitry/"><u>Mastery in Tech: Professional Reviews & Insights by Tom's Circuitry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-choices-wisdom-from-toms-technology-blog/"><u>Navigating Hardware Choices - Wisdom From Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-advanced-hardware-solutions-at-toms-electronics-guide/"><u>Navigating Through Advanced Hardware Solutions at Tom's Electronics Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722986811906-obs-no-longer-freezing-on-recording-heres-how-you-fixed-it/"><u>OBS No Longer Freezing on Recording? Here’s How You Fixed It</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

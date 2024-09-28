@@ -1,7 +1,7 @@
 ---
 title: "Unlock Free Premium Enhancements: The Next Big Thing on Your Roku TV | ZDNet"
-date: 2024-09-20T16:29:02.496Z
-updated: 2024-09-22T10:24:58.691Z
+date: 2024-09-24T19:38:22.714Z
+updated: 2024-09-28T19:08:51.507Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-decoding-vsdcs-technology-against-top-screen-recorder-competitors/"><u>[Updated] 2024 Approved Decoding VSDC's Technology Against Top Screen Recorder Competitors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unleashing-the-full-potential-of-game-characters-with-voice-alteration-strategies-free/"><u>[Updated] 2024 Approved Unleashing the Full Potential of Game Characters with Voice Alteration Strategies (Free)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-future-proofing-filmmaking-with-green-tools-for-2024/"><u>[Updated] Future-Proofing Filmmaking with Green Tools for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-playgrounds-for-virtual-escapades/"><u>2024 Approved Essential Playgrounds for Virtual Escapades</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/7-best-and-free-srt-translation-websites-unveiled-for-2024/"><u>7 Best & Free SRT Translation Websites Unveiled for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat12/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-kingston-fury-beast-a-review-of-its-ddr5-6000-2x32gb-configuration-and-performance-features/"><u>Comprehensive Analysis of the Kingston Fury Beast: A Review of Its DDR5-6000 2X32GB Configuration and Performance Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-review-of-beyerdynamic-mmx-30e-pro-outstanding-audio-performance-and-no-frills-design/"><u>Detailed Review of Beyerdynamic MMX 30E Pro: Outstanding Audio Performance and No-Frills Design</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-mophie-ac-powerstation-pricey-but-practical-for-on-the-go-charging/"><u>In-Depth Analysis of the Mophie AC Powerstation: Pricey but Practical for On-the-Go Charging</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-levelplays-combat-air-ca4-the-epitome-of-silent-and-efficient-cpu-cooling-solutions/"><u>In-Depth Review of Levelplay's Combat Air CA4 - The Epitome of Silent and Efficient CPU Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insider-knowledge-on-gadgets-the-toms-hardware-edge/"><u>Insider Knowledge on Gadgets: The Tom's Hardware Edge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discoveries-and-reviews-by-toms-hardware-gurus/"><u>Pioneering Tech Discoveries and Reviews by Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-hub-in-depth-gadget-analysis-and-advice/"><u>Tom's Hardware Hub: In-Depth Gadget Analysis & Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-review-corner-innovations-and-breakthroughs-in-pc-components/"><u>Tom's Review Corner: Innovations and Breakthroughs in PC Components</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-resolving-problems-with-the-realtek-rtl8723be-network-adapter/"><u>Troubleshooting Guide: Resolving Problems with the Realtek RTL8723BE Network Adapter</u></a></li>
+</ul></div>
 

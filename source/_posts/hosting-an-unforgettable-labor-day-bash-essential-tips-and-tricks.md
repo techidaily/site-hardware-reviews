@@ -1,7 +1,7 @@
 ---
 title: "Hosting an Unforgettable Labor Day Bash: Essential Tips and Tricks"
-date: 2024-09-20T01:07:54.205Z
-updated: 2024-09-22T00:44:58.548Z
+date: 2024-09-21T19:28:57.810Z
+updated: 2024-09-28T19:01:59.734Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-guide-to-retrieving-and-saving-gifs-from-facebooks-domain-for-2024/"><u>[New] Guide to Retrieving and Saving GIFs From Facebook's Domain for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-quick-intro-to-instagram-video-chat/"><u>[Updated] 2024 Approved Quick Intro to Instagram Video Chat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860393922-updated-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>[Updated] Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10).</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-visual-editors-journey-cropping-content-for-instagram-standout-for-2024/"><u>[Updated] The Visual Editor's Journey Cropping Content for Instagram Standout for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y78-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y78 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-a60-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel A60 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-technology-at-toms-hardware/"><u>In-Depth Analysis of Cutting-Edge Technology at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-tech-wisdom/"><u>Navigating the World of Computer Hardware with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-computer-gear-by-tech-authority-toms-hardware/"><u>The Essential Guide to Computer Gear by Tech Authority, Tom's Hardware</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-mocking-sponge-bob-meme-generator/"><u>Updated Mocking Sponge Bob Meme Generator</u></a></li>
+</ul></div>
 

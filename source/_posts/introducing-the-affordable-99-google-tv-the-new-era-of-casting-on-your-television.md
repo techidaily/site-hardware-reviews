@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Affordable $99 Google TV: The New Era of Casting on Your Television"
-date: 2024-09-18 18:21:52
-updated: 2024-09-20 11:48:18
+date: 2024-09-24T16:40:04.104Z
+updated: 2024-09-28T17:40:27.095Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -110,11 +124,28 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-avoid-unsolicited-podcast-recommendations-on-spotify-app/"><u>[New] Avoid Unsolicited Podcast Recommendations on Spotify App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[Updated] 2024 Approved The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-exploring-instagrams-max-video-length/"><u>[Updated] In 2024, Exploring Instagram's Max Video Length</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acer-predator-helios-14-powerful-gaming-in-a-slim-package/"><u>Acer Predator Helios 14: Powerful Gaming in a Slim Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bytesavvy-insights-unveiling-the-top-rated-electronics-of-the-year/"><u>ByteSavvy Insights: Unveiling the Top-Rated Electronics of the Year</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/color-enhancement-made-easy-the-role-of-luts-in-photos/"><u>Color Enhancement Made Easy The Role of LUTs in Photos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862683628-exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862669669-get-an-in-depth-performance-breakdown-of-the-cutting-edge-asus-zenbook-s16-with-amds-top-of-the-line-ryzen-ai-echnology-the-ryzen-ai-9-hx-370/"><u>Get an In-Depth Performance Breakdown of the Cutting-Edge Asus Zenbook S16 with AMD's Top-of-the-Line Ryzen AI Echnology: The Ryzen AI 9 HX 370</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Samsung Galaxy Z Fold 5?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862704498-hurry-exclusive-deal-on-the-rog-strix-g16-2024-just-1164-available-now-on-amazon/"><u>Hurry! Exclusive Deal on the ROG Strix G16 2024: Just $1,164 Available Now on Amazon</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>In 2024, Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-mac-video-editing-programs-for-beginners-and-pros-for-2024/"><u>The Best Mac Video Editing Programs for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-microsoft-surface-pro-plus-a-visual-marvel-with-underwhelming-copilot-ai-capabilities/"><u>Unveiling the Microsoft Surface Pro Plus: A Visual Marvel with Underwhelming Copilot AI Capabilities</u></a></li>
+</ul></div>
+

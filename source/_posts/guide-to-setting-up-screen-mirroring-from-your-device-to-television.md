@@ -1,7 +1,7 @@
 ---
 title: Guide to Setting Up Screen Mirroring From Your Device to Television
-date: 2024-09-16T22:24:28.638Z
-updated: 2024-09-22T03:19:31.054Z
+date: 2024-09-27T19:16:23.641Z
+updated: 2024-09-28T18:42:26.742Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/op-10-recruiting-gems-amp-up-engagement-for-2024/"><u>[New] Top 10 Recruiting Gems Amp Up Engagement for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-tweeting-short-videos-to-interactive-shareable-customized-gifs/"><u>[Updated] From Tweeting Short Videos to Interactive, Shareable Customized GIFS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-videos-the-basics-of-stunning-slow-motion-capturing-in-android/"><u>2024 Approved Elevate Your Videos The Basics of Stunning Slow Motion Capturing in Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-mechanical-switches-with-the-logitech-g515-lightspeed-tkl-review/"><u>Discover the Best Value in Mechanical Switches with the Logitech G515 Lightspeed TKL Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-why-every-keysnobber-awaits-the-keychron-q1-he-an-exhaustive-review-of-this-top-tier-mechanical-keyboard/"><u>Discover Why Every Keysnobber Awaits the Keychron Q1-HE: An Exhaustive Review of This Top-Tier Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-home-networking-experience-with-the-asus-rog-rapture-gt-be9-cu-7-a-detailed-performance-review/"><u>Elevate Your Home Networking Experience with the Asus ROG Rapture GT-BE9 Cu 7 - A Detailed Performance Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-components-with-toms-hardware-experts/"><u>Exploring PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/rectify-fb-video-anomaly-with-personal-visage-for-2024/"><u>Rectify FB Video Anomaly with Personal Visage for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-of-requesting-a-steam-game-refund-online/"><u>Step-by-Step Process of Requesting a Steam Game Refund Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware/"><u>Unlocking Computer Secrets with Tom's Hardware</u></a></li>
+</ul></div>
 

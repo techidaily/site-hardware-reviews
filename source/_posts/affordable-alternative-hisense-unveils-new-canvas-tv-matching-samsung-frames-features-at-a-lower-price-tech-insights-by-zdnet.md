@@ -1,7 +1,7 @@
 ---
 title: "Affordable Alternative: Hisense Unveils New Canvas TV Matching Samsung Frame's Features at a Lower Price | Tech Insights by ZDNet"
-date: 2024-09-16T03:06:07.224Z
-updated: 2024-09-21T16:05:31.569Z
+date: 2024-09-25T19:28:33.784Z
+updated: 2024-09-28T16:27:34.556Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-basics-of-weaving-a-narrative-thread-for-2024/"><u>[New] Basics of Weaving a Narrative Thread for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-beyond-imagination-exploring-ar-worlds/"><u>[Updated] 2024 Approved Beyond Imagination Exploring AR Worlds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-or-overpriced-diving-into-the-netgear-orbi-770-mesh-routers-price-point/"><u>Affordable or Overpriced? Diving Into the Netgear Orbi 770 Mesh Router's Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-titans-a-detailed-review-of-the-gaming-powers-of-ryzen-5-9600x-and-ryzen-7-9700x-with-zen-5-architecture/"><u>Comparing Titans: A Detailed Review of the Gaming Powers of Ryzen 5 9600X and Ryzen 7 9700X with Zen 5 Architecture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-bluehost-analysis-exploring-cloud-vps-and-shared-options/"><u>Comprehensive Bluehost Analysis: Exploring Cloud, VPS & Shared Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-cinematic-memories-with-music-for-2024/"><u>Crafting Cinematic Memories with Music for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-essentials-with-tom-a-deep-dive-into-gadgets-and-gear/"><u>Decoding Technology Essentials with Tom - A Deep Dive Into Gadgets and Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-toms-computer-world-the-ultimate-guide-to-new-hardware-findings/"><u>Dive Into Tom's Computer World - The Ultimate Guide to New Hardware Findings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-real-world-applications-of-chatgpt-top-7-uses-uncovered/"><u>Exploring Real-World Applications of ChatGPT: Top 7 Uses Uncovered</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improve-picture-quality-top-5-techniques-for-boosting-image-sharpness-2024-edition/"><u>Improve Picture Quality: Top 5 Techniques for Boosting Image Sharpness, 2024 Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-scriptwriting-essentials-for-authentic-and-engaging-documentaries/"><u>In 2024, Scriptwriting Essentials for Authentic and Engaging Documentaries</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unveiling-the-secrets-of-professional-free-youtube-transcription/"><u>In 2024, Unveiling the Secrets of Professional Free YouTube Transcription</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-akasa-gecko-ssd-heatsink-evaluation-with-built-in-fan-technology/"><u>In-Depth Akasa Gecko SSD Heatsink Evaluation with Built-In Fan Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-samsung-galaxy-f04-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy F04? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723532-the-lowdown-on-sabrents-rocket-nano-an-in-depth-examination-of-the-1tb-m2-222-gen3-x4-ssd/"><u>The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD.</u></a></li>
+</ul></div>
 

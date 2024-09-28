@@ -1,7 +1,7 @@
 ---
 title: "Transform Your iPhone Into a Smart TV Remote: Expert Tips & Tricks From ZDNet"
-date: 2024-09-16T22:08:00.925Z
-updated: 2024-09-21T21:41:59.886Z
+date: 2024-09-24T16:32:18.168Z
+updated: 2024-09-28T19:29:39.831Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-premier-automatic-text-creators-from-videos-for-2024/"><u>[Updated] Premier Automatic Text Creators From Videos for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-find-x7-ultra-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Find X7 Ultra PC | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/aiffwav-windows/"><u>AIFFへのWAVファイル高速劣化無し一括変換: Windowsで実行する方法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-asus-rog-azoth-gaming-laptop-extreme-evaluation-500-price-point/"><u>Comprehensive Asus ROG Azoth Gaming Laptop (Extreme) Evaluation - $500 Price Point</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-vob-to-avi-without-compromise-discover-the-best-5-techniques-for-free-flawless-transformation/"><u>Convert VOB to AVI Without Compromise: Discover the Best 5 Techniques for Free, Flawless Transformation</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-defeating-unspecified-errors-in-windows-fixing-error-code-0x80004005/"><u>Decoding and Defeating Unspecified Errors in Windows - Fixing Error Code 0X80004005</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/detailed-guides-to-hardware-products-toms-hardware-insight/"><u>Detailed Guides to Hardware Products - Tom's Hardware Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-all-in-one-video-editing-solutions-movavis-tutti-and-unlimited-options-for-creators/"><u>Discover All-in-One Video Editing Solutions - Movavi's Tutti & Unlimited Options for Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-tomhardwareexperts-mastering-tech-and-gadget-performance/"><u>Expert Advice From TomHardwareExperts: Mastering Tech and Gadget Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-modern-gear-from-your-go-to-source-toms-hardware/"><u>Expert Advice on Modern Gear From Your Go-To Source, Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-testing-the-nzxt-c1500-platinum-unit/"><u>Expert Analysis: Testing the NZXT C1500 Platinum Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341746651-experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-story-fundamentals-every-beginners-guide-to-go-to-tips-for-2024/"><u>Facebook Story Fundamentals Every Beginner's Guide to Go-To Tips for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-nubia-red-magic-8s-proplus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Nubia Red Magic 8S Pro+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lattepandas-mu-board-review-outpacing-the-raspberry-pi-5-but-with-a-steeper-cost/"><u>LattePanda's Mu Board Review: Outpacing the Raspberry Pi 5 but with a Steeper Cost</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-androids-voice-assistant-steps-for-getting-a-chatbot-like-chatgpt-using-voicegpt-app/"><u>Mastering Android's Voice Assistant: Steps for Getting a Chatbot Like ChatGPT Using VoiceGPT App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-asus-rog-ally-x-a-revolutionary-gaming-laptop-for-gamers-on-the-move/"><u>The Ultimate Guide to the Asus ROG Ally X - A Revolutionary Gaming Laptop for Gamers on the Move</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronics-analysis/"><u>Unveiling the Latest Gadgets with Tom's Electronics Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-hostgators-vps-and-shared-hosting-services/"><u>Unveiling the Pros and Cons of HostGator's VPS and Shared Hosting Services</u></a></li>
+</ul></div>
 

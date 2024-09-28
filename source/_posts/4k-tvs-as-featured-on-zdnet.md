@@ -1,7 +1,7 @@
 ---
 title: 4K TVs, as Featured on ZDNET
-date: 2024-09-18T01:46:42.090Z
-updated: 2024-09-21T22:21:00.069Z
+date: 2024-09-24T17:20:23.772Z
+updated: 2024-09-28T17:28:53.486Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-ig-coverage-toolkit-apple-and-android-included/"><u>[New] In 2024, The Ultimate IG Coverage Toolkit, Apple & Android Included</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-guide-to-audio-editing-in-audacity-made-simple-for-2024/"><u>[Updated] The Complete Guide to Audio Editing in Audacity, Made Simple for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-elite-list-of-win11s-screen-recording-apps-for-2024/"><u>[Updated] The Elite List of Win11's Screen Recording Apps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advances-in-syma-x8c-flight-autonomy/"><u>2024 Approved Advances in Syma X8C Flight Autonomy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-explorations-by-tech-savant-tom/"><u>Advanced Hardware Explorations by Tech Savant, Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-new-technological-breakthroughs-on-toms-hardware/"><u>Delving Into New Technological Breakthroughs on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-pc-gear-with-toms-hardware-insights/"><u>Exploring High-Performance PC Gear with Tom's Hardware Insights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-filmora-no-crack-no-risk-just-genuine-methods-for-2024/"><u>Free Filmora No Crack, No Risk, Just Genuine Methods for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-turn-off-motion-following-sound-feature-on-your-apple-airpods/"><u>How to Turn Off Motion-Following Sound Feature on Your Apple AirPods</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mobile-methods-download-gifs-from-twitter-on-devices-for-2024/"><u>Mobile Methods Download GIFs From Twitter on Devices for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-innovations-at-toms-hardware/"><u>Navigating the Latest in Hardware Innovations at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p27a2r-titan-gaming-monitor-180hz-a-comprehensive-purchase-guide/"><u>P27A2R Titan Gaming Monitor 180Hz - A Comprehensive Purchase Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-wireless-display-adapter-not-connecting-problems-on-your-pc-with-windows-10/"><u>Resolving 'Wireless Display Adapter Not Connecting' Problems on Your PC with Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-resilient-player-in-gaming-pcs-inside-review-of-asus-tuf-ga14/"><u>The Resilient Player in Gaming PCs: Inside Review of Asus TUF GA14</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
+</ul></div>
 

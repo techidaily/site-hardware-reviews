@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Technology Essentials: The Ultimate 2022 Guide to Innovative Devices & Gadgets by ZDNet"
-date: 2024-09-17T10:39:55.915Z
-updated: 2024-09-22T10:21:48.530Z
+date: 2024-09-24T18:51:49.167Z
+updated: 2024-09-28T17:52:15.973Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-essential-insights-best-instagram-editors-for-mobile-and-pc/"><u>[New] 2024 Approved Essential Insights Best Instagram Editors for Mobile and PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>[New] 2024 Approved Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-video-sharing-from-youtube-to-insta-for-2024/"><u>[New] Elevating Video Sharing From YouTube to Insta for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-picks-for-vloggers-8-mirrorless-cameras-leading-the-pack-for-2024/"><u>[New] Top Picks for Vloggers 8 Mirrorless Cameras Leading the Pack for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-discover-top-tier-ps3-games-on-your-pc-today/"><u>2024 Approved Discover Top-Tier PS3 Games on Your PC Today</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scouting-grounds-websites-for-finding-sponsorships-in-videography/"><u>2024 Approved Scouting Grounds Websites for Finding Sponsorships in Videography</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bluehost-reviewed-a-guide-to-their-cloud-vps-and-shared-plans-examined/"><u>Bluehost Reviewed: A Guide to Their Cloud, VPS, and Shared Plans Examined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom-your-guide/"><u>Exploring the Latest in Computer Hardware with Tom - Your Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-power-of-a-dual-band-7ghz-wifi-beast-with-asus-rt-be96u/"><u>Exploring the Power of a Dual-Band 7GHz WiFi Beast with ASUS RT-BE96U</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/gopro-hero-4-black-vs-sony-fdr-x1000v-action-camera-which-is-better-for-2024/"><u>GoPro Hero 4 Black Vs Sony FDR-X1000V Action Camera Which Is Better for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-nokia-by-drfone-android/"><u>In 2024, How to Bypass FRP from Nokia?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-game-asus-rog-swift-pg34wcdm-240hz-oled-gaming-monitor-an-in-depth-look-at-premium-image-quality-and-optimized-performance/"><u>Master the Game: Asus ROG Swift PG34WCDM 240Hz OLED Gaming Monitor - An In-Depth Look at Premium Image Quality and Optimized Performance</u></a></li>
+<li><a href="https://techidaily.com/mastering-window-10-screen-shot-techniques-using-simple-shortcuts/"><u>Mastering Window 10 Screen Shot Techniques Using Simple Shortcuts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-gameplay-how-the-high-speed-high-style-gigabyte-aorus-fo32u2p-240hz-oled-monitor-elevates-gaming-performance/"><u>Maximizing Your Gameplay: How the High-Speed, High-Style Gigabyte Aorus FO32U2P 240Hz OLED Monitor Elevates Gaming Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Computer Gear with Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-zoning-laws-ensure-that-the-divided-lots-are-used-appropriately-according-to-community-needs-and-environmental-considerations-maintaining-orderly-d11/"><u>Solution: Zoning Laws Ensure that the Divided Lots Are Used Appropriately According to Community Needs and Environmental Considerations, Maintaining Orderly Development Patterns.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g13/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-of-logitech-g-pro-x-2-with-lightspeed-technology-a-must-have-for-serious-gamers/"><u>Ultimate Review of Logitech G Pro X 2 with Lightspeed Technology: A Must-Have for Serious Gamers</u></a></li>
+</ul></div>
 

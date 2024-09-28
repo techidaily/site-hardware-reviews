@@ -1,7 +1,7 @@
 ---
 title: "Smart Savings Alert: Find Out Why This Sony Bravia Is a Must-Buy Bargain at Sale Price | Gadget Reviewers"
-date: 2024-09-18T21:26:27.272Z
-updated: 2024-09-22T08:19:21.201Z
+date: 2024-09-26T17:48:28.269Z
+updated: 2024-09-28T16:28:42.393Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-100plus-cool-gaming-channel-names-for-every-gamer/"><u>[New] 2024 Approved 100+ Cool Gaming Channel Names for Every Gamer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-going-beyond-why-you-might-want-an-alternate-to-vidmas-reader/"><u>[New] In 2024, Going Beyond Why You Might Want an Alternate to Vidma's Reader</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-developing-optimal-canon-chrono-recordings/"><u>[Updated] 2024 Approved Developing Optimal Canon Chrono Recordings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-celebrating-the-best-ten-music-video-lives/"><u>[Updated] Celebrating the Best Ten Music Video Lives</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-boosting-reliability-verify-age-on-tiktok/"><u>2024 Approved Boosting Reliability Verify Age on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-creative-potential-using-luts-for-color-grading-in-ae/"><u>2024 Approved Unlocking Creative Potential Using LUTs for Color Grading in AE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341711051-budget-nvme-overclocking-ready-check-out-the-premium-uphere-m201-heatsink-at-only-5/"><u>Budget NVMe Overclocking Ready? Check Out the Premium UpHere M201 Heatsink at Only $5!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-asus-rog-nuc-970-ultraportable-desktop-with-robust-performance/"><u>Comprehensive Review of the Asus ROG NUC 970 - Ultraportable Desktop with Robust Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-gadgets-with-toms-technology-review-platform/"><u>Dive Into Gadgets with Tom's Technology Review Platform</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/exclusive-list-of-leading-free-video-editing-programs/"><u>Exclusive List of Leading Free Video Editing Programs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hostgator-review-comparative-study-on-vps-and-shared-hosting-solutions/"><u>HostGator Review: Comparative Study on VPS and Shared Hosting Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-insights-asus-rog-swift-oled-pg32ucdp-approaching-flawless-gaming-visuals/"><u>In-Depth Analysis & Insights: Asus ROG Swift OLED PG32UCDP - Approaching Flawless Gaming Visuals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-electronics-a-deep-dive-by-toms-hardware-experts/"><u>Navigating Modern Electronics - A Deep Dive by Tom's Hardware Experts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-inactivity-in-asus-hardware-camera/"><u>Overcoming Inactivity in Asus Hardware Camera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-resolving-division-2-game-crashes-in-no-time/"><u>Quick Fixes: Resolving Division 2 Game Crashes in No Time</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-netgear-orbi-770-router-a-balance-between-value-and-wireless-speed/"><u>The Netgear Orbi 770 Router - A Balance Between Value and Wireless Speed?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-comparisons/"><u>Tom's Computer Gear: Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-reviews-your-ultimate-guide/"><u>Tom's Computer Reviews: Your Ultimate Guide</u></a></li>
+</ul></div>
 

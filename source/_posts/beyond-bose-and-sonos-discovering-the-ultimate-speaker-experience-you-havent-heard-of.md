@@ -1,7 +1,7 @@
 ---
 title: "Beyond Bose and Sonos: Discovering the Ultimate Speaker Experience You Haven't Heard Of"
-date: 2024-09-16T09:47:55.037Z
-updated: 2024-09-21T22:57:42.533Z
+date: 2024-09-21T19:05:35.964Z
+updated: 2024-09-28T18:46:58.507Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[New] In 2024, Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-eyecatcher-ultimate-screen-capture-guide/"><u>[New] In 2024, EyeCatcher Ultimate Screen Capture Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlining-media-formats-from-srt-to-advanced-standards/"><u>[Updated] 2024 Approved Streamlining Media Formats From SRT to Advanced Standards</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-easy-to-use-editing-tools-no-cost/"><u>[Updated] 2024 Approved Vimeo's Easy-to-Use Editing Tools, No Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-critique-of-the-gigabyte-g6xs-functionality-capable-for-battles-without-notable-distinctions/"><u>A Critique of the Gigabyte G6X's Functionality: Capable for Battles, Without Notable Distinctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-user-friendly-guide-how-to-disconnect-facebook-on-your-android-phone/"><u>A User-Friendly Guide: How To Disconnect Facebook on Your Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/an-expert-analysis-of-the-lenovo-yoga-pro-9i-emphasizing-robust-keys-and-streamlined-chassis/"><u>An Expert Analysis of The Lenovo Yoga Pro 9I: Emphasizing Robust Keys & Streamlined Chassis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/community-gardens-and-cooperatives/"><u>Community Gardens and Cooperatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-gadget-hub-unlocking-the-best-in-technology/"><u>Expert Reviews by Tom’s Gadget Hub - Unlocking the Best in Technology</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f04-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F04 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-focusing-on-content-reach-sharing-igtv-across-platforms/"><u>In 2024, Focusing on Content Reach Sharing IGTV Across Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-philips-evonia-49m2c8900-monitor-with-quantum-dot-oled-technology-for-gaming-excellence-240hz/"><u>In-Depth Analysis: Philips Evonia 49M2C8900 Monitor with Quantum Dot OLED Technology for Gaming Excellence (240Hz)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sabrents-m2-2242-nano-1tb-ssd-tested-and-analyzed-is-it-the-ideal-baseline-drive-for-your-system/"><u>Sabrent's M.2 2242 Nano 1TB SSD Tested & Analyzed – Is It The Ideal Baseline Drive For Your System?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-sabrent-rocket-nano-a-comprehensive-review-of-the-m2-2242-1tb-ssd-benchmark-king/"><u>Unboxing the Sabrent Rocket Nano: A Comprehensive Review of the M.2 2242 1TB SSD Benchmark King</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+</ul></div>
 

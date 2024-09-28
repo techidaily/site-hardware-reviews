@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Level Viewing with 40%% Off Samsung Neo Quantum N8500: The OLED King's Rival Is Now More Affordable! | Gizmodo"
-date: 2024-09-21T06:39:29.206Z
-updated: 2024-09-22T01:23:31.479Z
+date: 2024-09-27T16:55:34.951Z
+updated: 2024-09-28T17:57:16.026Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,23 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dynamic-captions-animation-tips-for-instagram-storytelling/"><u>[Updated] 2024 Approved Dynamic Captions Animation Tips for Instagram Storytelling</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-video-on-google-hangouts-for-2024/"><u>[Updated] How to Record Video on Google Hangouts for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-turbocharging-fb-media-speed-techniques-revealed/"><u>[Updated] In 2024, Turbocharging FB Media Speed Techniques Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-freedom-from-costs-in-final-cut-pro/"><u>[Updated] The Freedom From Costs in Final Cut Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-m4v-videofiles-in-mp3-musikdateien-konvertieren-mit-movavi-direkt-im-browser/"><u>Gratuit M4V Videofiles in MP3 Musikdateien Konvertieren Mit Movavi - Direkt Im Browser</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-zero-5g-2023-turbo-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Zero 5G 2023 Turbo Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-world-a-deep-dive-into-the-latest-in-hardware-technology/"><u>Inside Tom’s Computer World: A Deep Dive Into the Latest in Hardware Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-tom-insights-on-advanced-components-and-gadgets/"><u>Mastering Hardware with Tom: Insights on Advanced Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-and-systems-at-toms-electronics-expo/"><u>Navigating Through Circuits and Systems at Tom's Electronics Expo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-equipment-mastery-in-depth-analysis-for-savvy-gamers-and-builders/"><u>Tom's Equipment Mastery: In-Depth Analysis for Savvy Gamers and Builders</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/turbocharged-triumphs-unveiling-five-pinnacle-racer-simulators-for-2024/"><u>Turbocharged Triumphs Unveiling Five Pinnacle Racer Simulators for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-gigabytes-b760m-ds3h-ax-micro-atx-motherboard-for-beginners-and-multi-screen-lovers/"><u>Unveiling the Features: Gigabyte's B760M DS3H AX Micro ATX Motherboard for Beginners and Multi-Screen Lovers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-toms-expertise/"><u>Unveiling the Latest in Computer Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-a-curated-selection-top-8-streaming-audio-tools-to-enhance-your-broadcasts/"><u>Updated In 2024, A Curated Selection Top 8 Streaming Audio Tools to Enhance Your Broadcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syn-240-aio-pc-chiller-review-exceptional-heat-dispersion-compromised-by-unrefined-user-interface/"><u>Valkyrie Syn 240 AIO PC Chiller Review – Exceptional Heat Dispersion Compromised by Unrefined User Interface</u></a></li>
+</ul></div>
 

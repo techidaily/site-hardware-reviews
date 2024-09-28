@@ -1,7 +1,7 @@
 ---
 title: Samsung Masterpiece TV Reigns Supreme – Available Now at an Historically Affordable Price!
-date: 2024-09-19 16:24:10
-updated: 2024-09-20 12:14:42
+date: 2024-09-25T17:46:56.137Z
+updated: 2024-09-28T17:08:45.776Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -110,11 +124,26 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/breaking-boundaries-with-6-top-rated-nft-services-for-2024/"><u>Breaking Boundaries with 6 Top-Rated NFT Services for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehhemic-approach-eliminating-the-ark-crashing-point-with-expertise/"><u>Comprehhemic Approach: Eliminating the 'Ark' Crashing Point with Expertise</u></a></li>
+<li><a href="https://os-tips.techidaily.com/diy-repair-guide-mastering-the-art-of-fixing-iphone-15-and-m2-mac-mini/"><u>DIY Repair Guide: Mastering the Art of Fixing iPhone 15 & M2 Mac Mini</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-invisible-trail-fbs-preview-functionality-explained/"><u>In 2024, Navigating the Invisible Trail FB's Preview Functionality Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-asus-tuf-gaming-a14s-robust-performance-and-durability/"><u>In-Depth Look at the ASUS TUF Gaming A14's Robust Performance & Durability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-pc-components-through-toms-expert-analysis/"><u>Mastering Gadgets and PC Components Through Tom's Expert Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-components-through-toms-tech-blog/"><u>Mastering PC Components Through Tom's Tech Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-insights-at-toms-equipment-analysis-forum/"><u>Mastering Tech Insights at Tom's Equipment Analysis Forum</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-product-choices-with-toms-authoritative-hardware-guides/"><u>Mastering Tech Product Choices with Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-crackling-noise-in-your-arctis-7-headphones-on-windows/"><u>Solving the Issue of Crackling Noise in Your Arctis 7 Headphones on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-tasks-creating-windows-11-shortcuts-for-uwp/"><u>Streamlining Tasks: Creating Windows 11 Shortcuts for UWP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-livestreams-discover-the-power-of-manycam-for-digital-camera-alternatives-and-online-broadcasting-tools/"><u>Transform Your Livestreams: Discover the Power of ManyCam for Digital Camera Alternatives and Online Broadcasting Tools</u></a></li>
+</ul></div>
+

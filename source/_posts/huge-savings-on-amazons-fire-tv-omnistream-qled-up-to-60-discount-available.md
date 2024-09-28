@@ -1,7 +1,7 @@
 ---
 title: Huge Savings on Amazon's Fire TV Omnistream QLED - Up to 60%% Discount Available!
-date: 2024-09-17 18:12:16
-updated: 2024-09-20 11:23:22
+date: 2024-09-27T16:53:22.037Z
+updated: 2024-09-28T17:57:55.717Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -110,11 +124,25 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubers-edge-the-ultimate-guide-to-apps-for-short-form-edits/"><u>[Updated] Youtubers' Edge The Ultimate Guide to Apps for Short Form Edits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-strategies-for-building-impressive-youtube-teaser-vids/"><u>2024 Approved Unveiling Strategies for Building Impressive YouTube Teaser Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-htc-u23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-display-mastery-experience-vibrant-colors-on-the-gigabyt-aorus-co49dq-oled-monitor/"><u>Gaming Display Mastery: Experience Vibrant Colors on the Gigabyt Aorus CO49DQ OLED Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/huge-discount-alert-600-off-on-the-incredible-samsung-49-inch-oled-monitor-limited-time-offer/"><u>Huge Discount Alert: $600 Off on the Incredible Samsung 49-Inch OLED Monitor - Limited Time Offer!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-8-tips-to-prevent-htc-vive-motion-sickness/"><u>In 2024, 8 Tips to Prevent HTC Vive Motion Sickness</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-professional-tools-to-elevate-your-video-openings/"><u>In 2024, Professional Tools to Elevate Your Video Openings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-devices-at-toms-hardware/"><u>In-Depth Analysis of Cutting-Edge Devices at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovate-your-setup-tips-from-toms-hardware-reviews/"><u>Innovate Your Setup: Tips From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-build-advanced-insights-from-toms-hardware-experts/"><u>Master Your Build: Advanced Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-picks-for-phone-based-asmr-enthusiasts-for-2024/"><u>Top Picks for Phone-Based ASMR Enthusiasts for 2024</u></a></li>
+</ul></div>
+

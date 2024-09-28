@@ -1,7 +1,7 @@
 ---
 title: Top-Rated OLED Television Models - In-Depth Comparisons & Reviews by Tech Experts | ZDNet
-date: 2024-09-14T17:34:26.540Z
-updated: 2024-09-22T00:28:36.616Z
+date: 2024-09-25T17:01:29.800Z
+updated: 2024-09-28T16:48:10.534Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-recording-software-outshining-fbx-methods-for-2024/"><u>[Updated] Advanced Recording Software Outshining FBX Methods for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bridging-platforms-for-broad-sharing-instagram-and-facebook/"><u>[Updated] Bridging Platforms for Broad Sharing Instagram & Facebook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-outstanding-non-zoom-video-conferencing-tech-for-2024/"><u>[Updated] Outstanding Non-Zoom Video Conferencing Tech for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-vivo-s18-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo S18 Phone When You Forget the Password</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-guides-with-tom-hardware-unveiled/"><u>Advanced Gadget Guides with Tom - Hardware Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341735072-approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-performance-and-costs-the-lattepanda-mu-vs-raspberry-pi-5/"><u>Comparing Performance and Costs: The LattePanda Mu Vs. Raspberry Pi 5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-a-deep-dive-into-hardware-by-tomsphere/"><u>Exploring Advanced Tech: A Deep Dive Into Hardware by TomSphere</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-find-n3-by-drfone-android/"><u>How to Bypass FRP on Oppo Find N3?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-alert-the-atlas-air-from-turtle-beach-delivers-top-tier-acoustics/"><u>Review Alert! The ATLAS Air From Turtle Beach Delivers Top-Tier Acoustics</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blackout-laptop-diagnosis/"><u>Screen Blackout: Laptop Diagnosis</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/streamline-your-conversations-with-twitter-video-uploads-on-whatsapp/"><u>Streamline Your Conversations with Twitter Video Uploads on WhatsApp</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-productivity-a-detailed-look-at-hp-omnibook-xs-revolutionary-16-hour-endurance-powered-by-xpower-processor/"><u>Transforming Productivity: A Detailed Look at HP OmniBook X's Revolutionary 16-Hour Endurance Powered by XPower Processor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/type-badrequest/"><u>Type: BadRequest</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/ultimate-best-mp4-to-wav-converter-apps-for-your-windows-machine-free-and-easy-tutorial-included/"><u>Ultimate Best MP4-to-WAV Converter Apps for Your Windows Machine - Free & Easy Tutorial Included</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-deep-dive-into-toms-hardware-reviews/"><u>Unlocking Performance: A Deep Dive Into Tom's Hardware Reviews</u></a></li>
+</ul></div>
 

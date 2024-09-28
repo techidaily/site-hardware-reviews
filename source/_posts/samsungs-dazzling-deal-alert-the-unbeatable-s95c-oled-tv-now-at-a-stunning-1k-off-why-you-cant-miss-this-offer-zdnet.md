@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Dazzling Deal Alert: The Unbeatable S95C OLED TV Now at a Stunning 1K Off – Why You Can’t Miss This Offer | ZDNET"
-date: 2024-09-19 14:59:49
-updated: 2024-09-20 10:10:57
+date: 2024-09-22T17:50:51.485Z
+updated: 2024-09-28T17:43:32.112Z
 tags:
   - tvs
 categories:
@@ -52,11 +52,31 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -154,6 +174,13 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -161,6 +188,13 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 The dedicated gaming picture mode lets colors and details pop while the integrated speakers provide clean, clear audio. And even older cartoons and films look amazing with upscaled 4K resolution, letting you revisit childhood favorites.
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -193,11 +227,33 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-reviews.techidaily.com/multi-day-battery-life-on-the-new-acer-dell-hp-and-lenovo-pcs-discover-their-innovative-snapdragon-x-plus-windows-copilotplus-technology-for-just-1099/"><u>'Multi-Day Battery Life' On the New Acer, Dell, HP, and Lenovo PCs: Discover Their Innovative Snapdragon X + Windows Copilot+ Technology for Just $1,099</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snapchat-photo-edits-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Snapchat Photo Edits A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-10-best-free-selfie-apps-for-iphone-x87-plus/"><u>[New] In 2024, 10 Best Free Selfie Apps for iPhone X/8/7 Plus</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tailoring-your-youtube-video-introduction-perfectly/"><u>[New] In 2024, Tailoring Your YouTube Video Introduction Perfectly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-maze-of-fs-mode-in-ppro/"><u>[Updated] Navigating the Maze of FS Mode in PPro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-9-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nubia Red Magic 9 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-through-toms-comprehve-guide-to-hardware/"><u>Mastering Technology Through Tom's Comprehve Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tomtechspotlight/"><u>Navigating the World of High-Performance Hardware with TomTechSpotlight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/qualcomm-x-series-processors-set-to-triple-dell-xps-13plus-laptop-lifespans-at-half-the-price-of-intel-counterparts/"><u>Qualcomm X Series Processors Set to Triple Dell XPS 13+ Laptop Lifespans at Half the Price of Intel Counterparts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-on-mastering-the-art-of-illumination-for-youtube-videos-for-2024/"><u>Shine On Mastering the Art of Illumination for YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/technical-glitch-or-danger-a-fiery-laptop-sparks-urgent-exodus-from-an-american-airlines-airliner/"><u>Technical Glitch or Danger? A Fiery Laptop Sparks Urgent Exodus From an American Airlines Airliner</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-dynamic-duo-youtube-and-instagram-story-collaboration/"><u>The Dynamic Duo YouTube & Instagram Story Collaboration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-pc-hardware-by-tom-explore-and-learn/"><u>The Ultimate Resource on PC Hardware by Tom - Explore and Learn</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-advanced-computer-components/"><u>Tom's Tech Insights: Your Guide to Advanced Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews: In-Depth Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-pcs-below-1k-a-buyers-guide/"><u>Top-Rated Gaming PCs Below $1K: A Buyer's Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-nioh-2-from-crashing-completely/"><u>Troubleshooting Tips: How To Stop Nioh 2 From Crashing Completely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-error-0xc0000001-quickly/"><u>Understanding & Fixing Windows Error 0xC0000001 Quickly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-x6-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco X6? | Dr.fone</u></a></li>
+</ul></div>
+

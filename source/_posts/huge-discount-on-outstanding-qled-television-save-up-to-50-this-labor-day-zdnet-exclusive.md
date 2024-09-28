@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Outstanding QLED Television - Save Up To 50%% This Labor Day! (ZDNET Exclusive)
-date: 2024-09-17 19:20:14
-updated: 2024-09-20 12:45:42
+date: 2024-09-21T18:06:30.987Z
+updated: 2024-09-28T19:32:05.882Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -76,11 +90,29 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-the-art-of-youtube-to-webm-conversion/"><u>[New] 2024 Approved Mastering the Art of YouTube-to-WebM Conversion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-behind-the-scenes-filmmaking-tips-from-youtube-experts-for-2024/"><u>[Updated] Behind-the-Scenes Filmmaking Tips From YouTube Experts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-clearview-recorder-xtreme-win10-for-2024/"><u>[Updated] ClearView Recorder Xtreme (Win10) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-game-channel-branding-with-premade-banners/"><u>[Updated] The Art of Game Channel Branding with Premade Banners</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-optimize-video-cuts-selective-mac-mp4-slicers/"><u>2024 Approved Optimize Video Cuts Selective Mac MP4 Slicers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-scaricabile-codec-h265-ottimizzazione-per-la-visualizzazione-di-video-in-risoluzione-4k-e-8k/"><u>Gratis Scaricabile Codec H.265 - Ottimizzazione Per La Visualizzazione Di Video in Risoluzione 4K E 8K</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-quest-masters-choice-celebrating-gaming-epics-anew/"><u>In 2024, Quest Masters' Choice Celebrating Gaming Epics Anew</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862684147-powerbook-520c-back-from-history-now-features-a-refined-ipad-touchscreen-and-the-heart-of-a-201n5-core-i5-macbook-pro/"><u>PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-gear/"><u>Tom's Tech Review: The Ultimate Guide to Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-choices-in-tech-toms-computing-expertise/"><u>Top Choices in Tech: Tom's Computing Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-ultimate-savings-on-high-performance-gaming-pcs/"><u>Top Picks: Ultimate Savings on High-Performance Gaming PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-pc-potential-wisdom-from-toms-hardware-experts/"><u>Unleash Your PC Potential - Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-pc-components-with-guidance-from-toms-computing-site/"><u>Unveiling Cutting-Edge PC Components with Guidance From Tom's Computing Site</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Labor Day Sale Alert! Secure a Whopping 25%% Savings on the 85-Inch TCL TV | Smart Shopping Guide
-date: 2024-09-14T22:06:28.611Z
-updated: 2024-09-21T17:56:03.276Z
+date: 2024-09-25T19:14:07.412Z
+updated: 2024-09-28T17:28:25.801Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,21 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-breakthrough-strategies-for-rapid-fb-media-delivery/"><u>[New] Breakthrough Strategies for Rapid FB Media Delivery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-video-exporting-youtube-content-directed-to-facebook-stream/"><u>[Updated] Video Exporting YouTube Content Directed to Facebook Stream</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-review-unveiling-the-power-of-miniaturized-wi-fi/"><u>ASRock Z790I Lightning Wireless Review: Unveiling the Power of Miniaturized Wi-Fi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cat5-vs-cat6-network-cables-which-one-suits-your-needs-better/"><u>Cat5 Vs. Cat6 Network Cables - Which One Suits Your Needs Better?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-hardware-discoveries-from-toms-computer-chronicles/"><u>Dive Into Hardware: Discoveries From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-equipment-insights/"><u>Exploring Computer Gear with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-gear-hub/"><u>Exploring Technology with Tom's Gear Hub</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-pre-organize-your-photos-for-optimal-flipbook-creation-on-flipbuilder/"><u>How to Pre-Organize Your Photos for Optimal FlipBook Creation on FlipBuilder</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-snap-and-save-games-the-nvidia-way/"><u>In 2024, Snap & Save Games - The NVIDIA Way</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-keywords-with-oxfords-ease/"><u>Mastering Keywords with Oxford's Ease</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-the-dynamics-of-musical-tension-implementing-thematic-variations-to-elevate-film-scores/"><u>New 2024 Approved The Dynamics of Musical Tension Implementing Thematic Variations to Elevate Film Scores</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-differences-a-critical-review-of-hostgator-vps-and-shared-plans/"><u>Unveiling the Differences: A Critical Review of HostGator VPS and Shared Plans</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Itel P55 5G | Dr.fone</u></a></li>
+</ul></div>
 

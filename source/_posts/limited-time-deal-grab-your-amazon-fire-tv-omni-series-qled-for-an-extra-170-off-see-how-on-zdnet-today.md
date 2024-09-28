@@ -1,7 +1,7 @@
 ---
 title: Limited Time Deal! Grab Your Amazon Fire TV Omni Series QLED for an Extra $170 Off - See How on ZDNET Today!
-date: 2024-09-18T08:10:39.540Z
-updated: 2024-09-22T04:36:36.104Z
+date: 2024-09-25T16:56:57.222Z
+updated: 2024-09-28T18:53:06.614Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-must-have-keyword-gurus-for-video-success/"><u>[New] 2024 Approved 10 Must-Have Keyword Gurus for Video Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cross-platform-calendar-coordination-zoom-to-your-devices-for-2024/"><u>[Updated] Cross-Platform Calendar Coordination Zoom to Your Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-guide-to-crafting-captivating-snapchat-boomers/"><u>[Updated] The Complete Guide to Crafting Captivating Snapchat Boomers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-tips-and-tricks-erasing-unwanted-backdrops/"><u>2024 Approved Tips and Tricks Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tips-to-reduce-compression-artifacts-in-obs/"><u>2024 Approved Tips to Reduce Compression Artifacts in OBS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgetry-with-tom-navigating-the-world-of-computer-hardware/"><u>Advanced Gadgetry with Tom: Navigating the World of Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-pny-rp6-1tb-external-drive-adequate-but-lacks-exceptional-characteristics/"><u>Comprehensive Analysis of the PNY RP6지 1TB External Drive: Adequate but Lacks Exceptional Characteristics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dissecting-the-specifications-apples-m1-pro-versus-m1-max/"><u>Dissecting the Specifications Apple’s M1 Pro Versus M1 Max</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-edition-the-finest-picture-fixers/"><u>In 2024, Instagram Edition The Finest Picture Fixers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-through-toms-hardware/"><u>Mastering the Digital World Through Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trustworthy-advice-from-toms-hardware-experts/"><u>Navigating New Tech: Trustworthy Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-and-reviews/"><u>Tom's Tech Insights and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-and-performance-of-geekworm-x1-011-a-comprehensive-review/"><u>Unveiling the Features and Performance of Geekworm X1 0/1/1 - A Comprehensive Review</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-easy-avi-video-editing-top-5-software-choices/"><u>Updated Free and Easy AVI Video Editing Top 5 Software Choices</u></a></li>
+</ul></div>
 

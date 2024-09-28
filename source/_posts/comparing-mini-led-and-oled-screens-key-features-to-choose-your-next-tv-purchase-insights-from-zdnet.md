@@ -1,7 +1,7 @@
 ---
 title: "Comparing Mini LED & OLED Screens: Key Features to Choose Your Next TV Purchase - Insights From ZDNet"
-date: 2024-09-17T08:33:28.461Z
-updated: 2024-09-21T22:50:06.082Z
+date: 2024-09-22T18:55:22.631Z
+updated: 2024-09-28T19:38:13.939Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,19 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +96,23 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-tips-for-finding-hidden-exclusive-photos-on-snapchat/"><u>[New] Tips for Finding Hidden, Exclusive Photos on Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-brightening-filmmaking-ranking-the-17-best-lights/"><u>[Updated] 2024 Approved Brightening Filmmaking Ranking the 17 Best Lights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-exclusive-free-mcb-visual-tools/"><u>[Updated] 2024 Approved Exclusive Free MCB Visual Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>2024 Approved Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-revolutionizing-pc-building-with-the-csm-mainboard-feature-explained/"><u>Asus Pro B760M-CT: Revolutionizing PC Building with the CSM Mainboard Feature Explained</u></a></li>
+<li><a href="https://driver-error.techidaily.com/corrected-connectivity-glitch-asus-webcam-and-win10/"><u>Corrected Connectivity Glitch: ASUS Webcam & Win10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-pc-hardware-with-toms-insights/"><u>Discover the Best in PC Hardware with Tom's Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-t2x-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo T2x 5G? Try These Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-latest-laptop-showcase-the-trailblazing-omnibook-x-defined-by-its-impressive-snapdragon-x-chip-and-extended-battery-durability/"><u>HP's Latest Laptop Showcase: The Trailblazing OmniBook X, Defined by Its Impressive Snapdragon X Chip and Extended Battery Durability</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-exploring-key-components-and-creation-process-of-ai-face-generators/"><u>In 2024, Exploring Key Components and Creation Process of AI Face Generators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-essentials-with-toms-hardware-reviews/"><u>Mastering Technology Essentials with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/payment-methods-with-movavi-a-comprehensive-guide/"><u>Payment Methods with Movavi: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-asus-rt-ax57-go-wi-fi-6-mini-router-perfect-companion-for-on-the-go-internet-access/"><u>Ultimate Guide to Asus RT-AX57 Go Wi-Fi 6 Mini Router: Perfect Companion for On-The-Go Internet Access</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-systems-a-spotlight-from-toms-hardware/"><u>Unveiling High-Performance Systems - A Spotlight From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-hardware-with-toms-technology-showcase/"><u>Unveiling the Latest Hardware with Tom's Technology Showcase</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+</ul></div>
 

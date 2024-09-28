@@ -1,7 +1,7 @@
 ---
 title: "Beat the Heat with LG’s Innovative Mini LED TV: Superiority Over OLED G2 and a Steal at $300 Less - Unveiled for Holiday Sale on ZDNET"
-date: 2024-09-15T05:29:58.904Z
-updated: 2024-09-21T18:58:45.405Z
+date: 2024-09-22T16:00:45.948Z
+updated: 2024-09-28T19:34:49.524Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-quick-route-to-celebrity-status-on-insta-top-15-strategies-for-rapid-follower-growth/"><u>[New] 2024 Approved The Quick Route to Celebrity Status on Insta Top 15 Strategies For Rapid Follower Growth</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-guide-leading-video-editing-tools-androidpc-for-2024/"><u>[New] Essential Guide Leading Video Editing Tools (Android/PC) for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-anycubic-kobra-3-leading-the-way-in-colorful-additive-manufacturing/"><u>Comprehensive Review of Anycubic Kobra 3 - Leading the Way in Colorful Additive Manufacturing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/craft-compelling-snapchats-on-ios-and-android-top-6-apps/"><u>Craft Compelling Snapchats on iOS & Android - Top 6 Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hard-drives-and-gpus-wisdom-from-toms-hardware/"><u>Decoding Hard Drives and GPUs - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341733191-dough-spectrum-blacks-game-changing-27-oled-display-unleashed-highly-accurate-visually-stunning-gaming-perfection-revealed/"><u>Dough Spectrum Black's Game-Changing 27 OLED Display Unleashed: Highly Accurate, Visually Stunning Gaming Perfection Revealed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-halo-infinite-pc-crashes-expert-solutions/"><u>Fix Your Halo Infinite PC Crashes: Expert Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-90-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor 90 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341680253-limited-budget-unlimited-breeze-a-comprehensive-look-at-under-20-uphere-cooler-models/"><u>Limited Budget, Unlimited Breeze - A Comprehensive Look at Under $20 UpHere Cooler Models</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-world-of-computing-the-ultimate-resource-for-hardware-enthusiasts/"><u>Tom's World of Computing: The Ultimate Resource for Hardware Enthusiasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-s18-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo S18 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-peak-performance-a-detailed-examination-and-evaluation-of-the-lightning-fast-logitech-g-pro-x-2-designed-for-elite-gamers-only/"><u>Unlocking Peak Performance: A Detailed Examination and Evaluation of the Lightning Fast Logitech G Pro X 2 - Designed for Elite Gamers Only</u></a></li>
+</ul></div>
 

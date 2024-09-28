@@ -1,7 +1,7 @@
 ---
 title: "Comparing LG's Latest Mini LED with Samsung G2 OLED: A Trio of Advantages & Exclusive $300 Labor Day Discount - Detailed Analysis by ZDNet"
-date: 2024-09-18 22:30:15
-updated: 2024-09-20 11:28:40
+date: 2024-09-27T16:33:34.890Z
+updated: 2024-09-28T16:26:59.802Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -110,11 +124,33 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-master-the-art-of-uploading-vimeo-to-instagram/"><u>[New] In 2024, Master the Art of Uploading Vimeo to Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-drones-on-offer/"><u>[Updated] Premium Drones on Offer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-speech-capture-simplified-ipad-edition/"><u>2024 Approved Speech Capture Simplified IPad Edition</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-bluetooth-driver-update-your-easy-path-to-fresh-reliable-connectivity/"><u>ASUS Bluetooth Driver Update: Your Easy Path to Fresh, Reliable Connectivity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-6s-plus-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone 6s Plus to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-neo-5-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme GT Neo 5 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-impressive-asus-zephyrus-g14-where-power-meets-portability-for-gamers/"><u>In-Depth Look at the Impressive Asus Zephyrus G14: Where Power Meets Portability for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-lab-the-ultimate-guide-to-hardware-upgrades/"><u>Inside Tom's Computer Lab: The Ultimate Guide to Hardware Upgrades</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-core-i7-ultra-series-triumphs-over-amds-phoenix-insights-from-recent-bapco-testing-results/"><u>Intel Core I7 Ultra Series Triumphs Over AMD's 'Phoenix': Insights From Recent BAPCO Testing Results</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-guide-to-microsofts-cutting-edge-surface-and-surface-pro-pcs-now-with-smart-copilotplus-features-for-elevated-computing-experience/"><u>Interactive Guide to Microsoft's Cutting-Edge Surface & Surface Pro PCs Now With Smart Copilot+ Features for Elevated Computing Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-through-toms-hardware-chronicles/"><u>Mastering Technology Through Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-tech-stores-with-toms-hardware-spotlight/"><u>Navigate Through High-Tech Stores With Tom's Hardware Spotlight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/own-an-rtx-4070-equipped-hp-omen-save-300-today-with-limited-offer/"><u>Own an RTX 4070-Equipped HP Omen, Save $300 Today with Limited Offer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preview-of-advanced-dell-x-series-and-inspirons-with-qualcomms-snapdragon-chips-launch-targeting-third-quarter/"><u>Preview of Advanced Dell X Series and Inspirons with Qualcomm's Snapdragon Chips: Launch Targeting Third Quarter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzen-ai-300-laptop-release-postponed-new-arrival-date-and-best-buy-listings-july-28/"><u>Ryzen AI 300 Laptop Release Postponed: New Arrival Date and Best Buy Listings - July 28</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-book4-edge-vs-iphone-12-showdown-unveiling-early-benchmarks-of-snapdragon-x-elite/"><u>Samsung Book4 Edge vs iPhone 12 Showdown: Unveiling Early Benchmarks of Snapdragon X Elite</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free/"><u>Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unmatched-recording-alternatives-for-modern-gaming-enthusiasts-for-2024/"><u>Unmatched Recording Alternatives for Modern Gaming Enthusiasts for 2024</u></a></li>
+</ul></div>
+

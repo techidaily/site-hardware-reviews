@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Roku TV's Latest Enhancement: Exclusive, Complimentary Access!"
-date: 2024-09-15T22:10:04.068Z
-updated: 2024-09-21T19:50:24.203Z
+date: 2024-09-21T17:25:27.641Z
+updated: 2024-09-28T17:32:44.332Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-gratis-video-call-tools-for-virtual-gatherings-for-2024/"><u>[New] Top 10 Gratis Video Call Tools for Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-hand-trackings-evolution-and-practice-for-2024/"><u>[New] Unveiling Hand Tracking's Evolution and Practice for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-overcoming-youtube-disqualification/"><u>[Updated] Overcoming YouTube Disqualification</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/15-sites-offering-premium-free-vectr-and-illustration-tools-and-services-for-2024/"><u>15 Sites Offering Premium-Free Vectr and Illustration Tools & Services for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-western-digital-my-passport-6tb-robust-and-compact/"><u>Comprehensive Evaluation of Western Digital My Passport (6TB): Robust & Compact</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-cutting-edge-tech-insider-knowledge-from-toms-hardware/"><u>Discover Cutting-Edge Tech - Insider Knowledge From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-performance-perfection-a-review-of-the-updated-dell-xps-13-9345-featuring-cutting-edge-snapdragon-x-elite-integration/"><u>Discovering Performance Perfection: A Review of the Updated Dell XPS 13 (9345), Featuring Cutting-Edge Snapdragon X Elite Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-powerful-features-of-highpoints-rocket-1608a-usb-drives-card-ultimate-review/"><u>Evaluating the Powerful Features of HighPoint's Rocket 1608A USB Drives Card - Ultimate Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exploring-alternate-functions-with-webcams/"><u>In 2024, Exploring Alternate Functions with Webcams</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-180hz-titan-army-p27a2g-a-savvy-buyers-guide-for-gamers/"><u>In-Depth Analysis of the 180Hz Titan Army P27A2G - A Savvy Buyer's Guide for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-of-digital-devices-with-toms-tech-wisdom/"><u>In-Depth Reviews of Digital Devices with Tom's Tech Wisdom</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-hostgator-offerings-a-detailed-vps-and-shared-hosting-overview/"><u>Navigating Through HostGator Offerings: A Detailed VPS & Shared Hosting Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-basics-of-ai-explained-in-laymans-terms/"><u>The Basics of AI Explained in Layman's Terms</u></a></li>
+</ul></div>
 

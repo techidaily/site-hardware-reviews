@@ -1,7 +1,7 @@
 ---
 title: "Unveiling May 2O24's Ultimate Television Deals: Save Big with These ZDNET Specials"
-date: 2024-09-19T19:22:59.258Z
-updated: 2024-09-22T01:23:52.806Z
+date: 2024-09-24T18:40:34.586Z
+updated: 2024-09-28T18:18:05.341Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,19 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-image-safekeepers-online/"><u>[New] Prime Image Safekeepers Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>[New] The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-easy-way-capture-your-minecraft-moments-with-these-simple-mac-tips/"><u>[Updated] In 2024, The Easy Way Capture Your Minecraft Moments with These Simple Mac Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tier-electronics-with-toms-hardware/"><u>Discovering Top-Tier Electronics with Tom's Hardware</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-ephemeral-to-everlasting-the-art-of-saving-social-media-snaps-for-2024/"><u>From Ephemeral to Everlasting The Art of Saving Social Media Snaps for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-valkyrie-vind-sl125-stunning-anime-design-but-disappointing-functionality/"><u>In-Depth Analysis of the Valkyrie Vind SL125: Stunning Anime Design but Disappointing Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-experts/"><u>Mastering Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-and-rectify-your-iphone-image-gallery-a-guide-to-8-key-fixes/"><u>Navigate and Rectify Your iPhone Image Gallery: A Guide to 8 Key Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-driver-conflicts-in-windows-quickly/"><u>Resolving Driver Conflicts in Windows Quickly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-western-digital-my-passport-6tb-portable-ssd-compact-yet-capacious/"><u>Review of the Western Digital My Passport 6TB Portable SSD - Compact Yet Capacious</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleashing-marketing-potential-with-powerful-cookiebot-features/"><u>Unleashing Marketing Potential with Powerful Cookiebot Features</u></a></li>
+</ul></div>
 

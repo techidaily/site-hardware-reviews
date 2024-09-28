@@ -1,7 +1,7 @@
 ---
 title: "Discover Black Friday 2022: Dates & Locations of Top Bargains - Insights From ZDNet"
-date: 2024-09-19T02:31:55.855Z
-updated: 2024-09-21T23:39:39.522Z
+date: 2024-09-23T18:42:24.188Z
+updated: 2024-09-28T19:18:18.642Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +103,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-reviews.techidaily.com/ai-for-beginners-unveiling-the-potential-with-the-raspberry-pi-brainiac-kit-our-in-depth-review/"><u>'AI for Beginners': Unveiling the Potential with the Raspberry Pi Brainiac Kit - Our In-Depth Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-compile-of-free-high-quality-sound-clips-for-videos/"><u>[Updated] 2024 Approved Compile of Free, High-Quality Sound Clips for Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-tumblr-id-visualization-guide-size-format-duration-for-2024/"><u>[Updated] Tumblr ID Visualization Guide Size, Format, Duration for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-tickletunes-recommendations-best-online-funnier-downloads/"><u>2024 Approved TickleTunes Recommendations Best Online Funnier Downloads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341679817-affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-to-locate-and-verify-the-bios-version-on-a-windows-11-machine-with-ease/"><u>Discover How to Locate and Verify the BIOS Version on a Windows 11 Machine with Ease</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341714014-experience-green-technology-with-teamgroups-eco-vulcan-the-ddr5-6000-c30-2x16gb-memory-kit-reviewed/"><u>Experience Green Technology with TeamGroup's Eco Vulcan - The DDR5-6000 C30, 2X16GB Memory Kit Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-dell-xps-13-9345-expert-analysis-enduring-style-meets-new-snapdragon-x-elite-power/"><u>In-Depth Dell XPS 13 (9345) Expert Analysis: Enduring Style Meets New Snapdragon X Elite Power</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-2025-apple-developer-event-major-releases-and-updates-explored/"><u>Inside the 2025 Apple Developer Event: Major Releases & Updates Explored</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creative-curator-essential-zero-price-text-psds-for-2024/"><u>The Creative Curator Essential, Zero-Price Text PSDS for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-your-guide-to-all-things-tech/"><u>Tom's Hardware - Your Guide to All Things Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-insights-on-computer-hardware/"><u>Tom's Tech: Expert Insights on Computer Hardware</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-f54-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy F54 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-repair-tips-for-when-your-nvidia-settings-wont-launch/"><u>Troubleshooting and Repair Tips for When Your Nvidia Settings Won't Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-unresponsive-airpods/"><u>Troubleshooting Guide: Resolving Issues with Unresponsive AirPods</u></a></li>
+</ul></div>
 

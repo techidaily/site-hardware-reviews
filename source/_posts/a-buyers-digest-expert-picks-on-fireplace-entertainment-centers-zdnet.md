@@ -1,7 +1,7 @@
 ---
 title: "A Buyer's Digest: Expert Picks on Fireplace Entertainment Centers | ZDNET"
-date: 2024-09-14T17:49:17.142Z
-updated: 2024-09-22T06:31:55.532Z
+date: 2024-09-22T19:06:22.862Z
+updated: 2024-09-28T16:24:01.737Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,23 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-5-effective-tricks-for-youtube-subscriber-surges/"><u>[New] 2024 Approved 5 Effective Tricks for YouTube Subscriber Surges</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-free-high-quality-youtube-banner-samples-inside/"><u>[New] 2024 Approved Free High-Quality YouTube Banner Samples Inside!</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compare-and-contrast-the-lofree-edge-a-detailed-analysis-thin-design-lightweight-build-at-higher-pricing-against-the-apple-magic-keyboard/"><u>Compare and Contrast: The Lofree Edge - A Detailed Analysis, Thin Design, Lightweight Build at Higher Pricing Against the Apple Magic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-technology-guides/"><u>Exploring Hardware Innovations with Tom's Technology Guides</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-quantum-hdrs-impact-on-photography-for-2024/"><u>Exploring Quantum HDR's Impact on Photography for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-essence-extractor-capturing-and-saving-the-soul-of-twitter-gifs/"><u>In 2024, Essence Extractor Capturing & Saving the Soul of Twitter GIFs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-asus-pro-b760m-ct-csm-a-game-changing-motherboard-analysis/"><u>Inside the Asus Pro B760M-CT CSM: A Game-Changing Motherboard Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-mp4m4a/"><u>Movavi MP4/M4A フリーオンライン変換サービス - 簡単ガイド</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-alluring-special-edition-a-look-at-keychron-k2-hes-retro-charm/"><u>The Alluring Special Edition: A Look at Keychron K2 HE's Retro Charm</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-hardware/"><u>Tom's Tech: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transform-your-imagination-into-reality-with-top-animation-software-for-2024/"><u>Transform Your Imagination Into Reality with Top Animation Software for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncover-the-latest-in-gadgets-with-toms-equipment-guide/"><u>Uncover the Latest in Gadgets with Tom's Equipment Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-tech-insights-with-tom-a-comprehensive-hardware-overview/"><u>Uncovering Tech Insights with Tom - A Comprehensive Hardware Overview</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Roku Experience with New Complimentary High-End Features: The Full Lowdown | ZDNET"
-date: 2024-09-17 23:19:41
-updated: 2024-09-20 11:38:33
+date: 2024-09-25T17:05:11.766Z
+updated: 2024-09-28T18:49:46.401Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -76,11 +90,33 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-remedy-for-audio-pause-in-obs-streams-for-2024/"><u>[New] Remedy for Audio Pause in OBS Streams for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[Updated] 2024 Approved How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>[Updated] Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-quick-fixes-how-to-shorten-youtube-videos-easily/"><u>[Updated] In 2024, Quick Fixes How to Shorten YouTube Videos Easily</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-inception-filming-review-examination-for-2024/"><u>[Updated] Inception Filming Review Examination for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy S23+ FRP</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-imovie-cropping-query-the-hidden-logic-behind-it/"><u>In 2024, IMovie Cropping Query The Hidden Logic Behind It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-adol-book-asus-latest-innovation-a-laptop-with-built-in-scent-technology/"><u>Introducing the Adol Book: Asus' Latest Innovation - A Laptop with Built-In Scent Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-trustworthy-or-does-chatgpt-lie/"><u>Is ChatGPT Trustworthy, or Does ChatGPT Lie?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinks-bigger-with-thinkpad-p1-gen-7-the-ultimate-gaming-and-work-machine-sporting-the-latest-lpcamm2-memory-for-superior-performance-in-a-compact-fo33/"><u>Lenovo Thinks Bigger With ThinkPad P1 Gen 7 - The Ultimate Gaming & Work Machine Sporting the Latest LPCAMM2 Memory for Superior Performance in a Compact Form</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-motion-capture-top-gear-recommendations-for-2024/"><u>Mastering Motion Capture - Top Gear Recommendations for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-tips-and-reviews-by-tomhardware/"><u>Navigating the World of Computer Hardware: Tips & Reviews by TomHardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-copilotplus-gaming-with-prism-optimizations-and-cross-platform-cheat-blocking-microsofts-latest-endeavor-revealed/"><u>Revolutionizing Copilot+ Gaming with Prism Optimizations & Cross-Platform Cheat Blocking – Microsoft's Latest Endeavor Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-a-sizzling-deal-on-asuss-rog-zephyrus-g16-intel-ultra-9-chipset-and-nvidia-rtx-at-massive-savings/"><u>Score a Sizzling Deal on ASUS's RoG Zephyrus G16 - Intel Ultra 9 Chipset & NVIDIA RTX at Massive Savings!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-discover-essential-reviews-from-toms-hardware/"><u>Stay Ahead of the Curve: Discover Essential Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-gadget-guide-discovering-top-picks-with-toms-hardware-knowledge/"><u>The Ultimate Gadget Guide - Discovering Top Picks with Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-navigating-the-future-of-computer-components/"><u>Tom's Hardware: Navigating the Future of Computer Components</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-qr-code-scanner-issues-10-solutions-for-iphones/"><u>Troubleshooting QR Code Scanner Issues: 10 Solutions for iPhones</u></a></li>
+</ul></div>
+

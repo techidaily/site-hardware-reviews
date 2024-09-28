@@ -1,7 +1,7 @@
 ---
 title: "TCL's New Game Changer: A Daringly Slender Alternative to Samsung's Iconic Frame Showcased | Latest Tech Reviewed on ZDNet"
-date: 2024-09-18T01:51:34.676Z
-updated: 2024-09-22T01:17:16.257Z
+date: 2024-09-21T17:00:47.831Z
+updated: 2024-09-28T17:13:16.987Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,19 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-eyeonfox-screenshots-and-recordings-for-2024/"><u>[Updated] EyeOnFox Screenshots & Recordings for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>[Updated] Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
+<li><a href="https://solve-info.techidaily.com/1726029928893-wav/"><u>「WAV」フォーマットで動画・音楽を変換する方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/10-best-instagram-video-editor-for-android-pc-online-for-2024/"><u>10 Best Instagram Video Editor for Android, PC, Online for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-for-engrossing-youtube-stories-in-23/"><u>2024 Approved The Ultimate List for Engrossing YouTube Stories in '23</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-services-virtual-private-servers-cloud-solutions-and-shared-hosting/"><u>Comprehensive Analysis of Hostinger's Services: Virtual Private Servers, Cloud Solutions & Shared Hosting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-of-computing-on-toms-hardware-showcase/"><u>Discover the Future of Computing on Tom's Hardware Showcase</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-best-tools-to-make-animated-photo-easily/"><u>In 2024, 8 Best Tools to Make Animated Photo Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-play-8t-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor Play 8T FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-toms-authoritative-guide-to-computer-components/"><u>Navigating the Tech Maze: Tom's Authoritative Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/poor-line-care/"><u>Poor Line Care</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-anycub-(datetime)kobra-3-revolutionizing-3d-printing-with-multicolor-capabilities/"><u>Review of Anycub <DateTime>Kobra 3 - Revolutionizing 3D Printing with Multicolor Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-dell-xps-13-9n45-blending-classic-appeal-with-cutting-edge-snapdragon-x-elite-processing/"><u>Review of Dell XPS 13 (9N45): Blending Classic Appeal with Cutting-Edge Snapdragon X Elite Processing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub - The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v27e-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V27e Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-toms-authoritative-hardware-reviews/"><u>Unlocking Performance Secrets: Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-digital-tools-top-picks-from-toms-comprehensive-hardware-guide/"><u>Unveiling Digital Tools: Top Picks From Tom’s Comprehensive Hardware Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Affordability & Innovation: Why the Latest Apple TV 4K Is a Game-Changer | ZDNET Review"
-date: 2024-09-19T22:53:41.136Z
-updated: 2024-09-22T01:11:05.709Z
+date: 2024-09-24T16:09:47.922Z
+updated: 2024-09-28T19:07:21.883Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-extensive-review-gecata-recording-device-analysis/"><u>[Updated] 2024 Approved Extensive Review Gecata Recording Device Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-crop-image-online/"><u>[Updated] 2024 Approved How To Crop Image Online?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-skewed-imagery-texts/"><u>[Updated] In 2024, Mastering Skewed Imagery Texts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-the-keychron-k2-he-where-classic-elegance-meets-modern-tech-innovation/"><u>Comprehensive Review: The Keychron K2 HE, Where Classic Elegance Meets Modern Tech Innovation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-g54-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola G54 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unravel-complex-video-editing-a-complete-android-guide/"><u>In 2024, Unravel Complex Video Editing A Complete Android Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/local-gardening-events/"><u>Local Gardening Events</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-in-depth-hardware-analysis-by-toms-experts/"><u>Mastering Technology Choices: In-Depth Hardware Analysis by Tom’s Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-is-now-a-deep-dive-into-lian-li-hydroshift-lcd-360s-casing-innovations/"><u>The Future Is Now: A Deep Dive Into Lian Li Hydroshift LCD 360S Casing Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Top Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-devices-on-toms-computer-corner/"><u>Unveiling New Devices on Tom's Computer Corner</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-art-of-visual-storytelling-ken-burns-effect-in-final-cut-pro-explained/"><u>Updated In 2024, The Art of Visual Storytelling Ken Burns Effect in Final Cut Pro Explained</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-revolutionize-your-video-content-converting-to-vr-made-easy/"><u>Updated Revolutionize Your Video Content Converting to VR Made Easy</u></a></li>
+</ul></div>
 

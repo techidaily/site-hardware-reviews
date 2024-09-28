@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Immersive Surround Sound From Unexpected Brand Beats Vizio & JBL!
-date: 2024-09-15T08:41:31.844Z
-updated: 2024-09-21T19:05:18.241Z
+date: 2024-09-27T16:30:58.032Z
+updated: 2024-09-28T16:10:20.061Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview-for-2024/"><u>[New] Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-high-dynamic-range-potential/"><u>[New] Unlocking Windows' High Dynamic Range Potential</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-superior-sound-recorders-for-scholarly-discussions/"><u>[Updated] 2024 Approved Superior Sound Recorders for Scholarly Discussions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-avoid-distortion-best-practices-for-shooting-up-close-with-videoleap/"><u>[Updated] Avoid Distortion Best Practices for Shooting Up Close with VideoLeap</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-assessed-striving-for-the-ultimate-gaming-experience/"><u>Asus ROG Swift OLED PG32UCDP Assessed: Striving for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-inspection-elite-edition-parrot-drone/"><u>Detailed Inspection Elite Edition Parrot Drone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-guides-and-insights/"><u>Exploring Technology with Tom's Hardware Guides & Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-8-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-cooling-techniques-how-the-52-pi-ice-tower-plus-transforms-your-raspberry-pi-experience/"><u>Master Cooling Techniques: How the '52-Pi Ice Tower Plus' Transforms Your Raspberry Pi Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-atandts-overseas-roaming-agreement/"><u>Navigating Through AT&T's Overseas Roaming Agreement</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/obs-streamers-toolkit-for-captivating-sessions-for-2024/"><u>OBS Streamer’s Toolkit for Captivating Sessions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/preventing-time-shifts-on-windows-a-guide/"><u>Preventing Time Shifts on Windows: A Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-memory-an-eco-friendly-look-at-teamgroupebn-t-force-vulcan-ddr5-6000-c30-with-2x16gb-modules/"><u>Revolutionizing Memory: An Eco-Friendly Look at TeamGroup'ebn T-Force Vulcan DDR5-6000 C30 with 2X16GB Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341743302-stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-computer-wonders-at-toms-hardware-haven/"><u>Unveiling Computer Wonders at Tom's Hardware Haven</u></a></li>
+</ul></div>
 

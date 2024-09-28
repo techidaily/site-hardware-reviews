@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Selection: Expert Picks for the Best Gaming TVs of 2024"
-date: 2024-09-16T04:24:52.188Z
-updated: 2024-09-21T20:17:44.376Z
+date: 2024-09-25T16:20:56.695Z
+updated: 2024-09-28T16:33:54.621Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rafting-success-with-these-15-youtube-introduction-plans/"><u>[New] Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-pny-rp60s-1tb-solid-state-drive-fairly-competent-but-lacks-distinction/"><u>Comprehensive Analysis of PNY RP60's 1TB Solid-State Drive: Fairly Competent but Lacks Distinction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-nvme-cooling-with-our-comprehensive-review-of-the-uphere-m201-heatsink-for-under-5/"><u>Discover the Best Value in NVMe Cooling with Our Comprehensive Review of the UpHere M201 Heatsink for Under $5</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eco-screen-shots-download-free-guides-for-cinematic-creation/"><u>Eco-Screen Shots Download Free Guides for Cinematic Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/flsun-s1-evaluation-rapid-warp-performance-and-unique-delta-design/"><u>FLSun S1 Evaluation: Rapid-Warp Performance & Unique Delta Design</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-basic-recording-to-masterpiece-your-webcam-guide/"><u>From Basic Recording to Masterpiece Your WebCam Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-premier-alternative-activities-to-watching-sports/"><u>In 2024, 10 Premier Alternative Activities to Watching Sports</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-c12-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia C12 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/macs-finest-the-leading-free-art-programs/"><u>Mac's Finest - The Leading Free Art Programs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computers-with-tom-a-comprehensive-hardware-analysis/"><u>Navigating Computers with Tom: A Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-choices-made-easy-by-toms-tech-wisdom/"><u>Navigating Hardware Choices Made Easy by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-gaming-visual-experience-with-the-27-black-oled-display-by-dough-spectrum-review-and-evaluation/"><u>Next-Level Gaming Visual Experience with the 27 Black OLED Display by Dough Spectrum - Review & Evaluation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ps3-experience-on-pc-leading-emulators-guide-for-2024/"><u>PS3 Experience on PC Leading Emulators Guide for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-trending-internet-browsers-a-comprehensive-review-insights-from-zdnet/"><u>Top Trending Internet Browsers: A Comprehensive Review - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-beyerdynamic-mmx-300-pro-review-exceptional-soundscape-amidst-simplistic-elements/"><u>Unpacking the Beyerdynamic MMX 300 Pro Review: Exceptional Soundscape Amidst Simplistic Elements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
+</ul></div>
 

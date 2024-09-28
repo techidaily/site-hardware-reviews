@@ -1,7 +1,7 @@
 ---
 title: Revival Alert! Panasonic Makes a Grand US Comeback with Trio of Revolutionary
-date: 2024-09-20T05:59:43.864Z
-updated: 2024-09-22T00:49:26.432Z
+date: 2024-09-26T18:57:17.646Z
+updated: 2024-09-28T16:55:39.631Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,17 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-to-allocate-more-ram-to-minecraft-3-methods/"><u>[New] In 2024, How to Allocate More Ram to Minecraft 3 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-11s-backup-processing-methods/"><u>A Closer Look at Windows 11'S Backup Processing Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-diy-circuit-creation-cytron-maker-uno-rp2040-feedback/"><u>Affordable DIY Circuit Creation: Cytron Maker Uno RP2040 Feedback</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-asrock-z790i-lightning-wi-fi-board-performance-small-form-factor-big-impact/"><u>Breaking Down the ASRock Z790I Lightning Wi-Fi Board Performance: Small Form Factor, Big Impact</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertisseur-video-w6nmp3-une-solution-fiable-et-facile-dutilisation-enligne-gratuite-par-movavi/"><u>Convertisseur Vidéo W6nMP3 : Une Solution Fiable Et Facile D'Utilisation Enligne Gratuite Par Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-the-asus-rog-strix-xg27acs-a-qhd-180hz-display-reviewed-for-speed-and-precision/"><u>Elevate Your Gaming Experience with the Asus ROG Strix XG27ACS - A QHD 180Hz Display Reviewed for Speed and Precision</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fastest-8-capture-tools-unveiled-for-2024/"><u>Fastest 8 Capture Tools Unveiled for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-130-music-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia 130 Music online without jailbreak</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-advanced-hardware-by-toms-technological-reviewers/"><u>The Ultimate Guide to Advanced Hardware by Tom's Technological Reviewers</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-of-the-best-video-animation-apps-for-mobile-devices-2024-edition/"><u>Updated The Best of the Best Video Animation Apps for Mobile Devices (2024 Edition)</u></a></li>
+</ul></div>
 

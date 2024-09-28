@@ -1,7 +1,7 @@
 ---
 title: LG's Elite OLED Flatscreen Now Available at an Unbeatable Price! Exclusive Analysis From ZDNET
-date: 2024-09-18 16:50:55
-updated: 2024-09-20 11:45:13
+date: 2024-09-22T18:35:00.976Z
+updated: 2024-09-28T17:30:22.403Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -110,11 +124,33 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-instagram-time-keeper-learning-to-rewind/"><u>[New] 2024 Approved The Instagram Time Keeper Learning to Rewind</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-guide-to-lut-customization-in-premiere-pro-workflows/"><u>[New] A Comprehensive Guide to LUT Customization in Premiere Pro Workflows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-compreenas-record-your-life-in-hd-via-vlc-media-player/"><u>[Updated] In 2024, Compreenas Record Your Life in HD via VLC Media Player</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-comprehensive-guide-to-disconnecting-discord-servers/"><u>[Updated] In 2024, Comprehensive Guide to Disconnecting Discord Servers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y02t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y02T? Try These Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-spark-10c-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Spark 10C to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862702244-groundbreaking-upgrade-for-the-premier-risc-v-laptop-increased-core-count-supercharged-frequency-at-2-ghz-plus-new-artificial-intelligence-supports/"><u>Groundbreaking Upgrade for the Premier RISC-V Laptop - Increased Core Count, Supercharged Frequency at 2 GHz, Plus New Artificial Intelligence Supports</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-x7-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Find X7 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-guide-to-diagnosing-and-repairing-failed-dhcp-connections/"><u>In Depth Guide to Diagnosing and Repairing Failed DHCP Connections</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862688667-unbeatable-deal-alert-asus-rog-zephyrus-g14-laptop-featuring-rtx-graphics-now-just-1099-at-best-buy/"><u>Unbeatable Deal Alert: Asus ROG Zephyrus G14 Laptop Featuring RTX Graphics Now Just $1099 at Best Buy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-development-power-with-chinas-latest-risc-v-laptop-for-techies-and-engineers-starting-at-just-300/"><u>Unleash Development Power with China's Latest RISC-V Laptop for Techies and Engineers, Starting at Just $300</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-next-level-gaming-on-the-go-with-razer-blade-18-featuring-i9-14900hx-and-rtx-4090-at-a-4799-price-point/"><u>Unleash Next-Level Gaming on the Go With Razer Blade 18 - Featuring I9-14900HX & RTX 4090 at a $4,799 Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-hardware-secrets-at-toms-tech-resource-center/"><u>Unlocking Hardware Secrets at Tom's Tech Resource Center</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-potential-crafting-dynamic-images-with-your-ipad-for-2024/"><u>Unlocking Potential Crafting Dynamic Images with Your iPad for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-insights-by-tom/"><u>Unveiling Cutting-Edge Technology Insights by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-deep-dive-into-hardware-reviews-by-tom/"><u>Unveiling Tech Secrets: A Deep Dive Into Hardware Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-hardware-secrets-at-toms-equipment-corner/"><u>Unveiling Top Hardware Secrets at Tom's Equipment Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-tech-highlights-asus-and-qualcomms-new-models-at-computex-2ebtween-spotted-lacking-graphics-card-announcements/"><u>Upcoming Tech Highlights: Asus and Qualcomm's New Models at Computex 2Ebtween Spotted – Lacking Graphics Card Announcements</u></a></li>
+</ul></div>
+

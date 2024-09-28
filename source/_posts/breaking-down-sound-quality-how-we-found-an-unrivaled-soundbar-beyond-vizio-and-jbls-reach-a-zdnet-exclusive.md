@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Sound Quality: How We Found an Unrivaled Soundbar Beyond Vizio & JBL's Reach - A ZDNet Exclusive"
-date: 2024-09-18 20:20:51
-updated: 2024-09-20 10:23:48
+date: 2024-09-26T17:46:51.538Z
+updated: 2024-09-28T18:34:39.097Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -76,11 +90,27 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv/"><u>[New] 2024 Approved The Ultimate Routine for Accessing and Playing FB Videos via Apple TV</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-thrilling-twists-and-turns-short-track-22/"><u>[New] 2024 Approved Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-top-5-windows-screen-capturing-utilities/"><u>[New] 2024 Approved Unveiling The Top 5 Windows Screen Capturing Utilities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-craft-impeccable-sequences-editor-supreme-for-vimeo/"><u>[New] In 2024, Craft Impeccable Sequences Editor Supreme for Vimeo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-arcade-adventurers-approaches/"><u>2024 Approved ARCADE ADVENTURERS' APPROACHES</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimize-your-mobile-browsing-with-cleaner-video-playback/"><u>2024 Approved Optimize Your Mobile Browsing with Cleaner Video Playback</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-continuous-learning-part-of-chatgpts-functionality-from-conversing-with-people/"><u>Is Continuous Learning Part of ChatGPT's Functionality From Conversing With People?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/master-your-laravel-projects-with-ui-dashboard-pro-premium-edition-from-creative-tim-featuring-intuitive-admin-panel-and-ready-to-implement-crud-functionali7/"><u>Master Your Laravel Projects with UI Dashboard Pro Premium Edition From Creative Tim - Featuring Intuitive Admin Panel and Ready-to-Implement CRUD Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
+</ul></div>
+

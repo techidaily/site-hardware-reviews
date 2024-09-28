@@ -1,7 +1,7 @@
 ---
 title: "Roku Security Alert: Over Half a Million Accounts Exposed! Crucial Steps for Protection Discussed by ZDNet"
-date: 2024-09-17 17:47:24
-updated: 2024-09-20 12:54:37
+date: 2024-09-23T16:11:16.396Z
+updated: 2024-09-28T19:32:43.432Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -76,11 +90,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-enhance-your-shots-top-paid-and-free-iphone-photography-apps/"><u>[New] Enhance Your Shots Top Paid and Free iPhone Photography Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>[New] Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-mastering-youtube-studio-the-ultimate-guide-to-video-edits/"><u>[Updated] 2024 Approved Mastering YouTube Studio The Ultimate Guide to Video Edits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-talk-unveiling-cutting-edge-hardware-with-toms-expertise/"><u>Advanced Tech Talk: Unveiling Cutting-Edge Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-ai-9-hx-370-inside-the-new-asus-zenbook-s16-gaming-and-productivity-performance-evaluated/"><u>AMD Ryzen AI 9 HX 370 Inside the New Asus Zenbook S16 - Gaming and Productivity Performance Evaluated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862722328-beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmark-battles-is-the-samsung-book4-edge-outclassed-by-iphone-12-in-speed-and-efficiency/"><u>Benchmark Battles: Is the Samsung Book4 Edge Outclassed by iPhone 12 in Speed and Efficiency?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-install-and-refresh-your-windows-pcs-bluetooth-dongle-software/"><u>Get the Latest: Install and Refresh Your Windows PC's Bluetooth Dongle Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-behind-the-scenes-of-iscreen-capture/"><u>In 2024, Behind the Scenes of iScreen Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/prowess-rankings-10-best-free-video-calls-with-screen-sharing/"><u>Prowess Rankings 10 Best Free Video Calls with Screen Sharing</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-acer-graphics-via-windows-update/"><u>Refresh Acer Graphics via Windows Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-touchpad-fixing-common-issues-and-restoring-functionality/"><u>Revive Your Touchpad: Fixing Common Issues & Restoring Functionality</u></a></li>
+</ul></div>
+

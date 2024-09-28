@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Deal: Get the 85 TCL Television at an Unbeatable Price of $900 Over Labor Day Weekend - Shop Now!"
-date: 2024-09-19T02:38:00.610Z
-updated: 2024-09-22T07:07:23.920Z
+date: 2024-09-24T17:53:20.693Z
+updated: 2024-09-28T19:18:30.582Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-easy-audio-capturing-on-non-rooted-android-devices/"><u>[New] In 2024, Easy Audio Capturing on Non-Rooted Android Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-deep-dive-into-youtube-app-features-on-smartphones/"><u>[Updated] 2024 Approved A Deep Dive Into YouTube App Features on Smartphones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-10-drone-powerhouses-for-industrial-use/"><u>[Updated] Essential 10 Drone Powerhouses for Industrial Use</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unlocking-free-anime-gifs-in-discord-nitro-inclusive/"><u>[Updated] In 2024, Unlocking Free Anime GIFs in Discord Nitro Inclusive?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-tutorial-embedding-srt-into-mp4-content/"><u>Advanced Tutorial Embedding SRT Into MP4 Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-the-ultimate-asus-rog-azoth-extreme-review-at-half-a-grand/"><u>Affordable Powerhouse: The Ultimate Asus ROG Azoth Extreme Review at Half-a-Grand</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-sub-100-routers-unveiled-a-complete-look-at-the-tp-link-archer-c8n-model/"><u>Best Sub-$100 Routers Unveiled: A Complete Look at the TP-Link Archer C8n Model</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fun-on-a-budget-meme-creators-handbook-for-2024/"><u>Fun on a Budget – Meme Creator’s Handbook for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-nvidias-personalized-ai-generation/"><u>Navigating NVIDIA's Personalized AI Generation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimizing-audio-clarity-in-home-vo-recording-setups-for-2024/"><u>Optimizing Audio Clarity in Home VO Recording Setups for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-oled-gaming-display-a-thorough-review-of-gigabyeet-aorus-fo32u2p-with-exceptional-speed-and-style-for-serious-gamers/"><u>The Ultimate 4K OLED Gaming Display - A Thorough Review of Gigabyeet Aorus FO32U2P with Exceptional Speed & Style for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-exploring-in-depth-computer-hardware-insights/"><u>Tom's Tech Hub: Exploring In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+</ul></div>
 

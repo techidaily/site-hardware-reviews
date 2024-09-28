@@ -1,7 +1,7 @@
 ---
 title: "Experience the Best in TV: Get 1500%% Off Samsung's Premium S95C OLED as Featured on ZDNet"
-date: 2024-09-18T08:31:38.261Z
-updated: 2024-09-21T20:54:18.063Z
+date: 2024-09-24T18:50:30.218Z
+updated: 2024-09-28T18:44:58.009Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>[New] Expert Analysis Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-video-engagement-pinnacle-techniques-in-zoom-editing/"><u>[Updated] In 2024, Enhance Video Engagement Pinnacle Techniques in Zoom Editing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-share-and-smile-discovering-the-best-meme-designs-10/"><u>[Updated] Share & Smile Discovering the Best Meme Designs #10</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-with-tom-into-modern-computing-equipment/"><u>Deep Dive with Tom Into Modern Computing Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-our-comprehensive-review-of-id-coolings-frozn-a620-pro-se/"><u>Elevate Your Gaming Experience with Our Comprehensive Review of ID-Cooling's Frozn A620 PRO SE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-experience-enhanced-with-the-aorus-co49dq-oled-by-gigabyte-an-insight-into-its-amazing-colors-and-contrast-quality/"><u>Gaming Experience Enhanced with the Aorus CO49DQ OLED by Gigabyte - An Insight Into Its Amazing Colors & Contrast Quality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-cut-costs-increase-impact-strategic-fb-posting/"><u>In 2024, Cut Costs, Increase Impact Strategic FB Posting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-manipulating-fonts-in-visual-media/"><u>In 2024, Manipulating Fonts in Visual Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-into-computer-components-from-toms-hardware/"><u>Mastering Technology: Insights Into Computer Components From Tom’s Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/recording-movies-best-practices-with-windows-11-for-2024/"><u>Recording Movies Best Practices with Windows 11 for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-blemishes-to-beauty-a-step-by-step-fcpx-skin-smoothing-guide/"><u>Updated 2024 Approved From Blemishes to Beauty A Step-by-Step FCPX Skin Smoothing Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enjoy a Decade's Worth of AI-Enhanced Features on Your Samsung Television without Additional Cost | ZDNET
-date: 2024-09-19T16:53:23.374Z
-updated: 2024-09-21T16:21:26.935Z
+date: 2024-09-26T19:27:46.720Z
+updated: 2024-09-28T16:50:17.188Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,18 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-master-the-art-of-snapchats-boomerangs/"><u>[Updated] 2024 Approved Master the Art of Snapchat's Boomerangs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>[Updated] 2024 Approved Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-accelerated-speeds-with-crucials-p310-ssd-review-for-m2-2280-cards/"><u>Experience Accelerated Speeds with Crucial's P310 SSD Review for M.2 2280 Cards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-mastery-cutting-edge-pc-discoveries-await/"><u>Exploring Tom's Hardware Mastery - Cutting-Edge PC Discoveries Await!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 14 Plus without Apple ID?</u></a></li>
+<li><a href="https://win11.techidaily.com/identify-and-mend-lost-disk-spaces-in-windows/"><u>Identify and Mend Lost Disk Spaces in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-viewsonic-xg2njoyx272-oled-240hz-monitor-a-perfect-match-for-gamers/"><u>In-Depth Review of the ViewSonic XG2njoyX272 OLED 240Hz Monitor - A Perfect Match for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-downloading-training-content-from-lynda-and-linkedin-learning/"><u>Step-by-Step Guide to Downloading Training Content From Lynda & LinkedIn Learning</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/supercharge-your-channel-growth-harness-the-potential-of-collaborative-videos-for-2024/"><u>Supercharge Your Channel Growth Harness the Potential of Collaborative Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-resolve-iphone-icloud-backup-issues/"><u>Troubleshooting Tips: How To Resolve iPhone iCloud Backup Issues</u></a></li>
+</ul></div>
 

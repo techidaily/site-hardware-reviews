@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Privacy: Learn Ways to Prevent Your Smart TV From Collecting Your Data | ZDNet"
-date: 2024-09-19T23:30:11.947Z
-updated: 2024-09-22T07:09:33.368Z
+date: 2024-09-25T16:00:03.027Z
+updated: 2024-09-28T17:02:35.588Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,22 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-end-your-active-discord-association/"><u>[New] End Your Active Discord Association</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-merge-speeches-and-music-into-slides-sequences/"><u>[New] Merge Speeches and Music Into Slides Sequences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10-free-youtube-subtitle-extractors-and-downloaders/"><u>[New] Top 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-the-process-essential-techniques-and-strategies-for-green-screen-filmmaking/"><u>[Updated] 2024 Approved Mastering the Process Essential Techniques & Strategies for Green Screen Filmmaking</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-the-art-of-screenshot-with-zd-software/"><u>[Updated] Mastering the Art of Screenshot with ZD Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-simultaneously-stream-youtube-channels/"><u>2024 Approved Simultaneously Stream YouTube Channels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-define-easements-and-discuss-their-implications-on-land-use/"><u>Approach: Define Easements and Discuss Their Implications on Land Use.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-routes-to-access-windows-11-display-settings-in-10-steps/"><u>Essential Routes to Access Windows 11 Display Settings in 10 Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-nzxt-h7-flow-chassis-balancing-play-with-protection/"><u>Evaluating the NZXT H7 Flow Chassis: Balancing Play with Protection</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steam-file-synchronization-issues-on-windows/"><u>Solving Steam File Synchronization Issues on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/soundblade-by-blueant-a-striking-blend-of-volume-and-elegance/"><u>Soundblade by BlueAnt: A Striking Blend of Volume & Elegance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surface-pro-review-microsofts-flagship-shines-visually-but-falls-short-in-artificial-intelligence-features-with-copilotplus/"><u>Surface Pro Review: Microsoft's Flagship Shines Visually but Falls Short in Artificial Intelligence Features with Copilot+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis-and-reviews/"><u>Tom's Tech Insights: Expert Hardware Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guides-and-insights/"><u>Tom's Tech Review: In-Depth Guides and Insights</u></a></li>
+</ul></div>
 

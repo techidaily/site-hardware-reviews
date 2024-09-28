@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Your Screen: The Ultimate Guide to May 2Nnd TV Deals From ZDNet"
-date: 2024-09-14T21:40:21.941Z
-updated: 2024-09-22T02:00:02.088Z
+date: 2024-09-24T18:25:55.205Z
+updated: 2024-09-28T18:23:09.283Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,20 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-unraveling-periscopes-mystique-is-it-free-and-how-to-signup-in-2024/"><u>[New] Unraveling Periscope's Mystique Is It Free and How to Signup, In 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/crafting-your-vocal-image-for-instagrams-dynamic-features-for-2024/"><u>Crafting Your Vocal Image for Instagram’s Dynamic Features for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-the-efficacy-of-the-akasa-gecko-with-integrated-fan-system-for-ssd-cooling/"><u>Expert Insights Into the Efficacy of the Akasa Gecko with Integrated Fan System for SSD Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-hardware-hub/"><u>Expert Reviews by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fx36-60-pro-cooler-by-id-cooling-exceptional-performance-at-a-budget-friendly-price-point/"><u>FX36 60 Pro Cooler by ID-Cooling - Exceptional Performance at a Budget-Friendly Price Point</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-pova-5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Pova 5 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s23-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy S23 Ultra to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-smart-8-plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Smart 8 Plus FRP Without Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-digital-landscape-expert-reviews-on-gadgets-and-components/"><u>Navigating Tom's Digital Landscape: Expert Reviews on Gadgets & Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-cost-breakdown-of-netgear-orbi-mesh-wi-fi-system-cheaper-yet-still-premium-priced-in-comparison-to-other-brands/"><u>The Cost Breakdown of Netgear Orbi Mesh Wi-Fi System: Cheaper, Yet Still Premium Priced in Comparison to Other Brands</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/the-ultimate-assessment-of-andaseat-kaiser-3-in-2022-features-performance-and-buyers-guide-on-zdnet/"><u>The Ultimate Assessment of AndaSeat Kaiser 3 in 202^2: Features, Performance & Buyer’s Guide on ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovative-gear-the-toms-tech-showcase/"><u>Unveiling Innovative Gear: The Tom's Tech Showcase</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-no-cost-movie-magic-top-free-online-video-editors/"><u>Updated No-Cost Movie Magic Top Free Online Video Editors</u></a></li>
+</ul></div>
 

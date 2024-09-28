@@ -1,7 +1,7 @@
 ---
 title: Buying a New TV? Compare LG and Samsung Brands for the Perfect Viewing Experience - CNET
-date: 2024-09-19 20:54:15
-updated: 2024-09-20 10:54:13
+date: 2024-09-23T17:16:58.820Z
+updated: 2024-09-28T19:43:36.440Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,19 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +96,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -110,11 +130,33 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-crafting-a-plan-to-locate-breathtaking-photos-in-minutes-on-pexels/"><u>[New] 2024 Approved Crafting a Plan to Locate Breathtaking Photos in Minutes on Pexels</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-rankings-of-youtubes-mp3-downloader-apps/"><u>2024 Approved The Ultimate Rankings of YouTube's MP3 Downloader Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-tips-to-handle-unintended-self-presence-in-video-conversations/"><u>2024 Approved Tips to Handle Unintended Self-Presence in Video Conversations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862705155-acers-game-changer-steal-the-latest-tech-at-1129-rtx-4070-plus-amd-cpu-powered-nitro-16-laptop-unleashed/"><u>Acer's Game-Changer: Steal the Latest Tech at $1,129 - RTX 4070 + AMD CPU Powered Nitro 16 Laptop Unleashed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-elite-gaming-laptops-top-5-options-for-gamers/"><u>Affordable Elite Gaming Laptops - Top 5 Options for Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/combining-chords-and-pictures-in-the-cloud/"><u>Combining Chords & Pictures in the Cloud</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862736363-copilotplus-showcases-cutting-edge-snapdragon-notebooks-join-our-live-testing-event/"><u>Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-quality-with-toms-trusted-reviews-and-expertise/"><u>Decoding Hardware Quality with Tom's Trusted Reviews and Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-plus-upgraded-with-qualcomms-cost-effective-snapdragon-x-chips-offering-doubled-battery-lifespan-compared-to-intel-systems/"><u>Dell XPS 13 Plus Upgraded with Qualcomm’s Cost-Effective Snapdragon X Chips, Offering Doubled Battery Lifespan Compared to Intel Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-insights-on-tech-gear-at-toms-hardware-review/"><u>Discover Insights on Tech Gear at Tom's Hardware Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fb-content-horizontal-or-vertical-format-debate/"><u>FB Content Horizontal or Vertical Format Debate</u></a></li>
+<li><a href="https://fox-http.techidaily.com/how-to-rewind-android-movies-successfully-for-2024/"><u>How to Rewind Android Movies Successfully for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-c67-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme C67 5G Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-banish-zoo-call-audio-glitches-simple-fixes/"><u>In 2024, Banish Zoo Call Audio Glitches Simple Fixes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb/"><u>In 2024, Capture and Share Live to The Max with 4 Pro Tips on FB</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862709693-score-the-new-deal-dell-g16-16-inch-gaming-laptop-at-an-unbeatable-price-of-949/"><u>Score the New Deal: Dell G16 16-Inch Gaming Laptop at an Unbeatable Price of $949</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-and-science-of-professional-printing-from-powerpoint-on-a-windows-computer/"><u>The Art and Science of Professional Printing From PowerPoint on a Windows Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-electronics-tips-and-reviews-by-toms-hardware-professionals/"><u>Unveiling High-Performance Electronics - Tips and Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
+</ul></div>
+

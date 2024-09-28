@@ -1,7 +1,7 @@
 ---
 title: Amazon's Amazing Deal on Fire TV Omnia Series QLED - Save $150 Today with ZDNet's Review!
-date: 2024-09-17T20:48:36.866Z
-updated: 2024-09-22T08:08:28.361Z
+date: 2024-09-23T16:50:12.420Z
+updated: 2024-09-28T18:01:41.693Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-pc-games-screenshots-top-6-methods-for-2024/"><u>[New] Mastering PC Games Screenshots Top 6 Methods for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-amd-gpu-revival-suite/"><u>[Updated] AMD GPU Revival Suite</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-securely-preserve-your-instagram-content-on-iphone/"><u>[Updated] In 2024, Securely Preserve Your Instagram Content on iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4winxvideoai-2/"><u>動画圧縮・MP4変換ガイド：音声取得を含む、WinxVideoAIで上達 - 第2部分解説</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-5-2500u-speedy-and-straightforward-driver-upgrade-techniques/"><u>AMD Ryzen 5 2500U: Speedy & Straightforward Driver Upgrade Techniques</u></a></li>
+<li><a href="https://solve-news.techidaily.com/cookiebot-enhanced-enhance-your-sites-performance-and-engagement/"><u>Cookiebot-Enhanced: Enhance Your Site's Performance and Engagement</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-v29e-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo V29e in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-lexars-high-speed-storage-exploring-the-sl500-and-sl600-with-over-20gbps-speeds/"><u>In-Depth Evaluation of Lexar's High-Speed Storage: Exploring the SL500 and SL600 with Over 20Gbps Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-expertise-from-toms-hardware/"><u>Master Your Gadgets with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-at-toms-electronics-emporium/"><u>Mastering Modern Devices at Tom’s Electronics Emporium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-insights/"><u>Navigating the Latest in Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-keyboard-deletion-problems-on-windows-pcs/"><u>Reversing Keyboard Deletion Problems on Windows PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/saturn-4-ultra-by-elegoo-a-revolutionary-leap-in-advanced-resin-3d-printers/"><u>Saturn 4 Ultra by Elegoo - A Revolutionary Leap in Advanced Resin 3D Printers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-nvidia-g-sync-hdrray-tracing-overlay-malfunctioning/"><u>Solutions for Nvidia G-Sync HDR/Ray-Tracing Overlay Malfunctioning</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-alluring-aesthetics-of-the-valkyrie-vind-sl12e-unimpressive-results-despite-attractive-anime-appearance/"><u>The Alluring Aesthetics of the Valkyrie Vind SL12e: Unimpressive Results Despite Attractive Anime Appearance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-dive-into-the-world-of-hardware/"><u>Tom's Tech Insights: Dive Into the World of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-hardware-expertise/"><u>Unveiling Tech Secrets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-kept-secret-in-depth-reviews-of-the-gaming-marvel-pixio-px277-oled-max/"><u>Unveiling the Best Kept Secret: In-Depth Reviews of the Gaming Marvel, Pixio PX277 OLED MAX</u></a></li>
+</ul></div>
 

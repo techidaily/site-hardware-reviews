@@ -1,7 +1,7 @@
 ---
 title: Experience Exceptional Savings on High-Quality Samsung TVs This Labor Day - Up To 43%% Discount! | Tech Innovations
-date: 2024-09-20T04:55:08.495Z
-updated: 2024-09-22T05:54:55.009Z
+date: 2024-09-27T18:19:33.052Z
+updated: 2024-09-28T18:54:47.110Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,19 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +137,21 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlocking-automatic-video-playback-in-facebook/"><u>[New] 2024 Approved Unlocking Automatic Video Playback in Facebook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-meme-masterpiece-wave/"><u>[New] In 2024, Meme Masterpiece Wave</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-revolutionary-6-applications-to-enhance-photo-editing-experience/"><u>[New] In 2024, Revolutionary 6 Applications to Enhance Photo Editing Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-clear-sound-from-partially-silenced-fb-content/"><u>2024 Approved Mastering Clear Sound From Partially Silenced Fb Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/accelerating-your-workflow-with-lexar-ssds-the-sl500-and-professional-sl600-breakdown-for-speeds-beyond-20gbps/"><u>Accelerating Your Workflow with Lexar SSDs: The SL500 & Professional SL600 Breakdown for Speeds Beyond 20Gbps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/air-and-pro-on-m1-compare-contrast-and-choose-wisely/"><u>Air & Pro on M1 Compare, Contrast, and Choose Wisely</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-impact-the-role-of-akasas-blower-type-gecko-in-maintaining-optimal-ssd-temperatures/"><u>Analyzing the Impact: The Role of Akasa's Blower-Type Gecko in Maintaining Optimal SSD Temperatures</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-xlsx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .xlsx files</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-rog-azoth-extreme-at-500-value/"><u>In-Depth Analysis of the Asus ROG Azoth Extreme at $500 Value</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-pc-hardware-by-experts-at-toms-hq/"><u>Insights Into PC Hardware by Experts at Tom's HQ</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kingstons-fury-beast-ddr5-ram-5000mhz-cas-latency-40-in-depth-2x32gb-memory-module-evaluation/"><u>Kingston's Fury Beast DDR5 RAM (5,000MHz CAS Latency 40) - In-Depth 2X32GB Memory Module Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-space-and-speed-detailed-insights-into-the-asus-rog-nuc-970-compact-desktop-system/"><u>Mastering Space and Speed: Detailed Insights Into the Asus ROG NUC 970 Compact Desktop System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smooth-shifts-audio-transition-wisdom-from-sonar-by-platinum/"><u>Smooth Shifts Audio Transition Wisdom From Sonar by Platinum</u></a></li>
+</ul></div>
 

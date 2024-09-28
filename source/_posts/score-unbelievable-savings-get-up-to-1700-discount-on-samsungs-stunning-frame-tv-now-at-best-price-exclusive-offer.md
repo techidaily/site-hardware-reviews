@@ -1,7 +1,7 @@
 ---
 title: "Score Unbelievable Savings: Get Up To $1,700 Discount on Samsung’s Stunning Frame TV - Now at Best Price! [Exclusive Offer]"
-date: 2024-09-15T03:32:31.707Z
-updated: 2024-09-22T09:21:12.830Z
+date: 2024-09-23T18:20:20.291Z
+updated: 2024-09-28T16:52:44.283Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-funds-flowchart-from-sung-rhythms-to-visual-harmony/"><u>[New] Funds Flowchart From Sung Rhythms To Visual Harmony</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-the-art-of-locating-fb-lately-seen-videos/"><u>[Updated] Mastering the Art of Locating Fb Lately Seen Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-selecting-the-perfect-no-fee-video-communication-tools/"><u>[Updated] Selecting the Perfect No-Fee Video Communication Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-boosting-visual-clarity-comprehensive-strategies-for-zooming-photos-and-videos/"><u>2024 Approved Boosting Visual Clarity Comprehensive Strategies for Zooming Photos & Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-detailed-gadget-analyses-the-toms-hardware-experience/"><u>Delving Into Detailed Gadget Analyses: The Tom's Hardware Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-fixing-windows-system-driver-energy-problems/"><u>Expert Advice on Fixing Windows System Driver Energy Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-the-blueant-soundblades-remarkable-loudness-and-aesthetics/"><u>Expert Review: The BlueAnt Soundblade's Remarkable Loudness & Aesthetics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-potentials-of-rode-streamer-x-can-it-turn-your-dream-into-reality/"><u>Exploring The Potentials of Rode Streamer X – Can It Turn Your Dream Into Reality?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-11x-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme 11X 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-s18e-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo S18e Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-teamgroup-t-force-dark-airflow-i-ultimate-nvme-ssd-cooling-solution/"><u>In-Depth Analysis of the TeamGroup T-Force Dark AirFlow I: Ultimate NVMe SSD Cooling Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-motherboards-and-more-a-trip-through-toms-electronic-explorations/"><u>Mastering Motherboards and More: A Trip Through Tom’s Electronic Explorations</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New 2024 Approved A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nuphys-halo75-v2-unveiled-a-comprehensive-review-of-a-cost-effective-enthusiast-mechanical-board/"><u>Nuphy's Halo75 V2 Unveiled: A Comprehensive Review of a Cost-Effective Enthusiast Mechanical Board</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-gamers-perspective-crucial-pro-ddr5-6000-memory-kit-review-a-step-by-step-overclocking-journey/"><u>The Gamer’s Perspective: Crucial Pro DDR5 6000 Memory Kit Review – A Step-by-Step Overclocking Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-expert-guides-on-computer-hardware/"><u>Tom's Tech Advice: Expert Guides on Computer Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-the-notorious-livekernelevent-117-error/"><u>Ultimate Troubleshooting Tips for the Notorious LiveKernelEvent 117 Error</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-look-into-toms-hardware-insights/"><u>Unlocking Performance: A Look Into Tom’s Hardware Insights</u></a></li>
+</ul></div>
 

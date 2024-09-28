@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Viewing Experience: Sony A80L OLED TV Offers Stunning AI Upscaled Visuals for Less Than $2K - Explore Now on ZDNet"
-date: 2024-09-18 13:36:15
-updated: 2024-09-20 10:55:26
+date: 2024-09-21T16:59:58.877Z
+updated: 2024-09-28T18:34:06.447Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -76,11 +90,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-emotive-expression-through-pictures-and-music-fusion/"><u>[Updated] 2024 Approved Emotive Expression Through Pictures & Music Fusion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/audio-addition-for-snapchat-videos-for-2024/"><u>Audio Addition for Snapchat Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-cannot-log-into-account-errors-on-windows-10-solutions-explored/"><u>Fixing 'Cannot Log Into Account' Errors on Windows 10 - Solutions Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/instant-aspect-ratio-tuning-for-youtube-on-mac-for-2024/"><u>Instant Aspect Ratio Tuning for Youtube on Mac for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-advanced-pc-components-with-insights-from-tomhardware-zone/"><u>Navigate the World of Advanced PC Components with Insights From TomHardware Zone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computing-guided-by-tom-hardware-experts/"><u>Navigate the World of Computing - Guided by Tom Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-comprehensive-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Comprehensive Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts-t17238628794346/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pixelprobe-criticism-engine/"><u>PixelProbe Criticism Engine</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/precision-cutting-for-impressive-youtube-videos/"><u>Precision Cutting for Impressive YouTube Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reimagining-portable-power-lenovos-thinkpad-p1-gen-7-sets-new-industry-standards-by-integrating-high-performance-low-power-consuming-lpcamm2-memory/"><u>Reimagining Portable Power: Lenovo’s ThinkPad P1 Gen 7 Sets New Industry Standards by Integrating High-Performance, Low-Power Consuming LPCAMM2 Memory</u></a></li>
+</ul></div>
+

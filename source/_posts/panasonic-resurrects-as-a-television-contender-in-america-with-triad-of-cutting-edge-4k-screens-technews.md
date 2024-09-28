@@ -1,7 +1,7 @@
 ---
 title: Panasonic Resurrects as a Television Contender in America with Triad of Cutting-Edge 4K Screens | TechNews
-date: 2024-09-18 18:35:37
-updated: 2024-09-20 12:40:34
+date: 2024-09-22T17:07:56.917Z
+updated: 2024-09-28T17:33:21.164Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -76,11 +90,25 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fastest-time-lapse-capturing-system-5/"><u>[New] 2024 Approved Fastest Time-Lapse Capturing System #5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-clarity-at-no-cost-top-screen-recorder-for-windows-and-macos-for-2024/"><u>[Updated] Capture Clarity at No Cost - Top Screen Recorder for Windows & MacOS for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-hashtags-in-harmony-twitter-and-tiktoks-10-viral-vids/"><u>[Updated] Hashtags in Harmony Twitter and TikTok's 10 Viral Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-bringing-people-together-in-real-time-using-whatsapp-desktop-for-laptops/"><u>[Updated] In 2024, Bringing People Together in Real Time Using WhatsApp Desktop for Laptops</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-m34-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy M34 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 13 Pro?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leading-ultrabooks-and-luxury-laptop-picks-for-the-modern-tech-enthusiast/"><u>Leading Ultrabooks and Luxury Laptop Picks for the Modern Tech Enthusiast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-your-guide-to-top-hardware-picks/"><u>Mastering Gadgets with Tom - Your Guide to Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-toms-guide-to-choosing-and-reviewing-essential-tech-tools/"><u>Mastering Gadgets: Tom's Guide to Choosing and Reviewing Essential Tech Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-in-depth-analysis-from-toms-hardware-experts/"><u>Mastering Tech: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/twitch-outage-checking-server-status-or-personal-connection/"><u>Twitch Outage: Checking Server Status or Personal Connection?</u></a></li>
+</ul></div>
+

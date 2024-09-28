@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Audio Excellence: My In-Depth Test of a Superior Soundbar That's Neither From Vizio nor JBL | ZDNet"
-date: 2024-09-15T19:32:41.460Z
-updated: 2024-09-21T17:32:05.995Z
+date: 2024-09-24T16:02:39.231Z
+updated: 2024-09-28T19:17:41.361Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +103,26 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-linkedin-profile-video-introduction-scope-dimensions-minutes/"><u>[New] 2024 Approved LinkedIn Profile Video Introduction Scope, Dimensions, Minutes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-moments-perfecting-zooms-snap/"><u>[Updated] Capturing Moments Perfecting Zoom's Snap</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-windows-11-webcams-for-excellent-recordings/"><u>2024 Approved Essential Windows 11 Webcams for Excellent Recordings</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-insiders-look-at-creating-viral-fb-cover-videos/"><u>2024 Approved The Insider's Look at Creating Viral FB Cover Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-game-changer-in-connectivity-unveiling-the-might-of-asus-rt-be96u-7ghz-wifi-router/"><u>A Game Changer in Connectivity - Unveiling the Might of Asus RT-BE96U 7GHz WiFi Router</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-professional-colors-with-central-luts/"><u>Achieving Professional Colors with Central Luts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/avoid-snappy-disappointments-streaking-wisdom-for-2024/"><u>Avoid Snappy Disappointments Streaking Wisdom for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hostingers-web-hosting-offerings-from-vps-to-shared-services/"><u>Exploring Hostinger’s Web Hosting Offerings: From VPS to Shared Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-sovol-sv0s-performance-a-modern-tribute-to-voron/"><u>Exploring Sovol SV0ˈs Performance: A Modern Tribute to Voron</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-100-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 100 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-steps-to-youtube-to-mpeg-conversion/"><u>In 2024, Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/join-the-conversation-your-complete-guide-to-engaging-in-a-twitter-chat/"><u>Join the Conversation: Your Complete Guide to Engaging in a Twitter Chat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-pc-gear-tips-from-tom/"><u>The Ultimate Resource for PC Gear - Tips From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-guide-unlocking-the-potential-of-your-electronics/"><u>Tom's Gadget Guide: Unlocking the Potential of Your Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-tech-secrets-with-toms-equipment-insights/"><u>Uncovering Tech Secrets with Tom's Equipment Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-a05s-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy A05s</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-asus-rog-swift-oled-pg32ucdp-reviewed-for-unmatched-gaming-clarity/"><u>Unlocking the Potential: Asus ROG Swift OLED PG32UCDP Reviewed for Unmatched Gaming Clarity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-an-inside-look-by-toms-hardware-experts/"><u>Unveiling Tech Secrets: An Inside Look by Tom's Hardware Experts</u></a></li>
+</ul></div>
 

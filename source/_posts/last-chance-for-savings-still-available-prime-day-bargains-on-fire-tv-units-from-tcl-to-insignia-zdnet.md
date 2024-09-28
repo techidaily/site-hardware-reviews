@@ -1,7 +1,7 @@
 ---
 title: "Last Chance for Savings: Still Available Prime Day Bargains on Fire TV Units From TCL to Insignia | ZDNET"
-date: 2024-09-18 18:59:22
-updated: 2024-09-20 10:16:43
+date: 2024-09-24T19:17:05.222Z
+updated: 2024-09-28T17:24:51.193Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -76,11 +96,33 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-advanced-screen-transcriber-for-chromeos-for-2024/"><u>[New] Advanced Screen Transcriber for ChromeOS for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-fast-track-to-flawless-podcast-live/"><u>[New] In 2024, Fast Track to Flawless Podcast Live</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb-for-2024/"><u>[New] The Ultimate Guide to Hash Tagging for Brand Success on FB for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-free-video-embedding-techniques-for-online-articles/"><u>[Updated] 2024 Approved Free Video Embedding Techniques for Online Articles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-build-your-dreamy-oriental-villas-in-minecraft/"><u>[Updated] In 2024, Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-ultimate-twitch-collection-perfectly-preserve-your-tweets/"><u>[Updated] In 2024, Ultimate Twitch Collection - Perfectly Preserve Your Tweets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimized-zoom-audio-settings-for-exceptional-listening-for-2024/"><u>[Updated] Optimized Zoom Audio Settings for Exceptional Listening for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>2024 Approved Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/defining-a-cognitive-computing-system-necessity-for-your-tech-arsenal/"><u>Defining a Cognitive Computing System: Necessity for Your Tech Arsenal?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-future-of-computers-through-toms-hardware-experts/"><u>Discovering the Future of Computers Through Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enter-the-arena-dominate-your-favorite-games-on-a-budget-with-the-899-legion-slim-5-by-lenovo-featuring-an-rtx-4060-gpu/"><u>Enter the Arena! Dominate Your Favorite Games on a Budget With The $899 Legion Slim 5 by Lenovo, Featuring an RTX 4060 GPU.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-hub/"><u>Expert Advice on Computer Components From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-gear-by-toms-electronics-hub/"><u>Expert Analysis on PC Gear by Tom's Electronics Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-your-apple-watch-why-it-might-not-be-recording-steps-correctly-and-what-to-do-about-it/"><u>Fixing Your Apple Watch: Why It Might Not Be Recording Steps Correctly and What to Do About It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-asus-rog-strix-g16-2-now-a-steal-at-1164-on-amazon/"><u>Get Your Hands-On the Latest ASUS ROG Strix G16 2# - Now a Steal at $1,164 on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-a-journey-through-toms-computing-world/"><u>Mastering Hardware Knowledge - A Journey Through Tom's Computing World</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reactivation-process-complete/"><u>Reactivation Process Complete</u></a></li>
+</ul></div>
+

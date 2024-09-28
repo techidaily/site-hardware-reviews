@@ -1,7 +1,7 @@
 ---
 title: How to Use AirPlay Technology to Display Media on Your TV Screen
-date: 2024-09-16T06:23:12.479Z
-updated: 2024-09-21T17:57:25.404Z
+date: 2024-09-24T17:35:17.620Z
+updated: 2024-09-28T17:09:57.417Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -76,12 +90,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-easy-guide-to-boost-your-videos-speed-in-snapchat/"><u>[New] Easy Guide to Boost Your Videos Speed in Snapchat</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-spark-10c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Spark 10C via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/download-edit-and-share-the-complete-online-video-editing-course-for-2024/"><u>Download, Edit, and Share The Complete Online Video Editing Course for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-endorsed-8-tripods-for-flawless-4k-footage-for-2024/"><u>Expert-Endorsed 8 Tripods for Flawless 4K Footage for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/frozn-a620-pro-se-by-id-cooling-an-unmatched-investment-in-cooling-technology/"><u>Frozn A620 Pro SE by ID-Cooling - An Unmatched Investment in Cooling Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-why-the-logitech-g-pro-x-2-lightspeed-is-essential-for-hardcore-gamers/"><u>In-Depth Review: Why the Logitech G Pro X 2 Lightspeed Is Essential for Hardcore Gamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-srt-download-from-youtube-with-3-tactics-for-2024/"><u>Navigating SRT Download From YouTube with 3 Tactics for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-a-deep-dive-into-the-strengths-and-weaknesses-of-the-cooler-master-ion-amoled-liquid-cpu-cooler-moving-forward-with-caution/"><u>Taking a Deep Dive Into the Strengths and Weaknesses of the Cooler Master ION Amoled Liquid CPU Cooler: Moving Forward with Caution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Top Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-a-look-at-toms-hardware-findings/"><u>Unveiling the Latest in Electronics - A Look at Tom's Hardware Findings</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-final-cut-pro-essentials-reversing-video-clips-in-minutes/"><u>Updated 2024 Approved Final Cut Pro Essentials Reversing Video Clips in Minutes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-bokeh-mastery-the-best-mobile-apps-for-creative-blur/"><u>Updated In 2024, Bokeh Mastery The Best Mobile Apps for Creative Blur</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-victory-joystick-vs-console-command/"><u>Virtual Victory: Joystick Vs. Console Command</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/water-conservation/"><u>Water Conservation</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Scorching Deal Alert: Claim Your Complimentary Samsung Television with Galaxy Book Laptop Advance Order - Exclusive Offer on ZDNet"
-date: 2024-09-19 10:17:12
-updated: 2024-09-20 12:37:44
+date: 2024-09-23T18:43:26.155Z
+updated: 2024-09-28T18:11:44.010Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Jason Hiner/ZDNET
 ### What's the deal?
 
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
 
@@ -59,6 +66,13 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
@@ -69,11 +83,28 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>[New] 2024 Approved Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-breakdown-easy-to-follow-steps-to-using-a-whiteboard-on-zoom-devices-for-2024/"><u>[New] Breakdown Easy-to-Follow Steps to Using a Whiteboard on Zoom Devices for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-introduction-to-moving-graphics-core-principles-for-2024/"><u>[New] Introduction to Moving Graphics Core Principles for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comprehensive-compilation-of-world-class-e-learning-sites-minus-udemy/"><u>2024 Approved Comprehensive Compilation of World-Class E-Learning Sites (Minus Udemy)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-four-streaming-ways-to-showcase-fb-live-events-on-tv/"><u>2024 Approved Four Streaming Ways to Showcase FB Live Events on TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-buys-ryzen-ai-300-laptops-delayed-to-july-28th-explore-updated-availability-online/"><u>Best Buy's Ryzen AI 300 Laptops Delayed to July 28Th – Explore Updated Availability Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-with-toms-digital-world-your-guide-to-gadgets-and-components/"><u>Delving Into Hardware with Tom's Digital World: Your Guide to Gadgets and Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/digital-insights-with-toms-hardware-guides/"><u>Digital Insights with Tom's Hardware Guides</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-and-translate-youtube-videos-for-free-for-2024/"><u>Download and Translate YouTube Videos for Free for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-leap-in-computing-global-premiere-risc-v-laptop-receives-unprecedented-core-and-speed-enhancements-including-state-of-the-art-ai-features/"><u>Groundbreaking Leap in Computing: Global Premiere RISC-V Laptop Receives Unprecedented Core and Speed Enhancements, Including State-of-the-Art AI Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-omnibook-ultra-14-the-future-of-laptop-innovation-with-integrated-amd-ryzen-ai-300-chipset-and-top-notch-thunderbolt-4-speed/"><u>HP's OmniBook Ultra 14: The Future of Laptop Innovation with Integrated AMD Ryzen AI 300 Chipset & Top-Notch Thunderbolt 4 Speed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y100a-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y100A Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-13-mini-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 13 mini has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-treacherous-waters-of-fraudgpt-interaction/"><u>Navigating the Treacherous Waters of FraudGPT Interaction</u></a></li>
+</ul></div>
+

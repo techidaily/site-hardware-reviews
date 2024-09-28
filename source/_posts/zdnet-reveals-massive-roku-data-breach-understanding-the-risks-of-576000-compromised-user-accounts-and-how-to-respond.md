@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals Massive Roku Data Breach - Understanding the Risks of 576,000 Compromised User Accounts and How to Respond
-date: 2024-09-18 14:10:26
-updated: 2024-09-20 12:38:24
+date: 2024-09-22T17:33:46.654Z
+updated: 2024-09-28T18:34:40.776Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -110,11 +124,29 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-fix-the-green-screen-on-youtube-on-mac/"><u>[New] 2024 Approved How to Fix the Green Screen on YouTube on Mac?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-larger-than-life-instagram-videos-tips-to-break-the-barrier-for-2024/"><u>[Updated] Larger-than-Life Instagram Videos Tips to Break the Barrier for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-a-guide-by-toms-hardware-experts/"><u>Exploring the Latest in Tech: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gadget-gurus-review-roundup-comparing-top-tier-electronic-enhancements/"><u>Gadget Gurus' Review Roundup: Comparing Top-Tier Electronic Enhancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-ultimate-gameplay-experience-with-a-34-inch-asus-tuf-monitor-for-only-250-at-amazon/"><u>Get the Ultimate Gameplay Experience with a 34-Inch Asus TUF Monitor for Only $250 at Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/grab-your-bargain-a-thor-darth-vader-motif-monitor-is-just-1e6-more-than-expected-retailer-selling-24-inch-ips-display-at-low-price/"><u>Grab Your Bargain: A 'Thor Darth Vader' Motif Monitor Is Just $1E6 More Than Expected - Retailer Selling 24-Inch IPS Display at Low Price</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-block-people-or-dates-in-facebooks-on-this-day-memories/"><u>How to Block People or Dates in Facebook's On This Day Memories</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ion-audio-tailgater-plus-review-enjoy-hours-of-uninterrupted-bass-boosted-audio-at-the-push-of-a-button/"><u>ION Audio Tailgater Plus Review: Enjoy Hours of Uninterrupted, Bass-Boosted Audio at the Push of a Button</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-systems-with-toms-tech-wisdom/"><u>Mastering Gadgets and Systems with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-top-picks-of-toms-hardware/"><u>Mastering Technology: The Top Picks of Tom's Hardware</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-unresponsive-widgets-on-iphones-and-ipads-with-these-quick-fixes/"><u>Revive Unresponsive Widgets on iPhones & iPads with These Quick Fixes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
+</ul></div>
+

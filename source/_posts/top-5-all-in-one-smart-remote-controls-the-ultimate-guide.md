@@ -1,7 +1,7 @@
 ---
 title: "Top 5 All-in-One Smart Remote Controls: The Ultimate Guide"
-date: 2024-09-18T21:29:48.136Z
-updated: 2024-09-22T07:40:45.357Z
+date: 2024-09-27T16:22:43.295Z
+updated: 2024-09-28T16:48:29.120Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,18 +97,17 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-navigating-through-mixed-reality-an-overview/"><u>[New] Navigating Through Mixed Reality An Overview</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-making-the-most-out-of-your-films-b-roll-for-2024/"><u>[Updated] Making the Most Out of Your Film's B-Roll for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cant-access-chatgpt-on-iphone-here-are-9-effective-fixes/"><u>Can't Access ChatGPT on iPhone? Here Are 9 Effective Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-repair-restoring-your-hp-monitor-functionality-step-by-step-fixes/"><u>DIY Repair: Restoring Your HP Monitor Functionality - Step-by-Step Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-se-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone SE Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-machine-key-takeaways-from-toms-hardware-explorations/"><u>Mastering the Machine: Key Takeaways From Tom's Hardware Explorations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-computing-with-toms-hardware-analysis/"><u>Navigating the Future of Computing with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-integration-8-tailored-ai-solutions-here/"><u>Seamless Integration: 8 Tailored AI Solutions Here</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil22/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-eco-ddr5-revolution-the-vulcan-memory-kit-ddr5-6000-c30-2x16gb-reviewed/"><u>TeamGroup's Eco-DDR5 Revolution: The Vulcan Memory Kit - DDR5-6000 C30, 2X16GB Reviewed</u></a></li>
+</ul></div>
 

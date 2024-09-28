@@ -1,7 +1,7 @@
 ---
 title: "Durga Prasad Misra: C. 890 CE, During Reign of Kalyana Chalukya King Krishna III or Late Rashtrakuta Period (C. 973–991) Under Amoghavarsha II"
-date: 2024-09-14T23:12:40.643Z
-updated: 2024-09-22T04:54:42.804Z
+date: 2024-09-25T18:49:42.593Z
+updated: 2024-09-28T18:48:56.579Z
 tags:
   - tvs
 categories:
@@ -20,6 +20,13 @@ Kerry Wan/ZDNET
 Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1) discounted by $200, bringing it down to $1,499.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
 
@@ -83,6 +90,13 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you're in the market for a projector, whether it's for your living room, backyard, or bedroom like me, I wouldn't think twice about [Xgimi's Horizon Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FXGIMI-HORIZON-Projector-Android-Optical%2Fdp%2FB0CB36K662%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fb339e8-ae45-4f2c-86ba-2399fa17e04a%7Cdtp&dtb=1). It's that good, even if it's only available in one configuration: Misty Gold for $1,699 (or $1,499 at the time of writing).
@@ -117,12 +131,17 @@ Should you buy one if you're looking for a portable projector that doesn't have 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/reakdown-of-youtubes-money-making-mechanisms-cpm-for-2024/"><u>[New] Breakdown of YouTube’s Money-Making Mechanisms (CPM) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>[New] Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-zooid-creation-samples/"><u>[Updated] Essential Zooid Creation Samples</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-creators-revolutionizing-virtual-environments-for-2024/"><u>[Updated] Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computer-systems-decoded-the-toms-hardware-expose/"><u>Advanced Computer Systems Decoded: The Tom's Hardware Exposé</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-trusted-guide/"><u>Expert Analysis of Hardware by Tom - Your Trusted Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-reviews/"><u>Exploring Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-video-success-a-list-of-20-pro-shortcuts-for-2024/"><u>Mastering Video Success A List of 20 Pro Shortcuts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/turing-engaging-online-vignettes-for-2024/"><u>Structuring Engaging Online Vignettes for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-evolution-of-elegance-and-power-exploring-the-dell-xps-13-9345-equipped-with-snapdragon-x-elite-processor/"><u>The Evolution of Elegance and Power - Exploring the Dell XPS 13 (9345) Equipped with Snapdragon X Elite Processor</u></a></li>
+</ul></div>
 

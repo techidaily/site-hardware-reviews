@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal Alert: Top-Ranked Samsung TV at a Stunning 43%% Discount This Labor Day - Insider Review on ZDNet"
-date: 2024-09-17T02:18:03.590Z
-updated: 2024-09-21T16:23:02.785Z
+date: 2024-09-26T16:16:16.721Z
+updated: 2024-09-28T17:34:30.375Z
 tags:
   - tvs
 categories:
@@ -31,6 +31,13 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Z85A
 
 [Available in a 55" size for $1,599.99](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPanasonic-65-inch-Amazon-Adaptive-Refresh%2Fdp%2FB0D8S669CY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb178a04b-30b1-4bc6-91be-439dc52e2c9b%7Cdtp&dtb=1) and a 65" size for $1,799.99, the Z85A is the base model of Panasonic's lineup. It's an OLED that runs on the HCX Pro AI Processor, but it doesn't have the micro-lens-array for better brightness. 
@@ -46,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## W95A
 
@@ -83,12 +97,17 @@ The new offerings are available for preorder from retail locations including [Am
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-visuals-the-science-of-youtube-banners-and-thumbnails/"><u>[Updated] 2024 Approved Crafting Visuals The Science of YouTube Banners & Thumbnails</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-perfect-blend-combining-6-effective-video-genres/"><u>[Updated] The Perfect Blend Combining 6 Effective Video Genres</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/st-see-vr-videos-on-youtube-for-deep-immersion-for-2024/"><u>10 Must-See VR Videos on YouTube for Deep Immersion for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beyond-words-the-universal-language-of-love/"><u>Beyond Words: The Universal Language of Love</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-logitech-g515-lightspeed-tkl-budget-friendly-and-sleek-design/"><u>In-Depth Analysis of the Logitech G515 Lightspeed TKL - Budget-Friendly and Sleek Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-expertise/"><u>Navigating the World of Technology with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p310-ssd-in-depth-analysis-enhanced-velocity-with-m2-2280/"><u>P310 SSD In-Depth Analysis: Enhanced Velocity with M.2 2280</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ess-google-meet-integration-for-youtube-enthusiasts-for-2024/"><u>Seamless Google Meet Integration for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-cutting-edge-hardware-by-toms-tech-hub/"><u>The Essential Guide to Cutting-Edge Hardware by Tom's Tech Hub</u></a></li>
+</ul></div>
 
