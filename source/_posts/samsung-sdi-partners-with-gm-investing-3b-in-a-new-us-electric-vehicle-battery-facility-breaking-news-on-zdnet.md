@@ -1,7 +1,7 @@
 ---
 title: "Samsung SDI Partners with GM: Investing $3B in a New U.S. Electric Vehicle Battery Facility – Breaking News on ZDNet"
-date: 2024-09-17 10:49:30
-updated: 2024-09-20 12:51:52
+date: 2024-09-29T18:37:51.389Z
+updated: 2024-10-04T00:43:46.937Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-concealment-secrets-in-photoshop-master-class/"><u>[New] Concealment Secrets in Photoshop Master Class</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-blades-new-vision-in-ultra-high-definition-clarity-for-2024/"><u>[Updated] Blade's New Vision in Ultra-High Definition Clarity for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-gopro-vs-yi-4k-evaluating-2023s-best-for-high-speed-cameras/"><u>[Updated] GoPro Vs. Yi 4K Evaluating 2023'S Best for High-Speed Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-shooting-essential-gimbals-and-handhelds-reviewed/"><u>[Updated] Streamlined Shooting Essential Gimbals and Handhelds Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-picart-skills-erasing-unwanted-image-backdrops/"><u>2024 Approved PicArt Skills Erasing Unwanted Image Backdrops</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion17/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-everything-about-the-new-samsung-galaxy-z-fold-6-release-date-price-range-and-spec-details/"><u>Discover Everything About the New Samsung Galaxy Z Fold 6: Release Date, Price Range, and Spec Details</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-tips-for-resolving-instagram-video-not-uploadable-a-step-by-step-guide/"><u>Expert Tips for Resolving 'Instagram Video Not Uploadable': A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-pc-innovations-with-expertise-from-toms-hardware/"><u>Navigate the World of PC Innovations with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/secrets-to-safeguarding-your-chatgpt-talks-no-need-to-delete/"><u>Secrets to Safeguarding Your ChatGPT Talks: No Need to Delete!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/sharing-your-amazon-kindle-library-a-guide-on-lending-e-books-among-relatives-and-pals/"><u>Sharing Your Amazon Kindle Library: A Guide on Lending E-Books Among Relatives & Pals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-high-performance-components-at-toms-computer-corner/"><u>Unlock the Secrets of High-Performance Components at Tom's Computer Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-expert-advice-from-tom-on-top-hardware-picks/"><u>Unlocking Tech Secrets: Expert Advice From Tom on Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-crucial-p310-ssd-boosting-performance-on-m2-2230-devices/"><u>Unveiling the Power of the Crucial P310 SSD: Boosting Performance on M.2 2230 Devices</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

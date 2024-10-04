@@ -1,7 +1,7 @@
 ---
 title: "United Airlines Struggles with 'Sexy Branding': Employee Discontent Revealed"
-date: 2024-09-17 18:46:24
-updated: 2024-09-20 10:27:49
+date: 2024-09-29T18:19:45.366Z
+updated: 2024-10-03T23:29:15.006Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-digital-dollars-earn-from-youtubers-in-8-ways/"><u>[New] Digital Dollars Earn From YouTubers in 8 Ways</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-techniques-for-screen-capturing-on-various-os-and-gadgets-for-2024/"><u>[New] Essential Techniques for Screen Capturing on Various OS & Gadgets for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-multiplecam-advanced-live-streaming-solutions-and-online-webcams/"><u>1. MultipleCam: Advanced Live Streaming Solutions and Online Webcams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-overview-of-cloud-gaming-on-xbox-game-pass-ultimate/"><u>Comprehensive Overview of Cloud Gaming on Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-demystifying-facebooks-blue-image-symbol/"><u>In 2024, Demystifying Facebook's Blue Image Symbol</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-virtual-worlds-androidios-vr-titles/"><u>In 2024, Explore Virtual Worlds Android/iOS VR Titles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/optimal-strategies-for-livestream-sports-recording-for-2024/"><u>Optimal Strategies for Livestream Sports Recording for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/spectacular-stop-motion-animations-15-list/"><u>Spectacular Stop-Motion Animations #15 List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-perfect-blend-of-form-and-function-in-a-thin-motherboard-asrocks-x600tm-itx-mini-itx-option/"><u>The Perfect Blend of Form and Function in a Thin Motherboard: ASRock's X600TM-ITX Mini-ITX Option</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis-t17238628805656/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-gadget-rundown-for-savvy-consumers/"><u>The Ultimate Tom's Gadget Rundown for Savvy Consumers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-review-expert-insights-and-in-depth-analysis/"><u>Tom's Computing Review: Expert Insights and In-Depth Analysis</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

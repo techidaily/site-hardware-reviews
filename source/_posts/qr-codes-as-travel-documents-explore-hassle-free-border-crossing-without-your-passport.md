@@ -1,7 +1,7 @@
 ---
 title: QR Codes as Travel Documents? Explore Hassle-Free Border Crossing without Your Passport
-date: 2024-09-17 19:36:30
-updated: 2024-09-20 10:58:18
+date: 2024-10-02T18:12:46.662Z
+updated: 2024-10-04T00:37:23.810Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-social-media-mirrors-the-science-of-true-ig-selfies/"><u>[New] Social Media Mirrors The Science of True IG Selfies</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/active-directory-disabled-printer-problem-detected/"><u>Active Directory Disabled - Printer Problem Detected</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-pny-rp60-portable-ssd-good-quality-yet-unremarkable-features/"><u>Evaluating the PNY RP60 Portable SSD - Good Quality, Yet Unremarkable Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/huggingchat-explained-a-budget-chatbot-free-and-community-focused/"><u>HuggingChat Explained: A Budget Chatbot, Free and Community-Focused</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-open-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Open IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-visual-experience/"><u>Next-Level Visual Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iples-of-filming-inspirational-daily-living-documentaries-for-2024/"><u>Principles of Filming Inspirational Daily Living Documentaries for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-how-to-successfully-power-off-your-computer-running-windows-10/"><u>Quick Fixes: How To Successfully Power Off Your Computer Running Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stop-the-loop-effective-steps-to-end-automatic-playback-on-apple-music/"><u>Stop the Loop: Effective Steps to End Automatic Playback on Apple Music</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Technology Secrets at Tom's Hardware Sanctuary</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

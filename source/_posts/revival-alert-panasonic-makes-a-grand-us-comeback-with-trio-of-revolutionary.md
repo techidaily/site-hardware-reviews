@@ -1,7 +1,7 @@
 ---
 title: Revival Alert! Panasonic Makes a Grand US Comeback with Trio of Revolutionary
-date: 2024-09-26T18:57:17.646Z
-updated: 2024-09-28T16:55:39.631Z
+date: 2024-09-26T18:55:58.872Z
+updated: 2024-10-03T19:08:14.196Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,16 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +97,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,15 +139,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-to-allocate-more-ram-to-minecraft-3-methods/"><u>[New] In 2024, How to Allocate More Ram to Minecraft 3 Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-11s-backup-processing-methods/"><u>A Closer Look at Windows 11'S Backup Processing Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-diy-circuit-creation-cytron-maker-uno-rp2040-feedback/"><u>Affordable DIY Circuit Creation: Cytron Maker Uno RP2040 Feedback</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-asrock-z790i-lightning-wi-fi-board-performance-small-form-factor-big-impact/"><u>Breaking Down the ASRock Z790I Lightning Wi-Fi Board Performance: Small Form Factor, Big Impact</u></a></li>
-<li><a href="https://win-forum.techidaily.com/convertisseur-video-w6nmp3-une-solution-fiable-et-facile-dutilisation-enligne-gratuite-par-movavi/"><u>Convertisseur Vidéo W6nMP3 : Une Solution Fiable Et Facile D'Utilisation Enligne Gratuite Par Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-the-asus-rog-strix-xg27acs-a-qhd-180hz-display-reviewed-for-speed-and-precision/"><u>Elevate Your Gaming Experience with the Asus ROG Strix XG27ACS - A QHD 180Hz Display Reviewed for Speed and Precision</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fastest-8-capture-tools-unveiled-for-2024/"><u>Fastest 8 Capture Tools Unveiled for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-130-music-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia 130 Music online without jailbreak</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-advanced-hardware-by-toms-technological-reviewers/"><u>The Ultimate Guide to Advanced Hardware by Tom's Technological Reviewers</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-best-of-the-best-video-animation-apps-for-mobile-devices-2024-edition/"><u>Updated The Best of the Best Video Animation Apps for Mobile Devices (2024 Edition)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-your-video-projects-with-superior-recorder-software/"><u>[New] 2024 Approved Mastering Your Video Projects with Superior Recorder Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-craft-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast/"><u>[Updated] 2024 Approved Craft Engaging Streams for Success The Ultimate Youtube Broadcast Blueprint Using WireCast</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-simplify-passport-photography-with-these-top-10-low-cost-solutions/"><u>[Updated] Simplify Passport Photography with These Top 10 Low-Cost Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spinning-tales-embracing-the-full-rotational-vision/"><u>[Updated] Spinning Tales Embracing the Full Rotational Vision</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-check-your-channels-revenue-flow/"><u>2024 Approved Check Your Channel's Revenue Flow</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/advanced-strategies-for-soundless-video-for-2024/"><u>Advanced Strategies for Soundless Video for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-infinix-note-30-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Infinix Note 30 5G.</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-timestamp-use-for-increased-youtube-traction/"><u>In 2024, Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-tips-tricks-and-reviews-by-toms-hardware-experts/"><u>Mastering Modern Electronics: Tips, Tricks & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-trusted-resource/"><u>Mastering Technology Insights From Tom’s Trusted Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visuals-in-esports-why-the-pixio-px277-oled-is-a-game-changer-for-gamers/"><u>Mastering Visuals in eSports: Why the Pixio PX277 OLED Is a Game Changer for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-tips-and-tricks-from-toms-tech-haven/"><u>Mastering Your Digital Life: Tips & Tricks From Tom's Tech Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-lessons-from-toms-hardware-experts/"><u>Navigating the World of Gadgets: Lessons From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-motherboards-at-toms-electronics/"><u>Navigating the World of Motherboards at Tom's Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-tech-tips-and-tricks-from-toms-hardware/"><u>Navigating the World of Tech: Tips and Tricks From Tom's Hardware</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-mastering-compressor-a-step-by-step-guide-for-final-cut-pro-x/"><u>New Mastering Compressor A Step-by-Step Guide for Final Cut Pro X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/oled-monitors-trajectory-projected-upwards-shipping-volume-expected-to-hit-1n-milestone-pre-next-year/"><u>OLED Monitors' Trajectory Projected Upwards: Shipping Volume Expected to Hit 1.n Milestone Pre-Next Year</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-rtx-2080-graphics-card-driver-downloads-for-windows-11-7-and-8-users/"><u>Update Your RTX 2080 Graphics Card: Driver Downloads for Windows 11, 7 & 8 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Roku Experience with New Complimentary High-End Features: The Full Lowdown | ZDNET"
-date: 2024-09-25T17:05:11.766Z
-updated: 2024-09-28T18:49:46.401Z
+date: 2024-09-27T18:39:22.911Z
+updated: 2024-10-03T21:34:34.139Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +99,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-remedy-for-audio-pause-in-obs-streams-for-2024/"><u>[New] Remedy for Audio Pause in OBS Streams for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[Updated] 2024 Approved How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>[Updated] Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-quick-fixes-how-to-shorten-youtube-videos-easily/"><u>[Updated] In 2024, Quick Fixes How to Shorten YouTube Videos Easily</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-inception-filming-review-examination-for-2024/"><u>[Updated] Inception Filming Review Examination for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Samsung Galaxy S23+ FRP</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-imovie-cropping-query-the-hidden-logic-behind-it/"><u>In 2024, IMovie Cropping Query The Hidden Logic Behind It</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-adol-book-asus-latest-innovation-a-laptop-with-built-in-scent-technology/"><u>Introducing the Adol Book: Asus' Latest Innovation - A Laptop with Built-In Scent Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-trustworthy-or-does-chatgpt-lie/"><u>Is ChatGPT Trustworthy, or Does ChatGPT Lie?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinks-bigger-with-thinkpad-p1-gen-7-the-ultimate-gaming-and-work-machine-sporting-the-latest-lpcamm2-memory-for-superior-performance-in-a-compact-fo33/"><u>Lenovo Thinks Bigger With ThinkPad P1 Gen 7 - The Ultimate Gaming & Work Machine Sporting the Latest LPCAMM2 Memory for Superior Performance in a Compact Form</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-motion-capture-top-gear-recommendations-for-2024/"><u>Mastering Motion Capture - Top Gear Recommendations for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-tips-and-reviews-by-tomhardware/"><u>Navigating the World of Computer Hardware: Tips & Reviews by TomHardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-copilotplus-gaming-with-prism-optimizations-and-cross-platform-cheat-blocking-microsofts-latest-endeavor-revealed/"><u>Revolutionizing Copilot+ Gaming with Prism Optimizations & Cross-Platform Cheat Blocking – Microsoft's Latest Endeavor Revealed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-a-sizzling-deal-on-asuss-rog-zephyrus-g16-intel-ultra-9-chipset-and-nvidia-rtx-at-massive-savings/"><u>Score a Sizzling Deal on ASUS's RoG Zephyrus G16 - Intel Ultra 9 Chipset & NVIDIA RTX at Massive Savings!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-discover-essential-reviews-from-toms-hardware/"><u>Stay Ahead of the Curve: Discover Essential Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-gadget-guide-discovering-top-picks-with-toms-hardware-knowledge/"><u>The Ultimate Gadget Guide - Discovering Top Picks with Tom's Hardware Knowledge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-navigating-the-future-of-computer-components/"><u>Tom's Hardware: Navigating the Future of Computer Components</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-qr-code-scanner-issues-10-solutions-for-iphones/"><u>Troubleshooting QR Code Scanner Issues: 10 Solutions for iPhones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-adventures-with-the-foremost-6-gopro-mounts-revealed/"><u>[Updated] 2024 Approved Mastering Adventures with the Foremost 6 GoPro Mounts Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>[Updated] 2024 Approved Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-endorsed-gpus-for-top-quality-online-video-playback/"><u>[Updated] Expert-Endorsed GPUs for Top Quality Online Video Playback</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-boosting-earning-potential-on-youtube-shorts/"><u>[Updated] In 2024, Boosting Earning Potential on YouTube Shorts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-insider-tips-for-facebook-cover-video-mastery/"><u>[Updated] In 2024, Insider Tips for Facebook Cover Video Mastery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-top-7-inquiries-for-purchasing-your-next-smart-home-gadget/"><u>Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-the-high-end-price-tag-on-the-latest-model-g-electric-dual-zone-bbq/"><u>Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-hd-photography-insta360s-new-tiny-go-3-shoots-in-stunning-4k-resolution/"><u>Experience Ultra-HD Photography: Insta360's New Tiny Go 3 Shoots in Stunning 4K Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cherry-xtrfy-k5v2-a-game-changing-review-with-cutting-edge-red-keyswitch-technology/"><u>Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gemini-technology-fuels-nests-latest-innovative-smart-thermostat/"><u>Gemini Technology Fuels Nest's Latest Innovative Smart Thermostat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/influencers-secrets-top-10-video-editing-apps-for-ig-success-for-2024/"><u>Influencers' Secrets Top 10 Video Editing Apps for IG Success for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/quick-and-simple-steps-to-iphone-14-backup-using-itunes-ultimate-guide/"><u>Quick & Simple Steps to iPhone 14 Backup Using iTunes - Ultimate Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978086858-secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/your-ultimate-source-for-tech-comparisons-tomgearreview/"><u>Your Ultimate Source for Tech Comparisons - TomGearReview</u></a></li>
 </ul></div>
 

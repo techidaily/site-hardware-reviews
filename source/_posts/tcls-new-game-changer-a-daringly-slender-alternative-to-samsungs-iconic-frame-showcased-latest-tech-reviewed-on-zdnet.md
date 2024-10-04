@@ -1,7 +1,7 @@
 ---
 title: "TCL's New Game Changer: A Daringly Slender Alternative to Samsung's Iconic Frame Showcased | Latest Tech Reviewed on ZDNet"
-date: 2024-09-21T17:00:47.831Z
-updated: 2024-09-28T17:13:16.987Z
+date: 2024-09-27T19:07:08.860Z
+updated: 2024-10-03T16:51:46.226Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,24 +99,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-eyeonfox-screenshots-and-recordings-for-2024/"><u>[Updated] EyeOnFox Screenshots & Recordings for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-your-videos-with-top-10-free-srt-converters/"><u>[Updated] Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
-<li><a href="https://solve-info.techidaily.com/1726029928893-wav/"><u>「WAV」フォーマットで動画・音楽を変換する方法</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/10-best-instagram-video-editor-for-android-pc-online-for-2024/"><u>10 Best Instagram Video Editor for Android, PC, Online for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-for-engrossing-youtube-stories-in-23/"><u>2024 Approved The Ultimate List for Engrossing YouTube Stories in '23</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-services-virtual-private-servers-cloud-solutions-and-shared-hosting/"><u>Comprehensive Analysis of Hostinger's Services: Virtual Private Servers, Cloud Solutions & Shared Hosting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-of-computing-on-toms-hardware-showcase/"><u>Discover the Future of Computing on Tom's Hardware Showcase</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-best-tools-to-make-animated-photo-easily/"><u>In 2024, 8 Best Tools to Make Animated Photo Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo F25 Pro 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-play-8t-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor Play 8T FRP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-toms-authoritative-guide-to-computer-components/"><u>Navigating the Tech Maze: Tom's Authoritative Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/poor-line-care/"><u>Poor Line Care</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-anycub-(datetime)kobra-3-revolutionizing-3d-printing-with-multicolor-capabilities/"><u>Review of Anycub <DateTime>Kobra 3 - Revolutionizing 3D Printing with Multicolor Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-dell-xps-13-9n45-blending-classic-appeal-with-cutting-edge-snapdragon-x-elite-processing/"><u>Review of Dell XPS 13 (9N45): Blending Classic Appeal with Cutting-Edge Snapdragon X Elite Processing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub - The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v27e-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V27e Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-toms-authoritative-hardware-reviews/"><u>Unlocking Performance Secrets: Tom's Authoritative Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-digital-tools-top-picks-from-toms-comprehensive-hardware-guide/"><u>Unveiling Digital Tools: Top Picks From Tom’s Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-cutting-edge-tricks-in-streamlabs-obs-broadcasts/"><u>[New] 2024 Approved Cutting-Edge Tricks in Streamlabs OBS Broadcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beyond-boundaries-channel-youtube-for-exciting-green-screens/"><u>[Updated] 2024 Approved Beyond Boundaries Channel Youtube for Exciting Green Screens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creators-vs-youtubes-profit-policies/"><u>[Updated] 2024 Approved Creators Vs. YouTube's Profit Policies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-viewer-experience-vertical-videos-in-final-cut-pro-x/"><u>[Updated] Enhancing Viewer Experience Vertical Videos in Final Cut Pro X</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-idea-inception-using-google-trends-to-fuel-videography-for-2024/"><u>[Updated] Idea Inception Using Google Trends to Fuel Videography for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-learn-the-essential-steps-recording-youtube-live-with-ease-across-devices-for-2024/"><u>[Updated] Learn the Essential Steps Recording YouTube Live with Ease Across Devices for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-profits-unleashed-strategies-for-creative-entrepreneurs/"><u>[Updated] Vimeo Profits Unleashed Strategies for Creative Entrepreneurs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-hardware-insights/"><u>Exploring Technology with Tom: Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-and-reviews-discovering-tech-secrets-at-toms-hardware/"><u>Innovative Solutions and Reviews: Discovering Tech Secrets at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-and-reviews-the-toms-hardware-collection/"><u>Innovative Tech Analysis and Reviews - The Tom's Hardware Collection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-display-revolutionized-aoc-launches-its-cutting-edge-trio-of-graphic-pro-series-monitors-model-u3/"><u>Professional Display Revolutionized: AOC Launches Its Cutting-Edge Trio of Graphic Pro Series Monitors, Model U3</u></a></li>
 </ul></div>
 

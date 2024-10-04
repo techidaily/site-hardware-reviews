@@ -1,7 +1,7 @@
 ---
 title: Huge Discount on Outstanding QLED Television - Save Up To 50%% This Labor Day! (ZDNET Exclusive)
-date: 2024-09-21T18:06:30.987Z
-updated: 2024-09-28T19:32:05.882Z
+date: 2024-09-28T23:16:05.896Z
+updated: 2024-10-03T21:49:21.500Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +99,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-mastering-the-art-of-youtube-to-webm-conversion/"><u>[New] 2024 Approved Mastering the Art of YouTube-to-WebM Conversion</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-behind-the-scenes-filmmaking-tips-from-youtube-experts-for-2024/"><u>[Updated] Behind-the-Scenes Filmmaking Tips From YouTube Experts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-clearview-recorder-xtreme-win10-for-2024/"><u>[Updated] ClearView Recorder Xtreme (Win10) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-game-channel-branding-with-premade-banners/"><u>[Updated] The Art of Game Channel Branding with Premade Banners</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-optimize-video-cuts-selective-mac-mp4-slicers/"><u>2024 Approved Optimize Video Cuts Selective Mac MP4 Slicers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-scaricabile-codec-h265-ottimizzazione-per-la-visualizzazione-di-video-in-risoluzione-4k-e-8k/"><u>Gratis Scaricabile Codec H.265 - Ottimizzazione Per La Visualizzazione Di Video in Risoluzione 4K E 8K</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-quest-masters-choice-celebrating-gaming-epics-anew/"><u>In 2024, Quest Masters' Choice Celebrating Gaming Epics Anew</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862684147-powerbook-520c-back-from-history-now-features-a-refined-ipad-touchscreen-and-the-heart-of-a-201n5-core-i5-macbook-pro/"><u>PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-gear/"><u>Tom's Tech Review: The Ultimate Guide to Computer Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-choices-in-tech-toms-computing-expertise/"><u>Top Choices in Tech: Tom's Computing Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-ultimate-savings-on-high-performance-gaming-pcs/"><u>Top Picks: Ultimate Savings on High-Performance Gaming PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-your-pc-potential-wisdom-from-toms-hardware-experts/"><u>Unleash Your PC Potential - Wisdom From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-pc-components-with-guidance-from-toms-computing-site/"><u>Unveiling Cutting-Edge PC Components with Guidance From Tom's Computing Site</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-blueprint-for-using-adobe-cloud-and-identifying-suitable-alternatives-for-2024/"><u>[New] Essential Blueprint for Using Adobe Cloud & Identifying Suitable Alternatives for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmarking-the-best-a-review-of-lexars-premium-ssd-range-including-the-sl500-and-sl600-featuring-turbocharged-speeds-of-up-to-20-gbps/"><u>Benchmarking the Best: A Review of Lexar's Premium SSD Range Including the SL500 and SL600, Featuring Turbocharged Speeds of Up to 20 Gbps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341658979-experience-the-powerful-symphony-with-blueants-soundblade-vibrant-sounds-and-style-combined/"><u>Experience the Powerful Symphony with BlueAnt's Soundblade - Vibrant Sounds & Style Combined!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-motorola-moto-g-stylus-5g-2023-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Motorola Moto G Stylus 5G (2023) on Mac?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341739531-implement-a-take-back-program-to-encourage-recycling-or-repurposing-of-used-products/"><u>Implement a Take-Back Program to Encourage Recycling or Repurposing of Used Products.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inside-look-polaroids-bold-move-into-action-camera-tech/"><u>In 2024, Inside Look Polaroid's Bold Move Into Action Camera Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-essential-insights-from-toms-hardware-reviews/"><u>Mastering Technology: Essential Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-camon-20-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Camon 20 Pro 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventive-measures-such-as-protective-eyewear-can-significantly-reduce-the-risk-of-ocular-trauma/"><u>Preventive Measures Such as Protective Eyewear Can Significantly Reduce the Risk of Ocular Trauma</u></a></li>
+<li><a href="https://facebook.techidaily.com/sneaky-social-media-impersonation-warning/"><u>Sneaky Social Media: Impersonation Warning</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-showdown-comparing-the-asus-rog-keris-ii-ace-to-deathadder-v3-pro/"><u>The Ultimate Showdown: Comparing the Asus ROG Keris II Ace to DeathAdder V3 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/titan-armys-value-packed-warrior-in-depth-analysis-of-180hz-performance-and-quality-in-the-p27a2r-gaming-monitor/"><u>Titan Army's Value-Packed Warrior: In-Depth Analysis of 180Hz Performance & Quality in the P27A2R Gaming Monitor</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-compatibility-secured-for-dual-nvidiaintel-graphics/"><u>Windows 10 Compatibility Secured for Dual Nvidia/Intel Graphics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Your Screen: The Ultimate Guide to May 2Nnd TV Deals From ZDNet"
-date: 2024-09-24T18:25:55.205Z
-updated: 2024-09-28T18:23:09.283Z
+date: 2024-10-03T01:27:50.898Z
+updated: 2024-10-03T17:27:37.207Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,18 +105,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-unraveling-periscopes-mystique-is-it-free-and-how-to-signup-in-2024/"><u>[New] Unraveling Periscope's Mystique Is It Free and How to Signup, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-your-vocal-image-for-instagrams-dynamic-features-for-2024/"><u>Crafting Your Vocal Image for Instagram’s Dynamic Features for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-the-efficacy-of-the-akasa-gecko-with-integrated-fan-system-for-ssd-cooling/"><u>Expert Insights Into the Efficacy of the Akasa Gecko with Integrated Fan System for SSD Cooling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-hardware-hub/"><u>Expert Reviews by Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/fx36-60-pro-cooler-by-id-cooling-exceptional-performance-at-a-budget-friendly-price-point/"><u>FX36 60 Pro Cooler by ID-Cooling - Exceptional Performance at a Budget-Friendly Price Point</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-pova-5-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Pova 5 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s23-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy S23 Ultra to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-smart-8-plus-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Smart 8 Plus FRP Without Computer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-digital-landscape-expert-reviews-on-gadgets-and-components/"><u>Navigating Tom's Digital Landscape: Expert Reviews on Gadgets & Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-cost-breakdown-of-netgear-orbi-mesh-wi-fi-system-cheaper-yet-still-premium-priced-in-comparison-to-other-brands/"><u>The Cost Breakdown of Netgear Orbi Mesh Wi-Fi System: Cheaper, Yet Still Premium Priced in Comparison to Other Brands</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/the-ultimate-assessment-of-andaseat-kaiser-3-in-2022-features-performance-and-buyers-guide-on-zdnet/"><u>The Ultimate Assessment of AndaSeat Kaiser 3 in 202^2: Features, Performance & Buyer’s Guide on ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovative-gear-the-toms-tech-showcase/"><u>Unveiling Innovative Gear: The Tom's Tech Showcase</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-no-cost-movie-magic-top-free-online-video-editors/"><u>Updated No-Cost Movie Magic Top Free Online Video Editors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a15-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A15 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nt-thumbnails-for-fortnite-gameplay-for-2024/"><u>Instant Thumbnails for Fortnite Gameplay for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-transforming-your-talker-a-comprehensive-instruction-for-voice-changer-plus-app-on-iphones/"><u>New 2024 Approved Transforming Your Talker A Comprehensive Instruction for Voice Changer Plus App on iPhones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/october-launch-scope-for-apples-innovative-smart-features-as-revealed-by-zdnet-insights/"><u>October Launch Scope for Apple's Innovative Smart Features, as Revealed by ZDNet Insights</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-performance-enhancer-revolutionary-manycam-software-for-live-videos-and-fake-backgrounds/"><u>Online Performance Enhancer: Revolutionary ManyCam Software for Live Videos and Fake Backgrounds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-affordable-solid-state-drives-and-hard-disk-drives-in-202/"><u>Ultimate Guide to Affordable Solid State Drives & Hard Disk Drives in 202</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-prime-day-offerings-save-big-with-4tb-ssds-for-only-four-pennies-per-gb-in-a-spectacular-storage-sale-event/"><u>Unbeatable Prime Day Offerings: Save Big with 4TB SSDs for Only Four Pennies per GB in a Spectacular Storage Sale Event</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-pc-building-with-toms-equipment-insights/"><u>Unveiling the Secrets of PC Building with Tom’s Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-court-battle-ymtc-vs-micron-over-intellectual-property-rights-alleging-infringement-of-eleven-patents-from-chinas-memory-sector/"><u>US Court Battle: YMTC Vs. Micron Over Intellectual Property Rights, Alleging Infringement of Eleven Patents From China's Memory Sector</u></a></li>
 </ul></div>
 

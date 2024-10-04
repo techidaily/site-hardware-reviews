@@ -1,7 +1,7 @@
 ---
 title: Professional Picks for the Ultimate Home TV Antenna of 2024 - Detailed Analysis and Ratings | ZDNet
-date: 2024-09-25T17:22:18.699Z
-updated: 2024-09-28T18:59:06.616Z
+date: 2024-09-30T16:25:36.716Z
+updated: 2024-10-04T02:05:01.588Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,16 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +73,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +98,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/oremost-directors-of-cinematic-harmony-for-2024/"><u>[New] Foremost Directors of Cinematic Harmony for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-achieve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>[Updated] 2024 Approved Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>[Updated] 2024 Approved The Beginner’s Blueprint Achieving Superior Image Clarity in Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-enhance-engagement-select-best-fonts-for-your-thumbnails/"><u>[Updated] In 2024, Enhance Engagement Select Best Fonts for Your Thumbnails</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-increasing-your-pcs-storage-with-the-highpoint-rocket-1608a-add-on-device-a-performance-snapshot/"><u>Comprehensive Guide to Increasing Your PC’s Storage with the HighPoint Rocket 1608A Add-On Device: A Performance Snapshot</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dissecting-the-mismatch-of-visuals-and-capability-a-closer-look-at-valkyrie-vind-sl125/"><u>Dissecting the Mismatch of Visuals and Capability: A Closer Look at Valkyrie Vind SL125</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-troubleshoot-and-repair-werfaultexe-issues-on-pcs/"><u>Effective Strategies to Troubleshoot and Repair WerFault.exe Issues on PCs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-15-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-a60s-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel A60s</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-huawei-nova-y71-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Huawei Nova Y71</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximizing-motherboard-compatibility-a-review-of-the-gskill-trident-z5-rgb-ddr5-640cu-c32-dual-channel-memory-solution/"><u>Maximizing Motherboard Compatibility: A Review of the G.SKILL Trident Z5 RGB DDR5-640cu C32 Dual-Channel Memory Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-the-toms-hardware-compendium/"><u>Navigating Tech Trends: The Tom's Hardware Compendium</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/saturn-4-ultra-by-elegoo-a-revolutionary-leap-forward-in-resin-3d-printers/"><u>Saturn 4 Ultra by Elegoo: A Revolutionary Leap Forward in Resin 3D Printers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-news-latest-innovations-and-reviews-on-toms-hardware/"><u>Tech News, Latest Innovations & Reviews on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lofree-edge-reviewed-stylish-and-portable-with-a-costlier-price-than-apples-iconic-keyboard/"><u>The Lofree Edge Reviewed: Stylish & Portable with a Costlier Price than Apple's Iconic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-toms-gadget-guide-in-depth-insights-into-hardware-and-software/"><u>The Tom's Gadget Guide: In-Depth Insights Into Hardware and Software</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/top-3-methods-capturing-your-twitch-live-sessions-on-windows/"><u>Top 3 Methods: Capturing Your Twitch Live Sessions on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-repair-for-compromised-system-files/"><u>Unlocking the Power of Repair for Compromised System Files</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-with-elegoos-saturn-cube-xl-a-comprehensive-review-on-its-impact-in-resin-3d-technology/"><u>Unveiling Innovations with Elegoo's Saturn Cube XL - A Comprehensive Review on Its Impact in Resin 3D Technology</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-highlighting-twitvideos-twitters-viral-video-trends/"><u>2024 Approved Highlighting TwitVideos Twitter's Viral Video Trends</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-uninstall-discord-server-on-all-devices/"><u>2024 Approved Uninstall Discord Server on All Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-connection-with-facebook-daily-replay/"><u>Boosting Connection with Facebook Daily Replay</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/easy-steps-record-audio-on-mac-using-audacity-for-2024/"><u>Easy Steps Record Audio on Mac Using Audacity for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-straightening-correcting-fisheye-in-gopro-footage/"><u>In 2024, The Art of Straightening Correcting Fisheye in GoPro Footage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxias-cutting-edge-optical-ssds-deliver-blistering-speeds-and-unprecedented-distance-capabilities-up-to-40-meters-away-from-the-processor/"><u>Kioxia's Cutting-Edge Optical SSDs Deliver Blistering Speeds and Unprecedented Distance Capabilities: Up to 40 Meters Away From the Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-into-advanced-technology/"><u>Navigating the World of Gadgets with Tom - Insights Into Advanced Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-expertise/"><u>Navigating the World of Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-review/"><u>Navigating the World of Gadgets with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-speeds-with-phisons-revolutionary-e29t-pcie-40-ssd-controller-revealed-at-the-2024-flash-memory-summit-fms/"><u>Next-Level Speeds with Phison's Revolutionary E29T PCIe 4.0 SSD Controller Revealed at the 2024 Flash Memory Summit (FMS)</u></a></li>
+<li><a href="https://techidaily.com/online-consumer-protection-strategies-for-a-risk-free-digital-shopping-experience/"><u>Online Consumer Protection: Strategies for a Risk-Free Digital Shopping Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/reasons-behind-decs-instagram-conversations-ending/"><u>Reasons Behind Dec’s Instagram Conversations Ending</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-on-storage-top-rated-ssd-and-hard-drive-specials-for-this-year/"><u>Save Big on Storage: Top Rated SSD & Hard Drive Specials for This Year</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-sailing-regularly-update-your-pcs-astro-software/"><u>Smooth Sailing: Regularly Update Your PC’s Astro Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-extreme-ssd-cooling-system-a-120mm-radiator-for-low-powered-m2-drives/"><u>TeamGroup's Extreme SSD Cooling System: A 120Mm Radiator for Low-Powered M.2 Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-guide-by-tom-expert-advice-on-computers-electronics-and-more/"><u>The Comprehensive Guide by Tom: Expert Advice on Computers, Electronics & More</u></a></li>
 </ul></div>
 

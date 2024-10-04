@@ -1,7 +1,7 @@
 ---
 title: Up to $250 Off - Massive Discounts on 85 TCL LED Smart TV Pre & Post-Labor Day Sale! Shop Now at ZDNet!
-date: 2024-09-22T18:49:32.805Z
-updated: 2024-09-28T18:38:10.641Z
+date: 2024-10-01T16:36:13.375Z
+updated: 2024-10-03T19:26:27.634Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,21 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-beat-making-brilliance-music-for-your-instareals/"><u>[New] Beat-Making Brilliance Music for Your InstaReals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-photo-cropping-apps-how-to-crop-photos-on-iphone/"><u>2024 Approved Photo Cropping Apps How to Crop Photos on iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-filmmakers-companion-for-advanced-lut-expertise/"><u>A Filmmaker's Companion for Advanced LUT Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-nuphy-halo75-v2-analysis-a-perfect-choice-for-gaming-enthusiasts/"><u>Budget-Friendly Nuphy Halo75 V2 Analysis: A Perfect Choice for Gaming Enthusiasts</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-13-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 13 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-equipment-breakdowns-by-tom-your-hardware-guide/"><u>Cutting-Edge Equipment Breakdowns by Tom – Your Hardware Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-brilliance-with-viewsonics-oled-gaming-display-xg272-2k-240-hz-reviewed/"><u>Experience Brilliance with ViewSonic's OLED Gaming Display: XG272-2K, 240 Hz Reviewed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-on-correcting-error-code-in-minecraft-for-crossbows/"><u>Expert Advice on Correcting Error Code in Minecraft for Crossbows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-computer-gadgets-by-toms-hardware/"><u>Expert Analysis on Computer Gadgets by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-insights-from-toms-hardware-haven/"><u>Exploring Advanced Tech: Insights From Tom’s Hardware Haven</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-s17-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-14-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 14</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-of-pc-cases-an-insightful-review-of-the-lian-li-hydroshift-360s-model-with-lcd-display/"><u>The Future of PC Cases: An Insightful Review of the Lian Li Hydroshift 360S Model with LCD Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-hardware-with-tom/"><u>Understanding Hardware with Tom</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright-for-2024/"><u>[New] Facebook Copyright | What If My Videos Removed Immediately Due to Copyright for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-must-know-windows-10-tips-and-tricks/"><u>[Updated] In 2024, Must-Know Windows 10 Tips and Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-mac-streaming-with-our-top-5-software-picks/"><u>[Updated] Master Mac Streaming with Our Top 5 Software Picks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-nextgen-videotron-app-evaluation/"><u>[Updated] NextGen Videotron App Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bend-the-competition-with-our-2024-ranking-of-superior-curved-gaming-monitors/"><u>Bend the Competition with Our 2024 Ranking of Superior Curved Gaming Monitors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-magic-v2-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor Magic V2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-convenient-and-cost-effective-in-depth-review-of-the-eyoyo-em1/"><u>Compact, Convenient, and Cost-Effective: In-Depth Review of the EYOYO EM1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-by-toms-gear-experts-discover-top-hardware-choices/"><u>Comprehensive Reviews by Tom's Gear Experts: Discover Top Hardware Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discounted-deal-alienwares-aw3225qf-gaming-monitor-with-qd-oled-4k-technology-and-240-hz-refresh-rate-grab-100-off/"><u>Discounted Deal: Alienware's AW3225QF Gaming Monitor with QD-OLED 4K Technology & 240 Hz Refresh Rate - Grab $100 Off</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-high-performance-components-with-toms-gear-insights/"><u>Discover High-Performance Components with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-gadgets-trustworthy-insights-from-toms-hardware/"><u>Discover the Latest Gadgets | Trustworthy Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-the-digital-battlefield-with-cooler-masters-giant-super-wide-57-mini-led-and-dual-uhd-monitor-for-gamers/"><u>Dominate the Digital Battlefield with Cooler Master's Giant Super Wide, 57 Mini LED & Dual-UHD Monitor for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-viewing-comfort-for-just-499-with-lgs-stunning-34-curved-monitor-upgrade/"><u>Elevate Your Viewing Comfort for Just $499 with LG's Stunning 34 Curved Monitor Upgrade!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-basics-to-advanced-crafting-powerful-instagram-hashtags/"><u>From Basics to Advanced Crafting Powerful Instagram Hashtags</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-seamlessly-add-pictures-to-youtube-videos/"><u>How to Seamlessly Add Pictures to YouTube Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-meizu-21-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Meizu 21 with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Firsthand Account of Southwest's Disappointing Digital Tools | Unveiled on ZDNet
-date: 2024-09-18 20:22:14
-updated: 2024-09-20 10:10:29
+date: 2024-09-29T22:13:07.498Z
+updated: 2024-10-03T22:11:33.933Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,42 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-capture-save-and-share-mastering-playstation-4-recordings-for-2024/"><u>[New] Capture, Save & Share Mastering PlayStation 4 Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-exciting-auto-play-hits-for-children-for-2024/"><u>[New] Exciting Auto-Play Hits for Children for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-graphics-relic-package/"><u>2024 Approved Graphics Relic Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pis-storage-with-low-cost-high-speed-hatdrive-by-pineboards/"><u>Boost Your Raspberry Pi's Storage with Low-Cost, High-Speed HatDrive by Pineboards</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-view-and-enjoy-tiktok-content-directly-on-your-hdtv/"><u>How to View and Enjoy TikTok Content Directly on Your HDTV</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-xsplit-vs-obs-the-showdown-to-enhance-live-broadcasts/"><u>In 2024, XSplit Vs. OBS – The Showdown to Enhance Live Broadcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-valkyrie-syn-240-all-in-one-liquid-cooler-stellar-cooling-capabilities-hindered-by-software-design/"><u>In-Depth Analysis of the Valkyrie Syn 240 All-in-One Liquid Cooler: Stellar Cooling Capabilities Hindered by Software Design</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-guide-effective-video-promotion-tools-for-2024/"><u>Infographic Guide Effective Video Promotion Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovations-unveiled-at-toms-hardware-haven/"><u>Innovations Unveiled at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-overheating-check-out-our-thorough-review-of-the-levelplay-combat-air-ca4-cpu-cooler/"><u>Mastering PC Overheating? Check Out Our Thorough Review of the Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-tech-wisdom/"><u>Navigating the World of Computer Hardware with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-savvy-with-team-tom-ultimate-hardware-guide/"><u>Tech Savvy with Team Tom: Ultimate Hardware Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

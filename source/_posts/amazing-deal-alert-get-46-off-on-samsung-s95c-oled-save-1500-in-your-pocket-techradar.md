@@ -1,7 +1,7 @@
 ---
 title: "Amazing Deal Alert: Get 46%% Off on Samsung S95C OLED - Save $1,500 in Your Pocket! | TechRadar"
-date: 2024-09-24T16:23:11.415Z
-updated: 2024-09-28T19:28:46.140Z
+date: 2024-10-02T16:46:06.569Z
+updated: 2024-10-04T01:21:56.769Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,16 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,16 +139,18 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-harmonize-video-quality-with-instagrams-visual-theme-for-2024/"><u>[Updated] Harmonize Video Quality with Instagram's Visual Theme for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-method-for-iptv-screen-recordings/"><u>2024 Approved The Ultimate Method for IPTV Screen Recordings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cytron-maker-rp2nano-review-a-budget-friendly-pick-for-hobbyists-and-professionals-alike/"><u>Cytron Maker RP2nano Review - A Budget-Friendly Pick for Hobbyists and Professionals Alike</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earning-insights-from-viewing-data-on-youtube-for-2024/"><u>Earning Insights From Viewing Data on YouTube for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 6 Plus If Youve Tried Everything</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-components-a-deep-dive-into-hardware-by-tom/"><u>Mastering Components: A Deep Dive Into Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-expert-advice-on-hardware-choices/"><u>Navigating Computer Gear with Tom - Expert Advice on Hardware Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-informed-perspective/"><u>Navigating the World of Computing with Tom's Informed Perspective</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-silence-no-more-effortless-solutions-to-restore-sounds/"><u>Netflix Silence No More: Effortless Solutions to Restore Sounds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-final-era-launch-issues-pc-optimization-guide/"><u>Solving the 'Final Era' Launch Issues: PC Optimization Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-analysis-when-animation-meets-an-underperforming-motorcycle/"><u>Valkyrie Vind SL125 Analysis - When Animation Meets an Underperforming Motorcycle</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-command-attention-elevating-your-page-to-the-social-summit/"><u>[New] In 2024, Command Attention Elevating Your Page to the Social Summit</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-zooming-in-clearer-faces-better-discussions/"><u>[New] In 2024, Zooming In Clearer Faces, Better Discussions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-rotation-ritual-youtube-video-techniques-for-visual-impact/"><u>[New] The Rotation Ritual Youtube Video Techniques for Visual Impact</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-epson-es-400-scanner-driver-download-and-install-on-windows/"><u>Comprehensive Guide to Epson ES-400 Scanner Driver Download & Install on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-guide-to-overcoming-no-sound-issues-in-skype-calls/"><u>Easy Guide to Overcoming No Sound Issues in Skype Calls</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-fix-effective-solutions-to-restore-your-steelseries-gg-controllers-functionality-in-windows/"><u>Final Fix: Effective Solutions to Restore Your SteelSeries GG Controller's Functionality in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475970-get-the-ultimate-cooling-with-lian-lis-lancool-iii-for-only-119-the-best-deal-on-pc-gear-today/"><u>Get the Ultimate Cooling with Lian Li's Lancool III for Only $119 – The Best Deal on PC Gear Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-electronics-hub-unveiling-cutting-edge-computer-gear-and-accessories/"><u>Inside Tom's Electronics Hub: Unveiling Cutting-Edge Computer Gear and Accessories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instagrams-music-ownership-standards/"><u>Instagram's Music Ownership Standards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-deepcool-mini-itx-pc-chassis-equipped-with-a-convenient-handling-loop-and-extensive-ventilation/"><u>Introducing the New DeepCool Mini-ITX PC Chassis: Equipped with a Convenient Handling Loop and Extensive Ventilation</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-wow-obstacle-no-519/"><u>Overcoming WoW Obstacle: No. 519</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964476216-unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-on-technology-by-tom-hardware-focus/"><u>Unveiling the Insights on Technology by Tom - Hardware Focus</u></a></li>
 </ul></div>
 

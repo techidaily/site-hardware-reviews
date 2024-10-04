@@ -1,7 +1,7 @@
 ---
 title: Save Big This Labor Day with ZDNet's Recommended Pick for Best Value in Samsung TVs, Now 43%% Off!
-date: 2024-09-21T16:58:45.177Z
-updated: 2024-09-28T16:39:20.142Z
+date: 2024-10-01T00:09:32.894Z
+updated: 2024-10-04T01:22:47.781Z
 tags:
   - tvs
 categories:
@@ -52,6 +52,13 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
@@ -87,10 +94,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -100,13 +107,6 @@ As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home 
 Taylor Clemons/ZDNET
 
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Gaming 
 
@@ -177,10 +177,10 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider 
@@ -188,10 +188,10 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -230,16 +230,24 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-complete-process-of-logging-google-meet-chats/"><u>[Updated] The Complete Process of Logging Google Meet Chats</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-sovol-sv08-resurrecting-vorons-legendary-speed/"><u>A Comprehensive Look at Sovol SV08 - Resurrecting Voron's Legendary Speed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aoc-agon-pro-ag456uczd-unveiled-the-revolutionary-ultra-wide-oled-game-monitor-with-an-edge-radius-defining-45-display-extreme-curvature-and-blistering-perf20/"><u>AOC Agon Pro AG456UCZD Unveiled – The Revolutionary Ultra-Wide OLED Game Monitor with an Edge Radius Defining 45 Display, Extreme Curvature & Blistering Performance Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-assessment-hero4-black-potential/"><u>Complete Assessment Hero4 Black Potential</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-cooler-master-ion-360-all-in-one-liquid-cooler-progress-and-setbacks/"><u>Comprehensive Analysis of the Cooler Master ION 360 All-In-One Liquid Cooler: Progress and Setbacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-unrivaled-benefits-why-you-shouldnt-think-twice-about-cancelling-apple-arcade/"><u>Discover the Unrivaled Benefits: Why You Shouldn't Think Twice About Cancelling Apple Arcade</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/full-screen-issue-windowed-display-on-monitor-with-win11/"><u>Full-Screen Issue: Windowed Display on Monitor with Win11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-full-potential-of-morphvox-alchemy/"><u>In 2024, Unlocking the Full Potential of MorphVOX Alchemy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-gear-with-tom-a-trusted-source-for-computer-equipment-reviews/"><u>Master the Latest Gear with Tom - A Trusted Source for Computer Equipment Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-components-toms-in-depth-hardware-analysis/"><u>Mastering PC Components: Tom's In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-mp4-tools-for-mac-users-maximizing-youtube-productions/"><u>Top MP4 Tools For Mac Users Maximizing YouTube Productions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-digital-text-generator-for-videos/"><u>[New] 2024 Approved Digital Text Generator for Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimize-your-gaming-by-learning-ps3-video-capture-techniques/"><u>[New] 2024 Approved Optimize Your Gaming by Learning PS3 Video Capture Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>[New] Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-cutting-edge-convenience-smartwatch-mac-access/"><u>2024 Approved Cutting-Edge Convenience Smartwatch, Mac Access</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862676764-acemagic-x1-the-new-dual-screen-laptop-watch-out-for-pre-launch-discount-and-details-next-month/"><u>AceMagic X1 - The New Dual-Screen Laptop: Watch Out for Pre-Launch Discount & Details Next Month!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-insight-by-toms-technology-hub/"><u>Advanced Computing Insight by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-asus-rog-strix-g16-just-1164-for-the-ultimate-2024-gaming-experience/"><u>Amazon's Exclusive Deal: ASUS ROG Strix G16 - Just $1,164 for the Ultimate 2024 Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakthrough-in-efficient-energy-storage-how-massless-carbon-hewn-batteries-are-changing-the-game-for-portable-tech/"><u>Breakthrough in Efficient Energy Storage: How Massless Carbon Hewn Batteries Are Changing the Game for Portable Tech</u></a></li>
+<li><a href="https://driver-download.techidaily.com/creative-sound-blaster-recon3di-driver-download/"><u>Creative Sound Blaster Recon3Di Driver Download</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cutting-out-background-sounds-freepaid-options-for-clear-videos-for-2024/"><u>Cutting Out Background Sounds - Free/Paid Options for Clear Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-gaming-setup-with-msis-titan-18-pro-ryzen-edition-featuring-the-cutting-edge-combo-of-amd-ryzen-9-and-nvidia-rtx-graphics/"><u>Discover the Ultimate Gaming Setup with MSI’s Titan 18 Pro Ryzen Edition: Featuring the Cutting-Edge Combo of AMD Ryzen 9 and Nvidia RTX Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-innovation-with-toms-computing-insights/"><u>Discovering Innovation with Tom's Computing Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tech-a-dive-into-toms-hardware-selection/"><u>Discovering Top Tech: A Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/double-display-power-with-acemagics-intel-laptop-priced-at-899-and-below/"><u>Double Display Power with Acemagic's Intel Laptop - Priced at $899 and Below</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-next-level-in-ultrabooks-exploring-the-superior-features-and-design-of-the-updated-dell-xps-13-9345/"><u>Experience the Next Level in Ultrabooks: Exploring the Superior Features and Design of the Updated Dell XPS 13 (9345)</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-20-premier-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-8-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 8</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-free-online-movie-editing-solutions/"><u>New The Best Free Online Movie Editing Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-solution-how-to-install-default-printer-and-scanner-drivers-on-windows-11/"><u>Updated Solution: How to Install Default Printer & Scanner Drivers on Windows 11</u></a></li>
 </ul></div>
 

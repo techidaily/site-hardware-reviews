@@ -1,7 +1,7 @@
 ---
 title: UK Gears Up for Self-Driving Car Rollout Amidst Rising Public Skepticism - Insights From ZDNET
-date: 2024-09-19 16:52:14
-updated: 2024-09-20 12:36:16
+date: 2024-09-28T00:10:21.251Z
+updated: 2024-10-04T01:07:06.382Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-guide-to-swift-and-smooth-ipad-recordings/"><u>[New] In 2024, The Ultimate Guide to Swift and Smooth iPad Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-secret-sauce-to-outstanding-online-identity-creation/"><u>[New] The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-boost-youtube-video-performance-with-rapid-rendering-methods-for-2024/"><u>[Updated] Boost YouTube Video Performance with Rapid Rendering Methods for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-converting-your-favourite-tracks-bridging-spotify-with-youtube-music/"><u>[Updated] In 2024, Converting Your Favourite Tracks Bridging Spotify with YouTube Music</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-starting-a-live-feed/"><u>[Updated] The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-attenuating-audio-gradually-in-fl-projects/"><u>2024 Approved Attenuating Audio Gradually in FL Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-agon-pro-ag456uczd-unveiled-the-revolutionary-ultra-wide-oled-game-monitor-with-an-edge-radius-defining-45-display-extreme-curvature-and-blistering-perf5/"><u>AOC Agon Pro AG456UCZD Unveiled – The Revolutionary Ultra-Wide OLED Game Monitor with an Edge Radius Defining 45 Display, Extreme Curvature & Blistering Performance Reviewed!</u></a></li>
+<li><a href="https://article-files.techidaily.com/becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-digital-horizons-toms-guide-to-modern-tech/"><u>Discovering Digital Horizons: Tom's Guide to Modern Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-slow-data-transfer-between-your-epson-scanner-and-print-device/"><u>Fixing Slow Data Transfer Between Your Epson Scanner and Print Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovations-in-electronics-discovered-at-the-workshop-of-toms-hardware-experts/"><u>Innovations in Electronics Discovered at the Workshop of Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-toms-hardware-gadgets-and-geekery/"><u>Inside the World of Tom’s Hardware: Gadgets and Geekery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-eliminating-sound-techniques-to-remove-background-noise-from-video-on-pc-and-mac/"><u>New Eliminating Sound Techniques to Remove Background Noise From Video on PC & MAC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-showdown-honoring-the-legendary-voron/"><u>Sovol SV08 Speedster Showdown: Honoring the Legendary Voron</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-upgrading-raspberry-pi-5-with-the-affordable-pineboards-hatdrive/"><u>The Ultimate Guide to Upgrading Raspberry Pi 5 with the Affordable Pineboards HatDrive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-lexar-ssds-a-comprehensive-review-of-the-sl500-and-professional-sl600-series-for-ultra-fast-data-transfer/"><u>Unveiling the Capabilities of Lexar SSDs: A Comprehensive Review of the SL500 & Professional SL600 Series for Ultra-Fast Data Transfer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-innovations-at-toms-hardware-storehouse/"><u>Unveiling the Latest Innovations at Tom's Hardware Storehouse</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

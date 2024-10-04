@@ -1,7 +1,7 @@
 ---
 title: "Ultimate 2024 Soundbar Selection: Professional Ratings and Best Value Analysis | CNET Sound & Vision"
-date: 2024-09-24T19:16:36.510Z
-updated: 2024-09-28T19:40:44.754Z
+date: 2024-10-01T00:41:02.309Z
+updated: 2024-10-03T17:52:24.386Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,15 +92,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-macos-11-big-sur-compatibility-guide/"><u>[Updated] MacOS 11 Big Sur Compatibility Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-drones-deciphered-understanding-their-functions-and-designs/"><u>2024 Approved Drones Deciphered Understanding Their Functions & Designs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-selective-zoom-sharpening-in-google-meet/"><u>2024 Approved Secrets of Selective Zoom Sharpening in Google Meet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-reviewed-how-zen-5-elevates-gaming-performance-with-the-ryzen-5-9600x-and-ryzen-7-9700x/"><u>AMD Ryzen Reviewed: How Zen 5 Elevates Gaming Performance with the Ryzen 5 9600X and Ryzen 7 9700X</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-huggingchat-the-costless-community-driven-substitute-for-chatgpt/"><u>Discover HuggingChat - The Costless, Community-Driven Substitute for ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-artificial-intelligence-tools-every-entrepreneur-must-explore/"><u>Essential Artificial Intelligence Tools Every Entrepreneur Must Explore</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-turning-off-emergency-and-amber-alerts-on-apple-devices/"><u>Guide to Turning Off Emergency and AMBER Alerts on Apple Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gear-lab-a-deep-dive-into-modern-computing-equipment/"><u>Inside Tom's Gear Lab: A Deep Dive Into Modern Computing Equipment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-p2nace-of-gaming-displays-the-titan-army-monitor-at-180-hz-a-comprehensive-review/"><u>Unboxing the P2nace of Gaming Displays: The Titan Army Monitor at 180 Hz - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-tech-secrets-toms-authoritative-guide-to-computer-gear/"><u>Unveiling New Tech Secrets - Tom's Authoritative Guide to Computer Gear</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ioneering-methods-to-develop-a-memorable-youtube-introduction-for-2024/"><u>[New] Pioneering Methods to Develop a Memorable YouTube Introduction for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/craft-your-unique-ringtone-from-favorite-tiktok-music-to-cellphone-alarms/"><u>Craft Your Unique Ringtone - From Favorite TikTok Music to Cellphone Alarms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-guide-for-youtube-video-clips/"><u>Essential Guide for YouTube Video Clips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/hitting-the-high-notes-in-instagram-photography-for-2024/"><u>Hitting the High Notes in Instagram Photography for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/maximizing-visual-potential-with-hdr-technology/"><u>Maximizing Visual Potential with HDR Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-a59-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo A59 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequential-screen-time-with-taylor-swift-movie-marathon-essentials/"><u>Sequential Screen Time with Taylor Swift: Movie Marathon Essentials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis-t17238628805656/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-gadget-rundown-for-savvy-consumers/"><u>The Ultimate Tom's Gadget Rundown for Savvy Consumers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-review-expert-insights-and-in-depth-analysis/"><u>Tom's Computing Review: Expert Insights and In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-into-the-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights Into the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
 </ul></div>
 

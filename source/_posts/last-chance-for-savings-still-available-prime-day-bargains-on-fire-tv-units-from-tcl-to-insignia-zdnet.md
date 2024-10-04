@@ -1,7 +1,7 @@
 ---
 title: "Last Chance for Savings: Still Available Prime Day Bargains on Fire TV Units From TCL to Insignia | ZDNET"
-date: 2024-09-24T19:17:05.222Z
-updated: 2024-09-28T17:24:51.193Z
+date: 2024-09-30T22:23:29.031Z
+updated: 2024-10-03T18:14:24.049Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +61,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
+<span id="1982570">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,24 +111,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-advanced-screen-transcriber-for-chromeos-for-2024/"><u>[New] Advanced Screen Transcriber for ChromeOS for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-fast-track-to-flawless-podcast-live/"><u>[New] In 2024, Fast Track to Flawless Podcast Live</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb-for-2024/"><u>[New] The Ultimate Guide to Hash Tagging for Brand Success on FB for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-free-video-embedding-techniques-for-online-articles/"><u>[Updated] 2024 Approved Free Video Embedding Techniques for Online Articles</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-build-your-dreamy-oriental-villas-in-minecraft/"><u>[Updated] In 2024, Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-ultimate-twitch-collection-perfectly-preserve-your-tweets/"><u>[Updated] In 2024, Ultimate Twitch Collection - Perfectly Preserve Your Tweets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimized-zoom-audio-settings-for-exceptional-listening-for-2024/"><u>[Updated] Optimized Zoom Audio Settings for Exceptional Listening for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>2024 Approved Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/defining-a-cognitive-computing-system-necessity-for-your-tech-arsenal/"><u>Defining a Cognitive Computing System: Necessity for Your Tech Arsenal?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-future-of-computers-through-toms-hardware-experts/"><u>Discovering the Future of Computers Through Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enter-the-arena-dominate-your-favorite-games-on-a-budget-with-the-899-legion-slim-5-by-lenovo-featuring-an-rtx-4060-gpu/"><u>Enter the Arena! Dominate Your Favorite Games on a Budget With The $899 Legion Slim 5 by Lenovo, Featuring an RTX 4060 GPU.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-hub/"><u>Expert Advice on Computer Components From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-gear-by-toms-electronics-hub/"><u>Expert Analysis on PC Gear by Tom's Electronics Hub</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-your-apple-watch-why-it-might-not-be-recording-steps-correctly-and-what-to-do-about-it/"><u>Fixing Your Apple Watch: Why It Might Not Be Recording Steps Correctly and What to Do About It</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-asus-rog-strix-g16-2-now-a-steal-at-1164-on-amazon/"><u>Get Your Hands-On the Latest ASUS ROG Strix G16 2# - Now a Steal at $1,164 on Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-a-journey-through-toms-computing-world/"><u>Mastering Hardware Knowledge - A Journey Through Tom's Computing World</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reactivation-process-complete/"><u>Reactivation Process Complete</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>[New] 2024 Approved Survival's Tightrope Ranking the Top 8 Zombie Adventures</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-the-problem-of-invisible-notifications-in-android-devices/"><u>How To Fix the Problem of Invisible Notifications in Android Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone without Google Account?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-concentration-a-guide-to-activating-focus-mode-on-your-android-device/"><u>Mastering Concentration: A Guide to Activating Focus Mode on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-photography-transforming-your-android-device-into-a-professional-web-camera/"><u>Mastering Mobile Photography: Transforming Your Android Device Into a Professional Web Camera</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/permanently-switched-on-why-i-chose-dark-mode-for-good/"><u>Permanently Switched On: Why I Chose Dark Mode for Good</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-charging-with-a-twist-the-mophie-battery-includes-an-additional-ac-connection-for-versatile-use/"><u>Portable Charging with a Twist: The Mophie Battery Includes an Additional AC Connection for Versatile Use</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-tips-for-flipping-and-adjusting-video-orientation-on-an-android-phone/"><u>Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-spotify-playlist-streams-into-desktop-documents-a-complete-walkthrough/"><u>Transforming Spotify Playlist Streams Into Desktop Documents - A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-alternative-ways-to-power-up-your-mobile-device/"><u>Ultimate Guide: Alternative Ways to Power Up Your Mobile Device</u></a></li>
 </ul></div>
 

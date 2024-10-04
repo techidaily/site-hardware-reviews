@@ -1,7 +1,7 @@
 ---
 title: Limited Time Deal! Grab Your Amazon Fire TV Omni Series QLED for an Extra $170 Off - See How on ZDNET Today!
-date: 2024-09-25T16:56:57.222Z
-updated: 2024-09-28T18:53:06.614Z
+date: 2024-09-28T23:08:45.505Z
+updated: 2024-10-03T19:19:14.432Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +99,17 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-must-have-keyword-gurus-for-video-success/"><u>[New] 2024 Approved 10 Must-Have Keyword Gurus for Video Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cross-platform-calendar-coordination-zoom-to-your-devices-for-2024/"><u>[Updated] Cross-Platform Calendar Coordination Zoom to Your Devices for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-guide-to-crafting-captivating-snapchat-boomers/"><u>[Updated] The Complete Guide to Crafting Captivating Snapchat Boomers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-tips-and-tricks-erasing-unwanted-backdrops/"><u>2024 Approved Tips and Tricks Erasing Unwanted Backdrops</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tips-to-reduce-compression-artifacts-in-obs/"><u>2024 Approved Tips to Reduce Compression Artifacts in OBS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgetry-with-tom-navigating-the-world-of-computer-hardware/"><u>Advanced Gadgetry with Tom: Navigating the World of Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-pny-rp6-1tb-external-drive-adequate-but-lacks-exceptional-characteristics/"><u>Comprehensive Analysis of the PNY RP6지 1TB External Drive: Adequate but Lacks Exceptional Characteristics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dissecting-the-specifications-apples-m1-pro-versus-m1-max/"><u>Dissecting the Specifications Apple’s M1 Pro Versus M1 Max</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-edition-the-finest-picture-fixers/"><u>In 2024, Instagram Edition The Finest Picture Fixers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-through-toms-hardware/"><u>Mastering the Digital World Through Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trustworthy-advice-from-toms-hardware-experts/"><u>Navigating New Tech: Trustworthy Advice From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-and-reviews/"><u>Tom's Tech Insights and Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-and-performance-of-geekworm-x1-011-a-comprehensive-review/"><u>Unveiling the Features and Performance of Geekworm X1 0/1/1 - A Comprehensive Review</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-and-easy-avi-video-editing-top-5-software-choices/"><u>Updated Free and Easy AVI Video Editing Top 5 Software Choices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-masterful-marketing-top-strategies-to-thrive-in-fb-video-space/"><u>[Updated] 2024 Approved Masterful Marketing Top Strategies to Thrive in FB Video Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-common-windows-11-problems-with-easy-solutions/"><u>11 Common Windows 11 Problems With Easy Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-next-gen-learning-vrs-educational-impact/"><u>2024 Approved Next-Gen Learning VR's Educational Impact</u></a></li>
+<li><a href="https://win-blog.techidaily.com/aliens-fireteam-elite-for-pc-solutions-to-persistent-game-crash-issues/"><u>Aliens: Fireteam Elite for PC - Solutions to Persistent Game Crash Issues</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12 4G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-components-at-toms-system-analysis/"><u>Navigating High-Tech Components at Tom's System Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-tomhardware/"><u>Navigating the World of Electronics with TomHardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-with-tom-an-authoritative-source-for-tech-enthusiasts/"><u>Navigating Through Circuits with Tom: An Authoritative Source for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-your-workspace-samsung-unveils-updated-odyssey-and-view-monitors-featuring-cutting-edge-ai-innovation/"><u>Revolutionizing Your Workspace: Samsung Unveils Updated Odyssey and View Monitors Featuring Cutting-Edge AI Innovation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862839349-score-big-savings-acers-stunning-34-inch-curved-monitor-goes-down-to-200-at-newegg/"><u>Score Big Savings: Acer's Stunning 34-Inch Curved Monitor Goes Down to $200 at Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-gadget-reviews/"><u>Tom's Tech Hub: Advanced Gadget Reviews</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-looking-beyond-virtualdub-the-best-video-editing-software-for-your-needs/"><u>Updated In 2024, Looking Beyond Virtualdub The Best Video Editing Software for Your Needs</u></a></li>
 </ul></div>
 

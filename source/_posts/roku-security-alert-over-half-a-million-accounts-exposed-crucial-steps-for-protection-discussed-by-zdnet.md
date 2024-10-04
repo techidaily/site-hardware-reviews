@@ -1,7 +1,7 @@
 ---
 title: "Roku Security Alert: Over Half a Million Accounts Exposed! Crucial Steps for Protection Discussed by ZDNet"
-date: 2024-09-23T16:11:16.396Z
-updated: 2024-09-28T19:32:43.432Z
+date: 2024-09-29T00:38:08.301Z
+updated: 2024-10-03T23:03:25.214Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,17 +99,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-enhance-your-shots-top-paid-and-free-iphone-photography-apps/"><u>[New] Enhance Your Shots Top Paid and Free iPhone Photography Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-mastery-your-phone-as-a-personalized-vr-headset/"><u>[New] Step-by-Step Mastery Your Phone as a Personalized VR Headset</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-mastering-youtube-studio-the-ultimate-guide-to-video-edits/"><u>[Updated] 2024 Approved Mastering YouTube Studio The Ultimate Guide to Video Edits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-talk-unveiling-cutting-edge-hardware-with-toms-expertise/"><u>Advanced Tech Talk: Unveiling Cutting-Edge Hardware with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-ai-9-hx-370-inside-the-new-asus-zenbook-s16-gaming-and-productivity-performance-evaluated/"><u>AMD Ryzen AI 9 HX 370 Inside the New Asus Zenbook S16 - Gaming and Productivity Performance Evaluated</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862722328-beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benchmark-battles-is-the-samsung-book4-edge-outclassed-by-iphone-12-in-speed-and-efficiency/"><u>Benchmark Battles: Is the Samsung Book4 Edge Outclassed by iPhone 12 in Speed and Efficiency?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-install-and-refresh-your-windows-pcs-bluetooth-dongle-software/"><u>Get the Latest: Install and Refresh Your Windows PC's Bluetooth Dongle Software</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-behind-the-scenes-of-iscreen-capture/"><u>In 2024, Behind the Scenes of iScreen Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/prowess-rankings-10-best-free-video-calls-with-screen-sharing/"><u>Prowess Rankings 10 Best Free Video Calls with Screen Sharing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-acer-graphics-via-windows-update/"><u>Refresh Acer Graphics via Windows Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-touchpad-fixing-common-issues-and-restoring-functionality/"><u>Revive Your Touchpad: Fixing Common Issues & Restoring Functionality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-enjoy-premium-video-artwork-download-at-no-cost-today/"><u>[New] In 2024, Enjoy Premium Video Artwork - Download at No Cost Today!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-strategies-for-maximizing-your-facebook-videos/"><u>[New] In 2024, Innovative Strategies for Maximizing Your Facebook Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/trategic-trailer-planning-for-increased-channels-profitability/"><u>[New] Strategic Trailer Planning for Increased Channels' Profitability</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-thorough-assessment-samsungs-hololens-like-spinning-lens/"><u>[Updated] 2024 Approved Thorough Assessment Samsung's Hololens-Like Spinning Lens</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>[Updated] In 2024, Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Lock Screen Password</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-fixes-for-your-download-pending-problems-on-the-play-store/"><u>Quick Fixes for Your Download Pending Problems on the Play Store</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealing-concealed-techniques-discover-the-eight-best-approaches-to-charge-your-smartphone-wirelessly/"><u>Revealing Concealed Techniques: Discover the Eight Best Approaches to Charge Your Smartphone Wirelessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-pay-vs-google-pay-a-comprehensive-comparison-for-smart-consumers/"><u>Samsung Pay vs Google Pay: A Comprehensive Comparison for Smart Consumers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-power-sharing-using-an-iphone-magsafe-charger-on-your-android-smartphone/"><u>Seamless Power Sharing: Using an iPhone MagSafe Charger on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/simple-steps-to-modify-and-authenticate-your-pdfs-using-android/"><u>Simple Steps to Modify and Authenticate Your PDFs Using Android</u></a></li>
 </ul></div>
 

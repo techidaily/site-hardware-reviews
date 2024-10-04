@@ -1,7 +1,7 @@
 ---
 title: "Unveiling May 2O24's Ultimate Television Deals: Save Big with These ZDNET Specials"
-date: 2024-09-24T18:40:34.586Z
-updated: 2024-09-28T18:18:05.341Z
+date: 2024-09-29T17:35:42.356Z
+updated: 2024-10-04T00:13:19.003Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,17 +105,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-image-safekeepers-online/"><u>[New] Prime Image Safekeepers Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>[New] The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-easy-way-capture-your-minecraft-moments-with-these-simple-mac-tips/"><u>[Updated] In 2024, The Easy Way Capture Your Minecraft Moments with These Simple Mac Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-top-tier-electronics-with-toms-hardware/"><u>Discovering Top-Tier Electronics with Tom's Hardware</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/from-ephemeral-to-everlasting-the-art-of-saving-social-media-snaps-for-2024/"><u>From Ephemeral to Everlasting The Art of Saving Social Media Snaps for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone X</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-valkyrie-vind-sl125-stunning-anime-design-but-disappointing-functionality/"><u>In-Depth Analysis of the Valkyrie Vind SL125: Stunning Anime Design but Disappointing Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-experts/"><u>Mastering Gadgets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigate-and-rectify-your-iphone-image-gallery-a-guide-to-8-key-fixes/"><u>Navigate and Rectify Your iPhone Image Gallery: A Guide to 8 Key Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-driver-conflicts-in-windows-quickly/"><u>Resolving Driver Conflicts in Windows Quickly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-the-western-digital-my-passport-6tb-portable-ssd-compact-yet-capacious/"><u>Review of the Western Digital My Passport 6TB Portable SSD - Compact Yet Capacious</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unleashing-marketing-potential-with-powerful-cookiebot-features/"><u>Unleashing Marketing Potential with Powerful Cookiebot Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-blurring-the-boundary-a-comprehensive-look-at-story-bokeh/"><u>[New] Blurring the Boundary A Comprehensive Look at Story Bokeh</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-essential-themes-and-backdrops-for-a-stylish-laptop/"><u>[New] In 2024, Essential Themes & Backdrops for a Stylish Laptop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>[Updated] Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-complete-overview-v-youtubers-in-the-digital-arena-for-2024/"><u>[Updated] Complete Overview V-YouTubers in the Digital Arena for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-disclosing-the-top-10-hidden-story-enthusiasts/"><u>[Updated] Disclosing the Top 10 Hidden Story Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-and-fast-raspberry-pi-m2-ssd-addon-comprehensive-evaluation/"><u>Affordable and Fast Raspberry Pi M.2 SSD Addon: Comprehensive Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-enhanced-performance-with-sunfounders-pironman-5-an-aesthetically-pleasing-raspberry-pi-desktop-housing-that-supports-ssd-and-dazzles-with-rgb-le31/"><u>Experience Enhanced Performance with Sunfounder's Pironman 5 - An Aesthetically Pleasing Raspberry Pi Desktop Housing that Supports SSD and Dazzles with RGB LEDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-tech-gadgets-by-toms-electronics-hub/"><u>Expert Insights on Tech Gadgets by Tom’s Electronics Hub</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capture-and-record-every-sound-on-your-pc-with-x-recorder/"><u>In 2024, Capture & Record Every Sound on Your PC with X-Recorder</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-hardware-by-toms-experts/"><u>In-Depth Analysis of PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-expert-insights-on-pc-components-and-gear/"><u>Inside Tom's Equipment: Expert Insights on PC Components and Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-zerowriter-inks-latest-typewriter-enhanced-52-e-ink-display-and-weeklong-battery-life-with-comfortable-mechanical-keys/"><u>Introducing Zerowriter Ink's Latest Typewriter: Enhanced 5.2 E-Ink Display & Weeklong Battery Life with Comfortable Mechanical Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-projects-with-waveshares-new-iot-board-seamlessly-integrates-with-raspberry-pi-zero-includes-4glte-connectivity-and-customized-micropytho34/"><u>Revolutionize Your Projects with Waveshare's New IoT Board: Seamlessly Integrates with Raspberry Pi Zero, Includes 4G/LTE Connectivity & Customized MicroPython Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-hues-handbook-theory-meets-technique-for-2024/"><u>Ultimate Hues Handbook Theory Meets Technique for 2024</u></a></li>
 </ul></div>
 

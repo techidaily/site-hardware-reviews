@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Sound Quality: How We Found an Unrivaled Soundbar Beyond Vizio & JBL's Reach - A ZDNet Exclusive"
-date: 2024-09-26T17:46:51.538Z
-updated: 2024-09-28T18:34:39.097Z
+date: 2024-09-26T16:33:47.396Z
+updated: 2024-10-03T17:16:03.013Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,18 +111,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-routine-for-accessing-and-playing-fb-videos-via-apple-tv/"><u>[New] 2024 Approved The Ultimate Routine for Accessing and Playing FB Videos via Apple TV</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-thrilling-twists-and-turns-short-track-22/"><u>[New] 2024 Approved Thrilling Twists & Turns - Short Track '22</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-top-5-windows-screen-capturing-utilities/"><u>[New] 2024 Approved Unveiling The Top 5 Windows Screen Capturing Utilities</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-craft-impeccable-sequences-editor-supreme-for-vimeo/"><u>[New] In 2024, Craft Impeccable Sequences Editor Supreme for Vimeo</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-arcade-adventurers-approaches/"><u>2024 Approved ARCADE ADVENTURERS' APPROACHES</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimize-your-mobile-browsing-with-cleaner-video-playback/"><u>2024 Approved Optimize Your Mobile Browsing with Cleaner Video Playback</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-continuous-learning-part-of-chatgpts-functionality-from-conversing-with-people/"><u>Is Continuous Learning Part of ChatGPT's Functionality From Conversing With People?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/master-your-laravel-projects-with-ui-dashboard-pro-premium-edition-from-creative-tim-featuring-intuitive-admin-panel-and-ready-to-implement-crud-functionali7/"><u>Master Your Laravel Projects with UI Dashboard Pro Premium Edition From Creative Tim - Featuring Intuitive Admin Panel and Ready-to-Implement CRUD Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-photomagic-studio/"><u>[New] In 2024, PhotoMagic Studio</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevate-storytelling-free-soundtrack-options-available/"><u>[Updated] Elevate Storytelling - Free Soundtrack Options Available!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-enhancing-productivity-the-benefits-of-using-a-dual-monitor-setup-over-a-single-ultrawide/"><u>1. Enhancing Productivity: The Benefits of Using a Dual-Monitor Setup Over a Single UltraWide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-how-to-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-to-make-reels-on-facebook/"><u>In 2024, How to Make Reels on Facebook?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/screen-saving-solutions-a-critical-look-at-capturers-for-2024/"><u>Screen Saving Solutions A Critical Look at Capturers for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/simple-steps-to-successfully-convert-your-dvds-into-avi-files/"><u>Simple Steps to Successfully Convert Your DVDs Into AVI Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-wi-fi-7-features-and-benefits-is-it-worth-the-upgrade/"><u>Understanding Wi-Fi 7: Features & Benefits - Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-origins-of-enigmatic-tech-phrases-demonstrations-and-digital-eulogy/"><u>Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-classic-clamshell-computer-design-remains-forever-popular/"><u>Why the Classic Clamshell Computer Design Remains Forever Popular</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
 </ul></div>
 

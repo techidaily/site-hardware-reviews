@@ -1,7 +1,7 @@
 ---
 title: Top Television Bargains in May 2024 - Explore the Latest Offers on ZDNet
-date: 2024-09-24T16:29:26.689Z
-updated: 2024-09-28T17:20:03.279Z
+date: 2024-10-01T21:59:50.417Z
+updated: 2024-10-03T21:14:27.420Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-collagecraft-stitching-videos-for-instagram-on-iosandroid/"><u>[New] 2024 Approved CollageCraft Stitching Videos for Instagram on iOS/Android</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-step-into-pro-audio-recording-on-your-mac-using-audacity/"><u>[Updated] Step Into Pro Audio Recording on Your Mac Using Audacity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-logitech-g515-lightspeed-tkl-keyboard-evaluation-the-ultimate-compact-choice/"><u>Affordable Logitech G515 Lightspeed TKL Keyboard Evaluation: The Ultimate Compact Choice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amds-latest-giants-in-depth-performance-review-of-the-ryzen-5-9600x-and-ryzen-7-9700x-powered-by-advanced-zen-5/"><u>AMD's Latest Giants - In-Depth Performance Review of the Ryzen 5 9600X and Ryzen 7 9700X Powered by Advanced Zen 5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-endurance-and-quiet-strength-in-the-asus-tuf-gaming-a14-series/"><u>Discovering Endurance and Quiet Strength in the Asus TUF Gaming A14 Series</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-and-installation-of-compatible-camera-drivers-for-pcs-on-windows-111087/"><u>Easy Download & Installation of Compatible Camera Drivers for PCs on Windows 11/10/8/7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/edit-like-a-pro-how-to-clear-out-photo-borders-quickly/"><u>Edit Like a Pro How to Clear Out Photo Borders Quickly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-pny-rp60-portable-ssd-good-quality-yet-unremarkable-features/"><u>Evaluating the PNY RP60 Portable SSD - Good Quality, Yet Unremarkable Features</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-spark-go-2023-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Spark Go (2023) FRP In 3 Different Ways</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oneplus-nord-ce-3-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your OnePlus Nord CE 3 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-edge-enhancements-in-windows-10-release/"><u>In 2024, The Edge Enhancements in Windows 10 Release</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-level-visual-experience/"><u>Next-Level Visual Experience</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-play-40c-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Play 40C Black and White | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-gearheads-companion-inside-toms-hardware-wonders/"><u>The Gearhead's Companion: Inside Tom's Hardware Wonders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Technology Secrets at Tom's Hardware Sanctuary</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-new-display-drivers-for-your-windows-pc/"><u>Update and Install New Display Drivers for Your Windows PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-live-stream-to-instagram-from-obs/"><u>[New] Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-metrics-mastery-gain-more-followers/"><u>[Updated] Instagram Metrics Mastery - Gain More Followers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-upload-recycling-101-for-2024/"><u>[Updated] Instagram Upload Recycling 101 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-vocalists-choice-the-finest-9-online-mic-recorders/"><u>[Updated] Vocalist's Choice The Finest 9 Online Mic Recorders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/continued-growth-for-oled-monitors-market-forecast-estimates-upwards-of-134-million-deliveries-by-end-of-year/"><u>Continued Growth for OLED Monitors: Market Forecast Estimates Upwards of 1.34 Million Deliveries by End-of-Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dev-creates-portable-e-ink-monitor-using-kindle-jailbreak-process-unveiled/"><u>Dev Creates Portable E Ink Monitor Using Kindle - Jailbreak Process Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-at-toms-hardware-review-hub/"><u>Discover Cutting-Edge Computing at Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-driver-issue-for-windows-7/"><u>Fix Dell Touchpad Driver Issue for Windows 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-0-to-million-views-the-ultimate-content-blueprint/"><u>From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-continuous-freezing-and-crashing-of-darkest-dungeon-pc-version/"><u>How to Resolve Continuous Freezing and Crashing of Darkest Dungeon 지금 PC Version</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/meet-your-new-sound-partner-agptek-a01mp-review/"><u>Meet Your New Sound Partner - AGPTEK A01MP Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Labor Day Special Savings! Snag Your 85-Inch TCL Smart TV for Just 75%% of the Original Price.
-date: 2024-09-22T18:36:45.612Z
-updated: 2024-09-28T19:12:18.882Z
+date: 2024-10-01T00:05:01.181Z
+updated: 2024-10-03T17:18:26.190Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +99,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-from-passion-to-prominence-the-creators-quest/"><u>[New] 2024 Approved From Passion to Prominence The Creator's Quest</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-navigating-insta-fan-hollows-a-quick-guide/"><u>[Updated] Navigating Insta Fan Hollows A Quick Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v27-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V27 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/aggregating-the-top-5-mac-clipping-applications-for-2024/"><u>Aggregating the Top 5 Mac Clipping Applications for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/an-animated-look-at-valkyrie-vind-sl125s-performance-impeccable-style-but-inferior-execution-revealed/"><u>An Animated Look at Valkyrie Vind SL125's Performance - Impeccable Style but Inferior Execution Revealed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-g6x-solid-gamers-companion-without-distinctive-attributes/"><u>Comprehensive Evaluation of the Gigabyte G6X - Solid Gamers' Companion without Distinctive Attributes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-valkyrie-syn-2n40-aio-water-block-assessment-outstanding-thermal-efficiency-meets-bulky-app-interface/"><u>Comprehensive Valkyrie Syn 2N40 AIO Water Block Assessment: Outstanding Thermal Efficiency Meets Bulky App Interface</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-gadgets-visit-toms-hardware-hub/"><u>Expert Guidance on Gadgets - Visit Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-insights-from-toms-hardware-on-cutting-edge-tech-devices-tech-digest/"><u>Expert Reviews and Insights From Tom's Hardware on Cutting-Edge Tech Devices | Tech Digest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-top-notch-gadgets-with-toms-hardware-review-channel/"><u>Explore Top-Notch Gadgets with Tom's Hardware Review Channel</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-raspberry-pi-artificial-intelligence-starter-set-brainiac-edition/"><u>In-Depth Analysis of the Raspberry Pi Artificial Intelligence Starter Set - 'Brainiac' Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mov-to-aiff-file-converter-download-our-no-cost-tool-and-edit-with-ease/"><u>MOV to AIFF File Converter: Download Our No-Cost Tool & Edit with Ease!</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-voice-translation-english-to-bangla-online-and-offline-apps-for-2024/"><u>New Voice Translation English to Bangla Online and Offline Apps for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-unveiling-secrets-with-toms-tech-wisdom/"><u>Pioneering Hardware Discussions: Unveiling Secrets with Tom's Tech Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-reviews-join-us-at-toms-tech-forum/"><u>Pioneering Hardware Reviews: Join Us at Tom's Tech Forum</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ps5-or-no-ps5-are-there-real-advantages-to-owning-sonys-newest-game-console/"><u>PS5 or No PS5: Are There Real Advantages to Owning Sony's Newest Game Console?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-dev-error-6068-in-modern-warfare-mw-warzone-expert-tips/"><u>Solving Dev Error 6068 in Modern Warfare (MW) Warzone - Expert Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-record-podcast-remotely/"><u>[Updated] 2024 Approved How to Record Podcast Remotely</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-prime-video-streamers-camera-picks-for-quality-content/"><u>[Updated] In 2024, Prime Video Streamers' Camera Picks for Quality Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-by-tom-decoding-computer-hardware/"><u>Comprehensive Guide by Tom: Decoding Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/conquer-virtual-worlds-in-depth-analysis-of-alienwares-aw2725df-360-hz-oled-monitor-for-serious-gamers/"><u>Conquer Virtual Worlds: In-Depth Analysis of Alienware's AW2725DF 360 Hz OLED Monitor for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-new-technology-discover-toms-hardware/"><u>Expert Guidance on New Technology - Discover Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-the-ultimate-guide/"><u>Exploring Technology with Tom's Hardware Hub - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/first-portable-gaming-monitor-by-minisforum-high-performance-with-a-15ninch-display-and-144-hz-at-only-189/"><u>First Portable Gaming Monitor by Minisforum: High Performance with a 15.nInch Display and 144 Hz at only $189</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-simple-reader-to-multi-functional-display-repurpose-your-kindle-with-these-steps-from-devrepo/"><u>From Simple Reader to Multi-Functional Display: Repurpose Your Kindle with These Steps From DevRepo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-x50iplus-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor X50i+ to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-rankings-leading-gopro-case-models/"><u>In 2024, The Ultimate Rankings Leading GoPro Case Models</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-constant-crashes-a-guide-for-stable-hearthstone-gameplay-on-pc/"><u>Resolving Constant Crashes: A Guide for Stable Hearthstone Gameplay on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/tailor-videos-to-instagrams-preferred-format-for-2024/"><u>Tailor Videos to Instagram's Preferred Format for 2024</u></a></li>
 </ul></div>
 

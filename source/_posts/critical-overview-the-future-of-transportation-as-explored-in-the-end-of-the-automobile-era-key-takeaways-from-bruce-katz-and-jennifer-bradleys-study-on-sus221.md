@@ -1,7 +1,7 @@
 ---
 title: "Critical Overview: The Future of Transportation as Explored in 'The End of the Automobile Era': Key Takeaways From Bruce Katz and Jennifer Bradley's Study on Sustainable Cities"
-date: 2024-09-17 20:46:48
-updated: 2024-09-20 12:43:17
+date: 2024-10-02T20:32:40.405Z
+updated: 2024-10-03T23:18:01.724Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,31 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-chromebooks-to-the-rescue-mastering-webcam-recordings/"><u>[New] 2024 Approved Chromebooks to the Rescue Mastering Webcam Recordings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/149-deal-on-acer-nitro-27/"><u>$149 Deal on Acer Nitro 27</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/explore-innovative-light-based-uiux-with-creative-tims-extensive-library-of-28plus-systematic-resources-and-templates/"><u>Explore Innovative Light-Based UI/UX with Creative Tim's Extensive Library of 28+ Systematic Resources and Templates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-voice-chat-on-cod-black-ops-cold-war/"><u>How to Fix Non-Functional Voice Chat on COD: Black Ops Cold War</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-phone-freedom-comprehensive-guide-on-android-s-pentiger-way-for-samsung-galaxy-s6s7s8-edges/"><u>Mastering Phone Freedom: Comprehensive Guide on Android S PenTiger Way for Samsung Galaxy S6/S7/S8 Edges</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-tab-s6-review-s-pen-dex-mode-and-more/"><u>Samsung Galaxy Tab S6 Review: S Pen, DeX Mode, and More</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-crashes-in-horizon-forbidden-west-full-version-on-windows/"><u>Ultimate Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultra-high-definition-graphics-unveiled-aocs-new-graphic-pro-series-u3-hits-the-pro-arena/"><u>Ultra-High Definition Graphics Unveiled: AOC's New Graphic Pro Series U3 Hits the Pro Arena</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-on-screen-a-comprehensive-guide-to-asus-rog-swift-pg49wcd-monitor-review/"><u>Unveiling the Colors on Screen: A Comprehensive Guide to Asus ROG Swift PG49WCD Monitor Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-by-toms-experts/"><u>Unveiling the Latest in Computer Components by Tom's Experts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

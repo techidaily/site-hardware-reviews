@@ -1,7 +1,7 @@
 ---
 title: "AI vs Piracy: Eradicating Hashish Smuggling on International Waters | ZDNET"
-date: 2024-09-17 10:46:39
-updated: 2024-09-20 12:28:56
+date: 2024-09-30T22:49:29.362Z
+updated: 2024-10-03T20:37:55.785Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-leveraging-hashtags-and-collaborations-for-1k-insta-following-for-2024/"><u>[Updated] Leveraging Hashtags & Collaborations for 1K Insta Following for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/from-closed-doors-to-community-access-microsofts-generative-ai-red-team-technology-now-available-to-all-insights-on-zdnet/"><u>From Closed Doors to Community Access: Microsoft's Generative AI Red Team Technology Now Available to All – Insights on ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-circumvent-disney-restrictions-for-dvd-duplication-guide/"><u>How to Circumvent Disney Restrictions for DVD Duplication Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-capture-chill-vibes-top-winter-bg-ideas-for-yt/"><u>In 2024, Capture Chill Vibes Top Winter Bg Ideas for YT</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-beyerdynamic-mmx-30e-pro-impressive-acoustics-meets-simple-design/"><u>In-Depth Analysis of Beyerdynamic MMX 30E Pro - Impressive Acoustics Meets Simple Design</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/leading-free-internet-tools-for-turning-videos-into-songs-and-podcasts/"><u>Leading Free Internet Tools for Turning Videos Into Songs and Podcasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/master-iphones-artistic-capabilities-capturing-movement-blur-for-2024/"><u>Master iPhone's Artistic Capabilities Capturing Movement Blur for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-resin-3d-printing-with-elegoos-saturn-4-ultra-a-detailed-review-exploring-its-technological-advancements/"><u>The Future of Resin 3D Printing with Elegoo's Saturn 4 Ultra - A Detailed Review Exploring Its Technological Advancements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-popular-virtual-reality-peripherals-for-2024/"><u>Top 10 Popular Virtual Reality Peripherals for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-guide-to-toms-computer-components-and-systems/"><u>Unlocking Performance: A Guide to Tom's Computer Components and Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-a-comprehensive-review-of-the-corsair-e27t-ssd-the-ultimate-1tb-m2-solution/"><u>Unveiling the Best: A Comprehensive Review of the Corsair E27T SSD - The Ultimate 1TB M.2 Solution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-top-templates-for-tiktok-videos/"><u>Unveiling Top Templates for TikTok Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Savings Alert: Snag the Luxurious 77-Inch LG C3 OLED TV for a Whopping $1,200 Less – Shop Now Before It's Gone!"
-date: 2024-09-22T17:02:12.060Z
-updated: 2024-09-28T17:59:17.994Z
+date: 2024-10-02T23:54:11.370Z
+updated: 2024-10-03T16:32:23.997Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,16 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +98,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/revived-graphics-workshop-operational-post-nvidia-errors/"><u>[Revived] Graphics Workshop Operational Post-Nvidia Errors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-fast-track-to-using-ez-grabber-effectively-and-efficiently/"><u>[Updated] In 2024, Fast Track to Using EZ Grabber Effectively & Efficiently</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-display-choices-the-top-5-for-ps5-games/"><u>[Updated] Optimal Display Choices The Top 5 For PS5 Games</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-zero-price-audio-excellence-ranking-of-top-10-desktop-tools-for-2024/"><u>[Updated] Zero-Price Audio Excellence Ranking of Top 10 Desktop Tools for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/amplify-detail-top-tips-for-shooting-up-closer-with-videoleap/"><u>Amplify Detail Top Tips for Shooting Up Closer with VideoLeap</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-blaze-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gigabyte-b650-aorus-elite-ax-ice-motherboard-assessment-high-costs-meet-high-end-features/"><u>Comprehensive Gigabyte B650 Aorus Elite AX Ice Motherboard Assessment: High Costs Meet High-End Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-trends-insightful-analysis-of-new-hardware-by-tom/"><u>Decoding Tech Trends: Insightful Analysis of New Hardware by Tom</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-your-favorite-kickstarter-campaigns-as-mp4-with-this-simple-tool/"><u>Download Your Favorite Kickstarter Campaigns as MP4 with This Simple Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-sound-quality-with-the-turtle-beach-atlas-air-an-in-depth-review/"><u>Experience Unmatched Sound Quality with the Turtle Beach ATLAS Air – An In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-insights-from-toms-hardware/"><u>Exploring the Latest in Tech: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-hostgator-vps-vs-shared-web-hosting-options/"><u>In-Depth Evaluation of HostGator VPS Vs. Shared Web Hosting Options</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-hardware-tech-top-picks-from-toms-investigation/"><u>Inside Scoop on Hardware Tech - Top Picks From Tom's Investigation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-landscape-unveiling-secrets-from-toms-hardware-experts/"><u>Navigating the Tech Landscape: Unveiling Secrets From Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-canon-video-editing-handbook-software-tips-and-trends/"><u>New 2024 Approved The Ultimate Canon Video Editing Handbook Software, Tips, and Trends</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-copyright-clarity-for-instagram-tracks/"><u>[New] Copyright Clarity for Instagram Tracks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-record-a-movie-on-pc-mac-and-smartphones/"><u>[New] How to Record a Movie on PC, Mac, and Smartphones?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benefits-of-moving-up-to-the-new-generation-ryzen-cpu-is-it-worth-it/"><u>Benefits of Moving Up to the New Generation Ryzen CPU: Is It Worth It?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/build-the-ultimate-gaming-rig-top-picks-for-z790-mobo-and-aio-cooler-combinations/"><u>Build the Ultimate Gaming Rig: Top Picks for Z790 Mobo & AIO Cooler Combinations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-fast-5g-with-motorola-one-5g-ace-in-depth-review-of-speed-and-battery-longevity/"><u>Experience Fast 5G with Motorola One 5G Ace - In-Depth Review of Speed and Battery Longevity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-basics-to-pros-mastering/"><u>From Basics to Pros: Mastering</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-best-beams-microphones-for-education/"><u>In 2024, Best Beams Microphones for Education</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-artificial-intelligence-for-insights-and-predictions/"><u>In 2024, Harnessing Artificial Intelligence for Insights and Predictions</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/playtime-perfection-the-kiddo-gamer-guide/"><u>Playtime Perfection The Kiddo Gamer Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovered-visual-output-from-gpu/"><u>Recovered Visual Output From GPU</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-guide-the-ultimate-hardware-resource/"><u>Tom's Computer Gear Guide: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-and-comprehensive-reviews/"><u>Tom's Tech Hub: Expert Insights and Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-and-electronics-reviews/"><u>Tom's Tech Hub: In-Depth Computer and Electronics Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-computer-components-and-performance/"><u>Tom's Tech Review: Expert Insights Into Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadget-insights-with-toms-technology-hub/"><u>Unveiling Gadget Insights with Tom’s Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964466307-win-a-free-corsair-t2-road-warrior-gaming-chair-exclusive-online-giveaway/"><u>Win a Free Corsair T2 Road Warrior Gaming Chair - Exclusive Online Giveaway</u></a></li>
 </ul></div>
 

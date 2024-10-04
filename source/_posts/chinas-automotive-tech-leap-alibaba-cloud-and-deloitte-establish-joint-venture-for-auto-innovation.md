@@ -1,7 +1,7 @@
 ---
 title: "China's Automotive Tech Leap: Alibaba Cloud and Deloitte Establish Joint Venture for Auto Innovation"
-date: 2024-09-19 22:26:20
-updated: 2024-09-20 11:18:42
+date: 2024-09-27T22:34:41.329Z
+updated: 2024-10-03T22:23:02.467Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,34 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-youtubes-functionality-following-uploaded-videos/"><u>[New] In 2024, Exploring YouTube’s Functionality Following Uploaded Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-gpu-chronicles-radeon-reimagined/"><u>[New] In 2024, GPU Chronicles Radeon Reimagined</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-boost-your-brand-with-snapchats-business-features-for-2024/"><u>[Updated] Boost Your Brand with Snapchat's Business Features for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>[Updated] Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tips-for-optimizing-facebooks-auto-play-videos/"><u>2024 Approved Tips for Optimizing Facebook's Auto-Play Videos</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/beginners-guide-to-setting-up-a-canon-printer-with-images/"><u>Beginner's Guide to Setting up a Canon Printer (with Images)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dragon-ball-marathon-mastery-how-to-binge-the-series-correctly/"><u>Dragon Ball Marathon Mastery: How to Binge the Series Correctly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps-in-2024/"><u>Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-the-high-end-price-tag-on-the-latest-model-g-electric-dual-zone-bbq/"><u>Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-hd-photography-insta360s-new-tiny-go-3-shoots-in-stunning-4k-resolution/"><u>Experience Ultra-HD Photography: Insta360's New Tiny Go 3 Shoots in Stunning 4K Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cherry-xtrfy-k5v2-a-game-changing-review-with-cutting-edge-red-keyswitch-technology/"><u>Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gemini-technology-fuels-nests-latest-innovative-smart-thermostat/"><u>Gemini Technology Fuels Nest's Latest Innovative Smart Thermostat</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

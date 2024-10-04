@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Eco-Friendly Transportation: Sony and Honda Reveal Advanced Electric Vehicle Prototype"
-date: 2024-09-17 13:31:46
-updated: 2024-09-20 10:31:36
+date: 2024-09-26T16:20:21.586Z
+updated: 2024-10-03T23:43:09.786Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-easy-steps-to-save-youtube-videos/"><u>[New] 2024 Approved Easy Steps to Save YouTube Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-momentum-go-from-zero-to-viral-in-fb/"><u>[Updated] 2024 Approved Mastering Momentum Go From Zero to Viral in FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screensnapper-showdown/"><u>[Updated] ScreenSnapper Showdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-performance-with-toms-pc-reviews/"><u>Discovering Performance with Tom's PC Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-equipment-insights/"><u>Dive Into Technology with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-a-deep-dive-into-hardware-innovations/"><u>Exploring Gadgets with Tom: A Deep Dive Into Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-mighty-raspberry-pi-cm4-an-ode-to-an-industrial-staple/"><u>Exploring the Mighty Raspberry Pi CM4 - An Ode to an Industrial Staple</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-a2plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi A2+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-15-pro-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-6s-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 6s Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-by-tom-the-ultimate-guide-to-modern-hardware/"><u>Innovative Tech Analysis by Tom: The Ultimate Guide to Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-top-tips-from-toms-hardware-expertise/"><u>Mastering Electronics: Top Tips From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-asus-proart-pa3-user-1/"><u>Reviewing the Asus ProArt PA3# User #1</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/section-2b-five-factfact-list/"><u>Section 2B: Five Fact.Fact List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-tutorial-for-turning-followers-into-cash-via-instagram-for-2024/"><u>The Ultimate Tutorial for Turning Followers Into Cash via Instagram for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-guides-on-computer-hardware/"><u>Tom's Tech Hub: In-Depth Guides on Computer Hardware</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-xs-max-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone XS Max lock with Apple ID</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

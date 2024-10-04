@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Immersive Surround Sound From Unexpected Brand Beats Vizio & JBL!
-date: 2024-09-27T16:30:58.032Z
-updated: 2024-09-28T16:10:20.061Z
+date: 2024-10-02T21:10:39.473Z
+updated: 2024-10-03T22:31:39.010Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview-for-2024/"><u>[New] Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-high-dynamic-range-potential/"><u>[New] Unlocking Windows' High Dynamic Range Potential</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-superior-sound-recorders-for-scholarly-discussions/"><u>[Updated] 2024 Approved Superior Sound Recorders for Scholarly Discussions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-avoid-distortion-best-practices-for-shooting-up-close-with-videoleap/"><u>[Updated] Avoid Distortion Best Practices for Shooting Up Close with VideoLeap</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-assessed-striving-for-the-ultimate-gaming-experience/"><u>Asus ROG Swift OLED PG32UCDP Assessed: Striving for the Ultimate Gaming Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/detailed-inspection-elite-edition-parrot-drone/"><u>Detailed Inspection Elite Edition Parrot Drone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-guides-and-insights/"><u>Exploring Technology with Tom's Hardware Guides & Insights</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-8-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-cooling-techniques-how-the-52-pi-ice-tower-plus-transforms-your-raspberry-pi-experience/"><u>Master Cooling Techniques: How the '52-Pi Ice Tower Plus' Transforms Your Raspberry Pi Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-through-atandts-overseas-roaming-agreement/"><u>Navigating Through AT&T's Overseas Roaming Agreement</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/obs-streamers-toolkit-for-captivating-sessions-for-2024/"><u>OBS Streamer’s Toolkit for Captivating Sessions for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/preventing-time-shifts-on-windows-a-guide/"><u>Preventing Time Shifts on Windows: A Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-memory-an-eco-friendly-look-at-teamgroupebn-t-force-vulcan-ddr5-6000-c30-with-2x16gb-modules/"><u>Revolutionizing Memory: An Eco-Friendly Look at TeamGroup'ebn T-Force Vulcan DDR5-6000 C30 with 2X16GB Modules</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341743302-stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-computer-wonders-at-toms-hardware-haven/"><u>Unveiling Computer Wonders at Tom's Hardware Haven</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-premium-visual-enhancer-cutting-edge-conversion/"><u>[Updated] 2024 Approved Premium Visual Enhancer Cutting-Edge Conversion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/behind-every-message-exploring-the-enigma-of-communicating-with-ghosts-online-demystifying-dead-internet-theory/"><u>Behind Every Message: Exploring the Enigma of Communicating with Ghosts Online - Demystifying Dead Internet Theory</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/designing-epic-adventurers-in-dungeons-and-dragons-with-the-power-of-chatgpt-and-dall-e/"><u>Designing Epic Adventurers in Dungeons & Dragons with the Power of ChatGPT and DALL-E</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-equipment-review/"><u>Exploring Digital Innovations with Tom's Equipment Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-go-live-with-recorded-material-on-the-worlds-largest-social-network-for-2024/"><u>How to Go Live with Recorded Material on the World's Largest Social Network for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>In 2024, Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y200e-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y200e 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-pong-game-on-raspberry-pi-pico-pov-technique-and-tailored-mouse-driver/"><u>Interactive Pong Game on Raspberry Pi Pico: POV Technique & Tailored Mouse Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/open-source-ultimate-tool-the-raspberry-pi-rp2vecky-hackbat-for-comprehensive-penetration-testing/"><u>Open-Source Ultimate Tool: The Raspberry Pi RP2vecky HackBat for Comprehensive Penetration Testing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-reveals-plans-for-ipo-on-the-london-stock-exchange/"><u>Raspberry Pi Reveals Plans for IPO on the London Stock Exchange</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-diy-raspberry-pi-creation-unveiling-the-pi-1000-a-powerhouse-of-5-raspberry-units/"><u>Revolutionary DIY Raspberry Pi Creation - Unveiling the 'Pi 1000': A Powerhouse of 5 Raspberry Units!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-evolution-of-communication-with-google-hangouts-what-it-was-and-how-it-worked/"><u>The Evolution of Communication with Google Hangouts – What It Was and How It Worked</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-modern-resurrection-of-classic-computers-a-tale-of-raspberry-pi-3d-printers-and-a-vintage-trs-80-revival/"><u>The Modern Resurrection of Classic Computers: A Tale of Raspberry Pi, 3D Printers, and a Vintage TRS-80 Revival</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-the-best-tech-gear/"><u>Tom's Computer Components: Your Guide to the Best Tech Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-entertainment-hub-raspberry-pi-cm4-core-with-integrated-sports-features-and-gpio-extension-ports/"><u>Ultimate Entertainment Hub: Raspberry Pi CM4 Core with Integrated Sports Features and GPIO Extension Ports</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-x-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone X & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
 </ul></div>
 

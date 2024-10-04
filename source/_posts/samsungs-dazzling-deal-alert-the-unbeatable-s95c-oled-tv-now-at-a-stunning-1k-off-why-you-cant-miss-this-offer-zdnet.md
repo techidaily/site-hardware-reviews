@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Dazzling Deal Alert: The Unbeatable S95C OLED TV Now at a Stunning 1K Off – Why You Can’t Miss This Offer | ZDNET"
-date: 2024-09-22T17:50:51.485Z
-updated: 2024-09-28T17:43:32.112Z
+date: 2024-09-28T22:57:07.971Z
+updated: 2024-10-04T00:32:30.171Z
 tags:
   - tvs
 categories:
@@ -52,13 +52,6 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
@@ -66,16 +59,10 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Picture and sound 
@@ -140,6 +127,13 @@ I usually play console games with a headset so I can better pick up on audio cue
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Streaming 
 
 This TV was built from the ground up to be a one-stop-shop not only for streaming Amazon Originals and Prime Video offerings, but streaming from every one of your favorite apps. Upon startup, the Omni QLED drops you right into the FireOS home screen, which puts Prime shows and movies front and center. You can also access Amazon's other video streaming partners like Freevee from the home screen as well to watch free movies and shows with ads. 
@@ -174,13 +168,6 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -199,6 +186,13 @@ Many of the cool features are inextricably linked to Alexa functionality, so if 
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -236,24 +230,20 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/multi-day-battery-life-on-the-new-acer-dell-hp-and-lenovo-pcs-discover-their-innovative-snapdragon-x-plus-windows-copilotplus-technology-for-just-1099/"><u>'Multi-Day Battery Life' On the New Acer, Dell, HP, and Lenovo PCs: Discover Their Innovative Snapdragon X + Windows Copilot+ Technology for Just $1,099</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snapchat-photo-edits-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Snapchat Photo Edits A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-10-best-free-selfie-apps-for-iphone-x87-plus/"><u>[New] In 2024, 10 Best Free Selfie Apps for iPhone X/8/7 Plus</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-tailoring-your-youtube-video-introduction-perfectly/"><u>[New] In 2024, Tailoring Your YouTube Video Introduction Perfectly</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-the-maze-of-fs-mode-in-ppro/"><u>[Updated] Navigating the Maze of FS Mode in PPro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-9-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Nubia Red Magic 9 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-through-toms-comprehve-guide-to-hardware/"><u>Mastering Technology Through Tom's Comprehve Guide to Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tomtechspotlight/"><u>Navigating the World of High-Performance Hardware with TomTechSpotlight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/qualcomm-x-series-processors-set-to-triple-dell-xps-13plus-laptop-lifespans-at-half-the-price-of-intel-counterparts/"><u>Qualcomm X Series Processors Set to Triple Dell XPS 13+ Laptop Lifespans at Half the Price of Intel Counterparts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-on-mastering-the-art-of-illumination-for-youtube-videos-for-2024/"><u>Shine On Mastering the Art of Illumination for YouTube Videos for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/technical-glitch-or-danger-a-fiery-laptop-sparks-urgent-exodus-from-an-american-airlines-airliner/"><u>Technical Glitch or Danger? A Fiery Laptop Sparks Urgent Exodus From an American Airlines Airliner</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-dynamic-duo-youtube-and-instagram-story-collaboration/"><u>The Dynamic Duo YouTube & Instagram Story Collaboration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-pc-hardware-by-tom-explore-and-learn/"><u>The Ultimate Resource on PC Hardware by Tom - Explore and Learn</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-advanced-computer-components/"><u>Tom's Tech Insights: Your Guide to Advanced Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews: In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-pcs-below-1k-a-buyers-guide/"><u>Top-Rated Gaming PCs Below $1K: A Buyer's Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-nioh-2-from-crashing-completely/"><u>Troubleshooting Tips: How To Stop Nioh 2 From Crashing Completely</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-fixing-windows-error-0xc0000001-quickly/"><u>Understanding & Fixing Windows Error 0xC0000001 Quickly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-x6-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-color-enhancement-made-easy-the-role-of-luts-in-photos/"><u>[Updated] Color Enhancement Made Easy The Role of LUTs in Photos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expert-conversion-service-from-video-to-written-form/"><u>[Updated] Expert Conversion Service From Video to Written Form</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/choreographing-a-memorable-tiktok-fade-out/"><u>Choreographing a Memorable TikTok Fade-Out</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-hp-envy-laptop-model-5660-complete-guide-to-downloading-and-installing-drivers/"><u>Effortless HP Envy Laptop Model 5660 - Complete Guide to Downloading and Installing Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-pc-components-with-toms-gear-guide/"><u>Exploring Cutting-Edge PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-step-by-step-guide-enhancing-youtube-content-with-ios-recording/"><u>In 2024, Step-by-Step Guide Enhancing YouTube Content with iOS Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-performance-and-quality-of-nzxts-premium-c1500-psu/"><u>In-Depth Analysis: Performance and Quality of NZXT's Premium C1500 PSU</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/key-iphone-photography-utilities-for-watermarking-for-2024/"><u>Key iPhone Photography Utilities for Watermarking for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mac-hardware-help-regaining-external-hdd-visibility/"><u>Mac Hardware Help: Regaining External HDD Visibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-expertise/"><u>Navigating the Digital Landscape with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneers-of-processors-a-journey-through-toms-hardware-world/"><u>Pioneers of Processors: A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-electronics-reviews-and-tips-by-tech-maestro-toms-gear-insights/"><u>Precision Electronics Reviews & Tips by Tech Maestro - Tom's Gear Insights</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shoot-the-worlds-hustle-and-bustle-iphone-tips-for-shutter-speed-blurs/"><u>Shoot the World's Hustle and Bustle IPhone Tips for Shutter Speed Blurs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/targeted-online-advertising/"><u>Targeted Online Advertising</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-premiere-elements-competitors-you-need-to-know-2023-update/"><u>Updated 2024 Approved 10 Premiere Elements Competitors You Need to Know 2023 Update</u></a></li>
 </ul></div>
 

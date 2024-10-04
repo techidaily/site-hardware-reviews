@@ -1,7 +1,7 @@
 ---
 title: "1. Get Your Medications by Drone: Amazon Launches Complimentary Prescription Air Shipments"
-date: 2024-09-18 22:31:29
-updated: 2024-09-20 11:13:55
+date: 2024-10-03T01:36:22.208Z
+updated: 2024-10-03T20:17:55.874Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-navigating-screen-recordings-with-gotomeeting/"><u>[New] 2024 Approved Navigating Screen Recordings with GoToMeeting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-broadcast-podcast-episode-via-insta-story/"><u>[New] Broadcast Podcast Episode via Insta Story</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-bring-footage-together-ken-burns-technique-for-camtasa-users/"><u>[New] In 2024, Bring Footage Together Ken Burns Technique for Camtasa Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hriving-on-youtube-the-guide-to-affiliates/"><u>[New] Thriving on YouTube The Guide to Affiliates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-pc-gear-with-toms-technology-insights/"><u>Discover Cutting-Edge PC Gear with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-new-world-of-computing-golden-socketed-cpu-on-gigabytes-misty-designed-iceberg-intel-z790-motherboard/"><u>Explore the New World of Computing: Golden Socketed CPU on Gigabyte's Misty-Designed Iceberg Intel Z790 Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gadgets-with-tom-a-deep-dive-into-modern-hardware/"><u>Exploring Computer Gadgets with Tom - A Deep Dive Into Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-review/"><u>Exploring Computer Gear with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-maxsun-catalog-intels-arrow-lake-amds-ryzen-9000-boards-with-latest-unveiled-motherboard-chipsets-and-800-series-labeling/"><u>Exploring the Maxsun Catalog: Intel's Arrow Lake, AMD's Ryzen 9000 Boards with Latest Unveiled Motherboard Chipsets & 800-Series Labeling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gearing-up-against-competitors-amds-latest-release-of-the-800-series-chipsets-designed-to-harness-ryzen-9000-processor-potential-and-outpace-intel/"><u>Gearing Up Against Competitors: AMD's Latest Release of the 800 Series Chipsets Designed to Harness Ryzen 9000 Processor Potential and Outpace Intel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gigabyte-releases-heavy-duty-motherboards-for-128-lb-gpus-despite-strengthened-connections-pcb-breakage-issue-persists/"><u>Gigabyte Releases Heavy-Duty Motherboards for 128-Lb GPUs; Despite Strengthened Connections, PCB Breakage Issue Persists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gigabytes-latest-innovation-the-exclusive-gold-plated-cpu-socket-for-the-intel-z790-aorus-xtreme-x-motherboard-with-stunning-misty-graphics/"><u>Gigabyte's Latest Innovation: The Exclusive Gold-Plated CPU Socket for the Intel Z790 Aorus XTreme X Motherboard with Stunning Misty Graphics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gms-en-wav-met-ondiepe-versterker-veerkomt-gratuis-online-bij-movavi/"><u>GMS en WAV Met Ondiepe Versterker: Veerkomt Gratuïs Online Bij Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-depth-evaluation-of-the-kindle-scribe-does-its-features-justify-its-cost-in-long-term-use/"><u>In-Depth Evaluation of the Kindle Scribe: Does Its Features Justify Its Cost in Long-Term Use?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leverage-browser-cookies-for-superior-analytics-experience-the-power-of-cookiebot-technology/"><u>Leverage Browser Cookies for Superior Analytics - Experience the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-pick-top-3d-lights-for-gamers-sanctuaries/"><u>The Ultimate Pick: Top 3D Lights for Gamers' Sanctuaries</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-audience-connection-top-video-formats-for-youtube-success-for-2024/"><u>Unlocking Audience Connection Top Video Formats for YouTube Success for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

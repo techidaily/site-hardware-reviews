@@ -1,7 +1,7 @@
 ---
 title: Weave in an Underlying Theme About Overcoming Challenges (Akin to Reducing Patient Dose While Maintaining Image Quality) as a Metaphor for Personal Growth and Resilience Under Stressful Conditions.
-date: 2024-09-22T17:38:24.584Z
-updated: 2024-09-28T16:05:21.983Z
+date: 2024-10-03T00:08:07.623Z
+updated: 2024-10-04T00:16:09.818Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,24 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-discover-the-leading-sites-offering-customizable-text-flair/"><u>[New] 2024 Approved Discover the Leading Sites Offering Customizable Text Flair</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-audio-mastery-top-strategies-for-win10-users/"><u>[New] Audio Mastery Top Strategies for Win10 Users</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-tasty-trends-unveiled-a-taste-of-tiktok-culture/"><u>[New] In 2024, Tasty Trends Unveiled A Taste of TikTok Culture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hdr-sky-scenes-the-top-10-online-archives/"><u>[Updated] HDR Sky Scenes The Top 10 Online Archives</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-how-to-use-luts-to-obs-studio-and-download-free-luts/"><u>[Updated] How to Use LUTs to OBS Studio & Download Free LUTs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726222472479-flacmp3-movavi/"><u>在线免费将FLAC文件转换为MP3 - Movavi流行的媒体编码解决方案</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/approach-recall-the-initial-stage-of-planning-for-land-division/"><u>Approach: Recall the Initial Stage of Planning for Land Division</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341712256-discover-the-unique-world-of-flsun-s1-fast-and-fun-solar-gadget/"><u>Discover the Unique World of FLSun S1 - Fast and Fun Solar Gadget!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-filming-availability-pledge-downloading-rights/"><u>In 2024, Filming Availability Pledge Downloading Rights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premier-picks-top-tripods-for-crystal-clear-4k-cinematography/"><u>In 2024, Premier Picks Top Tripods for Crystal-Clear 4K Cinematography</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flsun-s1-high-velocity-and-distinctive-delta-shape/"><u>In-Depth Analysis of the FLSun S1 - High Velocity and Distinctive Delta Shape</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-performance-breakdown-of-the-nzxt-c1email-protected-platinum-supply/"><u>In-Depth Performance Breakdown of the NZXT C1([email Protected]) Platinum Supply</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/influencers-insight-surging-up-by-a-thousand-on-ig-each-month/"><u>Influencer's Insight Surging up by a Thousand on IG Each Month</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-with-toms-hardware-guide/"><u>Mastering Equipment with Tom's Hardware Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-14-pro-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Xiaomi 14 Pro Phone? Unlock It Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-the-keychron-k2-he-special-edition-a-blend-of-vintage-style-and-contemporary-functionality/"><u>Review: The Keychron K2 HE Special Edition - A Blend of Vintage Style and Contemporary Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-odyssey-unveiling-the-power-of-gigabytes-aorus-fo32u2p-monitor-a-fusion-of-elegance-and-buttery-smooth-240-hz-gaming/"><u>The Ultimate 4K Odyssey: Unveiling the Power of Gigabyte's Aorus FO32U2P Monitor, a Fusion of Elegance & Buttery-Smooth 240 Hz Gaming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: Comprehensive Analysis of the Latest Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-through-toms-hardware-experts/"><u>Unveiling Cutting-Edge Technology Through Tom's Hardware Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas-for-2024/"><u>[Updated] From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quieting-unwanted-sounds-obs-audio-issue-fixed/"><u>2024 Approved Quieting Unwanted Sounds OBS Audio Issue Fixed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-ai-tools-content-writers-can-use-to-improve-their-workflow/"><u>8 AI Tools Content Writers Can Use to Improve Their Workflow</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bolstering-bygone-directx-games-with-cutting-edge-dxvk-features/"><u>Bolstering Bygone DirectX Games with Cutting-Edge DXVK Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-corsair-m75-mechanical-keyboard-with-bi-directional-buttons-reviewed/"><u>Comprehensive Evaluation of the Corsair M75 Mechanical Keyboard with Bi-Directional Buttons Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-meditation-with-chatgpt-suggestions/"><u>Enhancing Meditation With ChatGPT Suggestions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-artificial-intelligence-starter-pack-an-in-depth-analysis/"><u>Exploring the Raspberry Pi Artificial Intelligence Starter Pack: An In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-c53-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme C53 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-shoot-hdr-photos-with-iphone-for-2024/"><u>How to Shoot HDR Photos with iPhone for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/impending-price-surges-for-essential-computer-components-how-industry-wide-output-limits-affect-dram-and-nand-costs/"><u>Impending Price Surges for Essential Computer Components: How Industry-Wide Output Limits Affect DRAM and NAND Costs</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-quick-start-utilizing-zoom-in-windows-10-systems/"><u>In 2024, Quick Start Utilizing Zoom in Windows 10 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-11-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 11 Pro Max? How to Fix</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-canon-mx870-driver-for-windows-10-7-and-8/"><u>Install Canon MX870 Driver for Windows 10, 7 & 8</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxia-unveils-breakthrough-solid-state-drives-with-ultra-fast-optical-link-capable-of-transmitting-data-beyond-40-meters-away-from-cpus/"><u>Kioxia Unveils Breakthrough Solid State Drives with Ultra-Fast Optical Link Capable of Transmitting Data Beyond 40 Meters Away From CPUs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/latest-insights-into-12vhpwr-connection-issues-melting-reports-coming-from-psu-side/"><u>Latest Insights Into 12VHPWR Connection Issues - Melting Reports Coming From PSU Side</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-unveiling-the-latest-tech-trends/"><u>Tom's Computer Components: Unveiling the Latest Tech Trends</u></a></li>
 </ul></div>
 

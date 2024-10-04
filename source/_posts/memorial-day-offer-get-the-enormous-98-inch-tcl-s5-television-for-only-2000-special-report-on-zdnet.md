@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Offer: Get the Enormous 98-Inch TCL S5 Television for Only $2,000 - Special Report on ZDNet"
-date: 2024-09-21T17:15:59.524Z
-updated: 2024-09-28T16:52:46.993Z
+date: 2024-10-03T01:16:33.567Z
+updated: 2024-10-03T19:40:52.873Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,19 +99,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-multi-media-sharing-on-instagram-for-2024/"><u>[New] Mastering the Art of Multi-Media Sharing on Instagram for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-perfect-your-recordings-the-ultimate-guide-to-adobe-presenter-for-2024/"><u>[New] Perfect Your Recordings The Ultimate Guide to Adobe Presenter for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-get-free-picture-frame-videos/"><u>[Updated] How to Get Free Picture Frame Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-affordable-easy-to-use-video-capture-tools-for-windows/"><u>[Updated] In 2024, Affordable, Easy-to-Use Video Capture Tools for Windows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-snap-smart-the-best-iphone-and-android-apps-for-photo-stickers/"><u>2024 Approved Snap Smart - The Best iPhone and Android Apps for Photo Stickers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>2024 Approved The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-knowledge-simplified-with-toms-insider-guides-and-reviews/"><u>Advanced Hardware Knowledge Simplified with Tom's Insider Guides and Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-testing-and-review-of-asus-zenbook-s16-with-amd-ryzen-ai-nine-hx-series-processor/"><u>Comprehensive Guide to Testing and Review of ASUS Zenbook S16 with AMD Ryzen AI Nine HX Series Processor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-performance-a-detailed-look-at-the-pros-and-cons-of-the-cooler-master-ion-360-aio-pc-watercooler/"><u>Evaluating Performance: A Detailed Look at the Pros and Cons of the Cooler Master ION 360 AIO PC Watercooler</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/masterclass-review-why-the-samsung-galaxy-s10-reigns-supreme-as-a-luxury-device/"><u>Masterclass Review: Why the Samsung Galaxy S10 Reigns Supreme as a Luxury Device</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-creating-synchronized-media-incorporating-video-into-audio-streams/"><u>New Creating Synchronized Media Incorporating Video Into Audio Streams</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-tech-analysis-toms-hardware-direct/"><u>The Ultimate Source for Tech Analysis - Tom's Hardware Direct</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-with-toms-hardware-test-lab/"><u>Unlocking Performance with Tom's Hardware Test Lab</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ios-mastery-effortlessly-extracting-youtube-videos/"><u>[New] IOS Mastery Effortlessly Extracting Youtube Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-merging-worlds-youtube-in-instagram-narrative-art-for-2024/"><u>[New] Merging Worlds YouTube in Instagram Narrative Art for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-tips-for-maximizing-your-facebook-story-impact/"><u>[Updated] 2024 Approved Essential Tips for Maximizing Your Facebook Story Impact</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-blueprint-to-instagram-profit-partnerships-beyond-likes-and-shares/"><u>2024 Approved The Blueprint to Instagram Profit Partnerships Beyond Likes and Shares</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-gamers-crossroads-oculus-or-playstation-vr/"><u>2024 Approved The Ultimate Gamer’s Crossroads Oculus or PlayStation VR?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-in-the-division-2-addressing-low-fps-and-stutter-issues-for-the-new-year/"><u>Achieve Seamless Gameplay in The Division 2 - Addressing LOW FPS & Stutter Issues for the New Year</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-we-expect-a-gpt-5-insights-into-its-potential-release-schedule/"><u>Can We Expect a GPT-5? Insights Into Its Potential Release Schedule</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-pc-hardware-from-toms-gadget-insights/"><u>Expert Advice on PC Hardware From Tom's Gadget Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-uncovering-the-best-in-computer-hardware/"><u>Expert Reviews by Tom: Uncovering the Best in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-tips-on-hardware-from-toms-technology-corner/"><u>Expert Tips on Hardware From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertly-guided-computer-shopping-at-trustworthy-toms-hardware/"><u>Expertly Guided Computer Shopping at Trustworthy Tom's Hardware</u></a></li>
 </ul></div>
 

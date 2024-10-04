@@ -1,7 +1,7 @@
 ---
 title: Lyft Unveils Aggressive Strategy in Self-Driving Car Competition – Latest News on ZDNet
-date: 2024-09-18 23:59:43
-updated: 2024-09-20 12:38:37
+date: 2024-09-30T19:05:58.598Z
+updated: 2024-10-04T00:59:43.938Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,39 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-reawakening-dormant-connections-with-your-obs-cam/"><u>[New] 2024 Approved Reawakening Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-hash-list-boosting-youtube-views-to-6000plus/"><u>[New] 2024 Approved The Ultimate Hash List Boosting Youtube Views to $6,000+</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-decoding-popularity-a-truthful-look-at-reels-on-instagram/"><u>[New] Decoding Popularity A Truthful Look at Reels on Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-key-10-plug-ins-for-elevating-your-fcp-workflow-for-2024/"><u>[New] Key 10 Plug-Ins for Elevating Your FCP Workflow for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-engaging-content-for-facebook-live/"><u>2024 Approved Crafting Engaging Content for Facebook Live</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieving-peak-performance-tips-and-tricks-for-the-best-apple-tv-setup/"><u>Achieving Peak Performance: Tips and Tricks for the Best Apple TV Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341710115-affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-insights-by-tom-top-tech-pickups-and-gear-advice/"><u>Hardware Insights by Tom: Top Tech Pickups and Gear Advice</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-edge-40-neo-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola Edge 40 Neo Without PUK Codes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-on-toms-hardware-portal/"><u>Unveiling the Latest Tech Trends on Tom's Hardware Portal</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

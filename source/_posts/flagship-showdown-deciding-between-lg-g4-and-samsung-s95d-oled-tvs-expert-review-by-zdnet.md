@@ -1,7 +1,7 @@
 ---
 title: "Flagship Showdown: Deciding Between LG G4 and Samsung S95D OLED TVs | Expert Review by ZDNet"
-date: 2024-09-23T19:42:40.285Z
-updated: 2024-09-28T16:28:47.526Z
+date: 2024-10-02T22:12:27.589Z
+updated: 2024-10-03T18:00:00.412Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,22 +99,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-pixelpatchwork-android-and-ios-instagram-collage/"><u>[New] 2024 Approved PixelPatchwork Android & iOS Instagram Collage</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-smart-sync-strategy-transferring-photos-from-iphone-to-snapchat-correctly/"><u>2024 Approved Smart Sync Strategy Transferring Photos From iPhone to Snapchat Correctly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024s-elite-picks-leading-document-and-image-scanners/"><u>2024'S Elite Picks: Leading Document and Image Scanners</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-your-gaming-on-windows-via-dxvk-software/"><u>Elevating Your Gaming on Windows via DXVK Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-and-systems-by-toms-hardware/"><u>Expert Analysis on Gadgets and Systems by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-protective-shells-for-your-raspberry-pi/"><u>Exploring the Best Protective Shells for Your Raspberry Pi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-tom-your-ultimate-guide-to-new-hardware/"><u>Navigating Technology with Tom - Your Ultimate Guide to New Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/netgears-value-proposition-with-the-orbi-770-mesh-router-balancing-price-point-and-performance/"><u>Netgear's Value Proposition with the Orbi 770 Mesh Router - Balancing Price Point and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discoveries-the-world-of-toms-technology-insight/"><u>Pioneering Hardware Discoveries: The World of Tom's Technology Insight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-compute-module-4s-revolutionizing-industrial-automation-a-detailed-examination/"><u>Raspberry Pi Compute Module 4S: Revolutionizing Industrial Automation - A Detailed Examination</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-audio-companion-top-5-gaming-devices/"><u>The Ultimate Audio Companion Top 5 Gaming Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-oneplus-nord-n30-se-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from OnePlus Nord N30 SE.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-immersive-zooming-experience-with-microsoft-teams/"><u>[Updated] Immersive Zooming Experience with Microsoft Teams</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-guide-to-affordable-performance-the-top-2024-graphic-card-reviews/"><u>Gamers' Guide to Affordable Performance: The Top 2024 Graphic Card Reviews</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 14 Pro Max without Apple ID?</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-splitcam-assessment-best-video-recorder-ranking/"><u>In 2024, SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-with-toms-hardware-your-ultimate-guide-to-gear-and-performance/"><u>Mastering Electronics with Tom's Hardware - Your Ultimate Guide to Gear and Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/mend-your-xbox-series-xs-troubleshooting-guide/"><u>Mend Your Xbox: Series X|S Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restarting-your-dead-computer-machine-techniques-for-bringing-back-power/"><u>Restarting Your Dead Computer Machine: Techniques for Bringing Back Power</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/taking-a-step-back-in-time-a-deep-dive-into-the-famous-handheld-mario-adventure-nintendos-game-and-watch-edition/"><u>Taking a Step Back in Time: A Deep Dive Into the Famous Handheld Mario Adventure - Nintendo's Game & Watch Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-the-latest-hardware-innovations/"><u>Tom's Tech Insights: A Comprehensive Guide to the Latest Hardware Innovations</u></a></li>
 </ul></div>
 

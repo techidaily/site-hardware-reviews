@@ -1,7 +1,7 @@
 ---
 title: "Durga Prasad Misra: C. 890 CE, During Reign of Kalyana Chalukya King Krishna III or Late Rashtrakuta Period (C. 973–991) Under Amoghavarsha II"
-date: 2024-09-25T18:49:42.593Z
-updated: 2024-09-28T18:48:56.579Z
+date: 2024-10-01T19:09:55.030Z
+updated: 2024-10-03T23:11:35.344Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,15 +133,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/reakdown-of-youtubes-money-making-mechanisms-cpm-for-2024/"><u>[New] Breakdown of YouTube’s Money-Making Mechanisms (CPM) for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>[New] Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-essential-zooid-creation-samples/"><u>[Updated] Essential Zooid Creation Samples</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-creators-revolutionizing-virtual-environments-for-2024/"><u>[Updated] Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computer-systems-decoded-the-toms-hardware-expose/"><u>Advanced Computer Systems Decoded: The Tom's Hardware Exposé</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-trusted-guide/"><u>Expert Analysis of Hardware by Tom - Your Trusted Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-reviews/"><u>Exploring Gadgets with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-video-success-a-list-of-20-pro-shortcuts-for-2024/"><u>Mastering Video Success A List of 20 Pro Shortcuts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/turing-engaging-online-vignettes-for-2024/"><u>Structuring Engaging Online Vignettes for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-evolution-of-elegance-and-power-exploring-the-dell-xps-13-9345-equipped-with-snapdragon-x-elite-processor/"><u>The Evolution of Elegance and Power - Exploring the Dell XPS 13 (9345) Equipped with Snapdragon X Elite Processor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-gopro-videos-the-ultimate-guide-for-2024/"><u>[New] Mastering Gopro Videos The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-20plus-fresh-collages-elevate-your-environment/"><u>[Updated] 20+ Fresh Collages Elevate Your Environment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-essential-seo-handbook-for-podcast-success/"><u>[Updated] The Essential Seo Handbook for Podcast Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-compilation-of-the-best-10-image-sharing-sites/"><u>2024 Approved A Compilation of the Best 10 Image Sharing Sites</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-diving-deep-into-quantum-hdr-basics/"><u>2024 Approved Diving Deep Into Quantum HDR Basics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-enhanced-dell-xps-16-and-14-marvelous-design-meets-top-notch-performance-with-surprising-quirks-explored-in-this-review/"><u>A Closer Look at the Enhanced Dell XPS 16 and 14: Marvelous Design Meets Top-Notch Performance with Surprising Quirks Explored in This Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862733914-gamers-dream-deal-save-hundreds-on-the-razer-blade-15-laptop-in-2n3-best-offer-ever/"><u>Gamer's Dream Deal! Save Hundreds on the Razer Blade 15 Laptop in 2N3 - Best Offer Ever</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-tecno-spark-go-2023-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Tecno Spark Go (2023) Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-metaverse-and-multi-meva-split-an-exploratory-analysis/"><u>In 2024, The Metaverse & Multi-Meva Split An Exploratory Analysis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-hidden-potential-sharing-videos-with-ease/"><u>In 2024, Unlock Hidden Potential Sharing Videos with Ease</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-gadget-analysis/"><u>Tom's Tech Review: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862737449-ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-price-on-new-asus-tuf-gaming-a15-memorial-day-special-at-only-658/"><u>Unbeatable Price on New Asus TUF Gaming A15 - Memorial Day Special at Only $658</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862661209-unleash-power-and-performance-get-the-asus-rog-zephyrus-g14-rtx-4060-for-just-1099-from-best-buy/"><u>Unleash Power & Performance: Get the Asus ROG Zephyrus G14 RTX 4060 for Just $1099 From Best Buy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/"><u>Unlocking the Potential of Computer Components with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-modern-electronics-at-toms-hardware-resource-center/"><u>Unveiling the Power of Modern Electronics at Tom's Hardware Resource Center</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-stunning-design-and-exceptional-capabilities-of-dell-xps-16-9640-and-xps-14-9440-a-comprehensive-review-with-notable-quirks/"><u>Unveiling the Stunning Design and Exceptional Capabilities of Dell XPS 16 (9640) and XPS 14 (9440): A Comprehensive Review with Notable Quirks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/urban-construction-meets-martian-adventure-epic-chaos-and-joy/"><u>Urban Construction Meets Martian Adventure: Epic Chaos and Joy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-content-authors-should-think-twice-before-deploying-ai-chatbot-assistants/"><u>Why Content Authors Should Think Twice Before Deploying AI Chatbot Assistants</u></a></li>
 </ul></div>
 

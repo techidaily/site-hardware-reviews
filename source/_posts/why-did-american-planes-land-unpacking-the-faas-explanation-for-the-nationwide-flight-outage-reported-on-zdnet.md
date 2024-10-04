@@ -1,7 +1,7 @@
 ---
 title: Why Did American Planes Land? Unpacking the FAA's Explanation for the Nationwide Flight Outage - Reported on ZDNET
-date: 2024-09-18 10:44:58
-updated: 2024-09-20 11:45:49
+date: 2024-09-27T16:53:41.807Z
+updated: 2024-10-04T00:36:39.505Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-buyers-path-to-a-top-360-camera-purchase-guide/"><u>[New] Buyer's Path to a Top 360 Camera Purchase Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-showdown-with-hero4-silver/"><u>[New] GoPro Hero5 Black Showdown with Hero4 Silver</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-sculpt-your-story-in-fb-coverspace/"><u>[Updated] 2024 Approved Sculpt Your Story in FB Coverspace</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-ai-for-stunning-photo-creation/"><u>2024 Approved Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-as-therapy-the-unseen-risks-you-should-know/"><u>AI as Therapy: The Unseen Risks You Should Know</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/crafting-elegance-with-tech-review-of-the-michael-kors-access-gen-5e-mkgo-watch-series/"><u>Crafting Elegance with Tech: Review of the Michael Kors Access Gen 5E MKGO Watch Series</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-visuals-what-sets-360-apart/"><u>In 2024, Comprehensive Visuals What Sets 360° Apart?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-geekworm-x1011-network-attached-storage-device/"><u>In-Depth Analysis of the Geekworm X1011 Network Attached Storage Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-meets-artificial-intelligence-comprehensive-insights-into-the-brainiac-learning-setup/"><u>Raspberry Pi Meets Artificial Intelligence: Comprehensive Insights Into the 'Brainiac' Learning Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rigorous-testing-of-sabrent-rocket-nano-2242-a-1tb-ssd-review-for-m2-needs/"><u>Rigorous Testing of Sabrent Rocket Nano 2242: A 1TB SSD Review for M.2 Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seed-selection/"><u>Seed Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Resource for Tech Enthusiasts - Insights From Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-razr-40-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Razr 40 Ultra Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-newest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of Newest Gadgets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unboxing-opportunities-the-marketing-planning-journey/"><u>Unboxing Opportunities The Marketing Planning Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-potential-a-comprehensive-review-of-the-gskill-trident-z5-rgb-for-advanced-ddr5-dual-dimm-systems/"><u>Unlocking Potential: A Comprehensive Review of the G.SKILL Trident Z5 RGB for Advanced DDR5 Dual-DIMM Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-review-on-akasas-advanced-gecko-ssd-heatsink-and-airflow-enhancer/"><u>Unveiling the Performance: A Review on Akasa's Advanced Gecko SSD Heatsink and Airflow Enhancer</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

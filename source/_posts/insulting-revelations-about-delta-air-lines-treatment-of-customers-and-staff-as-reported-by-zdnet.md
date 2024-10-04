@@ -1,7 +1,7 @@
 ---
 title: Insulting Revelations About Delta Air Lines' Treatment of Customers and Staff, as Reported by ZDNET
-date: 2024-09-17 14:36:46
-updated: 2024-09-20 12:43:22
+date: 2024-10-02T16:53:00.042Z
+updated: 2024-10-03T18:56:34.918Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,42 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-create-magic-download-premium-soundscapes-now/"><u>[Updated] Create Magic Download Premium Soundscapes Now!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-quick-filming-diy-hacks-to-try-at-home/"><u>2024 Approved Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluations-of-computer-parts-wisdom-from-toms-hardware/"><u>Comprehensive Evaluations of Computer Parts - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dynamic-discoveries-with-lively-language-lessons/"><u>Dynamic Discoveries with Lively Language Lessons</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-stuck-on-your-pc-top-2024-fixes-to-keep-the-game-running-smoothly/"><u>Fortnite Stuck on Your PC? Top 2024 Fixes to Keep the Game Running Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-block-openais-crawlers-from-scraping-your-website/"><u>How to Block OpenAI's Crawlers From Scraping Your Website</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-pro-ddr5-c36-modules-2x1geb-unleashing-the-full-potential-for-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Pro DDR5 C36 Modules (2X1geb): Unleashing the Full Potential for Enhanced Performance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-major-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement Across Major Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-with-tomns-hardware-experts/"><u>Navigating the Tech Maze with Tom'n's Hardware Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/telnet-access-in-windows-11-made-simple/"><u>Telnet Access in Windows 11 Made Simple</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-choosing-the-best-solid-state-drive-exclusive-review-on-corsairs-mp60mini-1tb-e27t/"><u>The Definitive Guide to Choosing the Best Solid-State Drive: Exclusive Review on Corsair's MP60^Mini 1TB (E27T)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-gamers-to-diy-repairs/"><u>The Ultimate Guide for Gamers to DIY Repairs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-review-of-gigabytes-affordable-b760m-ds3h-ax-perfect-entry-point-into-micro-atx-and-3-monitor-systems/"><u>Top Review of Gigabyte’s Affordable B760M DS3H AX - Perfect Entry Point Into Micro ATX & 3-Monitor Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-asrock-z790i-lightning-wi-fi-motherboard-compact-performance-meets-reliable-connectivity/"><u>Unboxing and Testing the ASRock Z790I Lightning Wi-Fi Motherboard: Compact Performance Meets Reliable Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-toms-expert-insights/"><u>Unveiling the Latest in Electronics - Tom's Expert Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

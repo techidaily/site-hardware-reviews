@@ -1,7 +1,7 @@
 ---
 title: "A Buyer's Digest: Expert Picks on Fireplace Entertainment Centers | ZDNET"
-date: 2024-09-22T19:06:22.862Z
-updated: 2024-09-28T16:24:01.737Z
+date: 2024-10-01T22:09:10.174Z
+updated: 2024-10-03T17:25:34.183Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,21 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-5-effective-tricks-for-youtube-subscriber-surges/"><u>[New] 2024 Approved 5 Effective Tricks for YouTube Subscriber Surges</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-free-high-quality-youtube-banner-samples-inside/"><u>[New] 2024 Approved Free High-Quality YouTube Banner Samples Inside!</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compare-and-contrast-the-lofree-edge-a-detailed-analysis-thin-design-lightweight-build-at-higher-pricing-against-the-apple-magic-keyboard/"><u>Compare and Contrast: The Lofree Edge - A Detailed Analysis, Thin Design, Lightweight Build at Higher Pricing Against the Apple Magic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-technology-guides/"><u>Exploring Hardware Innovations with Tom's Technology Guides</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-quantum-hdrs-impact-on-photography-for-2024/"><u>Exploring Quantum HDR's Impact on Photography for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-essence-extractor-capturing-and-saving-the-soul-of-twitter-gifs/"><u>In 2024, Essence Extractor Capturing & Saving the Soul of Twitter GIFs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g84-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G84 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-asus-pro-b760m-ct-csm-a-game-changing-motherboard-analysis/"><u>Inside the Asus Pro B760M-CT CSM: A Game-Changing Motherboard Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movavi-mp4m4a/"><u>Movavi MP4/M4A フリーオンライン変換サービス - 簡単ガイド</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-alluring-special-edition-a-look-at-keychron-k2-hes-retro-charm/"><u>The Alluring Special Edition: A Look at Keychron K2 HE's Retro Charm</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-hardware/"><u>Tom's Tech: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transform-your-imagination-into-reality-with-top-animation-software-for-2024/"><u>Transform Your Imagination Into Reality with Top Animation Software for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uncover-the-latest-in-gadgets-with-toms-equipment-guide/"><u>Uncover the Latest in Gadgets with Tom's Equipment Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uncovering-tech-insights-with-tom-a-comprehensive-hardware-overview/"><u>Uncovering Tech Insights with Tom - A Comprehensive Hardware Overview</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agriplay-squad-top-10-farming-games-to-bond-over/"><u>[New] 2024 Approved AgriPlay Squad Top 10 Farming Games to Bond Over</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-anonymous-streaming-on-instagram-your-ultimate-guide-to-go-incognito/"><u>[New] Anonymous Streaming on Instagram Your Ultimate Guide to Go Incognito</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[New] Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ideal-echo-reapers-in-colleges/"><u>[Updated] 2024 Approved Ideal Echo Reapers in Colleges</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieve-crystal-clear-shots-expert-guide-to-zooming-on-snapchat/"><u>[Updated] Achieve Crystal Clear Shots Expert Guide to Zooming on Snapchat</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[Updated] In 2024, Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-music-upload-essentials-your-youtube-journey/"><u>2024 Approved Music Upload Essentials Your YouTube Journey</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-urgent-security-flaw-in-zen-architecture-with-new-patch-msi-releases-agesa-version-120-fix/"><u>AMD Resolves Urgent Security Flaw in Zen Architecture with New Patch - MSI Releases AGESA Version 1.2.0 Fix</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/charm-crafted-conversations-flirting-in-english-dialogue/"><u>Charm Crafted Conversations: Flirting in English Dialogue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/check-physical-signs-notice-if-there-are-physical-signs-like-bloodshot-eyes-unexplained-bruises-changes-in-appetite-or-sleep-patterns-poor-personal-hygiene-91/"><u>Check Physical Signs: Notice if There Are Physical Signs Like Bloodshot Eyes, Unexplained Bruises, Changes in Appetite or Sleep Patterns, Poor Personal Hygiene, or Unusual Smells on Their Breath or Clothing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-newly-listed-31-motherboards-from-maxsun-showcasing-intel-arrow-lake-and-amd-ryzen-nine-zero-across-five-cutting-edge-unannounced-chi96/"><u>Comprehensive Guide to Newly Listed 31 Motherboards From Maxsun - Showcasing Intel Arrow Lake and AMD Ryzen Nine Zero, Across Five Cutting-Edge Unannounced Chipset Variants with PCIe 800 Branding</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-pc-gear-with-toms-technology-insights/"><u>Discover Cutting-Edge PC Gear with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-new-world-of-computing-golden-socketed-cpu-on-gigabytes-misty-designed-iceberg-intel-z790-motherboard/"><u>Explore the New World of Computing: Golden Socketed CPU on Gigabyte's Misty-Designed Iceberg Intel Z790 Motherboard</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12t-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12T Prowith/without a PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862867245-limited-time-offer-asus-prime-x67n-wifi-am5-motherboard-for-a-low-price-of-135/"><u>Limited Time Offer: ASUS Prime X67n Wifi AM5 Motherboard for a Low Price of 135$!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-customers-can-now-order-loongson-cpu-equipped-mothers-and-systems-from-373-shipping-available/"><u>US Customers Can Now Order Loongson-CPU-Equipped Mothers & Systems From $373: Shipping Available</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-launch-affordable-longsheng-loongson-cpu-based-motherboards-and-systems-starting-at-just-373-get-the-ultimate-value-deal/"><u>US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards & Systems Starting at Just $373 - Get the Ultimate Value Deal</u></a></li>
 </ul></div>
 

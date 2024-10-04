@@ -1,7 +1,7 @@
 ---
 title: "Breaking Boundaries Once More: How NASA Aims to Conquer Supersonic Speeds in Its Next Quest Venture | Exclusive Coverage by ZDNET"
-date: 2024-09-18 15:10:51
-updated: 2024-09-20 12:18:18
+date: 2024-10-01T16:45:37.160Z
+updated: 2024-10-03T16:23:37.368Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-inside-the-arsenal-the-complete-review-of-sj-cam-s6/"><u>[New] Inside the Arsenal The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-graphics-a-guide-to-a-flourishing-career/"><u>[Updated] Mastering Graphics A Guide to a Flourishing Career</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-up-to-date-techniques-for-screenshotting-idevices/"><u>[Updated] Up-to-Date Techniques for Screenshotting iDevices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-xbox-screen-recorder-how-to-guide-for-2024/"><u>[Updated] Xbox Screen Recorder How-To Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-update-process-for-zoom-desktop-client-across-windowsmacos/"><u>Easy Update Process for Zoom Desktop Client Across Windows/macOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-experience-enhanced-with-the-aorus-co49dq-oled-by-gigabyte-an-insight-into-its-amazing-colors-and-contrast-quality/"><u>Gaming Experience Enhanced with the Aorus CO49DQ OLED by Gigabyte - An Insight Into Its Amazing Colors & Contrast Quality</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-crafting-a-distinctive-image-with-creative-personal-frames-on-tiktok/"><u>In 2024, Crafting a Distinctive Image with Creative Personal Frames on TikTok</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-asus-rog-swift-pg3-similar-problem/"><u>In-Depth Asus ROG Swift PG3 # Similar Problem</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-gameplay-in-depth-review-of-the-45-inch-curved-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Maximizing Your Gameplay: In-Depth Review of the 45-Inch Curved OLED Monitor AOC Agon Pro AG456UCZD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/multiple-lines/"><u>Multiple Lines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discoveries-the-world-of-toms-technology-insight/"><u>Pioneering Hardware Discoveries: The World of Tom's Technology Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-the-asus-rog-strix-xg27acs-where-speed-meets-accuracy-in-an-180hz-gaming-experience/"><u>Review: The Asus ROG Strix XG27ACS, Where Speed Meets Accuracy in an 180Hz Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-new-era-of-industrial-iot-with-raspberry-pis-compute-module-4s/"><u>Reviewing the New Era of Industrial IoT with Raspberry Pi's Compute Module 4S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-in-computing-tips-and-reviews-from-toms-hardware-experts/"><u>Stay Ahead in Computing: Tips and Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-comprehensive-guide-to-electronics-toms-insights/"><u>The Comprehensive Guide to Electronics - Tom's Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-in-depth-analysis-and-comparison/"><u>Tom's Tech Reviews: In-Depth Analysis & Comparison</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

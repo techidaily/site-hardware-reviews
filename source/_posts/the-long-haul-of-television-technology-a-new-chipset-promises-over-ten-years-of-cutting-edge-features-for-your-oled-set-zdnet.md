@@ -1,7 +1,7 @@
 ---
 title: "The Long Haul of Television Technology: A New Chipset Promises Over Ten Years of Cutting-Edge Features for Your OLED Set | ZDNET"
-date: 2024-09-21T17:39:03.913Z
-updated: 2024-09-28T16:17:23.260Z
+date: 2024-09-27T16:13:42.058Z
+updated: 2024-10-03T19:35:12.728Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,19 +105,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-changes-in-instagrams-algorithm-user-perspectives/"><u>[Updated] 2024 Approved Changes in Instagram's Algorithm User Perspectives</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expertly-crafted-video-making-software-iphone-android/"><u>[Updated] 2024 Approved Expertly Crafted Video-Making Software (iPhone, Android)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-optimizing-viewing-distance-youtube-tips/"><u>[Updated] Optimizing Viewing Distance YouTube Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200e-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200e 5G</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-guide-on-updating-device-drivers-in-windows-881/"><u>Effortless Guide on Updating Device Drivers in Windows 8/8.1</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/free-online-converter-transform-wmv-files-into-mpeg-format-with-ease/"><u>Free Online Converter: Transform WMV Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gaming-monitor-insight-asrocks-pg27qft2a-with-ultra-fast-180-hz-display-analyzed/"><u>Gaming Monitor Insight: ASRock's PG27QFT2A with Ultra-Fast 180 Hz Display Analyzed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/lockdown-protocol-instantaneous-secure-tiktok-link-addition/"><u>Lockdown Protocol Instantaneous, Secure TikTok Link Addition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-expert-hardware-analysis/"><u>Mastering Gadgets with Tom - Expert Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-scoop-from-toms-hardware-experts/"><u>Mastering Technology: Inside Scoop From Tom's Hardware Experts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-still-to-wow-how-to-create-stop-motion-videos-on-instagram/"><u>New From Still to Wow How to Create Stop Motion Videos on Instagram</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/public-hearings-may-provide-community-members-with-a-platform-to-influence-the-land-division-process/"><u>Public Hearings May Provide Community Members with a Platform to Influence the Land Division Process.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-hardware-solutions/"><u>Tom's Ultimate Guide to Cutting-Edge Hardware Solutions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-hashtags-to-boost-your-youtube-views-beyond-six-figures-for-2024/"><u>Top 10 Hashtags to Boost Your Youtube Views Beyond Six Figures for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-behind-the-scenes-look-at-creating-dynamic-facebook-reels/"><u>[New] Behind-the-Scenes Look at Creating Dynamic Facebook Reels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-premier-hype-booster-maker-for-2024/"><u>[Updated] Premier Hype Booster Maker for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-amd-patches-zen-2-vulnerability-dont-delay-apply-msis-updated-agesa-120-bios/"><u>Breaking News: AMD Patches Zen 2 Vulnerability - Don’t Delay! Apply MSI's Updated AGESA 1.2.0 BIOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-review-and-tips-for-enhancing-images-with-facetune-2024/"><u>Complete Review and Tips for Enhancing Images with Facetune 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asus-pro-b760m-ct-csm-motherboard-why-choose-a-certified-supermom/"><u>Comprehensive Guide to Asus Pro B760M-CT CSM Motherboard - Why Choose a Certified Supermom?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-beast-a-deep-dive-into-the-asus-rog-z790-formulas-top-notch-hardware-and-efficient-cooling-mechanisms/"><u>Decoding the Beast: A Deep Dive Into the Asus ROG Z790 Formula's Top-Notch Hardware and Efficient Cooling Mechanisms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-gadget-guidance-mastering-hardware-solutions/"><u>Discover Tom's Gadget Guidance: Mastering Hardware Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-for-fixing-non-opening-optical-media-drive-problems-in-your-computer/"><u>Easy Solutions for Fixing Non-Opening Optical Media Drive Problems in Your Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/future-tech-uncovered-the-upcoming-line-of-certified-msi-z890-and-b860-boards-engineered-for-the-anticipated-intel-arrow-lake-s-chip-sneak-peek-before-compu82/"><u>Future Tech Uncovered: The Upcoming Line of Certified MSI Z890 & B860 Boards Engineered for the Anticipated Intel Arrow Lake-S Chip - Sneak Peek Before Computex 2024 Showcase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonic-windows-tunes-hub/"><u>In 2024, Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-tom-the-hardware-guide/"><u>Navigate Through Technology with Tom: The Hardware Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-setup-tips-for-pairing-your-amazon-fire-tv-remote/"><u>Seamless Setup: Tips for Pairing Your Amazon Fire TV Remote</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-effectiveness-of-digital-marketing-campaigns-its-deployment-across-various-industries-signifies-its-flexibility-and-ease-of-integration-making-it-a-valu28/"><u>The Effectiveness of Digital Marketing Campaigns. Its Deployment Across Various Industries Signifies Its Flexibility and Ease of Integration, Making It a Valuable Asset for Businesses Aiming to Enhance Their Online Presence Through Targeted Advertising.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-razr-40-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Razr 40 FRP Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 40 Pro | Dr.fone</u></a></li>
 </ul></div>
 

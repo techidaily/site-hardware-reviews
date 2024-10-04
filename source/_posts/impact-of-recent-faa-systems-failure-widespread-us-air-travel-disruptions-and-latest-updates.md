@@ -1,7 +1,7 @@
 ---
 title: "Impact of Recent FAA Systems Failure: Widespread US Air Travel Disruptions and Latest Updates"
-date: 2024-09-19 23:27:38
-updated: 2024-09-20 11:12:15
+date: 2024-10-02T20:18:09.113Z
+updated: 2024-10-03T17:51:11.837Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,40 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/-quick-guide-to-purging-watched-youtube-videos-for-2024/"><u>[New] A Quick Guide to Purging Watched YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-highpoint-artist-toolkit-review-for-2024/"><u>[New] Highpoint Artist Toolkit Review for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mp4ape-movavi/"><u>「オンラインで簡単なMP4からAPEへの無料変換 - Movavi」</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-frontiers-with-toms-hardware-innovations/"><u>Exploring Digital Frontiers with Tom's Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-nzxt-h7-flow-case-a-cautious-approach-to-performance/"><u>Exploring the NZXT H7 Flow Case: A Cautious Approach to Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341752337-get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-reno-11-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo Reno 11 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-add-text-to-video/"><u>In 2024, How to Add Text to Video</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-k11x-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo K11x Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphone-lens-hacks-capturing-perfect-reflections/"><u>IPhone Lens Hacks Capturing Perfect Reflections</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/joke-generation-made-simple-kapwing-app-guide/"><u>Joke Generation Made Simple – Kapwing App Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-assessment-slim-design-and-higher-cost-compared-with-apples-magic-keyboard/"><u>Lofree Edge Assessment: Slim Design & Higher Cost - Compared with Apple's Magic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visuals-with-asus-rog-swift-pg32ucdp-oled-a-comprehensive-review/"><u>Mastering Visuals with Asus ROG Swift PG32UCDP OLED - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-with-toms-hardware-advice/"><u>Mastering Your Digital Life with Tom's Hardware Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-and-precision-combined-an-expert-review-of-kingstons-c40-ddr5-6000-beast-the-reliable-force-in-dual-32gb-memory-sticks/"><u>Power and Precision Combined: An Expert Review of Kingston's C40 DDR5-6000 Beast - The Reliable Force in Dual 32GB Memory Sticks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a14-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A14 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-to-install-realtek-rtl8188cu-wireless-card-drivers-on-windows-11-and-7/"><u>Step-by-Step Instructions to Install Realtek RTL8188CU Wireless Card Drivers on Windows 11 & 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sustainable-food-choices/"><u>Sustainable Food Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-latest-computer-reviews-from-toms-hardware-insights/"><u>Unveiling Latest Computer Reviews From Tom's Hardware Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

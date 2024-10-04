@@ -1,7 +1,7 @@
 ---
 title: How a Revolutionary ML Algorithm Fuels Progress in the World of Driverless Car Development - Articles on ZDNet
-date: 2024-09-17 22:41:13
-updated: 2024-09-20 10:19:15
+date: 2024-09-28T00:22:48.928Z
+updated: 2024-10-03T23:31:26.659Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-editors-toolkit-using-markers-in-professional-editing/"><u>[New] 2024 Approved The Editor's Toolkit Using Markers in Professional Editing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-techniques-for-downloading-twitter-videos-and-creating-mp3s/"><u>[New] Techniques for Downloading Twitter Videos and Creating MP3s</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unmatched-gaming-laptops-top-4k-picks-reviewed/"><u>[New] Unmatched Gaming Laptops - Top 4K Picks Reviewed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-industry-leaders-top-10-free-lut-resource-list/"><u>[Updated] Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-board-functionality-a-comprehensive-approach-to-using-whiteboards-in-zoom-meetings-for-2024/"><u>[Updated] Mastering Board Functionality A Comprehensive Approach to Using Whiteboards in Zoom Meetings for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-latest-in-computing-with-toms-hardware-review/"><u>Explore the Latest in Computing with Tom's Hardware Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cloud-storage-expenses-made-simple-comparison-guide/"><u>In 2024, Cloud Storage Expenses Made Simple Comparison Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-lava-storm-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Lava Storm 5G Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-testing-the-responsiveness-and-comfort-of-cleveturas-clvx-1-wireless-keyboard-design/"><u>In-Depth Review: Testing the Responsiveness and Comfort of Clevetura's CLVX 1 Wireless Keyboard Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-speeds-with-the-latest-crucial-p310-a-comprehensive-guide-to-m2-2230-drives/"><u>Maximizing Speeds with the Latest Crucial P310: A Comprehensive Guide to M.2 2230 Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-tech-with-toms-hardware-in-hand/"><u>Navigating the World of Tech with Tom's Hardware in Hand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-with-toms-gear-guides/"><u>Navigating Through Technology with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/scene-reduction-unveiling-imovies-cropping-logic-for-2024/"><u>Scene Reduction Unveiling iMovie's Cropping Logic for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scribes-summit-selection-top-8/"><u>Scribe's Summit Selection - Top 8</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-reviews-and-advice/"><u>Tom's Computer Components - In-Depth Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hub-expert-reviews-and-innovative-pc-building-tips/"><u>Tom's Computer Hub: Expert Reviews & Innovative PC Building Tips</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
