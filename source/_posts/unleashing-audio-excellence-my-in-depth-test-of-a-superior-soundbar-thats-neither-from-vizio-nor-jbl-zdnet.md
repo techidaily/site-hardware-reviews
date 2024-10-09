@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Audio Excellence: My In-Depth Test of a Superior Soundbar That's Neither From Vizio nor JBL | ZDNet"
-date: 2024-09-27T23:46:17.939Z
-updated: 2024-10-03T19:25:08.378Z
+date: 2024-10-07T07:24:47.297Z
+updated: 2024-10-08T19:52:15.592Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,18 +99,20 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>[New] Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-your-ultimate-guide-to-protecting-images/"><u>[New] Your Ultimate Guide to Protecting Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-tseries-monetary-strategies-on-youtube-video-platforms/"><u>[Updated] In 2024, Decoding TSeries’ Monetary Strategies on YouTube Video Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics/"><u>[Updated] Reddit's Hidden Gems 5 Tips for Novices to Master Engagement Metrics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-retro-gaming-with-raspberry-pi-introducing-the-dual-player-picade-max-from-pimoroni/"><u>Experience Retro Gaming with Raspberry Pi: Introducing the Dual Player Picade MAX From Pimoroni</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-8-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 8 Without Apple ID Password?</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/leading-2x2-photo-editor-apps-enhance-images-with-easy-crop-options-and-background-color-adjustments/"><u>Leading 2X2 Photo Editor Apps : Enhance Images with Easy Crop Options and Background Color Adjustments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-4k-tv-setup-masterclass-achieving-perfect-picture-quality/"><u>Samsung 4K TV Setup Masterclass: Achieving Perfect Picture Quality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-bypassing-barriers-privately-share-youtube-video-via-google/"><u>2024 Approved Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2/"><u>ASRock PG2</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/breaking-down-the-newly-announced-google-pixel-tablet-when-to-expect-it-and-what-it-offers/"><u>Breaking Down the Newly Announced Google Pixel Tablet - When to Expect It & What It Offers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mp250-driver-download-and-update/"><u>Canon MP250 Driver Download & Update</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-aio-240l-robust-cooling-with-interface-improvement-needed/"><u>Comprehensive Analysis of the Valkyrie Syn AIO 240L - Robust Cooling with Interface Improvement Needed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-equipment-in-depth-reviews-and-insights/"><u>Exploring Tom's Computer Equipment - In-Depth Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flagship-microsoft-surface-pro-impressive-looks-yet-disappointing-smart-tech-features/"><u>In-Depth Analysis of the Flagship Microsoft Surface Pro - Impressive Looks, Yet Disappointing Smart Tech Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/scorching-savings-alert-apples-new-m2-macbook-air-on-sale-at-amazon-for-a-steal-at-799-dont-miss-out-pre-october-prime-frenzy/"><u>Scorching Savings Alert: Apple's New M2 MacBook Air on Sale at Amazon for a Steal at $799 – Don’t Miss Out Pre-October Prime Frenzy!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-troubleshooting-guide-resolving-playback-errors-on-your-device/"><u>Simple Troubleshooting Guide: Resolving 'Playback Errors on Your Device'</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamlined-guide-to-fresh-dell-printer-driver-downloads-and-upgrades/"><u>Streamlined Guide to Fresh Dell Printer Driver Downloads and Upgrades</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Hardware with Tom's Technology Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 </ul></div>
 

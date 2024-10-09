@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deals on Top-Ranking QLED Televisions: Save $1,000 This Labor Day - Insider Reviews by ZDNet"
-date: 2024-10-02T01:23:16.442Z
-updated: 2024-10-04T01:10:36.991Z
+date: 2024-10-02T22:43:56.370Z
+updated: 2024-10-09T05:34:50.709Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-secure-transfer-of-twitter-video-files-to-android-for-2024/"><u>[Updated] Secure Transfer of Twitter Video Files to Android for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-strategies-for-captivating-end-moments-for-2024/"><u>[Updated] Strategies for Captivating End Moments for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-full-guide-mastery-of-adobe-cloud-services-with-alternatives-analysis/"><u>2024 Approved Full Guide Mastery of Adobe Cloud Services with Alternatives Analysis</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-beginners-journey-through-internet-history-with-the-wayback-machine/"><u>A Beginner's Journey Through Internet History with the Wayback Machine</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-guidance-with-tom-the-hardware-specialists/"><u>Advanced Gadget Guidance with Tom – The Hardware Specialists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-features-of-lian-lis-hydroshift-lcd-tube-with-360-s/"><u>Exploring the Cutting-Edge Features of Lian Li's Hydroshift LCD Tube with 360 S</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-overclocked-c36-ddr5-memory-sticks-the-road-back-to-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Overclocked C36 DDR5 Memory Sticks: The Road Back to Enhanced Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-space-with-expert-advice-from-tom/"><u>Mastering Your Digital Space with Expert Advice From Tom'</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-new-tech-guides-by-toms-digital-domain/"><u>Navigating Through New Tech: Guides by Tom's Digital Domain</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-complete-guide-to-installing-linux-on-a-chromebook-for-2024/"><u>The Complete Guide to Installing Linux on a Chromebook for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-does-my-pc-freeze-on-windows-7-essential-fixes-to-keep-your-system-running-smoothly/"><u>Why Does My PC Freeze on Windows 7? Essential Fixes to Keep Your System Running Smoothly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-adaptive-gaming-techniques-by-pros/"><u>[New] 2024 Approved Adaptive Gaming Techniques by Pros</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-from-sound-to-sight-choosing-between-audio-and-video-media-for-2024/"><u>[New] From Sound to Sight Choosing Between Audio and Video Media for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-key-strategies-in-livestreaming-major-sporting-contests/"><u>[Updated] Key Strategies in Livestreaming Major Sporting Contests</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-expansion-solutions-with-the-highpoint-rocket-1608a-a-comprehensive-evaluation-of-added-storage-and-increased-power/"><u>Advanced Expansion Solutions with the HighPoint Rocket 1608A: A Comprehensive Evaluation of Added Storage and Increased Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-in-depth-analysis-of-the-uphere-m201-ssd-heatsink-your-guide-to-essential-nvme-thermal-management-at-only-5/"><u>Affordable Excellence: In-Depth Analysis of the UpHere M201 SSD Heatsink - Your Guide to Essential NVMe Thermal Management at Only $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fast-flagship-and-funny-a-comprehensive-review-of-the-flsun-s1-device/"><u>Fast, Flagship & Funny: A Comprehensive Review of the FLSun S1 Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-asus-mg28uq-screen-a-4k-odyssey-of-immersion-and-fidelity/"><u>In 2024, ASUS MG28UQ Screen - A 4K Odyssey of Immersion and Fidelity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-insights-the-best-apps-to-supercharge-your-profile/"><u>In 2024, Instagram Insights The Best Apps to Supercharge Your Profile</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-start-live-webcam-recording-with-vlc-media/"><u>In 2024, Start Live Webcam Recording with VLC Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-news-at-toms-computer-and-electronics-hub/"><u>In-Depth Reviews and News at Tom's Computer & Electronics Hub</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/luminances-hdr-accuracy-assessment-for-2024/"><u>Luminance's HDR Accuracy Assessment for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-power-of-technology-the-ultimate-guide-to-toms-hardware-selection/"><u>Unlock the Power of Technology: The Ultimate Guide to Tom's Hardware Selection</u></a></li>
 </ul></div>
 

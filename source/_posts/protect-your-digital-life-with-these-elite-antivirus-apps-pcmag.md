@@ -1,7 +1,7 @@
 ---
 title: Protect Your Digital Life with These Elite Antivirus Apps | PCMag
-date: 2024-09-17 10:42:51
-updated: 2024-09-20 12:38:20
+date: 2024-10-02T02:57:11.257Z
+updated: 2024-10-08T23:49:28.298Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -143,9 +157,23 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-tips-boosting-efficiency-in-screen-recording-using-mobizen/"><u>[New] 2024 Approved Expert Tips Boosting Efficiency in Screen Recording Using Mobizen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-cutting-edge-speedy-frame-compiler-for-2024/"><u>[New] Cutting Edge Speedy Frame Compiler for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transformative-techniques-to-mute-background-noise/"><u>[New] Transformative Techniques to Mute Background Noise</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-streamlining-short-film-previews-for-channels/"><u>[Updated] Streamlining Short Film Previews for Channels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-zen-5-revolutionizes-gaming-in-depth-analysis-of-the-ryzen-9600x-vs-ryzen-7/"><u>AMD Zen 5 Revolutionizes Gaming: In-Depth Analysis of the Ryzen 9600X Vs. Ryzen 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move-for-2024/"><u>Connect with Community Spots A Dynamic Guide for Local Explorers on the Move for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-hardware-with-tom-a-detailed-analysis/"><u>Exploring the World of Computer Hardware with Tom - A Detailed Analysis</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-reno-11-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Reno 11 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-lattepanda-benchmarks-outpacing-raspberry-pi-4-with-speed-at-a-higher-cost/"><u>Mu LattePanda Benchmarks: Outpacing Raspberry Pi 4 with Speed, at a Higher Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-gadgets-and-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Gadgets and Hardware Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-a-frozen-ipad-solutions-when-your-device-gets-stuck-on-the-apple-icon/"><u>Troubleshooting a Frozen iPad: Solutions When Your Device Gets Stuck on the Apple Icon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-hardware-perspective/"><u>Unveiling New Gadgets with Tom - A Hardware Perspective</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-ultimate-resource-enjoying-fandango-entertainment-on-an-amazon-fire-stick-complete-guide/"><u>Your Ultimate Resource: Enjoying Fandango Entertainment on an Amazon Fire Stick - Complete Guide</u></a></li>
+</ul></div>
+

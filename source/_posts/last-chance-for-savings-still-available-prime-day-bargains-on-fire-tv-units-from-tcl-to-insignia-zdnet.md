@@ -1,7 +1,7 @@
 ---
 title: "Last Chance for Savings: Still Available Prime Day Bargains on Fire TV Units From TCL to Insignia | ZDNET"
-date: 2024-09-30T22:23:29.031Z
-updated: 2024-10-03T18:14:24.049Z
+date: 2024-10-05T16:05:40.290Z
+updated: 2024-10-09T08:38:55.536Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,16 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -111,18 +105,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>[New] 2024 Approved Survival's Tightrope Ranking the Top 8 Zombie Adventures</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-the-problem-of-invisible-notifications-in-android-devices/"><u>How To Fix the Problem of Invisible Notifications in Android Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone without Google Account?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-concentration-a-guide-to-activating-focus-mode-on-your-android-device/"><u>Mastering Concentration: A Guide to Activating Focus Mode on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-photography-transforming-your-android-device-into-a-professional-web-camera/"><u>Mastering Mobile Photography: Transforming Your Android Device Into a Professional Web Camera</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/permanently-switched-on-why-i-chose-dark-mode-for-good/"><u>Permanently Switched On: Why I Chose Dark Mode for Good</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/portable-charging-with-a-twist-the-mophie-battery-includes-an-additional-ac-connection-for-versatile-use/"><u>Portable Charging with a Twist: The Mophie Battery Includes an Additional AC Connection for Versatile Use</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/quick-tips-for-flipping-and-adjusting-video-orientation-on-an-android-phone/"><u>Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transforming-spotify-playlist-streams-into-desktop-documents-a-complete-walkthrough/"><u>Transforming Spotify Playlist Streams Into Desktop Documents - A Complete Walkthrough</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-alternative-ways-to-power-up-your-mobile-device/"><u>Ultimate Guide: Alternative Ways to Power Up Your Mobile Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-foundational-approach-to-gradual-volume-adjustment/"><u>[New] 2024 Approved Foundational Approach to Gradual Volume Adjustment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/p3-mastery-guide-top-10-video-to-audio-picks-for-2024/"><u>[New] MP3 Mastery Guide Top 10 Video-to-Audio Picks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-starry-secrets-a-guide-to-capturing-the-perfect-night-portraits-for-2024/"><u>[Updated] Starry Secrets A Guide to Capturing the Perfect Night Portraits for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-comprehensive-list-of-8-authentic-propagation-tools/"><u>2024 Approved A Comprehensive List of 8 Authentic Propagation Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-asuss-revolutionary-new-wireless-speed-monarch-the-rt-be96u/"><u>Breaking Down Asus's Revolutionary New Wireless Speed Monarch: The RT-BE96U</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/education/"><u>Education</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-nzxt-h7-flow-sticking-with-the-classics/"><u>Evaluating the NZXT H7 FLow - Sticking with the Classics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-muffled-to-clear-the-initial-use-of-fade-in-audition-for-2024/"><u>From Muffled to Clear The Initial Use of Fade in Audition for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-free-imagery-with-photoscape-expert-insights-and-review/"><u>Mastering Free Imagery with PhotoScape – Expert Insights and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-world-of-toms-hardware-insights-into-cutting-edge-computing-tools/"><u>The World of Tom's Hardware: Insights Into Cutting-Edge Computing Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-virtual-camcorder-tools-unleash-your-potential-with-manycams-live-broadcast-technology/"><u>Top Virtual Camcorder Tools: Unleash Your Potential with ManyCam's Live Broadcast Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-and-hardware-with-toms-insights/"><u>Unveiling the Latest Gadgets and Hardware with Tom's Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-expert-insights-and-tips/"><u>Unveiling the Latest in Computer Hardware with Tom - Expert Insights and Tips</u></a></li>
 </ul></div>
 

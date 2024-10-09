@@ -1,7 +1,7 @@
 ---
 title: Cross Borders Effortlessly Using QR Codes - Say Goodbye to Passports! | ZDNet
-date: 2024-09-17 17:39:46
-updated: 2024-09-20 10:44:58
+date: 2024-10-02T22:19:41.145Z
+updated: 2024-10-09T04:17:05.650Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,37 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-spotlight-on-starlets-snippet-for-2024/"><u>[New] Spotlight on Starlet's Snippet for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-aspiring-singers-try-these-leading-chrome-voice-tools-first/"><u>[Updated] Aspiring Singers, Try These Leading Chrome Voice Tools First</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/energy-conservation/"><u>Energy Conservation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-moto-z2s-brainpower-examined-in-detail/"><u>In 2024, Moto Z2's Brainpower Examined in Detail</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-s23-fe-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy S23 FE for Streaming | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unleash-your-creativity-in-full-rotation-best-practices-for-vr-video/"><u>In 2024, Unleash Your Creativity in Full Rotation Best Practices for VR Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-error-code-5-solutions-for-a-smooth-gaming-experience/"><u>Minecraft Error Code 5 - Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-with-toms-hardware-experts/"><u>Navigate the Tech World with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-5-upgraded-with-icetower-pi-52-a-comprehensive-review-of-its-ultra-fast-chilling-capabilities/"><u>Raspberry Pi 5 Upgraded with IceTower Pi 52: A Comprehensive Review of Its Ultra-Fast Chilling Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-tech-analysis-toms-hardware-direct/"><u>The Ultimate Source for Tech Analysis - Tom's Hardware Direct</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-notch-avchd-video-editing-software-our-2023-rankings-for-2024/"><u>Top-Notch AVCHD Video Editing Software Our 2023 Rankings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforma-tus-archivos-ape-en-formato-wma-sin-coste-con-el-conversor-en-linea-de-movavi/"><u>Transforma Tus Archivos APE en Formato WMA Sin Coste Con El Conversor en Línea De Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-sonic-beauty-with-the-loud-and-lovely-blueant-soundblade-comprehensive-review/"><u>Unleashing Sonic Beauty with the Loud & Lovely BlueAnt Soundblade - Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uphere-c5c-plus-d6sec-top-performing-air-coolers-for-less-than-20-bucks/"><u>UpHere C5C + D6Sec - Top Performing Air Coolers for Less Than 20 Bucks?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

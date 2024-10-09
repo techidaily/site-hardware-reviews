@@ -1,7 +1,7 @@
 ---
 title: Limited Time Deal! Grab Your Amazon Fire TV Omni Series QLED for an Extra $170 Off - See How on ZDNET Today!
-date: 2024-09-28T23:08:45.505Z
-updated: 2024-10-03T19:19:14.432Z
+date: 2024-10-07T06:12:14.377Z
+updated: 2024-10-08T18:00:44.781Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,17 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-masterful-marketing-top-strategies-to-thrive-in-fb-video-space/"><u>[Updated] 2024 Approved Masterful Marketing Top Strategies to Thrive in FB Video Space</u></a></li>
-<li><a href="https://windows11.techidaily.com/11-common-windows-11-problems-with-easy-solutions/"><u>11 Common Windows 11 Problems With Easy Solutions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-next-gen-learning-vrs-educational-impact/"><u>2024 Approved Next-Gen Learning VR's Educational Impact</u></a></li>
-<li><a href="https://win-blog.techidaily.com/aliens-fireteam-elite-for-pc-solutions-to-persistent-game-crash-issues/"><u>Aliens: Fireteam Elite for PC - Solutions to Persistent Game Crash Issues</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12 4G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-components-at-toms-system-analysis/"><u>Navigating High-Tech Components at Tom's System Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-tomhardware/"><u>Navigating the World of Electronics with TomHardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-with-tom-an-authoritative-source-for-tech-enthusiasts/"><u>Navigating Through Circuits with Tom: An Authoritative Source for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-your-workspace-samsung-unveils-updated-odyssey-and-view-monitors-featuring-cutting-edge-ai-innovation/"><u>Revolutionizing Your Workspace: Samsung Unveils Updated Odyssey and View Monitors Featuring Cutting-Edge AI Innovation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862839349-score-big-savings-acers-stunning-34-inch-curved-monitor-goes-down-to-200-at-newegg/"><u>Score Big Savings: Acer's Stunning 34-Inch Curved Monitor Goes Down to $200 at Newegg</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-gadget-reviews/"><u>Tom's Tech Hub: Advanced Gadget Reviews</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-looking-beyond-virtualdub-the-best-video-editing-software-for-your-needs/"><u>Updated In 2024, Looking Beyond Virtualdub The Best Video Editing Software for Your Needs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-facebook-video-sharing-essential-tips/"><u>[New] 2024 Approved Mastering Facebook Video Sharing Essential Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] 2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-guide-to-choosing-a-screen-recorder-tool/"><u>[Updated] In 2024, Ultimate Guide to Choosing a Screen Recorder Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-sound-distortions-in-the-most-recent-technology-release/"><u>Diagnosing and Correcting Sound Distortions in the Most Recent Technology Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/disabling-mobile-notifications-a-step-by-step-guide/"><u>Disabling Mobile Notifications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/disastrous-moments-in-tech-the-top-seven-failures-on-tv-and-online/"><u>Disastrous Moments in Tech: The Top Seven Failures on TV and Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/diy-dvddvd/"><u>DIY DVDレストア方法：損傷したDVDを一生けんめい手直すコツ！</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unwanted-android-pop-up-notifications/"><u>Effective Ways to Prevent Unwanted Android Pop-Up Notifications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-accessibility-real-time-transcription-feature-added-to-pixel-smartphone-calls/"><u>Enhanced Accessibility: Real-Time Transcription Feature Added to Pixel Smartphone Calls</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-guide-unlocking-200-savings-on-latest-samsung-gadgets-launching-soon/"><u>Exclusive Guide: Unlocking $200 Savings on Latest Samsung Gadgets Launching Soon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-quality-sound-the-new-pixel-tablet-at-just-499-features-built-in-speaker-docking-system/"><u>Experience High-Quality Sound: The New Pixel Tablet at Just $499 Features Built-In Speaker Docking System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-eye-catching-aesthetics-of-the-new-galaxy-tab-s9-series-are-they-worth-their-cost/"><u>Exploring the Eye-Catching Aesthetics of the New Galaxy Tab S9 Series - Are They Worth Their Cost?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-green-screen-on-a-budget-top-10-free-apps-for-android-and-ios/"><u>New In 2024, Green Screen on a Budget Top 10 Free Apps for Android and iOS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/obtaining-the-latest-support-for-your-logitech-m525-driver-downloads-available/"><u>Obtaining the Latest Support for Your Logitech M525: Driver Downloads Available</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience-for-2024/"><u>Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002469327-troubleshooting-starfields-audio-glitches-no-more-skipping-sounds/"><u>Troubleshooting Starfield's Audio Glitches - No More Skipping Sounds!</u></a></li>
 </ul></div>
 

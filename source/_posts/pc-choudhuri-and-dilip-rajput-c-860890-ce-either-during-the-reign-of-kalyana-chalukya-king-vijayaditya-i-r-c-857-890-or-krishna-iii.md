@@ -1,7 +1,7 @@
 ---
 title: "P.C. Choudhuri and Dilip Rajput: C. 860–890 CE, Either During the Reign of Kalyana Chalukya King Vijayaditya I (R. C. 857-890) or Krishna III"
-date: 2024-09-29T20:59:44.402Z
-updated: 2024-10-03T22:58:33.073Z
+date: 2024-10-05T01:00:44.848Z
+updated: 2024-10-09T04:48:49.138Z
 tags:
   - tvs
 categories:
@@ -71,31 +71,25 @@ The rollout will happen over the next few weeks, starting with Roku-branded TVs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-discovering-2023s-best-stories-on-the-worldwide-web-for-2024/"><u>[New] Discovering 2023'S Best Stories on the Worldwide Web for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-guide-to-masterful-snapchat-editing/"><u>[New] Step-by-Step Guide to Masterful Snapchat Editing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862838482-amazons-game-changer-34qhd-lg-ultragear-monitor-with-elite-g-sync-now-at-unbeatable-price-of-549/"><u>Amazon's Game Changer: 34QHD LG Ultragear Monitor with Elite G-Sync, Now at Unbeatable Price of $549!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-ways-to-overcome-the-printer-driver-not-found-problem-on-windows-expert-advice/"><u>Easy Ways to Overcome the 'Printer Driver Not Found' Problem on Windows: Expert Advice</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/enhancing-exposure-do-buy-views-accelerate-channel-growth-for-2024/"><u>Enhancing Exposure Do Buy Views Accelerate Channel Growth for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratis-bpm-to-tiff-image-konvertiering-via-online-tool-expertise-van-movavi/"><u>Gratis BPM-to-TIFF Image Konvertiering via Online Tool - Expertise Van Movavi</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-icons-navigating-through-its-leading-25-stars/"><u>In 2024, Instagram's Icons Navigating Through Its Leading 25 Stars</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-the-recommended-natural-ai-hindi-voice-generator/"><u>New The Recommended Natural AI Hindi Voice Generator</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-no-sound-error-in-powerpoint-screen-capture/"><u>Overcoming No Sound Error in PowerPoint Screen Capture</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reigniting-dimmed-lenovo-monitors/"><u>Reigniting Dimmed Lenovo Monitors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862838906-score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862820475-score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862835548-upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-luminous-android-video-editing-hacks-for-2024/"><u>[New] Luminous Android Video Editing Hacks for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-metavision-journey-essential-gear-for-metaverse-visitors-for-2024/"><u>[Updated] Metavision Journey Essential Gear for Metaverse Visitors for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>2024 Approved Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-telegram-web-usage-tips-and-tricks-for-2024/"><u>Comprehensive Telegram Web Usage Tips & Tricks for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-video-driver-settings-win-71011/"><u>Refresh Video Driver Settings (Win 7/10/11)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/streamline-your-messaging-experience-by-organizing-telegram-chats-into-folders-dont-make-my-mistake/"><u>Streamline Your Messaging Experience by Organizing Telegram Chats Into Folders - Don't Make My Mistake!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-great-shift-embracing-a-smartphone-era-for-superior-accessibility-and-functionality/"><u>The Great Shift: Embracing a Smartphone Era for Superior Accessibility and Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-15-best-looking-android-games-a-match-for-console-quality/"><u>Top 15 Best-Looking Android Games: A Match for Console Quality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ipad-air-gadgets-and-enhancements-in-2n24-your-ultimate-shopping-guide/"><u>Top-Rated iPad Air Gadgets & Enhancements in 2N24 - Your Ultimate Shopping Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-next-gen-foldable-samsung-galaxy-z-flip-4-pros-and-innovations-compared/"><u>Unboxing the Next Gen Foldable: Samsung Galaxy Z Flip 4 Pros and Innovations Compared</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-causes-behind-your-phones-unexpected-reboots-a-comprehensive-guide/"><u>Understanding the Causes Behind Your Phone's Unexpected Reboots: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-data-retrieval-tool-restore-lost-data-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-data/"><u>Xiaomi Data Retrieval tool – restore lost data from Xiaomi Redmi 13C 5G</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

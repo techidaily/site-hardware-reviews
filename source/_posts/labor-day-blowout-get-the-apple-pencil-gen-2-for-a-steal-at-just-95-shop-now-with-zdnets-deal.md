@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Blowout: Get the Apple Pencil Gen 2 for a Steal at Just $95 - Shop Now with ZDNET's Deal!"
-date: 2024-09-18 10:12:40
-updated: 2024-09-20 10:50:28
+date: 2024-10-06T00:33:54.629Z
+updated: 2024-10-09T03:28:38.548Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -146,6 +167,13 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +222,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>[New] Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-leveraging-colored-backdrops-for-seamless-edits/"><u>[New] In 2024, Leveraging Colored Backdrops for Seamless Edits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-a-pocket-guide-for-channel-setup-and-management-on-discord/"><u>[Updated] In 2024, A Pocket Guide for Channel Setup and Management on Discord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-syma-x5c-detailed-review-the-optimal-beginners-drone/"><u>[Updated] Syma X5C Detailed Review The Optimal Beginner's Drone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-the-ultimate-asus-rog-azoth-extreme-review-at-half-a-grand/"><u>Affordable Powerhouse: The Ultimate Asus ROG Azoth Extreme Review at Half-a-Grand</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-gimp-image-editing-software-assessment-a-cost-free-solution-across-platforms/"><u>Comprehensive GIMP Image Editing Software Assessment: A Cost-Free Solution Across Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-highpoint-rocket-1608a-usb-expansion-card-enhanced-storage-and-performance/"><u>Expert Analysis of HighPoint Rocket 1608A USB Expansion Card - Enhanced Storage and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-insights-from-toms-hardware/"><u>Exploring the Latest in Tech: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-world-of-ai-with-hugging-face-use-cases-explained/"><u>Exploring the World of AI with Hugging Face: Use Cases Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-flexible-ais-for-practical-use-beyond-sora/"><u>Free, Flexible AIs for Practical Use: Beyond Sora</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-impact-microsoft-and-blizzard-partnership-analysis/"><u>Gaming Impact: Microsoft & Blizzard Partnership Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seek-all-sharing-in-a-group-chat-via-messenger/"><u>Seek All Sharing in a Group Chat via Messenger</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-oled-gaming-display-a-thorough-review-of-gigabyeet-aorus-fo32u2p-with-exceptional-speed-and-style-for-serious-gamers/"><u>The Ultimate 4K OLED Gaming Display - A Thorough Review of Gigabyeet Aorus FO32U2P with Exceptional Speed & Style for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-exploring-in-depth-computer-hardware-insights/"><u>Tom's Tech Hub: Exploring In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-gadget-gazette-authoritative-reviews-and-buying-advice/"><u>Unveiling Tech Secrets with Tom's Gadget Gazette: Authoritative Reviews & Buying Advice</u></a></li>
+</ul></div>
+

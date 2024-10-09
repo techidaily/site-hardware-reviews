@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Tablet Evaluation Process: Insights Into Our Review Methodology"
-date: 2024-09-19 18:34:44
-updated: 2024-09-20 10:50:49
+date: 2024-10-06T16:18:19.584Z
+updated: 2024-10-09T01:59:36.422Z
 tags:
   - tablets
 categories:
@@ -93,6 +93,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -116,6 +123,13 @@ Depending on your use cases, the iPad, without the Magic Keyboard Folio, is good
 June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How the regular iPad beats the Pro
 
@@ -143,9 +157,29 @@ Fortunately, that hasn't been the case during the second half of my year's testi
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Obviously, the elephant in the room with this newest iPad is its price: [$449](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) is not a small ask, especially when compared with the [$329 iPad (9th Gen)](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-10-2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) that Apple still sells, and the fact that you're only getting 64GB of onboard storage. Just my initial batch of apps and services filled up 15GB on my tester. I'm now breaching the 30GB mark after months of data and cache storage. Get the 256GB variant if you can.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Should I buy one?
 
@@ -194,11 +228,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-asmr-insights-understanding-its-health-benefits/"><u>[New] ASMR Insights Understanding Its Health Benefits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-filmmakers-blueprint-making-youtube-splitscreen-magic/"><u>[Updated] 2024 Approved The Filmmaker's Blueprint Making YouTube Splitscreen Magic</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-visual-storytellers-unite-7-prime-3d-design-and-animation-applications/"><u>[Updated] 2024 Approved Visual Storytellers Unite 7 Prime 3D Design & Animation Applications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-vlog-presentation-converting-h-footage-for-vertical-display-for-2024/"><u>[Updated] Mastering Vlog Presentation Converting H-Footage for Vertical Display for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-iphone-night-photography-tips-take-night-photos-with-iphone/"><u>2024 Approved IPhone Night Photography Tips Take Night Photos with iPhone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-15-online-haven-for-your-favorite-ringtone-files/"><u>2024 Approved Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-ultrawide-vs-uhd-4k-monitor-showdown-top-picks/"><u>2024 Approved UltraWide VS UHD 4K Monitor Showdown Top Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-cutting-edge-technology-of-asus-expertbook-p5-featuring-intels-next-level-lunar-lake-processors-for-ultimate-performance/"><u>Explore the Cutting-Edge Technology of ASUS ExpertBook P5 Featuring Intel’s Next-Level Lunar Lake Processors for Ultimate Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leading-ultrabooks-and-luxury-laptop-picks-for-the-modern-tech-enthusiast/"><u>Leading Ultrabooks and Luxury Laptop Picks for the Modern Tech Enthusiast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-your-guide-to-top-hardware-picks/"><u>Mastering Gadgets with Tom - Your Guide to Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-toms-guide-to-choosing-and-reviewing-essential-tech-tools/"><u>Mastering Gadgets: Tom's Guide to Choosing and Reviewing Essential Tech Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-in-depth-analysis-from-toms-hardware-experts/"><u>Mastering Tech: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-world-in-depth-reviews-and-news-from-toms-electronics-hub/"><u>Mastering Your Tech World - In-Depth Reviews and News From Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsofts-flagship-tablet-reviewed-the-surface-pro-amazes-in-style-but-its-ai-offerings-leave-room-for-improvement/"><u>Microsoft's Flagship Tablet Reviewed: The Surface Pro Amazes in Style, but Its AI Offerings Leave Room for Improvement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-performance-pcs-toms-hardware-analysis/"><u>Navigate Through High-Performance PCs: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-the-ultimate-guide-by-tom/"><u>Navigating Gadgets: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-the-maze-of-multi-service-playlist-transfer/"><u>Navigating the Maze of Multi-Service Playlist Transfer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>The Symphony of Silence Starting with a Soft Fade In</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-for-resolving-2024s-finale-launch-problems/"><u>Top Strategies for Resolving 2024'S Finale Launch Problems</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Laptop 5 Analysis: Mixed Feelings of Expectation vs Reality - A ZDNet Perspective"
-date: 2024-09-19 22:47:49
-updated: 2024-09-20 11:13:34
+date: 2024-10-03T20:07:56.991Z
+updated: 2024-10-08T16:02:12.817Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -117,6 +124,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +163,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-review-dynamic-action-recording-tools/"><u>[New] 2024 Approved Expert Review Dynamic Action Recording Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ip-landscape-of-instagram-music/"><u>[New] 2024 Approved The IP Landscape of Instagram Music</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-transform-your-videos-first-impression-with-these-fonts/"><u>[New] 2024 Approved Transform Your Video's First Impression with These Fonts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-select-and-download-exclusive-tailored-audio-templates/"><u>[New] Select & Download Exclusive Tailored Audio Templates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-switch-clash-top-10-intense-battles-to-play/"><u>[Updated] In 2024, Switch Clash Top 10 Intense Battles to Play</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-toshiba-driver-support-download-and-update-software-for-windows-systems/"><u>Complete Toshiba Driver Support: Download & Update Software for Windows Systems</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-6-head-mount-options-for-dynamic-camera-use/"><u>In 2024, Unveiling the Top 6 Head Mount Options for Dynamic Camera Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/intro-to-radial-photo-distortion-ps-tutorial-for-2024/"><u>Intro to Radial Photo Distortion PS Tutorial for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/masterful-screenshots-made-simple-top-10-free-mac-apps-for-2024/"><u>Masterful Screenshots Made Simple – Top 10 FREE Mac Apps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-toms-world-of-innovation-the-ultimate-source-for-hardware-expertise/"><u>Navigate Tom’s World of Innovation | The Ultimate Source for Hardware Expertise 🔧</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-era-of-portable-computing-upgraded-laptop-frameworks-with-cutting-edge-intel-core-ultra-and-amd-ryzen-powerhouse-engines/"><u>New Era of Portable Computing: Upgraded Laptop Frameworks with Cutting-Edge Intel Core Ultra & AMD Ryzen Powerhouse Engines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-tech-gadgets-and-components-at-tomhardware/"><u>The Ultimate Guide to Tech Gadgets and Components at TomHardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-a-complete-guide/"><u>Tom's Computer Components - A Complete Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-expert-hardware-guidance/"><u>Tom's Tech Advisor: Expert Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-with-toms-tech-advice/"><u>Unlocking Performance Secrets with Tom's Tech Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potentials-three-key-methods-to-leverage-chatgpt-with-wolfram-integration/"><u>Unlocking Potentials: Three Key Methods to Leverage ChatGPT with Wolfram Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-technology-secrets-insights-from-toms-hardware-experts/"><u>Unraveling Technology Secrets - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-in-depth-analysis-by-toms-hardware-experts/"><u>Unveiling Technology Secrets: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-gear-with-toms-hardware-guides/"><u>Unveiling the Latest in Computer Gear with Tom's Hardware Guides</u></a></li>
+</ul></div>
+

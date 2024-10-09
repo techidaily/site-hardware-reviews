@@ -1,7 +1,7 @@
 ---
 title: "Smart Savings Alert: Find Out Why This Sony Bravia Is a Must-Buy Bargain at Sale Price | Gadget Reviewers"
-date: 2024-09-30T00:21:03.722Z
-updated: 2024-10-04T00:52:40.718Z
+date: 2024-10-07T18:10:53.240Z
+updated: 2024-10-09T00:58:49.053Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,14 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-design-dynamics-the-key-to-unique-podcast-brands/"><u>[New] In 2024, Design Dynamics The Key to Unique Podcast Brands</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-one-step-at-a-time-how-to-create-a-skype-group-on-both-platforms/"><u>In 2024, One Step at a Time How to Create a Skype Group on Both Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-media-makers-code-0x8007043c-issue/"><u>Overcoming Windows Media Maker's Code 0X8007043C Issue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-resource-for-your-pc-needs-by-tom/"><u>The Ultimate Tech Resource for Your PC Needs by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-exploration-a-deep-dive-into-pc-specs-and-performance/"><u>Tom's Hardware Exploration: A Deep Dive Into PC Specs and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review - Expert Insights on Latest Gadgets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vhsdvdblu-ray/"><u>ヤマダ電機の変換サービス：VHSやDVDを高画質Blu-Rayに簡単に移行する方法と価格？（手順、料金、お得なヒント）</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-best-youtube-mp3-downloader-compilation-top-10/"><u>[New] Best YouTube Mp3 Downloader Compilation (Top 10)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-foundational-codes-for-youtube-enthusiasts/"><u>[Updated] Foundational Codes for YouTube Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-dominance-on-twitter-the-top-share-list-for-2024/"><u>[Updated] TikTok Dominance on Twitter The Top Share List for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harness-the-capabilities-of-voice-controlled-ai-on-android-install-and-use-chatgpt-with-ease/"><u>Harness the Capabilities of Voice-Controlled AI on Android – Install and Use ChatGPT with Ease</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-the-basics-advanced-video-splitting/"><u>In 2024, Beyond the Basics Advanced Video Splitting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-online-meetings-zoom-for-win10/"><u>In 2024, Streamlining Online Meetings Zoom for WIN10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-restarting-an-iphone-15-top-strategies-revealed/"><u>Master the Art of Restarting an iPhone 15 - Top Strategies Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-android-privacy-how-to-prevent-random-mac-address-alteration/"><u>Mastering Android Privacy: How To Prevent Random MAC Address Alteration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/oneplus-unveils-model-11-with-challenges-at-its-debut-what-to-know-about-this-latest-release/"><u>OnePlus Unveils Model 11 with Challenges at Its Debut – What to Know About This Latest Release</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-reno-10-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Oppo Reno 10 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-android-phones-haptic-feedback-a-users-manual-for-customizing-vibration-strength/"><u>Optimize Your Android Phone’s Haptic Feedback: A User's Manual for Customizing Vibration Strength</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pre-order-your-atandt-and-verizon-pixel-fold-available-now/"><u>Pre-Order Your AT&T & Verizon Pixel Fold - Available Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-damage-from-cellphone-shakes-protecting-your-smartphones-lens-a-guide-for-iphone-and-android-users/"><u>Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-nuisance-automated-calls-tips-for-android-users/"><u>Preventing Nuisance Automated Calls: Tips for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-integration-of-windows-and-android-in-lenovos-innovative-thinkbook-plus-nhybrid/"><u>Seamless Integration of Windows & Android in Lenovo's Innovative ThinkBook Plus Nhybrid.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamlessly-transfer-website-links-from-your-android-smartphone-to-your-pc-running-windows/"><u>Seamlessly Transfer Website Links From Your Android Smartphone to Your PC Running Windows</u></a></li>
 </ul></div>
 

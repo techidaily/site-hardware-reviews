@@ -1,7 +1,7 @@
 ---
 title: Panasonic Resurrects as a Television Contender in America with Triad of Cutting-Edge 4K Screens | TechNews
-date: 2024-09-30T00:06:06.689Z
-updated: 2024-10-03T21:05:33.411Z
+date: 2024-10-06T19:28:31.080Z
+updated: 2024-10-09T07:39:13.832Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,20 +105,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-top-content-pioneers-assembly/"><u>[New] 2024 Approved Top Content Pioneers Assembly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unravel-the-mystery-of-the-overly-green-hue-in-mac-recordings/"><u>[New] Unravel the Mystery of the Overly Green Hue in Mac Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-green-screen-basics-for-filmmakers-starting-out/"><u>2024 Approved Green Screen Basics for Filmmakers Starting Out</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/activating-the-do-not-disturb-feature-in-google-pixel-automatically-during-driving-a-step-by-step-guide/"><u>Activating the 'Do Not Disturb' Feature in Google Pixel Automatically During Driving: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/anno-100-error-fix-a-step-by-step-tutorial-to-resolve-directx-compatibility-in-anno-1800/"><u>Anno 1#00 Error Fix - A Step-by-Step Tutorial to Resolve DirectX Compatibility in Anno 1800</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bending-budgets-less-surprisingly-reasonable-prices-for-high-tech-foldable-phones/"><u>Bending Budgets Less: Surprisingly Reasonable Prices for High-Tech Foldable Phones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/building-simplistic-mobile-tech-crafting-a-basic-handset-with-gratis-programming-resources/"><u>Building Simplistic Mobile Tech: Crafting a Basic Handset with Gratis Programming Resources</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/competing-with-giants-can-an-open-source-replacement-challenge-googles-photo-dominance/"><u>Competing with Giants: Can an Open Source Replacement Challenge Google's Photo Dominance?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/disabling-mobile-notifications-a-step-by-step-guide/"><u>Disabling Mobile Notifications: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/disastrous-moments-in-tech-the-top-seven-failures-on-tv-and-online/"><u>Disastrous Moments in Tech: The Top Seven Failures on TV and Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-guide-to-professional-xbox-gameplay-capture/"><u>In 2024, Step-by-Step Guide to Professional Xbox Gameplay Capture</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-weve-selected-the-best-online-video-stabilizers-that-enable-you-to-fix-your-videos-effortlessly-now-lets-see-web-based-platforms-used-to-stabilize-your-/"><u>New Weve Selected the Best Online Video Stabilizers that Enable You to Fix Your Videos Effortlessly. Now Lets See Web-Based Platforms Used to Stabilize Your Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-audio-potential-3-free-strategies-for-syncing-music-with-iphone-films/"><u>Unlocking Audio Potential 3 Free Strategies for Syncing Music with iPhone Films</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-art-of-encompassing-vision/"><u>Unveiling the Art of Encompassing Vision</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/worthwhile-or-outdated-the-debate-over-upgrading-from-stock-android-keyboard/"><u>Worthwhile or Outdated: The Debate Over Upgrading From Stock Android Keyboard</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-behind-the-scenes-access-to-user-vids-on-facebook/"><u>[New] Behind-the-Scenes Access to User Vids on Facebook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-is-revenue-derived-from-evaluating-products/"><u>2024 Approved Is Revenue Derived From Evaluating Products?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-knowledge-simplified-with-toms-insider-guides-and-reviews/"><u>Advanced Hardware Knowledge Simplified with Tom's Insider Guides and Reviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/business-communication-essentials-free-slide-show-tools-for-2024/"><u>Business Communication Essentials – Free Slide Show Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-testing-and-review-of-asus-zenbook-s16-with-amd-ryzen-ai-nine-hx-series-processor/"><u>Comprehensive Guide to Testing and Review of ASUS Zenbook S16 with AMD Ryzen AI Nine HX Series Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-performance-a-detailed-look-at-the-pros-and-cons-of-the-cooler-master-ion-360-aio-pc-watercooler/"><u>Evaluating Performance: A Detailed Look at the Pros and Cons of the Cooler Master ION 360 AIO PC Watercooler</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-se-2020-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone SE (2020) Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-upgrade-with-the-asus-pro-b760m-ct-csm-motherboard-a-detailed-examination/"><u>Mastering Your PC Upgrade with the Asus Pro B760M-CT CSM Motherboard – A Detailed Examination</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transcontinental-greetings-on-holy-sunday/"><u>Transcontinental Greetings on Holy Sunday</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unfreeze-your-gameplay-a-comprehensive-guide-to-fixing-stutter-in-call-of-duty-black-ops-cold-war/"><u>Unfreeze Your Gameplay: A Comprehensive Guide to Fixing Stutter in Call of Duty: Black Ops Cold War</u></a></li>
 </ul></div>
 

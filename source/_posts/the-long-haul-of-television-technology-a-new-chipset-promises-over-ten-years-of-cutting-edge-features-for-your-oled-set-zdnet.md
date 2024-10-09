@@ -1,7 +1,7 @@
 ---
 title: "The Long Haul of Television Technology: A New Chipset Promises Over Ten Years of Cutting-Edge Features for Your OLED Set | ZDNET"
-date: 2024-09-27T16:13:42.058Z
-updated: 2024-10-03T19:35:12.728Z
+date: 2024-10-07T19:13:04.335Z
+updated: 2024-10-09T07:42:43.675Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,21 +99,16 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-behind-the-scenes-look-at-creating-dynamic-facebook-reels/"><u>[New] Behind-the-Scenes Look at Creating Dynamic Facebook Reels</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-premier-hype-booster-maker-for-2024/"><u>[Updated] Premier Hype Booster Maker for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-news-amd-patches-zen-2-vulnerability-dont-delay-apply-msis-updated-agesa-120-bios/"><u>Breaking News: AMD Patches Zen 2 Vulnerability - Don’t Delay! Apply MSI's Updated AGESA 1.2.0 BIOS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/complete-review-and-tips-for-enhancing-images-with-facetune-2024/"><u>Complete Review and Tips for Enhancing Images with Facetune 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asus-pro-b760m-ct-csm-motherboard-why-choose-a-certified-supermom/"><u>Comprehensive Guide to Asus Pro B760M-CT CSM Motherboard - Why Choose a Certified Supermom?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-the-beast-a-deep-dive-into-the-asus-rog-z790-formulas-top-notch-hardware-and-efficient-cooling-mechanisms/"><u>Decoding the Beast: A Deep Dive Into the Asus ROG Z790 Formula's Top-Notch Hardware and Efficient Cooling Mechanisms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-toms-gadget-guidance-mastering-hardware-solutions/"><u>Discover Tom's Gadget Guidance: Mastering Hardware Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-for-fixing-non-opening-optical-media-drive-problems-in-your-computer/"><u>Easy Solutions for Fixing Non-Opening Optical Media Drive Problems in Your Computer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/future-tech-uncovered-the-upcoming-line-of-certified-msi-z890-and-b860-boards-engineered-for-the-anticipated-intel-arrow-lake-s-chip-sneak-peek-before-compu82/"><u>Future Tech Uncovered: The Upcoming Line of Certified MSI Z890 & B860 Boards Engineered for the Anticipated Intel Arrow Lake-S Chip - Sneak Peek Before Computex 2024 Showcase</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonic-windows-tunes-hub/"><u>In 2024, Harmonic Windows Tunes Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-technology-with-tom-the-hardware-guide/"><u>Navigate Through Technology with Tom: The Hardware Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-setup-tips-for-pairing-your-amazon-fire-tv-remote/"><u>Seamless Setup: Tips for Pairing Your Amazon Fire TV Remote</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-effectiveness-of-digital-marketing-campaigns-its-deployment-across-various-industries-signifies-its-flexibility-and-ease-of-integration-making-it-a-valu28/"><u>The Effectiveness of Digital Marketing Campaigns. Its Deployment Across Various Industries Signifies Its Flexibility and Ease of Integration, Making It a Valuable Asset for Businesses Aiming to Enhance Their Online Presence Through Targeted Advertising.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-razr-40-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Razr 40 FRP Bypass</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ace-overheating-with-52-pi-ice-tower-plus-in-depth-review-for-enhanced-performance-on-raspberry-pi-5/"><u>Ace Overheating with '52-Pi Ice Tower Plus': In-Depth Review for Enhanced Performance on Raspberry Pi 5</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/building-stellar-instagram-photo-covers-for-your-highlights-for-2024/"><u>Building Stellar Instagram Photo Covers for Your Highlights for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-asus-rt-ax57-go-top-choice-for-travelers-seeking-a-powerful-yet-portable-wi-fi-solution/"><u>Evaluating the Asus RT-AX57 Go: Top Choice for Travelers Seeking a Powerful Yet Portable Wi-Fi Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-toms-hardware-your-ultimate-resource/"><u>Exploring Tech with Tom's Hardware - Your Ultimate Resource</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-superb-phone-video-and-photo-capturing-with-best-apps-list/"><u>In 2024, Superb Phone Video & Photo Capturing with Best Apps List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-revolutionary-lian-li-hydroshift-lcd-360s-case/"><u>In-Depth Analysis of the Revolutionary Lian Li Hydroshift LCD 360S Case</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-world-toms-comprehensive-hardware-analysis/"><u>Navigating the Digital World: Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-implemented-for-fifa-21-initial-launch-issues/"><u>Resolved: Fixes Implemented For FIFA 21 Initial Launch Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/udemy-pc/"><u>Udemy動画ダウンロード・保存: PCユーザー向け最新方法チュートリアル</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-full-features-of-macdvd-suite-with-complimentary-full-license-the-ultimate-deal/"><u>Unlock Full Features of MacDVD Suite with Complimentary Full License – The Ultimate Deal!</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-the-availability-of-the-slow-motion-feature-on-the-iphone-is-often-debated-this-article-will-guide-you-on-how-to-slow-down-a-video-on-iphone/"><u>Updated In 2024, The Availability of the Slow-Motion Feature on the iPhone Is Often Debated. This Article Will Guide You on How to Slow Down a Video on iPhone</u></a></li>
 </ul></div>
 

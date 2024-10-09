@@ -1,7 +1,7 @@
 ---
 title: Top Television Bargains in May 2024 - Explore the Latest Offers on ZDNet
-date: 2024-10-01T21:59:50.417Z
-updated: 2024-10-03T21:14:27.420Z
+date: 2024-10-06T07:00:49.095Z
+updated: 2024-10-09T03:29:01.207Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,16 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +98,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-live-stream-to-instagram-from-obs/"><u>[New] Live Stream to Instagram From OBS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-metrics-mastery-gain-more-followers/"><u>[Updated] Instagram Metrics Mastery - Gain More Followers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-upload-recycling-101-for-2024/"><u>[Updated] Instagram Upload Recycling 101 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-vocalists-choice-the-finest-9-online-mic-recorders/"><u>[Updated] Vocalist's Choice The Finest 9 Online Mic Recorders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/continued-growth-for-oled-monitors-market-forecast-estimates-upwards-of-134-million-deliveries-by-end-of-year/"><u>Continued Growth for OLED Monitors: Market Forecast Estimates Upwards of 1.34 Million Deliveries by End-of-Year</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dev-creates-portable-e-ink-monitor-using-kindle-jailbreak-process-unveiled/"><u>Dev Creates Portable E Ink Monitor Using Kindle - Jailbreak Process Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-at-toms-hardware-review-hub/"><u>Discover Cutting-Edge Computing at Tom's Hardware Review Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-dell-touchpad-driver-issue-for-windows-7/"><u>Fix Dell Touchpad Driver Issue for Windows 7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-0-to-million-views-the-ultimate-content-blueprint/"><u>From 0 to Million Views The Ultimate Content Blueprint</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-continuous-freezing-and-crashing-of-darkest-dungeon-pc-version/"><u>How to Resolve Continuous Freezing and Crashing of Darkest Dungeon 지금 PC Version</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/meet-your-new-sound-partner-agptek-a01mp-review/"><u>Meet Your New Sound Partner - AGPTEK A01MP Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-acid-pro-evaluation-and-alternative-software/"><u>[Updated] Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-best-online-stock-market-channels-reviewed/"><u>[Updated] In 2024, Best Online Stock Market Channels Reviewed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-non-vimeo-showstoppers-for-online-content-creators/"><u>[Updated] Non-Vimeo Showstoppers for Online Content Creators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/p-by-step-guide-for-earning-with-youtube-shorts/"><u>A Step-by-Step Guide for Earning with YouTube Shorts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-strategies-for-rl-capture-success/"><u>Advanced Strategies for RL Capture Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dynamic-presentations-made-easy-integrating-youtube-videos-into-powerpoint-slides/"><u>Dynamic Presentations Made Easy: Integrating YouTube Videos Into PowerPoint Slides</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-seamless-shoot-and-stream-perfecting-dslr-broadcasts-from-home-pcsmacs/"><u>In 2024, Seamless Shoot & Stream Perfecting DSLR Broadcasts From Home PCs/Macs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-cherry-xtrfy-k5v2-keyboard-innovative-red-switches-shine/"><u>Review of Cherry XTRFY K5V2 Keyboard: Innovative Red Switches Shine</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-updating-the-software-on-your-airpods/"><u>Step-by-Step Guide: Updating the Software on Your AirPods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-on-how-to-factory-reset-ipod-airpods-series-for-optimal-performance/"><u>Step-by-Step Tutorial on How To Factory Reset iPod AirPods Series for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-travel-companion-tp-links-all-in-one-portable-wifi-hub/"><u>The Ultimate Travel Companion: TP-Link's All-in-One Portable WiFi Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-6-causes-of-overspending-on-graphics-processing-units-gpus/"><u>Top 6 Causes of Overspending on Graphics Processing Units (GPUs)</u></a></li>
 </ul></div>
 

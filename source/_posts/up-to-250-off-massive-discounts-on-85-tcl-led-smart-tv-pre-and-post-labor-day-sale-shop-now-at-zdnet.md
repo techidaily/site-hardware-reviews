@@ -1,7 +1,7 @@
 ---
 title: Up to $250 Off - Massive Discounts on 85 TCL LED Smart TV Pre & Post-Labor Day Sale! Shop Now at ZDNet!
-date: 2024-10-01T16:36:13.375Z
-updated: 2024-10-03T19:26:27.634Z
+date: 2024-10-04T03:08:11.281Z
+updated: 2024-10-08T20:19:54.937Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +99,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-copyright-what-if-my-videos-removed-immediately-due-to-copyright-for-2024/"><u>[New] Facebook Copyright | What If My Videos Removed Immediately Due to Copyright for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-must-know-windows-10-tips-and-tricks/"><u>[Updated] In 2024, Must-Know Windows 10 Tips and Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-mac-streaming-with-our-top-5-software-picks/"><u>[Updated] Master Mac Streaming with Our Top 5 Software Picks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-nextgen-videotron-app-evaluation/"><u>[Updated] NextGen Videotron App Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bend-the-competition-with-our-2024-ranking-of-superior-curved-gaming-monitors/"><u>Bend the Competition with Our 2024 Ranking of Superior Curved Gaming Monitors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-magic-v2-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor Magic V2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-convenient-and-cost-effective-in-depth-review-of-the-eyoyo-em1/"><u>Compact, Convenient, and Cost-Effective: In-Depth Review of the EYOYO EM1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-by-toms-gear-experts-discover-top-hardware-choices/"><u>Comprehensive Reviews by Tom's Gear Experts: Discover Top Hardware Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discounted-deal-alienwares-aw3225qf-gaming-monitor-with-qd-oled-4k-technology-and-240-hz-refresh-rate-grab-100-off/"><u>Discounted Deal: Alienware's AW3225QF Gaming Monitor with QD-OLED 4K Technology & 240 Hz Refresh Rate - Grab $100 Off</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-high-performance-components-with-toms-gear-insights/"><u>Discover High-Performance Components with Tom's Gear Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-gadgets-trustworthy-insights-from-toms-hardware/"><u>Discover the Latest Gadgets | Trustworthy Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dominate-the-digital-battlefield-with-cooler-masters-giant-super-wide-57-mini-led-and-dual-uhd-monitor-for-gamers/"><u>Dominate the Digital Battlefield with Cooler Master's Giant Super Wide, 57 Mini LED & Dual-UHD Monitor for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-viewing-comfort-for-just-499-with-lgs-stunning-34-curved-monitor-upgrade/"><u>Elevate Your Viewing Comfort for Just $499 with LG's Stunning 34 Curved Monitor Upgrade!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-basics-to-advanced-crafting-powerful-instagram-hashtags/"><u>From Basics to Advanced Crafting Powerful Instagram Hashtags</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-seamlessly-add-pictures-to-youtube-videos/"><u>How to Seamlessly Add Pictures to YouTube Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-meizu-21-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Meizu 21 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-video-to-song-instagrams-mp3-conversion-process/"><u>[New] 2024 Approved From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-hardware-excellent-obs-setup-for-2024/"><u>[New] Affordable Hardware Excellent OBS Setup for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stock-strategy-streams-the-most-valuable-online-sources/"><u>[Updated] Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-decline-how-the-venerable-4-pin-molex-is-approaching-retirement-after-six-decades/"><u>A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-10-igtv-talents-ready-to-take-off/"><u>In 2024, 10 IGTV Talents Ready to Take Off</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>In 2024, Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-resolve-fb-live-failure-video-not-posting/"><u>In 2024, Resolve FB Live Failure Video Not Posting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-turn-your-instagram-footage-backwards-easily/"><u>In 2024, Turn Your Instagram Footage Backwards Easily</u></a></li>
+<li><a href="https://techidaily.com/samsung-wont-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung won’t play MP4 files</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>Unseen Strategies How to Tap Into Your Facebook Message Library</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-recycling-an-old-tablet-can-benefit-your-furry-friends-playtime/"><u>Why Recycling an Old Tablet Can Benefit Your Furry Friends' Playtime</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-terramasters-128tb-hybrid-raid-setup-surpasses-expectations-for-massive-storage-needs/"><u>Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-your-phone-needs-more-than-one-usb-c-exploring-the-power-of-dual-ports-in-mobile-devices/"><u>Why Your Phone Needs More Than One USB-C: Exploring the Power of Dual Ports in Mobile Devices</u></a></li>
 </ul></div>
 

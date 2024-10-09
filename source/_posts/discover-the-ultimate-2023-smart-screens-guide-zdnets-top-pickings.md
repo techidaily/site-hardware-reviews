@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate 2023 Smart Screens Guide: ZDNet's Top Pickings"
-date: 2024-09-17 23:11:49
-updated: 2024-09-20 11:47:14
+date: 2024-10-07T04:47:52.474Z
+updated: 2024-10-09T04:33:22.666Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -93,6 +100,13 @@ A female-to-female dongle means you'll need an additional USB-C cable to charge 
 
 June Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's a computer? 
 
 It feels like forever since Apple's "[What's a computer?](https://www.zdnet.com/article/apple-cant-stop-insisting-ipad-pro-is-a-computer/)" campaign, but the question [still stands](https://www.zdnet.com/article/ipad-pro-2022-review-im-cautiously-optimistic-or-foolish/) with this newest iPad. While I don't expect the standard model to replace a full-fledged laptop or desktop, Apple certainly wants you to think that way. 
@@ -117,6 +131,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -132,6 +153,13 @@ June Wan/ZDNET
 Naturally, every video begins with you at the center, wide angle or not. Generally, it's less disorienting than when the camera is positioned to one side like on the iPad Pro. Considering how likely you are to use this iPad for FaceTiming with family, virtual lectures for class, and collaborating during work meetings, this simple hardware design makes all the difference for the greater good. 
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery and charging
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premier-moba-experiences-on-your-android-device/"><u>[Updated] 2024 Approved Premier MOBA Experiences on Your Android Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341748614-approach-assess-the-influence-of-community-input-on-planning-decisions/"><u>Approach: Assess the Influence of Community Input on Planning Decisions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-pro-b760m-ct-csm-mainboard-unveiled-a-comprehensive-analysis/"><u>Asus Pro B760M-CT CSM Mainboard Unveiled: A Comprehensive Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/augmented-reality-how-android-enhances-viewing-experience/"><u>Augmented Reality How Android Enhances Viewing Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/craft-your-ideal-video-experience-on-vimeo-through-plan-selection/"><u>Craft Your Ideal Video Experience on Vimeo Through Plan Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-the-anycubic-kobra-3-a-pioneering-multicolor-printer-review/"><u>Detailed Analysis of the Anycubic Kobra 3 - A Pioneering Multicolor Printer Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-pc-building-tips-from-toms-hardware-experts/"><u>Discover the Latest in PC Building - Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enjoy-cinematic-excellence-the-ultimate-list-of-15-dolby-atmos-equipped-movies-for-home-viewing/"><u>Enjoy Cinematic Excellence: The Ultimate List of 15 Dolby Atmos-Equipped Movies for Home Viewing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-best-android-and-ios-wedding-timers-for-seamless-countdowns-for-2024/"><u>Exploring the Best Android & iOS Wedding Timers for Seamless Countdowns for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-on-in-style-with-the-gigabye-aorus-fo32u2p-the-epitome-of-high-resolution-4k-oled-excellence-at-240hz-speeds/"><u>Game on in Style with the Gigabye Aorus FO32U2P - The Epitome of High-Resolution 4K OLED Excellence at 240Hz Speeds</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hisense-40h5590f-television-reviewed-excellent-features-for-the-price-conscious-consumer/"><u>Hisense 40H5590F Television Reviewed: Excellent Features for the Price-Conscious Consumer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/resolving-the-0xc00db3b2-issue-on-windows-media-center-a-step-by-step-guide/"><u>Resolving the 0xC00DB3B2 Issue on Windows Media Center – A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-using-imo-messaging-platform-detailed-assessment/"><u>The Ultimate Guide to Using IMo Messaging Platform - Detailed Assessment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-hardware-reviews/"><u>Tom's Tech Hub: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-guide-to-the-latest-gadgets-and-hardware/"><u>Tom's Tech Review: Your Guide to the Latest Gadgets and Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-philips-evonia-49m2c8900-oled-gaming-display-240hz-and-stunning-visuals-full-review/"><u>Top Rated Philips Evonia 49M2C8900 OLED Gaming Display: 240Hz & Stunning Visuals - Full Review</u></a></li>
+</ul></div>
+

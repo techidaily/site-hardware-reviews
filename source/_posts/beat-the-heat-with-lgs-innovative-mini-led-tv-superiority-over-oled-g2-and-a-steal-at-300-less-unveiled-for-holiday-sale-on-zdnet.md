@@ -1,7 +1,7 @@
 ---
 title: "Beat the Heat with LG’s Innovative Mini LED TV: Superiority Over OLED G2 and a Steal at $300 Less - Unveiled for Holiday Sale on ZDNET"
-date: 2024-10-02T17:54:05.283Z
-updated: 2024-10-03T22:50:38.253Z
+date: 2024-10-03T02:54:28.885Z
+updated: 2024-10-08T16:09:57.701Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,18 +105,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/approved-unveiling-secrets-to-extending-reach-with-youtube-lists/"><u>2024 Approved Unveiling Secrets to Extending Reach with YouTube Lists</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-collabs-that-attract-and-retain-viewers/"><u>Crafting Collabs that Attract and Retain Viewers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/dive-into-the-positive-side-of-asmr/"><u>Dive Into The Positive Side Of ASMR</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-no-price-just-perfect-screen-recordings-on-android/"><u>In 2024, No Price, Just Perfect Screen Recordings on Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m2tsmp3/"><u>M2TSファイルから自由にMP3へ変換 - ステップバイステップガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/pcs-best-bet-google-play-games-betas-essential-titles/"><u>PC's Best Bet: Google Play Games Beta's Essential Titles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-keyboard-issues-spacebar-malfunction-on-microsofts-latest-operating-system/"><u>Resolving Keyboard Issues - Spacebar Malfunction on Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-inside-tips-and-reviews-at-toms-hardware/"><u>The Ultimate Resource for Computer Enthusiasts: Inside Tips & Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-digest-decoding-the-world-of-high-tech-devices/"><u>Tom's Hardware Digest: Decoding the World of High-Tech Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-hardware-t17238628801779/"><u>Tom's Tech Hub - Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-and-in-depth-reviews/"><u>Tom's Tech Hub: Expert Insights & In-Depth Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-buying-guides/"><u>Tom's Tech Insights: Expert Reviews & Buying Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Hardware</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-hit-the-airwaves-with-instagram-lives/"><u>[Updated] In 2024, How to Hit the Airwaves with Instagram Lives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-the-full-spectrum-of-vlc-player-capabilities/"><u>[Updated] Unlocking the Full Spectrum of VLC Player Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-rate-the-belkin-qi2-dual-charging-pad-with-15w-and-hidden-connectivity-innovative-tech-unveiled/"><u>Experts Rate the Belkin Qi2 Dual Charging Pad with 15W & Hidden Connectivity – Innovative Tech Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-capabilities-detailed-insights-into-the-lenovo-legion-7i-with-ryzen-processor-and-nvidia-graphics/"><u>Exploring the Capabilities: Detailed Insights Into the Lenovo Legion 7I with Ryzen Processor and NVIDIA Graphics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-securing-top-quality-pixel-ringtones-where-to-go/"><u>In 2024, Securing Top Quality Pixel Ringtones Where to Go?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-android-and-ios-wedding-timers-latest-app-rankings/"><u>In 2024, Top 10 Android & iOS Wedding Timers Latest App Rankings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-msi-magic-cognizant-oled-top-gaming-display-unveiled/"><u>In-Depth Analysis of the MSI Magic Cognizant OLED - Top Gaming Display Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insta360-x4-camera-analysis-high-quality-shots-at-premium-pricing/"><u>In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-kobo-libra-ebook-reader-analysis-outstanding-features-beyond-the-multicolor-screen/"><u>In-Depth Kobo Libra Ebook Reader Analysis: Outstanding Features Beyond the Multicolor Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ranking-the-top-gaming-machines-dominating-2024/"><u>Ranking the Top Gaming Machines Dominating 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sonicbarrier-comfortable-ear-defenders-report/"><u>SonicBarrier Comfortable Ear Defenders Report</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-addressing-and-repairing-acrocefexe-error-messages/"><u>The Ultimate Guide: Addressing and Repairing acroCEF.exe Error Messages</u></a></li>
 </ul></div>
 

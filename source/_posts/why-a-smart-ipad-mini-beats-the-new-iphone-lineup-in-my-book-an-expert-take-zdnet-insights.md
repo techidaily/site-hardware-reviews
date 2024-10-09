@@ -1,7 +1,7 @@
 ---
 title: Why a Smart iPad Mini Beats the New iPhone Lineup in My Book – An Expert Take | ZDNET Insights
-date: 2024-09-19 23:11:25
-updated: 2024-09-20 10:39:39
+date: 2024-10-07T20:24:54.523Z
+updated: 2024-10-09T06:07:54.414Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +163,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +222,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>[New] 2024 Approved Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-adopting-innovative-approaches-to-elevate-your-fb-campaigns/"><u>[Updated] In 2024, Adopting Innovative Approaches to Elevate Your FB Campaigns</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-next-level-content-workshop/"><u>[Updated] In 2024, Next Level Content Workshop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightning-lanes-moving-iphone-photos-to-pc/"><u>2024 Approved Lightning Lanes Moving iPhone Photos to PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-from-wmv-to-mp4-seamless-transition-across-mac-and-windows-11/"><u>Free Online Converter From WMV to MP4: Seamless Transition Across Mac and Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-typing-lessons-for-everyone-explore-our-12-top-choices-across-age-groups/"><u>Free Typing Lessons For Everyone: Explore Our 12 Top Choices Across Age Groups</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-solve-the-lagging-shutdown-of-your-windows-10-pc/"><u>How to Quickly Solve the Lagging Shutdown of Your Windows 10 PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-video-tools-working-across-systems-seamlessly/"><u>In 2024, Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-tiny-vid-creators/"><u>In 2024, Tiny Vid Creators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-4k-desktop-screens-full-integration-and-touch/"><u>In 2024, Ultimate 4K Desktop Screens Full Integration & Touch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partnered-amd-motherboards-deploy-critical-bios-patch-to-resolve-emblematic-failure-issue/"><u>Partnered AMD Motherboards Deploy Critical BIOS Patch to Resolve Emblematic Failure Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discovery-through-toms-hardware-reviews/"><u>Pioneering Tech Discovery Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-setup-the-asrock-z89et-taichi-aqua-motherboard-comes-with-10x-usb-type-c-and-2x-lightning-fast-thunderbolt-ports/"><u>Revolutionize Your PC Setup: The ASRock Z89eT Taichi Aqua Motherboard Comes with 10X USB Type-C & 2X Lightning-Fast Thunderbolt Ports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-high-performance-motherboards-and-boards-with-longsun-cpus-beginning-at-just-373-available-in-the-us/"><u>Shop High-Performance Motherboards & Boards with Longsun CPUs: Beginning at Just $373 - Available in the U.S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snag-your-asus-x670-p-wifi-am5-mobo-now-unbelievable-sale-135/"><u>Snag Your Asus X670-P WiFi AM5 Mobo Now - Unbelievable Sale @$135</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-asrock-z790i-lightning-wi-fi-board-review-packed-potency-in-a-petite-package/"><u>The ASROCK Z790I Lightning Wi-Fi Board Review - Packed Potency in a Petite Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computers-and-peripherals-by-toms-technology-hub/"><u>The Complete Guide to Computers and Peripherals by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-source-for-pc-hardware-at-toms-hardware/"><u>The Definitive Source for PC Hardware at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-perfect-blend-of-form-and-function-in-a-thin-motherboard-asrocks-x600tm-itx-mini-itx-option/"><u>The Perfect Blend of Form and Function in a Thin Motherboard: ASRock's X600TM-ITX Mini-ITX Option</u></a></li>
+</ul></div>
+

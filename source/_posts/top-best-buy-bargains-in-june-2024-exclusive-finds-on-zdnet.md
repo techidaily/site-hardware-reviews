@@ -1,7 +1,7 @@
 ---
 title: "Top Best Buy Bargains in June 2024: Exclusive Finds on ZDNet"
-date: 2024-09-30T00:49:39.491Z
-updated: 2024-10-03T18:35:18.714Z
+date: 2024-10-07T01:10:25.428Z
+updated: 2024-10-09T00:45:09.151Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,16 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +98,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-essential-guide-to-using-obs-for-youtube-and-twitch/"><u>[New] Essential Guide to Using OBS for YouTube & Twitch</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-your-video-consumption-the-guide-to-auto-play-youtube-on-facebook/"><u>[Updated] Optimize Your Video Consumption The Guide to Auto-Play Youtube on Facebook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964494295-catch-the-steal-of-a-lifetime-premium-corsairs-1000w-small-form-factor-psu-at-an-unbeatable-price/"><u>Catch the Steal of a Lifetime - Premium Corsair's 1000W Small Form Factor PSU at an Unbeatable Price!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-backlight-failure-heres-how-to-reactivate-your-custom-lights/"><u>Corsair Backlight Failure? Here's How to Reactivate Your Custom Lights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-performance-detailed-assessment-of-the-85erwatt-thermaltake-toughpower-gf3-atx-v3-power-supply-unit-review/"><u>Inside the Performance: Detailed Assessment of the 85Erwatt Thermaltake Toughpower GF3 ATX V3 Power Supply Unit Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsofts-phone-link-app-what-is-it-and-how-do-you-use-it/"><u>Microsoft's Phone Link App: What Is It and How Do You Use It?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-introduces-innovative-power-supply-featuring-yellow-ports-designed-to-avoid-common-16-pin-overheating-issues/"><u>MSI Introduces Innovative Power Supply Featuring Yellow Ports Designed to Avoid Common 16-Pin Overheating Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimal-printing-update-for-latest-hp-officejet-4630-driver/"><u>Optimal Printing: Update for Latest HP Officejet 4630 Driver</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionize-your-outdoor-soirees-discover-the-ultimate-6-gizmos-to-make-your-backyard-parties-unforgettable-zdnet/"><u>Revolutionize Your Outdoor Soirées: Discover the Ultimate 6 Gizmos to Make Your Backyard Parties Unforgettable | ZDNET</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Insights: Exploring the Latest in Computer Components and Gadgets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uniting-voices-how-to-speak-with-your-youtube-community/"><u>Uniting Voices How to Speak With Your YouTube Community</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgraded-performance-and-sturdiness-discover-cooler-masters-reinforced-psu-with-innovative-1nvhpwr-connectors-for-superior-gaming-rigs/"><u>Upgraded Performance & Sturdiness: Discover Cooler Master's Reinforced PSU with Innovative 1nVHPWR Connectors for Superior Gaming Rigs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-comprehensive-tutorial-easy-ios-device-screen-capture/"><u>[New] In 2024, Comprehensive Tutorial Easy iOS Device Screen Capture</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-your-essential-list-of-the-finest-ios-ps2-emulators/"><u>[New] Your Essential List of the Finest iOS PS2 Emulators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unraveling-youtubes-puzzles-a-step-by-step-reveal/"><u>[Updated] 2024 Approved Unraveling YouTube's Puzzles A Step-by-Step Reveal</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-and-gizmos-covered-at-toms-hardware-hub/"><u>Advanced Gadgets and Gizmos Covered at Tom's Hardware Hub</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/affordable-high-res-camera-options/"><u>Affordable High-Res Camera Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-value-for-gamers-in-depth-look-at-acer-predator-orion-5000-egpus-exceptional-capabilities/"><u>Best Value for Gamers: In-Depth Look at Acer Predator Orion 5000 eGPU's Exceptional Capabilities</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-13-ultra-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi 13 Ultra Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/music-mastery-essentials-high-quality-dj-video-samples/"><u>Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/redefining-industry-standards-with-the-raspberry-pi-cm4-a-comprehensive-appraisal/"><u>Redefining Industry Standards with the Raspberry Pi CM4 - A Comprehensive Appraisal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-toms-guide-to-hardware/"><u>The Ultimate Resource for Top-Notch PC Components - Tom’s Guide to Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-cable-vs-streaming-services-key-distinctions-unveiled/"><u>Understanding Cable Vs. Streaming Services: Key Distinctions Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-secrets-of-superior-tunefab-recordings/"><u>Unveiling the Secrets of Superior Tunefab Recordings</u></a></li>
 </ul></div>
 

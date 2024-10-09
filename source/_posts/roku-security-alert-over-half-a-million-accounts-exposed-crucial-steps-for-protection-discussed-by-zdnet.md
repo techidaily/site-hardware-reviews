@@ -1,7 +1,7 @@
 ---
 title: "Roku Security Alert: Over Half a Million Accounts Exposed! Crucial Steps for Protection Discussed by ZDNet"
-date: 2024-09-29T00:38:08.301Z
-updated: 2024-10-03T23:03:25.214Z
+date: 2024-10-08T07:49:58.373Z
+updated: 2024-10-09T03:03:28.689Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,16 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-enjoy-premium-video-artwork-download-at-no-cost-today/"><u>[New] In 2024, Enjoy Premium Video Artwork - Download at No Cost Today!</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-strategies-for-maximizing-your-facebook-videos/"><u>[New] In 2024, Innovative Strategies for Maximizing Your Facebook Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/trategic-trailer-planning-for-increased-channels-profitability/"><u>[New] Strategic Trailer Planning for Increased Channels' Profitability</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-thorough-assessment-samsungs-hololens-like-spinning-lens/"><u>[Updated] 2024 Approved Thorough Assessment Samsung's Hololens-Like Spinning Lens</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-elite-camera-drones-10-unveiling-visuals-like-never-before/"><u>[Updated] In 2024, Elite Camera Drones #10 Unveiling Visuals Like Never Before</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Lock Screen Password</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/quick-fixes-for-your-download-pending-problems-on-the-play-store/"><u>Quick Fixes for Your Download Pending Problems on the Play Store</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revealing-concealed-techniques-discover-the-eight-best-approaches-to-charge-your-smartphone-wirelessly/"><u>Revealing Concealed Techniques: Discover the Eight Best Approaches to Charge Your Smartphone Wirelessly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsung-pay-vs-google-pay-a-comprehensive-comparison-for-smart-consumers/"><u>Samsung Pay vs Google Pay: A Comprehensive Comparison for Smart Consumers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamless-power-sharing-using-an-iphone-magsafe-charger-on-your-android-smartphone/"><u>Seamless Power Sharing: Using an iPhone MagSafe Charger on Your Android Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/simple-steps-to-modify-and-authenticate-your-pdfs-using-android/"><u>Simple Steps to Modify and Authenticate Your PDFs Using Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-computers-notebook-recommendations-for-editors/"><u>[New] In 2024, Cutting-Edge Computers Notebook Recommendations for Editors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>[Updated] Optimal Online Presence Streamlined Background Settings in Zoom & Google Meets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-affordable-cloud-storage-solutions/"><u>2024 Approved Exploring Affordable Cloud Storage Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-diy-circuit-creation-cytron-maker-uno-rp2040-feedback/"><u>Affordable DIY Circuit Creation: Cytron Maker Uno RP2040 Feedback</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-reviews-and-tips-from-toms-tech-blog/"><u>Comprehensive Hardware Reviews and Tips From Tom's Tech Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-powerhouse-teamgroups-t-force-vulcan-ddr5-6000-c30-with-2x16gb-stands-out-comprehensive-review/"><u>Eco-Friendly Powerhouse: TeamGroup's T-Force Vulcan DDR5-6000 C30 with 2X16GB Stands Out - Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-top-tier-computer-gear-insight/"><u>Expert Reviews by Tom - Top-Tier Computer Gear Insight</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-missing-d3dx9e933dll-file-on-your-pc/"><u>How to Address Missing d3dx9_e9_33.dll File on Your PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695305-in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-precision-toms-trusted-guide-to-computer-components/"><u>Navigating New Gadgets with Precision - Tom's Trusted Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-hub/"><u>Navigating the World of Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-vs-other-video-editors-which-one-reigns-supreme-in-2024/"><u>New Virtualdub vs Other Video Editors Which One Reigns Supreme , In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203811582-regain-bluetooth-connectivity-in-windows-10-fast-and-straightforward-methods/"><u>Regain Bluetooth Connectivity in Windows 10: Fast & Straightforward Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-rode-streamer-x-a-step-closer-to-streaming-perfection/"><u>Unveiling the Rode Streamer X: A Step Closer to Streaming Perfection?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-cinematic-quality-top-1080p-video-editing-software-for-creators/"><u>Updated 2024 Approved Unleash Cinematic Quality Top 1080P Video Editing Software for Creators</u></a></li>
 </ul></div>
 

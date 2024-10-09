@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Resilient Panasonam Toughbook G2: A Blend of Portability & Performance (ZDNET Review)"
-date: 2024-09-18 15:12:17
-updated: 2024-09-20 12:38:16
+date: 2024-10-05T07:13:21.921Z
+updated: 2024-10-08T19:01:43.782Z
 tags:
   - tablets
 categories:
@@ -58,6 +58,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 | Colors       | Silver, Yellow, Pink, Blue                                   |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design gets a breath of fresh air
 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +156,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-high-definition-aesthetics-exclusive-top-15-lut-selection-for-gopro-for-2024/"><u>[Updated] High-Definition Aesthetics Exclusive Top 15 LUT Selection for GOPRO for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-videos-for-twitter-success-expert-convertors-guide/"><u>[Updated] Transforming Videos for Twitter Success Expert Convertors Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/citing-artificial-intelligence-assistance-from-chatgpt-in-academic-work/"><u>Citing Artificial Intelligence Assistance From ChatGPT in Academic Work</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/digital-documentation-at-its-best-with-ezvide-software-for-2024/"><u>Digital Documentation at Its Best with EZvide Software for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-now-grab-the-m3-macbook-air-16gb-13-inch-for-a-steal-at-only-1149/"><u>Save Big Now: Grab the M3 MacBook Air - 16GB / 13-Inch for a Steal at Only $1,149</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-switching-to-a-new-default-google-account-on-your-android-device/"><u>Step-by-Step Guide: Switching to a New Default Google Account on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-evolution-of-the-first-risc-v-laptop-doubling-processor-cores-accelerating-to-an-unprecedented-2ghz-and-introducing-next-gen-ai-tools/"><u>The Ultimate Evolution of the First RISC-V Laptop: Doubling Processor Cores, Accelerating to an Unprecedented 2GHz & Introducing Next-Gen AI Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-computer-components-at-tomtechreview/"><u>The Ultimate Guide to Cutting-Edge Computer Components at TomTechReview</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transforming-ordinary-footage-to-ig-masterpieces/"><u>Transforming Ordinary Footage to IG Masterpieces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-productivity-the-innovative-and-user-friendly-acemagic-x1-dual-screen-laptop-awaits-you/"><u>Unleash Your Productivity: The Innovative and User-Friendly Acemagic X1 Dual-Screen Laptop Awaits You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-computer-gear-expert-analysis-by-toms-hardware-hub/"><u>Unraveling Computer Gear: Expert Analysis by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub-t17238628794163/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-technology-by-toms-experts/"><u>Unveiling the Best in Technology by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-hp-omnibook-x-powerful-efficiency-and-a-remarkable-16-hour-battery-life-achievement/"><u>Unveiling the HP OmniBook X: Powerful Efficiency and a Remarkable 16-Hour Battery Life Achievement</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-xs-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone XS Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-a34-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy A34 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
+

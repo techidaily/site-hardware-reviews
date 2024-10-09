@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Roku Experience with New Complimentary High-End Features: The Full Lowdown | ZDNET"
-date: 2024-09-27T18:39:22.911Z
-updated: 2024-10-03T21:34:34.139Z
+date: 2024-10-02T00:58:12.536Z
+updated: 2024-10-08T21:52:50.114Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +99,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-adventures-with-the-foremost-6-gopro-mounts-revealed/"><u>[Updated] 2024 Approved Mastering Adventures with the Foremost 6 GoPro Mounts Revealed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>[Updated] 2024 Approved Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-endorsed-gpus-for-top-quality-online-video-playback/"><u>[Updated] Expert-Endorsed GPUs for Top Quality Online Video Playback</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-boosting-earning-potential-on-youtube-shorts/"><u>[Updated] In 2024, Boosting Earning Potential on YouTube Shorts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-insider-tips-for-facebook-cover-video-mastery/"><u>[Updated] In 2024, Insider Tips for Facebook Cover Video Mastery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-top-7-inquiries-for-purchasing-your-next-smart-home-gadget/"><u>Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-the-high-end-price-tag-on-the-latest-model-g-electric-dual-zone-bbq/"><u>Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-hd-photography-insta360s-new-tiny-go-3-shoots-in-stunning-4k-resolution/"><u>Experience Ultra-HD Photography: Insta360's New Tiny Go 3 Shoots in Stunning 4K Resolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cherry-xtrfy-k5v2-a-game-changing-review-with-cutting-edge-red-keyswitch-technology/"><u>Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gemini-technology-fuels-nests-latest-innovative-smart-thermostat/"><u>Gemini Technology Fuels Nest's Latest Innovative Smart Thermostat</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/influencers-secrets-top-10-video-editing-apps-for-ig-success-for-2024/"><u>Influencers' Secrets Top 10 Video Editing Apps for IG Success for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-and-simple-steps-to-iphone-14-backup-using-itunes-ultimate-guide/"><u>Quick & Simple Steps to iPhone 14 Backup Using iTunes - Ultimate Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978086858-secure-your-system-with-amds-official-gpio-driver-now-available/"><u>Secure Your System with AMD's Official GPIO Driver - Now Available</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/your-ultimate-source-for-tech-comparisons-tomgearreview/"><u>Your Ultimate Source for Tech Comparisons - TomGearReview</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-pro-tips-making-your-ipad-screen-capture-faster-and-hassle-free/"><u>[Updated] 2024 Approved Pro Tips Making Your iPad Screen Capture Faster and Hassle-Free</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-skills-for-successful-interviews/"><u>[Updated] In 2024, Essential Skills for Successful Interviews</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-express-yourself-authentically-on-instagram-with-these-captions/"><u>2024 Approved Express Yourself Authentically on Instagram with These Captions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pis-storage-with-low-cost-high-speed-hatdrive-by-pineboards/"><u>Boost Your Raspberry Pi's Storage with Low-Cost, High-Speed HatDrive by Pineboards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-back-contrast-iphone-hdr-video-tips-for-premiere-pro-users-for-2024/"><u>Bring Back Contrast IPhone HDR Video Tips for Premiere Pro Users for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhancing-youtube-experience-with-a-structured-watch-later-plan-for-2024/"><u>Enhancing YouTube Experience with a Structured Watch Later Plan for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y78-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y78 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-valkyrie-syn-240-all-in-one-liquid-cooler-stellar-cooling-capabilities-hindered-by-software-design/"><u>In-Depth Analysis of the Valkyrie Syn 240 All-in-One Liquid Cooler: Stellar Cooling Capabilities Hindered by Software Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovations-unveiled-at-toms-hardware-haven/"><u>Innovations Unveiled at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-overheating-check-out-our-thorough-review-of-the-levelplay-combat-air-ca4-cpu-cooler/"><u>Mastering PC Overheating? Check Out Our Thorough Review of the Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-tech-wisdom/"><u>Navigating the World of Computer Hardware with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-difficult-workplace-communication-through-the-power-of-chatgpt/"><u>Simplifying Difficult Workplace Communication Through the Power of ChatGPT</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-tecno-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Tecno IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
 

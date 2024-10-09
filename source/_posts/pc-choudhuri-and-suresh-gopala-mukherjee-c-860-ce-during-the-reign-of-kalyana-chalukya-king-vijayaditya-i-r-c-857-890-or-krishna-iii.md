@@ -1,7 +1,7 @@
 ---
 title: "P.C. Choudhuri and Suresh Gopala Mukherjee: C. 860 CE During the Reign of Kalyana Chalukya King Vijayaditya I (R. C. 857-890) or Krishna III"
-date: 2024-09-29T22:38:41.646Z
-updated: 2024-10-04T01:42:01.267Z
+date: 2024-10-02T05:25:30.745Z
+updated: 2024-10-09T06:03:38.887Z
 tags:
   - tvs
 categories:
@@ -55,27 +55,35 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-html5-video-platforms-a-comprehensive-list/"><u>Essential HTML5 Video Platforms A Comprehensive List</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/no-signal-new-graphics-card/"><u>No Signal - New Graphics Card</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-unresponsive-error-in-google-chrome-with-immediate-steps/"><u>Overcome the 'Unresponsive' Error in Google Chrome with Immediate Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-meets-artificial-intelligence-comprehensive-insights-into-the-brainiac-learning-setup/"><u>Raspberry Pi Meets Artificial Intelligence: Comprehensive Insights Into the 'Brainiac' Learning Setup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rigorous-testing-of-sabrent-rocket-nano-2242-a-1tb-ssd-review-for-m2-needs/"><u>Rigorous Testing of Sabrent Rocket Nano 2242: A 1TB SSD Review for M.2 Needs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-like-a-pro-unlocking-squid-game-dialogues-in-korean/"><u>Speak Like a Pro: Unlocking Squid Game Dialogues in Korean</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-insights-from-toms-hardware/"><u>The Ultimate Resource for Tech Enthusiasts - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-newest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of Newest Gadgets</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-a38-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo A38 Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-review-how-the-feel-of-keys-impacts-performance-on-the-clevetura-clvx-wireless-keyboard/"><u>Unboxing and Review: How the Feel of Keys Impacts Performance on the Clevetura CLVX Wireless Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-potential-a-comprehensive-review-of-the-gskill-trident-z5-rgb-for-advanced-ddr5-dual-dimm-systems/"><u>Unlocking Potential: A Comprehensive Review of the G.SKILL Trident Z5 RGB for Advanced DDR5 Dual-DIMM Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-a-review-on-akasas-advanced-gecko-ssd-heatsink-and-airflow-enhancer/"><u>Unveiling the Performance: A Review on Akasa's Advanced Gecko SSD Heatsink and Airflow Enhancer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs-in-2024/"><u>Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-navigating-vimeo-success-strategies-for-staff-picked-videos/"><u>[New] 2024 Approved Navigating Vimeo Success Strategies for Staff-Picked Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>[New] In 2024, Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-splitcam-assessment-best-video-recorder-ranking/"><u>[New] In 2024, SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordability-meets-quality-in-the-nuphy-halo75-v2-mechanical-keyboard-review/"><u>Affordability Meets Quality in the Nuphy Halo75 V2 Mechanical Keyboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-pcb-creation-cytrons-uno-rp2040-board-evaluated-for-savvy-electronics-enthusiasts/"><u>Affordable PCB Creation: Cytron's Uno RP2040 Board Evaluated for Savvy Electronics Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-bluehost-services-insights-into-cloud-vps-and-shared-hosting-performance/"><u>Evaluating Bluehost Services: Insights Into Cloud, VPS & Shared Hosting Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-lenovo-yoga-pro-9i-evaluation-thin-design-with-responsive-keyboard/"><u>Expert Lenovo Yoga Pro 9I Evaluation: Thin Design with Responsive Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-on-the-powerful-platinum-series-nzxt-c1ebuilding-with-sustainable-materials-including-recycled-content-when-possible/"><u>Expert Review on the Powerful Platinum Series - NZXT C1ebuilding with Sustainable Materials, Including Recycled Content when Possible.</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-inside-scoop-on-top-tier-computer-systems-by-toms-experts/"><u>The Inside Scoop on Top-Tier Computer Systems by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-by-tom/"><u>The Ultimate Resource for Top-Notch PC Components by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-free-screen-recorders-on-windows-10-2023-update/"><u>Top 5 Free Screen Recorders on Windows 10-2023 Update</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-free-software-for-converting-flv-videos-into-3gp-format/"><u>Top Free Software for Converting FLV Videos Into 3GP Format</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranking-ereader-devices-a-comprehensive-guide/"><u>Top-Ranking eReader Devices : A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-high-latency-and-lag-in-chivalry-2/"><u>Ultimate Guide: Solving High Latency & Lag in Chivalry 2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-iphone-14s-battery-performance-critical-insights-and-tips/"><u>Unveiling iPhone 14'S Battery Performance: Critical Insights & Tips</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

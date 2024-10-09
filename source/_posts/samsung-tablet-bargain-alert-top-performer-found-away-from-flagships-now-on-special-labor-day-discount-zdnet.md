@@ -1,7 +1,7 @@
 ---
 title: "Samsung Tablet Bargain Alert: Top Performer Found Away From Flagships, Now On Special Labor Day Discount - ZDNet"
-date: 2024-09-19 13:22:51
-updated: 2024-09-20 10:40:11
+date: 2024-10-01T20:38:26.751Z
+updated: 2024-10-08T16:13:54.729Z
 tags:
   - tablets
 categories:
@@ -59,6 +59,13 @@ ZDNET's [buying guides](https://www.zdnet.com/article/best-ipad/) will help you 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design gets a breath of fresh air
 
 Everything that comes in the box, including a charger and Apple stickers.
@@ -92,6 +99,13 @@ Considering the new iPad does not have a magnetic strip to station the Apple Pen
 A female-to-female dongle means you'll need an additional USB-C cable to charge the Apple Pencil.
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's a computer? 
 
@@ -133,6 +147,19 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +169,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -194,11 +228,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-instagram-grids-the-finest-10-grid-software/"><u>[New] In 2024, Mastering Instagram Grids The Finest 10 Grid Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-lenovo-quick-guide-effortless-screenshots/"><u>[New] Lenovo Quick Guide Effortless Screenshots</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>[New] The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pro-audio-insight-expertly-selected-9-mic-recorder-devices/"><u>[Updated] In 2024, Pro Audio Insight Expertly Selected 9 Mic Recorder Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultimate-panoramic-camera-scrutiny/"><u>[Updated] In 2024, Ultimate Panoramic Camera Scrutiny</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-pcb-creation-cytrons-uno-rp2040-board-evaluated-for-savvy-electronics-enthusiasts/"><u>Affordable PCB Creation: Cytron's Uno RP2040 Board Evaluated for Savvy Electronics Enthusiasts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/chromebook-crash-discover-8-fixes-for-instant-relief/"><u>ChromeBook Crash? Discover 8 Fixes for Instant Relief!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/forge-corporate-icons-without-spending-a-dime-for-2024/"><u>Forge Corporate Icons Without Spending a Dime for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 12 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-hardware-solutions-curated-by-tomhemalysis/"><u>Innovative Hardware Solutions Curated by Tom'hemalysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-the-lattepanda-mu-worth-its-price-an-in-depth-look-at-speed-and-value-against-raspberry-pi-nce/"><u>Is the LattePanda Mu Worth Its Price? An In-Depth Look at Speed and Value Against Raspberry Pi Nce</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-device-specs-turn-to-toms-hardware-wisdom/"><u>Mastering Device Specs? Turn To Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-inside-scoop-on-top-tier-computer-systems-by-toms-experts/"><u>The Inside Scoop on Top-Tier Computer Systems by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-understanding-and-reviewing-pimoronis-nvme-double-base-drive/"><u>The Ultimate Guide to Understanding and Reviewing Pimoroni's NVMe Double Base Drive</u></a></li>
+</ul></div>
+

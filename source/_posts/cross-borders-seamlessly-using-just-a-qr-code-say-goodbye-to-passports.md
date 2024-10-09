@@ -1,7 +1,7 @@
 ---
 title: "Cross Borders Seamlessly Using Just a QR Code: Say Goodbye to Passports!"
-date: 2024-09-17 19:43:58
-updated: 2024-09-20 10:11:30
+date: 2024-10-04T02:33:12.263Z
+updated: 2024-10-09T06:03:40.824Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-the-secrets-of-success-top-strategies-for-fb-video-growth-for-2024/"><u>[New] Unlocking the Secrets of Success Top Strategies for FB Video Growth for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-tailored-techniques-for-removing-youtube-ads-in-various-browsers-for-2024/"><u>[Updated] Tailored Techniques for Removing YouTube Ads in Various Browsers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pioneering-personalized-voices-on-ps-games/"><u>2024 Approved Pioneering Personalized Voices on PS Games</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-testing-the-nzxt-c1500-platinum-unit/"><u>Expert Analysis: Testing the NZXT C1500 Platinum Unit</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-reviews-and-analysis-by-toms-hardware-experts/"><u>Innovative Tech Reviews and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lattepandas-mu-board-review-outpacing-the-raspberry-pi-5-but-with-a-steeper-cost/"><u>LattePanda's Mu Board Review: Outpacing the Raspberry Pi 5 but with a Steeper Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reaching-new-heights-a-comprehensive-review-of-crucial-pro-6000-series-ddr5-memory-for-advanced-system-tuning-and-performance-optimization/"><u>Reaching New Heights: A Comprehensive Review of Crucial Pro 6000 Series DDR5 Memory for Advanced System Tuning and Performance Optimization</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/setting-up-a-non-reversible-trash-bin-for-files-a-windows-11-guide/"><u>Setting up a Non-Reversible Trash Bin for Files: A Windows 11 Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-qhd-gaming-with-asus-rog-strix-xg27acs-a-review-on-its-precision-and-adaptive-performance-at-180hz/"><u>Unlocking the Potential of QHD Gaming with Asus ROG Strix XG27ACS – A Review on Its Precision and Adaptive Performance at 180Hz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronics-analysis/"><u>Unveiling the Latest Gadgets with Tom's Electronics Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-parts-and-systems-the-toms-hardware-review/"><u>Unveiling the Latest in PC Parts and Systems: The Tom's Hardware Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/webinar-playback-recordings-for-2024/"><u>Webinar Playback Recordings for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

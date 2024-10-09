@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Viewing Experience: Sony A80L OLED TV Offers Stunning AI Upscaled Visuals for Less Than $2K - Explore Now on ZDNet"
-date: 2024-09-27T00:35:23.871Z
-updated: 2024-10-03T17:05:11.747Z
+date: 2024-10-06T20:10:07.318Z
+updated: 2024-10-08T19:00:52.750Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,20 +99,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>[New] In 2024, Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-duo-ing-melodies-for-virtual-fame/"><u>[New] In 2024, Duo-Ing Melodies for Virtual Fame</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-process-of-android-video-u-turns/"><u>[New] The Process of Android Video U-Turns</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[Updated] 2024 Approved Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-ultimate-guide-perfecting-pics-with-facetune-for-2024/"><u>[Updated] Ultimate Guide Perfecting Pics with Facetune for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-news-tile-encounters-serious-data-breach-immediate-measures-and-consequences-explained/"><u>Breaking News: Tile Encounters Serious Data Breach – Immediate Measures and Consequences Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-dell-xps-16-9640-the-perfect-blend-of-elegance-and-performance/"><u>Comprehensive Analysis of the Dell XPS 16-9640: The Perfect Blend of Elegance and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-eufy-s350-home-monitoring-cam-spotlight-on-superior-motion-detection-features/"><u>Comprehensive Review of the Eufy S350 Home Monitoring Cam - Spotlight on Superior Motion Detection Features</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experts-pick-the-ultimate-ranking-of-ipads-based-on-key-attributes/"><u>Expert's Pick: The Ultimate Ranking of iPads Based on Key Attributes</u></a></li>
-<li><a href="https://win-news.techidaily.com/explore-the-finest-desks-for-workspaces-insights-by-zdnet/"><u>Explore the Finest Desks for Workspaces | Insights by ZDNet</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/harmonize-your-content-a-guide-to-musical-instagrams-for-2024/"><u>Harmonize Your Content A Guide to Musical Instagrams for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-4-best-video-resume-makers/"><u>New 4 Best Video Resume Makers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-usb-standards-a-comprehensive-guide-to-generations-1-2-and-2x2-decoding-usb-32/"><u>Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>[New] 2024 Approved From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-eager-ears-entertainment-where-to-download-laughable-rings-for-2024/"><u>[New] Eager-Ears Entertainment Where to Download Laughable Rings for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-zoom-meeting-organization-tips-for-professionals/"><u>2024 Approved Zoom Meeting Organization Tips for Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analysis-and-thoughts-on-the-stylish-mid-century-inspired-keychron-k2-he-keyboard/"><u>Analysis & Thoughts on the Stylish Mid-Century Inspired Keychron K2 HE Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion17/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-g24-power-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on G24 Power?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-narzo-n53-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme Narzo N53 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-guide-to-rl-streaming-setup/"><u>In 2024, Comprehensive Guide to RL Streaming Setup</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfecting-sims-4-live-action-for-videographers/"><u>In 2024, Perfecting Sims 4 Live Action for Videographers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23FRP Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-pc-innovations-with-expertise-from-toms-hardware/"><u>Navigate the World of PC Innovations with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-travel-companion-mokos-foldable-bluetooth-keyboard-for-all-your-typing-needs/"><u>The Ultimate Travel Companion: MoKo's Foldable Bluetooth Keyboard for All Your Typing Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-high-performance-components-at-toms-computer-corner/"><u>Unlock the Secrets of High-Performance Components at Tom's Computer Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-expert-advice-from-tom-on-top-hardware-picks/"><u>Unlocking Tech Secrets: Expert Advice From Tom on Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-crucial-p310-ssd-boosting-performance-on-m2-2230-devices/"><u>Unveiling the Power of the Crucial P310 SSD: Boosting Performance on M.2 2230 Devices</u></a></li>
 </ul></div>
 

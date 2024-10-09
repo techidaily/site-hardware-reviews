@@ -1,7 +1,7 @@
 ---
 title: "Flagship Showdown: Deciding Between LG G4 and Samsung S95D OLED TVs | Expert Review by ZDNet"
-date: 2024-10-02T22:12:27.589Z
-updated: 2024-10-03T18:00:00.412Z
+date: 2024-10-02T17:27:23.578Z
+updated: 2024-10-09T06:48:34.054Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,16 +105,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-zooming-experience-with-microsoft-teams/"><u>[Updated] Immersive Zooming Experience with Microsoft Teams</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-guide-to-affordable-performance-the-top-2024-graphic-card-reviews/"><u>Gamers' Guide to Affordable Performance: The Top 2024 Graphic Card Reviews</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-14-pro-max-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 14 Pro Max without Apple ID?</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 Pro Max without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-splitcam-assessment-best-video-recorder-ranking/"><u>In 2024, SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-with-toms-hardware-your-ultimate-guide-to-gear-and-performance/"><u>Mastering Electronics with Tom's Hardware - Your Ultimate Guide to Gear and Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/mend-your-xbox-series-xs-troubleshooting-guide/"><u>Mend Your Xbox: Series X|S Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day</u></a></li>
-<li><a href="https://techtrends.techidaily.com/restarting-your-dead-computer-machine-techniques-for-bringing-back-power/"><u>Restarting Your Dead Computer Machine: Techniques for Bringing Back Power</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/taking-a-step-back-in-time-a-deep-dive-into-the-famous-handheld-mario-adventure-nintendos-game-and-watch-edition/"><u>Taking a Step Back in Time: A Deep Dive Into the Famous Handheld Mario Adventure - Nintendo's Game & Watch Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-the-latest-hardware-innovations/"><u>Tom's Tech Insights: A Comprehensive Guide to the Latest Hardware Innovations</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-estimating-gb-for-an-entire-film-daily-viewing/"><u>[New] Estimating GB for an Entire Film, Daily Viewing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-is-apple-m1-macbook-air-good-for-video-editing-for-2024/"><u>[New] Is Apple M1 MacBook Air Good for Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-directvid-snapper-for-video-calls/"><u>2024 Approved DirectVid Snapper for Video Calls</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-8-youtube-ranks-expertly-navigating-with-key-tools/"><u>2024 Approved Top 8 YouTube Ranks Expertly Navigating with Key Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/an-animated-look-at-valkyrie-vind-sl125s-performance-impeccable-style-but-inferior-execution-revealed/"><u>An Animated Look at Valkyrie Vind SL125's Performance - Impeccable Style but Inferior Execution Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-valkyrie-syn-2n40-aio-water-block-assessment-outstanding-thermal-efficiency-meets-bulky-app-interface/"><u>Comprehensive Valkyrie Syn 2N40 AIO Water Block Assessment: Outstanding Thermal Efficiency Meets Bulky App Interface</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-gadgets-visit-toms-hardware-hub/"><u>Expert Guidance on Gadgets - Visit Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-analysis-at-toms-technology-hub/"><u>Expert Reviews & Analysis at Tom's Technology Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/flawless-shopping-experience-eradicating-error-x80072f30-on-pc/"><u>Flawless Shopping Experience: Eradicating Error X80072F30 on PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-future-today-introducing-keychron-q1-he-the-cutting-edge-wireless-mechanical-keyboard/"><u>Get the Future Today: Introducing Keychron Q1 HE, the Cutting-Edge Wireless Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-officejet-5740-driver-download-for-windows-compatible-with-windows-11-10-and-8/"><u>HP OfficeJet 5740 Driver Download for Windows: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-ios-image-to-pdf-the-ultimate-guide-for-users/"><u>In 2024, Mastering IOS Image-to-PDF The Ultimate Guide for Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ranking-premium-photo-and-video-shows-x-ios14/"><u>In 2024, Ranking Premium Photo & Video Shows (X-IOS14)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-4tb-ssd-performance-vs-affordability/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite 4TB SSD - Performance Vs. Affordability</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-reviews-join-us-at-toms-tech-forum/"><u>Pioneering Hardware Reviews: Join Us at Tom's Tech Forum</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/premium-guide-capturing-and-storing-tweets-jokes-on-pc-for-2024/"><u>Premium Guide Capturing and Storing Tweets Jokes on PC for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-components-by-toms-gear-insights/"><u>The Ultimate Guide to High-Performance Components by Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-nuc-groovy-desktop-solution-compact-and-efficient/"><u>Unboxing the Asus ROG NUC Groovy Desktop Solution - Compact and Efficient</u></a></li>
 </ul></div>
 

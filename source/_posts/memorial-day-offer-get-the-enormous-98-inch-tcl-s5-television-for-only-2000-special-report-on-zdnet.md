@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Offer: Get the Enormous 98-Inch TCL S5 Television for Only $2,000 - Special Report on ZDNet"
-date: 2024-10-03T01:16:33.567Z
-updated: 2024-10-03T19:40:52.873Z
+date: 2024-10-07T03:55:41.042Z
+updated: 2024-10-09T08:04:43.999Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,16 +99,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ios-mastery-effortlessly-extracting-youtube-videos/"><u>[New] IOS Mastery Effortlessly Extracting Youtube Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-merging-worlds-youtube-in-instagram-narrative-art-for-2024/"><u>[New] Merging Worlds YouTube in Instagram Narrative Art for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-tips-for-maximizing-your-facebook-story-impact/"><u>[Updated] 2024 Approved Essential Tips for Maximizing Your Facebook Story Impact</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-blueprint-to-instagram-profit-partnerships-beyond-likes-and-shares/"><u>2024 Approved The Blueprint to Instagram Profit Partnerships Beyond Likes and Shares</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-ultimate-gamers-crossroads-oculus-or-playstation-vr/"><u>2024 Approved The Ultimate Gamer’s Crossroads Oculus or PlayStation VR?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-in-the-division-2-addressing-low-fps-and-stutter-issues-for-the-new-year/"><u>Achieve Seamless Gameplay in The Division 2 - Addressing LOW FPS & Stutter Issues for the New Year</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-we-expect-a-gpt-5-insights-into-its-potential-release-schedule/"><u>Can We Expect a GPT-5? Insights Into Its Potential Release Schedule</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-pc-hardware-from-toms-gadget-insights/"><u>Expert Advice on PC Hardware From Tom's Gadget Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-uncovering-the-best-in-computer-hardware/"><u>Expert Reviews by Tom: Uncovering the Best in Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-tips-on-hardware-from-toms-technology-corner/"><u>Expert Tips on Hardware From Tom's Technology Corner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expertly-guided-computer-shopping-at-trustworthy-toms-hardware/"><u>Expertly Guided Computer Shopping at Trustworthy Tom's Hardware</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iy-youtube-thumbnails-on-smartphones-for-2024/"><u>[New] DIY YouTube Thumbnails on Smartphones for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-ddr5-performance-unleashed-in-depth-review-of-the-t-force-vulcan-by-teamgroup/"><u>Eco-Friendly DDR5 Performance Unleashed: In-Depth Review of the T-Force Vulcan by TeamGroup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oneplus-ace-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-spotlight-on-10-rapidly-expanding-youtube-talks-of-inspiration/"><u>In 2024, Spotlight on 10 Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24+</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mend-made-microsofts-revised-acpi-compliant-battery-controller-software-issues/"><u>Mend Made: Microsoft's Revised ACPI Compliant Battery Controller Software Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-computing-the-toms-equipment-guide-to-perfection/"><u>Navigating Modern Computing: The Tom's Equipment Guide to Perfection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-toms-equipment-your-trusted-source-for-computing-hardware/"><u>Navigating the World of Tom's Equipment: Your Trusted Source for Computing Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-pixel-perfection-exploring-the-exceptional-visual-fidelity-and-responsiveness-of-philips-evonia-qd-oled-monitor-49m2c8900-series/"><u>Next-Level Pixel Perfection: Exploring the Exceptional Visual Fidelity and Responsiveness of Philips' Evonia QD-OLED Monitor, 49M2C8900 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p27a2r-titan-screens-ultimate-guide-premium-180hz-display-for-gamers/"><u>P27A2R Titan Screen's Ultimate Guide: Premium 180Hz Display for Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-managing-device-names-and-deletion-in-the-amazon-kindle-ecosystem/"><u>Step-by-Step Guide: Managing Device Names & Deletion in the Amazon Kindle Ecosystem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-culprit-of-heavy-resource-use-by-wudfhostexe-on-windows-11-systems/"><u>Troubleshooting the Culprit of Heavy Resource Use by WUDFHost.exe on Windows 11 Systems</u></a></li>
 </ul></div>
 

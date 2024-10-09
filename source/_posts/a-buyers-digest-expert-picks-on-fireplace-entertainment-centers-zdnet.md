@@ -1,7 +1,7 @@
 ---
 title: "A Buyer's Digest: Expert Picks on Fireplace Entertainment Centers | ZDNET"
-date: 2024-10-01T22:09:10.174Z
-updated: 2024-10-03T17:25:34.183Z
+date: 2024-10-07T22:09:15.803Z
+updated: 2024-10-08T21:32:10.386Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agriplay-squad-top-10-farming-games-to-bond-over/"><u>[New] 2024 Approved AgriPlay Squad Top 10 Farming Games to Bond Over</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-anonymous-streaming-on-instagram-your-ultimate-guide-to-go-incognito/"><u>[New] Anonymous Streaming on Instagram Your Ultimate Guide to Go Incognito</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[New] Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ideal-echo-reapers-in-colleges/"><u>[Updated] 2024 Approved Ideal Echo Reapers in Colleges</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-achieve-crystal-clear-shots-expert-guide-to-zooming-on-snapchat/"><u>[Updated] Achieve Crystal Clear Shots Expert Guide to Zooming on Snapchat</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>[Updated] In 2024, Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-music-upload-essentials-your-youtube-journey/"><u>2024 Approved Music Upload Essentials Your YouTube Journey</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-urgent-security-flaw-in-zen-architecture-with-new-patch-msi-releases-agesa-version-120-fix/"><u>AMD Resolves Urgent Security Flaw in Zen Architecture with New Patch - MSI Releases AGESA Version 1.2.0 Fix</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/charm-crafted-conversations-flirting-in-english-dialogue/"><u>Charm Crafted Conversations: Flirting in English Dialogue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/check-physical-signs-notice-if-there-are-physical-signs-like-bloodshot-eyes-unexplained-bruises-changes-in-appetite-or-sleep-patterns-poor-personal-hygiene-91/"><u>Check Physical Signs: Notice if There Are Physical Signs Like Bloodshot Eyes, Unexplained Bruises, Changes in Appetite or Sleep Patterns, Poor Personal Hygiene, or Unusual Smells on Their Breath or Clothing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-newly-listed-31-motherboards-from-maxsun-showcasing-intel-arrow-lake-and-amd-ryzen-nine-zero-across-five-cutting-edge-unannounced-chi96/"><u>Comprehensive Guide to Newly Listed 31 Motherboards From Maxsun - Showcasing Intel Arrow Lake and AMD Ryzen Nine Zero, Across Five Cutting-Edge Unannounced Chipset Variants with PCIe 800 Branding</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-pc-gear-with-toms-technology-insights/"><u>Discover Cutting-Edge PC Gear with Tom's Technology Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-new-world-of-computing-golden-socketed-cpu-on-gigabytes-misty-designed-iceberg-intel-z790-motherboard/"><u>Explore the New World of Computing: Golden Socketed CPU on Gigabyte's Misty-Designed Iceberg Intel Z790 Motherboard</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12t-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12T Prowith/without a PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862867245-limited-time-offer-asus-prime-x67n-wifi-am5-motherboard-for-a-low-price-of-135/"><u>Limited Time Offer: ASUS Prime X67n Wifi AM5 Motherboard for a Low Price of 135$!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/us-customers-can-now-order-loongson-cpu-equipped-mothers-and-systems-from-373-shipping-available/"><u>US Customers Can Now Order Loongson-CPU-Equipped Mothers & Systems From $373: Shipping Available</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/us-launch-affordable-longsheng-loongson-cpu-based-motherboards-and-systems-starting-at-just-373-get-the-ultimate-value-deal/"><u>US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards & Systems Starting at Just $373 - Get the Ultimate Value Deal</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-social-spectacle-snatcher/"><u>[Updated] 2024 Approved Social Spectacle Snatcher</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reestablishing-iphone-x-trust-restoring-biometric-lock/"><u>[Updated] Reestablishing iPhone X Trust Restoring Biometric Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-magic-v2-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor Magic V2 to Roku | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-reviews-by-tom-your-trusted-source/"><u>Advanced Gadget Reviews by Tom: Your Trusted Source</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/digitally-delving-opening-game-directories-on-windows/"><u>Digitally Delving: Opening Game Directories on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341724260-experience-the-ultimate-sound-of-turtle-beachs-atlas-air-headphones-comfort-meets-acoustic-excellence/"><u>Experience the Ultimate Sound of Turtle Beach's Atlas Air Headphones – Comfort Meets Acoustic Excellence!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-video-upload-aides-to-twitter/"><u>In 2024, Unmatched Video Upload Aides to Twitter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-keris-ii-ace-can-it-challenge-the-deity-status-of-the-ragedeathadder-v3-pro/"><u>In-Depth Analysis of Asus ROG Keris II Ace: Can It Challenge the Deity Status of the RageDeathAdder V3 Pro?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-blueant-soundblade-stylish-and-sonorous-performance/"><u>In-Depth Look at the BlueAnt Soundblade - Stylish and Sonorous Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-driver-download-guide-optimize-your-hp-officejet-1260-on-windows-systems/"><u>Latest Driver Download Guide: Optimize Your HP Officejet 1260 on Windows Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-gaming-and-multimedia-with-updated-amd-graphic-cards-on-windows-7-8-and-10/"><u>Seamless Gaming & Multimedia with Updated AMD Graphic Cards on Windows 7, 8, and 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sustainable-tools-and-practices/"><u>Sustainable Tools and Practices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-economical-path-to-enhanced-speeds-in-depth-look-at-the-raspberry-pis-ms2-hatplus/"><u>The Economical Path to Enhanced Speeds: In-Depth Look at the Raspberry Pi's M.S2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-hardware/"><u>Tom's Tech Review: Expert Insights on Computer Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-free-dvd-player-software-compatible-with-windows-10-and-11-enhance-your-media-experience/"><u>Top 13 Free DVD Player Software Compatible with Windows 10 & 11: Enhance Your Media Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-visual-excellence-of-gigabytes-aorus-co49dq-a-deep-dive-review-on-color-fidelity-and-contrast-brilliance/"><u>Unveiling the Visual Excellence of Gigabyte's Aorus CO49DQ: A Deep Dive Review on Color Fidelity and Contrast Brilliance</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
 

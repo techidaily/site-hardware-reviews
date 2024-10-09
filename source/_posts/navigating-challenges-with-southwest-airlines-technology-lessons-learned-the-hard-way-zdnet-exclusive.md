@@ -1,7 +1,7 @@
 ---
 title: Navigating Challenges with Southwest Airlines' Technology – Lessons Learned the Hard Way (ZDNet Exclusive)
-date: 2024-09-18 19:40:39
-updated: 2024-09-20 12:33:11
+date: 2024-10-03T23:17:36.774Z
+updated: 2024-10-08T17:33:02.749Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-understanding-vlcs-screen-recording-features/"><u>[New] Understanding VLC's Screen Recording Features</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-20-proplus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 20 Pro+ Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/geekworm-x1011-nas-rack-review-a-detailed-assessment/"><u>GeekWorm X1011 NAS Rack Review - A Detailed Assessment</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/the-smart-approach-to-customer-onboarding-insights-into-automation-driving-factors-and-obstacles/"><u>The Smart Approach to Customer Onboarding: Insights Into Automation Driving Factors & Obstacles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-parts-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Parts by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-network-potential-in-depth-look-at-the-asus-rog-rapture-gt-be98-wi-fi-routers-elite-capabilities-and-expandability/"><u>Unleash Network Potential: In-Depth Look at the Asus ROG Rapture GT-BE98 Wi-Fi Router's Elite Capabilities and Expandability</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unmatched-performance-in-your-lap-how-the-new-ipad-pro-2021-m1-redefines-productivity/"><u>Unmatched Performance in Your Lap: How the New iPad Pro (2021, M1) Redefines Productivity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-powerhouse-tri-band-connectivity-with-the-netgear-nighthawk-x6-ac3200-router-for-high-speed-internet-experience/"><u>Unveiling the Powerhouse - Tri-Band Connectivity with the Netgear Nighthawk X6 AC3200 Router for High-Speed Internet Experience</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

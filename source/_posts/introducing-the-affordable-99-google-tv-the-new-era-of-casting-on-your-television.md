@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Affordable $99 Google TV: The New Era of Casting on Your Television"
-date: 2024-09-30T00:14:05.227Z
-updated: 2024-10-03T22:50:21.673Z
+date: 2024-10-04T22:17:57.731Z
+updated: 2024-10-09T04:06:05.084Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,21 +133,24 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[New] In 2024, Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unlimited-storage-insights-premium-recommendations/"><u>[New] Unlimited Storage Insights Premium Recommendations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-easy-tweaks-changing-fishy-vocal-patterns-on-windows-for-2024/"><u>[Updated] Easy Tweaks Changing Fishy Vocal Patterns on Windows for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ace-tools-review-6-superior-options-for-photo-backdrop-cleanup/"><u>2024 Approved Ace Tools Review - 6 Superior Options for Photo Backdrop Cleanup</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-meme-magic-adobe-edition/"><u>2024 Approved Craft Meme Magic, Adobe Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users/"><u>Affordable ASMR Capturing Selecting Premium Gear for Budget-Conscious Users</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-analytics-and-data-collection/"><u>Cookiebot-Driven Analytics and Data Collection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effortless-steps-removing-repeated-data-from-your-android-device/"><u>Effortless Steps: Removing Repeated Data From Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-performance-why-you-shouldnt-shut-down-apps-on-your-android-smartphone/"><u>Enhance Performance: Why You Shouldn't Shut Down Apps on Your Android Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-power-of-choice-comparing-samsung-and-apple-ecosystem-strengths-and-benefits/"><u>Evaluating the Power of Choice: Comparing Samsung and Apple Ecosystem Strengths & Benefits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exiting-androids-safe-mode-essential-tips-and-tricks/"><u>Exiting Android's Safe Mode: Essential Tips and Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/facing-low-space-on-your-android-device-a-step-by-step-guide-to-monitoring-and-increasing-memory/"><u>Facing Low Space on Your Android Device? A Step-by-Step Guide to Monitoring & Increasing Memory</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-ahead-of-the-curve-secure-your-pixel-fold-with-atandt-or-verizon-today/"><u>Get Ahead of the Curve: Secure Your Pixel Fold with AT&T or Verizon Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-to-setting-up-your-android-as-a-personal-wi-fi-hotspot/"><u>Guide to Setting Up Your Android as a Personal Wi-Fi Hotspot</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-zte-nubia-flip-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked ZTE Nubia Flip 5G Phone?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-clips-to-classrooms-harnessing-youtubes-potential-for-teaching/"><u>[New] 2024 Approved From Clips to Classrooms Harnessing YouTube's Potential for Teaching</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-three-key-strategies-for-acquiring-youtube-srt-files/"><u>[New] In 2024, Three Key Strategies for Acquiring YouTube SRT Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-a-convenient-approach-to-changing-the-main-image-of-your-fb-page/"><u>[Updated] 2024 Approved A Convenient Approach to Changing the Main Image of Your FB Page</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-clicks-to-creative-mosaics-with-google-imagery/"><u>[Updated] Quick Clicks to Creative Mosaics with Google Imagery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-in-game-magic-captured-advanced-methods-for-logging-virtual-realities/"><u>2024 Approved In-Game Magic Captured Advanced Methods for Logging Virtual Realities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-nuc-970-desktop-chassis-overview-blending-power-with-sleek-design-a-full-scale-review/"><u>Asus ROG NUC 970 Desktop Chassis Overview: Blending Power with Sleek Design – A Full-Scale Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-lenovo-yoga-pro-9i-a-detailed-look-at-resilient-buttons-and-compact-frame/"><u>Exploring the Lenovo Yoga Pro 9I - A Detailed Look at Resilient Buttons and Compact Frame</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-huawei-p60-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Huawei P60 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-palette-perfection-the-colorists-manual/"><u>In 2024, Palette Perfection The Colorist's Manual</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-gadgets-with-toms-hardware-digest/"><u>Inside Look at Gadgets with Tom's Hardware Digest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-buy-let-toms-hardware-be-your-tech-coach/"><u>Navigating Your Next Buy? Let Tom's Hardware Be Your Tech Coach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-down-the-sunfounder-pironman-5-thorough-review-and-detailed-setup-instructions/"><u>Taking Down the SunFounder Pironman 5: Thorough Review and Detailed Setup Instructions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-chronicles-expert-analysis-on-modern-tech-hardware/"><u>Tom's Computing Chronicles: Expert Analysis on Modern Tech Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-hardware-excellence/"><u>Tom's Tech Insights: Your Guide to Hardware Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turtle-beachs-atlas-air-earphones-surpassing-audio-expectations/"><u>Turtle Beach's ATLAS Air Earphones: Surpassing Audio Expectations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-guide/"><u>Unveiling the Latest in PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-synthesizing-authenticity-two-paths-to-cloning-human-like-ai-vocalizations/"><u>Updated Synthesizing Authenticity Two Paths to Cloning Human-Like AI Vocalizations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Discount Alert: Shop the Massive TCL S5 TV at Just $2K with Memorial Day Promo! Read More Here | ZDNET Insights"
-date: 2024-10-02T19:23:52.453Z
-updated: 2024-10-03T23:03:06.070Z
+date: 2024-10-05T04:43:03.651Z
+updated: 2024-10-09T03:23:28.152Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,15 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-screen-readers-digest-recorder-evaluation/"><u>[Updated] 2024 Approved The Screen Reader's Digest Recorder Evaluation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-rapid-rhythm-revelations-audio-and-actors-dance-for-2024/"><u>[Updated] Rapid Rhythm Revelations Audio and Actors' Dance for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ving-pristine-video-quality-on-youtube-for-2024/"><u>Achieving Pristine Video Quality on YouTube for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-your-online-presence-using-state-of-the-art-traffic-tools-from-cookiebot/"><u>Elevate Your Online Presence Using State-of-the-Art Traffic Tools From Cookiebot</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862669669-get-an-in-depth-performance-breakdown-of-the-cutting-edge-asus-zenbook-s16-with-amds-top-of-the-line-ryzen-ai-echnology-the-ryzen-ai-9-hx-370/"><u>Get an In-Depth Performance Breakdown of the Cutting-Edge Asus Zenbook S16 with AMD's Top-of-the-Line Ryzen AI Echnology: The Ryzen AI 9 HX 370</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-cutting-edge-top-20-zero-copyright-pubg-screenshots/"><u>In 2024, Cutting-Edge Top 20 Zero-Copyright PUBG Screenshots</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deal-lenovo-legion-slim-5-with-rtx/"><u>Unbeatable Deal: Lenovo Legion Slim 5 with RTX</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-portable-power-save-up-to-300-on-an-hp-omen-equipped-with-rtx-and-dazzling-oled-panel/"><u>Unleash Portable Power: Save Up to $300 on an HP Omen, Equipped with RTX and Dazzling OLED Panel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-microsoft-surface-pro-plus-a-visual-marvel-with-underwhelming-copilot-ai-capabilities/"><u>Unveiling the Microsoft Surface Pro Plus: A Visual Marvel with Underwhelming Copilot AI Capabilities</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-extract-and-save-youtube-gallery-files/"><u>[New] Extract and Save YouTube Gallery Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-photography-clarity-revolution-best-fixers-of-the-web-age/"><u>[Updated] 2024 Approved Photography Clarity Revolution Best Fixers of the Web Age</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevate-your-influence-mastering-instagram-engagement/"><u>[Updated] In 2024, Elevate Your Influence Mastering Instagram Engagement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sharpening-the-sight-on-minecraft-structures/"><u>[Updated] Sharpening the Sight on Minecraft Structures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-internet-based-image-trimming/"><u>2024 Approved The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-viral-flair-identifying-powerful-tags-for-youtube-short-success/"><u>2024 Approved Viral Flair Identifying Powerful Tags for YouTube Short Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/build-the-ultimate-gaming-rig-top-picks-for-z790-mobo-and-aio-cooler-combinations/"><u>Build the Ultimate Gaming Rig: Top Picks for Z790 Mobo & AIO Cooler Combinations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-affordable-premium-asmr-audio-equipment/"><u>Discover Affordable Premium ASMR Audio Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202094236-fixing-missing-desktop-icons-on-windows-11-complete-solution/"><u>Fixing Missing Desktop Icons on Windows 11 - Complete Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-ready-join-the-exciting-foldinghome-challenge-launching-next-week/"><u>Get Ready: Join the Exciting Folding@Home Challenge Launching Next Week</u></a></li>
+<li><a href="https://extra-support.techidaily.com/maximizing-video-quality-on-periscope-live-streams-for-2024/"><u>Maximizing Video Quality on Periscope Live Streams for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pc-sales-surge-anticipate-an-8-rise-by-2024-the-comeback-of-the-personal-computer-industry/"><u>PC Sales Surge: Anticipate an 8% Rise by 2024 – The Comeback of the Personal Computer Industry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/q4-2015-toms-guide-to-building-systems-announcing-the-winning-configurations/"><u>Q4 2015 Tom's Guide to Building Systems: Announcing the Winning Configurations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-guide-the-ultimate-hardware-resource/"><u>Tom's Computer Gear Guide: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-and-electronics-reviews/"><u>Tom's Tech Hub: In-Depth Computer and Electronics Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Expert Insights on Latest Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Huge Discount Alert: Snag a Fire TV Onyx Series QLED for $150 Less Than Usual | Tech News Update"
-date: 2024-09-28T16:19:57.093Z
-updated: 2024-10-03T20:37:51.828Z
+date: 2024-10-07T19:56:49.227Z
+updated: 2024-10-08T18:15:08.503Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,16 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +97,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,20 +139,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pioneering-successful-twitter-promotions/"><u>[Updated] 2024 Approved Pioneering Successful Twitter Promotions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-fixes-for-when-your-nvidia-control-center-wont-launch-or-crashes/"><u>Easy Fixes for When Your NVIDIA Control Center Won't Launch or Crashes</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-potential-gains-and-losses-for-gamers-in-new-partnership/"><u>Exploring Potential Gains and Losses for Gamers in New Partnership</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-missing-from-windows-device-manager-a-step-by-step-guide/"><u>How to Fix Bluetooth Missing From Windows Device Manager: A Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-hps-omnibook-ultra-14-the-power-duo-of-amd-ryzen-ai-300-chipset-and-next-gen-thunderbolt-4-for-unmatched-productivity/"><u>Introducing HP's OmniBook Ultra 14: The Power Duo of AMD Ryzen AI 300 Chipset & Next-Gen Thunderbolt 4 for Unmatched Productivity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/land-a-steady-bargain-on-high-performance-laptop-save-250-on-asuss-rog-zephyrus-g16-with-advanced-cpu-and-graphics/"><u>Land a Steady Bargain on High-Performance Laptop - Save $250 on ASUS's RoG Zephyrus G16 with Advanced CPU & Graphics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-through-insightful-articles-by-toms-hardware/"><u>Mastering Tech Trends Through Insightful Articles by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-tips-from-toms-computer-specialists/"><u>Mastering Your PC: Tips From Tom’s Computer Specialists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastery-in-pc-components-a-journey-through-toms-hardware-wisdom/"><u>Mastery in PC Components: A Journey Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-gen-devs-dream-affordable-chinese-startups-risc-ve-laptop-at-300/"><u>Next-Gen Devs' Dream: Affordable Chinese Startup's RISC-Ve Laptop at $300</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/premier-alienware-and-dell-discounts-for-gamers/"><u>Premier Alienware & Dell Discounts for Gamers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-cheapest-yet-effective-vuebell-video-doorbells-in-depth-review-and-comparison/"><u>The Cheapest Yet Effective VueBell Video Doorbells – In-Depth Review and Comparison</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-a79-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo A79 5G</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-design-a-new-you-best-free-online-face-generation-software/"><u>Updated In 2024, Design a New You Best Free Online Face Generation Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-decode-instagram-visibility-whos-glancing-at-yours/"><u>[Updated] In 2024, Decode Instagram Visibility Who's Glancing at Yours?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-libre-meditation-harmonies/"><u>[Updated] Libre Meditation Harmonies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-quick-and-easy-methods-for-recording-audio-on-your-android-device/"><u>1. Quick and Easy Methods for Recording Audio on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-practices-for-picking-your-perfect-wireless-phone-charger/"><u>Best Practices for Picking Your Perfect Wireless Phone Charger</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bridging-the-gap-the-ongoing-effort-by-google-for-seamless-text-communication-between-iphones-and-android-devices/"><u>Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/downloading-dynamism-techniques-for-preserving-online-lives/"><u>Downloading Dynamism Techniques for Preserving Online Lives</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-sap-automation-integrating-abbyys-smart-content-insights/"><u>Enhance Your SAP Automation: Integrating ABBYY's Smart Content Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-overlooks-its-own-syntax/"><u>How ChatGPT Overlooks Its Own Syntax</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-study-editmagics-power-edition/"><u>In 2024, Comprehensive Study EditMagic's Power Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-c12-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia C12 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-years-predictions-rendered-in-infographics-for-2024/"><u>The Year's Predictions Rendered in Infographics for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-productivity-with-androids-built-in-focus-feature-step-by-step-setup-for-enhanced-focus-mode/"><u>Unlock Productivity with Android's Built-In Focus Feature: Step-by-Step Setup for Enhanced Focus Mode</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-samsung-devices-with-built-in-galaxy-ai-features/"><u>Upcoming Samsung Devices with Built-In Galaxy AI Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/who-checked-out-my-file-methods-for-monitoring-and-analyzing-google-doc-viewer-activity/"><u>Who Checked Out My File? Methods for Monitoring and Analyzing Google Doc Viewer Activity</u></a></li>
 </ul></div>
 

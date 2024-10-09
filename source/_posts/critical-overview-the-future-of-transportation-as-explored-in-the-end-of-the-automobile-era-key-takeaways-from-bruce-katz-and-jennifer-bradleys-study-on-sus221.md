@@ -1,7 +1,7 @@
 ---
 title: "Critical Overview: The Future of Transportation as Explored in 'The End of the Automobile Era': Key Takeaways From Bruce Katz and Jennifer Bradley's Study on Sustainable Cities"
-date: 2024-10-02T20:32:40.405Z
-updated: 2024-10-03T23:18:01.724Z
+date: 2024-10-03T02:05:41.389Z
+updated: 2024-10-09T07:51:09.893Z
 tags:
   - transportation
 categories:
@@ -77,22 +77,27 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-chromebooks-to-the-rescue-mastering-webcam-recordings/"><u>[New] 2024 Approved Chromebooks to the Rescue Mastering Webcam Recordings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/149-deal-on-acer-nitro-27/"><u>$149 Deal on Acer Nitro 27</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/explore-innovative-light-based-uiux-with-creative-tims-extensive-library-of-28plus-systematic-resources-and-templates/"><u>Explore Innovative Light-Based UI/UX with Creative Tim's Extensive Library of 28+ Systematic Resources and Templates</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-voice-chat-on-cod-black-ops-cold-war/"><u>How to Fix Non-Functional Voice Chat on COD: Black Ops Cold War</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-phone-freedom-comprehensive-guide-on-android-s-pentiger-way-for-samsung-galaxy-s6s7s8-edges/"><u>Mastering Phone Freedom: Comprehensive Guide on Android S PenTiger Way for Samsung Galaxy S6/S7/S8 Edges</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-tab-s6-review-s-pen-dex-mode-and-more/"><u>Samsung Galaxy Tab S6 Review: S Pen, DeX Mode, and More</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-crashes-in-horizon-forbidden-west-full-version-on-windows/"><u>Ultimate Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultra-high-definition-graphics-unveiled-aocs-new-graphic-pro-series-u3-hits-the-pro-arena/"><u>Ultra-High Definition Graphics Unveiled: AOC's New Graphic Pro Series U3 Hits the Pro Arena</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-on-screen-a-comprehensive-guide-to-asus-rog-swift-pg49wcd-monitor-review/"><u>Unveiling the Colors on Screen: A Comprehensive Guide to Asus ROG Swift PG49WCD Monitor Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-by-toms-experts/"><u>Unveiling the Latest in Computer Components by Tom's Experts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-propel-your-instagram-videos-into-the-public-eye/"><u>[New] 2024 Approved Propel Your Instagram Videos Into the Public Eye</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-tricks-for-enhanced-video-quality-via-nvidia/"><u>[New] Tricks for Enhanced Video Quality via NVIDIA</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tickle-treasure-trove-uncovering-best-apps-for-memes/"><u>2024 Approved Tickle Treasure Trove Uncovering Best Apps for Memes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341716627-approach/"><u>Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/foremost-quintet-of-cutting-edge-photo-tech/"><u>Foremost Quintet of Cutting-Edge Photo Tech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-does-vegaspros-2019-version-improve-gaming/"><u>How Does VegasPro's 2019 Version Improve Gaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-ace-2v-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus Ace 2V Phone Screen?</u></a></li>
+<li><a href="https://win-guides.techidaily.com/latest-windows-11-update-brings-improved-android-integration-quick-voice-transcription-zdnet-news/"><u>Latest Windows 11 Update Brings Improved Android Integration, Quick Voice Transcription | ZDNET News</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/patriot-viper-vp4300-lite-4tb-ssd-analysis-big-storage-meets-affordable-pricing/"><u>Patriot Viper VP4300 Lite 4TB SSD Analysis - Big Storage Meets Affordable Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pi52-icetower-plus-revolutionizes-raspberry-pi-5-cooling-efficiency-in-our-in-depth-review/"><u>Pi52 IceTower Plus Revolutionizes Raspberry Pi 5 Cooling Efficiency in Our In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-comic-strip-editor-for-2024/"><u>Ultimate Comic Strip Editor for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gameplay-experience-unleashed-in-depth-review-of-the-philips-49m2c8900-240hz-qd-oled-display/"><u>Ultimate Gameplay Experience Unleashed: In-Depth Review of the Philips 49M2C8900 - 240Hz QD-OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-and-reviews-at-toms-hardware/"><u>Unveiling Innovations and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-expert-review-on-the-id-cooling-frozn-a62ebit-pro-series-for-enthusiasts/"><u>Unveiling the Power: Expert Review on the ID-Cooling Frozn A62ebit - Pro Series for Enthusiasts</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Business Users' Guide: Comprehensive Review of the Microsoft Surface Pro 8 - ZDNet Insights"
-date: 2024-09-19 17:42:14
-updated: 2024-09-20 12:19:23
+date: 2024-10-03T04:58:15.594Z
+updated: 2024-10-08T22:05:28.340Z
 tags:
   - tablets
 categories:
@@ -117,6 +117,13 @@ June Wan/ZDNET
 
 As far as the iPad's performance goes, I've been very satisfied with what you get for the money. I paced the tablet through rounds of 4K video-editing via iMovie (what I suspected most users buying this model would use), playing Wild Rift and Asphalt 9 at 60 fps, and doing more usual tasks, such as web browsing and streaming movies. The A14 Bionic chip handled all of that gracefully, with only a hint of heating here and there. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How the regular iPad beats the Pro
 
 That said, my "first impressions" hot take is still ablaze: the iPad beats out the iPad Pro model in two regards. The first is Apple's own accessories. The 14-key function row on the Magic Keyboard Folio is exclusive to the standard iPad, even though Apple also just released [a refreshed iPad Pro](https://www.zdnet.com/article/m1-ipad-pro-2021-vs-m2-ipad-pro-2022-which-one-is-right-for-you/). 
@@ -133,6 +140,13 @@ Naturally, every video begins with you at the center, wide angle or not. General
 
 **Also: [How to use your iPhone as a webcam with Continuity Camera](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery and charging
 
 To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whether it was needing to assimilate the tablet into my workflow, or the fact that I was downloading apps left and right, or maybe a bit of everything, the battery life was short. I ended my first two days at around 20% to 30% by the end of each night.
@@ -142,6 +156,13 @@ To be honest, I was initially underwhelmed by the 10th-gen iPad's endurance. Whe
 Fortunately, that hasn't been the case during the second half of my year's testing -- and I fully expect the seven to eight hours of use that I get per day to continue for another four to five months. I must say, though, standardizing USB-C across all the iPads has been a godsend. Instead of having to carry a dedicated Lightning cable for the standard model, I only need one charger to power my smartphone, laptop, wireless earbuds, and now, iPad. 
 
 [Buy the iPad (10th Gen, 2022) $299 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%2Fref%3Dasc%5Fdf%5FB0BJLXMVMV1726570800000%3Fcreative%3D395261%26creativeASIN%3DB0BJLXMVMV%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -158,6 +179,13 @@ If you're shopping on a budget, the [2021 iPad](https://apple.sjv.io/c/159047/43
 **[iPad Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLBKMV8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1)**: If you want a productivity workstation that supports the most accurate touch and stylus inputs. 
 
 The biggest question mark for me is what happens to the [iPad Air,](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09V3JJT5D%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce30a37ff-71f9-4d3a-9a8f-4412f67ae7ec%7Cdtp&dtb=1) now that the standard iPad is nearly the same size and weight -- and costs significantly less. What's certain is that Apple's lineup of iPads is more convoluted than ever before. But if the goal of the revamped design is to sway potential buyers downmarket, then it may all come to fruition when discounts start rolling in, and everyone can get in on the tablet action for less. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -194,11 +222,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-essential-toolkit-how-to-use-obs-for-youtube-and-twitch-streaming-for-2024/"><u>[New] The Essential Toolkit How to Use OBS for YouTube & Twitch Streaming for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-your-windows-11-model-and-edition-a-step-by-step-guide/"><u>Discover Your Windows 11 Model & Edition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-defeating-dissidence-a-guide-for-content-makers/"><u>In 2024, Defeating Dissidence A Guide for Content Makers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-macro-mastery-tips-for-clear-detail-focused-photos/"><u>In 2024, IPhone Macro Mastery Tips for Clear, Detail-Focused Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-skycheap-fileserver-economical-efficient-large-data/"><u>In 2024, SkyCheap Fileserver Economical, Efficient Large Data</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-in-2anno-the-ultimate-list-of-2024-alienware-and-dell-deals/"><u>Save Big in 2Anno: The Ultimate List of 2024 Alienware and Dell Deals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-a-steal-with-the-newly-discounted-rog-strix-g16-only-1164-on-amazon/"><u>Score a Steal with the Newly Discounted ROG Strix G16 - Only $1,164 on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-on-your-next-pc-asus-rog-zephyrus-g14-rtx-deal-at-best-buy/"><u>Score Big Savings on Your Next PC - Asus ROG Zephyrus G14 RTX √ Deal at Best Buy!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-instructional-video-migrating-mailbox-archives-from-edb-format-to-running-exchange-email-servers/"><u>Step-by-Step Instructional Video: Migrating Mailbox Archives From EDB Format to Running Exchange Email Servers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-in-depth-journey-through-cutting-edge-devices-at-toms-tech-empire/"><u>The In-Depth Journey Through Cutting-Edge Devices at Tom's Tech Empire</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-in-depth-hardware-reviews/"><u>The Ultimate Resource for Computer Enthusiasts: Tom's In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Reviews & Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-hps-new-omnibook-ultra-14-features-cutting-edge-amd-ryzen-ai-300-and-lightning-fast-thunderbolt-4/"><u>Ultimate Performance: HP's New OmniBook Ultra 14 Features Cutting-Edge AMD Ryzen AI 300 & Lightning Fast Thunderbolt 4</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-secrets-to-effective-configurations-of-fb-instream-ads/"><u>Unveiling the Secrets to Effective Configurations of FB Instream Ads</u></a></li>
+</ul></div>
+

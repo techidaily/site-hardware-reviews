@@ -1,7 +1,7 @@
 ---
 title: Can Rivian Electric Fleet Shift Significantly Reduce Amazon's Carbon Footprint? Insights & Analysis - TechCrunch
-date: 2024-09-18 21:29:31
-updated: 2024-09-20 12:57:59
+date: 2024-10-01T23:27:23.371Z
+updated: 2024-10-09T00:24:42.186Z
 tags:
   - transportation
 categories:
@@ -68,11 +68,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-when-youre-not-who-you-think-during-a-facebook-call/"><u>[Updated] When You're Not Who You Think During a Facebook Call</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-drones-buying-guide-thing-you-need-to-know-before-buying-a-drone/"><u>2024 Approved Drones Buying Guide Thing You Need to Know Before Buying a Drone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-and-gizmos-covered-at-toms-hardware-hub/"><u>Advanced Gadgets and Gizmos Covered at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-value-for-gamers-in-depth-look-at-acer-predator-orion-5000-egpus-exceptional-capabilities/"><u>Best Value for Gamers: In-Depth Look at Acer Predator Orion 5000 eGPU's Exceptional Capabilities</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/al-dont-reveal-how-to-blur-faces-online-for-2024/"><u>Conceal, Don't Reveal How to Blur Faces Online for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/confidentiality-concerns-is-it-wise-to-use-chatgpt-for-sensitive-data/"><u>Confidentiality Concerns: Is It Wise to Use ChatGPT for Sensitive Data?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/"><u>In 2024, Streamlining Content Delivery The Definitive YouTube Video Upload Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-top-tiers-of-treasured-valheim-trees/"><u>In 2024, The Top Tiers of Treasured Valheim Trees</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/picture-perfection-partial-blur-on-pcmobile-devices-for-2024/"><u>Picture Perfection Partial Blur on PC/Mobile Devices for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/redefining-industry-standards-with-the-raspberry-pi-cm4-a-comprehensive-appraisal/"><u>Redefining Industry Standards with the Raspberry Pi CM4 - A Comprehensive Appraisal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-toms-guide-to-hardware/"><u>The Ultimate Resource for Top-Notch PC Components - Tom’s Guide to Hardware</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Vivo V29e | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

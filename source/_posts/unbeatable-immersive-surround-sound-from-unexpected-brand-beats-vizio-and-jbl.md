@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Immersive Surround Sound From Unexpected Brand Beats Vizio & JBL!
-date: 2024-10-02T21:10:39.473Z
-updated: 2024-10-03T22:31:39.010Z
+date: 2024-10-04T23:04:28.557Z
+updated: 2024-10-09T03:38:14.234Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +99,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-premium-visual-enhancer-cutting-edge-conversion/"><u>[Updated] 2024 Approved Premium Visual Enhancer Cutting-Edge Conversion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/behind-every-message-exploring-the-enigma-of-communicating-with-ghosts-online-demystifying-dead-internet-theory/"><u>Behind Every Message: Exploring the Enigma of Communicating with Ghosts Online - Demystifying Dead Internet Theory</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/designing-epic-adventurers-in-dungeons-and-dragons-with-the-power-of-chatgpt-and-dall-e/"><u>Designing Epic Adventurers in Dungeons & Dragons with the Power of ChatGPT and DALL-E</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortlessly-rectify-canons-no-print-issue-with-these-5-window-11-tips/"><u>Effortlessly Rectify Canon's No-Print Issue with These 5 Window 11 Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-equipment-review/"><u>Exploring Digital Innovations with Tom's Equipment Review</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-go-live-with-recorded-material-on-the-worlds-largest-social-network-for-2024/"><u>How to Go Live with Recorded Material on the World's Largest Social Network for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-color-grading-efficiency-with-obs-and-lut-techniques/"><u>In 2024, Maximizing Color Grading Efficiency with OBS and LUT Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y200e-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y200e 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/interactive-pong-game-on-raspberry-pi-pico-pov-technique-and-tailored-mouse-driver/"><u>Interactive Pong Game on Raspberry Pi Pico: POV Technique & Tailored Mouse Driver</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/open-source-ultimate-tool-the-raspberry-pi-rp2vecky-hackbat-for-comprehensive-penetration-testing/"><u>Open-Source Ultimate Tool: The Raspberry Pi RP2vecky HackBat for Comprehensive Penetration Testing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-reveals-plans-for-ipo-on-the-london-stock-exchange/"><u>Raspberry Pi Reveals Plans for IPO on the London Stock Exchange</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-diy-raspberry-pi-creation-unveiling-the-pi-1000-a-powerhouse-of-5-raspberry-units/"><u>Revolutionary DIY Raspberry Pi Creation - Unveiling the 'Pi 1000': A Powerhouse of 5 Raspberry Units!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-evolution-of-communication-with-google-hangouts-what-it-was-and-how-it-worked/"><u>The Evolution of Communication with Google Hangouts – What It Was and How It Worked</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-modern-resurrection-of-classic-computers-a-tale-of-raspberry-pi-3d-printers-and-a-vintage-trs-80-revival/"><u>The Modern Resurrection of Classic Computers: A Tale of Raspberry Pi, 3D Printers, and a Vintage TRS-80 Revival</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-the-best-tech-gear/"><u>Tom's Computer Components: Your Guide to the Best Tech Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-entertainment-hub-raspberry-pi-cm4-core-with-integrated-sports-features-and-gpio-extension-ports/"><u>Ultimate Entertainment Hub: Raspberry Pi CM4 Core with Integrated Sports Features and GPIO Extension Ports</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-x-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone X & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-hook-your-viewers-quickly-with-these-6-video-types/"><u>[Updated] 2024 Approved Hook Your Viewers Quickly with These 6 Video Types</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-share-the-moment-how-to-post-on-twitter-for-2024/"><u>[Updated] Share the Moment How To Post on Twitter for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2024-app/"><u>2024 熱門無料影片串流 APP 選擇與使用指南</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-the-unique-capabilities-of-siri-11-innovative-uses-for-your-mac/"><u>Discover the Unique Capabilities of Siri: 11 Innovative Uses for Your Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-online-marketing-strategies-for-newcomers-for-2024/"><u>Essential Online Marketing Strategies for Newcomers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-seamlessly-convert-and-download-pinterest-videos-as-mp3/"><u>How to Seamlessly Convert and Download Pinterest Videos as MP3</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-entrepreneurs-guide-to-snapchat-e-commerce/"><u>In 2024, The Entrepreneur's Guide to Snapchat E-Commerce</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-impact-of-instant-subscribing-on-online-viewing-habits/"><u>In 2024, The Impact of Instant Subscribing on Online Viewing Habits</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-specs-tips-and-tricks-by-toms-system-experts/"><u>Navigating PC Specs: Tips and Tricks by Tom's System Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-art-of-perfection-an-in-depth-evaluation-of-the-asus-rog-swift-pg32ucdp-oled-monitor/"><u>The Art of Perfection: An In-Depth Evaluation of the Asus ROG Swift PG32UCDP OLED Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides & Reviews</u></a></li>
 </ul></div>
 

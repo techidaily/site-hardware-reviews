@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Level Viewing with 40%% Off Samsung Neo Quantum N8500: The OLED King's Rival Is Now More Affordable! | Gizmodo"
-date: 2024-10-01T17:57:25.158Z
-updated: 2024-10-03T20:40:21.502Z
+date: 2024-10-06T04:00:30.872Z
+updated: 2024-10-09T00:54:39.429Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,18 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-audience-retention-through-reel-magic-boomers-on-ig/"><u>[New] 2024 Approved Audience Retention Through Reel Magic Boomers on IG</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-plot-crafting-platform/"><u>[New] Ideal Plot Crafting Platform</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-tech-analysis-elite-parrot-ar-drone-20/"><u>[Updated] 2024 Approved Tech Analysis Elite Parrot AR Drone 2.0</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-analyzing-livestream-giants-twitch-vs-youtube-breakdown/"><u>In 2024, Analyzing Livestream Giants Twitch Vs YouTube Breakdown</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-expert-tips-for-capturing-and-storing-facebook-messages/"><u>In 2024, Expert Tips for Capturing and Storing Facebook Messages</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-14-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 14 & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-game-with-expert-advice-from-toms-hardware-zone/"><u>Master Your Tech Game with Expert Advice From Tom's Hardware Zone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-tips-and-advice-from-toms-hardware-experts/"><u>Mastering Gadget Selection: Tips and Advice From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-katana-156-gaming-laptop-powerhouse-performance-at-just-1199-featuring-nvidia-rtx-4070/"><u>MSI Katana 15.6 Gaming Laptop: Powerhouse Performance at Just $1,199 – Featuring NVIDIA RTX 4070</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-pros-and-cons-of-asus-rog-zephyrus-g16-an-in-depth-gamers-guide/"><u>Navigating the Pros and Cons of Asus ROG Zephyrus G16: An In-Depth Gamer's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-reviews-by-toms-hardware-team/"><u>Pioneering Computer Reviews by Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigate-the-maze-of-macos-for-streamlined-video-resizing-to-instagram/"><u>[New] In 2024, Navigate the Maze of MacOS for Streamlined Video Resizing to Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-igtvs-potential-a-video-resizing-primer/"><u>[Updated] In 2024, Unlocking IGTV's Potential A Video Resizing Primer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-essential-apps-for-effective-mac-sniping/"><u>2024 Approved Essential Apps for Effective Mac Sniping</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-personal-drones-that-track-and-follow-you/"><u>2024 Approved Personal Drones that Track and Follow You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-ultimate-cooling-detailed-examination-of-the-5-uphere-m201-nvme-ssd-heatsink/"><u>Affordable Ultimate Cooling: Detailed Examination of the $5 UpHere M201 NVMe SSD Heatsink</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-gadget-reviews-and-tips/"><u>Exploring Technology with Tom's Hardware Hub: Gadget Reviews & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-tech-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Tech Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-correctly-install-the-hcmon-driver-and-overcome-common-issues/"><u>Guide to Correctly Install the Hcmon Driver and Overcome Common Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-15-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 15 iOS System? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-12r-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus 12R Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premium-savings-leading-nvme-and-sata-storage-options-buyers/"><u>Premium Savings: Leading NVMe & SATA Storage Options Buyers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-components-overview-expert-insights-on-hardware-choices/"><u>Tom's Components Overview: Expert Insights on Hardware Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-creativity-using-mematic-app/"><u>Unleash Creativity Using Mematic App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-toms-comprehensive-hardware-analysis/"><u>Unveiling the Latest Gadgets - Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
 </ul></div>
 

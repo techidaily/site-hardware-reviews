@@ -1,7 +1,7 @@
 ---
 title: 4K TVs, as Featured on ZDNET
-date: 2024-10-02T18:36:57.762Z
-updated: 2024-10-04T00:37:00.086Z
+date: 2024-10-01T16:07:32.841Z
+updated: 2024-10-09T04:26:43.300Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,15 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-best-waterproof-cameras-for-kids-filmmaking-and-splash-fun-for-2024/"><u>[Updated] Best Waterproof Cameras For Kids' Filmmaking and Splash Fun for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-game-changer-in-connectivity-unveiling-the-might-of-asus-rt-be96u-7ghz-wifi-router/"><u>A Game Changer in Connectivity - Unveiling the Might of Asus RT-BE96U 7GHz WiFi Router</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/direct-download-dojo-become-a-master-of-ifunny-jokes/"><u>Direct Download Dojo Become a Master of iFunny Jokes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-find-x7-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo Find X7 Unlock Without Password</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-zoom-for-fb-live-broadcasts/"><u>In 2024, Mastering Zoom for FB Live Broadcasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uncovering-tech-secrets-with-toms-equipment-insights/"><u>Uncovering Tech Secrets with Tom's Equipment Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-asus-rog-swift-oled-pg32ucdp-reviewed-for-unmatched-gaming-clarity/"><u>Unlocking the Potential: Asus ROG Swift OLED PG32UCDP Reviewed for Unmatched Gaming Clarity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-an-inside-look-by-toms-hardware-experts/"><u>Unveiling Tech Secrets: An Inside Look by Tom's Hardware Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/update-home-screen-with-new-photo-ps5/"><u>Update Home Screen with New Photo (PS5)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-humor-for-iphones-enthusiasts/"><u>Visual Humor for iPhones Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-tips-for-iphone-voice-note-making/"><u>[Updated] In 2024, Essential Tips for iPhone Voice Note Making</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-how-to-start-a-channel-a-beginners-guide-to-reviewing-books-and-ebooks/"><u>[Updated] In 2024, How To Start a Channel A Beginner's Guide to Reviewing Books & Ebooks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-the-height-final-cut-pro-x-techniques-for-instagram-video/"><u>2024 Approved Mastering the Height Final Cut Pro X Techniques for Instagram Video</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tips-from-toms-hardware-professionals/"><u>Advanced Tips From Tom's Hardware Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>Capture Stunning Colors Top 11 Methods for Professional Grading & Correction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dreaming-in-color-the-revolutionary-hp-monitor-z32x/"><u>Dreaming in Color The Revolutionary HP Monitor, Z32X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-portable-nvme-ssd-by-pny-solid-functionality-that-lacks-distinction/"><u>Evaluating the Portable NVMe SSD by PNY: Solid Functionality that Lacks Distinction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-comparisons-toms-comprehensive-guide-to-computer-hardware/"><u>Expert Reviews & Comparisons: Tom's Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-resolving-steam-timeout-error-with-rustwindows/"><u>Expert Tips: Resolving Steam Timeout Error with Rust/Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-comprehensive-guides-and-insights/"><u>Exploring Technology with Tom's Hardware - Comprehensive Guides and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-comprehensive-reviews-at-your-brand-name/"><u>Exploring the Latest in Tech: Comprehensive Reviews at [Your Brand Name]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-electronics-hub-in-depth-reviews-on-hardware-and-software-solutions/"><u>Exploring Tom's Electronics Hub: In-Depth Reviews on Hardware and Software Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-cpus-to-gpus-expert-tips-on-cutting-edge-hardware-with-tom/"><u>From CPUs to GPUs: Expert Tips on Cutting-Edge Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-sabrents-speedy-rocket-5-ssds-pre-order-begins-at-an-affordable-price-of-190/"><u>Get Your Hands on Sabrent's Speedy Rocket 5 SSDs - Pre-Order Begins at an Affordable Price of $190!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-red-magic-9-proplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Red Magic 9 Pro+</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-essential-tips-for-crafting-youtube-image-marketing/"><u>In 2024, Essential Tips for Crafting YouTube Image Marketing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-sabrent-rocket-5-2tb-ssd-performance-elevated/"><u>In-Depth Analysis of Sabrent Rocket 5 2TB SSD - Performance Elevated</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-in-store-purchase-rates-on-microsoft-platform/"><u>Streamline Your In-Store Purchase Rates on Microsoft Platform</u></a></li>
 </ul></div>
 
