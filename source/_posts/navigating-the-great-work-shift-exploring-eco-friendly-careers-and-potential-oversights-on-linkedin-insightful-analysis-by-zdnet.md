@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Great Work Shift: Exploring Eco-Friendly Careers & Potential Oversights on LinkedIn - Insightful Analysis by ZDNet"
-date: 2024-09-17 20:14:12
-updated: 2024-09-20 12:18:52
+date: 2024-10-14T16:26:06.908Z
+updated: 2024-10-15T16:11:16.865Z
 tags:
   - sustainability
 categories:
@@ -33,6 +33,13 @@ That's the introduction to LinkedIn's recently published [Global Green Skills Re
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Green skills and green jobs
 
 Achieving our collective global climate targets is a monumental task, and it is going to take a whole-of-economy effort to make it happen. That means we need a [transformation in the skills and jobs people have](https://www.zdnet.com/article/start-the-reskilling-revolution-without-me-future-of-work-trends-and-soft-data-on-soft-skills/) if we're going to get there, writes Roslansky.
@@ -50,6 +57,13 @@ For example, Sustainable Fashion, Environmental Services and Sustainable Growth 
 Green jobs are those that cannot be performed without extensive knowledge of green skills. Greening jobs are those that can be performed without green skills but typically require some green skills. Greening potential jobs are ones that could be performed without green skills but typically require at least one green skill, and Non-green jobs are those that do not require green skills to be performed.
 
 * **See also:** [**Best online sustainability degrees: Make a lasting difference**](https://www.zdnet.com/education/business-management/best-online-sustainability-degree/)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The big picture
 
@@ -105,9 +119,23 @@ It includes 381 skills, 185 knowledge concepts and 5 transversal skills consider
 
 It's possible that LinkedIn consulted ESCO in creating its own green skill taxonomy, but we'll probably never know. Without visibility into LinkedIn's taxonomy and data, it's impossible to verify the validity of its analysis. Not to mention -- all LinkedIn member skill assessment is done by members themselves, with everything this entails.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are green skills driving sustainable change in the European automotive industry?
 
 Another example of the fact that even data-driven analysis is often not as clear-cut as it seems is LinkedIn's reference to how green skills are driving sustainable change in the European automotive industry. LinkedIn notes that the move to electric is reshaping the talent profile of the automotive industry, and the need for innovation to cut emissions has influenced a sustained technological change in the European automotive industry.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -149,11 +177,31 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-follower-fallout-on-instagram-how-to-spot-it/"><u>[New] 2024 Approved Follower Fallout on Instagram How to Spot It</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vlc-player-from-live-viewing-to-recording-for-2024/"><u>[Updated] VLC Player From Live Viewing to Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-junior-jams-and-junction-gaming/"><u>2024 Approved Junior Jams & Junction Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-real-time-media-streamers/"><u>2024 Approved Superior Real-Time Media Streamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-breakdown-with-tomntools-evaluation/"><u>Advanced Hardware Breakdown with Tom'n'Tools Evaluation</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/comiscriversi-facilmente-ad-un-seminario-in-linea-tutto-dettagliato/"><u>Com'iscriversi Facilmente Ad Un Seminario in Linea: Tutto Dettagliato!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-digital-horizons-toms-guide-to-modern-tech/"><u>Discovering Digital Horizons: Tom's Guide to Modern Tech</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>In 2024, Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-keris-ii-ace-can-it-challenge-the-deity-status-of-the-ragedeathadder-v3-pro/"><u>In-Depth Analysis of Asus ROG Keris II Ace: Can It Challenge the Deity Status of the RageDeathAdder V3 Pro?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-blueant-soundblade-stylish-and-sonorous-performance/"><u>In-Depth Look at the BlueAnt Soundblade - Stylish and Sonorous Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-wisdom-from-toms-corner/"><u>Navigating the World of Hardware - Wisdom From Tom's Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-hardware/"><u>Tom's Tech Review: Expert Insights on Computer Hardware</u></a></li>
+<li><a href="https://discover-data.techidaily.com/tutorial-completo-de-migracao-de-informacoes-samsung-para-o-sistema-operacional-windows-10-baixar-e-seguir-as-etapas-faceis/"><u>Tutorial Completo De Migração De Informações Samsung Para O Sistema Operacional Windows 10 - Baixar E Seguir as Etapas Fáceis!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-insights/"><u>Unveiling the Latest in Computing - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-visual-excellence-of-gigabytes-aorus-co49dq-a-deep-dive-review-on-color-fidelity-and-contrast-brilliance/"><u>Unveiling the Visual Excellence of Gigabyte's Aorus CO49DQ: A Deep Dive Review on Color Fidelity and Contrast Brilliance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/yt-titling-excellence-with-smart-technology/"><u>YT Titling Excellence with Smart Technology</u></a></li>
+</ul></div>
+

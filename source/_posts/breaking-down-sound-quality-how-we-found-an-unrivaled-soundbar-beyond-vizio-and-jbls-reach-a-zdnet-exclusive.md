@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Sound Quality: How We Found an Unrivaled Soundbar Beyond Vizio & JBL's Reach - A ZDNet Exclusive"
-date: 2024-10-04T02:20:37.662Z
-updated: 2024-10-08T20:18:02.580Z
+date: 2024-10-11T16:20:55.750Z
+updated: 2024-10-15T16:17:23.957Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,21 +99,14 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-master-the-mind-discovering-elite-game-rooms/"><u>[New] In 2024, Master the Mind Discovering Elite Game Rooms</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-top-8-facebook-planners-for-enhanced-team-productivity/"><u>[Updated] In 2024, Top 8 Facebook Planners for Enhanced Team Productivity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-2023-how-to-share-twitter-videos-on-facebook/"><u>2024 Approved 2023 | How to Share Twitter Videos on Facebook?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-b760-m2-pcie-gen4-motherboard-budget-friendly-performance/"><u>ASRock B760 M.2 PCIe Gen4 Motherboard - Budget-Friendly Performance</u></a></li>
-<li><a href="https://fox-http.techidaily.com/audio-callback-logger-for-iphone-2024/"><u>Audio Callback Logger for iPhone 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-specs-advanced-insights-from-toms-hardware-diaries/"><u>Decoding Tech Specs: Advanced Insights From Tom's Hardware Diaries</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-zte-nubia-flip-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your ZTE Nubia Flip 5G Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-clevetura-clvx-1-bluetooth-keyboard-with-pressure-sensitive-buttons/"><u>In-Depth Analysis of the Clevetura CLVX 1 Bluetooth Keyboard with Pressure-Sensitive Buttons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computing-and-more-at-toms-tech-hub/"><u>Inside the World of Computing and More at Tom’s Tech Hub</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-getting-a-video-editor-app-for-your-chromebook-from-a-google-play-store-is-now-possiblein-this-article-we-will-recommend-the-best-best-android-v/"><u>New In 2024, Getting a Video Editor App for Your Chromebook From a Google Play Store Is Now possible.In This Article, We Will Recommend the Best Best Android Video Editor Apps for Chromebook and How to Install It</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-a-subdivision-plat-records-new-lot-boundaries-and-relevant-details-for-official-use-providing-a-legally-binding-representation-of-the-divided-prope8/"><u>Solution: A Subdivision Plat Records New Lot Boundaries and Relevant Details for Official Use, Providing a Legally Binding Representation of the Divided Property.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-hardware-hub-dive-into-toms-tech-reviews-today/"><u>Ultimate Hardware Hub: Dive Into Tom's Tech Reviews Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-white-hued-maxsun-terminator-z790m-d5-ice-a-review-on-its-five-flexible-m2-ports/"><u>Unveiling the Power of the White-Hued Maxsun Terminator Z790M D5 Ice – A Review on Its Five Flexible M.2 Ports</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-mobile-masterpieces-best-video-invitation-creators-for-ios-and-android-for-2024/"><u>Updated Mobile Masterpieces Best Video Invitation Creators for iOS and Android for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-no-budget-maximum-quality-8-prime-editors-for-youtubers/"><u>[New] No Budget, Maximum Quality 8 Prime Editors for YouTubers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-twitch-broadcasting-made-easy-on-social-media-for-2024/"><u>[Updated] Twitch Broadcasting Made Easy on Social Media for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-note-30-vip-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Note 30 VIP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-a-guide-by-toms-hardware-experts/"><u>Exploring the Latest in Tech: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gadget-gurus-review-roundup-comparing-top-tier-electronic-enhancements/"><u>Gadget Gurus' Review Roundup: Comparing Top-Tier Electronic Enhancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-ultimate-gameplay-experience-with-a-34-inch-asus-tuf-monitor-for-only-250-at-amazon/"><u>Get the Ultimate Gameplay Experience with a 34-Inch Asus TUF Monitor for Only $250 at Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/grab-your-bargain-a-thor-darth-vader-motif-monitor-is-just-1e6-more-than-expected-retailer-selling-24-inch-ips-display-at-low-price/"><u>Grab Your Bargain: A 'Thor Darth Vader' Motif Monitor Is Just $1E6 More Than Expected - Retailer Selling 24-Inch IPS Display at Low Price</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-6s-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 6s Plus</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/secure-mp4-conversion-at-your-fingertits-fb-only-for-2024/"><u>Secure MP4 Conversion at Your Fingertits – FB Only for 2024</u></a></li>
 </ul></div>
 

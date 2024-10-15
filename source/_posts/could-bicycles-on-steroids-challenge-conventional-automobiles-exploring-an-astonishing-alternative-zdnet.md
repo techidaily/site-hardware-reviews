@@ -1,7 +1,7 @@
 ---
 title: Could 'Bicycles on Steroids' Challenge Conventional Automobiles? Exploring an Astonishing Alternative | ZDNet
-date: 2024-09-19 10:19:41
-updated: 2024-09-20 12:43:22
+date: 2024-10-11T16:01:34.141Z
+updated: 2024-10-15T16:16:53.051Z
 tags:
   - sustainability
 categories:
@@ -61,6 +61,19 @@ Read on to find out why, and if you're considering a cargo bike, this review sho
 Setting off from the dock to the daycare!
 
 Greg Nichols / ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rider profile  
 
@@ -124,6 +137,13 @@ The Yuba Mundo Lux replaces my old road bike and trailer set up. The kiddos are 
 
 Greg Nichols / ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Electric assist vs. manual transmission
 
 The stock Mundo Lux is pedal power only, but Yuba makes an e-bike version called [the EP8](https://yubabikes.com/cargobikestore/mundo-electric/). With the brackets already installed, the Mundo Lux can easily be converted to an e-bike or e-assist using a variety of aftermarket setups, however doing so will void the warranty.
@@ -139,6 +159,13 @@ When you add a motor and a battery to the equation, things get more complicated.
 The Go-Getter bag is humongous and takes two seconds to attach or detach from the bike. It's a very versatile add-on.
 
 Greg Nichols / ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adjusting to the new ride
 
@@ -157,6 +184,13 @@ After about a week experimenting with and dialing in the bike, the fit, and my r
 The cargo rack isn't just for kids! With a 550 pound capacity the bike has some serious hauling capability.
 
 Yuba
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Daily riding experiences   
 
@@ -211,11 +245,33 @@ A stylish front loader that makes for a practical alternative to a car in suburb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>[New] 2024 Approved Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-where-to-find-high-quality-copyright-free-game-audio-online/"><u>[New] In 2024, Where to Find High-Quality Copyright-Free Game Audio Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-360-degree-rigging-solutions-vr-production/"><u>[Updated] 360 Degree Rigging Solutions VR Production</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlocking-the-full-potential-of-iphones-hdr-capabilities-for-2024/"><u>[Updated] Unlocking the Full Potential of iPhone's HDR Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-from-filming-to-sharing-a-youtube-video-edition/"><u>2024 Approved From Filming to Sharing A YouTube Video Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-3-3300x-outperforms-intel-core-i7-7700k-detailed-geekbench-comparisons/"><u>AMD Ryzen 3 3300X Outperforms Intel Core I7-7700K: Detailed Geekbench Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-intel-alleged-to-halt-production-of-thunder-bay-hybrid-chip/"><u>Breaking News: Intel Alleged to Halt Production of Thunder Bay Hybrid Chip</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-gear-insights-your-source-for-latest-hardware-news/"><u>Dive Into Technology with Tom's Gear Insights: Your Source for Latest Hardware News</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-next-weeks-thrilling-foldinghome-event-begins-soon/"><u>Don't Miss Out - Next Week's Thrilling Folding@Home Event Begins Soon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enter-the-contest-for-your-chance-at-a-complimentary-corsair-t2-elite-gaming-seat/"><u>Enter the Contest for Your Chance at a Complimentary Corsair T2 Elite Gaming Seat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insights-into-neweggs-strategy-for-reserving-rare-components-before-building-your-pc/"><u>Exclusive Insights Into Newegg's Strategy for Reserving Rare Components Before Building Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964465096-galax-unveils-advanced-overclocking-motherboards-equipped-with-ddr5-memory-and-enhanced-voltage-regulation-systems/"><u>Galax Unveils Advanced Overclocking Motherboards - Equipped with DDR5 Memory and Enhanced Voltage Regulation Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-ace-your-phone-the-ios-podcast-downloading-guidebook/"><u>In 2024, Ace Your Phone The iOS Podcast Downloading Guidebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Power 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionary-audio-alteration-for-enhanced-pubg-experience/"><u>In 2024, Revolutionary Audio Alteration for Enhanced PUBG Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-etiquette-for-business-pages-blocking-users/"><u>Social Etiquette for Business Pages: Blocking Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tailor-made-ddr5-racks-from-team-group-boost-your-systems-speed-and-stability/"><u>Tailor-Made DDR5 Racks From Team Group: Boost Your System's Speed and Stability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guides-and-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides and Insights on Latest Hardware</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-15-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 15 Plus</u></a></li>
+</ul></div>
+

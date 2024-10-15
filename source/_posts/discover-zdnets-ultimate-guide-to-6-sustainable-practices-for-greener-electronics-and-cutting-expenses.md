@@ -1,7 +1,7 @@
 ---
 title: Discover ZDNet's Ultimate Guide to 6 Sustainable Practices for Greener Electronics and Cutting Expenses
-date: 2024-09-17 19:12:55
-updated: 2024-09-20 11:10:35
+date: 2024-10-11T16:15:55.532Z
+updated: 2024-10-15T16:07:21.312Z
 tags:
   - sustainability
 categories:
@@ -67,6 +67,13 @@ Samsung has [e-waste collection sites](https://shop-links.co/link/?exclusive=1&p
 
 For Apple users, you can trade in any device in any condition, and Apple will give you [credit towards a new device](https://www.apple.com/recycling/nationalservices/), and recycle it for free. You can recycle any Apple-owned brand devices at Apple Stores or through [apple.com](https://www.apple.com/recycling/nationalservices/). 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Upcycle your devices
 
 On the flip side, your outdated smartphone doesn't have to get recycled to give it a new life. Upcycling your old devices to bring new life to them is a great way to be sustainable with technology. 
@@ -89,6 +96,13 @@ And if you don't have a Samsung phone, there are still ways to upcycle. For exam
 
 In addition, you can dedicate an entire phone as a GPS device to increase your primary phone battery's lifespan. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Become an educated consumer
 
 Newton says sustainability is not simply about doing the right things but also about supporting the right companies and making informed buying decisions. 
@@ -100,6 +114,13 @@ Newton says sustainability is not simply about doing the right things but also a
 Plenty of companies have made net-zero pledges, so investigate a specific company if you want to buy a particular product to see if they have sustainability goals. [The Climate Pledge](https://www.theclimatepledge.com/us/en) is an excellent resource for seeing which tech companies have signed a pledge to reach net-zero carbon emissions in their processes and productions by 2040\. There are currently 380 signatures. which includes companies like HP, Logitech, Philips, and others. 
 
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utilize smart home automations
 
@@ -119,6 +140,13 @@ Image: Amazon
 Since heating and cooling are responsible for [almost 50%](https://www.energy.gov/public-services/homes/heating-cooling) of energy use in an average US home, smart home products can help you consume less energy while saving cash on your bill. 
 
 Look into intuitive smart thermostats like Nest or Ecobee with voice-control features and ambient temperature sensors. In addition, [Neurio](https://elemental.green/neurio-smart-energy-monitor/) is a smart energy monitor that gives you real-time monitoring to see where energy is being used in your house, track your appliance use, and compare your home energy use to others. 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't upgrade if you don't have to
 
@@ -151,11 +179,31 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-revealing-the-12-paths-fixing-non-appearing-fb-video-posts-now/"><u>[New] 2024 Approved Revealing The 12 Paths Fixing Non-Appearing FB Video Posts, Now</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-ultimate-camera-picks-for-aspiring-youtubers/"><u>2024 Approved Ultimate Camera Picks for Aspiring YouTubers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-m6-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco M6 Pro 5G Phone?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expertly-selected-top-7-internet-voice-recorders-2023/"><u>In 2024, Expertly Selected Top 7 Internet Voice Recorders 2023</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v30-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V30 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-steps-to-restore-your-youtube-shorts-thumbnails/"><u>In 2024, Steps to Restore Your YouTube Shorts' Thumbnails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-humor-potential-with-kapwings-designer/"><u>In 2024, Unlock Humor Potential with Kapwing’s Designer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-vn-video-editor-for-windows-a-brief-overview/"><u>In 2024, VN Video Editor for Windows A Brief Overview</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-pong-game-on-raspberry-pi-pico-pov-technique-and-tailored-mouse-driver/"><u>Interactive Pong Game on Raspberry Pi Pico: POV Technique & Tailored Mouse Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/open-source-ultimate-tool-the-raspberry-pi-rp2vecky-hackbat-for-comprehensive-penetration-testing/"><u>Open-Source Ultimate Tool: The Raspberry Pi RP2vecky HackBat for Comprehensive Penetration Testing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-reveals-plans-for-ipo-on-the-london-stock-exchange/"><u>Raspberry Pi Reveals Plans for IPO on the London Stock Exchange</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-diy-raspberry-pi-creation-unveiling-the-pi-1000-a-powerhouse-of-5-raspberry-units/"><u>Revolutionary DIY Raspberry Pi Creation - Unveiling the 'Pi 1000': A Powerhouse of 5 Raspberry Units!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-modern-resurrection-of-classic-computers-a-tale-of-raspberry-pi-3d-printers-and-a-vintage-trs-80-revival/"><u>The Modern Resurrection of Classic Computers: A Tale of Raspberry Pi, 3D Printers, and a Vintage TRS-80 Revival</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-the-best-tech-gear/"><u>Tom's Computer Components: Your Guide to the Best Tech Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-entertainment-hub-raspberry-pi-cm4-core-with-integrated-sports-features-and-gpio-extension-ports/"><u>Ultimate Entertainment Hub: Raspberry Pi CM4 Core with Integrated Sports Features and GPIO Extension Ports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-raspberry-pi-model-bplus-with-16gb-memory-successes-and-pitfalls/"><u>Upgrading Your Raspberry Pi Model B+ with 16GB Memory: Successes and Pitfalls</u></a></li>
+</ul></div>
+

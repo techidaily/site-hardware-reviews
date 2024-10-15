@@ -1,7 +1,7 @@
 ---
 title: "Green Innovation in Business: A Look at Tech's Role in Corporate Sustainability | ZDNet"
-date: 2024-09-19 10:48:41
-updated: 2024-09-20 12:14:43
+date: 2024-10-09T16:14:55.728Z
+updated: 2024-10-15T16:01:35.818Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,19 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +58,13 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +76,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +129,25 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-8-best-free-video-editing-software-for-youtube/"><u>[Updated] 2024 Approved 8 Best Free Video Editing Software for YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elite-workstations-for-peak-productivity/"><u>[Updated] Elite Workstations for Peak Productivity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-your-browsing-journey-top-2023-web-recorder-software/"><u>2024 Approved Capturing Your Browsing Journey Top 2023 Web Recorder Software</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/asus-vivobook-11-user-assessment-compact-and-budget-friendly-multi-purpose-notebook/"><u>Asus VivoBook 11 User Assessment: Compact and Budget-Friendly Multi-Purpose Notebook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/chinese-memory-tech-firm-targets-195bplus-valuation-through-strategic-financing-as-it-delays-public-offering/"><u>Chinese Memory Tech Firm Targets $19.5B+ Valuation Through Strategic Financing as It Delays Public Offering</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/demand-surge-drives-up-memory-market-supply-shrinks-contribute-to-price-recovery/"><u>Demand Surge Drives Up Memory Market; Supply Shrinks Contribute to Price Recovery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-tom-a-deep-dive-into-hardware-solutions/"><u>Exploring Computer Gear with Tom: A Deep Dive Into Hardware Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR with a Mask On</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-blaze-curve-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Lava Blaze Curve 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/update-gigabytes-bios-protecting-and-fixing-ddr5-memory-issues/"><u>Update Gigabyte's BIOS: Protecting and Fixing DDR5 Memory Issues</u></a></li>
+</ul></div>
+

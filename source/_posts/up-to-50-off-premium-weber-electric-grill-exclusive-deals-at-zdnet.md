@@ -1,7 +1,7 @@
 ---
 title: Up to $50 Off Premium Weber Electric Grill - Exclusive Deals at ZDNet
-date: 2024-09-19 14:34:58
-updated: 2024-09-20 12:59:43
+date: 2024-10-10T16:05:52.428Z
+updated: 2024-10-15T16:02:46.360Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,31 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-masterful-online-advertising-for-beginners-4-must-know-strategies-for-2024/"><u>[New] Masterful Online Advertising for Beginners 4 Must-Know Strategies for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-how-to-use-video-titles-and-youtube-tags-for-more-views/"><u>[Updated] In 2024, How to Use Video Titles and YouTube Tags for More Views?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[Updated] In 2024, Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-integrating-custom-sounds-into-your-whatsapp-experience/"><u>[Updated] Integrating Custom Sounds Into Your WhatsApp Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-eye-catching-aesthetics-of-the-new-galaxy-tab-s9-series-are-they-worth-their-cost/"><u>Exploring the Eye-Catching Aesthetics of the New Galaxy Tab S9 Series - Are They Worth Their Cost?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-setting-up-song-crossfading-feature-on-apple-music/"><u>Guide: Setting Up Song Crossfading Feature on Apple Music</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y77t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y77t? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-google-messages-when-it-continuously-fails/"><u>How to Fix Google Messages When It Continuously Fails</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/live-coverage-of-the-google-pixel-6-launch-top-insights-and-predictions/"><u>Live Coverage of the Google Pixel 6 Launch – Top Insights & Predictions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/locating-and-understanding-your-android-smartphones-operating-instructions/"><u>Locating and Understanding Your Android Smartphone's Operating Instructions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-art-of-mobile-recording-tips-and-tricks-for-android-users/"><u>Mastering the Art of Mobile Recording: Tips and Tricks for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mophies-compact-power-bank-features-convenient-ac-adapter-option/"><u>Mophie's Compact Power Bank Features Convenient AC Adapter Option</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sennheiser-uc-pro-mobility-review/"><u>Sennheiser UC Pro-Mobility Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-ten-frame-enhancers-for-visual-artistry/"><u>Top Ten Frame Enhancers for Visual Artistry</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-prompt-design-a-guide-to-future-job-prospects/"><u>Understanding Artificial Intelligence Prompt Design: A Guide to Future Job Prospects</u></a></li>
+</ul></div>
+

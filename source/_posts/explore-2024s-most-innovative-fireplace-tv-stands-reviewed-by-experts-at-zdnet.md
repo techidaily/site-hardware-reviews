@@ -1,7 +1,7 @@
 ---
 title: Explore 2024'S Most Innovative Fireplace TV Stands Reviewed by Experts at ZDNet
-date: 2024-10-03T23:59:37.374Z
-updated: 2024-10-08T20:35:45.951Z
+date: 2024-10-11T16:01:22.662Z
+updated: 2024-10-15T16:14:50.831Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,16 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,24 +139,14 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-hp-envy-27-4k-usb-c-monitor-review/"><u>[New] 2024 Approved HP Envy 27 4K USB-C Monitor Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-joyful-account-access-instructions/"><u>[New] Joyful Account Access Instructions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tiktok-to-twitter-sharing-videos/"><u>[New] TikTok to Twitter Sharing Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-capture-the-spectacular-our-selection-of-prime-cameras-for-2024/"><u>[Updated] Capture the Spectacular - Our Selection of Prime Cameras for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-an-expert-review-on-longevity-and-endurance-in-gaming-pcs/"><u>Asus TUF Gaming A14 Laptop: An Expert Review on Longevity & Endurance in Gaming PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-cooler-master-ion-360-all-in-one-liquid-cooling-system-progress-and-pitfalls/"><u>Comprehensive Analysis of the Cooler Master ION 360 All-In-One Liquid Cooling System: Progress and Pitfalls</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-dough-spectrum-black-oled-gaming-display-27-masterpiece/"><u>Expert Analysis of the Dough Spectrum Black OLED Gaming Display - 27 Masterpiece</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-logitech-g515-lightspeed-combining-low-profile-style-with-cost-effective-performance/"><u>Expert Insight on Logitech G515 Lightspeed: Combining Low Profile Style with Cost-Effective Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-wf-3540-windows-driver-free-downloads-available/"><u>Get the Latest Epson WF-3540 Windows Driver - Free Downloads Available</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a59-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A59 5G FRP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-and-the-copilotplus-experience-gorgeous-hardware-yet-ai-innovations-leave-something-to-be-desired/"><u>Microsoft Surface Pro and the Copilot+ Experience: Gorgeous Hardware, Yet AI Innovations Leave Something to Be Desired</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-tips-and-reviews-on-computer-hardware-by-tom/"><u>Navigating New Tech: Tips and Reviews on Computer Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/preventive-measures-such-as-protective-eyewear-can-significantly-reduce-the-risk-of-ocular-trauma/"><u>Preventive Measures Such as Protective Eyewear Can Significantly Reduce the Risk of Ocular Trauma</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-initial-planning-phase-includes-a-detailed-survey-of-the-propertys-physical-features/"><u>The Initial Planning Phase Includes a Detailed Survey of the Property's Physical Features</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/thorough-evaluation-of-frozen-snack-playback-devices/"><u>Thorough Evaluation of Frozen Snack Playback Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Review: Unveiling the Latest in Computer Components</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tracking-down-viewer-activity-in-google-docs-step-by-step-tips/"><u>Tracking Down Viewer Activity in Google Docs – Step-by-Step Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transform-your-wma-audiovideo-files-to-avi-quickly-and-for-free-simpleconverters/"><u>Transform Your WMA Audio/Video Files to AVI Quickly & for Free - SimpleConverters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-navigating-the-world-of-audio-editing-in-audacity-for-mac-devices/"><u>[New] 2024 Approved Navigating the World of Audio Editing in Audacity for Mac Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-engagement-techniques-for-zooms-camera-shots/"><u>[New] Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-linkedin-learning-courses/"><u>Best LinkedIn Learning Courses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-toms-detailed-evaluations-on-hardware/"><u>Decoding Technology: Tom's Detailed Evaluations on Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-open-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Open Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
+<li><a href="https://win11.techidaily.com/power-up-windows-top-5-essential-wintoys/"><u>Power Up Windows: Top 5 Essential WinToys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/"><u>Sovol SV08 Evaluation: Reviving the Spirit of Voron on Two Wheels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-module-reviewed-testing-its-c40-technology-across-dual-32gb-channels/"><u>The Kingston Fury Beast DDR5 Memory Module Reviewed - Testing Its C40 Technology Across Dual 32GB Channels</u></a></li>
 </ul></div>
 

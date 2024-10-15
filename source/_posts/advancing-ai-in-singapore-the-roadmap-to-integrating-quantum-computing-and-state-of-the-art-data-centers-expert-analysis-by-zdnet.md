@@ -1,7 +1,7 @@
 ---
 title: "Advancing AI in Singapore: The Roadmap to Integrating Quantum Computing and State-of-the-Art Data Centers - Expert Analysis by ZDNET"
-date: 2024-09-19 21:35:40
-updated: 2024-09-20 11:49:59
+date: 2024-10-13T16:04:01.547Z
+updated: 2024-10-15T16:15:30.204Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,30 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-perfecting-speech-recognition-on-google-platforms/"><u>[Updated] In 2024, Perfecting Speech Recognition on Google Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>[Updated] In 2024, Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-handbook-of-gopro-time-lapse-photography-excellence/"><u>2024 Approved The Complete Handbook of GoPro Time-Lapse Photography Excellence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-inspirational-movie-picks-to-boost-your-spirit/"><u>Discover the Most Inspirational Movie Picks to Boost Your Spirit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/full-draft-of-the-upcoming-pcie-generation-7-specs-moving-ahead-to-official-release/"><u>Full Draft of the Upcoming PCIe Generation 7 Specs - Moving Ahead to Official Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-life-is-strange-true-colors-crashes-comprehensive-guide/"><u>How to Fix Life Is Strange: True Colors Crashes – Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-pcie-testing-premium-white-atx-design-featuring-5-m2-slots/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard PCIe Testing - Premium White ATX Design Featuring 5 M.2 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-camm2-an-overview-of-the-latest-smaller-swift-and-upgradeable-memory-standard/"><u>Introducing CAMM2: An Overview of the Latest Smaller, Swift, and Upgradeable Memory Standard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-loongson-powered-dtx-boards-and-pcs-in-the-us-market-for-only-373-begin-your-high-performance-journey-today/"><u>Introducing Loongson Powered DTX Boards and PCs in the US Market for Only $373, Begin Your High-Performance Journey Today!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/kensun-tire-inflator-assessment-durable-trustworthy-and-easy-to-carry/"><u>Kensun Tire Inflator Assessment: Durable, Trustworthy & Easy-to-Carry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-wisdom-from-toms-tech-vault/"><u>Mastering Hardware Choices: Wisdom From Tom's Tech Vault</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-hardware-experts/"><u>Mastering Technology Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-shotcut-video-editor-review/"><u>New In 2024, Shotcut Video Editor Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/procedure-for-effective-auditory-recordings-on-windows-11-for-2024/"><u>Procedure for Effective Auditory Recordings on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scheduling-effective-zoom-conversations-on-android-platforms-for-2024/"><u>Scheduling Effective Zoom Conversations on Android Platforms for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discover Top-Rated Weber Electric Grills at a $50 Discounted Price – Shop Now!
-date: 2024-09-19 23:58:20
-updated: 2024-09-20 12:11:22
+date: 2024-10-12T16:00:16.519Z
+updated: 2024-10-15T16:16:53.273Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,30 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-test-intova-xs-video-capabilities/"><u>[New] 2024 Approved The Ultimate Test Intova X's Video Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pixelmaster-record-download-use-and-assessment/"><u>[New] PixelMaster Record Download, Use & Assessment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-sound-changes-in-ps-console-games/"><u>[New] The Ultimate Guide to Sound Changes in PS Console Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>[Updated] 2024 Approved Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-melodymentor-detailed-sound-review-for-2024/"><u>[Updated] MelodyMentor Detailed Sound Review for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-can-you-tell-if-your-number-is-ignored-by-iphone-users/"><u>How Can You Tell If Your Number Is Ignored by iPhone Users?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862867245-limited-time-offer-asus-prime-x67n-wifi-am5-motherboard-for-a-low-price-of-135/"><u>Limited Time Offer: ASUS Prime X67n Wifi AM5 Motherboard for a Low Price of 135$!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-whatsapp-icloud-backup-problems-for-seamless-chat-history-syncing-on-iphone-and-ipad/"><u>Resolving WhatsApp iCloud Backup Problems for Seamless Chat History Syncing on iPhone and iPad</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/simple-process-for-preserving-tweets-imagesvideos/"><u>Simple Process for Preserving Tweets' Images/Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-journey-through-modern-technology/"><u>Unveiling New Gadgets with Tom - A Journey Through Modern Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-pc-hardware-with-toms-computing-experts/"><u>Unveiling the Best in PC Hardware with Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strengths-of-asuss-pro-b760m-ct-with-comprehensive-system-module-csm-reviewed/"><u>Unveiling the Strengths of Asus's Pro B760M-CT with Comprehensive System Module (CSM) Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-customers-can-now-order-loongson-cpu-equipped-mothers-and-systems-from-373-shipping-available/"><u>US Customers Can Now Order Loongson-CPU-Equipped Mothers & Systems From $373: Shipping Available</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-launch-affordable-longsheng-loongson-cpu-based-motherboards-and-systems-starting-at-just-373-get-the-ultimate-value-deal/"><u>US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards & Systems Starting at Just $373 - Get the Ultimate Value Deal</u></a></li>
+</ul></div>
+

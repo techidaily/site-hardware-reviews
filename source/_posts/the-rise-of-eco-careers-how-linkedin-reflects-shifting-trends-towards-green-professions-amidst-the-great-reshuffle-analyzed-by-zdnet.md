@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Eco-Careers: How LinkedIn Reflects Shifting Trends Towards Green Professions Amidst the 'Great Reshuffle' | Analyzed by ZDNET"
-date: 2024-09-18 10:11:56
-updated: 2024-09-20 11:21:48
+date: 2024-10-12T16:17:31.830Z
+updated: 2024-10-15T16:21:41.731Z
 tags:
   - sustainability
 categories:
@@ -32,6 +32,13 @@ LinkedIn purports that the [Great Reshuffle](https://www.linkedin.com/pulse/navi
 That's the introduction to LinkedIn's recently published [Global Green Skills Report 2022](https://economicgraph.linkedin.com/research/global-green-skills-report). As LinkedIn CEO Ryan Roslansky writes in the report, LinkedIn wants to do its part by leveraging its unique data and labour market expertise to highlight actionable insights that are crucial to delivering a successful green transition and avoiding potential pitfalls.
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Green skills and green jobs
 
@@ -83,6 +90,13 @@ And several of the fastest-growing green skills across all sectors during the sa
 
 LinkedIn's data are a great source to derive insights from. LinkedIn's report is quite comprehensive, as it does not just offer data-driven insights but also dives into specific case studies, identifies trends blocking an equitable transition for workers and a sustainable transition for the planet, and lays out an action plan with recommendations for policymakers, business leaders and the global workforce.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Taxonomies are the duct tape of connected data - green ones, too
 
 Despite LinkedIn's value as a source of data and the effort that has gone into this, there are some blind spots as well. First off, the methodological grounding of the report is not entirely transparent.
@@ -105,9 +119,35 @@ It includes 381 skills, 185 knowledge concepts and 5 transversal skills consider
 
 It's possible that LinkedIn consulted ESCO in creating its own green skill taxonomy, but we'll probably never know. Without visibility into LinkedIn's taxonomy and data, it's impossible to verify the validity of its analysis. Not to mention -- all LinkedIn member skill assessment is done by members themselves, with everything this entails.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Are green skills driving sustainable change in the European automotive industry?
 
 Another example of the fact that even data-driven analysis is often not as clear-cut as it seems is LinkedIn's reference to how green skills are driving sustainable change in the European automotive industry. LinkedIn notes that the move to electric is reshaping the talent profile of the automotive industry, and the need for innovation to cut emissions has influenced a sustained technological change in the European automotive industry.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -149,11 +189,29 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-30-pro-tiktok-edits-techniques/"><u>[Updated] 2024 Approved Top 30 Pro TikTok Edits Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-editors-journey-mastering-the-art-of-youtube-cuts/"><u>[Updated] In 2024, The Editor's Journey Mastering the Art of Youtube Cuts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-expert-analysis-and-reviews-for-avid-hardware-enthusiasts/"><u>[Your Brand Name] – Expert Analysis & Reviews for Avid Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/2024s-ultimate-ssd-deals-guide-find-the-lowest-prices-for-1tb-2tb-and-4tb-storage-drives/"><u>2024'S Ultimate SSD Deals Guide: Find the Lowest Prices for 1TB, 2TB & 4TB Storage Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/active-cooling-live-demonstration-experience-doubled-durability-and-performance-with-freezetechs-airjet-ssd/"><u>Active Cooling Live Demonstration: Experience Doubled Durability & Performance with FreezeTech's Airjet SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tips-from-toms-hardware-professionals/"><u>Advanced Tips From Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-portable-nvme-ssd-by-pny-solid-functionality-that-lacks-distinction/"><u>Evaluating the Portable NVMe SSD by PNY: Solid Functionality that Lacks Distinction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-comparisons-toms-comprehensive-guide-to-computer-hardware/"><u>Expert Reviews & Comparisons: Tom's Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/group-jam-sessions-on-spotify-connecting-with-others-through-music/"><u>Group Jam Sessions on Spotify: Connecting With Others Through Music</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-nord-n30-se-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your OnePlus Nord N30 SE Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-techniques-for-youtube-mpeg-migration/"><u>In 2024, Leading Techniques for YouTube MPEG Migration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-master-the-art-of-organizing-group-conversations-on-skype-irrespective-of-your-systems-os/"><u>In 2024, Master the Art of Organizing Group Conversations on Skype, Irrespective of Your System's OS</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unleash-the-fun-top-10-free-game-download-sites-for-pc-android-and-more/"><u>Updated Unleash the Fun Top 10 Free Game Download Sites for PC, Android, and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-court-battle-ymtc-vs-micron-over-intellectual-property-rights-alleging-infringement-of-eleven-patents-from-chinas-memory-sector/"><u>US Court Battle: YMTC Vs. Micron Over Intellectual Property Rights, Alleging Infringement of Eleven Patents From China's Memory Sector</u></a></li>
+</ul></div>
+

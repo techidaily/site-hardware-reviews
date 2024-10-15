@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Viewing Experience: Sony A80L OLED TV Offers Stunning AI Upscaled Visuals for Less Than $2K - Explore Now on ZDNet"
-date: 2024-10-06T20:10:07.318Z
-updated: 2024-10-08T19:00:52.750Z
+date: 2024-10-11T16:05:38.715Z
+updated: 2024-10-15T16:28:23.384Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,21 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>[New] 2024 Approved From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-eager-ears-entertainment-where-to-download-laughable-rings-for-2024/"><u>[New] Eager-Ears Entertainment Where to Download Laughable Rings for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-zoom-meeting-organization-tips-for-professionals/"><u>2024 Approved Zoom Meeting Organization Tips for Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/analysis-and-thoughts-on-the-stylish-mid-century-inspired-keychron-k2-he-keyboard/"><u>Analysis & Thoughts on the Stylish Mid-Century Inspired Keychron K2 HE Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion17/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-g24-power-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on G24 Power?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-narzo-n53-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme Narzo N53 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-guide-to-rl-streaming-setup/"><u>In 2024, Comprehensive Guide to RL Streaming Setup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-perfecting-sims-4-live-action-for-videographers/"><u>In 2024, Perfecting Sims 4 Live Action for Videographers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23FRP Lock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-pc-innovations-with-expertise-from-toms-hardware/"><u>Navigate the World of PC Innovations with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-travel-companion-mokos-foldable-bluetooth-keyboard-for-all-your-typing-needs/"><u>The Ultimate Travel Companion: MoKo's Foldable Bluetooth Keyboard for All Your Typing Needs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-high-performance-components-at-toms-computer-corner/"><u>Unlock the Secrets of High-Performance Components at Tom's Computer Corner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-expert-advice-from-tom-on-top-hardware-picks/"><u>Unlocking Tech Secrets: Expert Advice From Tom on Top Hardware Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-crucial-p310-ssd-boosting-performance-on-m2-2230-devices/"><u>Unveiling the Power of the Crucial P310 SSD: Boosting Performance on M.2 2230 Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-boosting-media-throughput-in-microsoft-presentations/"><u>[New] Boosting Media Throughput in Microsoft Presentations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-explore-all-content-jointly-shared-photos-and-vids/"><u>[New] Explore All Content Jointly Shared Photos & Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-skype-meetings-on-modern-operating-systems/"><u>[Updated] Recording Skype Meetings on Modern Operating Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-technique-for-capturing-and-broadcasting-ps4-games-for-2024/"><u>[Updated] The Ultimate Technique for Capturing & Broadcasting PS4 Games for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective34/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boosting-mac-gaming-with-the-entire-apple-network-a-new-strategy-unveiled/"><u>Boosting Mac Gaming with the Entire Apple Network – A New Strategy Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-risc-v-computer-revolution-engineers-new-choice-from-china-at-just-300/"><u>Budget-Friendly RISC-V Computer Revolution: Engineers' New Choice From China at Just $300</u></a></li>
+<li><a href="https://games-able.techidaily.com/device-harmony-through-secure-sharing-a-guide-to-linking-desktop-and-steam-deck-with-barriers/"><u>Device Harmony Through Secure Sharing: A Guide to Linking Desktop & Steam Deck With Barriers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-and-hardware-analysis/"><u>Expert Insights From Tom’s Computer & Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom/"><u>Exploring the Latest in Computer Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fly-high-with-flying-lotus-the-all-in-one-desktop-crafted-from-framework-laptop-and-advanced-3d-components-powered-by-battery/"><u>Fly High with Flying Lotus: The All-in-One Desktop Crafted From Framework Laptop & Advanced 3D Components, Powered by Battery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>In 2024, From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-7afrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel 7aFRP Lock</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-your-podcast-top-10-free-software-options-to-capture-quality-soundtracks-for-2024/"><u>New Mastering Your Podcast Top 10 Free Software Options to Capture Quality Soundtracks for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unlocking-hidden-gems-for-your-nes-classic-console-experience/"><u>Unlocking Hidden Gems for Your NES Classic Console Experience</u></a></li>
 </ul></div>
 

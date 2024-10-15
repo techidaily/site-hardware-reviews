@@ -1,7 +1,7 @@
 ---
 title: "Unveiling May 2O24's Ultimate Television Deals: Save Big with These ZDNET Specials"
-date: 2024-10-07T22:31:05.721Z
-updated: 2024-10-09T02:05:48.760Z
+date: 2024-10-13T16:12:35.898Z
+updated: 2024-10-15T16:25:51.218Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +105,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-comprehensive-guide-ps4-recording-via-obs-studio-for-2024/"><u>[Updated] Comprehensive Guide PS4 Recording via OBS Studio for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-elite-10-sound-recording-essentials-on-spotify-platform/"><u>[Updated] In 2024, Elite 10 Sound Recording Essentials on Spotify Platform</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-scratching-for-chrome-devices/"><u>[Updated] Seamless Scratching for Chrome Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-revenue-a-step-by-step-money-making-blueprint/"><u>[Updated] Vimeo Revenue A Step-by-Step Money-Making Blueprint</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-breakthrough-14-text-animation-samples/"><u>2024 Approved Breakthrough 14 Text Animation Samples</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-building-a-powerful-brand-presence-with-instagrams-biz-tools/"><u>2024 Approved Building a Powerful Brand Presence with Instagram's Biz Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-picks-in-depth-review-of-best-macos-screenshot-apps/"><u>2024 Approved Top Picks In-Depth Review of Best macOS Screenshot Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-c5c-and-d6sec-uphere-air-cooler-analysis-best-under-20/"><u>Affordable C5C & D6Sec UpHere Air Cooler Analysis - Best Under $20</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-sabrent-rocket-nano-2242-1tb-your-standard-bearer-for-m2-2242-storage-solutions/"><u>Comprehensive Review of the Sabrent Rocket Nano 2242 1TB - Your Standard-Bearer for M.2 2242 Storage Solutions</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixcomputerscreensideup-issue/"><u>FixComputerScreensideUp Issue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-high-performance-hardware-at-tome-resource-center/"><u>Inside the World of High-Performance Hardware at Tom'e Resource Center</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-wisdom-from-toms-hardware-insights/"><u>Mastering the Tech World: Wisdom From Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-depths-of-toms-tech-domain-latest-trends-in-computing-equipment/"><u>Navigating the Depths of Tom's Tech Domain: Latest Trends in Computing Equipment</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-guide-transitioning-from-windows-home-to-professional-key-benefits-unveiled/"><u>Step-by-Step Guide: Transitioning From Windows Home to Professional - Key Benefits Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-asrock-pg27qft2a-a-comprehensive-180hz-monitor-performance-and-cost-assessment/"><u>The ASRock PG27QFT2A: A Comprehensive 180Hz Monitor Performance and Cost Assessment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-speed-and-efficiency-with-corsair-mp600-mini-1tb-the-premier-review-of-the-leading-m2-nvme-ssd/"><u>Unlocking Speed and Efficiency with Corsair MP600 Mini 1TB: The Premier Review of the Leading M.2 NVMe SSD</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asterful-guide-to-professional-online-etiquette-on-youtube/"><u>[New] Masterful Guide to Professional Online Etiquette on YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-complete-guideline-for-mobizen-screen-recorder/"><u>[Updated] In 2024, A Complete Guideline for Mobizen Screen Recorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyy-compreno-empowers-enterprises-through-advanced-cognitive-computing-and-premier-linguistic-tech-solutions/"><u>ABBYY Compreno Empowers Enterprises Through Advanced Cognitive Computing and Premier Linguistic Tech Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinemaster-app-for-android-complete-review/"><u>KineMaster App for Android - Complete Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-reviews-by-toms-hardware-team/"><u>Pioneering Computer Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-fps-mod-unlocking-secrets-and-safety/"><u>Roblox FPS Mod: Unlocking Secrets and Safety</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sneak-peek-of-the-future-new-ai-integrated-dell-laptops-set-for-a-summer-release/"><u>Sneak Peek of the Future - New AI-Integrated Dell Laptops Set for a Summer Release</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/srgb-and-traditional-rgb-rendering-for-2024/"><u>Srgb and Traditional Rgb Rendering for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-elite-selection-premium-notebooks-and-high-performance-laptops/"><u>The Elite Selection: Premium Notebooks & High-Performance Laptops</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware-t17238628794254/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-ranked-video-platforms-for-movie-and-music-video-enthusiasts/"><u>Top-Ranked Video Platforms for Movie and Music Video Enthusiasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-blueprints-livestream-and-log-sports-matches-effectively/"><u>Ultimate Blueprints Livestream & Log Sports Matches Effectively</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-game-changing-risc-v-dev-laptop-engineers-dream-at-an-unbeatable-price-of-around-300-from-china/"><u>Unveiling the Game-Changing RISC-V Dev Laptop: Engineers' Dream at an Unbeatable Price of Around $300 From China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-breakdown/"><u>Unveiling the Latest in Technology: Tom's Hardware Breakdown</u></a></li>
 </ul></div>
 

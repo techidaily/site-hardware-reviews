@@ -1,7 +1,7 @@
 ---
 title: "Innovating for a Greener Future: Mushroom Chips as Biofuel to Charge Gadgets and Protect Earth | GreenTech Insider"
-date: 2024-09-18 11:44:32
-updated: 2024-09-20 10:58:56
+date: 2024-10-14T16:02:09.942Z
+updated: 2024-10-15T16:18:35.550Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-reset-and-regain-navigating-the-2023-fb-hack-scenario/"><u>[New] Reset & Regain Navigating the 2023 FB Hack Scenario</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>[Updated] Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-for-every-level-of-filmmaker-our-top-10-camera-picks/"><u>[Updated] For Every Level of Filmmaker, Our Top 10 Camera Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/geometric-future-flamingo-model-0-ultra-slim-foldable-desktop-enclosure-perfect-for-your-mini-itx-motherboard/"><u>Geometric Future Flamingo Model 0 - Ultra-Slim, Foldable Desktop Enclosure Perfect for Your Mini-ITX Motherboard</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6s Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-be-quiet-shadow-base-800-fx-masterful-noise-suppression-with-superior-performance-features/"><u>In-Depth Analysis of Be Quiet! Shadow Base 800 FX: Masterful Noise Suppression with Superior Performance Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-versatile-adata-case-for-atx-supporting-standard-and-backward-compatible-connector-layouts-enhanced-by-xpgs-invader-x-bridge-technology/"><u>Introducing the Versatile Adata Case for ATX, Supporting Standard & Backward-Compatible Connector Layouts – Enhanced by XPG's Invader X Bridge Technology</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/is-it-legal-to-screen-record-youtube-videos-for-2024/"><u>Is It Legal to Screen Record YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-electronics-with-toms-hardware-expertise/"><u>Navigating Electronics with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-process-for-clipping-movies-at-15-second-markers-the-ultimate-tutorial/"><u>Step-by-Step Process for Clipping Movies at 15-Second Markers: The Ultimate Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-the-latest-hardware-trends/"><u>Tom's Tech Hub: Expert Insights Into the Latest Hardware Trends</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guidance/"><u>Tom's Tech Reviews: In-Depth Analysis and Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets-and-components-t17239718719945/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets and Components</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-superior-video-compression-in-av1-for-2024/"><u>Unveiling the Superior Video Compression in AV1 for 2024</u></a></li>
+</ul></div>
+

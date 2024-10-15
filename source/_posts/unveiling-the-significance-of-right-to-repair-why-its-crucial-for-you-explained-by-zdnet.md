@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Significance of Right-to-Repair: Why It's Crucial for You, Explained by ZDNET"
-date: 2024-09-18 13:50:55
-updated: 2024-09-20 12:56:55
+date: 2024-10-13T16:19:20.589Z
+updated: 2024-10-15T16:09:50.250Z
 tags:
   - sustainability
 categories:
@@ -31,9 +31,23 @@ One of the major objectives of right to repair laws is to make repairs much more
 
 One major issue the legislation is trying to tackle is reducing e-waste. According to the [United States Environmental Protection Agency (EPA)](https://www.epa.gov/international-cooperation/cleaning-electronic-waste-e-waste#:~:text=There%20are%20also%20problems%20with,neurological%20damage%20and%20diminished%20IQs.), consumers and businesses discarded 2.37 million tons of e-waste including televisions, computers, and cell phones in 2009\. By having people fix their own phones or find more affordable options, people won't have to dispose of their current products as often, reducing e-waste. Longer lasting hardware, and less e-waste makes right to repair a compelling argument for many.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do right to repair laws refer to?
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does e-waste affect the environment? Why should e-waste be reduced?
 
@@ -42,6 +56,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 **Also:** [**Right to repair move gets backing from President Biden**](https://www.zdnet.com/article/right-to-repair-move-gets-backing-from-president-biden/)
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which states have right to repair laws?
 
@@ -68,6 +89,13 @@ The Right to Repair movement has been supported by several organizations, includ
 In addition to the positive effects that the legislation has on the environment, right to repair laws ultimately will save individuals money. Often, repairs at the OEM can be costly and inconvenient, since you need to seek out a service provider. 
 
 With options to repair a product yourself or bring it to a third party, you can compare different servicing fees and locations -- and ultimately pick the one that is best for you. The ability to fix your device at your own convenience should also make you more confident about getting your device repaired in the first place and hopefully extend its life. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the arguments against right to repair?
 
@@ -110,11 +138,31 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-dslrs-place-among-mirrorless-cameras-for-videos/"><u>[New] 2024 Approved DSLR's Place Among Mirrorless Cameras for Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cinema-craftsmanship-unleashed-youtube-green-screens-101/"><u>[New] Cinema Craftsmanship Unleashed Youtube Green Screens 101</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-maximizing-video-memories-3-itunes-saving-methods-for-2024/"><u>[New] Maximizing Video Memories 3 iTunes Saving Methods for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chime-chronicles-compilation-of-top-ringtone-sources/"><u>[Updated] Chime Chronicles Compilation of Top Ringtone Sources</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-pc-strategies-for-acquiring-twitter-jokes-gifs/"><u>[Updated] In 2024, PC Strategies for Acquiring Twitter Jokes (GIFs)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-poco-m6-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Poco M6 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-optimal-video-player-windows-ios-android/"><u>In 2024, Optimal Video Player Windows, iOS, Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862869889-intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-into-the-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights Into the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-realme-11-proplus-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Realme 11 Pro+ to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transition-to-modern-light-management-with-asus-new-bios-and-microsoft-dynamic-lighting-a-smoother-alternative-to-armory-crate-solutions/"><u>Transition to Modern Light Management with Asus' New BIOS and Microsoft Dynamic Lighting: A Smoother Alternative to Armory Crate Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-asrocks-latest-cutting-edge-amd-ryzen-9000-series-mobo-lineup/"><u>Unveiling ASRock's Latest: Cutting-Edge AMD Ryzen 9000 Series Mobo Lineup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-tech-secrets-toms-hardware-experts/"><u>Unveiling High-Performance Tech Secrets: Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-technology-with-toms-hardware-insights/"><u>Unveiling the Best in Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-gadgets-and-pcs-with-toms-detailed-reviews/"><u>Unveiling Top-Notch Gadgets & PCs with Tom’s Detailed Reviews</u></a></li>
+</ul></div>
+

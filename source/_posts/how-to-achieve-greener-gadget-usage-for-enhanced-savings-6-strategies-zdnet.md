@@ -1,7 +1,7 @@
 ---
 title: How to Achieve Greener Gadget Usage for Enhanced Savings (6 Strategies) | ZDNet
-date: 2024-09-17 16:20:36
-updated: 2024-09-20 12:21:51
+date: 2024-10-13T16:00:16.039Z
+updated: 2024-10-15T16:05:32.904Z
 tags:
   - sustainability
 categories:
@@ -67,6 +67,13 @@ Samsung has [e-waste collection sites](https://shop-links.co/link/?exclusive=1&p
 
 For Apple users, you can trade in any device in any condition, and Apple will give you [credit towards a new device](https://www.apple.com/recycling/nationalservices/), and recycle it for free. You can recycle any Apple-owned brand devices at Apple Stores or through [apple.com](https://www.apple.com/recycling/nationalservices/). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Upcycle your devices
 
 On the flip side, your outdated smartphone doesn't have to get recycled to give it a new life. Upcycling your old devices to bring new life to them is a great way to be sustainable with technology. 
@@ -89,6 +96,13 @@ And if you don't have a Samsung phone, there are still ways to upcycle. For exam
 
 In addition, you can dedicate an entire phone as a GPS device to increase your primary phone battery's lifespan. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Become an educated consumer
 
 Newton says sustainability is not simply about doing the right things but also about supporting the right companies and making informed buying decisions. 
@@ -102,6 +116,19 @@ Plenty of companies have made net-zero pledges, so investigate a specific compan
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
 
 ### Utilize smart home automations
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -119,6 +146,13 @@ Image: Amazon
 Since heating and cooling are responsible for [almost 50%](https://www.energy.gov/public-services/homes/heating-cooling) of energy use in an average US home, smart home products can help you consume less energy while saving cash on your bill. 
 
 Look into intuitive smart thermostats like Nest or Ecobee with voice-control features and ambient temperature sensors. In addition, [Neurio](https://elemental.green/neurio-smart-energy-monitor/) is a smart energy monitor that gives you real-time monitoring to see where energy is being used in your house, track your appliance use, and compare your home energy use to others. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't upgrade if you don't have to
 
@@ -151,11 +185,27 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-dji-drone-comparison-basic-flight-premium-experience-4k-cinematic/"><u>[New] 2024 Approved DJI Drone Comparison Basic Flight, Premium Experience, 4K Cinematic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-should-itop-top-your-list-for-screen-recorders/"><u>2024 Approved Should ITop Top Your List for Screen Recorders?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/apples-m1-power-which-macbook-should-you-opt-for-for-2024/"><u>Apple’s M1 Power Which MacBook Should You Opt For for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-anycubic-kobra-3-assessment-the-trailblazer-of-multi-hued-3d-creations/"><u>Comprehensive Anycubic Kobra 3 Assessment - The Trailblazer of Multi-Hued 3D Creations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-design-of-the-lian-li-hydroshift-lcd-360s-case/"><u>Exploring the Cutting-Edge Design of the Lian Li Hydroshift LCD 360S Case</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-word-2007-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to Word 2007</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-asus-rog-ally-x-the-premier-choice-in-handheld-pc-gaming-despite-high-price-tag/"><u>In-Depth Evaluation of Asus ROG Ally X – The Premier Choice in Handheld PC Gaming, Despite High Price Tag</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/leading-programs-to-convert-and-watch-flvv-files-on-both-windows-and-macos-systems/"><u>Leading Programs to Convert and Watch FLVV Files on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-gadgets-at-toms-electronics/"><u>Navigating the World of High-Performance Gadgets at Tom's Electronics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-easy-steps-to-upgrade-any-video-to-premium-mp4-format-with-top-sound-clarity/"><u>Quick and Easy Steps to Upgrade Any Video to Premium MP4 Format with Top Sound Clarity</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-mp4-video-converter-tools-how-to-switch-formats-easily/"><u>Top FREE MP4 Video Converter Tools: How to Switch Formats Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-asus-proart-pa32ucxr-mini-led-review-and-its-exceptional-color-accuracy-for-professionals/"><u>Unveiling the Colors: Asus ProArt PA32UCXR Mini LED Review and Its Exceptional Color Accuracy for Professionals</u></a></li>
+</ul></div>
+

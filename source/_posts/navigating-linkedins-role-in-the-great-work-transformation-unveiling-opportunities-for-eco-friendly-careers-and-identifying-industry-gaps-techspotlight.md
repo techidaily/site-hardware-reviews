@@ -1,7 +1,7 @@
 ---
 title: "Navigating LinkedIn's Role in The Great Work Transformation: Unveiling Opportunities for Eco-Friendly Careers & Identifying Industry Gaps | TechSpotlight"
-date: 2024-09-17 16:33:44
-updated: 2024-09-20 12:35:51
+date: 2024-10-14T16:02:34.171Z
+updated: 2024-10-15T16:03:41.959Z
 tags:
   - sustainability
 categories:
@@ -33,6 +33,13 @@ That's the introduction to LinkedIn's recently published [Global Green Skills Re
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Green skills and green jobs
 
 Achieving our collective global climate targets is a monumental task, and it is going to take a whole-of-economy effort to make it happen. That means we need a [transformation in the skills and jobs people have](https://www.zdnet.com/article/start-the-reskilling-revolution-without-me-future-of-work-trends-and-soft-data-on-soft-skills/) if we're going to get there, writes Roslansky.
@@ -51,6 +58,13 @@ Green jobs are those that cannot be performed without extensive knowledge of gre
 
 * **See also:** [**Best online sustainability degrees: Make a lasting difference**](https://www.zdnet.com/education/business-management/best-online-sustainability-degree/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The big picture
 
 LinkedIn's first key finding is that not enough workers are being hired into green jobs. The hiring of green jobs in the global workforce is rising faster than any other category. But together, green and greening jobs still only accounted for 10% of hiring in 2021.
@@ -64,6 +78,13 @@ LinkedIn emphasizes that while more workers are transitioning into green and gre
 LinkedIn's report distills four more trends shaping the green economy.
 
 First, demand for green talent will soon outpace supply. In the past year, \~10% of job postings requiring skills have explicitly required at least one green skill -- which is generally aligned with \~10% of the hires in the same period going to green or greening jobs. However, while job postings requiring green skills grew at 8% annually over the past five years, the share of green talent has grown at roughly 6% annually in the same period.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### see also
 
@@ -104,6 +125,13 @@ Perhaps more importantly, taxonomies, like any other knowledge organization appr
 It includes 381 skills, 185 knowledge concepts and 5 transversal skills considered most relevant for a greener labour market. Examples of green skills as defined in ESCO include conducting energy audits, measuring the sustainability of tourism activities, and training staff on recycling programmes.
 
 It's possible that LinkedIn consulted ESCO in creating its own green skill taxonomy, but we'll probably never know. Without visibility into LinkedIn's taxonomy and data, it's impossible to verify the validity of its analysis. Not to mention -- all LinkedIn member skill assessment is done by members themselves, with everything this entails.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are green skills driving sustainable change in the European automotive industry?
 
@@ -149,11 +177,27 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-insights-into-whatsapps-voice-chatting-capabilities/"><u>[Updated] 2024 Approved Insights Into WhatsApp's Voice Chatting Capabilities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sculpt-social-shares/"><u>[Updated] 2024 Approved Sculpt Social Shares</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-comprehensive-guide-to-audio-capture-in-video-production/"><u>[Updated] In 2024, The Comprehensive Guide to Audio Capture in Video Production</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-acid-pro-a-deep-dive-and-competitive-matchups/"><u>2024 Approved ACID Pro A Deep Dive & Competitive Matchups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparative-analysis-camm2-memory-modules-vs-traditional-dimms-benchmarking-kingstons-ddr5-72nsec-c38-camm2/"><u>Comparative Analysis: CAMM2 Memory Modules Vs. Traditional DIMMs - Benchmarking Kingston's DDR5-72n/Sec, C38 CAMM2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/comprehensive-pixel-8-pro-assessment-reveals-an-exceptional-long-term-experience-awaiting-you/"><u>Comprehensive Pixel 8 Pro Assessment Reveals an Exceptional Long-Term Experience Awaiting You!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ce-content-reach-and-impact-social-blades-role-in-youtube-analytics-for-2024/"><u>Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-insights-from-toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>In-Depth Reviews & Insights From Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964479571-most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-pc-version-freezing-issue-resolved/"><u>Pathfinder: Wrath of the Righteous PC Version - Freezing Issue Resolved</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-editing-reimagined-by-vidas-innovations-for-2024/"><u>The Art of Editing Reimagined by Vida's Innovations for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis/"><u>Tom's Tech Insights: Expert Hardware Analysis</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-subtitle-edit-replacements-for-mac-users/"><u>Updated In 2024, Best Subtitle Edit Replacements for Mac Users</u></a></li>
+</ul></div>
+

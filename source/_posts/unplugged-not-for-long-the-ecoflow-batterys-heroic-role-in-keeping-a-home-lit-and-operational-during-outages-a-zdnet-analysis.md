@@ -1,7 +1,7 @@
 ---
 title: "Unplugged Not for Long: The EcoFlow Battery's Heroic Role in Keeping a Home Lit and Operational During Outages - A ZDNET Analysis"
-date: 2024-09-19 16:51:19
-updated: 2024-09-20 12:50:33
+date: 2024-10-09T16:02:26.765Z
+updated: 2024-10-15T16:00:12.180Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb39db27-d6ff-41c3-b570-a1632954738d%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb39db27-d6ff-41c3-b570-a1632954738d%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,27 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-harness-high-quality-artwork-at-no-cost/"><u>[New] How to Harness High-Quality Artwork at No Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-explorations-by-tech-savant-tom/"><u>Advanced Hardware Explorations by Tech Savant, Tom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/code-cracked-how-to-solve-cod-black-ops-cold-wars-error-code-80070057-easily/"><u>Code Cracked! How to Solve Cod: Black Ops Cold War's Error Code 80070057 Easily</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/damians-db-salvation-ms-sql-mastery/"><u>Damian’s DB Salvation - MS SQL Mastery</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-x-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-address-the-situation-when-your-latest-usb-device-doesnt-work-and-windows-wont-detect-it/"><u>How to Address the Situation When Your Latest USB Device Doesn't Work & Windows Won’t Detect It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-innovations-at-toms-hardware/"><u>Navigating the Latest in Hardware Innovations at Tom's Hardware</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-tips-for-embedding-timestamps-into-youtube-videos/"><u>Quick Tips for Embedding Timestamps Into YouTube Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-resilient-player-in-gaming-pcs-inside-review-of-asus-tuf-ga14/"><u>The Resilient Player in Gaming PCs: Inside Review of Asus TUF GA14</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-and-tricks-for-stable-playthroughs-in-frostpunk-without-game-crashes/"><u>Tips and Tricks for Stable Playthroughs in Frostpunk Without Game Crashes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-best-in-class-iphones-tailored-for-the-gaming-experience/"><u>Ultimate List of Best-in-Class iPhones Tailored for the Gaming Experience</u></a></li>
+</ul></div>
+

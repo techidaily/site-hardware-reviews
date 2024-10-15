@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Tech Innovations: Overcoming Barriers and Seizing Opportunnities for Our Future | Expertise by ZDNET"
-date: 2024-09-18 16:23:24
-updated: 2024-09-20 10:27:40
+date: 2024-10-14T16:09:26.393Z
+updated: 2024-10-15T16:10:45.737Z
 tags:
   - sustainability
 categories:
@@ -37,6 +37,13 @@ Are we smart enough to deploy technology more effectively to help create a more 
 
 These are the main questions covered, from various angles, in this ZDNET in-depth special report. In the meantime, here's some more context. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  What is the fate of technological civilizations? 
 
 In his excellent and accessible 2018 book [_Light of the Stars_](https://www.adamfrankscience.com/light-of-the-stars), Adam Frank, a [professor of astrophysics](http://www.pas.rochester.edu/people/faculty/frank%5Fadam/index.html) at the University of Rochester, describes a mathematical model of how theoretical technological civilizations might respond to changing conditions on their planets. For simplicity, the model includes just two kinds of energy resources -- one with high planetary impact (like fossil fuels), the other with low impact (like solar energy). At some point, rising planetary temperature causes a civilization to switch energy resources from high to low impact, and the model explores various outcomes for the planet's capacity to support a population of the energy-consuming species. 
@@ -50,6 +57,13 @@ After running multiple simulations, three kinds of trajectory were observed: 'di
 Of course, we don't know which, if any, of these trajectories Earth and its human population might follow (although high-resolution [next-generation climate models](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-modelling.pdf) based on[exascale computing](https://www.zdnet.com/article/this-giant-supercomputer-dominates-the-rankings-and-catching-it-will-take-a-lot-of-work/) will help), but the warning signs are there, and it would certainly be wise to avoid dicing with the tipping points that can lead to full-blown collapse.
 
 However, global emissions are still too high: the IPCC estimates that 410 gigatonnes of CO2 were emitted between 2010 and 2019, leaving a 'carbon budget' of just 500GtCO2 for the remainder of the 21st century to limit global warming to 1.5°C. As of [November 2022](https://climateactiontracker.org/publications/massive-gas-expansion-risks-overtaking-positive-climate-policies/), global temperatures were about 1.2°C above pre-industrial levels and heading for 2.4°C by 2100 under current 2030 targets.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How does technology contribute to climate change? 
 
@@ -68,6 +82,13 @@ Further efforts will clearly be required to reduce the environmental footprint o
 The think tank's second report concentrated on online video, which, it estimated, generated 60% of world data flows and 300 million tons of CO2 in 2019, or 1% of global emissions. Four main types of online video content were identified: video on demand (e.g. Netflix, Amazon Prime, 34%); pornography (27%), 'Tubes' (e.g. YouTube, Dailymotion, 21%); and others (e.g. video hosted on social networks, 18%). Mitigating the environmental impact of online video would mean reducing the use and size of video files, and regulation of different types of usage, the report argued.
 
 A key component of any sustainable digital transition will be a move to a more [circular economy](https://en.wikipedia.org/wiki/Circular%5Feconomy), where instead of manufacturing, using, disposing of and replacing tech products, device lifetimes are extended via [repair](https://repair.eu/about/), refurbishment and reuse, and component materials re-enter the (ideally closed-loop) process via recycling rather than becoming [e-waste](https://weee-forum.org/who-we-are/) and going to landfill, causing pollution and requiring replacement minerals and metals to be extracted (resulting in further environmental damage). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What are companies doing to improve sustainability? 
 
@@ -132,6 +153,13 @@ Image: HP
 
 Then there are smaller vendors such as [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/), which specialise in modular phones and laptops respectively. There's also a growing market for refurbished PCs, with a [2021 valuation](https://www.marketresearch.com/QYResearch-Group-v3531/Global-Refurbished-PC-Research-14240533/) of $9.34 billion, rising to an estimated $14.76bn (6.8% CAGR) by the end of 2027\. We should always be wary of [greenwashing](https://en.wikipedia.org/wiki/Greenwashing), of course, but it does seem as though technology companies are now paying a lot more than lip service to the environment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The road ahead
 
 As the world's population heads towards 10 billion-plus in 2100, the window of opportunity for limiting global warming to 1.5°C, per the 2015 Paris Agreement, is closing rapidly. Technology has contributed significantly to global warming over the past 50-plus years, but tech companies are increasingly signing up for verifiable, science-based emission-reduction targets, and embracing sustainable and recycled materials, designing more modular and repairable products, and pledging to minimize e-waste. Innovation in areas like carbon capture, renewable energy, battery technology, the Internet of Things, and remote sensing will also have a big part to play in climate mitigation going forward.
@@ -161,11 +189,28 @@ News on climate change can seem relentlessly bad, but there are grounds for hope
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-unlocking-google-meets-whiteboard-capabilities-on-diverse-tech-ecosystems/"><u>[New] Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-achieve-perfect-youtube-broadcasts-with-superior-webcams/"><u>[Updated] 2024 Approved Achieve Perfect YouTube Broadcasts with Superior Webcams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-effortless-documentation-speech-to-text-conversion-via-microsoft-word-for-2024/"><u>[Updated] Effortless Documentation Speech-to-Text Conversion via Microsoft Word for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-can-microsofts-artificial-intelligence-technology-revive-the-windows-mobile-experience/"><u>1. Can Microsoft's Artificial Intelligence Technology Revive the Windows Mobile Experience?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-4k-monitors-for-mac-the-ultimate-list/"><u>Best 4K Monitors for Mac - The Ultimate List</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-usb-woes-heres-how-you-can-get-your-ports-working-again/"><u>Dell Laptop USB Woes? Here's How You Can Get Your Ports Working Again!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/navigating-through-customization-mastering-the-configurations-menu-options/"><u>Navigating Through Customization: Mastering the Configurations Menu Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-extreme-ssd-cooling-system-a-120mm-radiator-for-low-powered-m2-drives/"><u>TeamGroup's Extreme SSD Cooling System: A 120Mm Radiator for Low-Powered M.2 Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-guide-by-tom-expert-advice-on-computers-electronics-and-more/"><u>The Comprehensive Guide by Tom: Expert Advice on Computers, Electronics & More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-tech-expert-reviews-and-insights/"><u>Tom's Computer Tech: Expert Reviews and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-electronics-expertise/"><u>Tom's Electronics Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-in-depth-reviews-and-latest-tech-news/"><u>Tom's Hardware: In-Depth Reviews & Latest Tech News</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unveiling-the-best-vr-applications-for-phones-for-2024/"><u>Unveiling the Best VR Applications for Phones for 2024</u></a></li>
+</ul></div>
+

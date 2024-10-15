@@ -1,7 +1,7 @@
 ---
 title: Discover How Samsung's Galaxy S23 Leads as the Greenest Phone Yet - Insights From ZDNet
-date: 2024-09-18 11:41:40
-updated: 2024-09-20 10:24:19
+date: 2024-10-13T16:23:39.704Z
+updated: 2024-10-15T16:06:10.355Z
 tags:
   - sustainability
 categories:
@@ -63,11 +63,38 @@ Samsung's Head of North America Corporate Sustainability, Mark Newton, previousl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-halt-video-size-bloat-convert-fb-vids-to-720p-and-1080p-mp4/"><u>[New] 2024 Approved Halt Video Size Bloat Convert FB Vids to 720P & 1080P MP4</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-broadcast-your-play-obs-studio-techniques-for-2024/"><u>[New] Broadcast Your Play - OBS Studio Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-laughter-laborer-spooky-cyborgs-for-2024/"><u>[New] Laughter Laborer Spooky Cyborgs for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-creating-compelling-instagram-story-collections-for-2024/"><u>[Updated] Creating Compelling Instagram Story Collections for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-concept-of-reverse-inductive-charging-technology/"><u>Exploring the Concept of Reverse Inductive Charging Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-nubia-red-magic-8s-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nubia Red Magic 8S Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/identify-the-exact-model-of-your-android-smartphone-a-step-by-step-guide/"><u>Identify the Exact Model of Your Android Smartphone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s17t-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo S17t Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-pros-and-cons-of-onyx-boox-tab-ultra-a-comprehensive-guide-to-the-premier-e-paper-tablet/"><u>Inside the Pros and Cons of Onyx Boox Tab Ultra: A Comprehensive Guide to the Premier E-Paper Tablet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/keep-your-android-display-on-a-comprehensive-guide-to-managing-sleep-settings/"><u>Keep Your Android Display On: A Comprehensive Guide to Managing Sleep Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-single-finger-navigation-unlocking-the-secrets-of-androids-handicap-accessibility/"><u>Mastering Single-Finger Navigation: Unlocking the Secrets of Android's Handicap Accessibility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-use-in-windows-10/"><u>Resolving Microsoft Compatibility Telemetry Excessive Storage Use in Windows 10</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-web-based-vertical-video-editors/"><u>Updated The Ultimate List of Web-Based Vertical Video Editors</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Amazon Exclusive Deal: Fire TV Omni Series QLED Now at Unbeatable Prices, Save $150 Today! | ZDNET"
-date: 2024-10-04T18:57:47.063Z
-updated: 2024-10-08T17:53:15.170Z
+date: 2024-10-11T16:02:06.550Z
+updated: 2024-10-15T16:14:03.099Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,18 +105,19 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iphones-guide-creating-your-first-music-video/"><u>[New] IPhone's Guide Creating Your First Music Video</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-performance-drives-top-10-srt-enhancements-for-pc-and-mac/"><u>[Updated] Optimal Performance Drives Top 10 SRT Enhancements for PC and Mac</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-30e-pro-headphones-tested-exceptional-sound-with-basic-functionality/"><u>Beyerdynamic MMX 30E Pro Headphones Tested - Exceptional Sound with Basic Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-rode-streamer-x-for-aspiring-broadcasters-is-it-worth-it/"><u>Evaluating the Rode Streamer X for Aspiring Broadcasters - Is It Worth It?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-vs-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic Vs 2</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-anycubic-kobra-3-revolutionizing-printing-with-multiple-colors/"><u>In-Depth Look at Anycubic Kobra 3: Revolutionizing Printing with Multiple Colors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-the-price-of-play-justified-uncover-these-4-benefits-for-ps5/"><u>Is the Price of Play Justified? Uncover These 4 Benefits for PS5</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/lost-in-translation-no-videos-on-a6400-for-2024/"><u>Lost in Translation No Videos on A6400 for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-trimming-made-easy-a-step-by-step-guide-to-cropping-videos-in-avidemux-for-2024/"><u>New Trimming Made Easy A Step-by-Step Guide to Cropping Videos in Avidemux for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/offline-oasis-unveiling-the-top-10-ipad-and-iphone-game-hits/"><u>Offline Oasis Unveiling the Top 10 iPad & iPhone Game Hits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-new-speed-champion-in-wifi-technology-an-in-depth-look-at-the-asus-rt-be96u-with-revolutionary-6ghz-band-support/"><u>The New Speed Champion in WiFi Technology: An In-Depth Look at the Asus RT-BE96U with Revolutionary 6GHz Band Support</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-hardware-insights/"><u>Tom's Tech Hub: Advanced Hardware Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max-for-2024/"><u>[New] Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones-for-2024/"><u>[Updated] Hear the Difference Explore the Best Voice Changer Software for Smartphones for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-kid-friendly-driving-delights/"><u>[Updated] In 2024, Ultimate Kid-Friendly Driving Delights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-budget-friendly-high-performance-gaming-laptops-below-1000/"><u>Best Budget-Friendly High-Performance Gaming Laptops Below $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-top-tier-computer-hardware-by-toms-technology-hub/"><u>Detailed Analysis of Top-Tier Computer Hardware by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-hardware-insights-with-toms-technology-hub/"><u>Discover Hardware Insights with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-your-games-secure-the-powerful-msi-katana-laptop-156-nvidia-geforce-rtx-4070-for-an-unbeatable-price-of-1199/"><u>Dominate Your Games: Secure the Powerful MSI Katana Laptop (15.6, NVIDIA GeForce RTX 4070) for an Unbeatable Price of $1,199</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-80s-flicks-a-selection-of-timeless-movies-to-watch-today/"><u>Essential 80S Flicks: A Selection of Timeless Movies to Watch Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862716918-exclusive-offer-on-lenovo-legion-gaming-pcs-with-rtx-graphics-and-ultra-smooth-display-get-750-off-today/"><u>Exclusive Offer on Lenovo Legion Gaming PCs with RTX Graphics & Ultra-Smooth Display – Get $750 Off Today!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-note-30-vip-racing-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Note 30 VIP Racing Edition by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/initiate-direct-camera-streaming-with-vlc-for-2024/"><u>Initiate Direct Camera Streaming with VLC for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/photographys-color-transformation-secrets/"><u>Photography's Color Transformation Secrets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/press-release-abbyy-secures-funding-from-marlin-equity-partners-strategic-growth-milestone/"><u>Press Release: ABBYY Secures Funding From Marlin Equity Partners – Strategic Growth Milestone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862735364-score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129</u></a></li>
 </ul></div>
 

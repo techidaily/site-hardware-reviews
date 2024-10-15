@@ -1,7 +1,7 @@
 ---
 title: "Achieving Sustainability Goals: How Lenovo Is Advancing Towards Net-Zero Emissions, Insights From ZDNet"
-date: 2024-09-17 13:16:32
-updated: 2024-09-20 12:34:52
+date: 2024-10-11T16:19:38.069Z
+updated: 2024-10-15T16:10:37.949Z
 tags:
   - sustainability
 categories:
@@ -112,11 +112,44 @@ I think so, and I'm super-proud that we're the first PC and smartphone manufactu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-fb-livestream-potential-with-recorded-content-know-how/"><u>[New] In 2024, Unlock FB Livestream Potential with Recorded Content Know-How</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-reflect-and-record-capture-your-window-world-for-2024/"><u>[New] Reflect & Record Capture Your Window World for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-securely-extract-and-backup-your-instagram-content/"><u>[Updated] In 2024, Securely Extract and Backup Your Instagram Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-gaming-with-the-titan-army-p2-groggy180hz-a-detailed-performance-evaluation/"><u>Experience Unmatched Gaming with the Titan Army P2 Groggy180Hz - A Detailed Performance Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-hardware-by-tom-toms-tech-blog/"><u>Expert Insights Into Hardware by Tom - Tom's Tech Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-gadgets-with-toms-hardware-reviews/"><u>Exploring the World of Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-oppo-a79-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo A79 5G Phone?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-festive-moments-in-a-flash-on-iphone/"><u>In 2024, Capturing Festive Moments in a Flash on iPhone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 13 Pro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-and-testing-why-linksys-wrt3er-is-a-superior-choice-for-home-networks/"><u>In-Depth Analysis & Testing: Why Linksys WRT3er Is a Superior Choice for Home Networks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-premium-tech-tools-curated-by-the-a-team-at-toms-corner/"><u>Inside Look at Premium Tech Tools – Curated by the A-Team at Tom's Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-asus-stunning-8k-mini-led-proart-display-a-beacon-of-visual-excellence-in-the-world-of-high-end-professional-monitors-boasting-exceptional-lumin55/"><u>Introducing Asus' Stunning 8K Mini LED ProArt Display - A Beacon of Visual Excellence in the World of High-End Professional Monitors, Boasting Exceptional Luminance and Precise Control Over Illumination Zones.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/limited-time-offer-high-performance-dell-gaming-monitor-with-quad-hd-ips-display-now-just-199/"><u>Limited-Time Offer: High-Performance Dell Gaming Monitor with Quad HD IPS Display, Now Just $199!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-expert-reviews-and-advice-from-toms-hardware-solutions/"><u>Master Your PC: Expert Reviews and Advice From Tom's Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-components-toms-authoritative-guides-and-ratings/"><u>Mastering Computer Components: Tom’s Authoritative Guides & Ratings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scambia-i-tuoi-file-au-con-codifica-mp3-online-senza-costi-conversione-rapida-e-facile/"><u>Scambia I Tuoi File AU Con Codifica MP3 Online Senza Costi - Conversione Rapida E Facile</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

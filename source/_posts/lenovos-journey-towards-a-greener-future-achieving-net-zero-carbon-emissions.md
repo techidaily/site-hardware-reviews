@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Journey Towards a Greener Future: Achieving Net-Zero Carbon Emissions"
-date: 2024-09-19 15:43:38
-updated: 2024-09-20 11:36:34
+date: 2024-10-09T16:01:31.686Z
+updated: 2024-10-15T16:25:33.094Z
 tags:
   - sustainability
 categories:
@@ -112,11 +112,40 @@ I think so, and I'm super-proud that we're the first PC and smartphone manufactu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-filmoras-pathway-to-convert-video-avi-files-into-image-gif-for-2024/"><u>[Updated] Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-critical-asmr-series-to-experience/"><u>[Updated] In 2024, Critical ASMR Series to Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms-for-2024/"><u>[Updated] Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-add-mp3-elements-to-ppt-display-panels/"><u>2024 Approved Add MP3 Elements to PPT Display Panels</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-birds-bamboo-boogie/"><u>2024 Approved Birds Bamboo Boogie</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat12/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-kingston-fury-beast-a-review-of-its-ddr5-6000-2x32gb-configuration-and-performance-features/"><u>Comprehensive Analysis of the Kingston Fury Beast: A Review of Its DDR5-6000 2X32GB Configuration and Performance Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-western-digital-my-passport-6tb-robust-and-compact/"><u>Comprehensive Evaluation of Western Digital My Passport (6TB): Robust & Compact</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-review-of-beyerdynamic-mmx-30e-pro-outstanding-audio-performance-and-no-frills-design/"><u>Detailed Review of Beyerdynamic MMX 30E Pro: Outstanding Audio Performance and No-Frills Design</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-levelplays-combat-air-ca4-the-epitome-of-silent-and-efficient-cpu-cooling-solutions/"><u>In-Depth Review of Levelplay's Combat Air CA4 - The Epitome of Silent and Efficient CPU Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insider-knowledge-on-gadgets-the-toms-hardware-edge/"><u>Insider Knowledge on Gadgets: The Tom's Hardware Edge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-tech-discoveries-and-reviews-by-toms-hardware-gurus/"><u>Pioneering Tech Discoveries and Reviews by Tom's Hardware Gurus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-enterprise-sky-saver-guide/"><u>Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-crackdown-on-unreliable-information-spreaders/"><u>Social Media Crackdown on Unreliable Information Spreaders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-hub-in-depth-gadget-analysis-and-advice/"><u>Tom's Hardware Hub: In-Depth Gadget Analysis & Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-review-corner-innovations-and-breakthroughs-in-pc-components/"><u>Tom's Review Corner: Innovations and Breakthroughs in PC Components</u></a></li>
+<li><a href="https://video-capture.techidaily.com/veiled-vocal-vaults-top-6-under-the-radar-mobile-apps-for-2024/"><u>Veiled Vocal Vaults Top 6 Under-the-Radar Mobile Apps for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/windows-robocopy-command-line-how-to-synchronize-two-folders-seamlessly/"><u>Windows Robocopy Command Line: How to Synchronize Two Folders Seamlessly</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

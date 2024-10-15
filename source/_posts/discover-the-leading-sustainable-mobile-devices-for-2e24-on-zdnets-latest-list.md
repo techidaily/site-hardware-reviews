@@ -1,7 +1,7 @@
 ---
 title: Discover the Leading Sustainable Mobile Devices for 2E24 on ZDNet's Latest List
-date: 2024-09-18 22:16:49
-updated: 2024-09-20 11:11:26
+date: 2024-10-10T16:02:22.194Z
+updated: 2024-10-15T16:15:04.065Z
 tags:
   - sustainability
 categories:
@@ -64,6 +64,13 @@ Pros
 Cons 
 * The phone itself could be made with a greater percentage of recycled elements
 * Fairly expensive at $800-$1400
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Samsung Galaxy S22 series
 
@@ -175,6 +182,13 @@ The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, inclu
 | Teracube 2E                | N/A                | 64GB                             | 25% recycled polycarbonate           |
 | Motorola Edge              | $449.99            | Up to 256GB                      | Free from PVC and BFR                |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which eco-friendly phone is right for you?
 
 If you're loyal to a smartphone brand, the Apple and Samsung phones on this list are great options that don't require you to give up the smartphone experience you are used to. The Fairphone 4 is an excellent eco-conscious option with 5G speeds if you live in Europe. 
@@ -189,9 +203,23 @@ And, if you want a cheaper phone that will last at least five years, the Teracub
 | Teracube 2E                | A green phone that lasts longer than the average two- to three-year lifespan |
 | Motorola Edge              | A green phone that has up to two-days of battery life on a full charge       |
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these eco-friendly phones?
 
 We looked at the usual name-brand smartphones as well as the not-so-conventional brands to add to this list. We read through and fact-checked climate pledges and claims companies have made. Other criteria we considered when choosing the smartphones on this list were what the devices were made of and their overall energy usage/carbon footprint when compared to the average smartphone. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What makes a phone eco-friendly?
 
@@ -232,11 +260,23 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-decoding-the-top-rival-to-sharex/"><u>[New] In 2024, Decoding the Top Rival to ShareX</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-engaging-youtube-content-a-guide-to-writing-scripts-with-chatgpt/"><u>Crafting Engaging YouTube Content: A Guide to Writing Scripts with ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-7-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 7 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-6-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 6 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-photo-magic-weaving-text-into-your-imagery-journey/"><u>In 2024, Photo Magic Weaving Text Into Your Imagery Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/meet-the-game-changer-in-smartphones-the-new-google-pixel-fold/"><u>Meet the Game-Changer in Smartphones: The New Google Pixel Fold</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/meet-your-next-smartphone-companer-the-amazing-entry-level-google-pixel-7a-arrives-now/"><u>Meet Your Next Smartphone Companer: The Amazing Entry-Level Google Pixel 7a Arrives Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/original-replacement-components-for-google-pixel-available-at-ifixit/"><u>Original Replacement Components for Google Pixel Available at iFixit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-adjusting-autofill-and-managing-passwords-in-android-devices/"><u>Step-by-Step Guide: Adjusting AutoFill & Managing Passwords in Android Devices</u></a></li>
+</ul></div>
+

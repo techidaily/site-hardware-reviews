@@ -1,7 +1,7 @@
 ---
 title: "Roku Security Alert: Over Half a Million Accounts Exposed! Crucial Steps for Protection Discussed by ZDNet"
-date: 2024-10-08T07:49:58.373Z
-updated: 2024-10-09T03:03:28.689Z
+date: 2024-10-09T16:25:12.967Z
+updated: 2024-10-15T16:19:49.341Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +99,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-computers-notebook-recommendations-for-editors/"><u>[New] In 2024, Cutting-Edge Computers Notebook Recommendations for Editors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-optimal-online-presence-streamlined-background-settings-in-zoom-and-google-meets/"><u>[Updated] Optimal Online Presence Streamlined Background Settings in Zoom & Google Meets</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-exploring-affordable-cloud-storage-solutions/"><u>2024 Approved Exploring Affordable Cloud Storage Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-diy-circuit-creation-cytron-maker-uno-rp2040-feedback/"><u>Affordable DIY Circuit Creation: Cytron Maker Uno RP2040 Feedback</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-reviews-and-tips-from-toms-tech-blog/"><u>Comprehensive Hardware Reviews and Tips From Tom's Tech Blog</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-powerhouse-teamgroups-t-force-vulcan-ddr5-6000-c30-with-2x16gb-stands-out-comprehensive-review/"><u>Eco-Friendly Powerhouse: TeamGroup's T-Force Vulcan DDR5-6000 C30 with 2X16GB Stands Out - Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-top-tier-computer-gear-insight/"><u>Expert Reviews by Tom - Top-Tier Computer Gear Insight</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-address-missing-d3dx9e933dll-file-on-your-pc/"><u>How to Address Missing d3dx9_e9_33.dll File on Your PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341695305-in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-precision-toms-trusted-guide-to-computer-components/"><u>Navigating New Gadgets with Precision - Tom's Trusted Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-hub/"><u>Navigating the World of Technology with Tom's Hardware Hub</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-vs-other-video-editors-which-one-reigns-supreme-in-2024/"><u>New Virtualdub vs Other Video Editors Which One Reigns Supreme , In 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203811582-regain-bluetooth-connectivity-in-windows-10-fast-and-straightforward-methods/"><u>Regain Bluetooth Connectivity in Windows 10: Fast & Straightforward Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-rode-streamer-x-a-step-closer-to-streaming-perfection/"><u>Unveiling the Rode Streamer X: A Step Closer to Streaming Perfection?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-cinematic-quality-top-1080p-video-editing-software-for-creators/"><u>Updated 2024 Approved Unleash Cinematic Quality Top 1080P Video Editing Software for Creators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-9-zero-price-programs-to-take-your-videos-from-average-to-amazing/"><u>[New] 2024 Approved 9 Zero Price Programs to Take Your Videos From Average to Amazing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-crafting-top-instagram-videos/"><u>[New] 2024 Approved Step-by-Step Crafting Top Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-manual-for-youtube-playlist-reordering/"><u>[New] The Ultimate Manual for YouTube Playlist Reordering</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-and-systems-reviewed-on-toms-tech-channel/"><u>Advanced Gadgets and Systems Reviewed on Tom's Tech Channel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apple-accelerates-mac-gaming-strategy-with-comprehensive-ecosystem-integration/"><u>Apple Accelerates Mac Gaming Strategy with Comprehensive Ecosystem Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apples-legendary-1994-powerbook-520c-redesigned-now-boasting-modern-technology-with-apple-ipad-displays-and-the-soul-of-a-core-i5-macbook-pro/"><u>Apple's Legendary 1994 PowerBook 520C Redesigned - Now Boasting Modern Technology With Apple iPad Displays & the Soul of a Core I5 MacBook Pro!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmark-breakdown-intel-core-i7-258v-vs-ryzen-phoenix-processors-bapco-performance-rankings-unveiled/"><u>Benchmark Breakdown: Intel Core I7-258V vs Ryzen Phoenix Processors – BAPCO Performance Rankings Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-microsofts-latest-marvel-the-surface-pro-and-copilotplus-duo-impressive-build-yet-disappointing-ai-functionality/"><u>Comprehensive Review of Microsoft's Latest Marvel - The Surface Pro and Copilot+ Duo: Impressive Build, Yet Disappointing AI Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiast-revamps-faulty-lenovo-laptop-elevates-experience-with-premium-titanium-shell-and-clickity-click-mechanical-keys/"><u>Enthusiast Revamps Faulty Lenovo Laptop, Elevates Experience with Premium Titanium Shell & Clickity-Click Mechanical Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862730029-exclusive-deal-get-the-hp-omen-transcend-14-laptop-with-rtx-gpu-and-oled-display-at-300-off/"><u>Exclusive Deal: Get the HP Omen Transcend 14 Laptop with RTX GPU & OLED Display at $300 Off!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-hogwarts-legacy-not-launching-2024-tips/"><u>How to Fix Hogwarts Legacy Not Launching – 2024 Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v29e-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V29e Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-free-viewer-cam-parties/"><u>In 2024, Ultimate Free Viewer Cam Parties</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamlessly-connect-all-your-gadgets-using-just-one-mobile-number/"><u>Seamlessly Connect All Your Gadgets Using Just One Mobile Number</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-enchanted-realm-of-bygone-writings-a-literary-pilgrimage/"><u>The Enchanted Realm of Bygone Writings A Literary Pilgrimage</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-social-media-is-outpacing-online-forum-trends/"><u>Why Social Media Is Outpacing Online Forum Trends</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Environmental Impact: The Innovative App for Calculating Personal Carbon Footprint, Featured on ZDNET"
-date: 2024-09-18 22:13:45
-updated: 2024-09-20 12:52:56
+date: 2024-10-11T16:04:23.228Z
+updated: 2024-10-15T16:17:02.845Z
 tags:
   - sustainability
 categories:
@@ -29,6 +29,13 @@ According to the app's creators, Zerofy aims to help people directly decrease th
 
 **Also:** [**Everything is moving to the cloud. But how green is it, really?**](https://www.zdnet.com/article/everything-is-moving-to-the-cloud-but-how-green-is-it-really/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Zerofy work?
 
 Zerofy collects several details about your lifestyle to pinpoint where and how you can decrease your carbon footprint. When you sign up for the app, it will ask you what your carbon emission goals are, what country, state, and zip code you reside in, your home type, your electricity type, and whether your house has solar panels.
@@ -44,6 +51,13 @@ In the "Actions" tab, Zerofy provides minor and major adjustments to your lifest
 **Also:** [**The best green phones: Sustainability and eco-friendly smartphones**](https://www.zdnet.com/home-and-office/sustainability/best-green-phone/)
 
 Zerofy also has a small shopping component, offering products that can help you limit your carbon emissions. Some of these products can connect to the Zerofy app to help track your carbon footprint.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Zerofy the future of personalized carbon tracking?
 
@@ -90,11 +104,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-achieving-video-greatness-on-tiktok-with-smart-use-of-pre-made-templates/"><u>[Updated] 2024 Approved Achieving Video Greatness on TikTok with Smart Use of Pre-Made Templates</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-visionguard-recorder-update-and-assessment-2023/"><u>[Updated] In 2024, VisionGuard Recorder Update and Assessment 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-no-cost-top-tunes-in-your-library-today-for-2024/"><u>[Updated] No Cost Top Tunes in Your Library Today for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-editing-techniques-for-final-cut-pro-professionals/"><u>2024 Approved Ultimate Editing Techniques for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-financial-demands-of-music-video-production/"><u>2024 Approved Understanding the Financial Demands of Music Video Production</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/built-in-ai-noise-cancellation-for-crystal-clear-audio-experience/"><u>Built-In AI Noise Cancellation for Crystal Clear Audio Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/continued-growth-for-oled-monitors-market-forecast-estimates-upwards-of-134-million-deliveries-by-end-of-year/"><u>Continued Growth for OLED Monitors: Market Forecast Estimates Upwards of 1.34 Million Deliveries by End-of-Year</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cost-free-webm-viewing-a-list-of-industry-standouts-for-2024/"><u>Cost-Free WebM Viewing A List of Industry Standouts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dev-creates-portable-e-ink-monitor-using-kindle-jailbreak-process-unveiled/"><u>Dev Creates Portable E Ink Monitor Using Kindle - Jailbreak Process Unveiled</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-2-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze 2 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-at-toms-hardware-review-hub/"><u>Discover Cutting-Edge Computing at Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-advanced-screen-tech-samsung-revamps-odyssey-and-launches-ai-smart-supported-viewflex-series/"><u>Experience Advanced Screen Tech: Samsung Revamps Odyssey & Launches AI Smart Supported ViewFlex Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-rich-colors-on-a-budget-high-definition-dell-ips-gaming-screen-at-only-199-available-now/"><u>Experience Rich Colors on a Budget: High-Definition Dell IPS Gaming Screen at Only $199 Available Now</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/how-to-undo-corrupted-mp4-videos-on-your-windows-1187-pc-with-three-effective-methods/"><u>How to Undo Corrupted MP4 Videos on Your Windows 11/8/7 PC with Three Effective Methods</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-honor-100-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Honor 100 Pro Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-sharing-audio-with-youtube/"><u>In 2024, The Ultimate Guide to Sharing Audio with YouTube</u></a></li>
+</ul></div>
+

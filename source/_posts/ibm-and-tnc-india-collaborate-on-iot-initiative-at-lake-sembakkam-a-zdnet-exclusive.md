@@ -1,7 +1,7 @@
 ---
 title: "IBM and TNC India Collaborate on IoT Initiative at Lake Sembakkam: A ZDNet Exclusive"
-date: 2024-09-18 14:20:16
-updated: 2024-09-20 10:56:58
+date: 2024-10-13T16:13:20.360Z
+updated: 2024-10-15T16:14:50.165Z
 tags:
   - sustainability
 categories:
@@ -33,6 +33,13 @@ Manoj Balachandran, head of CSR at IBM India & South Asia, told _ZDNet_ that the
 That period followed a planning period of over eight months when The Nature Conservancy and IBM co-created a project plan based on a review of needs specific to Lake Sembakkam and prior IBM IoT deployments for water conservation, including The Jefferson Project at Lake George, NY. 
 
 "Globally, IBM has done five other IBM Service Corps deployments in support of water-related work with TNC since 2016 (including projects focused on Brazil, Peru, Colombia, Kenya, and global uses)," Balachandran said. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -79,11 +86,24 @@ Balachandran added, "The Nature Conservancy India aims to integrate these into t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-complete-playbook-for-broadcasting-spherical-content-on-youtube/"><u>[New] The Complete Playbook for Broadcasting Spherical Content on Youtube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-of-the-past-iphone-x-portraiture/"><u>Echoes of the Past IPhone X Portraiture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-innovations-of-toms-tech-solutions/"><u>Exploring the Innovations of Tom's Tech Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-playlist-unions-on-spotify-a-simple-guide/"><u>Mastering the Art of Playlist Unions on Spotify - A Simple Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-nvidias-ai-foundations-how-it-shapes-the-future-for-businesses-in-generative-ai-space/"><u>Navigating Through NVIDIA’s AI Foundations - How It Shapes the Future for Businesses in Generative AI Space</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-gear-galaxy-a-guide-to-advanced-computing-tools/"><u>Navigating Tom's Gear Galaxy: A Guide to Advanced Computing Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-tricks-discover-13-methods-for-navigating-to-windows-11-settings-with-ease/"><u>Quick Tricks: Discover 13 Methods for Navigating to Windows 11 Settings with Ease</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hostingers-virtual-hosting-array-vps-cloud-options-and-shared-host-plans/"><u>The Ultimate Guide to Hostinger's Virtual Hosting Array: VPS, Cloud Options & Shared Host Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-guides-on-computer-components/"><u>Tom's Tech Insights: Expert Guides on Computer Components</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/winning-at-windows-11-image-tweaking-tricks/"><u>Winning at Window's 11 Image Tweaking Tricks</u></a></li>
+</ul></div>
+

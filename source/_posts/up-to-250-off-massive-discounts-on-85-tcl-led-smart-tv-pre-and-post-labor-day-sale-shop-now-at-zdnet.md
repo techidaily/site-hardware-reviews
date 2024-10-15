@@ -1,7 +1,7 @@
 ---
 title: Up to $250 Off - Massive Discounts on 85 TCL LED Smart TV Pre & Post-Labor Day Sale! Shop Now at ZDNet!
-date: 2024-10-04T03:08:11.281Z
-updated: 2024-10-08T20:19:54.937Z
+date: 2024-10-14T16:02:51.089Z
+updated: 2024-10-15T16:19:51.430Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,18 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-from-video-to-song-instagrams-mp3-conversion-process/"><u>[New] 2024 Approved From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-hardware-excellent-obs-setup-for-2024/"><u>[New] Affordable Hardware Excellent OBS Setup for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-stock-strategy-streams-the-most-valuable-online-sources/"><u>[Updated] Stock Strategy Streams The Most Valuable Online Sources</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-decline-how-the-venerable-4-pin-molex-is-approaching-retirement-after-six-decades/"><u>A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-10-igtv-talents-ready-to-take-off/"><u>In 2024, 10 IGTV Talents Ready to Take Off</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-avchd-like-a-pro-top-5-software-recommendations/"><u>In 2024, Edit AVCHD Like a Pro Top 5 Software Recommendations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-resolve-fb-live-failure-video-not-posting/"><u>In 2024, Resolve FB Live Failure Video Not Posting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-turn-your-instagram-footage-backwards-easily/"><u>In 2024, Turn Your Instagram Footage Backwards Easily</u></a></li>
-<li><a href="https://techidaily.com/samsung-wont-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung won’t play MP4 files</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unseen-strategies-how-to-tap-into-your-facebook-message-library/"><u>Unseen Strategies How to Tap Into Your Facebook Message Library</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-recycling-an-old-tablet-can-benefit-your-furry-friends-playtime/"><u>Why Recycling an Old Tablet Can Benefit Your Furry Friends' Playtime</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-terramasters-128tb-hybrid-raid-setup-surpasses-expectations-for-massive-storage-needs/"><u>Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-your-phone-needs-more-than-one-usb-c-exploring-the-power-of-dual-ports-in-mobile-devices/"><u>Why Your Phone Needs More Than One USB-C: Exploring the Power of Dual Ports in Mobile Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-tutorial-how-to-add-a-countdown-timer-in-obs-for-2024/"><u>[New] Ultimate Tutorial How To Add a Countdown Timer in OBS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audience-friendly-audio-fades-practices-in-audacity/"><u>[Updated] Audience-Friendly Audio Fades Practices in Audacity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-to-use-chromes-picture-in-progress-screensuitably-across-platforms-for-2024/"><u>[Updated] How to Use Chrome’s Picture In Progress Screensuitably Across Platforms for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decoding-english-grammar-9-powerful-hints-from-an-esl-maven/"><u>Decoding English Grammar: 9 Powerful Hints From an ESL Maven</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-podcasts-reach-with-advanced-seo-strategies-for-2024/"><u>Elevate Your Podcast's Reach with Advanced SEO Strategies for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-samsung-galaxy-f04-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Samsung Galaxy F04 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-c33-2023-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme C33 2023 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lava-yuva-2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lava Yuva 2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-evaluations-from-toms-hardware-experts/"><u>In-Depth Tech Evaluations From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/initiate-dialogue-with-ai-using-bash-and-shellgpt-for-chatgpt/"><u>Initiate Dialogue with AI: Using Bash and ShellGPT for ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-windows-gameplay-unboxing-the-high-end-asus-rog-ally-x-gaming-device/"><u>Mastering Mobile Windows Gameplay: Unboxing the High-End Asus ROG Ally X Gaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-in-depth-reviews-by-toms-hardware-experts/"><u>Mastering Technology: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/netgear-orbi-770-is-a-high-speed-wi-fi-mesh-network-worth-its-cost/"><u>Netgear Orbi 770: Is a High-Speed Wi-Fi Mesh Network Worth Its Cost?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341692803-ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-raspberry-pi-cm4-review-engineering-a-new-era-in-industrial-computing/"><u>The Raspberry Pi CM4 Review: Engineering a New Era in Industrial Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-toms-review-channel-in-depth-analysis-of-cutting-edge-computing-devices/"><u>The Tom's Review Channel: In-Depth Analysis of Cutting-Edge Computing Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-hardware-by-toms-knowledgeable-team/"><u>The Ultimate Guide to PC Hardware by Tom's Knowledgeable Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
 </ul></div>
 

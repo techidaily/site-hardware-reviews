@@ -1,7 +1,7 @@
 ---
 title: "Leveraging AI in Samsung's SmartThings: Revolutionizing Home Energy Efficiency | ZDNet"
-date: 2024-09-18 23:24:48
-updated: 2024-09-20 12:39:48
+date: 2024-10-14T16:18:28.722Z
+updated: 2024-10-15T16:17:22.782Z
 tags:
   - sustainability
 categories:
@@ -89,11 +89,34 @@ Samsung also announced a new partnership with Electricity Maps to provide energy
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-add-subtitles-to-vimeo-videos/"><u>[Updated] How to Add Subtitles to Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exporting-your-creativity-imovie-videos-for-youtube-audiences/"><u>[Updated] In 2024, Exporting Your Creativity IMovie Videos for YouTube Audiences</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-premium-listing-high-performing-15-camcorders/"><u>[Updated] Premium Listing High-Performing 15 Camcorders</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-20-complimentary-luts-available-for-dji-miniair-2-users/"><u>2024 Approved 20 Complimentary LUTs Available for DJI Mini/Air 2 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-essential-guide-sync-your-screen-to-facebook-streams/"><u>2024 Approved Essential Guide Sync Your Screen to Facebook Streams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-7-specs-finalized-on-the-verge-of-official-market-release/"><u>PCIe Gen 7 Specs Finalized - On the Verge of Official Market Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-amoled-with-new-generation-7-standard-comprehensive-draft-unveiled/"><u>PCIe Gen Amoled with New Generation 7 Standard - Comprehensive Draft Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-from-toms-digital-workshop/"><u>Pioneering Technology Insights From Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/proactive-replacement-effort-for-flawed-cooling-units-by-msi-amidst-rising-concerns-over-z7n-motherboard-series/"><u>Proactive Replacement Effort for Flawed Cooling Units by MSI Amidst Rising Concerns Over Z7n Motherboard Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rare-maximus-xiii-frankenboard-by-asus-mutant-pc-boards-featuring-so-dimm-memory-slots-and-exclusive-kingston-fury-branding/"><u>Rare Maximus XIII Frankenboard by Asus: Mutant Pc Boards Featuring So-DiMM Memory Slots & Exclusive Kingston Fury Branding</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xerox-workcentre-6515-firmware/"><u>Xerox WorkCentre 6515 Firmware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

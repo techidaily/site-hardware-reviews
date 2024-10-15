@@ -1,7 +1,7 @@
 ---
 title: "Reduce Your Environmental Impact with Ease: Discover How Uber's New Emissions Tracker Helps You Save CO2 During Transit | ZDNet News"
-date: 2024-09-17 23:57:12
-updated: 2024-09-20 12:42:20
+date: 2024-10-12T16:14:00.636Z
+updated: 2024-10-15T16:19:03.775Z
 tags:
   - sustainability
 categories:
@@ -66,11 +66,32 @@ Uber is taking steps to ensure the savings shown are as accurate as possible. Th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-obs-studio-screen-capture-an-in-depth-analysis/"><u>[New] 2024 Approved OBS Studio Screen Capture An In-Depth Analysis</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-win11s-finest-screen-recorder-software-insights/"><u>[New] 2024 Approved Win11's Finest Screen Recorder Software Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-storing-24-hour-movies-estimating-gb-usage/"><u>2024 Approved Storing 24-Hour Movies Estimating GB Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-users-unable-to-access-discord-application/"><u>Essential Fixes for Users Unable to Access Discord Application</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimal-yt-video-cover-images/"><u>In 2024, Optimal YT Video Cover Images</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-guides-on-consumer-electronics-by-toms-hardware-experts/"><u>In-Depth Guides on Consumer Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-gear-galaxy-with-toms-hardware-experts-the-definitive-resource-for-computer-components/"><u>Navigating the Gear Galaxy with Tom's Hardware Experts: The Definitive Resource for Computer Components</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-seamless-tutorial-for-image-background-cleanup-on-canva/"><u>The Seamless Tutorial for Image Background Cleanup on Canva</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-tom-in-depth-testing-and-comparisons/"><u>The Ultimate Guide to Computer Hardware by Tom – In-Depth Testing & Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-uncovering-the-latest-in-computer-components/"><u>Tom's Tech Insights: Uncovering the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-processor-performance-index-of-2024-comprehensive-cpu-ratings/"><u>Top Processor Performance Index of 2024: Comprehensive CPU Ratings</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

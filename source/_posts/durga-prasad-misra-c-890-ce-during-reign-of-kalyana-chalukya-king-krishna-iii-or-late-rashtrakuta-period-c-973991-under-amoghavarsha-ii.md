@@ -1,7 +1,7 @@
 ---
 title: "Durga Prasad Misra: C. 890 CE, During Reign of Kalyana Chalukya King Krishna III or Late Rashtrakuta Period (C. 973–991) Under Amoghavarsha II"
-date: 2024-10-02T00:06:36.132Z
-updated: 2024-10-09T08:08:58.384Z
+date: 2024-10-14T16:04:01.814Z
+updated: 2024-10-15T16:19:52.916Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,24 +133,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-audio-enthusiast-hub-capture-and-audit-mp3-files/"><u>[New] Audio Enthusiast Hub Capture and Audit MP3 Files</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-composing-news-wrap-up-scripts/"><u>[Updated] In 2024, Composing News Wrap-Up Scripts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-reviewing-screenmasters-latest-tech-for-recording-for-2024/"><u>[Updated] Reviewing ScreenMaster's Latest Tech for Recording for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-complete-guide-to-mastering-slow-time-on-tiktok/"><u>2024 Approved The Complete Guide to Mastering Slow Time on TikTok</u></a></li>
-<li><a href="https://driver-download.techidaily.com/approach-consider-how-moisture-loss-during-drying-affects-both-density-and-heat-transfer-properties/"><u>Approach: Consider How Moisture Loss During Drying Affects Both Density and Heat Transfer Properties</u></a></li>
-<li><a href="https://fox-info.techidaily.com/crafting-perfect-first-impressions-on-any-device/"><u>Crafting Perfect First Impressions on Any Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-your-eye-comfort-on-android-devices-with-these-simple-brightness-adjustments/"><u>Enhance Your Eye Comfort on Android Devices with These Simple Brightness Adjustments!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-differences-essential-aspects-of-samsungs-ecosystem-not-found-in-the-google-universe-a-comprehensive-guide-for-switchers/"><u>Experience Differences: Essential Aspects of Samsung's Ecosystem Not Found in the Google Universe – A Comprehensive Guide for Switchers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-disabling-intrusive-notification-alerts-on-android-devices/"><u>Guide: Disabling Intrusive Notification Alerts on Android Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-vr-todays-core-technologies/"><u>In 2024, VR Today's Core Technologies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-android-security-a-guide-to-activating-and-utilizing-lockdown-mode/"><u>Mastering Android Security: A Guide to Activating and Utilizing Lockdown Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-file-management-on-android-a-comprehensive-guide/"><u>Mastering File Management on Android: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-security-a-comprehensive-tutorial-on-utilizing-googles-password-manager-for-android-devices/"><u>Mastering Mobile Security: A Comprehensive Tutorial on Utilizing Google's Password Manager for Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/one-finger-technique-revealed-expanding-your-view-on-google-maps-made-easy/"><u>One-Finger Technique Revealed: Expanding Your View on Google Maps Made Easy!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/optimal-android-launcher-experience-on-large-smartphones-why-niagara-excels/"><u>Optimal Android Launcher Experience on Large Smartphones: Why Niagara Excels</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rtx-2080-super-graphics-card-drivers-free-download-and-update-guide-for-windows-11/"><u>RTX 2080 Super Graphics Card Drivers: Free Download and Update Guide for Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4n2-driver-on-your-windows-pc/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4n2 Driver on Your Windows PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nokia-c32-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nokia C32 FRP</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-marketing-101-step-by-step-guide/"><u>[New] Twitter Marketing 101 Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-discovery-the-leading-five-in-fb-vids-worldwide/"><u>[Updated] 2024 Approved Discovery The Leading Five in FB Vids Worldwide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fundamental-skills-for-creating-persuasive-client-centered-testimonials/"><u>2024 Approved Fundamental Skills for Creating Persuasive Client-Centered Testimonials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-aio-240l-robust-cooling-with-interface-improvement-needed/"><u>Comprehensive Analysis of the Valkyrie Syn AIO 240L - Robust Cooling with Interface Improvement Needed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Exploring Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-equipment-in-depth-reviews-and-insights/"><u>Exploring Tom's Computer Equipment - In-Depth Reviews & Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/failed-video-fix-time-to-reassess-strategy/"><u>Failed Video Fix? Time to Reassess Strategy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme Narzo N55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flagship-microsoft-surface-pro-impressive-looks-yet-disappointing-smart-tech-features/"><u>In-Depth Analysis of the Flagship Microsoft Surface Pro - Impressive Looks, Yet Disappointing Smart Tech Features</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nest-audio-review/"><u>Nest Audio Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/pause-the-pixelation-unpacking-instagrams-call-for-digital-steps-backward/"><u>Pause the Pixelation: Unpacking Instagram's Call for Digital Steps Backward</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30.</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/windows-11-update-geen-toegestane-geschiedenispartijen-vervangen/"><u>Windows 11 Update: Geen Toegestane Geschiedenispartijen Vervangen</u></a></li>
 </ul></div>
 

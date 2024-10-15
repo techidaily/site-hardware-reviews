@@ -1,7 +1,7 @@
 ---
 title: "P.C. Choudhuri and Suresh Gopala Mukherjee: C. 860 CE During the Reign of Kalyana Chalukya King Vijayaditya I (R. C. 857-890) or Krishna III"
-date: 2024-10-02T05:25:30.745Z
-updated: 2024-10-09T06:03:38.887Z
+date: 2024-10-14T16:17:42.720Z
+updated: 2024-10-15T16:34:50.116Z
 tags:
   - tvs
 categories:
@@ -55,35 +55,27 @@ For more, check out our picks for [the best Samsung TVs](https://www.zdnet.com/h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-navigating-vimeo-success-strategies-for-staff-picked-videos/"><u>[New] 2024 Approved Navigating Vimeo Success Strategies for Staff-Picked Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-kitchen-kings-and-queen-top-youtube-gastronomes/"><u>[New] In 2024, Kitchen Kings & Queen Top YouTube Gastronomes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-splitcam-assessment-best-video-recorder-ranking/"><u>[New] In 2024, SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordability-meets-quality-in-the-nuphy-halo75-v2-mechanical-keyboard-review/"><u>Affordability Meets Quality in the Nuphy Halo75 V2 Mechanical Keyboard Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-pcb-creation-cytrons-uno-rp2040-board-evaluated-for-savvy-electronics-enthusiasts/"><u>Affordable PCB Creation: Cytron's Uno RP2040 Board Evaluated for Savvy Electronics Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-bluehost-services-insights-into-cloud-vps-and-shared-hosting-performance/"><u>Evaluating Bluehost Services: Insights Into Cloud, VPS & Shared Hosting Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-lenovo-yoga-pro-9i-evaluation-thin-design-with-responsive-keyboard/"><u>Expert Lenovo Yoga Pro 9I Evaluation: Thin Design with Responsive Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-on-the-powerful-platinum-series-nzxt-c1ebuilding-with-sustainable-materials-including-recycled-content-when-possible/"><u>Expert Review on the Powerful Platinum Series - NZXT C1ebuilding with Sustainable Materials, Including Recycled Content when Possible.</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-inside-scoop-on-top-tier-computer-systems-by-toms-experts/"><u>The Inside Scoop on Top-Tier Computer Systems by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-top-notch-pc-components-by-tom/"><u>The Ultimate Resource for Top-Notch PC Components by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-5-free-screen-recorders-on-windows-10-2023-update/"><u>Top 5 Free Screen Recorders on Windows 10-2023 Update</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/top-free-software-for-converting-flv-videos-into-3gp-format/"><u>Top Free Software for Converting FLV Videos Into 3GP Format</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-ranking-ereader-devices-a-comprehensive-guide/"><u>Top-Ranking eReader Devices : A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-high-latency-and-lag-in-chivalry-2/"><u>Ultimate Guide: Solving High Latency & Lag in Chivalry 2</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unveiling-iphone-14s-battery-performance-critical-insights-and-tips/"><u>Unveiling iPhone 14'S Battery Performance: Critical Insights & Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-dissecting-the-new-features-of-camstudio/"><u>[New] 2024 Approved Dissecting the New Features of CamStudio</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-in-stream-fb-ad-configurations-and-impact-assessment/"><u>[Updated] 2024 Approved Mastering In-Stream FB Ad Configurations & Impact Assessment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-modern-techniques-for-gesture-interpretation/"><u>[Updated] Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acer-nitro-34-curved-qhd-display-now-only-200-on-newegg/"><u>Acer Nitro 34'' Curved QHD Display Now Only $200 on Newegg!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2-t172386288019211/"><u>ASRock PG2</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exceptional-clarity-at-an-affordable-price-discover-hps-37-wqhdplus-ultrawide-display-with-ips-technology-ideal-for-professionals-seeking-quality-without-ol49/"><u>Exceptional Clarity at an Affordable Price: Discover HP’s 37 WQHD+ Ultrawide Display with IPS Technology, Ideal for Professionals Seeking Quality without OLED Expense</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-alienwares-stunning-34-curved-oled-display-for-only-749-at-best-buy/"><u>Experience Next-Level Gaming: Alienware's Stunning 34 Curved OLED Display for Only $749 at Best Buy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-future-of-gaming-with-alienwares-high-speed-aw2725df-monitor-an-expert-review-of-its-oled-brilliance/"><u>Experience the Future of Gaming with Alienware's High-Speed AW2725DF Monitor - An Expert Review of Its OLED Brilliance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-latest-in-affordable-laptops-minisforums-new-release-featuring-a-156-inch-144hz-1440p-screen-for-just-189/"><u>Experience the Latest in Affordable Laptops - Minisforum's New Release Featuring a 15.6-Inch, 144Hz, 1440P Screen for Just $189</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862838244-high-definition-open-source-e-ink-display-revealed-the-modos-paper-shatters-expectations-with-1200p-on-133-screen/"><u>High-Definition Open-Source E-Ink Display Revealed: The Modos Paper Shatters Expectations with 1200P on 13.3 Screen!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>Leap Into Fitness A Curated Selection of VR Treadmill Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-world-of-live-stream-with-switch-and-3-apps/"><u>Navigate the World of Live-Stream with Switch & 3 Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-m4r-in-aiff-facilmente-e-gratuitamente-su-movavi-web/"><u>Trasforma I Tuoi File M4R in AIFF Facilmente E Gratuitamente Su Movavi Web</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

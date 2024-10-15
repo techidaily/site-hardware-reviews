@@ -1,7 +1,7 @@
 ---
 title: "Advancing Artificial Intelligence with Quantum Technology: Singapore's Vision for Future Data Hubs as Covered by ZDNet"
-date: 2024-09-19 20:50:22
-updated: 2024-09-20 10:30:50
+date: 2024-10-10T16:14:48.745Z
+updated: 2024-10-15T16:14:16.983Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,33 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-seamless-gif-converters-online-5-rated-highly-for-2024/"><u>[New] Seamless GIF Converters Online, 5 Rated Highly for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[Updated] In 2024, From Airwaves to Archives Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-power-of-hashtags-social-media-promotion-on-a-budget/"><u>[Updated] In 2024, The Power of Hashtags Social Media Promotion on a Budget</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hunt-for-amazing-prime-day-bargains-score-apple-deals/"><u>Hunt for Amazing Prime Day Bargains – Score Apple Deals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-architecting-top-quality-canon-time-lapse/"><u>In 2024, Architecting Top Quality Canon Time-Lapse</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/interacting-with-a-blended-world-the-essence-of-mixed-reality/"><u>Interacting with a Blended World The Essence of Mixed Reality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-components-with-tom-the-ultimate-guide/"><u>Mastering Computer Components with Tom – The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-the-ultimate-resource-by-toms-hardware-experts/"><u>Mastering Electronics: The Ultimate Resource by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/most-cost-effective-4k-screen-buys-in-2s4e/"><u>Most Cost-Effective 4K Screen Buys in 2S4e</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-new-gear-with-toms-comprehensive-hardware-analysis/"><u>Navigate New Gear with Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-technology-tips-and-tricks-from-toms-experience/"><u>Navigate the World of Technology: Tips and Tricks From Tom's Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computer-components-with-toms-expertise/"><u>Navigating the Latest in Computer Components with Tom's Expertise</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-a-curated-selection-of-premium-websites-offering-bgm-compilation-for-2024/"><u>New A Curated Selection of Premium Websites Offering BGM Compilation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-ie-tips-for-fixing-the-browser-has-stopped-working/"><u>Revive Your IE: Tips for Fixing the 'Browser Has Stopped Working'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-200-on-dell-alienware-aw3225qf-premium-32-240hz-4k-oled-gamers-dream-display/"><u>Save $200 on Dell Alienware AW3225QF: Premium 32 240Hz, 4K OLED Gamer's Dream Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-the-highest-gaming-quality-with-our-best-ever-rated-dell-s3222dgm-for-a-shocking-low-of-229/"><u>Score the Highest Gaming Quality with Our Best Ever Rated Dell S3222DGM for a Shocking Low of $229</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-note-30-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Note 30 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snag-the-ultimate-deal-240hz-acer-nitro-27-curved-display-at-only-159/"><u>Snag the Ultimate Deal: 240Hz Acer Nitro 27 Curved Display at Only $159!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unintentional-file-loss-during-transfer-on-windows-effective-recovery-strategies/"><u>Unintentional File Loss During Transfer on Windows: Effective Recovery Strategies</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Enjoy a Decade's Worth of AI-Enhanced Features on Your Samsung Television without Additional Cost | ZDNET
-date: 2024-10-06T19:50:46.264Z
-updated: 2024-10-09T05:29:25.322Z
+date: 2024-10-10T16:00:55.253Z
+updated: 2024-10-15T16:12:53.457Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,19 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies/"><u>[Updated] 2024 Approved Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-techniques-for-effortless-facebook-video-posting-pcandroid/"><u>[Updated] 2024 Approved Techniques for Effortless Facebook Video Posting, PC/Android</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-list-timely-humor-for-various-gatherings/"><u>[Updated] Ultimate List Timely Humor for Various Gatherings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-optimum-affordable-asmr-microphones-with-incredible-performance/"><u>2024 Approved Optimum Affordable ASMR Microphones with Incredible Performance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-language-hurdles-oxford-and-mondlys-blend/"><u>Conquer Language Hurdles - Oxford & Mondly's Blend</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-the-spectacular-display-dynamics-of-the-oled-gaming-monitor-gigabyte-aorus-co49dq-with-impressive-colors-and-contrasts/"><u>Expert Review: The Spectacular Display Dynamics of the OLED Gaming Monitor - Gigabyte Aorus CO49DQ with Impressive Colors & Contrasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-logitech-g515-lightspeed-tkl-budget-friendly-and-sleek-design/"><u>In-Depth Analysis of the Logitech G515 Lightspeed TKL - Budget-Friendly and Sleek Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-ipad-video-editing-essentials-top-picks/"><u>New 2024 Approved IPad Video Editing Essentials Top Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/p310-ssd-in-depth-analysis-enhanced-velocity-with-m2-2280/"><u>P310 SSD In-Depth Analysis: Enhanced Velocity with M.2 2280</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pro-screen-recorder-battle-top-selections-unveiled/"><u>Pro Screen Recorder Battle Top Selections Unveiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/snap-and-crop-utilizing-iphones-image-editing-capabilities/"><u>Snap & Crop Utilizing iPhone’s Image Editing Capabilities</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unleashing-the-full-power-of-apple-podcasts-downloads/"><u>Unleashing the Full Power of Apple Podcasts Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-breakthrough-ways-to-transform-your-powerpoint-presentations-for-2024/"><u>[New] Breakthrough Ways to Transform Your PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions-for-2024/"><u>[New] Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-ideas-for-eye-catching-podcast-artwork/"><u>[New] Innovative Ideas for Eye-Catching Podcast Artwork</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-modifying-photo-genders-on-major-social-platforms/"><u>[New] Techniques for Modifying Photo Genders on Major Social Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>2024 Approved Pro Tips for Pioneering Board Use in Webinars Android, iPhone & Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-excessive-cpu-consumption-by-dropbox-on-windows-pcs/"><u>Decreasing Excessive CPU Consumption by Dropbox on Windows PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-superior-pc-components-through-toms-hardware-guidance/"><u>Discover Superior PC Components Through Tom's Hardware Guidance</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/efficiently-edit-your-documents-at-home-with-emeditor-a-comprehensive-text-editor-program/"><u>Efficiently Edit Your Documents at Home with EmEditor - A Comprehensive Text Editor Program</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-magnetic-appeal-of-keychrons-k2-he-special-edition-a-mid-century-marvel-in-action/"><u>Exploring the Magnetic Appeal of Keychron's K2 HE Special Edition - A Mid-Century Marvel in Action</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-zenbook-s16-with-amds-ryzen-5-8600h-processor/"><u>In-Depth Analysis of the Asus Zenbook S16 with AMD's Ryzen 5 8600H Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reduced-waste-lifestyle/"><u>Reduced Waste Lifestyle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-and-analysis-of-sovol-sv08-the-ultimate-voron-inspired-bike/"><u>Review & Analysis of Sovol SV08 - The Ultimate Voron-Inspired Bike</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-enthusiasts-hub-top-reviews-and-buying-advice-from-toms-hardware/"><u>Tech Enthusiasts’ Hub: Top Reviews and Buying Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nubia-red-magic-9-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nubia Red Magic 9 Pro+ FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-unveiling-the-top-5-pros-of-52-pi-ice-tower-plus-for-your-raspberry-pi-4/"><u>Ultimate Guide: Unveiling the Top 5 Pros of '52-Pi Ice Tower Plus' For Your Raspberry Pi 4</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Sustainability of Teamwork Applications: A Look at Cisco’s Initiatives by ZDNET"
-date: 2024-09-19 16:20:17
-updated: 2024-09-20 11:16:27
+date: 2024-10-09T16:13:46.989Z
+updated: 2024-10-15T16:16:20.254Z
 tags:
   - sustainability
 categories:
@@ -72,11 +72,34 @@ Cisco also plans to help customers track the emissions they're producing when th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-youcamproficiency-masteringwebcamcapture/"><u>[New] 2024 Approved YouCamProficiency MasteringWebCamCapture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leading-stock-tutorials-channel-roundup/"><u>[Updated] Leading Stock Tutorials Channel Roundup</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-best-ios-and-android-apps-you-can-use-to-create-animoji-and-memoji-videos/"><u>2024 Approved Best iOS and Android Apps You Can Use to Create Animoji and Memoji Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>2024 Approved Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-enhanced-performance-with-sunfounders-pironman-5-an-aesthetically-pleasing-raspberry-pi-desktop-housing-that-supports-ssd-and-dazzles-with-rgb-le31/"><u>Experience Enhanced Performance with Sunfounder's Pironman 5 - An Aesthetically Pleasing Raspberry Pi Desktop Housing that Supports SSD and Dazzles with RGB LEDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-tech-gadgets-by-toms-electronics-hub/"><u>Expert Insights on Tech Gadgets by Tom’s Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-hardware-by-toms-experts/"><u>In-Depth Analysis of PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-expert-insights-on-pc-components-and-gear/"><u>Inside Tom's Equipment: Expert Insights on PC Components and Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-zerowriter-inks-latest-typewriter-enhanced-52-e-ink-display-and-weeklong-battery-life-with-comfortable-mechanical-keys/"><u>Introducing Zerowriter Ink's Latest Typewriter: Enhanced 5.2 E-Ink Display & Weeklong Battery Life with Comfortable Mechanical Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-projects-with-waveshares-new-iot-board-seamlessly-integrates-with-raspberry-pi-zero-includes-4glte-connectivity-and-customized-micropytho34/"><u>Revolutionize Your Projects with Waveshare's New IoT Board: Seamlessly Integrates with Raspberry Pi Zero, Includes 4G/LTE Connectivity & Customized MicroPython Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-accessing-the-command-line-interface-in-windows-operating-systems/"><u>Step-by-Step Guide: Accessing the Command Line Interface in Windows Operating Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-artisans-code-a-complete-blueprint-for-flawless-windows-tv-recording/"><u>The Artisan's Code A Complete Blueprint for Flawless Windows TV Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/the-finest-alternatives-to-microsofts-core-applications/"><u>The Finest Alternatives to Microsoft's Core Applications</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

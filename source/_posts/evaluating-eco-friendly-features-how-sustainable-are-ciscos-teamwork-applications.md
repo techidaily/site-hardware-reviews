@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Eco-Friendly Features: How Sustainable Are Cisco's Teamwork Applications?"
-date: 2024-09-19 12:32:20
-updated: 2024-09-20 10:15:16
+date: 2024-10-13T16:14:13.397Z
+updated: 2024-10-15T16:17:11.666Z
 tags:
   - sustainability
 categories:
@@ -72,11 +72,34 @@ Cisco also plans to help customers track the emissions they're producing when th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-internet-idols-index-10-most-subscribed-global-creators/"><u>[Updated] 2024 Approved Internet Idols Index 10 Most Subscribed Global Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/149-deal-on-acer-nitro-27/"><u>$149 Deal on Acer Nitro 27</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-sound-changes-in-ps-console-games/"><u>2024 Approved The Ultimate Guide to Sound Changes in PS Console Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/effective-method-for-adding-music-to-facebook-iphone-for-2024/"><u>Effective Method for Adding Music to Facebook (iPhone) for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-hot-40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Hot 40 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/innovative-mobile-multimedia-tools-to-transform-photos/"><u>Innovative Mobile Multimedia Tools to Transform Photos</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-note-30-vip-racing-edition-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Note 30 VIP Racing Edition working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862752577-snag-a-colossal-lg-ultragear-wqhd-curved-monitor-39-steal-it-at-amazon-for-only-999/"><u>Snag a Colossal LG Ultragear WQHD Curved Monitor (39) - Steal It at Amazon for Only $999!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-visual-hiccups-solutions-for-the-common-sims-4-graphics-error/"><u>Troubleshooting Visual Hiccups: Solutions for the Common Sims 4 Graphics Error</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-showdown-of-the-gigabyte-aorus-co49dq-oled-display-immersive-colors-and-deep-blacks-unleashed/"><u>Ultimate Showdown of the Gigabyte Aorus CO49DQ OLED Display: Immersive Colors & Deep Blacks Unleashed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultra-high-definition-graphics-unveiled-aocs-new-graphic-pro-series-u3-hits-the-pro-arena/"><u>Ultra-High Definition Graphics Unveiled: AOC's New Graphic Pro Series U3 Hits the Pro Arena</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-on-screen-a-comprehensive-guide-to-asus-rog-swift-pg49wcd-monitor-review/"><u>Unveiling the Colors on Screen: A Comprehensive Guide to Asus ROG Swift PG49WCD Monitor Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-by-toms-experts/"><u>Unveiling the Latest in Computer Components by Tom's Experts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

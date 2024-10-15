@@ -1,7 +1,7 @@
 ---
 title: "Uber Introduces Innovative Carbon Footprint Tracker: Monitor Your CO2 Savings as a Passenger | ZDNet"
-date: 2024-09-17 16:16:46
-updated: 2024-09-20 11:27:55
+date: 2024-10-09T16:14:26.412Z
+updated: 2024-10-15T16:09:28.416Z
 tags:
   - sustainability
 categories:
@@ -66,11 +66,32 @@ Uber is taking steps to ensure the savings shown are as accurate as possible. Th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-10-best-travel-youtube-channels-to-follow-for-2024/"><u>[New] 10 Best Travel Youtube Channels to Follow for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-achieving-seamless-ages-shifting-scenes/"><u>[New] 2024 Approved Achieving Seamless Ages Shifting Scenes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-bluetooth-device-drivers-for-windows-systems/"><u>Download Updated Bluetooth Device Drivers for Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-gadgets-and-hardware-from-toms-hardware/"><u>Expert Insights on Gadgets and Hardware From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-guide-to-hardware/"><u>Exploring the Latest in Technology with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-your-perfect-pc-part-with-toms-hardware-advice/"><u>Find Your Perfect PC Part with Tom's Hardware Advice</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-8-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 8</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-technology-hub/"><u>In-Depth Gadget Analysis by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-toms-technology-experts/"><u>In-Depth Hardware Analysis by Tom's Technology Experts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/speedy-solution-eliminate-loot-errors-in-apex/"><u>Speedy Solution: Eliminate Loot Errors in Apex</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

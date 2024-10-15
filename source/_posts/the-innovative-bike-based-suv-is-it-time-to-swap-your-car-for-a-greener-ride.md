@@ -1,7 +1,7 @@
 ---
 title: "The Innovative Bike-Based SUV: Is It Time to Swap Your Car for a Greener Ride?"
-date: 2024-09-19 19:32:33
-updated: 2024-09-20 11:15:49
+date: 2024-10-08T16:01:34.739Z
+updated: 2024-10-15T16:13:47.585Z
 tags:
   - sustainability
 categories:
@@ -62,6 +62,13 @@ Setting off from the dock to the daycare!
 
 Greg Nichols / ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rider profile  
 
 My family lives outdoors. I mean that almost literally ... [we call a big old sailboat home](https://www.zdnet.com/article/sailboat-life-living-and-working-on-the-high-seas-with-kids/) and live dockside in a marina in Southern California.
@@ -79,6 +86,13 @@ Add to the mix my personal rider profile. I'm 6'4", so I need a big bike. I enjo
 The perfect beach cruiser, it doubles as an SUV for around-town errands or out-of-city adventures.
 
 Greg Nichols / ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The build
 
@@ -140,6 +154,13 @@ The Go-Getter bag is humongous and takes two seconds to attach or detach from th
 
 Greg Nichols / ZDNet
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Adjusting to the new ride
 
 My typical commute has me navigating busy Los Angeles traffic to and from school drop off. Riding in traffic with two kiddos on the back takes some getting used to. I'm transitioning from pulling a bike trailer and it took me a few rides to start to feel comfortable with the new weight dynamics.
@@ -176,6 +197,19 @@ Oh yeah, and it's a head turner. Utility is the aim here, but it's pretty cool t
 
 There are a lot of cargo bike options out there. If you're a tall rider and are looking for a bike that'll last well past your kids' childhood, I have seen no better option than the Yuba Mundo Lux. If you're shorter or are looking for something more compact and lightweight, you might want to check out [Yuba's Kombi](https://www.avantlink.com/click.php?tt=app&ti=1019&mi=10248&pw=262625&ctc=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F170542%2Fyuba-kombi-compact-cargo-bike) or [Spicy Curry](https://yubabikes.com/cargobikestore/yuba-spicy-curry/) models. The brand has something for every rider type and style, and it makes the best gear in the game. If you don't want to take my word for it, ask your local bike shop pro. That's how I ended up with a Yuba.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Alternatives to consider 
 
 [Yuba Kombi $999 at Rei](https://www.avantlink.com/click.php?tt=app&ti=1019&mi=10248&pw=262625&ctc=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F170542%2Fyuba-kombi-compact-cargo-bike)
@@ -211,11 +245,23 @@ A stylish front loader that makes for a practical alternative to a car in suburb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-satirize-a-guide-to-parody-production/"><u>[New] How to Satirize A Guide to Parody Production</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-assessment-huion-inspiroy-g1-drawing-tablet-top-tier-craftsmanship-meets-excellent-functionality/"><u>Expert Assessment: Huion Inspiroy G1# Drawing Tablet – Top-Tier Craftsmanship Meets Excellent Functionality</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/komplettes-tutorial-wie-man-verlorene-html-dokumente-wiederfindet-und-rekonstruiert/"><u>Komplettes Tutorial: Wie Man Verlorene HTML-Dokumente Wiederfindet Und Rekonstruiert</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/select-the-superior-a-guide-to-8-outstanding-free-android-mp3-downloaders-for-2024/"><u>Select the Superior A Guide to 8 Outstanding Free Android MP3 Downloaders for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-budding-gardeners-handbook-to-sustainable-veggie-gardening-from-seedling-to-harvest/"><u>The Budding Gardener's Handbook to Sustainable Veggie Gardening From Seedling to Harvest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-in-speed-reviewing-the-unleashed-potential-of-crucials-overclocked-ddr5-6000-16gb-ram-modules/"><u>The Game Changer in Speed: Reviewing the Unleashed Potential of Crucial's Overclocked DDR5-6000 16GB RAM Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-choices-by-toms-hardware/"><u>The Ultimate Guide to Hardware - Choices by Tom's Hardware</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-sudden-pause-in-photobooth-videos-for-2024/"><u>Understanding Sudden Pause in Photobooth Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
+</ul></div>
+

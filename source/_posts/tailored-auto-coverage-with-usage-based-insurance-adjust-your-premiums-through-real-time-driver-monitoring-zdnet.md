@@ -1,7 +1,7 @@
 ---
 title: "Tailored Auto Coverage with Usage-Based Insurance: Adjust Your Premiums Through Real-Time Driver Monitoring | ZDNET"
-date: 2024-09-17 23:34:21
-updated: 2024-09-20 11:51:48
+date: 2024-10-12T16:21:35.759Z
+updated: 2024-10-15T16:19:32.459Z
 tags:
   - sustainability
 categories:
@@ -34,6 +34,13 @@ I connected with Joe Meisinger, Vice President of Personal Insurance Product at 
 Travelers Insurance plans to continue expanding its telematics offerings -- the technologies used to track and transmit driving data -- into the future, leveraging advances in technology and customer insights. The reality is that this is undoubtedly the way the insurance industry will go in years ahead. Insurers have long rewarded good driving records, and with the prevalence of connected technologies, there's a huge incentive for underwriters to seek a more granular picture of individual customers' risk profiles.
 
 For now, customers have a choice to opt in if their vehicle has embedded technology, and the year, make, and model are supported by IntelliDrive.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -77,11 +84,28 @@ The reality, for better or (more likely) worse, is that we consent to a broad ar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-guide-to-free-music-for-mindfulness-and-serenity/"><u>[New] In 2024, Guide to Free Music for Mindfulness & Serenity</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[New] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamlining-your-gaming-playback/"><u>[Updated] Streamlining Your Gaming Playback</u></a></li>
+<li><a href="https://fox-http.techidaily.com/boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge-for-2024/"><u>Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!) For 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/complete-dbpower-600a-charger-review-a-reliable-jump-starter-with-peak-capabilities-of-18k-mah/"><u>Complete DBPOWER 600A Charger Review: A Reliable Jump Starter with Peak Capabilities of 18K mAh</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-list-of-leading-no-cost-video-chat-apps-iosandroid/"><u>Comprehensive List of Leading No-Cost Video Chat Apps (iOS/Android)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-geforce-experience-encountered-an-error-issue-complete-guide/"><u>How to Fix the GeForce Experience 'Encountered an Error' Issue - Complete Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme Narzo 60 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-hardware-guides/"><u>Tom's Tech Insights: Expert Reviews & Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-into-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Insights Into the Latest Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Reviews: A Comprehensive Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-latest-computer-components/"><u>Tom's Tech Reviews: In-Depth Analysis of Latest Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-evaluations-and-guides/"><u>Tom's Tech Reviews: In-Depth Gadget Evaluations & Guides</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-hiearcools-versatile-7-port-usb-c-charger-seamless-power-for-every-device/"><u>Ultimate Guide to Hiearcool's Versatile 7-Port USB-C Charger: Seamless Power for Every Device</u></a></li>
+</ul></div>
+

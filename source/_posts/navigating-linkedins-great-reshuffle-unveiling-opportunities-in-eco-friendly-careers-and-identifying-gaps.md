@@ -1,7 +1,7 @@
 ---
 title: "Navigating LinkedIn's Great Reshuffle: Unveiling Opportunities in Eco-Friendly Careers & Identifying Gaps"
-date: 2024-09-17 16:53:31
-updated: 2024-09-20 12:51:53
+date: 2024-10-11T16:20:13.011Z
+updated: 2024-10-15T16:21:06.337Z
 tags:
   - sustainability
 categories:
@@ -32,6 +32,13 @@ LinkedIn purports that the [Great Reshuffle](https://www.linkedin.com/pulse/navi
 That's the introduction to LinkedIn's recently published [Global Green Skills Report 2022](https://economicgraph.linkedin.com/research/global-green-skills-report). As LinkedIn CEO Ryan Roslansky writes in the report, LinkedIn wants to do its part by leveraging its unique data and labour market expertise to highlight actionable insights that are crucial to delivering a successful green transition and avoiding potential pitfalls.
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Green skills and green jobs
 
@@ -65,6 +72,13 @@ LinkedIn's report distills four more trends shaping the green economy.
 
 First, demand for green talent will soon outpace supply. In the past year, \~10% of job postings requiring skills have explicitly required at least one green skill -- which is generally aligned with \~10% of the hires in the same period going to green or greening jobs. However, while job postings requiring green skills grew at 8% annually over the past five years, the share of green talent has grown at roughly 6% annually in the same period.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### see also
 
 [Want to attract new tech talent? Start thinking green Getting more young people into technology will require businesses to start thinking about the kind of company they want to be.  Read now](https://www.zdnet.com/article/want-to-attract-new-tech-talent-start-thinking-green/)
@@ -82,6 +96,13 @@ Fourth, the fastest-growing green skills are both mainstream and emerging. Some 
 And several of the fastest-growing green skills across all sectors during the same time period were not necessarily in-demand skills but suggested the emergence of new trends, including Sustainable Fashion, Oil Spill Response and Sustainable Business Strategies, among others.
 
 LinkedIn's data are a great source to derive insights from. LinkedIn's report is quite comprehensive, as it does not just offer data-driven insights but also dives into specific case studies, identifies trends blocking an equitable transition for workers and a sustainable transition for the planet, and lays out an action plan with recommendations for policymakers, business leaders and the global workforce.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taxonomies are the duct tape of connected data - green ones, too
 
@@ -104,6 +125,13 @@ Perhaps more importantly, taxonomies, like any other knowledge organization appr
 It includes 381 skills, 185 knowledge concepts and 5 transversal skills considered most relevant for a greener labour market. Examples of green skills as defined in ESCO include conducting energy audits, measuring the sustainability of tourism activities, and training staff on recycling programmes.
 
 It's possible that LinkedIn consulted ESCO in creating its own green skill taxonomy, but we'll probably never know. Without visibility into LinkedIn's taxonomy and data, it's impossible to verify the validity of its analysis. Not to mention -- all LinkedIn member skill assessment is done by members themselves, with everything this entails.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are green skills driving sustainable change in the European automotive industry?
 
@@ -149,11 +177,30 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-securing-snapchat-footage-essential-mobile-tips/"><u>[New] 2024 Approved Securing Snapchat Footage Essential Mobile Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-the-game-discover-these-top-12-pc-clickers/"><u>[New] In 2024, Mastering the Game Discover These Top 12 PC Clickers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-professional-strategies-converting-xmlssattml-to-dynamic-srts/"><u>[New] Professional Strategies Converting XML/SSA/TTML to Dynamic SRTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-flickering-camera-lights-to-financial-highlights/"><u>[Updated] From Flickering Camera Lights to Financial Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-hdr-photography-tips-and-tricks/"><u>[Updated] IPhone HDR Photography Tips & Tricks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-samsung-monojet-output-on-windows-11/"><u>Enhance Samsung MonoJet Output on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-smart-homes-ahead-how-three-key-missteps-led-to-superior-automation-scenarios/"><u>Enhanced Smart Homes Ahead: How Three Key Missteps Led to Superior Automation Scenarios</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enjoy-steam-gameplay-anywhere-with-stream-remote-play-no-need-for-a-dedicated-steam-link/"><u>Enjoy Steam Gameplay Anywhere with Stream Remote Play - No Need for a Dedicated Steam Link!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offers-on-electronics-save-big-on-items-like-the-apple-pencil-and-amazon-fire-hd-10/"><u>Exclusive Offers on Electronics: Save Big on Items Like the Apple Pencil & Amazon Fire HD 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-future-of-vacuuming-with-yeedis-newly-released-m12-proplus-robovac-in-the-us-market/"><u>Experience the Future of Vacuuming with Yeedi's Newly Released M12 Pro+ Robovac in the US Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertly-selected-ultimate-laptops-guide-2024-edition/"><u>Expertly Selected Ultimate Laptops Guide - 2024 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-with-my-goal-zero-bamboo-laptop-the-best-travel-buddy-ever/"><u>Exploring New Horizons with My Goal Zero Bamboo Laptop - The Best Travel Buddy Ever!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/farewell-your-alexa-show-top-picks-for-replacing-the-amazon-echo-with-a-display/"><u>Farewell Your Alexa Show: Top Picks for Replacing the Amazon Echo with a Display</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-free-photo-workspace-discover-the-best-editing-suites-for-2024/"><u>Pro Free Photo Workspace Discover the Best Editing Suites for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quality-and-cost-savings-unite-in-best-asmr-mics/"><u>Quality and Cost Savings Unite in Best ASMR Mics</u></a></li>
+</ul></div>
+

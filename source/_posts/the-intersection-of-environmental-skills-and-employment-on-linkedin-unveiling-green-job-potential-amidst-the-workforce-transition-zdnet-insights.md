@@ -1,7 +1,7 @@
 ---
 title: "The Intersection of Environmental Skills and Employment on LinkedIn: Unveiling Green Job Potential Amidst the Workforce Transition | ZDNet Insights"
-date: 2024-09-19 20:17:53
-updated: 2024-09-20 11:26:50
+date: 2024-10-12T16:25:07.701Z
+updated: 2024-10-15T16:14:07.076Z
 tags:
   - sustainability
 categories:
@@ -33,6 +33,13 @@ That's the introduction to LinkedIn's recently published [Global Green Skills Re
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Green skills and green jobs
 
 Achieving our collective global climate targets is a monumental task, and it is going to take a whole-of-economy effort to make it happen. That means we need a [transformation in the skills and jobs people have](https://www.zdnet.com/article/start-the-reskilling-revolution-without-me-future-of-work-trends-and-soft-data-on-soft-skills/) if we're going to get there, writes Roslansky.
@@ -51,6 +58,13 @@ Green jobs are those that cannot be performed without extensive knowledge of gre
 
 * **See also:** [**Best online sustainability degrees: Make a lasting difference**](https://www.zdnet.com/education/business-management/best-online-sustainability-degree/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The big picture
 
 LinkedIn's first key finding is that not enough workers are being hired into green jobs. The hiring of green jobs in the global workforce is rising faster than any other category. But together, green and greening jobs still only accounted for 10% of hiring in 2021.
@@ -64,6 +78,13 @@ LinkedIn emphasizes that while more workers are transitioning into green and gre
 LinkedIn's report distills four more trends shaping the green economy.
 
 First, demand for green talent will soon outpace supply. In the past year, \~10% of job postings requiring skills have explicitly required at least one green skill -- which is generally aligned with \~10% of the hires in the same period going to green or greening jobs. However, while job postings requiring green skills grew at 8% annually over the past five years, the share of green talent has grown at roughly 6% annually in the same period.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### see also
 
@@ -109,6 +130,13 @@ It's possible that LinkedIn consulted ESCO in creating its own green skill taxon
 
 Another example of the fact that even data-driven analysis is often not as clear-cut as it seems is LinkedIn's reference to how green skills are driving sustainable change in the European automotive industry. LinkedIn notes that the move to electric is reshaping the talent profile of the automotive industry, and the need for innovation to cut emissions has influenced a sustained technological change in the European automotive industry.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Electric Vehicles
 
 * [The 5 best electric cars: Plus, the cheapest EV available](https://www.zdnet.com/article/best-electric-car/)
@@ -149,11 +177,26 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-full-review-of-the-latest-powerdirector-app-24/"><u>[New] In 2024, Full Review of the Latest PowerDirector App - '24</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-presentations-how-to-add-youtube-videos-to-ppt/"><u>[Updated] Streamlining Presentations How to Add YouTube Videos to PPT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-windows-snap-shotting-simplified-for-2024/"><u>[Updated] Windows Snap Shotting Simplified for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-the-spectacular-display-dynamics-of-the-oled-gaming-monitor-gigabyte-aorus-co49dq-with-impressive-colors-and-contrasts/"><u>Expert Review: The Spectacular Display Dynamics of the OLED Gaming Monitor - Gigabyte Aorus CO49DQ with Impressive Colors & Contrasts</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-logitech-g515-lightspeed-tkl-budget-friendly-and-sleek-design/"><u>In-Depth Analysis of the Logitech G515 Lightspeed TKL - Budget-Friendly and Sleek Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/master-the-art-of-archiving-your-favorite-veoh-videos-a-guide-to-using-veoh-downloader-on-mac-and-pc-systems/"><u>Master the Art of Archiving Your Favorite Veoh Videos: A Guide to Using Veoh Downloader on Mac and PC Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p310-ssd-in-depth-analysis-enhanced-velocity-with-m2-2280/"><u>P310 SSD In-Depth Analysis: Enhanced Velocity with M.2 2280</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/thriving-in-digital-realms-the-power-of-well-planned-backlinks/"><u>Thriving in Digital Realms The Power of Well-Planned Backlinks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transforming-horizontal-footage-into-vertical-video-gold-on-igtv-for-2024/"><u>Transforming Horizontal Footage Into Vertical Video Gold on IGTV for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028963846-wav3/"><u>WAV形式での高品質録音ソフトウェアを探しているなら、これら3つの無料オプションが最適です</u></a></li>
+</ul></div>
+

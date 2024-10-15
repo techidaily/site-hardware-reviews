@@ -1,7 +1,7 @@
 ---
 title: "Maximize the Value of Your Upgraded Device: Effective Ways to Dispose of or Reuse Your Previous Smartphone - Insights From ZDNet"
-date: 2024-09-18 22:26:45
-updated: 2024-09-20 11:59:22
+date: 2024-10-14T16:17:20.569Z
+updated: 2024-10-15T16:13:40.325Z
 tags:
   - sustainability
 categories:
@@ -25,6 +25,13 @@ Should you add it to the junk drawer where all your other old devices and chargi
 
 First, here's what not to do: never dispose of your device in your household garbage. Not only will you send your device straight to a landfill and pollute the environment with the potentially toxic metals found in your device, but [in some states](https://recyclenation.com/2021/08/throw-it-out-or-recycle-it-each-states-rules-on-electronics-recycling-updated-2021/) and [countries](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-electrical-and-electronic-equipment-weee%5Fen), you will be breaking the law, too.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What to do before buying a new electronic device
 
 Many people upgrade their devices on a regular basis as tech companies announce a lineup of new devices every year. But usually it's unnecessary to upgrade your device that frequently, as more current devices typically only offer one or two minor upgrades. 
@@ -43,6 +50,13 @@ Re-use is key way of cutting waste. Just because you don't want your phone or la
 
 Another option is alternative re-use: can your phone find a second life as a video camera or a standalone GPS device, for example? 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What to do before selling your electronics
 
 If you've just spent hundreds of dollars on a new device, it might be nice to put some extra cash back in your pocket. Many online vendors will buy your old device and refurbish it for someone else to use.
@@ -54,6 +68,13 @@ You can opt to sell your device on [online marketplaces](https://www.facebook.co
 Online resellers typically send you a free shipping label for your device. They will then inspect your device's condition and determine how much money you can receive from it. After that, you're off the hook.
 
 Some online vendors will give you a small amount of money for devices in poor condition and recycle that device's viable parts. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before recycling your electronics
 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,29 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-prime-asmr-channels-for-auditory-delight/"><u>[New] 2024 Approved Prime ASMR Channels for Auditory Delight</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-comparative-analysis-of-the-metaverse-and-multimeva-worlds-detailed-guide/"><u>[Updated] 2024 Approved Comparative Analysis of the Metaverse & Multimeva Worlds (Detailed Guide)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-livestream-launchpad-duel-go-with-xsplit-or-opt-for-obs/"><u>2024 Approved Livestream Launchpad Duel Go with XSplit or Opt for OBS?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-technology-from-toms-computer-solutions/"><u>Expert Insights on Technology From Tom's Computer Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-console-to-computer-seamless-integration-of-xbox-one-controllers-with-pcs-updated-guide/"><u>From Console to Computer: Seamless Integration of Xbox One Controllers with PCs (Updated Guide)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-experience-enhancing-silence-with-the-be-quiet-dark-base-pro-901-soundproofing-kit/"><u>Hands-On Experience: Enhancing Silence with the Be Quiet Dark Base Pro 901 Soundproofing Kit</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/harmonize-your-online-identity-iphoneandroid-music-integration/"><u>Harmonize Your Online Identity IPhone/Android Music Integration</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-8-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-4k-curtain-a-closer-look-at-asuss-mg28uq-monitor/"><u>In 2024, Behind the 4K Curtain A Closer Look at ASUS's MG28UQ Monitor</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pure-base-500dx-mid-tower-desktop-chassis-steal-the-deal-at-only-84/"><u>Pure Base 500DX Mid Tower Desktop Chassis - Steal the Deal at Only $84!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-gadget-comparisons/"><u>Tom's Tech Insights: Expert Reviews and Gadget Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-and-hardware-analysis/"><u>Tom's Tech Insights: In-Depth Computer and Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-gaming-experience-secure-extra-1tb-on-xbox-using-the-affordable-125-seagate-hard-drive-enhancer/"><u>Upgrade Your Gaming Experience: Secure Extra 1TB on Xbox Using the Affordable $125 Seagate Hard Drive Enhancer</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Flourishing Gardens: Expert Tips & Tools From ZDNet"
-date: 2024-09-17 10:37:56
-updated: 2024-09-20 11:41:22
+date: 2024-10-08T16:01:51.264Z
+updated: 2024-10-15T16:11:50.764Z
 tags:
   - sustainability
 categories:
@@ -81,6 +81,13 @@ If you're having trouble with leafy plants like basil, zucchini and other squash
 
 [Best fertilizer compost bin Vivosun 43 gallon dual chamber compost bin This Vivosun compost bin has two separate chambers, allowing you to have a rotating supply of nutrient-rich material to add to your garden for healthier plant growth and better harvests of herbs, flowers for arrangements, and vegetables. It also features a freely-rotating design to help turn organic material for proper air circulation and dispersal of beneficial organisms. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FVIVOSUN-Tumbling-Composter-Rotating-Compost%2Fdp%2FB08346W5S6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0f6c0523-a213-447c-b7f0-1777263016e7%7Cdtp&dtb=1)[Best fertilizer for balanced nutrients Miracle-Gro all-purpose plant food Miracle-Gro is one of the most prolific, popular, and trusted brands of garden fertilizer. Its all-purpose plant food provides a balance of essential nutrients like nitrogen (for strong stems and healthy leaves), phosphorous (for bigger blooms and better veggies), and calcium (to prevent blossom-end rot on tomatoes, cucumbers, and squash). View at Lowes](https://lowes.sjv.io/c/159047/897039/12374?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FMiracle-Gro-Water-Soluble-5-5-lb-All-Purpose-Food%2F1000806092&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best phosphorous-dense fertilizer Sta-Green bone meal Are your plants having a hard time establishing strong, healthy root systems? You need to add phosphorous to your bins, and Sta-Green bone meal is a great option for doing so. Like blood meal, it adds targeted nutrients to avoid causing problems by fixing another with a more generalized fertilizer. View at Lowes](https://lowes.sjv.io/c/159047/897039/12374?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FSta-Green-Bone-Meal-3-lb-Organic-Natural-Bone-Meal-All-purpose-Food%2F5013724101&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best calcium-dense fertilizer Bonide Rot-Stop Bonide Rot-Stop is a liquid concentrate that you can add to your watering can for periodic fertilization to prevent rotted ends. If you have a fertilizer attachment for your garden hose, you can also mix the concentrate in its holding tank for more convenient fertilization of large areas like flower gardens or community vegetable gardens. View at Lowes](https://lowes.sjv.io/c/159047/897039/12374?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FBonide-16-fl-oz-Blossom-end-Rot-Preventer%2F5013315969&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You might also need...
 
 While a few of these items aren't necessarily essential for gardening basics, they're nice to have for experienced growers or year-round herb gardeners. 
@@ -105,15 +112,36 @@ Miracle-Gro all-purpose plant food is a great option for providing balanced nutr
 
 If you want a permanent greenhouse or conservatory, it's best to contact a local contractor as well as your city office for permitting and construction. Permanent greenhouses require poured concrete foundation slabs as well as sturdy steel-and-glass construction to trap heat and moisture. They also require HVAC systems for proper ventilation, temperature control, and to prevent mold and mildew from moisture build-up. Costs will vary wildly depending on size, location, materials, and labor. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I need a permit to start a garden?
 
 If you want to grow a few vegetables and kitchen herbs on your patio or in your backyard, you shouldn't need a permit to do so. However, you may want to check with any apartment complex or HOA regulations so you don't come home to find your mint and poblano pepper plants have been confiscated. 
 
 If you're looking to start a community garden, contact your city office for guidelines and permitting questions. Do be aware, though, that community gardens require time, effort, and money to operate; so make sure that everyone interested in the project is aware of rules and regulations for planting, maintaining the garden, and harvesting. You may also need to petition appropriate non-profits and organizations for sponsorship; If granted, sponsorship usually requires your garden to display the organization's logo as well as an acknowledgement of their funding.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I grow herbs indoors year-round?
 
 Absolutely! And you don't even need a fancy hydroponic setup to do so. As long as you have a good, full-spectrum grow light for seedlings and to supplement low-intensity winter sunlight, consistent temperatures and humidity in your home -- and no pets that will eat your plants -- you'll be able to grow kitchen herbs and even some varieties of vegetables like tomatoes indoors year-round. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What plants are toxic to pets?
 
@@ -142,11 +170,27 @@ If you have dogs, you'll want to avoid planting these in your garden: chives and
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-facebook-cover-videos-essential-insights-for-2024/"><u>[New] Mastering Facebook Cover Videos Essential Insights for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premium-playlist-manager-for-android-users/"><u>[New] Premium Playlist Manager for Android Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screen-it-right-best-free-apps-for-mac-and-windows-recording/"><u>2024 Approved Screen It Right! Best Free Apps for Mac and Windows Recording</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhance-your-workspace-with-ergoheads-standing-desk-mat-an-extensive-review-of-endurance-and-ease/"><u>Enhance Your Workspace with Ergohead's Standing Desk Mat – An Extensive Review of Endurance & Ease</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mic-failures-tips-and-tricks-for-windows-11-users/"><u>Fixing Mic Failures: Tips and Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-silent-audio-fades/"><u>In 2024, Strategies for Silent Audio Fades</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installation-guide-epson-xp-400-printer-driver-complete-walkthrough/"><u>Installation Guide: Epson XP-400 Printer Driver - Complete Walkthrough</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-power-of-personal-branding-in-making-money-on-snapchat/"><u>The Power of Personal Branding in Making Money on Snapchat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-electronics-sale-exclusive-offers-on-beats-solo-headphones-djis-premium-quadcopter-drone-plus-immersive-bose-television-soundbars/"><u>Ultimate Electronics Sale: Exclusive Offers on Beats Solo Headphones, DJI's Premium Quadcopter Drone, Plus Immersive Bose Television Soundbars!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-the-ideal-bluetooth-speaker-in-2e24/"><u>Ultimate Guide to Choosing the Ideal Bluetooth Speaker in 2E24</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-a-thunderous-sound-discover-sonys-revolutionary-ult-lineup-for-superior-bass-quality-in-speakers-and-headsets/"><u>Unleash a Thunderous Sound: Discover Sony's Revolutionary ULT Lineup for Superior Bass Quality in Speakers and Headsets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-exclusive-discounts-on-gadgets-ankers-mini-power-bank-latest-google-pixel-timepiece-and-secure-your-home-with-blink-cameras/"><u>Unlock Exclusive Discounts on Gadgets: Anker's Mini Power Bank, Latest Google Pixel Timepiece, and Secure Your Home with Blink Cameras!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-full-potential-effortlessly-operate-windows-with-your-new-steam-deck-oled-device/"><u>Unlocking Full Potential: Effortlessly Operate Windows with Your New Steam Deck OLED Device</u></a></li>
+</ul></div>
+

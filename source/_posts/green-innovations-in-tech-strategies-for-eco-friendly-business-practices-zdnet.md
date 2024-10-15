@@ -1,7 +1,7 @@
 ---
 title: "Green Innovations in Tech: Strategies for Eco-Friendly Business Practices | ZDNet"
-date: 2024-09-19 14:19:24
-updated: 2024-09-20 12:29:54
+date: 2024-10-14T16:14:40.195Z
+updated: 2024-10-15T16:09:25.235Z
 tags:
   - sustainability
 categories:
@@ -22,6 +22,13 @@ Professionals are finally waking up to the importance of environmental action --
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 By 2026, 75% of organizations will increase business with IT vendors that have demonstrable sustainability goals and timelines and will seek to replace vendors that do not, [Gartner predicts](https://www.gartner.com/en/newsroom/press-releases/2023-01-31-gartner-predicts-70-percent-of-technology-sourcing-leaders-will-have-environmental-sustainability-aligned-performance-objectives-by-2026). Yet a desire to change direction is simply the starting point. So, how can organizations use technology to turn long-term ambitions for sustainability into practical steps forward? Here are a few ideas to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Create a prioritization framework
 
@@ -45,6 +52,13 @@ With the framework in place, split the work into manageable chunks. And if your 
 
 "But be realistic about the effort that it takes to deliver those commitments and split it into chunks, so the work doesn't become overwhelming. Otherwise, everything can become extremely costly."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deliver some tangible wins
 
 Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor racing involves cars zooming around a racetrack at high speeds, the cars account for less than 1% of the sport's overall carbon emissions footprint, with 40% accounted for by logistics and the movement of F1's teams around the world during the race season.
@@ -56,6 +70,13 @@ Zarah Al-Kudcy, head of commercial partnerships at Formula 1, says while motor r
 Al-Kudcy says leading from the front involves using digital technology -- and in F1's case, that means cutting emissions through remote operations and working to ensure it doesn't have to transport so many people or as much freight around the world. 
 
 "Over the past two years -- and COVID-19 was a big accelerator of this because we obviously needed to limit the number of people travelling around -- we ended up moving a lot of those broadcast processes to the cloud."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Produce long-term benefits
 
@@ -102,11 +123,30 @@ Briggs says any attempt to make sustainability work is a long-term game -- and t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-video-content-conundrum-youtubes-shorts-versus-tiktoks-the-decision/"><u>[New] Video Content Conundrum YouTubes Shorts Versus TikToks – The Decision</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-enhancing-tiktok-content-5-proven-caption-tactics-explored/"><u>[Updated] Enhancing TikTok Content 5 Proven Caption Tactics Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-cutting-edge-strategies-for-real-time-green-screen-applications/"><u>[Updated] In 2024, Cutting-Edge Strategies for Real-Time Green Screen Applications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamers-checklist-secure-video-ad-revenue/"><u>[Updated] Streamer's Checklist Secure Video Ad Revenue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-anticipated-launch-of-new-800-series-chipsets-compatible-with-ryzen-9000-cpus-numbering-matches-intel/"><u>AMD Anticipated Launch of New 800 Series Chipsets Compatible with Ryzen 9000 CPUs - Numbering Matches Intel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/blackwood-performance-improvements-on-the-elder-scrolls-online-server/"><u>Blackwood Performance Improvements on The Elder Scrolls Online Server</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862856303-discover-chinas-longsun-processor-motherboards-and-complete-systems-for-us-market-priced-at-a-low-of-just-373/"><u>Discover China's Longsun Processor Motherboards and Complete Systems for U.S Market, Priced at a Low of Just $373</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-12-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus 12?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-edit-like-a-pro-with-any-of-these-top-7-free-options/"><u>In 2024, Edit Like a Pro with Any of These Top 7 Free Options</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-se-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone SE without Security Questions?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-deep-sleep-with-asmr-strategies/"><u>Unlocking Deep Sleep with ASMR Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-latest-offerings-intels-arrow-lake-and-amd-ryzen-9000-motherboards-by-maxsun-an-array-of-31-models-across-five-unrevealed-chipset-platforms-al94/"><u>Unpacking the Latest Offerings: Intel's Arrow Lake & AMD Ryzen 9000 Motherboards by Maxsun - An Array of 31 Models Across Five Unrevealed Chipset Platforms, All Donning PCIe 800-Series Emblem</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-toms-hardware-analysis/"><u>Unveiling Cutting-Edge Gadgets: The Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-toms-gadget-analysis-a-deep-dive-into-hardware-reviews/"><u>Unveiling the Secrets of Tom's Gadget Analysis: A Deep Dive Into Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-amd-ryzen-9000-ready-800-series-motherboard-chipsets-how-numbers-align-with-intel-offerings/"><u>Upcoming AMD Ryzen 9000-Ready 800 Series Motherboard Chipsets: How Numbers Align With Intel Offerings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-source-for-in-depth-analysis-toms-hardware-reviews/"><u>Your Trusted Source for In-Depth Analysis: Tom's Hardware Reviews</u></a></li>
+</ul></div>
+

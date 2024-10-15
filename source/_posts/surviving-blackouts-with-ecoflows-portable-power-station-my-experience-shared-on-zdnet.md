@@ -1,7 +1,7 @@
 ---
 title: Surviving Blackouts with EcoFlow's Portable Power Station - My Experience Shared on ZDNET
-date: 2024-09-18 22:57:11
-updated: 2024-09-20 10:29:55
+date: 2024-10-12T16:23:03.860Z
+updated: 2024-10-15T16:08:01.487Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2c90a6c-1df5-4cdc-8604-71162189bff0%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce2c90a6c-1df5-4cdc-8604-71162189bff0%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,25 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-comparing-youtube-video-downloader-apps-on-android/"><u>[New] 2024 Approved Comparing YouTube Video Downloader Apps on Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-tiktok-beats-as-ringtones-practical-approach-for-mobile-users/"><u>[New] In 2024, TikTok Beats as Ringtones Practical Approach for Mobile Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv/"><u>2024 Approved Mastering the Edit A Comprehensive Look at Title & Description for IGTV</u></a></li>
+<li><a href="https://fox-info.techidaily.com/boost-engagement-with-clearly-marked-time-points-for-2024/"><u>Boost Engagement with Clearly Marked Time Points for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-mix-fold-3-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Mix Fold 3 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-lens-hacks-capturing-perfect-reflections-for-2024/"><u>IPhone Lens Hacks Capturing Perfect Reflections for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/metaverse-odyssey-cutting-edge-vr-headset-lineup/"><u>Metaverse Odyssey Cutting-Edge VR Headset Lineup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-tips-for-flipping-and-adjusting-video-orientation-on-an-android-phone/"><u>Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/recognizing-age-related-wear-and-tear-in-your-4-year-old-android-device/"><u>Recognizing Age-Related Wear and Tear in Your 4-Year-Old Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/say-goodbye-to-traditional-wallets-embracing-the-convenience-of-a-magnetic-phone-pouch/"><u>Say Goodbye to Traditional Wallets: Embracing the Convenience of a Magnetic Phone Pouch.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solve-these-prevalent-android-glitches-in-just-a-few-simple-steps/"><u>Solve These Prevalent Android Glitches in Just a Few Simple Steps!</u></a></li>
+</ul></div>
+

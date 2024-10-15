@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Progress: How to Meet Rising AI Energy Demands Sustainably | Expert Analysis by ZDNET"
-date: 2024-09-18 17:10:48
-updated: 2024-09-20 11:35:45
+date: 2024-10-10T16:05:38.911Z
+updated: 2024-10-15T16:01:46.954Z
 tags:
   - sustainability
 categories:
@@ -96,11 +96,38 @@ Asked about their biggest technology barriers to deployments, 35% point to stora
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-discover-top-asmr-for-iosandroid-devices/"><u>[New] 2024 Approved Discover Top ASMR for iOS/Android Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers/"><u>[New] Expert Tips to Correct Video Transmission Problem on Mobile Messengers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-yuneecs-bold-q500-a-new-era-of-vision/"><u>[New] In 2024, Yuneec's Bold Q500 A New Era of Vision</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pro-gif-designers-picks-online-vs-desktop-platforms/"><u>[Updated] Pro-Gif Designers' Picks Online vs Desktop Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-fighting-on-the-go-nintendos-best-switch-fighters/"><u>2024 Approved Fighting on the Go Nintendo's Best Switch Fighters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-best-aqara-smart-lock-option-an-experts-roadmap-to-making-the-choice-that-suits-you/"><u>Decoding the Best Aqara Smart Lock Option: An Expert's Roadmap to Making the Choice That Suits You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-tricks-of-finding-vanished-airtags-and-invisible-bluetooth-tracks-easily/"><u>Discovering the Tricks of Finding Vanished Airtags & Invisible Bluetooth Tracks Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-the-how-to-geek-guide-to-thoroughly-assessing-tech-gadgets/"><u>Expert Evaluation: The How-To Geek Guide to Thoroughly Assessing Tech Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/first-glance-at-the-sonos-roam-2-opening-exploration-and-early-reactions/"><u>First Glance at the Sonos Roam 2: Opening, Exploration, and Early Reactions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-qualcomms-snapdragon-x-challenges-the-dominance-of-apple-silicon-in-processor-performance/"><u>How Qualcomm's Snapdragon X Challenges the Dominance of Apple Silicon in Processor Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-phantom-v-fold-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Phantom V Fold.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo Reno 10 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a56s-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A56s 5G Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-chipolo-one-trustworthy-and-effective-bluetooth-monitoring-gadget/"><u>In-Depth Review of the Chipolo One: Trustworthy and Effective Bluetooth Monitoring Gadget</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-amd-ryzen-9000-lineup-high-performance-cpus-now-ready-for-purchase/"><u>Introducing AMD Ryzen 9000 Lineup: High-Performance CPUs Now Ready for Purchase!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-spotify-poised-to-take-over-in-vehicle-entertainment-systems/"><u>Is Spotify Poised to Take Over in Vehicle Entertainment Systems?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-video-editing-on-windows-10-for-2024/"><u>New The Ultimate Guide to Video Editing on Windows 10 for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

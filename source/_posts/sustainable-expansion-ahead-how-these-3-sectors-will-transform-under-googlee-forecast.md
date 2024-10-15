@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Expansion Ahead: How These 3 Sectors Will Transform Under Google'e Forecast"
-date: 2024-09-18 14:18:12
-updated: 2024-09-20 12:33:57
+date: 2024-10-12T16:05:51.601Z
+updated: 2024-10-15T16:09:59.131Z
 tags:
   - sustainability
 categories:
@@ -31,6 +31,13 @@ Equipped with the right data, Keeble said, some of the industries best poised to
 Consumer products is an obvious place to start, Keeble explained: Each step in the production process and in the supply chain is a step where a company could reduce its carbon footprint. [Unilever](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.unilever.com%2Fnews%2Fnews-search%2F2020%2Fhow-google-will-help-end-deforestation-in-our-supply-chain%2F&data=04%7C01%7Cstephanie.condon%40zdnet.com%7C66347fc3184d4d94f9df08d9eda2e49f%7C4289d6102cfd46218c9644a1518ddb0a%7C0%7C0%7C637802106147497302%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=FODqqU7p7p33ToEa6yUe3uNiL%2FZ8zj%2BUM1sMMGknPc4%3D&reserved=0), for instance, has used Google Cloud to capture satellite images of the ecosystems connected to the raw materials it sources from around the world. It's using that data to build more sustainable supply chains.
 
 **Also: [Google shares the agenda for its 2022 Games Developer Summit](https://www.zdnet.com/article/google-shares-the-agenda-for-its-2022-games-developer-summit/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -72,11 +79,27 @@ Prior to joining Google, Keeble worked at Accenture for 14 years as a founding m
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-bridging-story-and-sound-scriptwriting-for-visual-media/"><u>[New] In 2024, Bridging Story and Sound Scriptwriting for Visual Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>[Updated] 2024 Approved Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-versatile-intro-editing-app-for-your-device-repertoire/"><u>[Updated] 2024 Approved Versatile Intro Editing App for Your Device Repertoire</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-text-messaging-automation-techniques-for-ios-smartphone-enthusiasts/"><u>Effective Text Messaging Automation Techniques for iOS Smartphone Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-gear-with-toms-hardware-reviews/"><u>Exploring Computing Gear with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-tom-your-one-stop-resource/"><u>Exploring Hardware Innovations with Tom - Your One-Stop Resource</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/free-windows-11-migration-clone-software-transfer-data-and-incorporating-power-words-such-as-top-tools-and-expert-guide/"><u>Free, Windows 11, Migration, Clone Software, Transfer, Data, and Incorporating Power Words Such as Top Tools and Expert Guide.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovations-in-computing-insights-from-toms-hardware-experts/"><u>Innovations in Computing - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-cutting-edge-technology-by-toms-experts/"><u>Inside Look at Cutting-Edge Technology by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-tips-tricks-and-reviews-by-toms-hardware-experts/"><u>Mastering Modern Electronics: Tips, Tricks & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/technique-for-anonymous-footage-via-image-smoothing/"><u>Technique for Anonymous Footage via Image Smoothing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-show-reviewed-detailed-analysis-of-the-2024-edition/"><u>Video Show Reviewed Detailed Analysis of the 2024 Edition</u></a></li>
+</ul></div>
+

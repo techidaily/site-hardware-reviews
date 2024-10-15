@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Right to Fix Your Tech: The Essentials of Self-Repair Laws | KnowTechie"
-date: 2024-09-19 12:37:32
-updated: 2024-09-20 10:43:25
+date: 2024-10-08T16:08:09.840Z
+updated: 2024-10-15T16:06:15.352Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,19 @@ Image: Thanasis/Getty Images
 ## What is right to repair trying to solve?  
 
 When devices like phones, tablets and laptops are damaged or break down, it can often be very complicated and costly to get them fixed. It can mean going through a particular supplier nominated by the manufacturer, and often the fix is so expensive that it's easier to simply buy a new device. Fixing it yourself is nearly impossible because spare parts are very hard to come by -- as are the manuals and tools needed to fix even the simplest of problems -- or the components are glued in place.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -43,6 +56,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which states have right to repair laws?
 
 As seen on the map below, only two states have actually passed a right to repair law -- New York and Colorado. Each state's laws and protections are slightly different. 
@@ -63,11 +83,25 @@ The modified, passed bill reads: "This agreement eliminates the bill's original 
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How can I benefit from right to repair?
 
 In addition to the positive effects that the legislation has on the environment, right to repair laws ultimately will save individuals money. Often, repairs at the OEM can be costly and inconvenient, since you need to seek out a service provider. 
 
 With options to repair a product yourself or bring it to a third party, you can compare different servicing fees and locations -- and ultimately pick the one that is best for you. The ability to fix your device at your own convenience should also make you more confident about getting your device repaired in the first place and hopefully extend its life. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the arguments against right to repair?
 
@@ -110,11 +144,23 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/lite-gamers-showcase-premium-setups-unveiled/"><u>[New] Elite Gamers' Showcase – Premium Setups Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photoshop-for-beginners-top-editing-hacks-revealed/"><u>[New] Photoshop For Beginners Top Editing Hacks Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-1100w-cooler-master-passive-psu-silent-performance-and-stable-output/"><u>Efficient 1100W Cooler Master Passive PSU: Silent Performance & Stable Output</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newest-rtx-2080-graphics-card-drivers-for-windows-users-win11-7-and-older-systems-supported/"><u>Newest RTX 2080 Graphics Card Drivers for Windows Users: Win11, 7 & Older Systems Supported</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streaming-with-flair-xbox-one-edition/"><u>Streaming with Flair Xbox One Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-creating-impactful-ae-titles/"><u>The Art of Creating Impactful AE Titles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-latest-in-computing-expert-analysis-by-toms-storehouse-of-knowledge/"><u>Uncovering the Latest in Computing - Expert Analysis by Tom's Storehouse of Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-tech-discover-in-depth-reviews-at-toms-comprehensive-hardware-guide/"><u>Unleashing the Power of Tech: Discover In-Depth Reviews at Tom’s Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgraded-performance-and-sturdiness-discover-cooler-masters-reinforced-psu-with-innovative-1nvhpwr-connectors-for-superior-gaming-rigs/"><u>Upgraded Performance & Sturdiness: Discover Cooler Master's Reinforced PSU with Innovative 1nVHPWR Connectors for Superior Gaming Rigs</u></a></li>
+</ul></div>
+

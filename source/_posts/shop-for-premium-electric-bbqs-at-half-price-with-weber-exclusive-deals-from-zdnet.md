@@ -1,7 +1,7 @@
 ---
 title: Shop for Premium Electric BBQs at Half Price with Weber - Exclusive Deals From ZDNET
-date: 2024-09-17 21:39:22
-updated: 2024-09-20 11:43:36
+date: 2024-10-11T16:00:00.613Z
+updated: 2024-10-15T16:21:13.683Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,26 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-complete-introduction-to-advanced-features-in-final-cut-pro/"><u>[Updated] 2024 Approved A Complete Introduction to Advanced Features in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-simple-guide-transforming-fb-videos-into-720p1080p-mp4-format-free/"><u>[Updated] In 2024, Simple Guide Transforming FB Videos Into 720P/1080p MP4 Format (Free)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-steps-for-crafting-visually-stimulating-fb-ad-content/"><u>[Updated] In 2024, Steps for Crafting Visually Stimulating FB Ad Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/crafting-excellence-essential-tips-for-ginger-island-life/"><u>Crafting Excellence Essential Tips for Ginger Island Life</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-syncing-platforms-for-video-upload/"><u>In 2024, Syncing Platforms for Video Upload</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-concentration-a-guide-to-activating-focus-mode-on-your-android-device/"><u>Mastering Concentration: A Guide to Activating Focus Mode on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-photography-transforming-your-android-device-into-a-professional-web-camera/"><u>Mastering Mobile Photography: Transforming Your Android Device Into a Professional Web Camera</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-11-budget-friendly-audio-enhancement-software-options-for-your-pc-and-mac/"><u>New In 2024, Top 11 Budget-Friendly Audio Enhancement Software Options for Your PC and Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nostalgic-entertainment-discover-the-best-films-from-the-iconic-1980s-era/"><u>Nostalgic Entertainment: Discover the Best Films From the Iconic 1980S Era</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/permanently-switched-on-why-i-chose-dark-mode-for-good/"><u>Permanently Switched On: Why I Chose Dark Mode for Good</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-charging-with-a-twist-the-mophie-battery-includes-an-additional-ac-connection-for-versatile-use/"><u>Portable Charging with a Twist: The Mophie Battery Includes an Additional AC Connection for Versatile Use</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-samsung-galaxy-f54-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy F54 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+</ul></div>
+

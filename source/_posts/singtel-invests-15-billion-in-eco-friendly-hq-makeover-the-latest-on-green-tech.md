@@ -1,7 +1,7 @@
 ---
 title: Singtel Invests $1.5 Billion in Eco-Friendly HQ Makeover - The Latest on Green Tech
-date: 2024-09-18 10:28:30
-updated: 2024-09-20 11:10:54
+date: 2024-10-09T16:16:20.586Z
+updated: 2024-10-15T16:07:53.338Z
 tags:
   - sustainability
 categories:
@@ -43,6 +43,13 @@ In a separate announcement Tuesday, Singtel launched a new orchestration platfor
 
 "Many enterprises are undergoing rapid digitalisation while exploring and developing tailored 5G solutions for deployment in their industries," said Singtel's enterprise group CEO Bill Chang. "We understand the challenges and complexities they face in managing the various networks, edge cloud applications, and services with the required cybersecurity, resiliency, and demanding service assurances required, cost-effectively. Paragon was conceived, developed, and delivered to help enterprises meet these needs through a single platform."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### RELATED COVERAGE
 
 * [Singtel unveils 5G network 'in a box' to run on-site customer trials](https://www.zdnet.com/article/singtel-unveils-5g-network-in-a-box-to-run-on-site-customer-trials/)
@@ -58,11 +65,24 @@ In a separate announcement Tuesday, Singtel launched a new orchestration platfor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-soft-melodies-pcos-guide/"><u>2024 Approved Mastering Soft Melodies PC/OS Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transformative-tools-unveiling-top-6-nft-platforms-for-artists/"><u>2024 Approved Transformative Tools Unveiling Top 6 NFT Platforms For Artists</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-13-proplus-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 13 Pro+ 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-huawei-nova-y91-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Huawei Nova Y91 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-expert-advice-on-tech-equipment-with-tom/"><u>Inside the Circuitry: Expert Advice on Tech Equipment with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-announces-termination-of-200-series-optane-memory-dimms-final-shipments-slated-for-end-of-2025/"><u>Intel Announces Termination of 200-Series Optane Memory DIMMs; Final Shipments Slated for End of 2025</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxias-cutting-edge-optical-ssds-deliver-blistering-speeds-and-unprecedented-distance-capabilities-up-to-40-meters-away-from-the-processor/"><u>Kioxia's Cutting-Edge Optical SSDs Deliver Blistering Speeds and Unprecedented Distance Capabilities: Up to 40 Meters Away From the Processor</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/loongsons-cutting-edge-chip-a-competitive-match-to-intels-16-core-ice-lake-processor/"><u>Loongson's Cutting-Edge Chip: A Competitive Match to Intel’s 16-Core Ice Lake Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-into-advanced-technology/"><u>Navigating the World of Gadgets with Tom - Insights Into Advanced Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-to-rectifying-windows-registry-problems/"><u>Secrets to Rectifying Windows Registry Problems</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Eco-Friendly Techniques for Cost-Effective Gadget Usage: A Guide by ZDNet"
-date: 2024-09-18 18:43:29
-updated: 2024-09-20 10:11:29
+date: 2024-10-09T16:10:54.257Z
+updated: 2024-10-15T16:03:19.462Z
 tags:
   - sustainability
 categories:
@@ -26,6 +26,13 @@ Sure, you can reduce, reuse, and recycle all you want, but when it comes to our 
 The idea of sustainability is broad, but experts recommend looking at not only what tech products you buy, but how you use your devices can make even a little impact on being more "green" with technology.
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Take stock of your own sustainability and look at your lifestyle
 
@@ -101,7 +108,21 @@ Plenty of companies have made net-zero pledges, so investigate a specific compan
 
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utilize smart home automations
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Innovation
 
@@ -119,6 +140,13 @@ Image: Amazon
 Since heating and cooling are responsible for [almost 50%](https://www.energy.gov/public-services/homes/heating-cooling) of energy use in an average US home, smart home products can help you consume less energy while saving cash on your bill. 
 
 Look into intuitive smart thermostats like Nest or Ecobee with voice-control features and ambient temperature sensors. In addition, [Neurio](https://elemental.green/neurio-smart-energy-monitor/) is a smart energy monitor that gives you real-time monitoring to see where energy is being used in your house, track your appliance use, and compare your home energy use to others. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't upgrade if you don't have to
 
@@ -151,11 +179,24 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-secrets-of-the-12-restoring-hidden-videos-posted-on-facebook/"><u>[New] In 2024, Secrets of the 12 Restoring Hidden Videos Posted on Facebook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-highlight-the-next-chapter-of-our-podcast-series/"><u>2024 Approved Highlight the Next Chapter of Our Podcast Series</u></a></li>
+<li><a href="https://win11.techidaily.com/is-windows-scrolling-by-itself-heres-how-to-fix-it/"><u>Is Windows Scrolling By Itself? Here's How to Fix It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/making-the-smart-choice-prioritizing-a-timeless-mobile-device-over-a-novelty-computer-accessory/"><u>Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-list-of-video-maker-apps-with-music-for-mobile-devices/"><u>New The Ultimate List of Video Maker Apps with Music for Mobile Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/resolving-no-permissions-errors-for-activating-voice-input-on-gboard/"><u>Resolving 'No Permissions' Errors for Activating Voice Input on Gboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/simultaneous-multi-device-setup-a-step-by-step-guide-to-installing-android-apps-on-all-your-gadgets/"><u>Simultaneous Multi-Device Setup: A Step-by-Step Guide to Installing Android Apps on All Your Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solving-connectivity-woes-understanding-why-your-smartphone-keeps-losing-wi-fi-connection/"><u>Solving Connectivity Woes: Understanding Why Your Smartphone Keeps Losing Wi-Fi Connection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-artistic-expression-in-the-age-of-ai-writing-assistants/"><u>The Evolution of Artistic Expression in the Age of AI Writing Assistants</u></a></li>
+</ul></div>
+

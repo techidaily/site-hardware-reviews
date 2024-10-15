@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Innovation: Mushroom Biochips as a Renewable Power Source for Electronics & Environmental Preservation | EcoTechSpectrum"
-date: 2024-09-17 14:24:14
-updated: 2024-09-20 12:32:13
+date: 2024-10-12T16:18:24.516Z
+updated: 2024-10-15T16:11:01.541Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-enhancing-engagement-the-top-20-best-tiktok-caption-approaches-for-2024/"><u>[New] Enhancing Engagement The Top 20 Best TikTok Caption Approaches for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-office-seat-style/"><u>Game on, Office Seat Style</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-epic-gaming-recorded-an-analysis/"><u>In 2024, Epic Gaming Recorded An Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insta360-x4-camera-analysis-high-quality-shots-at-premium-pricing/"><u>In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-kobo-libra-ebook-reader-analysis-outstanding-features-beyond-the-multicolor-screen/"><u>In-Depth Kobo Libra Ebook Reader Analysis: Outstanding Features Beyond the Multicolor Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/laptop-and-desktop-reimagined-with-the-introduction-of-amds-revolutionary-zen/"><u>Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-and-asus-team-up-with-meta-for-cutting-edge-horizon-os-vr-gear/"><u>Lenovo & Asus Team Up with Meta for Cutting-Edge Horizon OS VR Gear</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-scholarship-savings-your-pathway-to-claiming-the-tidal-university-reduction/"><u>Navigating Scholarship Savings: Your Pathway to Claiming the Tidal University Reduction</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-mac-video-metadata-mastery-8-essential-editor-tools-for-2024/"><u>New Mac Video Metadata Mastery 8 Essential Editor Tools for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-tutorial-effortless-installation-of-enzo-addons-into-your-kodi-platform-leia-and-krypton-versions-included/"><u>Ultimate Tutorial: Effortless Installation of Enzo Addons Into Your Kodi Platform – Leia & Krypton Versions Included</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus 11R | Dr.fone</u></a></li>
+</ul></div>
+

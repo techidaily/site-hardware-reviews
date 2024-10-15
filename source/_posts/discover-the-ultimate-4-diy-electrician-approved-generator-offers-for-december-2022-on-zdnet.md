@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate 4 DIY Electrician-Approved Generator Offers for December 2022 on ZDNet
-date: 2024-09-18 12:35:35
-updated: 2024-09-20 10:18:21
+date: 2024-10-12T16:17:51.032Z
+updated: 2024-10-15T16:00:13.534Z
 tags:
   - sustainability
 categories:
@@ -20,6 +20,13 @@ Power outages from extreme weather is a year-round threat, but with a portable g
 And when you get your generator, remember to never use a gas or liquid propane-powered engine indoors and never plug a generator into your home's electrical system without first installing a transfer switch to prevent fires and other electrical damage. I've combed the web to find the best deals on portable generators, so you can save a little money while prepping for extreme weather situations.
 
 **Also:** [**Best portable power station: Emergency power when you need it**](https://www.zdnet.com/article/best-portable-power-station/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **The best generator deals: November/December 2022**
 
@@ -75,6 +82,13 @@ It also features a fuel switch so you can flip between gas and propane as needed
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDuroMax-XP13000EH-13-000-Watt-500cc-Portable-Hybrid-Gas-Propane-Generator%2F192013905%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
 
 ## What kind of generator is best for home use?
@@ -83,11 +97,25 @@ If you're looking to set up your house to go off-grid and be entirely self-suffi
 
 If you want to make sure you have electricity for at-home medical equipment and appliances during a weather emergency, a portable or inverter generator is your best option. If you do opt for a portable or inverter generator, you'll need to make sure you get one with more than enough wattage to run everything. Lowe's has a [handy worksheet](https://www.lowes.com/pdf/portable%5Fgenerator%5Fwattage%5Fchart.pdf) available, so you won't accidentally burn up your fridge.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do you hook a generator to your house?
 
 Home standby generators require licensed technicians to properly install. And even portable generators need proper preparation before you can attempt to power your whole house with one. You should never plug a portable generator directly into your home's electrical system without first having a technician install a transfer switch. 
 
 Without a transfer switch, you could overload your home's wiring, causing fires, short-outs, and all kinds of other damage. If you intend to use a portable or inverter generator to run just a few appliances, make sure to read the operating manual thoroughly before plugging anything in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long do generators last?
 
@@ -116,11 +144,28 @@ Home standby generators are much more robust, having lifetimes upwards of 40 yea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-download-free-mcb-skin-designs/"><u>[Updated] Download Free MCB Skin Designs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-journey-into-professional-gopro-editing/"><u>2024 Approved A Step-by-Step Journey Into Professional GoPro Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>2024 Approved The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertise-in-equipment-discover-comprehensive-tips-from-toms-hardware-experts/"><u>Expertise in Equipment: Discover Comprehensive Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-equipment-review/"><u>Exploring Digital Innovations with Tom's Equipment Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harness-the-power-of-speech-to-text-in-google-documents/"><u>Harness the Power of Speech-to-Text in Google Documents</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-keep-your-content-clout-authentic-resist-the-like-lie-in/"><u>In 2024, Keep Your Content Clout Authentic Resist the Like Lie-In</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964507389-pineboards-innovative-combo-package-features-raspberry-pi-enhanced-with-neural-processing-unit-and-m2-nvme-storage-now-available/"><u>Pineboards' Innovative Combo Package Features Raspberry Pi Enhanced with Neural Processing Unit and M.2 NVMe Storage - Now Available</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-release-huawei-and-orange-pi-unveil-innovative-development-board-featuring-enigmatic-cpu-and-advanced-ai-processor-outmaneuvering-curious-onlo33/"><u>Revolutionary Release: Huawei & Orange Pi Unveil Innovative Development Board Featuring Enigmatic CPU & Advanced AI Processor, Outmaneuvering Curious Onlookers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/securing-your-gaming-victories-through-fbx/"><u>Securing Your Gaming Victories Through FBX</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2020-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-truth-about-amazon-luna-is-it-the-ultimate-in-effortless-gaming-experience/"><u>The Truth About Amazon Luna: Is It the Ultimate in Effortless Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-deeper-dive-into-hardware/"><u>Tom's Tech Insights: A Deeper Dive Into Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-on-the-latest-computer-components/"><u>Tom's Tech: Insights on the Latest Computer Components</u></a></li>
+</ul></div>
+

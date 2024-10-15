@@ -1,7 +1,7 @@
 ---
 title: Score a $50 Discount on Top-Rated Weber Electric Grills Now at ZDNet Stores
-date: 2024-09-19 13:56:36
-updated: 2024-09-20 12:17:45
+date: 2024-10-10T16:22:22.617Z
+updated: 2024-10-15T16:13:40.234Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,33 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-create-awesome-instagram-videos-templates-and-tips/"><u>[New] In 2024, How To Create Awesome Instagram Videos [Templates & Tips]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-sharpsight-screen-snag-report/"><u>[New] In 2024, SharpSight Screen Snag Report</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-5-mobile-photo-editing-iphone-x87-background-switch/"><u>[New] Ultimate 5 Mobile Photo Editing IPhone X/8/7 Background Switch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-youtube-livestream-game-plan/"><u>[Updated] 2024 Approved Elevate Your YouTube Livestream Game Plan</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-enhancing-productivity-the-benefits-of-using-a-dual-monitor-setup-over-a-single-ultrawide/"><u>1. Enhancing Productivity: The Benefits of Using a Dual-Monitor Setup Over a Single UltraWide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/artificial-intelligence-boosting-computer-performance-next-gen-spec-leap/"><u>Artificial Intelligence Boosting Computer Performance: Next-Gen Spec Leap</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-bargains-on-technology-featuring-amazon-firestick-anker-portable-charger-and-dji-quadcopter-among-others/"><u>Best Bargains on Technology: Featuring Amazon Firestick, Anker Portable Charger & DJI Quadcopter Among Others</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-edge-40-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Edge 40 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-amd-cryptocurrency-miner-drivers-for-windows-pcs/"><u>Download & Install AMD Cryptocurrency Miner Drivers for Windows PCs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unraveling-the-magic-of-mixed-reality/"><u>In 2024, Unraveling the Magic of Mixed Reality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-blizzard-battlenet-experiencing-a-glitch-distinguishing-between-outages-and-individual-connectivity-troubles/"><u>Is Blizzard Battle.net Experiencing a Glitch? Distinguishing Between Outages and Individual Connectivity Troubles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook-for-2024/"><u>Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-origins-of-enigmatic-tech-phrases-demonstrations-and-digital-eulogy/"><u>Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-the-power-of-slow-mo-top-10-video-players-for-2024/"><u>Updated Unleash the Power of Slow Mo Top 10 Video Players for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-classic-clamshell-computer-design-remains-forever-popular/"><u>Why the Classic Clamshell Computer Design Remains Forever Popular</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
+</ul></div>
+

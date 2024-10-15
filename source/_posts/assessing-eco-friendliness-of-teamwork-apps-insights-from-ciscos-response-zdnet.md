@@ -1,7 +1,7 @@
 ---
 title: Assessing Eco-Friendliness of Teamwork Apps - Insights From Cisco's Response | ZDNet
-date: 2024-09-19 18:43:54
-updated: 2024-09-20 10:58:39
+date: 2024-10-08T16:07:50.140Z
+updated: 2024-10-15T16:11:06.777Z
 tags:
   - sustainability
 categories:
@@ -72,11 +72,34 @@ Cisco also plans to help customers track the emissions they're producing when th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-elevate-your-twitter-presence-essential-unfollowing-apps-guide/"><u>[New] In 2024, Elevate Your Twitter Presence Essential Unfollowing Apps Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-downloading-and-mastering-ez-grabber/"><u>[New] The Ultimate Guide to Downloading & Mastering EZ Grabber</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iphones-premier-video-tools-pick-cameo-over-filmorago/"><u>[Updated] 2024 Approved IPhone's Premier Video Tools Pick Cameo Over FilmoraGo?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-corsair-hx1000i-psu-an-in-depth-performance-review/"><u>Comprehensive Analysis of the Corsair HX1000i PSU: An In-Depth Performance Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-hardware-by-toms-tech-hub-reliable-and-informed-reviews/"><u>Expert Insights Into Hardware by Tom's Tech Hub - Reliable and Informed Reviews</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-range-virtual-sphere-review-for-2024/"><u>Full Range Virtual Sphere Review for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-install-hp-thunderbolt-dock-g2-drivers-compatible-for-120w230w-models/"><u>How to Download and Install HP Thunderbolt Dock G2 Drivers - Compatible for 120W/230W Models</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-microsoft-xbox-one-elite-series-2-a-legendary-gamepad-experience/"><u>In-Depth Look at Microsoft Xbox One Elite Series 2 - A Legendary Gamepad Experience</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mastering-your-wireless-needs-an-expert-take-on-the-revolutionary-google-wifi-technology/"><u>Mastering Your Wireless Needs - An Expert Take on the Revolutionary Google Wifi Technology</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-engagement-with-quality-images-and-videos-on-fb/"><u>Maximizing Engagement with Quality Images & Videos on FB</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-performance-benchmarks/"><u>Tom's Tech Review: In-Depth Analysis and Performance Benchmarks</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Experience the Best in TV: Get 1500%% Off Samsung's Premium S95C OLED as Featured on ZDNet"
-date: 2024-10-02T02:22:04.075Z
-updated: 2024-10-09T02:13:13.482Z
+date: 2024-10-11T16:11:38.539Z
+updated: 2024-10-15T16:10:43.882Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,21 +105,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-pocket-sized-pop-understanding-the-dynamics-of-short-form-tunes/"><u>[New] 2024 Approved Pocket-Sized Pop Understanding the Dynamics of Short Form Tunes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-a-blueprint-for-boosting-business-results-with-better-offices/"><u>[Updated] 2024 Approved A Blueprint for Boosting Business Results with Better Offices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-perfecting-iphones-audio-captures/"><u>[Updated] Step-by-Step Perfecting iPhone's Audio Captures</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/assessing-the-lofree-edge-a-lightweight-thin-choice-comparatively-priced-against-the-apple-magic-keyboard/"><u>Assessing the Lofree Edge: A Lightweight, Thin Choice - Comparatively Priced Against the Apple Magic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341755981-cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ver-why-av1-is-a-game-changer-for-youtube-viewers-for-2024/"><u>Discover Why AV1 Is a Game Changer for YouTube Viewers for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-and-buying-guides-for-all-things-electronics-toms-hardware/"><u>Expert Analysis & Buying Guides for All Things Electronics - Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-a-comprehensive-guide/"><u>Exploring Technology with Tom: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-asus-bt50-bluetooth-driver-downloads-for-windows-users-win11-win10-and-win8/"><u>Latest Asus BT50# Bluetooth Driver Downloads for Windows Users (Win11, Win10 & Win8)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715701235566-maximizing-ipad-audio-record-best-tips/"><u>Maximizing iPad Audio Record Best Tips!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware-analysis/"><u>Navigating the World of PC Gear: Insights From Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-flsun-s1-high-speed-performance-in-a-quirky-design/"><u>Review of FLSun S1: High-Speed Performance in a Quirky Design</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sb210-soundbot-evaluation-exceptional-audio-performance-in-peak-condition/"><u>SB210 Soundbot Evaluation: Exceptional Audio Performance in Peak Condition</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-30-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 30 5G Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341743549-wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-depth-examination-hero4-black-innovation/"><u>[New] In-Depth Examination Hero4 Black Innovation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-creative-trail-steps-towards-thriving-as-a-designer/"><u>[Updated] 2024 Approved The Creative Trail Steps Towards Thriving as a Designer</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-effective-strategies-for-safeguarding-your-data-sql-server-management-studios-top-4-database-backup-techniques/"><u>1. Effective Strategies for Safeguarding Your Data: SQL Server Management Studio's Top 4 Database Backup Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-photo-pace-crafting-time-lapse-videos-on-your-galaxy-phone/"><u>2024 Approved Photo Pace Crafting Time-Lapse Videos on Your Galaxy Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-asrock-b7e60m-pro-rs-review-robust-m2-capacity/"><u>Budget-Friendly ASRock B7e60M Pro RS Review: Robust M.2 Capacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-examination-of-the-cost-effective-nuphy-halo75-v2-the-ideal-mechanical-keyboard-for-gamers/"><u>Detailed Examination of the Cost-Effective Nuphy Halo75 V2 - The Ideal Mechanical Keyboard for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-computer-components-by-toms-hardware-hub/"><u>Expert Insights on Computer Components by Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-connected-televisions-and-web-capabilities/"><u>Exploring the World of Connected Televisions and Web Capabilities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-subtitle-mastery-selecting-the-top-10-online-apps-for-2024/"><u>Free Subtitle Mastery Selecting the Top 10 Online Apps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-western-digital-4tb-wd-blue-sn5000-the-new-era-for-large-capacity-ssds/"><u>In-Depth Look at the Western Digital 4TB WD Blue SN5000 - The New Era for Large Capacity SSDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-affordable-and-effective-fx360-pro-from-id-cooling/"><u>In-Depth Review of the Affordable and Effective FX360 Pro From ID-Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-tech-in-depth-guides-from-toms-system-solutions/"><u>Inside the World of Tech: In-Depth Guides From Tom's System Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/set-the-mood-music-for-whatsapp-status-for-2024/"><u>Set the Mood Music for WhatsApp Status for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676192-toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review - Expert Insights on Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-anticipated-ios-18-innovations-revealed-at-wwdc-2024-featuring-groundbreaking-ai-enhancements-discover-more-on-zdnet/"><u>Top 5 Anticipated iOS 18 Innovations Revealed at WWDC 2024, Featuring Groundbreaking AI Enhancements - Discover More on ZDNet!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/why-walmart-offers-the-best-deal-on-apples-m1-macbook-air-compared-to-competitors/"><u>Why Walmart Offers the Best Deal on Apple's M1 MacBook Air Compared to Competitors</u></a></li>
 </ul></div>
 

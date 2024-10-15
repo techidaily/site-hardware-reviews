@@ -1,7 +1,7 @@
 ---
 title: The Giant Eco-Crisis in the Apple Industry Unveiled | ZDNet Exclusive
-date: 2024-09-18 16:16:39
-updated: 2024-09-20 10:51:26
+date: 2024-10-11T16:19:44.204Z
+updated: 2024-10-15T16:05:43.896Z
 tags:
   - sustainability
 categories:
@@ -110,11 +110,40 @@ Apple has become good at making iPhones. It now needs to become good at unmaking
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-identifying-the-most-fitting-vimeo-membership-level/"><u>[Updated] 2024 Approved Identifying the Most Fitting Vimeo Membership Level</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-aspers-secrets-soundscapes-that-lull-you-to-sleep-for-2024/"><u>[Updated] Asper's Secrets Soundscapes That Lull You to Sleep for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-essential-guidelines-for-securely-moving-your-tower-computer/"><u>1. Essential Guidelines for Securely Moving Your Tower Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-exclusive-tech-bargains-snag-amazons-fire-tv-and-ecoflow-at-discounted-prices-plus-top-picks/"><u>1. Exclusive Tech Bargains: Snag Amazon's Fire TV & EcoFlow at Discounted Prices - Plus Top Picks!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028728689-audacity/"><u>一括で複数音声をAudacityで正規化するチュートリアル</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/boost-your-pc-editing-game-with-inshot-techniques/"><u>Boost Your PC Editing Game with Inshot Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-on-rectifying-stuttering-glitches-in-gearbox-softwares-borderlands-3/"><u>Comprehensive Guide on Rectifying Stuttering Glitches in Gearbox Software's Borderlands 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-holiday-gift-get-your-own-merry-christmas-with-factory-pro-ipod-video-converter-30/"><u>Free Holiday Gift: Get Your Own Merry Christmas with Factory Pro iPod Video Converter 3.0!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reset-another-users-password-securely-on-a-windows-computer/"><u>How to Reset Another User's Password Securely on a Windows Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-now-with-these-6-troubleshooting-steps/"><u>Speed Up Your iPhone Now with These 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-stopping-non-scrolling-wheel-woes/"><u>The Ultimate Guide to Stopping Non-Scrolling Wheel Woes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-nomad-stand-one-max-opulent-triple-duty-mobile-charger-and-phone-holder-unveiled/"><u>Ultimate Guide to the Nomad Stand One Max: Opulent Triple Duty Mobile Charger and Phone Holder Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-oculus-device-malfunctions/"><u>Ultimate Guide: Resolving Oculus Device Malfunctions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-ecovacs-deal-alert-top-of-the-line-deebots-and-winbots-now-at-50-off-for-a-limited-time-on-prime-day/"><u>Unbeatable ECOVACS Deal Alert: Top-of-the-Line Deebots and Winbots Now at 50% Off for a Limited Time on Prime Day!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unexpected-lithium-aa-battery-drainage-causes-and-proactive-solutions/"><u>Unexpected Lithium-AA Battery Drainage: Causes and Proactive Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-creativity-with-the-lenovo-chromebox-micro-the-perfect-device-for-hobbyists-and-makers/"><u>Unleash Creativity with the Lenovo Chromebox Micro – The Perfect Device for Hobbyists & Makers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-alienwares-new-high-def-and-ultra-hd-gaming-display/"><u>Unveiling Alienware's New High-Def and Ultra HD Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-invest-in-luxury-understanding-costs-of-the-new-model-g-two-section-charcoal-griller/"><u>Why Invest in Luxury? Understanding Costs of the New Model G Two-Section Charcoal Griller</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-paddle-controllers-enhance-my-gaming-experience-an-insider-look/"><u>Why Paddle Controllers Enhance My Gaming Experience - An Insider Look</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

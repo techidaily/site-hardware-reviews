@@ -1,7 +1,7 @@
 ---
 title: Get a Steal with Weber's Premier Electric Grills at $50 Savings - Discovered by ZDNET
-date: 2024-09-18 12:30:48
-updated: 2024-09-20 12:16:36
+date: 2024-10-14T16:18:56.579Z
+updated: 2024-10-15T16:11:21.477Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,13 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +99,28 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-can-instant-subscription-lead-to-higher-watch-time-in-2024/"><u>[New] Can Instant Subscription Lead to Higher Watch Time, In 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[New] How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-flat-to-fierce-transformative-color-workflows-for-2024/"><u>[Updated] From Flat to Fierce Transformative Color Workflows for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-decoding-youtubes-legal-framework-for-video-creators/"><u>[Updated] In 2024, Decoding YouTube's Legal Framework for Video Creators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/encountered-facial-recognition-glitches-try-these-14-fixes-for-a-smooth-iphone-face-id-experience/"><u>Encountered Facial Recognition Glitches? Try These 14 Fixes for a Smooth iPhone Face ID Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-places-to-step-into-new-realities-for-2024/"><u>Ideal Places to Step Into New Realities for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/impending-price-surges-for-essential-computer-components-how-industry-wide-output-limits-affect-dram-and-nand-costs/"><u>Impending Price Surges for Essential Computer Components: How Industry-Wide Output Limits Affect DRAM and NAND Costs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps-plus-gaming-life-beyond-subscription-end/"><u>PS Plus Gaming Life Beyond Subscription End</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-sanitization-cleaning-up-your-online-footage/"><u>Sound Sanitization Cleaning Up Your Online Footage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tom-hardware-hub-expert-guides-on-technology-and-gadgets/"><u>Tom Hardware Hub: Expert Guides on Technology and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Hardware</u></a></li>
+</ul></div>
+

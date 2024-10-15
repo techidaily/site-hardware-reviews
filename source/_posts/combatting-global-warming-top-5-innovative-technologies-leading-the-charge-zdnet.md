@@ -1,7 +1,7 @@
 ---
 title: "Combatting Global Warming: Top 5 Innovative Technologies Leading the Charge | ZDNet"
-date: 2024-09-19 17:10:19
-updated: 2024-09-20 12:11:22
+date: 2024-10-08T16:16:03.046Z
+updated: 2024-10-15T16:00:07.036Z
 tags:
   - sustainability
 categories:
@@ -19,11 +19,25 @@ Estimates suggest technology is [one of the biggest contributors to rising carbo
 
 ### 1\. Carbon capture, removal, and storage 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 The IPCC's [Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) report noted that continued high rates of emissions mean that excess CO2 removal is now required to reach net zero emissions in the required timeframe. According to the [Center for Climate and Energy Solutions](https://www.c2es.org/content/carbon-capture/), at least 26 commercial-scale carbon capture projects were operating around the world as of 2020, with 21 more in early development and 13 in advanced development.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Renewable energy 
 
@@ -32,6 +46,13 @@ The need to move to renewable energy sources will drive plenty of future innovat
 Image: StartUs Insights
 
 The biggest impact, this research revealed, will come from advanced photovoltaics, AI and big data, distributed energy storage systems and hydro power, followed by wind energy, bioenergy, grid integration, green hydrogen, advanced robotics, and blockchain. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Batteries and energy storage 
 
@@ -44,6 +65,13 @@ The IPCC's Climate Change 2022 report notes that "Digital technologies can contr
 **Also: [Business travel, energy consumption in the spotlight as sustainability jumps up the agenda](https://www.zdnet.com/article/sustainability-initiatives-wont-just-save-the-planet-theyll-save-your-company-too/)**
 
 However, the report also notes the potential negative aspects of multiple 'smart' sectors, including growth in digital device usage, increased e-waste, job losses, and an exacerbated digital divide. "Digital technology supports decarbonisation only if appropriately governed," the IPCC concludes. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Remote sensing of greenhouse gas emissions 
 
@@ -78,11 +106,29 @@ In [November 2022](https://climatetrace.org/news/more-than-70000-of-the-highest-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-video-view-count-top-hashtag-trends-guide-for-2024/"><u>[New] Elevating Video View Count Top Hashtag Trends Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-instagram-streamlining-the-process-of-image-addition/"><u>[New] Instagram Streamlining the Process of Image Addition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-cinema-mobile-and-desktop-device-movie-recording/"><u>[Updated] In 2024, Capture Cinema Mobile & Desktop Device Movie Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-stream-to-sound-an-audio-conversion-tool/"><u>[Updated] In 2024, FB Stream to Sound An Audio Conversion Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-art-of-google-meet-modifications-using-masks-and-effects-for-2024/"><u>[Updated] The Art of Google Meet Modifications Using Masks & Effects for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-structure-your-storytelling-with-chapter-tags-in-vimeo-videos/"><u>2024 Approved Structure Your Storytelling with Chapter Tags in Vimeo Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-computing-with-toms-hardware-guides/"><u>Exploring Advanced Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-and-testing-results-for-the-msi-mpg-a650gf-power-unit/"><u>In-Depth Evaluation & Testing Results for the MSI MPG A650GF Power Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-expertise-a-guide-to-cutting-edge-technology-choices/"><u>Inside Tom's Gadget Expertise: A Guide to Cutting-Edge Technology Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-insights/"><u>Navigating the Digital Landscape with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-cutting-edge-reviews-and-advice/"><u>Tom's Tech Insights: Cutting-Edge Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-pc-building/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and PC Building</u></a></li>
+</ul></div>
+

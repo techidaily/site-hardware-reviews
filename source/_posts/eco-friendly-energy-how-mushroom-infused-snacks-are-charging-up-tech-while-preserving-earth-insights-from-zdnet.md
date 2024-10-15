@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Energy: How Mushroom-Infused Snacks Are Charging Up Tech While Preserving Earth - Insights From ZDNet"
-date: 2024-09-18 13:10:53
-updated: 2024-09-20 11:59:56
+date: 2024-10-08T16:09:55.592Z
+updated: 2024-10-15T16:06:48.897Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,25 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revolutionize-traffic-flows-with-innovative-facebook-video-tactics/"><u>[Updated] 2024 Approved Revolutionize Traffic Flows with Innovative Facebook Video Tactics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-file-flow-fixtures-easy-moves-for-your-machine/"><u>[Updated] File Flow Fixtures Easy Moves for Your Machine</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-reddits-golden-threads-celebrating-the-highest-rated-posts/"><u>2024 Approved Reddit's Golden Threads Celebrating the Highest-Rated Posts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016309491-banish-your-bluetooth-headphones-latency-with-simple-solutions/"><u>Banish Your Bluetooth Headphones' Latency with Simple Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leaked-computex-2024-lineup-spotlight-on-asus-rog-ally-and-snapdragon-processor-systems-lack-of-new-graphics-card-releases-highlighted/"><u>Leaked Computex 2024 Lineup Spotlight on ASUS ROG Ally and Snapdragon Processor Systems — Lack of New Graphics Card Releases Highlighted</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solution-guide-what-to-do-if-your-instagram-stories-wont-load-or-upload/"><u>Solution Guide: What To Do If Your Instagram Stories Won’t Load or Upload</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-xs-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone XS Without Passcode Easily</u></a></li>
+</ul></div>
+

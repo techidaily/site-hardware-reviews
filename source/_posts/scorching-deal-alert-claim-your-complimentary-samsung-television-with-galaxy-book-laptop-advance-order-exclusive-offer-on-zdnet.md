@@ -1,7 +1,7 @@
 ---
 title: "Scorching Deal Alert: Claim Your Complimentary Samsung Television with Galaxy Book Laptop Advance Order - Exclusive Offer on ZDNet"
-date: 2024-10-06T02:51:47.571Z
-updated: 2024-10-09T07:33:51.532Z
+date: 2024-10-09T16:09:46.735Z
+updated: 2024-10-15T16:24:40.106Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,19 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harness-lightrooms-power-to-create-dynamic-hdr-photos/"><u>[New] Harness Lightroom's Power to Create Dynamic HDR Photos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-video-aspects-on-youtube-perfect-size-and-quality-balance/"><u>[Updated] Navigating Video Aspects on YouTube Perfect Size & Quality Balance</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-full-gaming-potential-with-fbx-capturing/"><u>2024 Approved Unlocking Full Gaming Potential with FBX Capturing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-gt-5-240w-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme GT 5 (240W) Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-aorus-co49dq-oled-display-unrivaled-color-depth-and-contrast/"><u>In-Depth Analysis of the Gigabyte Aorus CO49DQ OLED Display - Unrivaled Color Depth & Contrast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/key-to-performance-the-truth-about-mechanical-mice/"><u>Key to Performance: The Truth About Mechanical Mice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-a-journey-through-toms-hardware-hub/"><u>Mastering Technology Choices: A Journey Through Tom's Hardware Hub</u></a></li>
-<li><a href="https://fox-access.techidaily.com/prove-your-skills-fast-and-precise-video-edits-on-windows-11-for-2024/"><u>Prove Your Skills Fast & Precise Video Edits on Windows 11 for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lofree-edge-reviewed-lightweight-expensive-a-comparison-with-the-classic-apple-magic-keyboard/"><u>The Lofree Edge Reviewed: Lightweight, Expensive - A Comparison with the Classic Apple Magic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-building-a-tribute-to-toms-tech-expertise/"><u>Unveiling the Latest in PC Building - A Tribute to Tom's Tech Expertise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-discover-the-best-9-mobile-video-conferencing-apps-androidiphone/"><u>[New] 2024 Approved Discover The Best 9 Mobile Video Conferencing Apps (Android/iPhone)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-potential-effective-desktop-sharing-on-livestreaming-platforms-for-2024/"><u>[New] Unleash Potential Effective Desktop Sharing on Livestreaming Platforms for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-using-srt-audio-on-windows-and-macos-devices/"><u>[Updated] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-transforming-archived-content-for-livestream-audiences-on-facebook/"><u>2024 Approved Transforming Archived Content for Livestream Audiences on Facebook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-m3-macbook-air-laptop-powerful-16gb-compact-n-13-inch-at-a-bargain-price-of-1149/"><u>Exclusive Offer - M3 MacBook Air Laptop: Powerful 16GB / Compact N 13-Inch at a Bargain Price of $1,149</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-performance-on-a-budget-acers-nitro-16-with-rtx-4070-and-amd-cpu-for-an-unbeatable-price-of-1129/"><u>Experience High Performance on a Budget: Acer's Nitro 16 with RTX 4070 and AMD CPU for an Unbeatable Price of $1,129</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unprecedented-value-razer-blade-15-now-at-a-historic-1000-discount-for-the-year-2023/"><u>Experience Unprecedented Value - Razer Blade 15 Now at a Historic $1,000 Discount for the Year 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-gadgets-with-tom-a-detailed-guide-on-hardware/"><u>Exploring New Gadgets with Tom - A Detailed Guide on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-disappointment-to-upgrade-delight-adding-a-custom-titanium-case-and-mechanical-keyboard/"><u>From Lenovo Disappointment to Upgrade Delight: Adding a Custom Titanium Case and Mechanical Keyboard</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-guide-to-reverse-playbacks-on-instavids/"><u>In 2024, The Ultimate Guide to Reverse Playbacks on InstaVids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-the-latest-in-technology-via-toms-hardware/"><u>Inside Look: The Latest in Technology via Tom's Hardware</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/perfecting-date-placement-on-visual-memories/"><u>Perfecting Date Placement on Visual Memories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/yahoo-mail-deletion-explained-how-to-ensure-total-removal-of-your-account/"><u>Yahoo Mail Deletion Explained: How To Ensure Total Removal of Your Account</u></a></li>
 </ul></div>
 

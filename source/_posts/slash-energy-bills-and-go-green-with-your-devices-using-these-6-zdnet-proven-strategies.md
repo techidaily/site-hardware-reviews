@@ -1,7 +1,7 @@
 ---
 title: Slash Energy Bills & Go Green with Your Devices Using These 6 ZDNet Proven Strategies
-date: 2024-09-18 10:51:16
-updated: 2024-09-20 10:18:55
+date: 2024-10-10T16:05:56.295Z
+updated: 2024-10-15T16:05:49.735Z
 tags:
   - sustainability
 categories:
@@ -27,6 +27,13 @@ The idea of sustainability is broad, but experts recommend looking at not only w
 
 Image: Nipitpon Singad / EyeEm--Gettyimages
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Take stock of your own sustainability and look at your lifestyle
 
 According to the [Nature Conservancy](https://www.nature.org/en-us/get-involved/how-to-help/carbon-footprint-calculator/), the average US citizen has a yearly carbon footprint of 16 tons, compared to the global rate of about four tons.
@@ -40,6 +47,13 @@ Sustainability for each person could be different, especially depending on your 
 So sure, you could recycle plastic water bottles, but maybe you throw away old phones or GPS devices in the trash as soon as they stop working? Anderson says every little habit counts when it comes to sustainability, and utilizing technology in the right way to help us gauge our carbon footprint is vital.
 
 "We need to get to this point where it's not just about sustainability; it's about the specific things, the specific activities that lead us to the right sustainability outcomes," he says.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Recycle your devices, but make sure it's the proper way
 
@@ -101,6 +115,13 @@ Plenty of companies have made net-zero pledges, so investigate a specific compan
 
 In addition, pay attention to companies such as Samsung that build recycled materials into their products. The new Samsung Galaxy S23 Ultra is made up of 12 internal and external components of recycled material. The iPhone 14 Pro, meanwhile, is made with 100% recycled gold in the wire of all its cameras, and 100% recycled rare earth elements in all its magnets.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utilize smart home automations
 
 ### Innovation
@@ -119,6 +140,13 @@ Image: Amazon
 Since heating and cooling are responsible for [almost 50%](https://www.energy.gov/public-services/homes/heating-cooling) of energy use in an average US home, smart home products can help you consume less energy while saving cash on your bill. 
 
 Look into intuitive smart thermostats like Nest or Ecobee with voice-control features and ambient temperature sensors. In addition, [Neurio](https://elemental.green/neurio-smart-energy-monitor/) is a smart energy monitor that gives you real-time monitoring to see where energy is being used in your house, track your appliance use, and compare your home energy use to others. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't upgrade if you don't have to
 
@@ -151,11 +179,25 @@ For example, if you were expecting more significant design changes between model
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-toolwiz-photography-companion-a-thorough-2023-breakdown/"><u>[New] Toolwiz Photography Companion A Thorough 2023 Breakdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>[Updated] Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boosting-typing-speed-and-comfort-why-i-prefer-placing-my-hand-in-the-keyboard-middle/"><u>Boosting Typing Speed and Comfort: Why I Prefer Placing My Hand in the Keyboard Middle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-other-brands-successfully-implement-apples-modular-design-strategy/"><u>Can Other Brands Successfully Implement Apple's Modular Design Strategy?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/creating-your-own-diy-bluetooth-enabled-smart-speaker-with-raspberry-pi/"><u>Creating Your Own DIY Bluetooth-Enabled Smart Speaker with Raspberry Pi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-usb-colours-understanding-blue-yellow-and-red-significance/"><u>Decoding USB Colours - Understanding Blue, Yellow & Red Significance</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-p55-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Itel P55 5G FRP</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-rising-above-the-rest-crafting-content-for-top-spot-at-vimeo/"><u>In 2024, Rising Above the Rest Crafting Content for Top Spot at Vimeo</u></a></li>
+<li><a href="https://win-news.techidaily.com/stickermakingtutorial-free-guide-to-crafting-2022s-hottest-personalized-decals/"><u>StickerMakingTutorial: Free Guide to Crafting 2022'S Hottest Personalized Decals!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-overwatchs-launch-blues-strategies-to-defeat-the-black-screen-glitch/"><u>Troubleshooting Overwatch's Launch Blues - Strategies to Defeat the Black Screen Glitch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-best-budget-option-a-comprehensive-review-of-hisenses-40h559esmart-television/"><u>Unveiling the Best Budget Option: A Comprehensive Review of Hisense's 40H559eSmart Television</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Apple Adjusts Repair Policy, Permits Recycled Components on Certain iPhones - ZDNet
-date: 2024-09-18 15:35:45
-updated: 2024-09-20 11:58:12
+date: 2024-10-08T16:14:31.884Z
+updated: 2024-10-15T16:20:33.760Z
 tags:
   - sustainability
 categories:
@@ -64,11 +64,32 @@ To maintain transparency about repair history and deter disassembly of stolen ph
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-fb-live-4-key-recording-techniques-for-2024/"><u>[Updated] Mastering FB Live 4 Key Recording Techniques for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-podcast-branding-with-ai-naming-generators/"><u>2024 Approved Revolutionizing Podcast Branding with AI Naming Generators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-11-pro-max-imei-checker-by-drfone-ios/"><u>Best Free iPhone 11 Pro Max IMEI Checker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-universally-accessible-6-reasons-to-persist-with-platinum-plan/"><u>GPT-4 Universally Accessible; 6 Reasons to Persist with Platinum Plan</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-se-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone SE Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/motherboard-industry-soars-projected-sales-of-39-million-units-matching-pre-crisis-delivery-numbers/"><u>Motherboard Industry Soars: Projected Sales of 39 Million Units Matching Pre-Crisis Delivery Numbers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/overcome-raptor-lake-chips-crashing-woes-how-asus-introduces-baseline-profile-update-for-optimal-performance/"><u>Overcome Raptor Lake Chips' Crashing Woes: How Asus Introduces Baseline Profile Update for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-tech-advice-from-toms-hardware-resource/"><u>Precision Tech Advice From Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/prepare-for-the-future-how-pcie-60-tackles-heat-with-innovative-cooling-solutions/"><u>Prepare For The Future: How PCIe 6.0 Tackles Heat With Innovative Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pushing-boundaries-asrock-debuts-revolutionary-amd-ryzen-9000-boards/"><u>Pushing Boundaries: ASRock Debuts Revolutionary AMD Ryzen 9000 Boards</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-y200e-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo Y200e 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "TCL's New Game Changer: A Daringly Slender Alternative to Samsung's Iconic Frame Showcased | Latest Tech Reviewed on ZDNet"
-date: 2024-10-04T23:11:00.553Z
-updated: 2024-10-08T19:58:53.150Z
+date: 2024-10-08T16:08:38.510Z
+updated: 2024-10-15T16:29:09.115Z
 tags:
   - tvs
 categories:
@@ -32,16 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -61,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,20 +99,21 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capture-and-share-the-new-era-of-screen-recorders-on-spring/"><u>[New] Capture and Share The New Era of Screen Recorders on Spring</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-budget-friendly-recording-software-for-windows-users/"><u>[New] In 2024, Budget-Friendly Recording Software for Windows Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-complete-guide-to-audiovideo-settings-in-win11s-zoom-app/"><u>[New] In 2024, The Complete Guide to Audio/Video Settings in Win11's Zoom App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vob-mp4-free-online-conversion-from-vob-to-mp4/"><u>「オンライン無償VOB-MP4変換サービス」 - Free Online Conversion From VOB to MP4</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-pioneer-bdr-xs06-blu-ray-writer-evaluation-balancing-mobility-with-functionality/"><u>Comprehensive Pioneer BDR-XS06 Blu-Ray Writer Evaluation: Balancing Mobility with Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-pc-components-with-toms-gear-guide/"><u>Exploring Cutting-Edge PC Components with Tom's Gear Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-universal-games-top-6-diverse-titles/"><u>Finding Universal Games: Top 6 Diverse Titles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-performance-and-quality-of-nzxts-premium-c1500-psu/"><u>In-Depth Analysis: Performance and Quality of NZXT's Premium C1500 PSU</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-expertise/"><u>Navigating the Digital Landscape with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneers-of-processors-a-journey-through-toms-hardware-world/"><u>Pioneers of Processors: A Journey Through Tom's Hardware World</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/precision-electronics-reviews-and-tips-by-tech-maestro-toms-gear-insights/"><u>Precision Electronics Reviews & Tips by Tech Maestro - Tom's Gear Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-start-using-ez-grabber-effectively/"><u>Quick Start Using EZ Grabber Effectively</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/steigern-sie-ihre-ungleichwertigkeit-in-finanzdiensten-entdecke-die-macht-von-abbyy-checkliste/"><u>Steigern Sie Ihre Ungleichwertigkeit in Finanzdiensten - Entdecke Die Macht Von ABBYY Checkliste</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-and-gizmos-with-toms-expertise-in-hardware/"><u>Unveiling Gadgets and Gizmos with Tom’s Expertise in Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164816351-why-your-gameplay-screams-for-an-oled-display/"><u>Why Your Gameplay Screams for an OLED Display.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>[New] In 2024, Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-10-stress-relieving-games-you-should-try/"><u>[New] In 2024, Top 10 Stress Relieving Games You Should Try</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-jumpstart-to-understanding-av1-codecs-for-2024/"><u>[New] Jumpstart to Understanding AV1 Codecs for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-extract-facebooks-most-viewed-videos-anywhere-2023/"><u>[Updated] Extract Facebook's Most Viewed Videos Anywhere, 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-increasing-your-pcs-storage-with-the-highpoint-rocket-1608a-add-on-device-a-performance-snapshot/"><u>Comprehensive Guide to Increasing Your PC’s Storage with the HighPoint Rocket 1608A Add-On Device: A Performance Snapshot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dissecting-the-mismatch-of-visuals-and-capability-a-closer-look-at-valkyrie-vind-sl125/"><u>Dissecting the Mismatch of Visuals and Capability: A Closer Look at Valkyrie Vind SL125</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-free-cam-software-roundup-innovation-at-your-fingertips/"><u>In 2024, Free Cam Software Roundup Innovation at Your Fingertips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>In 2024, High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/iphone-data-rescue-a-step-by-step-guide-to-restoring-deleted-voice-memos/"><u>IPhone Data Rescue: A Step-by-Step Guide to Restoring Deleted Voice Memos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-essentials-a-guide-by-tom/"><u>Mastering Hardware Essentials - A Guide by Tom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stepwise-adjustment-fins-speech-on-win-os-devices/"><u>Stepwise Adjustment Fins Speech on Win-OS Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-news-latest-innovations-and-reviews-on-toms-hardware/"><u>Tech News, Latest Innovations & Reviews on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lofree-edge-reviewed-stylish-and-portable-with-a-costlier-price-than-apples-iconic-keyboard/"><u>The Lofree Edge Reviewed: Stylish & Portable with a Costlier Price than Apple's Iconic Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-toms-gadget-guide-in-depth-insights-into-hardware-and-software/"><u>The Tom's Gadget Guide: In-Depth Insights Into Hardware and Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-x6-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find X6 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-with-elegoos-saturn-cube-xl-a-comprehensive-review-on-its-impact-in-resin-3d-technology/"><u>Unveiling Innovations with Elegoo's Saturn Cube XL - A Comprehensive Review on Its Impact in Resin 3D Technology</u></a></li>
 </ul></div>
 

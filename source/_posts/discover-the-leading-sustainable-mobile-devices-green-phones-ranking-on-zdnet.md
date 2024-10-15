@@ -1,7 +1,7 @@
 ---
 title: "Discover the Leading Sustainable Mobile Devices: Green Phones Ranking on ZDNet"
-date: 2024-09-18 17:15:18
-updated: 2024-09-20 10:49:50
+date: 2024-10-12T16:20:33.345Z
+updated: 2024-10-15T16:02:39.143Z
 tags:
   - sustainability
 categories:
@@ -64,6 +64,13 @@ Pros
 Cons 
 * The phone itself could be made with a greater percentage of recycled elements
 * Fairly expensive at $800-$1400
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Samsung Galaxy S22 series
 
@@ -163,6 +170,13 @@ Since all of Motorola's phones have made this eco-conscious shift, you could cho
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best green phone?
 
 The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, including eco-friendly packaging, energy consumption, incorporation of recycled materials, price, warranty, software system, camera quality, battery life and more, to find the best green phone. 
@@ -174,6 +188,13 @@ The iPhone 14 Pro is our top eco-friendly phone. We considered many specs, inclu
 | Fairphone 4                | €579               | 128GB, 6GB RAM or 256GB, 8GB RAM | 100% recycled plastic back cover     |
 | Teracube 2E                | N/A                | 64GB                             | 25% recycled polycarbonate           |
 | Motorola Edge              | $449.99            | Up to 256GB                      | Free from PVC and BFR                |
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which eco-friendly phone is right for you?
 
@@ -202,6 +223,13 @@ Some of the eco-friendly aspects of a phone include recycled parts and packaging
 An eco-friendly phone will help reduce environmental waste (e-waste). According to the Environmental Protection Agency (EPA), [e-waste is the fastest-growing waste stream](https://www.dosomething.org/us/facts/11-facts-about-e-waste) in America, but only a fraction of it is collected. As a result, the world produces as much as [50 million metric tons of e-waste a year](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste).
 
  Buying an eco-friendly phone means the phone is built with recycled materials and not hazardous e-waste materials like [lead, nickel, and mercury](https://www.ncsl.org/research/environment-and-natural-resources/e-waste-recycling-legislation.aspx). In addition, eco-friendly devices are built to last longer than the average smartphone, reducing the amount of e-waste by keeping your phone active for longer. 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative environmentally conscious phones worth considering?
 
@@ -232,11 +260,25 @@ Amazon has a great pre-owned and refurbished program called Amazon Renewed that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-a-step-by-step-approach-to-assembling-picture-panoramas/"><u>[New] 2024 Approved A Step-by-Step Approach to Assembling Picture Panoramas</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-pros-guide-crafting-authentic-3d-characters-in-ps/"><u>[New] In 2024, Pro's Guide Crafting Authentic 3D Characters in PS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-critical-factors-for-upgrading-your-4k-lens/"><u>[New] In 2024, The Critical Factors for Upgrading Your 4K Lens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-blurring-and-excising-picture-borders/"><u>[Updated] Techniques for Blurring and Excising Picture Borders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-critical-look-at-displayport-21s-shortcomings-with-uhbr-certified-cables-and-how-it-influences-nvidia-to-continue-with-dp-14-for-the-rtx-40-series/"><u>A Critical Look at DisplayPort 2.1'S Shortcomings With UHBR Certified Cables - And How It Influences Nvidia to Continue with DP 1.4 for the RTX 40-Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazons-exclusive-deal-top-of-the-line-asus-tuf-34-monitor-curved-display-lowest-price-at-249/"><u>Amazon's Exclusive Deal: Top-of-the-Line Asus TUF 34 Monitor, Curved Display – Lowest Price at $249</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-breaks-into-professional-sector-with-dynamic-u3-lineup-for-graphic-professionals/"><u>AOC Breaks Into Professional Sector with Dynamic U3 Lineup for Graphic Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862834381-get-the-best-deal-just-249-for-a-stunning-34-inch-asus-tuf-curved-monitor-amazon-exclusive/"><u>Get the Best Deal: Just $249 for a Stunning 34-Inch Asus TUF Curved Monitor - Amazon Exclusive</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reimagining-action-recording-with-intova-edge-x/"><u>In 2024, Reimagining Action Recording with Intova Edge X</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-solutions-for-last-line-unavailable-errors/"><u>Troubleshooting Your iPhone: Solutions for 'Last Line Unavailable' Errors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829967-unbeatable-deal-alert-samsung-odyssey-g50a-27-inch-qhd-ips-monitor-drops-to-just-255-at-amazon/"><u>Unbeatable Deal Alert: Samsung Odyssey G50A 27-Inch QHD IPS Monitor Drops to Just $255 at Amazon</u></a></li>
+</ul></div>
+

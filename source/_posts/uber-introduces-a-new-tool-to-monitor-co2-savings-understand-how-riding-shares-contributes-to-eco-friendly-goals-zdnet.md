@@ -1,7 +1,7 @@
 ---
 title: "Uber Introduces a New Tool to Monitor CO2 Savings: Understand How Riding Shares Contributes to Eco-Friendly Goals | ZDNet"
-date: 2024-09-17 10:58:20
-updated: 2024-09-20 11:39:34
+date: 2024-10-11T16:24:07.404Z
+updated: 2024-10-15T16:00:34.080Z
 tags:
   - sustainability
 categories:
@@ -66,11 +66,34 @@ Uber is taking steps to ensure the savings shown are as accurate as possible. Th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-fostering-followers-with-flashy-instagram-puzzles-that-stand-out/"><u>[New] Fostering Followers with Flashy Instagram Puzzles that Stand Out</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-efficient-techniques-for-unwrapping-backgrounds-in-affinity-photo-for-2024/"><u>[Updated] Efficient Techniques for Unwrapping Backgrounds in Affinity Photo for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-gameplay-with-fbx-game-recorder/"><u>[Updated] How To Record Gameplay With FBX Game Recorder</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-technique-programming-a-time-counter-in-obs/"><u>[Updated] Ultimate Technique Programming a Time Counter in OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unpacking-presenter-8s-features-against-the-best/"><u>In 2024, Unpacking Presenter 8’S Features Against the Best</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/story-2-the-cohort-confusion/"><u>Story 2: The Cohort Confusion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/techniques-to-reformat-macscreenshot-extensions/"><u>Techniques to Reformat MacScreenshot Extensions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-decline-of-light-gun-video-gaming-how-current-televisions-have-impacted-the-genre/"><u>The Decline of Light Gun Video Gaming: How Current Televisions Have Impacted the Genre</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-chromebox-mini-a-new-compact-powerhouse-for-diy-enthusiasts-and-tech-explorers/"><u>The Lenovo Chromebox Mini: A New Compact Powerhouse for DIY Enthusiasts and Tech Explorers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-keychron-q1eron-max-perfectly-balanced-for-every-user/"><u>The Ultimate Guide to the Keychron Q1eron Max - Perfectly Balanced for Every User!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-6-indicators-of-poor-pc-cable-organization-avoid-the-chaos/"><u>Top 6 Indicators of Poor PC Cable Organization – Avoid the Chaos!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-2024-outdoor-surveillance-cameras-a-comprehensive-guide/"><u>Top Rated 2024 Outdoor Surveillance Cameras: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-10-cloning-issue-resolved-post-clone-device-cannot-access-drivers/"><u>Windows 10 Cloning Issue Resolved - Post-Clone Device Cannot Access Drivers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

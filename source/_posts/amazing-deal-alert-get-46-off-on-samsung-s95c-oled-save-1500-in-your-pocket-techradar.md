@@ -1,7 +1,7 @@
 ---
 title: "Amazing Deal Alert: Get 46%% Off on Samsung S95C OLED - Save $1,500 in Your Pocket! | TechRadar"
-date: 2024-10-02T17:17:09.314Z
-updated: 2024-10-08T16:41:51.266Z
+date: 2024-10-10T16:13:30.427Z
+updated: 2024-10-15T16:12:32.652Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -97,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,21 +133,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-self-portraits-top-techniques-for-youtube-presentations/"><u>[Updated] In 2024, Mastering Self-Portraits Top Techniques for YouTube Presentations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-inside-the-revamped-sony-bdp-s6700-for-2024/"><u>[Updated] Inside the Revamped Sony BDP-S6700 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722902923623-beginners-guide-10-simple-steps-to-mastering-x-in-no-time/"><u>Beginner's Guide: 10 Simple Steps to Mastering X in No Time!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/enhance-your-gameplay-addressing-fps-dips-in-farming-simulator-grower-you-may-need-to-evaluate-your-growing-conditions-and-adjust-accordingly/"><u>Enhance Your Gameplay: Addressing FPS Dips in Farming Simulator Grower, You May Need to Evaluate Your Growing Conditions and Adjust Accordingly.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-review-hub/"><u>Expert Insights From Tom's Computer Review Hub</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-the-logitee-driving-force-gt-controller-driver-on-windows-781011-free-download/"><u>How to Install the Logitee Driving Force GT Controller Driver on Windows 7/8/10/11 - Free Download</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/id-coolings-frozn-a620-pro-se-review-unveiling-premium-efficiency-and-cost-effectiveness-in-cooling-solutions/"><u>ID-Cooling's Frozn A620 Pro SE Review - Unveiling Premium Efficiency and Cost-Effectiveness in Cooling Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-g580-update-made-simple/"><u>Lenovo G580: Update Made Simple</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/one-youtube-feed-how-to-merge-multiple-videos-for-2024/"><u>One YouTube Feed How to Merge Multiple Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professionals-picks-the-top-5-drones-to-invest-in-for-2024/"><u>Professional's Picks The Top 5 Drones to Invest In for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-14-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 14 Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-parts-by-toms-hardware-experts/"><u>The Ultimate Guide to PC Parts by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-listening-experience-awaits-with-turtle-beachs-atlas-air-headphones-discover-the-difference/"><u>The Ultimate Listening Experience Awaits with Turtle Beach's Atlas Air Headphones – Discover the Difference</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-unbiased-hardware-guidance/"><u>Tom's Tech Advice: Unbiased Hardware Guidance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-gear/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-network-potential-in-depth-look-at-the-asus-rog-rapture-gt-be98-wi-fi-routers-elite-capabilities-and-expandability/"><u>Unleash Network Potential: In-Depth Look at the Asus ROG Rapture GT-BE98 Wi-Fi Router's Elite Capabilities and Expandability</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-what-hidden-beats-within-facebook-are-you-overlooking/"><u>[New] 2024 Approved What Hidden Beats Within Facebook Are You Overlooking?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-sound-effects-voice-customization-on-instagram-for-2024/"><u>[New] Mastering Sound Effects Voice Customization on Instagram for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-zoom-video-refinement-best-three-enhancement-steps/"><u>[Updated] In 2024, Zoom Video Refinement Best Three Enhancement Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-effective-ways-how-to-block-facebook-video-ads/"><u>2024 Approved Effective Ways | How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-inshot-video-editing-powerhouse/"><u>2024 Approved In-Depth Look at InShot Video Editing Powerhouse?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-itel-a05s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Itel A05s Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-motorola-moto-g04-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Motorola Moto G04 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-experts/"><u>Mastering Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-western-digital-my-passport-6tb-portable-ssd-compact-yet-capacious/"><u>Review of the Western Digital My Passport 6TB Portable SSD - Compact Yet Capacious</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-the-keychron-k2-he-special-edition-a-blend-of-vintage-style-and-contemporary-functionality/"><u>Review: The Keychron K2 HE Special Edition - A Blend of Vintage Style and Contemporary Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-to-prevent-baldurs-gate-3-from-crashing-on-pc/"><u>Step-by-Step Solution to Prevent Baldur's Gate 3 From Crashing on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stop-unknown-number-alerts-a-guide-to-muting-spam-calls-on-your-iphone/"><u>Stop Unknown Number Alerts: A Guide to Muting Spam Calls on Your iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-odyssey-unveiling-the-power-of-gigabytes-aorus-fo32u2p-monitor-a-fusion-of-elegance-and-buttery-smooth-240-hz-gaming/"><u>The Ultimate 4K Odyssey: Unveiling the Power of Gigabyte's Aorus FO32U2P Monitor, a Fusion of Elegance & Buttery-Smooth 240 Hz Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-through-toms-hardware-experts/"><u>Unveiling Cutting-Edge Technology Through Tom's Hardware Experts</u></a></li>
 </ul></div>
 

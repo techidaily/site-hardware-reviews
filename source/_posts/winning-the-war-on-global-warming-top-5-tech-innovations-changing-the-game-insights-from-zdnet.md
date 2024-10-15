@@ -1,7 +1,7 @@
 ---
 title: "Winning the War on Global Warming: Top 5 Tech Innovations Changing The Game - Insights From ZDNet"
-date: 2024-09-18 16:15:21
-updated: 2024-09-20 12:45:59
+date: 2024-10-08T16:13:22.418Z
+updated: 2024-10-15T16:06:07.364Z
 tags:
   - sustainability
 categories:
@@ -19,11 +19,25 @@ Estimates suggest technology is [one of the biggest contributors to rising carbo
 
 ### 1\. Carbon capture, removal, and storage 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 The IPCC's [Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) report noted that continued high rates of emissions mean that excess CO2 removal is now required to reach net zero emissions in the required timeframe. According to the [Center for Climate and Energy Solutions](https://www.c2es.org/content/carbon-capture/), at least 26 commercial-scale carbon capture projects were operating around the world as of 2020, with 21 more in early development and 13 in advanced development.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Renewable energy 
 
@@ -32,6 +46,13 @@ The need to move to renewable energy sources will drive plenty of future innovat
 Image: StartUs Insights
 
 The biggest impact, this research revealed, will come from advanced photovoltaics, AI and big data, distributed energy storage systems and hydro power, followed by wind energy, bioenergy, grid integration, green hydrogen, advanced robotics, and blockchain. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Batteries and energy storage 
 
@@ -44,6 +65,13 @@ The IPCC's Climate Change 2022 report notes that "Digital technologies can contr
 **Also: [Business travel, energy consumption in the spotlight as sustainability jumps up the agenda](https://www.zdnet.com/article/sustainability-initiatives-wont-just-save-the-planet-theyll-save-your-company-too/)**
 
 However, the report also notes the potential negative aspects of multiple 'smart' sectors, including growth in digital device usage, increased e-waste, job losses, and an exacerbated digital divide. "Digital technology supports decarbonisation only if appropriately governed," the IPCC concludes. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Remote sensing of greenhouse gas emissions 
 
@@ -78,11 +106,24 @@ In [November 2022](https://climatetrace.org/news/more-than-70000-of-the-highest-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-from-blurry-edges-to-squared-perfection-the-imovie-guide-for-instagram-videos/"><u>[New] From Blurry Edges to Squared Perfection The iMovie Guide for Instagram Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-world-of-youtubers-and-gaming-sessions/"><u>[Updated] Navigating the World of YouTubers and Gaming Sessions</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-channel-success-strategies-a-comprehensive-guide-to-spotlighting/"><u>2024 Approved Channel Success Strategies A Comprehensive Guide to Spotlighting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-gadgets-trustworthy-insights-from-toms-hardware/"><u>Discover the Latest Gadgets | Trustworthy Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-the-digital-battlefield-with-cooler-masters-giant-super-wide-57-mini-led-and-dual-uhd-monitor-for-gamers/"><u>Dominate the Digital Battlefield with Cooler Master's Giant Super Wide, 57 Mini LED & Dual-UHD Monitor for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-viewing-comfort-for-just-499-with-lgs-stunning-34-curved-monitor-upgrade/"><u>Elevate Your Viewing Comfort for Just $499 with LG's Stunning 34 Curved Monitor Upgrade!</u></a></li>
+<li><a href="https://windows11.techidaily.com/energy-efficiency-windows-rest-states-analysis/"><u>Energy Efficiency: Windows' Rest States Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultimate-smoothness-with-the-240hz-viewsonic-xg272-2k-gaming-monitor-review/"><u>Experience Ultimate Smoothness with the 240Hz ViewSonic XG272-2K Gaming Monitor Review</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-buzz-strategies-for-shaping-your-unique-youtubing-image/"><u>In 2024, Building Buzz Strategies for Shaping Your Unique YouTubing Image</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-a56s-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo A56s 5G Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
+

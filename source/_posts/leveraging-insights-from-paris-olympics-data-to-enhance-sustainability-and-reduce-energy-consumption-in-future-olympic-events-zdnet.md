@@ -1,7 +1,7 @@
 ---
 title: Leveraging Insights From Paris Olympics Data to Enhance Sustainability and Reduce Energy Consumption in Future Olympic Events - ZDNet
-date: 2024-09-18 16:51:17
-updated: 2024-09-20 10:46:13
+date: 2024-10-10T16:11:27.384Z
+updated: 2024-10-15T16:13:04.415Z
 tags:
   - sustainability
 categories:
@@ -88,11 +88,34 @@ Alibaba added that Content+ offers features that allow media rights-holders to g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leading-videographers-best-editor-picks/"><u>[New] Leading Videographers' Best Editor Picks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-maintaining-image-integrity-effective-instagram-photowatermarking/"><u>[Updated] In 2024, Maintaining Image Integrity Effective Instagram Photowatermarking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-toms-in-depth-reviews-and-buying-guides/"><u>Exploring Hardware with Tom's: In-Depth Reviews & Buying Guides</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-vivo-y02t-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on Vivo Y02T?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-c51-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme C51 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-dell-g5-5090-assessment-the-ultimate-affordable-gaming-machine-with-extensive-choices/"><u>In-Depth Dell G5 5090 Assessment: The Ultimate Affordable Gaming Machine with Extensive Choices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-in-this-article-we-are-going-to-take-you-through-some-of-the-best-online-video-quality-enhancers-that-let-you-boost-a-video-clips-resolution-mak/"><u>New In 2024, In This Article, We Are Going to Take You Through some of the Best Online Video Quality Enhancers that Let You Boost a Video Clips Resolution, Make the Colors More Vibrant or Apply Visual Effects To</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-your-presence-riot-game-name-and-tagline-shift/"><u>Reimagining Your Presence: Riot Game Name & Tagline Shift</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-lian-li-s-sup01-micro-atx-case-upfront-gpu-placement-and-back-to-future-mobo-connectivity-for-enhanced-gaming-experience/"><u>Revolutionary Lian Li 'S' SUP01 Micro ATX Case: Upfront GPU Placement & Back-to-Future Mobo Connectivity for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech Hub: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964474740-upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-14-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi 14 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

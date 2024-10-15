@@ -1,7 +1,7 @@
 ---
 title: New Phone Acquired, Eco-Friendly Options for Disposing of or Reusing Your Old Gadget | ZDNET Insights
-date: 2024-09-19 14:25:33
-updated: 2024-09-20 10:43:35
+date: 2024-10-09T16:20:36.585Z
+updated: 2024-10-15T16:17:57.779Z
 tags:
   - sustainability
 categories:
@@ -37,11 +37,25 @@ If your issue with your current device is aesthetics, consider buying a new case
 
 When you see a shiny new device, step away from it, and sleep on your decision to buy it. You might find that you've changed your mind.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Before you sell: Is there another option?
 
 Re-use is key way of cutting waste. Just because you don't want your phone or laptop any more, that doesn't mean it's without options. Does is make a useful starter device for someone else in your family? For those family members who don't need to be at the cutting edge of tech, an older model might be a fine option. Beware, however, of dumping your old kit on others if it's too slow or too out of date. They won't thank you for it.
 
 Another option is alternative re-use: can your phone find a second life as a video camera or a standalone GPS device, for example? 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before selling your electronics
 
@@ -54,6 +68,13 @@ You can opt to sell your device on [online marketplaces](https://www.facebook.co
 Online resellers typically send you a free shipping label for your device. They will then inspect your device's condition and determine how much money you can receive from it. After that, you're off the hook.
 
 Some online vendors will give you a small amount of money for devices in poor condition and recycle that device's viable parts. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do before recycling your electronics
 
@@ -82,6 +103,13 @@ Tech is all about novelty and the coolest new thing. But there are consequences 
 [There are precious metals in your devices](https://www.bbc.com/future/article/20161017-your-old-phone-is-full-of-precious-metals#:~:text=Every%20smartphone%20contains%20precious%20metals,%2C%20copper%2C%20platinum%20and%20palladium.), such as gold, silver, copper, platinum, and palladium. And in the US, [$7.49 billion worth of those metals are thrown away in landfills](https://earth911.com/eco-tech/20-e-waste-facts/). When you recycle your device, you allow those metals to power another device, reducing the waste created. 
 
 According to the Environmental Protection Agency, 35,000 pounds of copper, 772 pounds of silver, 75 pounds of gold, and 33 pounds of palladium can be [retrieved and reused for every one million cell phones recycled](https://www.epa.gov/recycle/electronics-donation-and-recycling). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Break the stigma and consider refurbished
 
@@ -112,11 +140,33 @@ Howley cites environmental awareness and growing economic uncertainty as reasons
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-comparing-the-leading-tunefab-screen-recorders/"><u>[New] 2024 Approved Comparing the Leading Tunefab Screen Recorders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-blueprint-for-youtube-profitability-via-cpm-strategy/"><u>[Updated] 2024 Approved The Blueprint for YouTube Profitability via CPM Strategy</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-cost-free-text-animation-techniques/"><u>[Updated] Navigating the World of Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-expert-analysis-the-unmatched-elegance-and-power-of-the-samsung-galaxy-s23-ultra/"><u>1. Expert Analysis: The Unmatched Elegance and Power of the Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/altering-default-communication-software-on-android-devices/"><u>Altering Default Communication Software on Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/android-13-release-latest-features-and-availability-dates/"><u>Android 13 Release: Latest Features & Availability Dates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/are-airpods-compatible-with-android-devices/"><u>Are AirPods Compatible with Android Devices?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/complete-tutorial-how-to-successfully-run-the-android-n-13-preview-on-smartphones/"><u>Complete Tutorial: How to Successfully Run the Android N 13 Preview on Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/concealing-images-and-footage-on-your-samsung-smartphone-a-comprehensive-guide/"><u>Concealing Images & Footage on Your Samsung Smartphone: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-cause-of-prolonged-charging-for-googles-pixel-6-smartphone/"><u>Decoding the Cause of Prolonged Charging for Google’s Pixel 6 Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-excellence-of-current-motorola-mobile-devices/"><u>Discovering the Excellence of Current Motorola Mobile Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-expert-curated-selection-of-best-ps3-simulators-pc-edition/"><u>In 2024, Expert-Curated Selection of Best PS3 Simulators (PC Edition)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/masterpiece-gallery-at-your-fingertips-with-digital-frames/"><u>Masterpiece Gallery at Your Fingertips with Digital Frames</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-reimagining-auditory-experiences-with-these-industry-standards-for-2024/"><u>New Reimagining Auditory Experiences with These Industry Standards for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/repair-your-broken-external-hard-drive-without-reformatting-essential-5-techniques/"><u>Repair Your Broken External Hard Drive Without Reformatting: Essential 5 Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-background-extraction-in-picsart-editing/"><u>Seamless Background Extraction in Picsart Editing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-awesome-mobile-gaming-experiences-without-internet/"><u>Top 10 Awesome Mobile Gaming Experiences Without Internet</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/viral-vibrancy-trending-audio-amplifying-your-yt-shorts-for-2024/"><u>Viral Vibrancy Trending Audio Amplifying Your YT Shorts for 2024</u></a></li>
+</ul></div>
+

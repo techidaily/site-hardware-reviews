@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the 'Right to Repair': Understanding Its Significance & Impact on Consumers | Tech Insights"
-date: 2024-09-19 18:53:39
-updated: 2024-09-20 10:59:56
+date: 2024-10-08T16:17:20.587Z
+updated: 2024-10-15T16:10:05.672Z
 tags:
   - sustainability
 categories:
@@ -19,6 +19,13 @@ Image: Thanasis/Getty Images
 
 When devices like phones, tablets and laptops are damaged or break down, it can often be very complicated and costly to get them fixed. It can mean going through a particular supplier nominated by the manufacturer, and often the fix is so expensive that it's easier to simply buy a new device. Fixing it yourself is nearly impossible because spare parts are very hard to come by -- as are the manuals and tools needed to fix even the simplest of problems -- or the components are glued in place.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
@@ -35,6 +42,13 @@ One major issue the legislation is trying to tackle is reducing e-waste. Accordi
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does e-waste affect the environment? Why should e-waste be reduced?
 
 E-waste is toxic for the environment and can harm living species -- including humans. The materials used to make electronic devices contain metals and chemicals that are hazardous to human health, such as beryllium, lead, mercury, nickel, and zinc, [according to the EPA](https://www.epa.gov/large-scale-residential-demolition/electronic-waste-and-demolition). 
@@ -42,6 +56,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 **Also:** [**Right to repair move gets backing from President Biden**](https://www.zdnet.com/article/right-to-repair-move-gets-backing-from-president-biden/)
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which states have right to repair laws?
 
@@ -72,6 +93,19 @@ With options to repair a product yourself or bring it to a third party, you can 
 ## What are the arguments against right to repair?
 
 The major argument against right to repair laws is user safety. Opponents argue that, despite having access to a manual and parts, people can still get injured by performing a repair that they are not trained to do. Electronics have lots of intricate components that can be difficult to navigate if you have never seen them before, especially when they are sharp or combustible. Manipulating these parts can result in a serious injury. Another argument opponents make is that, even if you attempt to repair a device using your resources, you might fail and make the problem even worse. 
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How are companies responding to the right to repair movement?
 
@@ -110,11 +144,33 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-transforming-speeches-learn-no-cost-audio-effect-techniques-here/"><u>[Updated] In 2024, Transforming Speeches Learn No-Cost Audio Effect Techniques Here</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unveiling-the-secret-acquiring-twitter-gifs-effortlessly-on-pc/"><u>[Updated] In 2024, Unveiling the Secret Acquiring Twitter GIFs Effortlessly on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-prioritize-close-up-views-for-effective-collaboration/"><u>2024 Approved How to Prioritize Close-Up Views for Effective Collaboration</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-price-tracker-for-cloud-space-services-a-detailed-review/"><u>2024 Approved Price Tracker for Cloud Space Services A Detailed Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-implementing-chromes-pip-multiscreen-functionality/"><u>2024 Approved Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-or-overpriced-diving-into-the-netgear-orbi-770-mesh-routers-price-point/"><u>Affordable or Overpriced? Diving Into the Netgear Orbi 770 Mesh Router's Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-titans-a-detailed-review-of-the-gaming-powers-of-ryzen-5-9600x-and-ryzen-7-9700x-with-zen-5-architecture/"><u>Comparing Titans: A Detailed Review of the Gaming Powers of Ryzen 5 9600X and Ryzen 7 9700X with Zen 5 Architecture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-bluehost-analysis-exploring-cloud-vps-and-shared-options/"><u>Comprehensive Bluehost Analysis: Exploring Cloud, VPS & Shared Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-essentials-with-tom-a-deep-dive-into-gadgets-and-gear/"><u>Decoding Technology Essentials with Tom - A Deep Dive Into Gadgets and Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-new-technological-breakthroughs-on-toms-hardware/"><u>Delving Into New Technological Breakthroughs on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-toms-computer-world-the-ultimate-guide-to-new-hardware-findings/"><u>Dive Into Tom's Computer World - The Ultimate Guide to New Hardware Findings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-x100-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo X100 Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a25-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A25 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-best-practices-for-writing-captivating-episode-summaries/"><u>In 2024, Best Practices for Writing Captivating Episode Summaries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-akasa-gecko-ssd-heatsink-evaluation-with-built-in-fan-technology/"><u>In-Depth Akasa Gecko SSD Heatsink Evaluation with Built-In Fan Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-twitch-community-insights-for-rookie-spectators/"><u>Navigating the Twitch Community: Insights for Rookie Spectators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p27a2r-titan-gaming-monitor-180hz-a-comprehensive-purchase-guide/"><u>P27A2R Titan Gaming Monitor 180Hz - A Comprehensive Purchase Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-enhancing-video-quality-to-1080p-and-60fps/"><u>Step-by-Step Tutorial for Enhancing Video Quality to 1080P & 60FPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723532-the-lowdown-on-sabrents-rocket-nano-an-in-depth-examination-of-the-1tb-m2-222-gen3-x4-ssd/"><u>The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD.</u></a></li>
+</ul></div>
+

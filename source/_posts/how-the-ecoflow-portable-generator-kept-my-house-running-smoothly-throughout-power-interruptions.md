@@ -1,7 +1,7 @@
 ---
 title: How the EcoFlow Portable Generator Kept My House Running Smoothly Throughout Power Interruptions
-date: 2024-09-19 13:24:20
-updated: 2024-09-20 12:23:25
+date: 2024-10-10T16:00:54.072Z
+updated: 2024-10-15T16:11:58.965Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e8d9e2c-c306-4a4f-a85c-997ff2213a95%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e8d9e2c-c306-4a4f-a85c-997ff2213a95%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,27 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-assessing-your-video-streaming-needs-to-subscribe-or-not-to-subscribe/"><u>[New] In 2024, Assessing Your Video Streaming Needs To Subscribe or Not to Subscribe?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-prime-fb-extra-tools-enhanced-firefox-version-compatibility/"><u>[Updated] Prime FB Extra Tools Enhanced Firefox Version Compatibility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-10-apps-for-creating-spectacular-instagram-reels/"><u>[Updated] Top 10 Apps for Creating Spectacular Instagram Reels</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c12-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C12 Device SIM</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intels-recommended-power-specs-now-integrated-into-msi-motherboard-defaults-targeting-improved-performance-and-crash-prevention-for-core-i9-systems-under-in83/"><u>Intel's Recommended Power Specs Now Integrated Into MSI Motherboard Defaults, Targeting Improved Performance and Crash Prevention for Core I9 Systems Under Investigation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/latest-msi-z890-and-b860-motherboards-compatible-with-intel-arc-s-hits-the-charts-exclusive-pre-computex-2024-info/"><u>Latest MSI Z890 & B860 Motherboards Compatible with Intel Arc S Hits the Charts - Exclusive Pre-Computex 2024 Info</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/market-bounces-back-over-39-million-motherboards-projected-for-sale-as-pandemic-recovery-boosts-shipments/"><u>Market Bounces Back: Over 39 Million Motherboards Projected for Sale as Pandemic Recovery Boosts Shipments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-hardware-with-expert-tips-from-toms-systems-guides/"><u>Mastering Computer Hardware with Expert Tips From Tom's Systems Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-through-toms-comprehensive-analysis/"><u>Mastering Hardware Choices Through Tom's Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-insights-from-toms-gear-analysis/"><u>Mastering the Tech World: Insights From Tom's Gear Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/seamless-hd-viewing-top-10-android-video-apps-for-2024/"><u>Seamless HD Viewing Top 10 Android Video Apps for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/secrets-unveiled-top-five-mac-techniques-for-capturing-gameplay/"><u>Secrets Unveiled Top Five Mac Techniques for Capturing Gameplay</u></a></li>
+<li><a href="https://win-studio.techidaily.com/soluciones-efectivas-para-la-dificultad-de-instalacion-del-update-windows-11-version-23h2/"><u>Soluciones Efectivas Para La Dificultad De Instalación Del Update Windows 11 Version 23H2</u></a></li>
+</ul></div>
+

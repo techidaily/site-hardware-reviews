@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Rise of AI in Singapore: The Role of Data Infrastructures and Predictive Analytics | ZDNET Exclusive"
-date: 2024-09-18 11:12:40
-updated: 2024-09-20 12:17:40
+date: 2024-10-09T16:11:41.781Z
+updated: 2024-10-15T16:07:25.197Z
 tags:
   - sustainability
 categories:
@@ -90,11 +90,34 @@ Singapore last month [launched a research initiative to build an LLM](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-zen-of-sleep-curated-asmr-vocalists/"><u>[New] In 2024, The Zen of Sleep Curated ASMR Vocalists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[New] In 2024, Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-effortless-access-to-youtube-comments/"><u>[Updated] Expert Tips for Effortless Access to YouTube Comments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-how-to-choose-the-background-music-for-the-trailer/"><u>[Updated] How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-multitasking-mac-tech-screensound-recorder-for-2024/"><u>[Updated] Multitasking Mac Tech Screen/Sound Recorder for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-12r-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus 12R to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-update-process-for-your-zebra-zp45n-driver-software/"><u>Mastering the Update Process for Your Zebra ZP45n Driver Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews-t17238628805738/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-innovations-and-reviews/"><u>Tom's Tech Insights: Innovations and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware-wisdom/"><u>Unlocking Computer Secrets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-high-performance-pcs-with-toms-hardware-guidance/"><u>Unlocking the Secrets of High-Performance PCs with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-your-facebook-account-without-access-codes/"><u>Unlocking Your Facebook Account without Access Codes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valheim-gaming-issues-solved-eliminate-frame-drops-and-crashes-for-a-better-experience/"><u>Valheim Gaming Issues Solved: Eliminate Frame Drops and Crashes for a Better Experience</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

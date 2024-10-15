@@ -1,7 +1,7 @@
 ---
 title: Score $50 Off Top-Rated Weber Electric Grill - Exclusive Deal From ZDNet
-date: 2024-09-19 11:45:53
-updated: 2024-09-20 10:56:53
+date: 2024-10-09T16:14:02.879Z
+updated: 2024-10-15T16:20:23.077Z
 tags:
   - sustainability
 categories:
@@ -18,6 +18,19 @@ Taylor Clemons/ZDNET
 ## What's the deal?
 
 Save $50 on the standard size Weber Lumin electric outdoor grill in black at Amazon during their Memorial Day sale.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why this deal is ZDNET recommended
 
@@ -92,11 +105,33 @@ The Weber Lumin is available in two sizes, with the [full-size version](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevating-presentations-with-adobe-captivate-skills/"><u>[New] In 2024, Elevating Presentations with Adobe Captivate Skills</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-time-traveling-tactics-top-7-historic-battles-reimagined/"><u>[New] In 2024, Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-transformative-ways-to-document-facetime-interactions-for-2024/"><u>[Updated] Transformative Ways to Document FaceTime Interactions for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-top-8-efficient-ways-to-convert-mts-files-to-mp4-on-windows-and-mac/"><u>1. Top 8 Efficient Ways to Convert MTS Files to MP4 on Windows and Mac</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2-t172386288019211/"><u>ASRock PG2</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-top-7-gadgets-every-smartphone-technician-needs/"><u>Essential Top 7 Gadgets Every Smartphone Technician Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exceptional-clarity-at-an-affordable-price-discover-hps-37-wqhdplus-ultrawide-display-with-ips-technology-ideal-for-professionals-seeking-quality-without-ol49/"><u>Exceptional Clarity at an Affordable Price: Discover HP’s 37 WQHD+ Ultrawide Display with IPS Technology, Ideal for Professionals Seeking Quality without OLED Expense</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-alienwares-stunning-34-curved-oled-display-for-only-749-at-best-buy/"><u>Experience Next-Level Gaming: Alienware's Stunning 34 Curved OLED Display for Only $749 at Best Buy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-future-of-gaming-with-alienwares-high-speed-aw2725df-monitor-an-expert-review-of-its-oled-brilliance/"><u>Experience the Future of Gaming with Alienware's High-Speed AW2725DF Monitor - An Expert Review of Its OLED Brilliance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-latest-in-affordable-laptops-minisforums-new-release-featuring-a-156-inch-144hz-1440p-screen-for-just-189/"><u>Experience the Latest in Affordable Laptops - Minisforum's New Release Featuring a 15.6-Inch, 144Hz, 1440P Screen for Just $189</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-pc-hardware-from-toms-gadget-insights/"><u>Expert Advice on PC Hardware From Tom's Gadget Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-uncovering-the-best-in-computer-hardware/"><u>Expert Reviews by Tom: Uncovering the Best in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-tips-on-hardware-from-toms-technology-corner/"><u>Expert Tips on Hardware From Tom's Technology Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertly-guided-computer-shopping-at-trustworthy-toms-hardware/"><u>Expertly Guided Computer Shopping at Trustworthy Tom's Hardware</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/get-back-to-seamless-transfers-fixing-faulty-airdrop-links-for-2024/"><u>Get Back to Seamless Transfers Fixing Faulty Airdrop Links for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-hypervision-pro-all-in-one-4k-screen-desks/"><u>In 2024, HyperVision Pro All-in-One 4K Screen Desks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-class-top-online-aids-for-improving-media-captions-quality-for-2024/"><u>Master Class Top Online Aids for Improving Media Captions' Quality for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728485841245-windows-117/"><u>Windows 11で素早くコマンドプロンプトを閉じるための7つの方法</u></a></li>
+</ul></div>
+

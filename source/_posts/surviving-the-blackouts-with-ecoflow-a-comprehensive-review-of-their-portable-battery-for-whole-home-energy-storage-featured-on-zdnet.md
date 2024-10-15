@@ -1,7 +1,7 @@
 ---
 title: "Surviving the Blackouts with EcoFlow: A Comprehensive Review of Their Portable Battery for Whole-Home Energy Storage Featured on ZDNET"
-date: 2024-09-17 20:40:43
-updated: 2024-09-20 12:42:20
+date: 2024-10-10T16:15:09.096Z
+updated: 2024-10-15T16:11:29.131Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C517ddb11-4e61-447d-b337-b0f4094d599f%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C517ddb11-4e61-447d-b337-b0f4094d599f%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,28 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-polarr-photo-editor-demystified-in-depth-analysis/"><u>[New] Polarr Photo Editor Demystified In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhanced-device-charging-unveiling-the-potential-of-poweradd-pilot-pro2/"><u>Enhanced Device Charging: Unveiling the Potential of POWERADD Pilot Pro2</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-knowledge-optimizing-your-use-of-mobizen-recorders-for-2024/"><u>Essential Knowledge Optimizing Your Use of Mobizen Recorders for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-google-pixel-8-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Google Pixel 8 Face Lock?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-beam-your-best-selecting-the-stirring-photos-on-instagram/"><u>In 2024, Beam Your Best Selecting the Stirring Photos on Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-simple-android-voice-capture-no-root-access/"><u>In 2024, Simple Android Voice Capture - No Root Access</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-to-snipping-and-shaping-videos-directly-from-your-android-phone/"><u>Step-by-Step Guide to Snipping & Shaping Videos Directly From Your Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-activating-safe-and-private-dns-settings-in-your-android-device/"><u>Step-by-Step Guide: Activating Safe & Private DNS Settings in Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-displaying-battery-status-in-percentage-on-your-android-device/"><u>Step-by-Step Guide: Displaying Battery Status in Percentage on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-dropping-markers-on-google-maps/"><u>Step-by-Step Guide: Dropping Markers on Google Maps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-switching-dns-settings-on-your-android-device/"><u>Step-by-Step Guide: Switching DNS Settings on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-turning-off-auto-update-feature-on-your-android-devices/"><u>Step-by-Step Guide: Turning Off Auto-Update Feature on Your Android Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
+</ul></div>
+

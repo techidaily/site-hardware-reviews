@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Journey to a Greener Future: Strategies for Reaching Net Zero | Exclusive Coverage by ZDNET"
-date: 2024-09-17 22:26:25
-updated: 2024-09-20 10:53:50
+date: 2024-10-10T16:03:04.639Z
+updated: 2024-10-15T16:04:07.616Z
 tags:
   - sustainability
 categories:
@@ -112,11 +112,42 @@ I think so, and I'm super-proud that we're the first PC and smartphone manufactu
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-samsungs-gear-360-challenger-the-best-cameras-of-the-year/"><u>[New] Samsung’s Gear 360 Challenger The Best Cameras of the Year</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-wsl-2-methods-for-efficient-windows-coding/"><u>Best WSL 2 Methods for Efficient Windows Coding</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-notorious-black-ops-cold-war-error-0xc0000005-step-by-step-guide/"><u>Fixing the Notorious Black Ops Cold War Error 0xC0000005 – Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-ultimate-deal-this-memorial-day-with-a-gaming-monitor-at-just-279-the-dell-s3222dgm-32-inch-model/"><u>Get the Ultimate Deal This Memorial Day with a Gaming Monitor at Just $279 – The Dell S3222DGM 32-Inch Model</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-acquainted-with-windows-11s-widgets/"><u>Getting Acquainted with Windows 11'S Widgets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-res-360-views-gear-vs-lgcam-showdown/"><u>High-Res 360 Views Gear vs LGCam Showdown</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-oppo-reno-8t-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Oppo Reno 8T Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-toms-expert-reviews/"><u>Mastering Hardware with Tom's Expert Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-toms-essential-guide-to-cutting-edge-hardware/"><u>Mastering Modern Tech: Tom's Essential Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-with-insights-from-toms-hardware/"><u>Mastering Tech Trends with Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/memorial-day-special-unlock-epic-savings-on-dells-32-inch-gaming-display-for-only-279/"><u>Memorial Day Special: Unlock Epic Savings on Dell's 32-Inch Gaming Display for Only $279!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/minisforum-unveils-portable-gaming-device-a-budget-friendly-option-at-189-with-a-15ninch-display-and-144-hz-refresh-rate/"><u>Minisforum Unveils Portable Gaming Device: A Budget-Friendly Option at $189 - with a 15.nInch Display and 144 Hz Refresh Rate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-electronics-toms-hardware-resource/"><u>Navigate the World of Electronics - Tom's Hardware Resource</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-brands-a-list-of-20-keymarketing-phrases-for-2024/"><u>Transforming Brands A List of 20 Keymarketing Phrases for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncover-hidden-techniques-converting-av1-videos-to-mp4-format-with-ease/"><u>Uncover Hidden Techniques: Converting AV1 Videos to MP4 Format with Ease</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
