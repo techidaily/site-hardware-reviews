@@ -1,7 +1,7 @@
 ---
 title: "Durga Prasad Misra: C. 890 CE, During Reign of Kalyana Chalukya King Krishna III or Late Rashtrakuta Period (C. 973–991) Under Amoghavarsha II"
-date: 2024-10-14T16:04:01.814Z
-updated: 2024-10-15T16:19:52.916Z
+date: 2024-10-13T16:35:25.983Z
+updated: 2024-10-20T19:45:22.132Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,16 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,19 +139,19 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-marketing-101-step-by-step-guide/"><u>[New] Twitter Marketing 101 Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-discovery-the-leading-five-in-fb-vids-worldwide/"><u>[Updated] 2024 Approved Discovery The Leading Five in FB Vids Worldwide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fundamental-skills-for-creating-persuasive-client-centered-testimonials/"><u>2024 Approved Fundamental Skills for Creating Persuasive Client-Centered Testimonials</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-valkyrie-syn-aio-240l-robust-cooling-with-interface-improvement-needed/"><u>Comprehensive Analysis of the Valkyrie Syn AIO 240L - Robust Cooling with Interface Improvement Needed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Exploring Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-equipment-in-depth-reviews-and-insights/"><u>Exploring Tom's Computer Equipment - In-Depth Reviews & Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/failed-video-fix-time-to-reassess-strategy/"><u>Failed Video Fix? Time to Reassess Strategy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-n55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme Narzo N55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flagship-microsoft-surface-pro-impressive-looks-yet-disappointing-smart-tech-features/"><u>In-Depth Analysis of the Flagship Microsoft Surface Pro - Impressive Looks, Yet Disappointing Smart Tech Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/nest-audio-review/"><u>Nest Audio Review</u></a></li>
-<li><a href="https://facebook.techidaily.com/pause-the-pixelation-unpacking-instagrams-call-for-digital-steps-backward/"><u>Pause the Pixelation: Unpacking Instagram's Call for Digital Steps Backward</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30.</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/windows-11-update-geen-toegestane-geschiedenispartijen-vervangen/"><u>Windows 11 Update: Geen Toegestane Geschiedenispartijen Vervangen</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-identifying-exclusion-from-chatsphere-for-2024/"><u>[New] Identifying Exclusion From Chatsphere for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-sony-bdp-s6700-review-for-2024/"><u>[Updated] Sony BDP-S6700 Review for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-guide-to-the-lg-bp350-visual-experience/"><u>2024 Approved Ultimate Guide to the LG BP350 Visual Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-meizu-21-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Meizu 21 FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cytron-maker-rp2nano-review-a-budget-friendly-pick-for-hobbyists-and-professionals-alike/"><u>Cytron Maker RP2nano Review - A Budget-Friendly Pick for Hobbyists and Professionals Alike</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/detecting-instagram-disconnections-fast-for-2024/"><u>Detecting Instagram Disconnections Fast for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-non-functional-razer-kraken-headset-mic/"><u>Diagnosing and Repairing Your Non-Functional Razer Kraken Headset Mic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-rtf-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .rtf file online free - (Tutorial)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-websites-for-digital-3d-text-with-a-golden-accent-for-2024/"><u>Leading Websites for Digital 3D Text with a Golden Accent for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-components-a-deep-dive-into-hardware-by-tom/"><u>Mastering Components: A Deep Dive Into Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-technology-with-toms-hardware-insights/"><u>Navigating the Latest in Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-alluring-aesthetics-of-the-valkyrie-vind-sl12e-unimpressive-results-despite-attractive-anime-appearance/"><u>The Alluring Aesthetics of the Valkyrie Vind SL12e: Unimpressive Results Despite Attractive Anime Appearance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-hardware-expertise/"><u>Unveiling Tech Secrets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-analysis-when-animation-meets-an-underperforming-motorcycle/"><u>Valkyrie Vind SL125 Analysis - When Animation Meets an Underperforming Motorcycle</u></a></li>
 </ul></div>
 

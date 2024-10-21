@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Exclusive: Get the Best LG OLED TV at a Jaw-Dropping $800 Off Deal – ZDNET's Inside Scoop!"
-date: 2024-10-14T16:19:09.621Z
-updated: 2024-10-15T16:02:01.731Z
+date: 2024-10-18T02:08:15.038Z
+updated: 2024-10-20T20:57:10.581Z
 tags:
   - tvs
 categories:
@@ -22,16 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -97,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -139,18 +133,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-8-android-multi-user-video-chat-tools/"><u>[New] 2024 Approved Top 8 Android Multi-User Video Chat Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-maximize-your-money-with-these-top-10-simple-and-strategic-youtube-biz-channels/"><u>2024 Approved Maximize Your Money with These Top 10 Simple and Strategic YouTube Biz Channels</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-anycubic-kobra-3-leading-the-way-in-colorful-additive-manufacturing/"><u>Comprehensive Review of Anycubic Kobra 3 - Leading the Way in Colorful Additive Manufacturing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decode-the-bsod-dilemma-effective-fixes-for-stop-0x0000007b-issues/"><u>Decode the BSOD Dilemma - Effective Fixes for Stop 0X0000007B Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341733191-dough-spectrum-blacks-game-changing-27-oled-display-unleashed-highly-accurate-visually-stunning-gaming-perfection-revealed/"><u>Dough Spectrum Black's Game-Changing 27 OLED Display Unleashed: Highly Accurate, Visually Stunning Gaming Perfection Revealed!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-hide-or-block-other-wi-fi-networks-on-windows/"><u>How to Hide or Block Other Wi-Fi Networks on Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-gionee-f3-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Gionee F3 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-newbies-navigation-to-net-worth-on-periscope/"><u>In 2024, Newbie's Navigation to Net Worth on Periscope</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-streaming-platforms-for-authors/"><u>In 2024, Prime Streaming Platforms for Authors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-hardware-insights/"><u>Tom's Tech Hub: Advanced Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-world-of-computing-the-ultimate-resource-for-hardware-enthusiasts/"><u>Tom's World of Computing: The Ultimate Resource for Hardware Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-asus-rog-nuc-970-mini-pc-evaluation-power-packed-in-a-smaller-frame/"><u>Ultimate Asus ROG NUC 970 Mini PC Evaluation: Power-Packed in a Smaller Frame</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-peak-performance-a-detailed-examination-and-evaluation-of-the-lightning-fast-logitech-g-pro-x-2-designed-for-elite-gamers-only/"><u>Unlocking Peak Performance: A Detailed Examination and Evaluation of the Lightning Fast Logitech G Pro X 2 - Designed for Elite Gamers Only</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-quick-and-simple-thumbs-up-for-your-youtube-shorts/"><u>[New] In 2024, Quick & Simple Thumbs Up for Your YouTube Shorts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easeus-assessment-for-all/"><u>[Updated] EaseUS Assessment for All</u></a></li>
+<li><a href="https://facebook.techidaily.com/chronicle-of-connections-digging-into-facebook-past/"><u>Chronicle of Connections: Digging Into Facebook Past</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/raphic-relevance-for-higher-youtube-rankings-for-2024/"><u>Demographic Relevance for Higher YouTube Rankings for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-and-systems-by-toms-hardware/"><u>Expert Analysis on Gadgets and Systems by Tom's Hardware</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/expert-tips-for-shifting-gender-identity-in-digital-imagery-for-2024/"><u>Expert Tips for Shifting Gender Identity in Digital Imagery for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-the-secrets-to-efficient-image-capturing/"><u>In 2024, Unlocking the Secrets to Efficient Image Capturing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-electronics-guide/"><u>In-Depth Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-in-depth-analysis-and-gear-reviews/"><u>Inside Tom's Hardware: In-Depth Analysis and Gear Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gear-choices-with-expert-advice-from-toms-equipment-hub/"><u>Master Your Gear Choices with Expert Advice From Tom's Equipment Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-tom-your-ultimate-guide-to-new-hardware/"><u>Navigating Technology with Tom - Your Ultimate Guide to New Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-compute-module-4s-revolutionizing-industrial-automation-a-detailed-examination/"><u>Raspberry Pi Compute Module 4S: Revolutionizing Industrial Automation - A Detailed Examination</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamped-drives-for-pcs-new-acer-updates-in-win11/"><u>Revamped Drives for PCs: New Acer Updates in Win11</u></a></li>
 </ul></div>
 

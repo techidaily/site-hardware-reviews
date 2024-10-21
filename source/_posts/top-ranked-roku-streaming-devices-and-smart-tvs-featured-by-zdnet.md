@@ -1,7 +1,7 @@
 ---
 title: Top-Ranked Roku Streaming Devices & Smart TVs - Featured by ZDNet
-date: 2024-09-17 16:24:36
-updated: 2024-09-20 10:57:50
+date: 2024-10-16T05:02:07.130Z
+updated: 2024-10-21T01:23:47.459Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -68,6 +75,19 @@ Because I don't have any sort of XLR mixing module, I wasn't able to compare how
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ShurePlus Motiv app
 
 As I said, the [ShurePlus Motiv app](https://www.shure.com/en-US/products/software/shure%5Fplus%5Fmotiv%5Fdesktop) isn't strictly necessary to use the MV7 microphone with your computer, but if you want to get the most out of your mic without needing a degree in audio engineering, I highly recommend downloading it; the app is free and simple enough to use, even for beginners. 
@@ -86,6 +106,19 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +132,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +169,26 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/a-filmmakers-handbook-mastering-close-up-videography-for-2024/"><u>A Filmmaker's Handbook Mastering Close-Up Videography for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-ddr5-performance-unleashed-in-depth-review-of-the-t-force-vulcan-by-teamgroup/"><u>Eco-Friendly DDR5 Performance Unleashed: In-Depth Review of the T-Force Vulcan by TeamGroup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-system-issues-of-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy A54 5G Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-inverted-video-flows-on-instagram-guide/"><u>In 2024, Navigating Inverted Video Flows on Instagram [Guide]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/maintain-excellence-when-shrinking-your-videos-a-step-by-step-compression-strategy-without-compromising-on-quality/"><u>Maintain Excellence When Shrinking Your Videos - A Step-by-Step Compression Strategy Without Compromising on Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-computing-the-toms-equipment-guide-to-perfection/"><u>Navigating Modern Computing: The Tom's Equipment Guide to Perfection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-pixel-perfection-exploring-the-exceptional-visual-fidelity-and-responsiveness-of-philips-evonia-qd-oled-monitor-49m2c8900-series/"><u>Next-Level Pixel Perfection: Exploring the Exceptional Visual Fidelity and Responsiveness of Philips' Evonia QD-OLED Monitor, 49M2C8900 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p27a2r-titan-screens-ultimate-guide-premium-180hz-display-for-gamers/"><u>P27A2R Titan Screen's Ultimate Guide: Premium 180Hz Display for Gamers</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-windows-blue-screen-of-death-due-to-win32kfullsys-errors/"><u>Resolving Windows Blue Screen of Death Due to Win32KFull.sys Errors</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-netgear-orbi-mesh-wifi-router-setup-firmware-download-instructions/"><u>Seamless Netgear Orbi Mesh WiFi Router Setup: Firmware Download Instructions</u></a></li>
+</ul></div>
+

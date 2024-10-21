@@ -1,7 +1,7 @@
 ---
 title: Enjoy a Decade's Worth of AI-Enhanced Features on Your Samsung Television without Additional Cost | ZDNET
-date: 2024-10-10T16:00:55.253Z
-updated: 2024-10-15T16:12:53.457Z
+date: 2024-10-16T20:59:29.928Z
+updated: 2024-10-21T01:19:33.158Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +105,14 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-breakthrough-ways-to-transform-your-powerpoint-presentations-for-2024/"><u>[New] Breakthrough Ways to Transform Your PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions-for-2024/"><u>[New] Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions) for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-ideas-for-eye-catching-podcast-artwork/"><u>[New] Innovative Ideas for Eye-Catching Podcast Artwork</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-techniques-for-modifying-photo-genders-on-major-social-platforms/"><u>[New] Techniques for Modifying Photo Genders on Major Social Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>2024 Approved Pro Tips for Pioneering Board Use in Webinars Android, iPhone & Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/decreasing-excessive-cpu-consumption-by-dropbox-on-windows-pcs/"><u>Decreasing Excessive CPU Consumption by Dropbox on Windows PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-superior-pc-components-through-toms-hardware-guidance/"><u>Discover Superior PC Components Through Tom's Hardware Guidance</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/efficiently-edit-your-documents-at-home-with-emeditor-a-comprehensive-text-editor-program/"><u>Efficiently Edit Your Documents at Home with EmEditor - A Comprehensive Text Editor Program</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-magnetic-appeal-of-keychrons-k2-he-special-edition-a-mid-century-marvel-in-action/"><u>Exploring the Magnetic Appeal of Keychron's K2 HE Special Edition - A Mid-Century Marvel in Action</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-zenbook-s16-with-amds-ryzen-5-8600h-processor/"><u>In-Depth Analysis of the Asus Zenbook S16 with AMD's Ryzen 5 8600H Processor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reduced-waste-lifestyle/"><u>Reduced Waste Lifestyle</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-and-analysis-of-sovol-sv08-the-ultimate-voron-inspired-bike/"><u>Review & Analysis of Sovol SV08 - The Ultimate Voron-Inspired Bike</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-enthusiasts-hub-top-reviews-and-buying-advice-from-toms-hardware/"><u>Tech Enthusiasts’ Hub: Top Reviews and Buying Advice From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nubia-red-magic-9-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nubia Red Magic 9 Pro+ FRP Bypass</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-unveiling-the-top-5-pros-of-52-pi-ice-tower-plus-for-your-raspberry-pi-4/"><u>Ultimate Guide: Unveiling the Top 5 Pros of '52-Pi Ice Tower Plus' For Your Raspberry Pi 4</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-shedding-light-techniques-for-improving-youtube-video-quality-for-2024/"><u>[Updated] Shedding Light Techniques for Improving YouTube Video Quality for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-systems-turning-images-into-dynamic-videos/"><u>In 2024, Expert Systems Turning Images Into Dynamic Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-nine-all-inclusive-free-holiday-movies-streamed-on-youtube/"><u>In 2024, Nine All-Inclusive Free Holiday Movies Streamed on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-copilotplus-gaming-with-prism-optimizations-and-cross-platform-cheat-blocking-microsofts-latest-endeavor-revealed/"><u>Revolutionizing Copilot+ Gaming with Prism Optimizations & Cross-Platform Cheat Blocking – Microsoft's Latest Endeavor Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-a-sizzling-deal-on-asuss-rog-zephyrus-g16-intel-ultra-9-chipset-and-nvidia-rtx-at-massive-savings/"><u>Score a Sizzling Deal on ASUS's RoG Zephyrus G16 - Intel Ultra 9 Chipset & NVIDIA RTX at Massive Savings!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-discover-essential-reviews-from-toms-hardware/"><u>Stay Ahead of the Curve: Discover Essential Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/teredo-network-protocol-tackling-non-qualifying-scenarios-and-solutions/"><u>Teredo Network Protocol: Tackling Non-Qualifying Scenarios and Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
 </ul></div>
 

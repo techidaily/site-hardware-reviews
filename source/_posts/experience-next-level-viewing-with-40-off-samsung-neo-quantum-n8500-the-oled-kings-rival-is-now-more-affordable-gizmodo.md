@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Level Viewing with 40%% Off Samsung Neo Quantum N8500: The OLED King's Rival Is Now More Affordable! | Gizmodo"
-date: 2024-10-14T16:10:28.984Z
-updated: 2024-10-15T16:11:07.083Z
+date: 2024-10-17T23:23:48.981Z
+updated: 2024-10-20T17:46:07.729Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +92,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mi-11s-screen-recording-elevate-your-digital-storytelling/"><u>[New] 2024 Approved Mi 11'S Screen Recording Elevate Your Digital Storytelling</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-free-webm-viewers-the-ultimate-comparison-of-options/"><u>[New] Free WebM Viewers The Ultimate Comparison of Options</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-practical-steps-in-mastering-telegram-web-services/"><u>[Updated] Practical Steps in Mastering Telegram Web Services</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-soundscapes-synergy-ideal-dj-videos-to-download-for-2024/"><u>[Updated] Soundscapes Synergy Ideal DJ Videos to Download for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/approach/"><u>Approach:</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-tech-evaluations-by-toms-hardware-experts/"><u>Comprehensive Computer Tech Evaluations by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-frontiers-toms-hardware-evaluations-and-reviews/"><u>Navigating New Tech Frontiers: Tom's Hardware Evaluations and Reviews</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-x-fold-2-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo X Fold 2</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revamping-educational-experiences-through-vr/"><u>Revamping Educational Experiences Through VR</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-gadgets-by-toms-hardware-experts/"><u>The Ultimate Guide to Gadgets by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-in-depth-review-of-highpoints-rocket-1608a-card-upgraded-storage-superior-power/"><u>Unveiling the Potential: In-Depth Review of HighPoint's Rocket 1608A Card - Upgraded Storage, Superior Power</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-bold-bio-brilliance-groundbreaking-ideas-for-increasing-follower-count-on-tiktok-through-filmora/"><u>[Updated] Bold Bio Brilliance Groundbreaking Ideas for Increasing Follower Count on TikTok Through Filmora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-facetime-simplified-a-compreited-guide-for-android-users-for-2024/"><u>[Updated] FaceTime Simplified A Compreited Guide for Android Users for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-new-era-of-mac-os-embracing-big-sur/"><u>[Updated] The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-filters-a-comprehensive-guide/"><u>2024 Approved Instagram Filters A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/are-there-any-limits-to-how-amazing-the-samsung-galaxy-s24-ultra-can-be/"><u>Are There Any Limits to How Amazing the Samsung Galaxy S24 Ultra Can Be?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-of-both-worlds-with-keychron-q1-he-a-hybrid-desktopwireless-marvel/"><u>Discover the Best of Both Worlds with Keychron Q1 HE - A Hybrid Desktop/Wireless Marvel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-gear-review-at-tomtechspotlight/"><u>Expert Gear Review at TomTechSpotlight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-pny-rp6-1tb-ssd-satisfactory-performance-with-no-notable-highlights/"><u>In Depth Review of PNY RP6# 1TB SSD: Satisfactory Performance with No Notable Highlights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-beyerdynamic-mmx-30e-pro-impressive-acoustics-meets-simple-design/"><u>In-Depth Analysis of Beyerdynamic MMX 30E Pro - Impressive Acoustics Meets Simple Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-comprehensive-hardware-review-site/"><u>Mastering Gadgets with Tom - A Comprehensive Hardware Review Site</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-wireless-or-hardwired-optimal-gaming-connections/"><u>Superior Wireless or Hardwired? Optimal Gaming Connections</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/taking-flight-higher-in-depth-insights-into-the-new-dji-mavic-3-drone-camera-system/"><u>Taking Flight Higher: In-Depth Insights Into the New DJI Mavic 3 Drone Camera System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-resin-3d-printing-with-elegoos-saturn-4-ultra-a-detailed-review-exploring-its-technological-advancements/"><u>The Future of Resin 3D Printing with Elegoo's Saturn 4 Ultra - A Detailed Review Exploring Its Technological Advancements</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-pros-approach-to-documenting-overwatch-battles-for-2024/"><u>The Pro's Approach to Documenting Overwatch Battles for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-guide-to-toms-computer-components-and-systems/"><u>Unlocking Performance: A Guide to Tom's Computer Components and Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-a-comprehensive-review-of-the-corsair-e27t-ssd-the-ultimate-1tb-m2-solution/"><u>Unveiling the Best: A Comprehensive Review of the Corsair E27T SSD - The Ultimate 1TB M.2 Solution</u></a></li>
 </ul></div>
 

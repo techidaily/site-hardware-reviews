@@ -1,7 +1,7 @@
 ---
 title: Surviving Power Outages? Try the EcoFlow Portable Battery That Kept a Home Running!
-date: 2024-09-19 16:38:21
-updated: 2024-09-20 10:13:11
+date: 2024-10-14T22:24:08.876Z
+updated: 2024-10-21T01:04:14.860Z
 tags:
   - sustainability
 categories:
@@ -95,6 +95,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Battery-Expandable-Emergency%2Fdp%2FB0CQXLCK75%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd25d2dd1-1a4f-4847-93ce-3d630ced7a04%7Cdtp&dtb=1) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEF-ECOFLOW-Expandable-Generator-Emergency%2Fdp%2FB0CQXMZ5BK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd25d2dd1-1a4f-4847-93ce-3d630ced7a04%7Cdtp&dtb=1)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -124,11 +131,28 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-efficient-color-grading-in-ar-understanding-and-downloading-luts/"><u>[New] Efficient Color Grading in AR Understanding and Downloading LUTs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-become-an-fcp-virtuoso-with-this-guide-for-2024/"><u>[Updated] Become an FCP Virtuoso with This Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mp3-streaming-simplified-youtube-upload-in-three-steps/"><u>[Updated] MP3 Streaming Simplified YouTube Upload in Three Steps</u></a></li>
+<li><a href="https://win-community.techidaily.com/comprehensive-fixes-for-disk-is-full-warning-in-excel-201020132016/"><u>Comprehensive Fixes for 'Disk Is Full' Warning in Excel 2010/2013/2016</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delve-into-digital-unraveling-the-wonders-of-technology-with-toms-guidance/"><u>Delve Into Digital: Unraveling the Wonders of Technology with Tom's Guidance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-drones-techniques-in-video-post-production/"><u>Enhancing Drones Techniques in Video Post-Production</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-future-of-gaming-cases-the-phanteks-xt-pro-ultra-packed-with-advanced-lighting-and-superior-ventilation/"><u>Explore the Future of Gaming Cases: The Phanteks XT Pro Ultra, Packed with Advanced Lighting & Superior Ventilation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-a25-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy A25 5G Is Unlocked</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-store-expert-insights-on-technology-gadgets/"><u>Inside Tom's Hardware Store: Expert Insights on Technology Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-review-the-compact-fractal-pc-case-featuring-elegant-wood-design-and-customizable-backrest/"><u>Interactive Review: The Compact Fractal PC Case Featuring Elegant Wood Design and Customizable Backrest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477196-pure-base-500dx-mid-tower-desktop-chassis-steal-the-deal-at-only-84/"><u>Pure Base 500DX Mid Tower Desktop Chassis - Steal the Deal at Only $84</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revitalize-your-audio-experience-by-eliminating-headphone-disturbances-quickly/"><u>Revitalize Your Audio Experience by Eliminating Headphone Disturbances Quickly</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2021-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2021 Spreadsheet Disappears after Opening</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964474740-upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck</u></a></li>
+</ul></div>
+

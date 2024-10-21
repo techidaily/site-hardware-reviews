@@ -1,7 +1,7 @@
 ---
 title: "Score the Deal of a Lifetime: Apple Watch Series 10 at Unbeatable $99 Price with Best Buy Preorders - Full Steps Revealed | ZDNET"
-date: 2024-09-18 10:16:32
-updated: 2024-09-20 11:23:34
+date: 2024-10-19T17:10:05.560Z
+updated: 2024-10-20T21:11:33.448Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,19 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/1726028680247-mp4/"><u>「最強無料MP4フォーマッター:アヴィ変換の追いかける方法」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-guide-to-excellent-live-cricket-online-watch/"><u>2024 Approved A Guide to Excellent Live Cricket Online Watch</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-a05s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy A05s Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-pny-rp60-portable-ssd-good-quality-yet-unremarkable-features/"><u>Evaluating the PNY RP60 Portable SSD - Good Quality, Yet Unremarkable Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-testing-the-nzxt-c1500-platinum-unit/"><u>Expert Analysis: Testing the NZXT C1500 Platinum Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-neo-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Neo Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-convert-youtube-tracks-to-mp3-safely-the-3-best-ways/"><u>How To Convert YouTube Tracks to MP3 Safely - The 3 Best Ways</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-x50-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor X50 Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-reviews-and-analysis-by-toms-hardware-experts/"><u>Innovative Tech Reviews and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-discover-the-best-online-repositories-for-acquiring-bgm-tracks/"><u>New 2024 Approved Discover the Best Online Repositories for Acquiring BGM Tracks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reaching-new-heights-a-comprehensive-review-of-crucial-pro-6000-series-ddr5-memory-for-advanced-system-tuning-and-performance-optimization/"><u>Reaching New Heights: A Comprehensive Review of Crucial Pro 6000 Series DDR5 Memory for Advanced System Tuning and Performance Optimization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-chatgpt-is-currently-overloaded-on-your-windows-pc/"><u>Resolving 'ChatGPT Is Currently Overloaded' On Your Windows PC</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-modifying-system-parameters-via-the-advanced-settings-window/"><u>Step-by-Step Guide: Modifying System Parameters via the Advanced Settings Window</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-solution-to-d3d9dll-not-detected-issues-in-windows/"><u>The Ultimate Solution to d3d9.dll Not Detected Issues in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-qhd-gaming-with-asus-rog-strix-xg27acs-a-review-on-its-precision-and-adaptive-performance-at-180hz/"><u>Unlocking the Potential of QHD Gaming with Asus ROG Strix XG27ACS – A Review on Its Precision and Adaptive Performance at 180Hz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-parts-and-systems-the-toms-hardware-review/"><u>Unveiling the Latest in PC Parts and Systems: The Tom's Hardware Review</u></a></li>
+</ul></div>
+

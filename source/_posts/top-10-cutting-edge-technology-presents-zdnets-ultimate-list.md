@@ -1,7 +1,7 @@
 ---
 title: Top 10 Cutting-Edge Technology Presents | ZDNet's Ultimate List
-date: 2024-09-19 15:49:37
-updated: 2024-09-20 10:15:41
+date: 2024-10-19T00:29:14.120Z
+updated: 2024-10-20T19:40:40.355Z
 tags:
   - streaming-devices
 categories:
@@ -62,11 +62,25 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,26 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unbeatable-freefire-gaming-hashtag-and-strategy-insights/"><u>[New] Unbeatable FreeFire Gaming Hashtag & Strategy Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/adata-delivers-ultimate-gaming-potential-with-its-1600w-psu-supporting-a-trio-of-high-end-nvidia-geforce-rtx-4090-gpus/"><u>Adata Delivers Ultimate Gaming Potential with Its 1600W PSU, Supporting a Trio of High-End NVIDIA GeForce RTX 4090 GPUs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cooler-master-powerful-energy-solutions-unveiled-a-deep-dive-into-the-versatile-v-sfx-with-a-quiet-750w-option/"><u>Cooler Master Powerful Energy Solutions Unveiled: A Deep Dive Into the Versatile V SFX with a Quiet 750W Option</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-compatible-hp-printer-drivers-download-updates-for-windows-10-and-11-devices/"><u>Get Compatible HP Printer Drivers - Download Updates for Windows 10 & 11 Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-2800w-atx-psu-with-dual-12v-rails-suitable-for-intensive-ai-workloads-featuring-four-6a-power-connectors-perfect-for-quad-gpu-configuration23/"><u>High-Performance 2800W ATX PSU with Dual 12V Rails Suitable for Intensive AI Workloads: Featuring Four 6A Power Connectors Perfect for Quad GPU Configurations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-repair-and-fix-a-whea-memory-or-cpu-malfunction/"><u>How to Repair and Fix a WHEA Memory or CPU Malfunction</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigate-to-new-horizinas-top-win11-gaming-delights/"><u>In 2024, Navigate to New Horizinas Top Win11 Gaming Delights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-14-vs-iphone-13-showdown-expert-analysis-on-why-you-might-consider-an-upgrade-insights-from-zdnet/"><u>IPhone 14 vs IPhone 13 Showdown: Expert Analysis on Why You Might Consider an Upgrade - Insights From ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-fixing-paladins-crashes-proven-solutions-and-tips-to-enhance-your-gaming-experience/"><u>Master Fixing Paladins Crashes: Proven Solutions and Tips to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/specifications-and-features/"><u>Specifications and Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-into-the-metaverse-analyzing-6-engrossing-cases/"><u>Step Into the Metaverse Analyzing 6 Engrossing Cases</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/whats-sweeping-the-web-dive-into-these-8-trending-videos-for-2024/"><u>What's Sweeping the Web? Dive Into These 8 Trending Videos for 2024</u></a></li>
+</ul></div>
+

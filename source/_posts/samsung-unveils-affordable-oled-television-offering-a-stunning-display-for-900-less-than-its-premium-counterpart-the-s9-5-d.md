@@ -1,7 +1,7 @@
 ---
 title: Samsung Unveils Affordable OLED Television, Offering a Stunning Display for $900 Less Than Its Premium Counterpart, the S9 5 D
-date: 2024-10-12T16:01:12.772Z
-updated: 2024-10-15T16:22:14.063Z
+date: 2024-10-16T02:55:26.245Z
+updated: 2024-10-20T21:12:27.451Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,22 +92,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ultimatevision-recorder-for-w10-for-2024/"><u>[New] UltimateVision Recorder for W10 for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-adding-timers-utilizing-obs-for-countdown-features/"><u>[Updated] Adding Timers Utilizing OBS for Countdown Features</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-static-to-dynamic-a-comprehensive-look-at-the-new-polaroid-xs-100i-action-camera/"><u>[Updated] From Static to Dynamic A Comprehensive Look at the New Polaroid XS 100I Action Camera</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341701437-approach-identify-the-legal-documents-function-in-land-division/"><u>Approach: Identify the Legal Document's Function in Land Division</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-propeller-selection-for-optimal-fpv-drone-control/"><u>Decoding Propeller Selection for Optimal FPV Drone Control</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-9345-laptop-evaluation-timeless-design-upgraded-with-qualcomms-x-elite-processor/"><u>Dell XPS 13 (9345) Laptop Evaluation: Timeless Design Upgraded with Qualcomm's X Elite Processor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-the-assembly-process-for-sunfounders-pironmann-5-robot/"><u>Expert Analysis on the Assembly Process for SunFounder's Pironmann 5 Robot</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Phone with Broken Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insightful-analysis-of-the-sunfounder-pironman-5-a-detailed-assessment-with-initial-setup-steps/"><u>Insightful Analysis of the Sunfounder Pironman 5: A Detailed Assessment with Initial Setup Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-wisdom-from-toms-hardware-hub/"><u>Mastering Electronics: Wisdom From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-expert-analysis-by-toms-hardware/"><u>Mastering Technology: The Expert Analysis by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-top-notch-guidance-from-toms-hardware/"><u>Mastering Technology: Top-Notch Guidance From Tom’s Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-settings-for-flawless-valorant/"><u>Optimizing Windows Settings for Flawless Valorant</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/soil-health/"><u>Soil Health</u></a></li>
-<li><a href="https://win-able.techidaily.com/start-menu-not-working-in-windows-10-solved/"><u>Start Menu Not Working in Windows 10 [Solved]</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-the-process-of-saving-ps3-gaming-moments-for-2024/"><u>Streamlining the Process of Saving PS3 Gaming Moments for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-edge-40-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Edge 40 without backup.</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-decoding-the-mechanics-of-subscriber-tracking/"><u>[Updated] In 2024, Decoding the Mechanics of Subscriber Tracking</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-your-videos-potential-with-these-7-audio-treasures/"><u>[Updated] Unlock Your Video's Potential with These 7 Audio Treasures</u></a></li>
+<li><a href="https://win-latest.techidaily.com/57ek5ocl6loh5paz5lplusu5b6p5oqa6kgt77ya5aac5l2v6yen54plusplus5bey57at6kkr5yiq6zmk55qe55u45qmf55wr6z2i/"><u>緊急資料修復技術：如何重現已經被刪除的相機畫面</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pi-speed-with-a-high-performance-low-cost-m2-hatplus-reveal/"><u>Boost Your Raspberry Pi Speed with a High-Performance, Low-Cost M.2 HAT+ Reveal</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-lexars-top-performing-ssd-models-sl500-vs-professional-sl600-with-speeds-up-to-20-gbs/"><u>Comprehensive Analysis of Lexar's Top-Performing SSD Models: SL500 Vs. Professional SL600 with Speeds up to 20 GB/S</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-your-playstation-5-dualsense-controller-with-windows-11-a-step-by-step-guide/"><u>Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://blog-min.techidaily.com/extended-support-for-ubuntu-lts-editions-enjoy-a-new-12-year-update-cycle/"><u>Extended Support for Ubuntu LTS Editions: Enjoy a New 12-Year Update Cycle</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-meizu-21-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Meizu 21 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-beyerdynamic-mmx-300-pro-superior-acoustics-meets-fundamental-design/"><u>In-Depth Analysis of the Beyerdynamic MMX 300 Pro: Superior Acoustics Meets Fundamental Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solve-mysteries-online-your-guide-to-4-ai-detective-adventures-and-enigmas/"><u>Solve Mysteries Online: Your Guide to 4 AI Detective Adventures and Enigmas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-acer-predator-orion-n5010-premium-gaming-laptop-at-a-bargain-price/"><u>The Ultimate Guide to the Acer Predator Orion N5010: Premium Gaming Laptop at a Bargain Price</u></a></li>
 </ul></div>
 

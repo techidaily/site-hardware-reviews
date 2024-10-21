@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Offer: Get the Enormous 98-Inch TCL S5 Television for Only $2,000 - Special Report on ZDNet"
-date: 2024-10-14T16:04:14.742Z
-updated: 2024-10-15T16:08:15.131Z
+date: 2024-10-13T23:15:36.537Z
+updated: 2024-10-20T17:22:41.661Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,24 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-overcoming-airdrop-obstacles-fast-track-fixes-for-iosmacos-devices/"><u>[New] Overcoming AirDrop Obstacles Fast-Track Fixes for iOS/macOS Devices</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-life-in-high-definition-the-nikon-1j5-review/"><u>Capturing Life in High Definition The Nikon 1J5 Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-preventing-and-repairing-phoenix-point-game-crashes/"><u>Expert Tips on Preventing and Repairing Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/guide-to-reconnecting-overcoming-offline-print-spooler/"><u>Guide to Reconnecting: Overcoming Offline Print Spooler</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nubia-z50-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nubia Z50 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-actionable-guide-xml-to-srt-conversion-techniques/"><u>In 2024, Actionable Guide XMl-to-Srt Conversion Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-a24-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy A24 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-beyerdynamic-mmx-30e-pro-impressive-acoustics-meets-simple-design/"><u>In-Depth Analysis of Beyerdynamic MMX 30E Pro - Impressive Acoustics Meets Simple Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-components-with-toms-guide/"><u>Inside the World of Components with Tom's Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-excel-techniques-for-disabling-or-erasing-pre-set-table-formatting-effects/"><u>Mastering Excel: Techniques for Disabling or Erasing Pre-Set Table Formatting Effects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-gaming-on-windows-with-asus-rog-ally-x-an-insightful-revenue-at-an-elevated-price/"><u>Mastering Mobile Gaming on Windows with Asus ROG Ally X - An Insightful Revenue at an Elevated Price</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-computer-hardware-trends-guided-by-toms-gear-review/"><u>Navigate the Latest Computer Hardware Trends – Guided by Tom's Gear Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-unveiling-the-best-in-hardware-technology/"><u>Pioneering Reviews by Tom: Unveiling the Best in Hardware Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-of-resin-3d-printing-with-elegoos-saturn-4-ultra-a-detailed-review-exploring-its-technological-advancements/"><u>The Future of Resin 3D Printing with Elegoo's Saturn 4 Ultra - A Detailed Review Exploring Its Technological Advancements</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-savvy-consumers-discovering-quality-hardware-with-tom/"><u>The Ultimate Resource for Tech Savvy Consumers - Discovering Quality Hardware with Tom</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-f25-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo F25 Pro 5G Phones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-guide-to-toms-computer-components-and-systems/"><u>Unlocking Performance: A Guide to Tom's Computer Components and Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-a-comprehensive-review-of-the-corsair-e27t-ssd-the-ultimate-1tb-m2-solution/"><u>Unveiling the Best: A Comprehensive Review of the Corsair E27T SSD - The Ultimate 1TB M.2 Solution</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-way-to-perform-obs-streaming/"><u>[New] 2024 Approved Best Way to Perform OBS Streaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-simplified-avatars-navigating-the-metaverse-realm/"><u>[Updated] In 2024, Simplified Avatars Navigating the Metaverse Realm</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-soundtrack-strategy-elevating-facebook-videos-with-music-for-2024/"><u>[Updated] The Soundtrack Strategy Elevating Facebook Videos with Music for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-creators-revolutionizing-virtual-environments/"><u>[Updated] Top Creators Revolutionizing Virtual Environments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-talk-unveiling-cutting-edge-hardware-with-toms-expertise/"><u>Advanced Tech Talk: Unveiling Cutting-Edge Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-ai-9-hx-370-inside-the-new-asus-zenbook-s16-gaming-and-productivity-performance-evaluated/"><u>AMD Ryzen AI 9 HX 370 Inside the New Asus Zenbook S16 - Gaming and Productivity Performance Evaluated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862722328-beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmark-battles-is-the-samsung-book4-edge-outclassed-by-iphone-12-in-speed-and-efficiency/"><u>Benchmark Battles: Is the Samsung Book4 Edge Outclassed by iPhone 12 in Speed and Efficiency?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-buys-ryzen-ai-300-laptops-delayed-to-july-28th-explore-updated-availability-online/"><u>Best Buy's Ryzen AI 300 Laptops Delayed to July 28Th – Explore Updated Availability Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-with-toms-digital-world-your-guide-to-gadgets-and-components/"><u>Delving Into Hardware with Tom's Digital World: Your Guide to Gadgets and Components</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosis-and-fix-experiencing-sound-on-speakers-even-with-plugged-in-headphones/"><u>Diagnosis & Fix: Experiencing Sound on Speakers Even with Plugged-In Headphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/digital-insights-with-toms-hardware-guides/"><u>Digital Insights with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-computing-started-here-top-windows-programs-to-remove/"><u>Efficient Computing Started Here: Top Windows Programs to Remove</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-leap-in-computing-global-premiere-risc-v-laptop-receives-unprecedented-core-and-speed-enhancements-including-state-of-the-art-ai-features/"><u>Groundbreaking Leap in Computing: Global Premiere RISC-V Laptop Receives Unprecedented Core and Speed Enhancements, Including State-of-the-Art AI Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-precise-notes-using-mematic-software/"><u>In 2024, Craft Precise Notes Using Mematic Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategies-for-adjusting-music-tempo-on-spotify-app/"><u>Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tesla-autonomous-ride-sharing-botcheetah-price-estimates-expected-release-date-and-speculated-features/"><u>Tesla Autonomous Ride-Sharing Botcheetah - Price Estimates, Expected Release Date, and Speculated Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-future-of-imaging-embracing-quantum-hdr/"><u>The Future of Imaging Embracing Quantum HDR</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862707918-top-gaming-laptop-alert-the-budget-friendly-lenovo-legion-slim-5-available-for-under-1100-at-newegg/"><u>Top Gaming Laptop Alert: The Budget-Friendly Lenovo Legion Slim 5 – Available for Under $1,100 at Newegg</u></a></li>
 </ul></div>
 

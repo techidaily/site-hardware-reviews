@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Tech Bites: Powering Devices with Mycelium Chips for a Greener Future | Featured on ZDNET"
-date: 2024-09-19 19:36:10
-updated: 2024-09-20 10:55:28
+date: 2024-10-18T18:52:59.159Z
+updated: 2024-10-20T23:36:44.479Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-discovering-the-best-10-online-tools-for-vimeo-videos-for-2024/"><u>[Updated] Discovering the Best 10 Online Tools for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-transition-of-video-files-to-facebook-for-pcandroid-for-2024/"><u>[Updated] Seamless Transition of Video Files to Facebook for PC/Android for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-top-strategies-for-box-enthusiasts/"><u>2024 Approved The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-ipad-and-iphone-screen-recording-for-beginners/"><u>Easy iPad & iPhone Screen Recording for Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/editscreen-pro-windows-8-for-2024/"><u>EditScreen Pro Windows 8 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-with-nextorages-new-ultra-rapid-handheld-ssd-drive-at-7400mbs-speeds/"><u>Game Like Never Before with Nextorage's New Ultra-Rapid Handheld SSD Drive at 7,400MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-your-graphics-card-supports-call-of-duty-warzone-on-windows-11/"><u>How To Ensure Your Graphics Card Supports Call of Duty: Warzone on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-150-2023-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia 150 (2023) for Streaming | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-reviews-by-technology-expert-toms-domain/"><u>Innovative Gadget Reviews by Technology Expert, Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-expert-advice-on-tech-equipment-with-tom/"><u>Inside the Circuitry: Expert Advice on Tech Equipment with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-announces-termination-of-200-series-optane-memory-dimms-final-shipments-slated-for-end-of-2025/"><u>Intel Announces Termination of 200-Series Optane Memory DIMMs; Final Shipments Slated for End of 2025</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxias-cutting-edge-optical-ssds-deliver-blistering-speeds-and-unprecedented-distance-capabilities-up-to-40-meters-away-from-the-processor/"><u>Kioxia's Cutting-Edge Optical SSDs Deliver Blistering Speeds and Unprecedented Distance Capabilities: Up to 40 Meters Away From the Processor</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/movavi-plus-unveiled-the-latest-edition-for-2024/"><u>Movavi Plus Unveiled – The Latest Edition for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-into-advanced-technology/"><u>Navigating the World of Gadgets with Tom - Insights Into Advanced Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-expertise/"><u>Navigating the World of Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-review/"><u>Navigating the World of Gadgets with Tom's Hardware Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-foul-play-avoiding-unauthorized-use-of-chatgpt/"><u>No Foul Play: Avoiding Unauthorized Use of ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-tablet-unveiling-whats-inside-teaser-on-upcoming-specs-and-release-timelines/"><u>Pixel Tablet Unveiling - What's Inside? Teaser on Upcoming Specs & Release Timelines</u></a></li>
+</ul></div>
+

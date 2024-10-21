@@ -1,7 +1,7 @@
 ---
 title: "Galaxy Watch Ultra or Apple Watch Ultra: The Definitive Guide to Your Next Wrist Companion | CNET"
-date: 2024-09-17 15:54:29
-updated: 2024-09-20 10:12:55
+date: 2024-10-15T23:36:23.507Z
+updated: 2024-10-20T21:13:41.227Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/0-user-friendly-free-tools-to-create-professional-video-thumbnails-for-2024/"><u>[New] 10 User-Friendly Free Tools to Create Professional Video Thumbnails for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-a-glimpse-at-the-best-curating-a-list-of-5-exceptional-book-tts/"><u>[New] In 2024, A Glimpse at the Best Curating a List of 5 Exceptional Book TTs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-scan-and-select-from-these-premium-10-sources-of-vectors/"><u>[New] Scan and Select From These Premium 10 Sources of Vectors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-cultivating-commerce-on-instagram-partnering-with-profitable-brands/"><u>[Updated] Cultivating Commerce on Instagram Partnering with Profitable Brands</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-list-most-captivating-phone-based-idlers-for-2024/"><u>[Updated] Ultimate List Most Captivating Phone-Based Idlers for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-assess-the-influence-of-community-input-on-planning-decisions/"><u>Approach: Assess the Influence of Community Input on Planning Decisions.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deciphering-computing-power-insightful-reviews-from-toms-hardware-hub/"><u>Deciphering Computing Power: Insightful Reviews From Tom's Hardware Hub</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-repair-methods-for-tracer-errors-m-audio/"><u>Efficient Repair Methods for Tracer Errors (M-Audio)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-fixed-the-problem-with-my-diagnostic-tools-currently-inactive/"><u>How I Fixed the Problem with My Diagnostic Tools Currently Inactive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-hardware-world-with-toms-pc-and-component-guide/"><u>Navigating the Hardware World with Tom's PC & Component Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-analysis-with-toms-hardware-chronicles/"><u>Pioneering Computer Analysis with Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-portability-with-the-asrock-z790i-lightning-wi-fi-card-an-in-depth-review/"><u>Revolutionizing Portability with the ASRock Z790I Lightning Wi-Fi Card: An In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lowdown-on-sabrents-rocket-nano-an-in-depth-examination-of-the-1tb-m2-222-gen3-x4-ssd/"><u>The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-expert-insights-on-latest-hardware/"><u>Tom's Tech Gear: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-pros-and-cons-of-oneplus-8t-exceptional-speed-meets-disappointing-cameras/"><u>Unveiling the Pros and Cons of OnePlus 8T - Exceptional Speed Meets Disappointing Cameras</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-hardware-at-toms-reviews/"><u>Unveiling Top-Notch Hardware at Tom's Reviews</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updating-amd-video-adapters-tips-for-windows-7-8-and-11-users/"><u>Updating AMD Video Adapters: Tips for Windows 7, 8, and 11 Users</u></a></li>
+</ul></div>
+

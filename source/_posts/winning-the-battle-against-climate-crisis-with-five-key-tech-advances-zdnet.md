@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against Climate Crisis with Five Key Tech Advances | ZDNet
-date: 2024-09-17 12:22:20
-updated: 2024-09-20 12:40:41
+date: 2024-10-14T20:17:32.449Z
+updated: 2024-10-21T01:56:05.293Z
 tags:
   - sustainability
 categories:
@@ -19,11 +19,25 @@ Estimates suggest technology is [one of the biggest contributors to rising carbo
 
 ### 1\. Carbon capture, removal, and storage 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [Technology and the Sustainable Future Technology has a key part to play in the solutions for building a better global economy. And, tech companies themselves are moving rapidly to become better citizens and change agents. Here's what we can learn.  Read now](https://www.zdnet.com/topic/technology-and-the-sustainable-future/)
 
 The IPCC's [Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/) report noted that continued high rates of emissions mean that excess CO2 removal is now required to reach net zero emissions in the required timeframe. According to the [Center for Climate and Energy Solutions](https://www.c2es.org/content/carbon-capture/), at least 26 commercial-scale carbon capture projects were operating around the world as of 2020, with 21 more in early development and 13 in advanced development.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Renewable energy 
 
@@ -33,9 +47,23 @@ Image: StartUs Insights
 
 The biggest impact, this research revealed, will come from advanced photovoltaics, AI and big data, distributed energy storage systems and hydro power, followed by wind energy, bioenergy, grid integration, green hydrogen, advanced robotics, and blockchain. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Batteries and energy storage 
 
 Rechargeable batteries will provide an efficient way of storing renewable electricity on grids of various sizes, as well as powering electric vehicles and all manner of digital devices. According to the UK's [Royal Society](https://royalsociety.org/-/media/policy/projects/climate-change-science-solutions/climate-science-solutions-batteries.pdf), new lithium ion batteries will deliver lower cost, extended life, enhanced energy density, increased safety, and faster charging, and they will also be more sustainable, easier to recycle, and last longer. Next-generation batteries -- including [sodium ion](https://en.wikipedia.org/wiki/Sodium-ion%5Fbattery), [multivalent-ion](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/batt.202000330), [redox flow](https://en.wikipedia.org/wiki/Flow%5Fbattery), [solid-state](https://en.wikipedia.org/wiki/Solid-state%5Fbattery), [metal-sulphur](https://pubs.acs.org/doi/10.1021/acsenergylett.8b02212) and [metal-air](https://pubs.acs.org/doi/10.1021/acsenergylett.7b00119) \-- should have even lower costs and substantially higher energy densities. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Smart homes, buildings, cities, grids, agriculture 
 
@@ -78,11 +106,28 @@ In [November 2022](https://climatetrace.org/news/more-than-70000-of-the-highest-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-engaging-youtube-beginnings-two-methods-for-2024/"><u>[New] Crafting Engaging YouTube Beginnings Two Methods for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-redefine-twitter-video-panel/"><u>[New] In 2024, Redefine Twitter Video Panel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-analysis-by-tom-in-depth-hardware-reviews/"><u>Advanced Gadget Analysis by Tom: In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-with-tom-your-go-to-source-for-gadget-reviews/"><u>Decoding Hardware with Tom: Your Go-To Source for Gadget Reviews</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-reno-9a-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo Reno 9A Phones? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-passion-across-continents/"><u>Linguistic Passion Across Continents</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-exploring-toms-comprehensive-guide-to-pc-components/"><u>Mastering Gadgets: Exploring Tom's Comprehensive Guide to PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-performance-with-an-overclocked-intel-pentium-gold-g74e-cpu-alder-lake-series-hits-58-ghz/"><u>Maximizing Performance with an Overclocked Intel Pentium Gold G74e CPU - Alder Lake Series Hits 5.8 GHz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-market-with-toms-computer-insights/"><u>Navigating the Market with Tom's Computer Insights</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-user-choice-top-free-streaming-sites-for-sports-for-2024/"><u>New User Choice Top Free Streaming Sites for Sports for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reappear-the-ultimate-fix-for-lost-contact-information-on-iphones/"><u>Reappear! The Ultimate Fix for Lost Contact Information on iPhones</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snizeny-tempo-prekvapeni-kamera-program-movavi-na-zpomalenou-vidu/"><u>Snížený Tempo Překvapení - Kamera Program Movavi Na Zpomalenou Vidu</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-journey-to-facebooks-high-level-status-symbol-for-2024/"><u>The Journey to Facebook's High-Level Status Symbol for 2024</u></a></li>
+</ul></div>
+

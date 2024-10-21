@@ -1,7 +1,7 @@
 ---
 title: "The Importance of 'Right to Repair': How It Affects Users & The Fight For Consumer Freedom"
-date: 2024-09-18 16:14:47
-updated: 2024-09-20 12:30:45
+date: 2024-10-20T03:53:32.548Z
+updated: 2024-10-20T23:49:33.561Z
 tags:
   - sustainability
 categories:
@@ -31,6 +31,13 @@ One of the major objectives of right to repair laws is to make repairs much more
 
 One major issue the legislation is trying to tackle is reducing e-waste. According to the [United States Environmental Protection Agency (EPA)](https://www.epa.gov/international-cooperation/cleaning-electronic-waste-e-waste#:~:text=There%20are%20also%20problems%20with,neurological%20damage%20and%20diminished%20IQs.), consumers and businesses discarded 2.37 million tons of e-waste including televisions, computers, and cell phones in 2009\. By having people fix their own phones or find more affordable options, people won't have to dispose of their current products as often, reducing e-waste. Longer lasting hardware, and less e-waste makes right to repair a compelling argument for many.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do right to repair laws refer to?
 
 In the United States, most states have considered some form of a right to repair law, although the first one was passed last year in New York. Often titled the 'Fair Repair Act', these laws refer to the responsibility that original equipment manufacturers (OEMs) have to provide consumers with the materials necessary to repair their products. These laws would obligate OEMs to make parts accessible to consumers for repairs, distribute manuals, and remove obstacles for both self-repairs and third-party repair servicers. 
@@ -59,15 +66,42 @@ However, the bill came in for some criticism since it was modified so that OEMs 
 
 The modified, passed bill reads: "This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide to the public any passwords, security codes or materials to override security features, and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk on injury."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who's supporting the right to repair movement?
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I benefit from right to repair?
 
 In addition to the positive effects that the legislation has on the environment, right to repair laws ultimately will save individuals money. Often, repairs at the OEM can be costly and inconvenient, since you need to seek out a service provider. 
 
 With options to repair a product yourself or bring it to a third party, you can compare different servicing fees and locations -- and ultimately pick the one that is best for you. The ability to fix your device at your own convenience should also make you more confident about getting your device repaired in the first place and hopefully extend its life. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the arguments against right to repair?
 
@@ -110,11 +144,30 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-real-time-trends-hourly-top-10-youtube-pickers/"><u>[New] 2024 Approved Real-Time Trends Hourly Top 10 YouTube Pickers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capture-the-world-from-your-mobile-height/"><u>[New] Capture the World From Your Mobile Height</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-a-step-by-step-guide-to-creating-unique-facebook-video-content-for-2024/"><u>[Updated] A Step-by-Step Guide to Creating Unique Facebook Video Content for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728466735604-google/"><u>「Google ドライブ」のエラーごみ箱からデータ回収 - 失われたファイル再生手順</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed/"><u>2024 Approved Conquer KineMaster Efficient Use + Top Online Gaming Platforms Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guidance-by-toms-technology-blog-unveiling-the-latest-innovations/"><u>Advanced Hardware Guidance by Tom's Technology Blog: Unveiling the Latest Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-5-8600g-cpu-gpu-combo-sale-save-big-with-181-pricing-on-amazon/"><u>AMD Ryzen #5 8600G CPU-GPU Combo Sale - Save Big with $181 Pricing on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-tom-comprehensive-hardware-insights-and-guides/"><u>Exploring Computer Gear with Tom: Comprehensive Hardware Insights and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-your-ultimate-resource-for-cutting-edge-hardware-insights/"><u>Exploring Tech with Tom: Your Ultimate Resource for Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-step-by-step-process-to-enhance-obs-with-effective-lut-filters/"><u>In 2024, Step-by-Step Process to Enhance OBS with Effective LUT Filters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-intels-latest-arc-a76na-graphics-card-unleashing-high-performance-aaa-gaming-on-the-go-for-your-vehicle-with-advanced-xe-cores-ample-memory-and-11/"><u>Introducing Intel's Latest Arc A76nA Graphics Card: Unleashing High-Performance 'AAA Gaming on the Go' For Your Vehicle with Advanced Xe-Cores, Ample Memory & Efficient Power Draw</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-checkbox-counting-in-ms-excel-worksheets/"><u>Mastering the Art of Checkbox Counting in MS Excel Worksheets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reverting-nvidia-graphics-drivers-on-windows-11/"><u>Step-by-Step Guide: Reverting NVIDIA Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware-t17239718723911/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://discover-data.techidaily.com/alalaf-alhkym-othak-tsgyl-shaml-lshb-byanat-krs-slb-usb-bastkhdam-mhrk-akras/"><u>الآلاف الحكيم: وثائق تسجيل شامل لسحب بيانات قرص صلب USB باستخدام محرك أقراص</u></a></li>
+</ul></div>
+

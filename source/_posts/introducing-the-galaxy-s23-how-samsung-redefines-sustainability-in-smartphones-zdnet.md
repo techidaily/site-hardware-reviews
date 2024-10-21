@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Galaxy S23: How Samsung Redefines Sustainability in Smartphones | ZDNET"
-date: 2024-09-19 16:18:27
-updated: 2024-09-20 11:33:53
+date: 2024-10-15T18:50:31.761Z
+updated: 2024-10-20T22:30:48.057Z
 tags:
   - sustainability
 categories:
@@ -63,11 +63,34 @@ Samsung's Head of North America Corporate Sustainability, Mark Newton, previousl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-guide-to-vimeo-video-host-and-share-site-for-2024/"><u>[New] A Guide to Vimeo Video Host & Share Site for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-comparing-digital-dimensions-metaverse-and-multiverse/"><u>[New] Comparing Digital Dimensions Metaverse & Multiverse</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-offline-android-games-for-uninterrupted-fun/"><u>2024 Approved Essential Offline Android Games for Uninterrupted Fun</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-10-pro-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-v29e-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo V29e without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-javascript-error-easily/"><u>How to Fix Discord JavaScript Error [Easily]</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-convert-dailymotion-videos-online-for-free-no-cost/"><u>New 2024 Approved Convert Dailymotion Videos Online for Free - No Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reaching-39-million-motherboards-remarkable-comeback-mirrors-pre-covid-shipping-rates/"><u>Reaching 39 Million: Motherboards' Remarkable Comeback Mirrors Pre-COVID Shipping Rates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-the-market-asus-launches-specialized-motherboard-to-skyrocket-chinas-kx-7000-clock-speeds-by-25/"><u>Revolutionizing the Market: Asus Launches Specialized Motherboard to Skyrocket China's KX-7000 Clock Speeds by 25%</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/streamline-your-pc-build-with-the-best-motherboards-for-beginners/"><u>Streamline Your PC Build with the Best Motherboards for Beginners</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/supercharge-your-chinese-processor-asus-latest-innovation-in-overclocking-boosts-the-kx-7000-series-by-an-impressive-25/"><u>Supercharge Your Chinese Processor: Asus' Latest Innovation in Overclocking Boosts the KX-7000 Series by an Impressive 25%</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-computer-equipment-reviews/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Computer Equipment Reviews</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-notch-samsung-products-at-unbeatable-prices-this-prime-day/"><u>Top Notch Samsung Products at Unbeatable Prices This Prime Day</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: The Hidden Climate Costs of Smartphones - Strategies for Reducing Your Digital Carbon Footprint
-date: 2024-09-18 13:13:45
-updated: 2024-09-20 10:10:51
+date: 2024-10-15T18:34:09.186Z
+updated: 2024-10-21T01:21:48.660Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,13 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +128,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +185,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-kidsanime-app-assessment-and-guide-2024/"><u>[New] KidsAnime App Assessment & Guide 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-guide-to-installing-ms-work-on-windows-11/"><u>Detailed Guide to Installing MS Work on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhancing-your-mobile-banking-experience-with-abbyys-mobile-ocr-technology/"><u>Enhancing Your Mobile Banking Experience with ABBYY's Mobile OCR Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-selection-top-gopro-adornments/"><u>Exclusive Selection Top Gopro Adornments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477391-expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-comprehensive-guides-and-comparisons/"><u>Exploring Computer Hardware with Tom: Comprehensive Guides and Comparisons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-correcting-the-coredll-file-is-absent-message/"><u>Guide to Correcting the 'Core.dll File Is Absent' Message</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-x-fold-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo X Fold 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/jonsbo-unveils-elegant-handled-t6-itx-case-with-walnut-finish-and-metallic-accents-choose-between-sophisticated-black-or-modern-silver-variants/"><u>Jonsbo Unveils Elegant Handled T6 ITX Case with Walnut Finish and Metallic Accents – Choose Between Sophisticated Black or Modern Silver Variants</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-in-battlefield-4-troubleshooting-guide-and-solutions/"><u>No Audio in Battlefield 4? Troubleshooting Guide and Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-mystery-of-off-facebook-activity-what-to-know-and-do/"><u>The Mystery of Off-Facebook Activity What to Know & Do</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-the-best-series-streaming-live-on-max/"><u>Top Picks: The Best Series Streaming Live on Max</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-toms-tech-insights-detailed-analysis-and-reviews/"><u>Understanding Tom’s Tech Insights: Detailed Analysis and Reviews</u></a></li>
+</ul></div>
+

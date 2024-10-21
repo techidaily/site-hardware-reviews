@@ -1,7 +1,7 @@
 ---
 title: "The Long Haul of Television Technology: A New Chipset Promises Over Ten Years of Cutting-Edge Features for Your OLED Set | ZDNET"
-date: 2024-10-11T16:14:21.577Z
-updated: 2024-10-15T16:08:35.699Z
+date: 2024-10-13T19:07:48.493Z
+updated: 2024-10-21T02:05:10.818Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,18 +105,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-transforming-raw-footage-into-stellar-instagram-content/"><u>[New] Transforming Raw Footage Into Stellar Instagram Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-premier-6-video-cutting-tools-big-sur/"><u>2024 Approved Mac's Premier 6 Video Cutting Tools (Big Sur)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-uphere-m201-ssd-heatsink-evaluation-at-just-5-enhancing-your-nvme-drives-performance/"><u>Essential UpHere M201 SSD Heatsink Evaluation at Just $5 - Enhancing Your NVMe Drive's Performance</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-k11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo K11 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-samsung-galaxy-s23plus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Samsung Galaxy S23+ to Protect Your Individual Information</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-13-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 13 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-graphics-a-comprehensive-review-of-pixios-game-changer-the-oled-max-monitor-px277/"><u>Mastering Graphics: A Comprehensive Review of Pixio's Game Changer - The OLED Max Monitor (PX277)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximizing-motherboard-compatibility-a-review-of-the-gskill-trident-z5-rgb-ddr5-640cu-c32-dual-channel-memory-solution/"><u>Maximizing Motherboard Compatibility: A Review of the G.SKILL Trident Z5 RGB DDR5-640cu C32 Dual-Channel Memory Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-the-toms-hardware-compendium/"><u>Navigating Tech Trends: The Tom's Hardware Compendium</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/saturn-4-ultra-by-elegoo-a-revolutionary-leap-forward-in-resin-3d-printers/"><u>Saturn 4 Ultra by Elegoo: A Revolutionary Leap Forward in Resin 3D Printers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972128690-secure-your-data-analysis-tools-with-sas-download-updates-for-win-10-8-and-7-today/"><u>Secure Your Data Analysis Tools with SAS - Download Updates for Win 10, 8 & 7 Today</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-top-10-filmora-traits-fueling-video-magic/"><u>The Top 10 Filmora Traits Fueling Video Magic</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-clevetura-clvx-1-a-detailed-look-at-its-touch-sensitivity-and-ergonomics-for-typists/"><u>The Ultimate Guide to Clevetura CLVX 1 - A Detailed Look at Its Touch Sensitivity & Ergonomics for Typists</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[New] In 2024, Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-what-to-do-with-icloud-drives-desktop-anddocuments-access-in-sierra/"><u>[New] What to Do with iCloud Drive’s Desktop &Documents Access in Sierra</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-dual-screen-laptop-unveil-the-price-and-purchase-details-this-coming-month/"><u>AceMagic X1 Dual-Screen Laptop: Unveil the Price & Purchase Details This Coming Month!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-guide-to-apple-gadgets-manuals-technical-specs-and-diy-repairs-access-them-all/"><u>Complete Guide to Apple Gadgets: Manuals, Technical Specs & DIY Repairs - Access Them All</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-device-label-in-windows-os/"><u>Correcting 'Invalid Device' Label in Windows OS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/funny-fortunes-leading-laughs-in-the-tiktok-world/"><u>Funny Fortunes Leading Laughs in the TikTok World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862690223-get-the-msi-katana-gaming-laptop-just-1199-a-156-inch-machine-with-ultra-fast-rtx4070-graphics/"><u>Get the MSI Katana Gaming Laptop: Just $1,199 - A 15.6 Inch Machine with Ultra-Fast RTX^4070 Graphics!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-760-streamlined-update-process/"><u>GTX 760: Streamlined Update Process</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-11-pro-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11 Pro 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-level-strategies-for-mass-downloading-tiktok-content-for-2024/"><u>Pro-Level Strategies for Mass Downloading TikTok Content for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/simple-steps-for-moving-your-systems-recovery-disk-onto-a-fresh-hardware/"><u>Simple Steps for Moving Your System's Recovery Disk Onto a Fresh Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sneak-peek-of-the-future-new-ai-integrated-dell-laptops-set-for-a-summer-release/"><u>Sneak Peek of the Future - New AI-Integrated Dell Laptops Set for a Summer Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-elite-selection-premium-notebooks-and-high-performance-laptops/"><u>The Elite Selection: Premium Notebooks & High-Performance Laptops</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware-t17238628794254/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-game-changing-risc-v-dev-laptop-engineers-dream-at-an-unbeatable-price-of-around-300-from-china/"><u>Unveiling the Game-Changing RISC-V Dev Laptop: Engineers' Dream at an Unbeatable Price of Around $300 From China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-breakdown/"><u>Unveiling the Latest in Technology: Tom's Hardware Breakdown</u></a></li>
 </ul></div>
 

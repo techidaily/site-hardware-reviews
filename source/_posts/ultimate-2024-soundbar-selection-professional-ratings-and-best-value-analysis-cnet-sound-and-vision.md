@@ -1,7 +1,7 @@
 ---
 title: "Ultimate 2024 Soundbar Selection: Professional Ratings and Best Value Analysis | CNET Sound & Vision"
-date: 2024-10-13T16:17:55.414Z
-updated: 2024-10-15T16:05:53.788Z
+date: 2024-10-18T00:44:07.988Z
+updated: 2024-10-20T21:30:58.599Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,17 +92,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-procedural-blueprint-inserting-srt-within-mp4-recordings/"><u>[New] Procedural Blueprint Inserting SRT Within MP4 Recordings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-11-step-by-step-pathways-to-perfect-grading/"><u>[Updated] In 2024, 11 Step by Step Pathways to Perfect Grading</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-where-youtube-transforms-videos-into-art/"><u>[Updated] Understanding Where YouTube Transforms Videos Into Art</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-and-performance-of-western-digitals-new-4tb-wd-blue-sn5000-ssd/"><u>Exploring the Features and Performance of Western Digital's New 4TB WD Blue SN5000 SSD</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-slash-your-spending-with-these-6-must-visit-coupon-portals/"><u>How to Slash Your Spending with These 6 Must-Visit Coupon Portals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-choices-trustworthy-advice-from-toms-hardware/"><u>Mastering Your Tech Choices: Trustworthy Advice From Tom's Hardware</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-found-troubleshooting-the-fortnite-ls-0013-startup-glitch/"><u>Solution Found: Troubleshooting the Fortnite LS-0013 Startup Glitch</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/soundscape-starters-best-music-playlists-for-podcast-openings/"><u>Soundscape Starters Best Music Playlists for Podcast Openings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flaws-of-ai-chatbots-top-8-issues-with-gpt/"><u>The Flaws of AI Chatbots: Top 8 Issues with GPT</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-of-computing-unveiled-at-toms-hardware-review-hub/"><u>The Future of Computing Unveiled at Tom's Hardware Review Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-powerhouse-in-depth-look-at-hps-new-snapdragon-chip-in-omnibook-x/"><u>Unboxing the Powerhouse: In-Depth Look at HP's New Snapdragon Chip in OmniBook X</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-at-toms-device-hub/"><u>Unveiling the Latest in Electronics at Tom’s Device Hub</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premier-5-time-lapse-camera-apps/"><u>[New] 2024 Approved Premier 5 Time-Lapse Camera Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-innovative-approaches-to-enhancing-google-meet-visibility/"><u>[Updated] 2024 Approved Innovative Approaches to Enhancing Google Meet Visibility</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turn-your-image-brightness-upside-down-a-tutorial/"><u>In 2024, Turn Your Image Brightness Upside Down A Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-scanner-in-top-shape-free-hp-scanjet-driver-update-for-win11-8-and-7-available-now/"><u>Keep Your Scanner in Top Shape: [FREE] HP Scanjet Driver Update for Win11, 8 & 7 Available Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-photo-edits-like-a-pro-lunapic-for-starters-for-2024/"><u>Learn Photo Edits Like a Pro LunaPic for Starters for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-comprehensive-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Comprehensive Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts-t17238628794346/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reimagining-portable-power-lenovos-thinkpad-p1-gen-7-sets-new-industry-standards-by-integrating-high-performance-low-power-consuming-lpcamm2-memory/"><u>Reimagining Portable Power: Lenovo’s ThinkPad P1 Gen 7 Sets New Industry Standards by Integrating High-Performance, Low-Power Consuming LPCAMM2 Memory</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/say-goodbye-to-traditional-pcs-microsofts-ai-copilotplus-outperforms-new-2024-models-heres-how/"><u>Say Goodbye to Traditional PCs: Microsoft's AI Copilot+ Outperforms New 2024 Models - Here's How</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/snapdragon-laptop-series-unveiled-live-coverage-and-hands-on-copilotplus-review/"><u>Snapdragon Laptop Series Unveiled - Live Coverage & Hands-On Copilot+ Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-configuring-imessage-timers-and-reminders/"><u>Step-by-Step Tutorial: Configuring iMessage Timers & Reminders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/tecnicas-provas-de-funcionamento-transformar-video-hq-em-disco-digital-otimo-para-computadores-com-o-sistema-operacional-windows-11-ou-mac-os/"><u>Técnicas Provas De Funcionamento: Transformar Vídeo HQ Em Disco Digital Ótimo Para Computadores Com O Sistema Operacional Windows 11 Ou Mac OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-the-definitive-guide/"><u>Tom's Computer Components: The Definitive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-dive-into-hardware-exploration/"><u>Tom's Tech Reviews: Dive Into Hardware Exploration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-pro-windows-10-mastery-hacks/"><u>Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
 </ul></div>
 

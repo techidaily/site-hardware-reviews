@@ -1,7 +1,7 @@
 ---
 title: Astounding Pixel Watch 2 Capabilities Surface in Recent Leak - In-Depth Review | CNET News
-date: 2024-09-17 12:21:28
-updated: 2024-09-20 10:23:13
+date: 2024-10-15T21:50:46.926Z
+updated: 2024-10-21T04:03:40.409Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,19 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-inside-obs-alternatives-for-professional-streamers/"><u>[New] 2024 Approved Inside OBS Alternatives for Professional Streamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-unboxing-game-crafting-winning-strategies/"><u>[New] The Unboxing Game Crafting Winning Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-gamers-guide-optimal-video-capture-tips/"><u>[Updated] Professional Gamers' Guide Optimal Video Capture Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-gigabyes-premium-b650-aorus-elite-ax-ice-motherboard-evaluating-cost-vs-quality-and-usb-capabilities/"><u>A Closer Look at Gigabye's Premium B650 Aorus Elite AX Ice Motherboard: Evaluating Cost Vs. Quality and USB Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-world-of-computer-components-with-expert-guidance-from-toms-hardware/"><u>Dive Into the World of Computer Components with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-video-call-experience-with-the-best-live-recording-gadgets/"><u>Elevate Your Video Call Experience with The Best Live Recording Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-pimoroni-nvme-solid-state-drive-ssd-dual-base-unit-review/"><u>In-Depth Analysis: Pimoroni NVMe Solid State Drive (SSD) Dual Base Unit Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-systems-with-toms-hardware-tips/"><u>Navigating High-Performance Systems with Tom's Hardware Tips</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2010-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2010 Documents Online for Free</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/testing-the-syma-107-gs-dual-controls-drone-an-economical-way-to-soar-indoors/"><u>Testing the Syma 107 GS Dual Controls Drone - An Economical Way to Soar Indoors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-the-geekworm-x1011-nas-maker-inside-story-and-evaluation/"><u>The Complete Guide to the Geekworm X1011 NAS Maker: Inside Story and Evaluation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-link-tl-ub400-how-to-update-bluetooth-adapter-software-and-enhance-connectivity/"><u>TP-Link TL-UB400: How to Update Bluetooth Adapter Software and Enhance Connectivity</u></a></li>
+</ul></div>
+

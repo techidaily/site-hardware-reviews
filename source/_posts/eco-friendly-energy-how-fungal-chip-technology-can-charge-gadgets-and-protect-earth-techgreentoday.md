@@ -1,7 +1,7 @@
 ---
 title: "Eco-Friendly Energy: How Fungal Chip Technology Can Charge Gadgets and Protect Earth | TechGreenToday"
-date: 2024-09-19 18:28:22
-updated: 2024-09-20 11:13:52
+date: 2024-10-18T00:03:47.019Z
+updated: 2024-10-20T23:51:36.860Z
 tags:
   - sustainability
 categories:
@@ -36,6 +36,13 @@ When it came to his latest research, the team looked at the basic building block
 **Also: [How to track your carbon emissions with this new app](https://www.zdnet.com/article/track-your-carbon-emissions-with-this-new-app/)**
 
 These plastics form the second-biggest component (at 37%) by mass in a chip, but are thrown away after use and sit on landfills, leaking CO2 for hundreds of years and contributing to the 50 million tons of e-waste generated every year.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The miracle of 'myceliotronics'
 
@@ -100,11 +107,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-secret-to-stellar-instagram-video-engagement-flawless-sizing-techniques-for-2024/"><u>[New] The Secret to Stellar Instagram Video Engagement Flawless Sizing Techniques for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-achieve-peaceful-nights-with-expert-recommended-asmr/"><u>2024 Approved Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-discovering-easy-content-downloads-on-funimate/"><u>2024 Approved Discovering Easy Content Downloads on Funimate</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevating-vr-gametime-through-advanced-recording-practices/"><u>Elevating VR Gametime Through Advanced Recording Practices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-resource-hardware-breakdown-and-reviews/"><u>Exploring Technology with Tom's Resource: Hardware Breakdown and Reviews</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-innovative-yeswebuild-campaign-a-fresh-take-on-pc-creation/"><u>Introducing MSI's Innovative '#YesWeBuild' Campaign - A Fresh Take on PC Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-toms-expertise-the-definitive-tech-resource/"><u>Mastering Hardware with Tom's Expertise - The Definitive Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-unveils-windows-support-for-qualcomms-new-arm-based-snapdragon-developer-platform/"><u>Microsoft Unveils Windows Support for Qualcomm's New ARM-Based Snapdragon Developer Platform</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/asts-wealth-estimated-net-worth/"><u>Mr. Beast's Wealth Estimated Net Worth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-hardware-with-tom-your-ultimate-guide/"><u>Navigating Computer Hardware with Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207280096-overcome-voice-communication-glitches-in-overwatch-steps-for-swift-repair/"><u>Overcome Voice Communication Glitches in Overwatch - Steps for Swift Repair</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-diy-constructing-an-ice-chilled-living-room-computer-tower-expert-tips-from-toms-hardware/"><u>The Ultimate DIY: Constructing an Ice-Chilled Living Room Computer Tower - Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-analysis-in-depth-evaluation-of-latest-electronics-and-specs/"><u>Tom's Gadget Analysis: In-Depth Evaluation of Latest Electronics and Specs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/universal-3gpmp4-converter-easily-transform-videos-between-popular-formats-like-avi-mkv-mpg-more/"><u>Universal 3GP/MP4 Converter: Easily Transform Videos Between Popular Formats Like AVI, MKV, MPG More!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-art-of-clearing-stickers-from-social-media-video/"><u>Unveiling the Art of Clearing Stickers From Social Media Video</u></a></li>
+</ul></div>
+

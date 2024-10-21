@@ -1,7 +1,7 @@
 ---
 title: "Best Tech Deals at Best Buy: Ultimate Gift Guide - ZDNet"
-date: 2024-09-18 21:17:46
-updated: 2024-09-20 12:24:39
+date: 2024-10-18T03:37:48.506Z
+updated: 2024-10-21T02:04:52.203Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -68,6 +75,13 @@ Because I don't have any sort of XLR mixing module, I wasn't able to compare how
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ShurePlus Motiv app
 
 As I said, the [ShurePlus Motiv app](https://www.shure.com/en-US/products/software/shure%5Fplus%5Fmotiv%5Fdesktop) isn't strictly necessary to use the MV7 microphone with your computer, but if you want to get the most out of your mic without needing a degree in audio engineering, I highly recommend downloading it; the app is free and simple enough to use, even for beginners. 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,33 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-players-list-best-google-cardboard-vr-game-titles/"><u>[New] Pinnacle Players' List Best Google Cardboard VR Game Titles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-hubs-for-finding-googles-ad-sponsors-on-video/"><u>[Updated] Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-convert-srt-free-top-10-web-subtitle-services/"><u>2024 Approved Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/demand-surge-drives-up-memory-market-supply-shrinks-contribute-to-price-recovery/"><u>Demand Surge Drives Up Memory Market; Supply Shrinks Contribute to Price Recovery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/efficient-transitions-streamlining-zoom-video-conversion/"><u>Efficient Transitions Streamlining Zoom Video Conversion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-tom-a-deep-dive-into-hardware-solutions/"><u>Exploring Computer Gear with Tom: A Deep Dive Into Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/government-allocates-2-billion-in-funding-boost-for-chinese-memory-technology-firm/"><u>Government Allocates $2 Billion in Funding Boost for Chinese Memory Technology Firm</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-exceptional-zero-cost-passport-portrait-clients/"><u>In 2024, 10 Exceptional, Zero-Cost Passport Portrait Clients</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-gamers-and-developers-must-try-the-corsair-vengeance-ddr5-5200-c38-4x48gb-memory-module-in-depth-review/"><u>Professional Gamers & Developers Must Try the Corsair Vengeance DDR5-5200 C38 4X48GB Memory Module: In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rising-memory-chip-costs-as-output-drops-and-consumer-demand-soars/"><u>Rising Memory Chip Costs as Output Drops and Consumer Demand Soars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-removing-your-likes-across-all-tracks-in-spotify/"><u>Step-by-Step Guide: Removing Your Likes Across All Tracks in Spotify</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Reviews and Performance Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-t17239724903076/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Hardware</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-unresponsive-laptops-touchpad-tips-and-tricks/"><u>Troubleshooting Your Unresponsive Laptop's Touchpad – Tips & Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/understanding-the-role-and-impact-of-b-roll-in-editing/"><u>Understanding the Role and Impact of B Roll in Editing</u></a></li>
+</ul></div>
+

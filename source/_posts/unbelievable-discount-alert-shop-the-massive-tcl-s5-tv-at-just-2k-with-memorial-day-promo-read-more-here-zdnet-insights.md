@@ -1,7 +1,7 @@
 ---
 title: "Unbelievable Discount Alert: Shop the Massive TCL S5 TV at Just $2K with Memorial Day Promo! Read More Here | ZDNET Insights"
-date: 2024-10-08T16:11:29.772Z
-updated: 2024-10-15T16:19:49.299Z
+date: 2024-10-14T04:00:36.905Z
+updated: 2024-10-21T02:20:05.404Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,18 +92,16 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-pcs-picks-the-finest-ps1-game-emulators-for-2024/"><u>[Updated] PC's Picks The Finest PS1 Game Emulators for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/atlas-air-by-turtle-beach-an-immersive-audio-journey-with-unmatched-comfort/"><u>Atlas Air by Turtle Beach: An Immersive Audio Journey with Unmatched Comfort</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-se-2020-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone SE (2020) with a Broken Screen?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-essentials-toms-guide-to-computer-hardware/"><u>Exploring Technology Essentials: Tom’s Guide to Computer Hardware</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-6s-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 6s Plus Space | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-diving-deep-into-youtube-launching-and-earning-your-way/"><u>In 2024, Diving Deep Into Youtube Launching and Earning Your Way</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-f34-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy F34 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-smart-8-hd-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Smart 8 HD? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-asrocks-pg27qft2a-exceptional-value-for-high-refresh-rate-gaming-enthusiasts/"><u>Review of ASRock's PG27QFT2A - Exceptional Value for High Refresh Rate Gaming Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reviewing-the-newest-2023-samsung-bd-j5900-model/"><u>Reviewing the Newest 2023 Samsung BD-J5900 Model</u></a></li>
-<li><a href="https://win11.techidaily.com/run-a-free-locally-stored-gpt-on-your-pc-with-gpt4all/"><u>Run a Free, Locally-Stored GPT on Your PC with GPT4All</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-with-toms-hardware-findings/"><u>Unlocking Technology Secrets with Tom's Hardware Findings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-sovol-sv08-review-a-tribute-speed-machine-inspired-by-voron/"><u>Unveiling Sovol SV08 Review: A Tribute Speed Machine Inspired by Voron</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>[Updated] In 2024, Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mastering-fbx-capturing-games-live/"><u>[Updated] In 2024, Mastering FBX Capturing Games Live</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>[Updated] Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quintessential-filters-to-perfect-ocean-shoots/"><u>[Updated] Quintessential Filters to Perfect Ocean Shoots</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-perfect-blend-of-sound-and-video-tips-to-capture-high-quality-zoom-recordings/"><u>2024 Approved The Perfect Blend of Sound and Video Tips to Capture High-Quality Zoom Recordings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion17/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-ways-to-resolve-game-crashing-error-in-hearthstone-for-personal-computers/"><u>Best Ways to Resolve Game-Crashing Error in Hearthstone for Personal Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-pc-innovations-with-expertise-from-toms-hardware/"><u>Navigate the World of PC Innovations with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-expert-advice-from-tom-on-top-hardware-picks/"><u>Unlocking Tech Secrets: Expert Advice From Tom on Top Hardware Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-crucial-p310-ssd-boosting-performance-on-m2-2230-devices/"><u>Unveiling the Power of the Crucial P310 SSD: Boosting Performance on M.2 2230 Devices</u></a></li>
 </ul></div>
 

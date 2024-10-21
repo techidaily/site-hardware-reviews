@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Future of AI in Asia: How Singapore Is Integrating Quantum Tech and Expanding Data Infrastructure"
-date: 2024-09-18 13:41:30
-updated: 2024-09-20 12:34:45
+date: 2024-10-15T19:53:56.782Z
+updated: 2024-10-21T03:13:10.635Z
 tags:
   - sustainability
 categories:
@@ -87,6 +87,13 @@ He said technologies that drive the country's digital economy, such as cloud and
 
 "The \[green data center\] roadmap sets out low-carbon energy sources that data centers can explore, which include bioenergy, fuel cells with carbon capture, low-carbon hydrogen and ammonia for a start," Puthucheary explained. "We welcome proposals from the industry to push boundaries in realizing these pathways in Singapore."
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Charting global test standards for AI models
 
 Meanwhile, the country wants to lead the way by releasing standards for large language model (LLM) testing, developed via partnerships with global organizations such as MLCommons, IBM, and Singtel. 
@@ -130,11 +137,26 @@ IMDA said it is working with companies such as Anthropic to develop a practical 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-arsenal-of-classics-top-7-precision-games-for-2024/"><u>[New] Arsenal of Classics Top 7 Precision Games for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-crafting-engaging-content-with-discord-streaming-tools-for-2024/"><u>[New] Crafting Engaging Content with Discord Streaming Tools for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reating-continuous-viewing-pleasure-on-television/"><u>[New] Creating Continuous Viewing Pleasure on Television</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-techniques-for-splendid-lyric-videos-lyric-video-maker-edition/"><u>[Updated] 2024 Approved Essential Techniques for Splendid Lyric Videos, Lyric Video Maker Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-into-the-stream-a-guide-to-roku-and-facebook-live-broadcasts/"><u>[Updated] 2024 Approved Step Into the Stream A Guide to ROKU & Facebook Live Broadcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-ready-for-a-hotter-more-efficient-era-with-pcie-60s-thermal-advancements/"><u>Get Ready for a Hotter, More Efficient Era with PCIe 6.0'S Thermal Advancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/harnessing-advanced-port-options-with-the-asrock-z890-taichi-ten-usb-c-and-two-thunderbolt-explained/"><u>Harnessing Advanced Port Options with the ASRock Z890 Taichi: Ten USB C and Two Thunderbolt Explained</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-technology-insights-at-your-fingertps-visit-toms-hardware/"><u>Innovative Technology Insights at Your Fingertps: Visit Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-top-notch-tech-toms-hardware-innovation-spotlight/"><u>Inside Look at Top-Notch Tech: Tom's Hardware Innovation Spotlight</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-editing-and-uploading-360-videos-on-youtube-for-2024/"><u>Step-by-Step Editing & Uploading 360 Videos on YouTube for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-14-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 14 Without iTunes in 5 Ways</u></a></li>
+</ul></div>
+

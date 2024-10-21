@@ -1,7 +1,7 @@
 ---
 title: Revive Your Vintage Television with a $50 4K HDMI Upgrade - The Latest Tech Insights From ZDNet
-date: 2024-09-18 20:34:55
-updated: 2024-09-20 12:14:29
+date: 2024-10-18T16:25:01.614Z
+updated: 2024-10-20T18:22:14.587Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -61,6 +68,13 @@ Taylor Clemons/ZDNet
 Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,19 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +163,27 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-the-secrets-to-effective-youtube-video-uploads/"><u>[New] 2024 Approved Unlocking the Secrets to Effective YouTube Video Uploads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-subtitles-quickly-best-8-converters-from-sub-to-streamlined-srtr/"><u>[Updated] Transform Subtitles Quickly! Best 8 Converters From SUB to Streamlined SRTR</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-affordable-mobile-apps-to-boost-your-images-visual-impact-for-2024/"><u>10 Affordable Mobile Apps to Boost Your Image's Visual Impact for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rapidly-rise-as-a-social-media-star-on-instagram/"><u>2024 Approved Rapidly Rise as a Social Media Star on Instagram</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-solutions-to-the-common-problems-with-realteks-rtl8723be-driver/"><u>DIY Solutions to the Common Problems with Realtek's RTL8723BE Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-experts-t17239718736562/"><u>Exploring Computer Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-15-plus-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-a23-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy A23 5G Device SIM</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-insights-discovering-toms-computer-hardware-excellence/"><u>Innovative Tech Insights: Discovering Tom's Computer Hardware Excellence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722856103810-step-by-step-guide-tuning-into-fm-stations-with-ios-and-android-devices/"><u>Step-by-Step Guide: Tuning Into FM Stations with iOS & Android Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/isionary-viewers-verdict-your-channel-vs-contenders-content/"><u>The Visionary Viewers' Verdict Your Channel Vs. Contenders’ Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487592-unbeatable-offer-grab-an-exceptional-bargain-with-rodecaster-duo-and-complimentary-rode-nth-100m-headset-all-for-just-374/"><u>Unbeatable Offer: Grab an Exceptional Bargain with Rodecaster Duo & Complimentary Rode NTH-100M Headset - All for Just $374!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-and-components-with-tom-your-guide-to-the-latest-in-hardware-technology/"><u>Unveiling Gadgets & Components with Tom - Your Guide to the Latest in Hardware Technology</u></a></li>
+</ul></div>
+

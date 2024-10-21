@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Energy Costs: Top 5 TV Configuration Tweaks Revealed by ZDNet - How and Why It Works!"
-date: 2024-10-14T16:22:57.477Z
-updated: 2024-10-15T16:10:57.520Z
+date: 2024-10-14T00:31:38.303Z
+updated: 2024-10-20T17:18:38.777Z
 tags:
   - tvs
 categories:
@@ -52,11 +52,25 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -86,13 +100,6 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alexa and Amazon features 
 
 As it's meant to be the centerpiece of your Amazon or Alexa-centered smart home network. the Omni QLED features native Alexa support via a voice-enabled remote, as well as a four-microphone array built into the unit itself. If you don't have an Alexa account already, you can use basic voice commands for turning the TV on and off or launching certain apps. And if you want expanded, hands-free controls as well as the ability to add Skills, you can either connect to an Echo device or the Alexa companion app. Though you will need an Amazon account to sign into the Alexa app as well as the TV itself to access many enhanced features. 
@@ -102,10 +109,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -133,6 +140,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -168,13 +182,6 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -182,13 +189,6 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 The dedicated gaming picture mode lets colors and details pop while the integrated speakers provide clean, clear audio. And even older cartoons and films look amazing with upscaled 4K resolution, letting you revisit childhood favorites.
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -230,22 +230,18 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies-for-2024/"><u>[New] From Zero to Hero How to Triumph with 10 Powerful FB Strategies for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-hiring-heroes-the-most-motivating-vids-of-the-year-1-10/"><u>[New] Hiring Heroes The Most Motivating Vids of the Year #1-10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-peak-hours-explained-maximizing-engagement/"><u>[New] In 2024, Instagram Peak Hours Explained Maximizing Engagement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-beginners-guide-to-key-camera-movements-in-film/"><u>[New] The Beginner's Guide to Key Camera Movements in Film</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-maximize-visual-potential-the-finest-overlays-on-androidiphone/"><u>[Updated] In 2024, Maximize Visual Potential – The Finest Overlays on Android/iPhone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-instagram-looping-videos-for-2024/"><u>[Updated] The Ultimate Guide to Instagram Looping Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-best-free-screen-cast-options-on-windows-ranked-1-to-5/"><u>2024 Approved Best Free Screen Cast Options on Windows, Ranked #1 to #5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-asuss-revolutionary-new-wireless-speed-monarch-the-rt-be96u/"><u>Breaking Down Asus's Revolutionary New Wireless Speed Monarch: The RT-BE96U</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/downloading-apple-podcasts-for-easy-listening/"><u>Downloading Apple Podcasts for Easy Listening</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/education/"><u>Education</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-nzxt-h7-flow-sticking-with-the-classics/"><u>Evaluating the NZXT H7 FLow - Sticking with the Classics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-gadgets-with-toms-hardware-digest/"><u>Inside Look at Gadgets with Tom's Hardware Digest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-down-the-sunfounder-pironman-5-thorough-review-and-detailed-setup-instructions/"><u>Taking Down the SunFounder Pironman 5: Thorough Review and Detailed Setup Instructions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-ultimate-list-of-leading-sd-card-restoration-apps-find-your-perfect-match/"><u>The Ultimate List of Leading SD Card Restoration Apps - Find Your Perfect Match!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-world-of-toms-hardware-insights-into-cutting-edge-computing-tools/"><u>The World of Tom's Hardware: Insights Into Cutting-Edge Computing Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-and-hardware-with-toms-insights/"><u>Unveiling the Latest Gadgets and Hardware with Tom's Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-expert-insights-and-tips/"><u>Unveiling the Latest in Computer Hardware with Tom - Expert Insights and Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-captivation-rally-more-likes-for-your-tiktok-unpacks/"><u>[New] The Art of Captivation Rally More Likes for Your TikTok Unpacks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-cutting-edge-creatives-on-your-feed/"><u>[Updated] In 2024, The Cutting-Edge Creatives on Your Feed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-meme-magic-kinemaster-edition/"><u>2024 Approved Unlocking Meme Magic KineMaster Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-most-efficient-combo-of-cable-modems-and-routers-reviewed/"><u>2024'S Most Efficient Combo of Cable Modems & Routers Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-v27-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo V27 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimizing-audio-and-video-quality-during-zoom-recordings/"><u>In 2024, Optimizing Audio & Video Quality During Zoom Recordings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-machine-key-takeaways-from-toms-hardware-explorations/"><u>Mastering the Machine: Key Takeaways From Tom's Hardware Explorations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-computing-with-toms-hardware-analysis/"><u>Navigating the Future of Computing with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/quick-click-quest-the-art-of-facebook-id-reconnaissance-for-2024/"><u>Quick Click Quest The Art of Facebook ID Reconnaissance for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-easements-grant-rights-to-use-portions-of-a-property-for-specific-purposes-such-as-utilities-or-access-roads-impacting-where-structures-can-be-buil22/"><u>Solution: Easements Grant Rights to Use Portions of a Property for Specific Purposes, Such as Utilities or Access Roads, Impacting Where Structures Can Be Built and How Lots Are Developed.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-eco-ddr5-revolution-the-vulcan-memory-kit-ddr5-6000-c30-2x16gb-reviewed/"><u>TeamGroup's Eco-DDR5 Revolution: The Vulcan Memory Kit - DDR5-6000 C30, 2X16GB Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-to-correct-error-0xc19001e1-in-windows-11-systems/"><u>Troubleshooting Guide to Correct Error 0xC19001E1 in Windows 11 Systems</u></a></li>
 </ul></div>
 

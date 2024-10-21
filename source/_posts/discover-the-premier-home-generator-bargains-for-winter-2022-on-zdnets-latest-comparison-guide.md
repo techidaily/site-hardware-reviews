@@ -1,7 +1,7 @@
 ---
 title: Discover the Premier Home Generator Bargains for Winter 2022 on ZDNet's Latest Comparison Guide
-date: 2024-09-19 21:58:50
-updated: 2024-09-20 10:33:19
+date: 2024-10-19T02:47:18.784Z
+updated: 2024-10-20T17:51:20.651Z
 tags:
   - sustainability
 categories:
@@ -75,7 +75,21 @@ It also features a fuel switch so you can flip between gas and propane as needed
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDuroMax-XP13000EH-13-000-Watt-500cc-Portable-Hybrid-Gas-Propane-Generator%2F192013905%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What kind of generator is best for home use?
 
@@ -83,11 +97,25 @@ If you're looking to set up your house to go off-grid and be entirely self-suffi
 
 If you want to make sure you have electricity for at-home medical equipment and appliances during a weather emergency, a portable or inverter generator is your best option. If you do opt for a portable or inverter generator, you'll need to make sure you get one with more than enough wattage to run everything. Lowe's has a [handy worksheet](https://www.lowes.com/pdf/portable%5Fgenerator%5Fwattage%5Fchart.pdf) available, so you won't accidentally burn up your fridge.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do you hook a generator to your house?
 
 Home standby generators require licensed technicians to properly install. And even portable generators need proper preparation before you can attempt to power your whole house with one. You should never plug a portable generator directly into your home's electrical system without first having a technician install a transfer switch. 
 
 Without a transfer switch, you could overload your home's wiring, causing fires, short-outs, and all kinds of other damage. If you intend to use a portable or inverter generator to run just a few appliances, make sure to read the operating manual thoroughly before plugging anything in.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long do generators last?
 
@@ -116,11 +144,33 @@ Home standby generators are much more robust, having lifetimes upwards of 40 yea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gameglasses-glimpse-guide/"><u>[New] 2024 Approved GameGlasses Glimpse Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-360-degree-panoramic-stands/"><u>[New] 360-Degree Panoramic Stands</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-adapting-to-instagrams-evolved-content-curation/"><u>[Updated] 2024 Approved Adapting to Instagram's Evolved Content Curation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-scrutinizing-the-latest-in-screen-recording-tech-by-tunefab-for-2024/"><u>[Updated] Scrutinizing the Latest in Screen Recording Tech by Tunefab for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-thumbnail-and-banner-design-for-videos/"><u>[Updated] The Art of Thumbnail and Banner Design for Videos</u></a></li>
+<li><a href="https://driver-install.techidaily.com/digital-absence-in-third-party-info-confirmed/"><u>Digital Absence in Third-Party Info Confirmed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-maxsun-catalog-intels-arrow-lake-amds-ryzen-9000-boards-with-latest-unveiled-motherboard-chipsets-and-800-series-labeling/"><u>Exploring the Maxsun Catalog: Intel's Arrow Lake, AMD's Ryzen 9000 Boards with Latest Unveiled Motherboard Chipsets & 800-Series Labeling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gearing-up-against-competitors-amds-latest-release-of-the-800-series-chipsets-designed-to-harness-ryzen-9000-processor-potential-and-outpace-intel/"><u>Gearing Up Against Competitors: AMD's Latest Release of the 800 Series Chipsets Designed to Harness Ryzen 9000 Processor Potential and Outpace Intel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gigabyte-releases-heavy-duty-motherboards-for-128-lb-gpus-despite-strengthened-connections-pcb-breakage-issue-persists/"><u>Gigabyte Releases Heavy-Duty Motherboards for 128-Lb GPUs; Despite Strengthened Connections, PCB Breakage Issue Persists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gigabytes-latest-innovation-the-exclusive-gold-plated-cpu-socket-for-the-intel-z790-aorus-xtreme-x-motherboard-with-stunning-misty-graphics/"><u>Gigabyte's Latest Innovation: The Exclusive Gold-Plated CPU Socket for the Intel Z790 Aorus XTreme X Motherboard with Stunning Misty Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-asus-recent-bios-revamp-harnesses-microsoft-dynamic-lighting-to-optimize-system-efficiency/"><u>How Asus' Recent BIOS Revamp Harnesses Microsoft Dynamic Lighting to Optimize System Efficiency</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-mdm-on-iphone-12-pro-max-with-ease-via-third-tools-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass MDM on iPhone 12 Pro Max with Ease Via third Tools?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-electronics-in-depth-reviews-from-toms-hardware/"><u>Inside the World of Electronics: In-Depth Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-pioneering-z790-project-zero-the-first-motherboard-to-integrate-camm2-memory-standard-in-desktops-elevating-pc-performance/"><u>Introducing MSI's Pioneering Z790 Project Zero: The First Motherboard to Integrate CAMM2 Memory Standard in Desktops, Elevating PC Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-edge-40-neofrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Edge 40 NeoFRP Lock</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/is-photoshops-image-smoothing-worth-the-hype/"><u>Is Photoshop's Image Smoothing Worth the Hype?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-knowledge-through-toms-expert-guides/"><u>Mastering Electronics Knowledge Through Tom's Expert Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/meet-gigabytes-solution-to-massive-gpu-support-a-new-motherboard-designed-for-unprecedented-weight-but-will-it-prevent-notorious-board-failures/"><u>Meet Gigabyte's Solution to Massive GPU Support: A New Motherboard Designed for Unprecedented Weight – But Will It Prevent Notorious Board Failures?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/tactics-for-excising-background-melodies-from-visual-media-for-2024/"><u>Tactics for Excising Background Melodies From Visual Media for 2024</u></a></li>
+</ul></div>
+

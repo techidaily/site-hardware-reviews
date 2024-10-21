@@ -1,7 +1,7 @@
 ---
 title: Huge Savings Alert! Score a 25%% Discount on the Samsung Freestyle 2 This Black Friday with ZDNet Deals
-date: 2024-09-18 15:12:56
-updated: 2024-09-20 11:30:40
+date: 2024-10-18T19:45:06.004Z
+updated: 2024-10-21T04:50:26.022Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -61,6 +68,13 @@ Taylor Clemons/ZDNet
 Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,27 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-subforsup-use-for-safe-upliftment-of-youtube-subscribers/"><u>[Updated] Subforsup Use for Safe Upliftment of YouTube Subscribers?</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevating-your-gaming-world-expert-review-on-philips-spectacular-evonia-49m2c8900-qd-oled-240-hz-monitor/"><u>Elevating Your Gaming World: Expert Review on Philips' Spectacular Evonia 49M2C8900 QD-OLED 240 Hz Monitor</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/exclusive-access-master-modern-web-with-the-now-ui-pro-react-native-framework-from-creative-tim/"><u>Exclusive Access: Master Modern Web with the Now UI Pro React Native Framework From Creative Tim</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-logitech-g-pro-x-2-lightspeed-a-must-have-for-serious-gamers/"><u>Expert Analysis of the Logitech G Pro X 2 Lightspeed - A Must-Have for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-opinions-on-next-gen-tech-devices-the-toms-hardware-perspective/"><u>Expert Opinions on Next-Gen Tech Devices: The Tom's Hardware Perspective</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-fix-login-errors-caused-by-a-faulty-user-profile-service-on-windows/"><u>How to Correctly Fix Login Errors Caused by a Faulty User Profile Service on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-10-best-list-for-free-video-conferencing-and-desktop-sharing/"><u>Leading 10-Best List for FREE Video Conferencing & Desktop Sharing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/psychological-support-can-play-a-significant-role-in-recovery-addressing-the-mental-health-impacts-of-ocular-trauma/"><u>Psychological Support Can Play a Significant Role in Recovery, Addressing the Mental Health Impacts of Ocular Trauma.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-world-of-components-with-toms-hardware-explorations/"><u>The World of Components with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-preventing-nba-2k21-from-freezing-and-crashing-on-pc-systems/"><u>Ultimate Fixes for Preventing NBA 2K21 From Freezing and Crashing on PC Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-a-comprehensive-review-of-crucial-pros-high-speed-16gb-ddr5-ram-at-6000mhz/"><u>Unveiling the Potential: A Comprehensive Review of Crucial Pro's High-Speed 16GB DDR5 RAM at 6000MHz</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-gaming-heaven-top-sites-to-download-pc-games-legally/"><u>Updated In 2024, Gaming Heaven Top Sites to Download PC Games Legally</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Affordably Robust: Discovering a Highly Durable Yet Surprisingly Budget-Friendly Smartwatch – Insights From ZDNet"
-date: 2024-09-18 23:57:20
-updated: 2024-09-20 11:24:37
+date: 2024-10-15T23:32:17.869Z
+updated: 2024-10-21T02:39:18.314Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-exclusive-content-on-twitter-no-twitting/"><u>[New] Exclusive Content on Twitter - No Twitting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-viewer-engagement-with-smart-end-screen-techniques/"><u>[Updated] 2024 Approved Enhancing Viewer Engagement with Smart End Screen Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-key-steps-to-find-your-youtube-content-creation-hub/"><u>[Updated] Key Steps to Find Your YouTube Content Creation Hub</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-optimal-twitvid-saves-mastering-tweeted-media-downloads-for-2024/"><u>[Updated] Optimal TwitVid Saves Mastering Tweeted Media Downloads for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/definitive-guide-to-the-strongest-ssd-cooling-tech-t-force-dark-airflow-i-by-teamgroup/"><u>Definitive Guide to the Strongest SSD Cooling Tech - T-Force Dark AirFlow I by TeamGroup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-hardware-insights/"><u>Exploring the Latest Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341757005-exploring-toms-hardware-mastery-cutting-edge-pc-discoveries-await/"><u>Exploring Tom's Hardware Mastery - Cutting-Edge PC Discoveries Await</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-why-ive-chosen-reddit-above-all-other-social-media-sites-for-engagement-and-discovery/"><u>Exploring Why I've Chosen Reddit Above All Other Social Media Sites for Engagement and Discovery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-technology-with-toms-expert-hardware-reviews/"><u>Mastering Modern Technology with Tom's Expert Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-the-gigabyte-g6x-noteworthy-operation-yet-lacks-distinctive-traits/"><u>Performance Insights on the Gigabyte G6X: Noteworthy Operation, Yet Lacks Distinctive Traits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/positive-persuasion-techniques-for-listener-loyalty-for-2024/"><u>Positive Persuasion Techniques for Listener Loyalty for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionary-videography-uncovering-the-top-cameras-of-2024/"><u>Revolutionary Videography Uncovering the Top Cameras of 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-raspberry-pi-heat-management-a-comprehensive-review-of-the-52-pi-ice-tower-plus/"><u>Revolutionizing Raspberry Pi Heat Management: A Comprehensive Review of the '52-Pi Ice Tower Plus'</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-f23-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo F23 5G Users</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-s-top-rated-free-avi-video-rotation-software-revealed/"><u>Updated In 2024, S Top-Rated Free AVI Video Rotation Software Revealed</u></a></li>
+</ul></div>
+

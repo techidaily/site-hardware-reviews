@@ -1,7 +1,7 @@
 ---
 title: 2024'S Elite Selection of Apple Watches - Expert Reviews and Ratings on ZDNET
-date: 2024-09-18 19:44:34
-updated: 2024-09-20 10:55:18
+date: 2024-10-16T19:23:37.560Z
+updated: 2024-10-20T21:43:34.860Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-a-visual-treat-discover-these-14-text-animation-delights/"><u>[Updated] A Visual Treat Discover These 14 Text Animation Delights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/2x48gb-powerhouse-unveiled-explore-the-might-of-gskills-trident-z5-rgb-ddr5-ram-for-ultimate-motherboard-pairing/"><u>2X48GB Powerhouse Unveiled: Explore the Might of G.SKILL's Trident Z5 RGB DDR5 RAM for Ultimate Motherboard Pairing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-c5c-and-d6sec-uphere-air-cooler-analysis-best-under-20/"><u>Affordable C5C & D6Sec UpHere Air Cooler Analysis - Best Under $20</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/banishing-vibration-effects-in-uav-videos-for-2024/"><u>Banishing Vibration Effects in UAV Videos for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/convert-and-save-instagram-footage-in-various-formats-mp4-wmv-etc-pc-and-mac-compatible/"><u>Convert and Save Instagram Footage in Various Formats (MP4, WMV, Etc.) - PC & Mac Compatible</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-innovations-in-computing-with-toms-hardware-insights/"><u>Exploring Innovations in Computing with Tom's Hardware Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-t2x-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo T2x 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-meizu-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Meizu Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-from-toms-hardware-hub/"><u>In-Depth Reviews and Advice From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computers-with-tom-essential-hardware-guides/"><u>Navigating the World of Computers with Tom: Essential Hardware Guides</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-script-generator/"><u>New 2024 Approved What Is an AI Script Generator?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-galaxy-xcover-7-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Galaxy XCover 7 has been deleted.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/techniques-to-improve-focal-depth-in-online-platforms/"><u>Techniques to Improve Focal Depth in Online Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-microsoft-surface-pro-xplored-copilotplus-addition-brings-beauty-and-questionable-ai-strength/"><u>The Microsoft Surface Pro Xplored – Copilot+ Addition Brings Beauty and Questionable AI Strength</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-and-quality-a-deep-dive-into-the-maxsun-terminator-z790m-d5-ice-white-microatx-motherboard-five-mc2-sockets/"><u>Unveiling Performance & Quality - A Deep Dive Into the Maxsun Terminator Z790M D5 Ice White MicroATX Motherboard (Five M.C2 Sockets)</u></a></li>
+</ul></div>
+

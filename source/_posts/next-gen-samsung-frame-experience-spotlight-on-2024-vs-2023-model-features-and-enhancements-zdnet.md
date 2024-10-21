@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Samsung Frame Experience: Spotlight on 2024 Vs. 2023 Model Features & Enhancements | ZDNet"
-date: 2024-10-14T16:08:53.702Z
-updated: 2024-10-15T16:05:28.832Z
+date: 2024-10-18T16:40:27.419Z
+updated: 2024-10-21T03:53:15.363Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,20 +92,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/rcade-avenue-a-million-paths-in-play-for-2024/"><u>[New] Arcade Avenue A Million Paths in Play for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-freely-download-youtube-series-on-mobile/"><u>[New] The Ultimate Guide to Freely Download YouTube Series on Mobile</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>[Updated] 2024 Approved Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-redefine-your-viewing-experience-without-xplit/"><u>[Updated] Redefine Your Viewing Experience Without Xplit</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/hevch265-windows-11-and-10-4k/"><u>進階 HEVC/H.265 編碼技術：Windows 11 & 10上的高品質 4K影像轉換器</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-note-12-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi Redmi Note 12 Pro 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-unleashed-detailed-analysis-of-the-asus-rog-swift-pg34wcdm-monitors-stunning-240hz-oled-screen-and-superior-graphics-fidelity/"><u>High-Performance Gaming Unleashed: Detailed Analysis of the Asus ROG Swift PG34WCDM Monitor's Stunning 240Hz OLED Screen and Superior Graphics Fidelity</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-prepare-for-success-essential-trends-in-facebook-ads-24/"><u>In 2024, Prepare for Success Essential Trends in Facebook Ads '24</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-rating-the-id-cooling-frozn-a620-pro-se/"><u>In-Depth Analysis and Rating: The ID-Cooling Frozn A620 PRO SE</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-discover-top-picks-at-toms-hardware-hub/"><u>Mastering Your Devices? Discover Top Picks at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/patriot-viper-vp4300-lite-4tb-ssd-high-capacity-affordable-performance-reviewed/"><u>Patriot Viper VP4300 Lite 4TB SSD - High Capacity, Affordable Performance Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pixel-perfect-gaming-display/"><u>Pixel-Perfect Gaming Display</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark/"><u>Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-definitive-guide/"><u>Tom's Tech Reviews: The Definitive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premier-screen-grabbers-premium-video-selections/"><u>[New] 2024 Approved Premier Screen Grabbers Premium Video Selections</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>[New] In 2024, Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-laugh-out-loud-with-ease-crafting-memes-in-a-flash/"><u>[Updated] 2024 Approved Laugh Out Loud with Ease Crafting Memes in a Flash</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-ultimate-guide-to-exceptional-tiktok-intro-videos-mac/"><u>[Updated] The Ultimate Guide to Exceptional TikTok Intro Videos (Mac)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-enhanced-dell-xps-16-and-14-marvelous-design-meets-top-notch-performance-with-surprising-quirks-explored-in-this-review/"><u>A Closer Look at the Enhanced Dell XPS 16 and 14: Marvelous Design Meets Top-Notch Performance with Surprising Quirks Explored in This Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/american-airlines-flight-emergency-laptop-ignites-prompting-passenger-evacuation/"><u>American Airlines Flight Emergency: Laptop Ignites, Prompting Passenger Evacuation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-buys-unbeatable-offer-asus-rog-zephyrus-g14-with-rtx-4060-for-999/"><u>Best Buy's Unbeatable Offer: Asus ROG Zephyrus G14 with RTX 4060 for $999</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-a2-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi A2 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862733914-gamers-dream-deal-save-hundreds-on-the-razer-blade-15-laptop-in-2n3-best-offer-ever/"><u>Gamer's Dream Deal! Save Hundreds on the Razer Blade 15 Laptop in 2N3 - Best Offer Ever</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-magic-vs-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor Magic Vs 2 Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-panzoid-structure-packs/"><u>Premium Panzoid Structure Packs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862737449-ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862661209-unleash-power-and-performance-get-the-asus-rog-zephyrus-g14-rtx-4060-for-just-1099-from-best-buy/"><u>Unleash Power & Performance: Get the Asus ROG Zephyrus G14 RTX 4060 for Just $1099 From Best Buy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-modern-electronics-at-toms-hardware-resource-center/"><u>Unveiling the Power of Modern Electronics at Tom's Hardware Resource Center</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-stunning-design-and-exceptional-capabilities-of-dell-xps-16-9640-and-xps-14-9440-a-comprehensive-review-with-notable-quirks/"><u>Unveiling the Stunning Design and Exceptional Capabilities of Dell XPS 16 (9640) and XPS 14 (9440): A Comprehensive Review with Notable Quirks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubers-ultimate-guide-10-keys-to-unique-short-form-videos-for-2024/"><u>Youtubers' Ultimate Guide 10 Keys to Unique Short-Form Videos for 2024</u></a></li>
 </ul></div>
 

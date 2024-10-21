@@ -1,7 +1,7 @@
 ---
 title: "Customizing Health Milestones: How to Update and Personalize Fitness Goals Directly From Your Apple Watch"
-date: 2024-09-17 12:48:39
-updated: 2024-09-20 11:29:58
+date: 2024-10-19T22:50:21.077Z
+updated: 2024-10-20T22:29:38.768Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-first-impressions-intova-x-in-the-spotlight/"><u>[New] First Impressions Intova X in the Spotlight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-step-by-step-guide-to-retrieving-wi-fi-credentials-in-windows-11/"><u>A Step-by-Step Guide to Retrieving Wi-Fi Credentials in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676604-adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bluehost-hosting-services-breakdown-testing-the-waters-of-cloud-vps-and-shared-plans/"><u>Bluehost Hosting Services Breakdown: Testing the Waters of Cloud, VPS, and Shared Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-ultimate-sound-of-turtle-beachs-atlas-air-headphones-comfort-meets-acoustic-excellence/"><u>Experience the Ultimate Sound of Turtle Beach's Atlas Air Headphones – Comfort Meets Acoustic Excellence</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-mend-printer-queue-errors-on-windows-pcs/"><u>How to Mend Printer Queue Errors on Windows PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-unparalleled-precision-meets-dynamic-180hz-gameplay/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS: Unparalleled Precision Meets Dynamic 180Hz Gameplay</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-geforce-rtx-1080-driver-update-for-windows-11-made-easy/"><u>Latest Nvidia GeForce RTX 1080 Driver Update for Windows 11 Made Easy</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/les-top-4-solutions-de-remplacement-pour-transwiz-decouvrez-celles-quon-ne-saurait-oublier/"><u>Les Top 4 Solutions De Remplacement Pour Transwiz - Découvrez Celles Qu'on Ne Saurait Oublier!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-striking-gopro-time-lapse-videos/"><u>Master the Art of Striking GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-at-toms-hardware-station/"><u>Mastering Gadgets and Components at Tom's Hardware Station</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-ssd-lifespan-with-akasa-gecko-a-thorough-review-of-this-superior-blower-heatsink-technology/"><u>Maximizing SSD Lifespan with Akasa Gecko: A Thorough Review of This Superior Blower Heatsink Technology</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-digital-landscape-with-major-players-facebook-twitter-instagram-youtube/"><u>Navigating the Digital Landscape with Major Players: Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-critique-ensuring-a-protected-experience/"><u>NZXT H7 Flow Critique: Ensuring a Protected Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-testing-insights-on-the-asus-zenbook-s16-featuring-an-intel-core-i7-cpu/"><u>Performance Testing Insights on the Asus Zenbook S16 Featuring an Intel Core I7 CPU</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-samsungs-galaxy-ring-learn-about-pricing-release-plans-and-specs-today/"><u>The Complete Guide to Samsung's Galaxy Ring - Learn About Pricing, Release Plans & Specs Today!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sh-video-potential-leading-youtube-seo-tools/"><u>Unleash Video Potential - Leading YouTube SEO Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-lan-world-play-windows-mc-solutions/"><u>Unleashing LAN World Play: Windows MC Solutions</u></a></li>
+</ul></div>
+

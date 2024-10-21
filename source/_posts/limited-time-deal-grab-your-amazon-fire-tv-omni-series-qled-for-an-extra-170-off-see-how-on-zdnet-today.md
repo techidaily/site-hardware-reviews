@@ -1,7 +1,7 @@
 ---
 title: Limited Time Deal! Grab Your Amazon Fire TV Omni Series QLED for an Extra $170 Off - See How on ZDNET Today!
-date: 2024-10-14T16:06:43.846Z
-updated: 2024-10-15T16:08:55.370Z
+date: 2024-10-14T04:56:06.940Z
+updated: 2024-10-20T19:38:35.328Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +99,24 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elevating-film-previews-with-thoughtful-soundtrack-selection/"><u>[New] Elevating Film Previews with Thoughtful Soundtrack Selection</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-feast-frenzy-tiktok-gastronomic-journey/"><u>[New] Feast Frenzy #Tiktok Gastronomic Journey</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-foundational-steps-to-your-distinctive-marketing-voice/"><u>[New] The Foundational Steps to Your Distinctive Marketing Voice</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unveiling-the-art-of-flipping-photo-shades/"><u>[New] Unveiling the Art of Flipping Photo Shades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-inshots-ecosystem-a-detailed-editor-app-study/"><u>[Updated] InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-comparisons-and-reviews-by-toms-hardware-specialists/"><u>Advanced Gadget Comparisons and Reviews by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-assessment-asus-rog-azoth-extreme-for-gamers-under-500-usd/"><u>Detailed Assessment: Asus ROG Azoth Extreme for Gamers Under 500 USD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-unique-world-of-flsun-s1-fast-and-fun-solar-gadget/"><u>Discover the Unique World of FLSun S1 - Fast and Fun Solar Gadget</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-writing-productivity-the-ultimate-list-of/"><u>Elevate Writing Productivity: The Ultimate List Of</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-performance-low-cost-storage-comprehensive-review-of-the-hatdrive-nano-ssd-for-pi-enthusiasts/"><u>High-Performance, Low-Cost Storage: Comprehensive Review of the HatDrive! Nano SSD for Pi Enthusiasts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721457748139-iphone-cant-backup-to-icloud-discover-these-effective-fixes/"><u>IPhone Can’t Backup to iCloud? Discover These Effective Fixes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-expertise-from-toms-hardware/"><u>Mastering Gadgets & Gizmos with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-expeditious-methods-for-swiftly-neutralizing-audio-interference-and-noise/"><u>New Expeditious Methods for Swiftly Neutralizing Audio Interference and Noise</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mac-video-production-simplified-best-video-makers-for-beginners/"><u>New Mac Video Production Simplified Best Video Makers for Beginners</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-premium-class-leader-asus-rog-rapture-gt-be98-pro-wifi-7-superior-functionality-and-upgradable-features/"><u>Reviewing the Premium Class-Leader, Asus ROG Rapture GT-BE98 Pro WIFI 7: Superior Functionality & Upgradable Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-top-tier-pc-parts-by-toms-technology-experts/"><u>The Ultimate Guide to Top-Tier PC Parts by Tom's Technology Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-essential-hardware-advice-for-smart-buying/"><u>Tom’s Essential Hardware Advice for Smart Buying</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-leveraging-imovie-features-to-upgrade-your-youtube-content-quality/"><u>[New] In 2024, Leveraging iMovie Features to Upgrade Your YouTube Content Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-power-players-unleashed-youtubes-female-elite/"><u>[New] In 2024, Power Players Unleashed YouTube’s Female Elite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unearthing-the-skies-hubsan-h501x4-quad-drone-analysis/"><u>[New] In 2024, Unearthing the Skies Hubsan H501X4 Quad Drone Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-video-capturing-made-simple-a-complete-guide-using-zd-software/"><u>[Updated] In 2024, Mastering Video Capturing Made Simple A Complete Guide Using ZD Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa3n16ucr-mini-led-mastery-a-deep-dive-into-professional-level-color-accuracy/"><u>Asus ProArt PA3n16UCR Mini LED Mastery: A Deep Dive Into Professional-Level Color Accuracy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-asus-pro-b760m-ct-csm-review-is-it-worth-the-investment/"><u>Cutting Edge Tech: ASUS Pro B760M-CT CSM Review - Is It Worth The Investment?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guides-on-toms-computing-essentials/"><u>Expert Guides on Tom's Computing Essentials</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-htc-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your HTC Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-aorus-co49dq-oled-stunning-display-colors-and-contrast-performance/"><u>In-Depth Analysis of the Gigabyte Aorus CO49DQ OLED - Stunning Display Colors & Contrast Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/inside-the-secrets-of-quantum-hdr-photography/"><u>Inside the Secrets of Quantum HDR Photography</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-electronics-insights-and-reviews-by-tom/"><u>Inside the World of Electronics: Insights and Reviews by Tom</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/methods-to-capture-audio-from-your-jango-device-and-convert-to-mp3-format/"><u>Methods to Capture Audio From Your Jango Device & Convert to MP3 Format</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-gear-with-expertise-from-toms-hardware/"><u>Navigate the World of Tech Gear with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-m2-ssd-card-adapter-hat-review-budget-friendly-and-fast-performance/"><u>Raspberry Pi M.2 SSD Card Adapter HAT Review - Budget Friendly and Fast Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-computer-components/"><u>Tom's Tech Insights: Your Guide to Computer Components</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-8-methods-for-cracking-drm-on-your-dvds-discover-free-solutions/"><u>Top 8 Methods for Cracking DRM on Your DVDs: Discover Free Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-restricted-torrents-top-4-strategies-for-site-unblocking/"><u>Unlocking Restricted Torrents: Top 4 Strategies for Site Unblocking</u></a></li>
 </ul></div>
 

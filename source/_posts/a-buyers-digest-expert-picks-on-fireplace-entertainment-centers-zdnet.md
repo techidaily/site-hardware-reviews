@@ -1,7 +1,7 @@
 ---
 title: "A Buyer's Digest: Expert Picks on Fireplace Entertainment Centers | ZDNET"
-date: 2024-10-13T16:16:00.811Z
-updated: 2024-10-15T16:01:25.245Z
+date: 2024-10-14T00:16:43.730Z
+updated: 2024-10-20T17:16:20.591Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,16 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,10 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -99,22 +105,18 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-authenticity-through-customer-produced-videos/"><u>[New] Authenticity Through Customer-Produced Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/apex-productions-audit-studio-25-breakdown-2023-for-2024/"><u>Apex Productions Audit Studio 25 Breakdown, 2023 for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341735072-approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convertendo-arquivos-mmf-de-graca-o-solucao-mais-simplificada-do-movavi/"><u>Convertendo Arquivos MMF De Graça: O Solução Mais Simplificada Do Movavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/cutting-edge-360-degree-cameras-for-youtube-and-facebook/"><u>Cutting-Edge 360-Degree Cameras for YouTube & Facebook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-tech-trends-with-toms-hardware-expertise/"><u>Discover the Latest Tech Trends with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-a-deep-dive-into-hardware-by-tomsphere/"><u>Exploring Advanced Tech: A Deep Dive Into Hardware by TomSphere</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/green-consumerism/"><u>Green Consumerism</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oneplus-open-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nokia-c12-plus-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nokia C12 Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers4/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/portable-balancing-system-for-video-capture-for-2024/"><u>Portable Balancing System for Video Capture for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-alert-the-atlas-air-from-turtle-beach-delivers-top-tier-acoustics/"><u>Review Alert! The ATLAS Air From Turtle Beach Delivers Top-Tier Acoustics</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transforming-productivity-a-detailed-look-at-hp-omnibook-xs-revolutionary-16-hour-endurance-powered-by-xpower-processor/"><u>Transforming Productivity: A Detailed Look at HP OmniBook X's Revolutionary 16-Hour Endurance Powered by XPower Processor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-premium-gaming-performance-with-the-budget-friendly-acer-predator-orion-5000-reviewed/"><u>Unlocking Premium Gaming Performance with the Budget-Friendly Acer Predator Orion 5000 - Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-carminatis-gig-economy-ajays-youtube-wealth-stream/"><u>[New] 2024 Approved Carminati's Gig Economy AJay's YouTube Wealth Stream</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-accelerated-file-format-change-from-srt-to-simple-txt/"><u>[New] Accelerated File Format Change From SRT to Simple TXT</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/hddvm/"><u>物理HDDをVMで利用可能なイメージに変換するステップバイステップガイド</u></a></li>
+<li><a href="https://network-issues.techidaily.com/compatibility-issue-on-windows-10-with-nvidia-geforce-7025nvidia-nforce-630a-solved/"><u>Compatibility Issue on Windows 10 with NVIDIA GeForce 7025/NVIDIA nForce 630a [Solved]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>In 2024, Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/razer-blade-18-premium-laptop-for-professionals-featuring-nvidias-geforce-rtx-4090-graphics-card-priced-at-4799/"><u>Razer Blade 18: Premium Laptop for Professionals Featuring Nvidia's GeForce RTX 4090 Graphics Card, Priced at $4,799</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revamped-tech-blueprint-superior-laptop-performance-boost-with-intel-core-ultra-and-new-generation-ryzen-cpus/"><u>Revamped Tech Blueprint: Superior Laptop Performance Boost with Intel Core Ultra & New Generation Ryzen CPUs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-is-arm-based-mediatek-gears-up-to-power-windows-laptops-post-qualcomm-pact/"><u>The Future Is ARM-Based: MediaTek Gears Up to Power Windows Laptops Post Qualcomm Pact</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-in-depth-reviews-and-analysis/"><u>Tom's Computing: In-Depth Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-full-potential-of-your-gaming-rig-by-boosting-frames-per-second-in-ring-of-elysium-best-tips-inside/"><u>Unlock the Full Potential of Your Gaming Rig by Boosting Frames Per Second in Ring of Elysium – Best Tips Inside</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-mystery-how-does-chatgpts-shared-link-feature-function/"><u>Unveiling the Mystery: How Does ChatGPT's Shared Link Feature Function?</u></a></li>
 </ul></div>
 

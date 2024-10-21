@@ -1,7 +1,7 @@
 ---
 title: "Roku Security Alert: More Than 15K Users Compromised - Essential Safety Measures [ZDNet]"
-date: 2024-09-18 12:57:33
-updated: 2024-09-20 10:23:32
+date: 2024-10-19T22:21:19.681Z
+updated: 2024-10-21T00:42:23.624Z
 tags:
   - streaming-devices
 categories:
@@ -58,11 +58,40 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-motivational-speaker-appraisal-edition-8-for-2024/"><u>[New] Motivational Speaker Appraisal, Edition 8 for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-premier-advice-superior-iphone-audio-artists-for-2024/"><u>[Updated] Premier Advice Superior iPhone Audio Artists for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-style-essentials-download-for-free/"><u>2024 Approved YouTube Style Essentials - Download for FREE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341679817-affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crafting-viral-content-made-simple-top-8-techniques-for-recording-on-tiktok-across-all-gadgets-using-movavi/"><u>Crafting Viral Content Made Simple: Top 8 Techniques for Recording on TikTok Across All Gadgets Using Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341714014-experience-green-technology-with-teamgroups-eco-vulcan-the-ddr5-6000-c30-2x16gb-memory-kit-reviewed/"><u>Experience Green Technology with TeamGroup's Eco Vulcan - The DDR5-6000 C30, 2X16GB Memory Kit Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/green-thumb-essentials-starting-your-organic-veg-patch-the-earth-friendly-way-for-novices/"><u>Green Thumb Essentials: Starting Your Organic Veg Patch the Earth-Friendly Way for Novices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-what-everyone-should-know-about-youtube-tv-before-you-stream/"><u>In 2024, What Everyone Should Know About YouTube TV Before You Stream</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-dell-xps-13-9345-expert-analysis-enduring-style-meets-new-snapdragon-x-elite-power/"><u>In-Depth Dell XPS 13 (9345) Expert Analysis: Enduring Style Meets New Snapdragon X Elite Power</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976020124-speed-boost-alert-update-your-windows-system-for-the-new-and-improved-gigabit-ethernet-driver-supporting-usb-30-technology/"><u>Speed Boost Alert! Update Your Windows System for the New and Improved Gigabit Ethernet Driver Supporting USB 3.0 Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-your-guide-to-all-things-tech/"><u>Tom's Hardware - Your Guide to All Things Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-insights-on-computer-hardware/"><u>Tom's Tech: Expert Insights on Computer Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating LinkedIn's Great Reshuffle: Exploring Opportunities in Eco-Friendly Careers & Identifying Overlooked Gaps"
-date: 2024-09-17 15:43:41
-updated: 2024-09-20 12:43:35
+date: 2024-10-15T04:28:31.230Z
+updated: 2024-10-21T03:50:50.865Z
 tags:
   - sustainability
 categories:
@@ -32,6 +32,13 @@ LinkedIn purports that the [Great Reshuffle](https://www.linkedin.com/pulse/navi
 That's the introduction to LinkedIn's recently published [Global Green Skills Report 2022](https://economicgraph.linkedin.com/research/global-green-skills-report). As LinkedIn CEO Ryan Roslansky writes in the report, LinkedIn wants to do its part by leveraging its unique data and labour market expertise to highlight actionable insights that are crucial to delivering a successful green transition and avoiding potential pitfalls.
 
 LinkedIn's data are a valuable source of insights. However, there are also important blind spots in the report.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Green skills and green jobs
 
@@ -65,6 +72,13 @@ LinkedIn's report distills four more trends shaping the green economy.
 
 First, demand for green talent will soon outpace supply. In the past year, \~10% of job postings requiring skills have explicitly required at least one green skill -- which is generally aligned with \~10% of the hires in the same period going to green or greening jobs. However, while job postings requiring green skills grew at 8% annually over the past five years, the share of green talent has grown at roughly 6% annually in the same period.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### see also
 
 [Want to attract new tech talent? Start thinking green Getting more young people into technology will require businesses to start thinking about the kind of company they want to be.  Read now](https://www.zdnet.com/article/want-to-attract-new-tech-talent-start-thinking-green/)
@@ -82,6 +96,13 @@ Fourth, the fastest-growing green skills are both mainstream and emerging. Some 
 And several of the fastest-growing green skills across all sectors during the same time period were not necessarily in-demand skills but suggested the emergence of new trends, including Sustainable Fashion, Oil Spill Response and Sustainable Business Strategies, among others.
 
 LinkedIn's data are a great source to derive insights from. LinkedIn's report is quite comprehensive, as it does not just offer data-driven insights but also dives into specific case studies, identifies trends blocking an equitable transition for workers and a sustainable transition for the planet, and lays out an action plan with recommendations for policymakers, business leaders and the global workforce.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taxonomies are the duct tape of connected data - green ones, too
 
@@ -108,6 +129,13 @@ It's possible that LinkedIn consulted ESCO in creating its own green skill taxon
 ## Are green skills driving sustainable change in the European automotive industry?
 
 Another example of the fact that even data-driven analysis is often not as clear-cut as it seems is LinkedIn's reference to how green skills are driving sustainable change in the European automotive industry. LinkedIn notes that the move to electric is reshaping the talent profile of the automotive industry, and the need for innovation to cut emissions has influenced a sustained technological change in the European automotive industry.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Electric Vehicles
 
@@ -149,11 +177,26 @@ That's not to say that we should disregard either LinkedIn's analysis or the cha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>[New] 2024 Approved Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-video-amounts-stored-64-vs-128gb-comparison/"><u>[New] Video Amounts Stored 64 vs 128GB Comparison</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/colorful-canvas-basic-adobe-corrections-guide/"><u>Colorful Canvas Basic Adobe Corrections Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-resolved-fixing-origins-inability-to-open-under-microsofts-latest-operating-systems/"><u>Guide: [RESOLVED] Fixing Origin's Inability to Open Under Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860484826-in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10-for-2024/"><u>In-Device Recorder Activation Huawei's Mate 10/20 & P Series Phones (P20, P10). For 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-computer-enthusiasts-tips-and-reviews-on-toms-hardware/"><u>The Ultimate Source for Computer Enthusiasts: Tips & Reviews on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-galaxy-unveiling-the-secrets-of-high-performance-hardware/"><u>Tom's Gadget Galaxy - Unveiling the Secrets of High-Performance Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-computer-components-t17238628805809/"><u>Tom's Tech Insights: Your Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide-t172386288058010/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-2024s-best-gaming-mobos-compared-by-key-sockets-and-processor-support/"><u>Ultimate Selection of 2024'S Best Gaming Mobos: Compared by Key Sockets and Processor Support</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-top-10-storyboarding-software-for-2024/"><u>Updated Top 10 Storyboarding Software for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/zap-freezes-quickly-enjoy-flawless-games/"><u>Zap Freezes Quickly - Enjoy Flawless Games</u></a></li>
+</ul></div>
+

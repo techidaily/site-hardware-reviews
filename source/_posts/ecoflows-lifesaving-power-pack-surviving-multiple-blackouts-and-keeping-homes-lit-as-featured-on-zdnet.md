@@ -1,7 +1,7 @@
 ---
 title: "EcoFlow's Lifesaving Power Pack: Surviving Multiple Blackouts and Keeping Homes Lit, as Featured on ZDNet"
-date: 2024-09-19 18:38:31
-updated: 2024-09-20 10:36:17
+date: 2024-10-17T18:16:05.577Z
+updated: 2024-10-20T17:43:57.050Z
 tags:
   - sustainability
 categories:
@@ -85,6 +85,13 @@ The Delta Pro Ultra is quite heavy, at a combined 186 lbs for the battery and in
 
 Since the EcoFlow allows for stacking, you could scale up to 90kWh to power essential appliances for over a month. You could stack up to five DPU batteries under a single inverter and combine three stacks with the Smart Home Panel 2\. Each [extra DPU battery](https://www.amazon.com/EF-ECOFLOW-Battery-Expandable-Emergency/dp/B0CQXLCK75?tag=zdnet-buy-button-20) costs $2,599.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [EcoFlow Delta Pro Ultra](https://www.amazon.com/EF-ECOFLOW-Expandable-Generator-Emergency/dp/B0CQXMZ5BK?tag=zdnet-buy-button-20)'s biggest downside is its hefty upfront cost. Considering how expensive traditional generators for whole-home backup can get, not to mention follow-up maintenance costs, it's a good investment that could lead to potential savings, especially when combined with solar panels.
@@ -114,11 +121,28 @@ Alternative uses for the DPU include: a solar panel setup for your home with sol
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-whipped-watchers-guide-complete-review-of-frozen-food-filming-tech/"><u>[New] Whipped Watcher's Guide Complete Review of Frozen Food Filming Tech</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-winning-strategies-the-complete-vegas-pro-21-review-for-2024/"><u>[New] Winning Strategies The Complete Vegas Pro '21 Review for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-the-ultimate-collection-of-popular-tiktok-reactions/"><u>[Updated] 2024 Approved The Ultimate Collection of Popular TikTok Reactions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-formulating-impressive-online-media-introductions/"><u>[Updated] Formulating Impressive Online Media Introductions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-to-fast-forward-faster-in-snapchat-simple-and-quick/"><u>[Updated] Learn to Fast-Forward Faster in Snapchat, Simple & Quick</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-c67-4g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from C67 4G</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-correcting-the-problems-with-a-lost-coredll-file/"><u>Expert Advice: Correcting the Problems with a Lost Core.dll File</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/motherboard-for-all-you-anime-lovers-out-there/"><u>Motherboard for All You Anime Lovers Out There</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-implements-new-default-power-settings-based-on-intels-official-documentation-for-core-i9-motherboards-enhancing-stability-and-performance/"><u>MSI Implements New Default Power Settings Based on Intel's Official Documentation for Core I9 Motherboards, Enhancing Stability and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-z790-boards-under-scrutiny-as-cracked-pch-chipset-fault-emerges-manufacturing-oversight-blamed-for-affected-units/"><u>MSI Z790 Boards Under Scrutiny as Cracked PCH Chipset Fault Emerges – Manufacturing Oversight Blamed for Affected Units</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msis-response-to-z790-heatsink-failures-initiating-unit-replacements-for-affected-customers/"><u>MSI's Response to Z790 Heatsink Failures: Initiating Unit Replacements for Affected Customers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-innovations-a-journey-through-toms-tech-insights/"><u>Navigating Innovations: A Journey Through Tom's Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-insights-from-toms-hardware-team/"><u>Navigating the World of PC Components: Insights From Tom's Hardware Team</u></a></li>
+</ul></div>
+

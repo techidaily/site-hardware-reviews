@@ -1,7 +1,7 @@
 ---
 title: The Ecological Footprint of Smartphones Explored - How to Mitigate Climate Harm
-date: 2024-09-17 21:20:37
-updated: 2024-09-20 10:51:30
+date: 2024-10-17T16:53:32.408Z
+updated: 2024-10-20T18:02:55.161Z
 tags:
   - sustainability
 categories:
@@ -63,6 +63,13 @@ By this point, the building blocks of your smartphone have already traveled thro
 
 "It's a huge challenge for smartphone brands -- actually understanding the emissions that go into creating that device," Ben Stanton, technology, media, and telecoms research manager at Deloitte, tells ZDNET. "They may not have perfect visibility all the way down the supply chain. So if they -- as a central player in the creation -- struggle, then for the consumer to really comprehend all of those things is very, very challenging." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How green is the greenest phone? 
 
 Among smartphone vendors, Apple claims to have one of the "greenest" devices. According to the [Product Environmental Report](https://www.apple.com/environment/pdf/products/iphone/iPhone%5F13%5FPro%5FPER%5FSept2021.pdf) for the [iPhone 13 Pro](https://www.zdnet.com/product/apple-iphone-13-pro-max/), the device has a 69 kg carbon footprint throughout its entire life cycle, from production to recycling -- notably better than the 85 kg in emissions an average smartphone produces in just its first year of existence. 
@@ -82,6 +89,19 @@ Considering that the typical lifespan of a smartphone falls between two and five
 **Also:** [**How to install Linux on an old laptop**](https://www.zdnet.com/article/how-to-install-linux-on-an-old-laptop/)
 
 "The actual usage of a phone is really, really trivial" in terms of emissions Lee notes.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How trade-ins help
 
@@ -114,6 +134,13 @@ Trade-in programs are driving the growth of the used smartphone market, research
 Nair called the trade-in programs a "win-win-win" for everyone involved -- customers get money for their old device, carriers get more sales, and consumers in other markets get access to devices they otherwise couldn't afford. 
 
 "And it's exceptional for the environment," he added, "Because these devices don't end up in landfill." 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Where recycling fits in 
 
@@ -164,11 +191,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-illustrate-and-write-with-iosandroid-tools/"><u>[New] 2024 Approved Illustrate & Write with iOS/Android Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-invisible-viewers-for-fb-chronicles-for-2024/"><u>[New] Invisible Viewers for FB Chronicles for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-to-swift-youtube-discussion-management/"><u>[New] The Ultimate Guide to Swift Youtube Discussion Management</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>[Updated] In 2024, Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-ideas-into-visual-stories-on-facebook-reels-for-2024/"><u>[Updated] Transforming Ideas Into Visual Stories on Facebook Reels for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-effortless-windows-11-must-know-essentials/"><u>2024 Approved Effortless Windows 11 Must-Know Essentials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cooler-master-ncore-100-max-tower-case-a-robust-rack-for-hefty-graphics-cards/"><u>Cooler Master Ncore 100 Max Tower Case: A Robust Rack for Hefty Graphics Cards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808345167-effortlessly-start-your-pc-in-safe-mode-on-windows-11-a-comprehensive-guide-to-all-4-strategies-and-their-images/"><u>Effortlessly Start Your PC in Safe Mode on Windows 11 - A Comprehensive Guide to All 4 Strategies and Their Images!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-technology-from-toms-computer-solutions/"><u>Expert Insights on Technology From Tom's Computer Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-experience-enhancing-silence-with-the-be-quiet-dark-base-pro-901-soundproofing-kit/"><u>Hands-On Experience: Enhancing Silence with the Be Quiet Dark Base Pro 901 Soundproofing Kit</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-sounding-different-in-pubg/"><u>In 2024, Mastering the Art of Sounding Different in PUBG</u></a></li>
+<li><a href="https://games-able.techidaily.com/mighty-gaming-cos-market-strategy-raises-questions-talk-show-episode/"><u>Mighty Gaming Co.'s Market Strategy Raises Questions! [Talk Show Episode]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pure-base-500dx-mid-tower-desktop-chassis-steal-the-deal-at-only-84/"><u>Pure Base 500DX Mid Tower Desktop Chassis - Steal the Deal at Only $84!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-gadget-comparisons/"><u>Tom's Tech Insights: Expert Reviews and Gadget Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-and-hardware-analysis/"><u>Tom's Tech Insights: In-Depth Computer and Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-gaming-experience-secure-extra-1tb-on-xbox-using-the-affordable-125-seagate-hard-drive-enhancer/"><u>Upgrade Your Gaming Experience: Secure Extra 1TB on Xbox Using the Affordable $125 Seagate Hard Drive Enhancer</u></a></li>
+</ul></div>
+

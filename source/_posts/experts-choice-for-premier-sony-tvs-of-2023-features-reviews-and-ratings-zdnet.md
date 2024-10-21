@@ -1,7 +1,7 @@
 ---
 title: "Experts' Choice for Premier Sony TVs of 2023: Features, Reviews & Ratings | ZDNET"
-date: 2024-10-09T16:08:23.114Z
-updated: 2024-10-15T16:21:56.464Z
+date: 2024-10-17T04:29:46.679Z
+updated: 2024-10-20T21:23:43.332Z
 tags:
   - tvs
 categories:
@@ -52,18 +52,18 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -94,10 +94,10 @@ If you want a more elaborate audio setup, you can connect your TV to [Echo speak
 I would much rather see multi-device support for generic Bluetooth speakers and soundbars, since users might have audio equipment from different brands rather than a house full of Amazon-branded devices. You can set up non-Amazon speakers and soundbars with the TV but won't get that whole-home audio experience, which is a shame. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alexa and Amazon features 
@@ -134,19 +134,6 @@ I usually play console games with a headset so I can better pick up on audio cue
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Streaming 
 
 This TV was built from the ground up to be a one-stop-shop not only for streaming Amazon Originals and Prime Video offerings, but streaming from every one of your favorite apps. Upon startup, the Omni QLED drops you right into the FireOS home screen, which puts Prime shows and movies front and center. You can also access Amazon's other video streaming partners like Freevee from the home screen as well to watch free movies and shows with ads. 
@@ -182,10 +169,10 @@ Animation is another area where this TV comes into its own. Whether you're watch
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Bottom line 
@@ -195,6 +182,13 @@ At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill 
 The dedicated gaming picture mode lets colors and details pop while the integrated speakers provide clean, clear audio. And even older cartoons and films look amazing with upscaled 4K resolution, letting you revisit childhood favorites.
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider 
 
@@ -236,18 +230,22 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-preventing-non-displayed-images-in-youtubes-shorts/"><u>[New] Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-dive-into-windows-new-horizons-the-latest-iteration/"><u>[Updated] In 2024, Dive Into Windows' New Horizons The Latest Iteration</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-dell-desktop-screen-capture-tutorial-for-2024/"><u>[Updated] Step-by-Step Dell Desktop Screen Capture Tutorial for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mp4-file-capture-comparative-study-and-reviews/"><u>2024 Approved MP4 File Capture Comparative Study & Reviews</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-facebook-streaming-on-roku-devices/"><u>2024 Approved Navigating Facebook Streaming on Roku Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beginners-blueprint-for-a-lush-eco-conscious-vegetable-garden-organic-practices-that-work/"><u>Beginner’s Blueprint for a Lush, Eco-Conscious Vegetable Garden: Organic Practices That Work</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-features-in-depth-review-of-the-white-microatx-maxsun-terminator-z790m-d5-ice-motherboard-equipped-with-5-m2-slots/"><u>Breaking Down the Features: In-Depth Review of the White MicroATX Maxsun Terminator Z790M D5 Ice Motherboard, Equipped With 5 M.2 Slots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-sabrent-rocket-nano-2242-1tb-your-standard-bearer-for-m2-2242-storage-solutions/"><u>Comprehensive Review of the Sabrent Rocket Nano 2242 1TB - Your Standard-Bearer for M.2 2242 Storage Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-note-12-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi Note 12 Pro 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-gear-toms-expert-hardware-analysis/"><u>Navigating Tech Gear: Tom's Expert Hardware Analysis</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/enefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-elements-creating-striking-podcast-covers/"><u>[New] 2024 Approved Essential Elements Creating Striking Podcast Covers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-your-roadmap-to-monetization-mastery-the-straightforward-strategy-for-analyzing-youtube-earnings/"><u>[New] 2024 Approved Your Roadmap to Monetization Mastery The Straightforward Strategy for Analyzing YouTube Earnings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-expertise-unlocked-smooth-video-cuts-on-photos-via-windows-11/"><u>[Updated] 2024 Approved Expertise Unlocked Smooth Video Cuts on Photos via Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-disable-unsolicited-youtube-video-listings/"><u>[Updated] In 2024, Disable Unsolicited YouTube Video Listings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-maximizing-video-quality-with-zooms-format-tools/"><u>[Updated] In 2024, Maximizing Video Quality with Zoom's Format Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciphering-windows-11s-detailed-battery-analysis-tips-and-tricks/"><u>Deciphering Windows 11'S Detailed Battery Analysis: Tips & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-unleashed-detailed-analysis-of-the-asus-rog-swift-pg34wcdm-monitors-stunning-240hz-oled-screen-and-superior-graphics-fidelity/"><u>High-Performance Gaming Unleashed: Detailed Analysis of the Asus ROG Swift PG34WCDM Monitor's Stunning 240Hz OLED Screen and Superior Graphics Fidelity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-rating-the-id-cooling-frozn-a620-pro-se/"><u>In-Depth Analysis and Rating: The ID-Cooling Frozn A620 PRO SE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-world-expert-analysis-on-electronics-and-pc-components/"><u>Inside Tom’s Tech World: Expert Analysis on Electronics and PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-discover-top-picks-at-toms-hardware-hub/"><u>Mastering Your Devices? Discover Top Picks at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixel-perfect-gaming-display/"><u>Pixel-Perfect Gaming Display</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecnicas-expertas-para-crear-videos-de-viajes-impactantes-consejos-esenciales-de-videoblog/"><u>Técnicas Expertas Para Crear Videos De Viajes Impactantes: Consejos Esenciales De Videoblog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-insights-on-top-notch-electronic-devices/"><u>Tom’s Insights on Top-Notch Electronic Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-definitive-guide/"><u>Tom's Tech Reviews: The Definitive Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone 13 mini? | Dr.fone</u></a></li>
 </ul></div>
 

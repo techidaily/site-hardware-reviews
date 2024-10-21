@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Right to Repair Law: How It Affects Your Tech Choices - Unveiled by ZDNET"
-date: 2024-09-17 18:50:58
-updated: 2024-09-20 11:40:37
+date: 2024-10-14T23:42:01.725Z
+updated: 2024-10-20T23:54:33.550Z
 tags:
   - sustainability
 categories:
@@ -43,6 +43,13 @@ E-waste is toxic for the environment and can harm living species -- including hu
 
 E-waste is often transferred to developing countries that practice crude recycling techniques -- such as acid leaching and cable burning -- in attempts to recover valuable substances, including gold, silver, copper, and other valuable metals, according to the [National Institute of Environmental Health Sciences](https://www.niehs.nih.gov/research/programs/geh/geh%5Fnewsletter/2014/2/spotlight/ewaste%5Fan%5Femerging%5Fhealth%5Frisk%5F.cfm#:~:text=E%2Dwaste%20is%20hazardous%20because,near%20e%2Dwaste%20recycling%20centers.). Workers in the informal recycling sectors are heavily exposed to toxic substances, which severely impacts their health. Furthermore, women and children are the most susceptible to these contaminants. Nearly 12.9 million women work in the informal recycling sector, which puts themselves and their unborn children at risk, and more than 18 million children and adolescents engage in those centers to some capacity, [according to the World Health Organization](https://www.who.int/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns#:~:text=Other%20adverse%20child%20health%20impacts,as%20cancer%20and%20cardiovascular%20disease.). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which states have right to repair laws?
 
 As seen on the map below, only two states have actually passed a right to repair law -- New York and Colorado. Each state's laws and protections are slightly different. 
@@ -59,15 +66,36 @@ However, the bill came in for some criticism since it was modified so that OEMs 
 
 The modified, passed bill reads: "This agreement eliminates the bill's original requirement calling for original equipment manufacturers to provide to the public any passwords, security codes or materials to override security features, and allows for original equipment manufacturers may provide assemblies of parts rather than individual components when the risk of improper installation heightens the risk on injury."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who's supporting the right to repair movement?
 
 The Right to Repair movement has been supported by several organizations, including [The Repair Association](https://www.repair.org/) and [PIRG](https://pirg.org/campaigns/right-to-repair/). These organizations spread awareness about the issue and inform people on how to advocate for legislation at both a state and federal level. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How can I benefit from right to repair?
 
 In addition to the positive effects that the legislation has on the environment, right to repair laws ultimately will save individuals money. Often, repairs at the OEM can be costly and inconvenient, since you need to seek out a service provider. 
 
 With options to repair a product yourself or bring it to a third party, you can compare different servicing fees and locations -- and ultimately pick the one that is best for you. The ability to fix your device at your own convenience should also make you more confident about getting your device repaired in the first place and hopefully extend its life. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the arguments against right to repair?
 
@@ -110,11 +138,27 @@ Lastly, companies are coming up with sustainable designs for their products that
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-whats-behind-the-black-screen-a6400-struggle/"><u>[New] In 2024, What's Behind the Black Screen A6400 Struggle</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-action-packed-shoots-creating-dynamic-video-stories-on-youtube/"><u>[Updated] Action-Packed Shoots Creating Dynamic Video Stories on YouTube</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/"><u>Enhanced Power and Efficiency: Intel Unveils High-Performance Bean Canyon NUCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964468515-exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insights-into-neweggs-strategy-for-reserving-rare-components-before-building-your-pc/"><u>Exclusive Insights Into Newegg's Strategy for Reserving Rare Components Before Building Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertly-assembled-computers-mastering-high-end-performance-demands/"><u>Expertly Assembled Computers: Mastering High-End Performance Demands</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-motorola-edge-40-neo-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Edge 40 Neo Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Reno 10 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcp-x-effects-for-beginners-a-quick-and-easy-3-step-process/"><u>New In 2024, FCP X Effects for Beginners A Quick and Easy 3-Step Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Hub: Expert Insights Into Computer Components and Systems</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-chinese-video-to-english-translator-for-2024/"><u>Updated Best 10 Chinese Video to English Translator for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-do-my-photoshoot-videos-grind-to-a-halt/"><u>Why Do My Photoshoot Videos Grind to a Halt?</u></a></li>
+</ul></div>
+

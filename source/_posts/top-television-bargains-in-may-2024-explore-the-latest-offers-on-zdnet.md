@@ -1,7 +1,7 @@
 ---
 title: Top Television Bargains in May 2024 - Explore the Latest Offers on ZDNet
-date: 2024-10-14T16:08:50.524Z
-updated: 2024-10-15T16:01:34.565Z
+date: 2024-10-13T20:24:45.828Z
+updated: 2024-10-20T22:03:26.925Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Jason Hiner/ZDNET
 The [Samsung S90C OLED TV is on sale for $1,497 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) for [Labor Day weekend](https://www.zdnet.com/article/best-labor-day-deals-2024/) \-- an all-time-low price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -67,10 +67,10 @@ Lastly, I want to mention one other TV, the [Samsung S95D](https://buy.geni.us/P
 If money was no object, the two TVs I would most recommend right now would be either the [Samsung S95D](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CV9BPF93%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) or the [Sony Bravia 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CVQB2D6C%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1). That said, I consider the [Samsung S90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BWFVBZM2%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) and the [Sony X90L](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BYPLCFDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C018b4ff8-1dd8-4fe2-a87f-4ff71cfe350a%7Cdtp&dtb=1) \-- which are both 2023 models -- the TVs that offer the best picture and features for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -92,22 +92,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-perfectly-crafted-windows-simulators-for-ps3-games/"><u>[New] Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-streamlining-spotify-listening-swiftly-but-safely/"><u>[New] Streamlining Spotify Listening - Swiftly but Safely</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-powerpoints-voice-recognition-feature/"><u>[Updated] In 2024, Mastering PowerPoint's Voice Recognition Feature</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-leading-4k-gaming-pcs-top-ten-selection/"><u>2024 Approved Leading 4K Gaming PCs - Top Ten Selection</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-strategic-first-impressions-the-unpacking-edge/"><u>2024 Approved Strategic First Impressions The Unpacking Edge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-diy-circuit-creation-cytron-maker-uno-rp2040-feedback/"><u>Affordable DIY Circuit Creation: Cytron Maker Uno RP2040 Feedback</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-asrock-z790i-lightning-wi-fi-board-performance-small-form-factor-big-impact/"><u>Breaking Down the ASRock Z790I Lightning Wi-Fi Board Performance: Small Form Factor, Big Impact</u></a></li>
-<li><a href="https://article-files.techidaily.com/digital-canvas-the-path-to-photomosaic-mastery/"><u>Digital Canvas The Path to PhotoMosaic Mastery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-the-asus-rog-strix-xg27acs-a-qhd-180hz-display-reviewed-for-speed-and-precision/"><u>Elevate Your Gaming Experience with the Asus ROG Strix XG27ACS - A QHD 180Hz Display Reviewed for Speed and Precision</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-xerox-update-issue-error-code-0x800f020b/"><u>How to Fix the Persistent Xerox Update Issue (Error Code: 0X800F020B)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-with-toms-hardware-experts/"><u>Navigate the Tech World with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/splitcam-examination-camera-quality-showdown-for-2024/"><u>SplitCam Examination - Camera Quality Showdown for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-advanced-hardware-by-toms-technological-reviewers/"><u>The Ultimate Guide to Advanced Hardware by Tom's Technological Reviewers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-gadget-analysis/"><u>Tom's Tech Review: In-Depth Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleashing-sonic-beauty-with-the-loud-and-lovely-blueant-soundblade-comprehensive-review/"><u>Unleashing Sonic Beauty with the Loud & Lovely BlueAnt Soundblade - Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uphere-c5c-plus-d6sec-top-performing-air-coolers-for-less-than-20-bucks/"><u>UpHere C5C + D6Sec - Top Performing Air Coolers for Less Than 20 Bucks?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secrets-of-excellence-in-xbox-gameplay-screenshots/"><u>[New] 2024 Approved Secrets of Excellence in Xbox Gameplay Screenshots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-techniques-for-perfect-chroma-key-compositing-for-2024/"><u>[Updated] Techniques for Perfect Chroma Key Compositing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-canon-shots-access-to-unlimited-free-and-purchasable-luts/"><u>[Updated] Transform Your Canon Shots Access to Unlimited Free & Purchasable LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-virtual-journey-past-to-present/"><u>2024 Approved The Virtual Journey Past to Present</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-assessed-striving-for-the-ultimate-gaming-experience/"><u>Asus ROG Swift OLED PG32UCDP Assessed: Striving for the Ultimate Gaming Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973069029-get-the-latest-gigabyte-z370-d3-chipset-drivers-download-now/"><u>Get the Latest GIGABYTE Z370-D3 Chipset Drivers - Download Now</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/g-money-fast-the-pathway-to-success-in-youtube-shorts/"><u>Making Money Fast The Pathway to Success in YouTube Shorts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/asts-financial-portrait-for-2024/"><u>Mr. Beast’s Financial Portrait for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-insights-and-benchmarking-of-asrocks-compact-wi-fi-solution-z790i-lightning/"><u>Performance Insights and Benchmarking of ASRock's Compact Wi-Fi Solution - Z790I Lightning</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-memory-an-eco-friendly-look-at-teamgroupebn-t-force-vulcan-ddr5-6000-c30-with-2x16gb-modules/"><u>Revolutionizing Memory: An Eco-Friendly Look at TeamGroup'ebn T-Force Vulcan DDR5-6000 C30 with 2X16GB Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341722803-solution/"><u>Solution:</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-manor-lords-game-crashes-steps-for-stable-pc-gaming/"><u>Solving Manor Lords Game Crashes: Steps for Stable PC Gaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sony-state-of-play-2024-announcements-news-and-more/"><u>Sony State of Play 2024: Announcements, News, and More</u></a></li>
 </ul></div>
 

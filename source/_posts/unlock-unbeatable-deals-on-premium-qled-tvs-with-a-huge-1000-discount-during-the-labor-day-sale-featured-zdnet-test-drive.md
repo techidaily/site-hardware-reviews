@@ -1,7 +1,7 @@
 ---
 title: Unlock Unbeatable Deals on Premium QLED TVs with a Huge $1,000 Discount During the Labor Day Sale – Featured ZDNET Test Drive
-date: 2024-09-19 14:38:49
-updated: 2024-09-20 12:21:50
+date: 2024-10-18T20:12:46.272Z
+updated: 2024-10-21T00:37:40.864Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -62,11 +69,25 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -100,6 +121,13 @@ The on-board touch controls were also a godsend during streaming for quick-mutin
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusions
 
 If you're an absolute newbie when it comes to recording or streaming, there are simpler, more budget-friendly options out there for USB microphones for you to cut your teeth on. However, the Shure MV7 is an almost perfect option for anyone who is willing to invest a bit more money into a quality microphone for pro-quality audio. 
@@ -129,11 +157,28 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-time-tagging-in-picture-editing-software/"><u>[Updated] Time Tagging in Picture Editing Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-data-consumption-days-long-movie/"><u>[Updated] Total Data Consumption Day's Long Movie</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-a1-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo A1 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/achieve-peak-performance-enhancing-gameplay-using-switch-pro-controller-in-steam-for-2024/"><u>Achieve Peak Performance Enhancing Gameplay Using Switch Pro Controller in Steam for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-wartime-velocity-the-unconventional-flsun-s1-solar-charger-reviewed/"><u>Exploring Wartime Velocity - The Unconventional FLSun S1 Solar Charger Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-6-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 6 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-with-toms-hardware-insights-and-in-depth-analysis/"><u>Master Your PC with Tom's Hardware Insights and In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-through-toms-hardware-reviews/"><u>Mastering Gadgets and Components Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-tech-the-toms-hardware-chronicles/"><u>Navigating Through Tech: The Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpointing-where-virtual-screenshots-are-kept/"><u>Pinpointing Where Virtual Screenshots Are Kept</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-reviews-and-hardware-analysis-toms-digital-chronicles/"><u>Pioneering PC Reviews and Hardware Analysis - Tom's Digital Chronicles</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-t2x-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo T2x 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-swtor-game-initialization-failures-tips-and-solutions/"><u>Resolving SWTOR Game Initialization Failures - Tips & Solutions</u></a></li>
+<li><a href="https://win-special.techidaily.com/secure-and-protect-your-computer-build-a-failproof-windows-recovery-drive-in-4-simple-steps-as-explained-by-zdnet-professionals/"><u>Secure & Protect Your Computer: Build a Failproof Windows Recovery Drive in 4 Simple Steps, as Explained by ZDNet Professionals</u></a></li>
+</ul></div>
+

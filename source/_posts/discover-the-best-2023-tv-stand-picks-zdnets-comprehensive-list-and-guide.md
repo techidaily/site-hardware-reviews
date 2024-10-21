@@ -1,7 +1,7 @@
 ---
 title: "Discover the Best 2023 TV Stand Picks: ZDNET's Comprehensive List and Guide"
-date: 2024-10-08T16:12:48.548Z
-updated: 2024-10-15T16:14:26.606Z
+date: 2024-10-19T03:43:53.283Z
+updated: 2024-10-20T23:32:20.078Z
 tags:
   - tvs
 categories:
@@ -52,18 +52,18 @@ However, the biggest strike against the Omni QLED is that much of its cool funct
 | Refresh rate     | 60Hz                                                                 |
 | Connectivity     | HDMI, HDMI eARC, Bluetooth, Wi-Fi, Ethernet, USB, AUX, Optical, Coax |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Pricing 
 
 **Also:** [**The 5 best budget TVs**](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-tv/)
 
 As great as the new Omni Series QLED models are, price is a big sticking point for me, especially since I personally don't use Alexa or want an Amazon-centric streaming experience. However, Amazon is currently running a sale on the [65-inch Omni Series QLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-65-inch-omni-qled-series-smart-tv%2Fdp%2FB0BJMGB9RN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1), bringing the price down to $690 -- which is much more in line with what I think this TV should be retailing for -- making it a great, budget-friendly option if you're looking to upgrade. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Picture and sound 
 
@@ -102,10 +102,10 @@ Taylor Clemons/ZDNET
 If you decide to download Alexa Skills, you can play music, games, check the weather, get daily trivia, or even make and receive video calls. Skills are what really set the Omni QLED apart from similar smart TVs from competitors like TCL and Hisense. Without access to these features, the Omni QLED is reduced to a pretty bog-standard smart TV with better-than-expected picture and audio capabilities. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Gaming 
@@ -133,6 +133,13 @@ Taylor Clemons/ZDNET
 I usually play console games with a headset so I can better pick up on audio cues and dialogue, but the integrated speakers of the Omni QLED provide loud and clear audio that doesn't make you miss out on fine details like wind through trees, subtle music, and quiet character conversations. 
 
 If you're in the market for a TV strictly for console gaming, I'd highly recommend the Omni QLED. Even at the full $800, it's still a solid option against competitors from brands like Sony and LG when it comes to picture quality and a smoother, more enjoyable gameplay experience. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Streaming 
 
@@ -168,13 +175,6 @@ Animation is another area where this TV comes into its own. Whether you're watch
 
 [Amazon Fire TV Omni QLED $690 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09N6J7KJD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Bottom line 
 
 At the end of the day, the Amazon Fire TV Omni Series QLED is a run-of-the-mill smart, 4K TV that aims to provide a solid streaming experience for Amazon and Alexa users. If you're not an avid Alexa or Amazon fan, you can still get a lot of mileage out of this TV, especially if you're looking for a more affordable TV for console gaming. 
@@ -183,16 +183,16 @@ The dedicated gaming picture mode lets colors and details pop while the integrat
 
 Many of the cool features are inextricably linked to Alexa functionality, so if you want to take full advantage of the Omni QLED, you'll have to invest in an Echo device and set up an Alexa account. And this reason alone is why I think the $800 price tag is just a touch on the high side for this TV, since without Alexa Skills, it's just a basic QLED model. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Alternatives to consider 
 
 [Great for streaming Sony X77L The Sony X77L uses an LED panel to provide 4K resolution at a 60Hz refresh rate, which means that from sports and action movies to music videos and animated shorts, your media will have smooth motion, crisp details, and bold colors. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BZF2N3LM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)[Great budget option Amazon Fire TV 4-Series The Fire TV 4-Series from Amazon is a solid, budget-friendly option for anyone looking for a reliable second screen for their bedroom or affordable main TV. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C059a0184-763f-4b23-b3a8-0c525dc8ff44%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -230,22 +230,19 @@ _Editor's Note: We had originally stated that users need to have Alexa-enabled d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-how-to-craft-an-engaging-solo-auditory-adventure/"><u>[New] 2024 Approved How to Craft an Engaging Solo Auditory Adventure</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-embark-on-a-joyful-journey-downloading-tiktok-for-macbook-for-2024/"><u>[Updated] Embark on a Joyful Journey Downloading TikTok for MacBook for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-steps-for-recording-captivate-videos/"><u>[Updated] Essential Steps for Recording Captivate Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-faster-insights-slower-pace-balancing-youtube-playback-rate/"><u>2024 Approved Faster Insights, Slower Pace Balancing YouTube Playback Rate</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-guides-and-reviews-on-pc-hardware-by-toms-experts/"><u>Advanced Guides and Reviews on PC Hardware by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341735236-dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-make-reels-on-facebook/"><u>How to Make Reels on Facebook?</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-passive-to-profitable-youtube-revenue-techniques/"><u>In 2024, From Passive to Profitable YouTube Revenue Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-to-samsung-c460-drivers-secure-your-free-download-today/"><u>Instant Access to Samsung C460 Drivers - Secure Your Free Download Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-tips-from-toms-hardware-zone/"><u>Mastering Gadgets and Gizmos with Tips From Tom’s Hardware Zone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/rode-streamer-pro-x-is-it-your-ticket-to-cinematic-success/"><u>Rode Streamer Pro X - Is It Your Ticket To Cinematic Success?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streaming-stats-how-much-does-pewdiepie-earn/"><u>Streaming Stats How Much Does PewDiePie Earn?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-team/"><u>The Ultimate Guide to Computer Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-latest-gadgets/"><u>Tom's Tech Hub - Comprehensive Guide to Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-of-elegoos-innovative-saturn/"><u>Top Review of Elegoo's Innovative Saturn</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unlock-the-power-of-vocal-performance-in-digital-media-production/"><u>[Updated] Unlock the Power of Vocal Performance in Digital Media Production</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-samsungs-new-edge-the-2023-bd-j5900-reviewed/"><u>2024 Approved Samsung's New Edge The 2023 BD-J5900 Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-durability-over-humor-the-worth-of-splurging-on-a-lifetime-phone-compared-to-a-silly-forever-mouse/"><u>Choosing Durability Over Humor: The Worth of Splurging on a Lifetime Phone Compared to a Silly Forever Mouse</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-secrets-with-toms-technology-tutorials/"><u>Decoding Hardware Secrets with Tom's Technology Tutorials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/getting-to-know-tech-better-dive-into-toms-hardware-treasure-trove-of-information/"><u>Getting to Know Tech Better? Dive Into Tom's Hardware Treasure Trove of Information</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-toms-authoritative-hardware-advice/"><u>Navigating the World of Gadgets & Peripherals: Tom's Authoritative Hardware Advice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolve-format-factory-issue-code-0x00000001-with-four-easy-fixes/"><u>Resolve Format Factory Issue Code 0X00000001 with Four Easy Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-experience-with-gigabytes-aorus-z69ueh-an-intense-review-of-the-high-performance-4k-oled-display-at-lightning-speed/"><u>Revolutionize Your Gaming Experience with Gigabyte's Aorus Z69UEH: An Intense Review of the High-Performance, 4K OLED Display at Lightning Speed</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/speedy-streams-for-sluggish-content/"><u>Speedy Streams for Sluggish Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/state-guidance-on-ai-innovation-through-four-mechanisms/"><u>State Guidance on AI Innovation Through Four Mechanisms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-p55-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel P55 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-comprehve-review-showcase/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Comprehve Review Showcase</u></a></li>
 </ul></div>
 

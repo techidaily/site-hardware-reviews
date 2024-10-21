@@ -1,7 +1,7 @@
 ---
 title: 4K TVs, as Featured on ZDNET
-date: 2024-10-10T16:10:42.755Z
-updated: 2024-10-15T16:02:04.553Z
+date: 2024-10-17T03:32:16.562Z
+updated: 2024-10-20T19:32:12.429Z
 tags:
   - tvs
 categories:
@@ -32,10 +32,10 @@ Panasonic is apparently looking to recapture some of its former glory, as it has
 One of the most impressive things about this TV is the audio. While many TVs don't focus on sound, the Z95A has a built-in array tuned by Technics at the bottom with both up-firing and side-firing speakers for a "360 Soundscape Pro" experience. At 160 watts total and 7 channels plus a mono woofer, this is one of the better TV speaker systems you'll see.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Z85A
@@ -55,16 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## W95A
@@ -105,19 +99,22 @@ The new offerings are available for preorder from retail locations including [Am
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-reinvent-storytelling-the-path-to-better-narratives-starts-here/"><u>[New] In 2024, Reinvent Storytelling – The Path to Better Narratives Starts Here</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[Updated] A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-born-to-create-video-magic-mac-basics-for-beginners-on-youtube/"><u>[Updated] Born to Create Video Magic Mac Basics for Beginners on YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/accelerating-your-workflow-with-lexar-ssds-the-sl500-and-professional-sl600-breakdown-for-speeds-beyond-20gbps/"><u>Accelerating Your Workflow with Lexar SSDs: The SL500 & Professional SL600 Breakdown for Speeds Beyond 20Gbps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-crash-woes-in-sony-vegas-effective-strategies-for-editors/"><u>Eliminating Crash Woes in Sony Vegas: Effective Strategies for Editors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-components-with-toms-hardware/"><u>Exploring the World of Computer Components with Tom's Hardware</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-vr-landscapes-perks-pitfalls-and-pivots/"><u>Exploring VR Landscapes Perks, Pitfalls and Pivots</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-five-full-frame-cameras-for-uhd-capture/"><u>In 2024, Best Five Full Frame Cameras for UHD Capture</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-rog-azoth-extreme-at-500-value/"><u>In-Depth Analysis of the Asus ROG Azoth Extreme at $500 Value</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kingstons-fury-beast-ddr5-ram-5000mhz-cas-latency-40-in-depth-2x32gb-memory-module-evaluation/"><u>Kingston's Fury Beast DDR5 RAM (5,000MHz CAS Latency 40) - In-Depth 2X32GB Memory Module Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-space-and-speed-detailed-insights-into-the-asus-rog-nuc-970-compact-desktop-system/"><u>Mastering Space and Speed: Detailed Insights Into the Asus ROG NUC 970 Compact Desktop System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-performance-the-toms-guide-to-tech-essentials/"><u>Pioneering PC Performance: The Tom's Guide to Tech Essentials</u></a></li>
-<li><a href="https://solve-help.techidaily.com/quick-guide-adding-subtitles-to-your-mp4-files-without-re-encoding/"><u>Quick Guide: Adding Subtitles to Your MP4 Files Without Re-Encoding</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/synthesizing-new-dimensions-via-chatai/"><u>Synthesizing New Dimensions via ChatAI</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/remier-producer-a-choreography-of-colors-and-tones/"><u>[New] Premier Producer A Choreography of Colors & Tones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exercise-innovations-6-youtube-ideas-for-movement-focused-viewers-for-2024/"><u>[Updated] Exercise Innovations 6 YouTube Ideas for Movement-Focused Viewers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-and-top-tier-comparing-the-leading-srt-apps/"><u>[Updated] Free & Top-Tier Comparing the Leading SRT Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-fbs-automatic-video-sync-feature/"><u>2024 Approved Navigating FB's Automatic Video Sync Feature</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-review-mastering-seamless-performance-with-new-age-dual-band-speed-king/"><u>ASUS RT-BE96U Review: Mastering Seamless Performance with New Age Dual-Band Speed King</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-detailed-analyses-from-toms-hardware-experts/"><u>Discover the Latest in Tech: Detailed Analyses From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722872427177-get-ready-for-ios-18-features-release-timing-and-cost-free-access-today/"><u>Get Ready for IOS 18: Features, Release Timing, and Cost-Free Access Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-reduce-and-repair-maxed-out-cpu-performance-issues/"><u>How to Reduce and Repair Maxed Out CPU Performance Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-analysis-by-toms-hardware-experts/"><u>In-Depth Tech Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-max-vs-samsung-s24-ultra-whats-the-difference/"><u>IPhone 15 Pro Max Vs. Samsung S24 Ultra: What's the Difference?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-play-experience-crash-fixes-for-nier-automata-on-desktop/"><u>Optimizing Your Play Experience: Crash Fixes for Nier: Automata on Desktop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-with-toms-hardware-hub/"><u>Pioneering Technology Insights with Tom’s Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-hardware-analysis/"><u>Tom's Tech Reviews: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-gigabyte-g6x-adequate-for-play-yet-lacking-in-impressive-features/"><u>Unboxing & Testing the Gigabyte G6X: Adequate for Play, Yet Lacking in Impressive Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-trends-tips-and-reviews-by-toms-hardware-team/"><u>Unveiling Top Tech Trends: Tips and Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-time-loop-video-recovery-explained-for-2024/"><u>YouTube's Time Loop Video Recovery Explained for 2024</u></a></li>
 </ul></div>
 

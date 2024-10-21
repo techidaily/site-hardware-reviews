@@ -1,7 +1,7 @@
 ---
 title: Revival Alert! Panasonic Makes a Grand US Comeback with Trio of Revolutionary
-date: 2024-10-11T16:02:56.600Z
-updated: 2024-10-15T16:13:13.778Z
+date: 2024-10-15T05:10:59.740Z
+updated: 2024-10-20T18:31:28.647Z
 tags:
   - tvs
 categories:
@@ -22,10 +22,10 @@ Following Amazon Prime Day, Xgimi still has its [Horizon Ultra projector](https:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET-recommended
@@ -91,10 +91,10 @@ While you're in the settings, I'd suggest turning off any motion smoothening or 
 That's about all the negatives I have with the Horizon Ultra's projection quality. Everything else about it is as good as things get. From the Dolby Vision-certified color accuracy -- something that projectors often struggle to qualify for due to the imbalance of color reproduction, clarity, and brightness -- to the impressively bright output that's capable of beating daylight, this is one of the few, if not the only, projectors that I've felt confident enough to use every hour of the day.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,19 +133,20 @@ Should you buy one if you're looking for a portable projector that doesn't have 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-next-level-editing-on-windows-top-videography-suites-revealed/"><u>[New] In 2024, Next-Level Editing on Windows Top Videography Suites Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-amplify-sales-discover-the-leading-15-facebook-monitoring-tools/"><u>[Updated] In 2024, Amplify Sales Discover the Leading 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-the-art-of-query-tagging-in-instagram-comments/"><u>[Updated] In 2024, Mastering the Art of Query Tagging in Instagram Comments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensible-list-best-games-music-found-online/"><u>2024 Approved Comprehensible List Best Games’ Music Found Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-examination-gopro-hero4-silver-version/"><u>2024 Approved Comprehensive Examination GoPro HERO4 Silver Version</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-xr-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone XR Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/digital-transformation-elevate-your-videos-with-advanced-editing-tools-for-2024/"><u>Digital Transformation Elevate Your Videos with Advanced Editing Tools for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-dive-into-toms-hardware-universe/"><u>Discover the Latest in Computing - Dive Into Tom's Hardware Universe</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-setup-how-to-install-your-scansnap-s1100s-new-drivers-quickly-and-easily/"><u>Effortless Setup: How to Install Your ScanSnap S1100's New Drivers Quickly & Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-performance-with-the-titan-army-p27a2r-gaming-display-at-180-hz/"><u>Experience Unmatched Performance with the Titan Army P27A2R Gaming Display at 180 Hz</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-typing-experience-with-the-keychron-q1-he-a-comprehensive-review-of-the-ultimate-wireless-mechanical-keyboard/"><u>Revolutionize Your Typing Experience with the Keychron Q1-HE: A Comprehensive Review of the Ultimate Wireless Mechanical Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/travel-companion-analysis-asus-rt-ax52018-a-comprehensive-look-at-the-ultra-portable-wireless-nano-router/"><u>Travel Companion Analysis: Asus RT-AX5^2018 - A Comprehensive Look at the Ultra-Portable Wireless Nano Router</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-secret-story-spotters-top-5-app-recommendations-for-2024/"><u>[Updated] Secret Story Spotters Top 5 App Recommendations for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-standout-soundstage-sagas-and-plots/"><u>[Updated] Standout Soundstage Sagas and Plots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/achieving-peak-engagement-with-strategic-reddit-posting/"><u>Achieving Peak Engagement with Strategic Reddit Posting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722986499604-effortless-troubleshooting-stop-wwe-2k20-from-crashing-on-your-pc/"><u>Effortless Troubleshooting: Stop WWE 2K20 From Crashing on Your PC!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unleashes-the-power-of-titan-18-pro-ryzen-dual-chip-marvel-featuring-rtx-4090-and-ryzen-9-7945hx3d/"><u>MSI Unleashes the Power of Titan 18 Pro Ryzen: Dual-Chip Marvel Featuring RTX 4090 & Ryzen 9 7945HX3D</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-the-new-aiplus-gaming-laptops-delivering-top-tier-performance-from-100-to-542-tops/"><u>MSI Unveils the New AI+ Gaming Laptops: Delivering Top-Tier Performance From 100 to 542 TOPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computing-tips-and-tricks-from-toms-hardware/"><u>Navigating the Latest in Computing: Tips & Tricks From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-and-precision-a-thorough-review-of-the-alienware-m18-r2-desktop-with-clicky-mechanical-keyboard/"><u>Power and Precision: A Thorough Review of the Alienware M18 R2 Desktop with Clicky Mechanical Keyboard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resident-evil-village-tackling-the-notorious-mouse-malfunctions-for-a-seamless-experience/"><u>Resident Evil Village - Tackling the Notorious Mouse Malfunctions for a Seamless Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rog-strix-g16-2024-the-ultimate-gaming-laptop-at-an-unbeatable-price-of-1164-on-amazon/"><u>ROG Strix G16 2024: The Ultimate Gaming Laptop at an Unbeatable Price of $1,164 on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-in-2anno-the-ultimate-list-of-2024-alienware-and-dell-deals/"><u>Save Big in 2Anno: The Ultimate List of 2024 Alienware and Dell Deals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-social-media-battlefield-tiktoks-top-10-twitters-for-2024/"><u>The Social Media Battlefield TikTok's Top 10 Twitters for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-magic-v2-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor Magic V2 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-creativity-best-free-video-effects-apps-for-mobile-devices/"><u>Unleash Creativity Best Free Video Effects Apps for Mobile Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-potential-the-all-encomp-groove-smartwatch-your-guide-to-the-samsung-gear-s3-frontier/"><u>Unlocking Potential: The All-Encomp Groove Smartwatch – Your Guide to the Samsung Gear S3 Frontier</u></a></li>
 </ul></div>
 

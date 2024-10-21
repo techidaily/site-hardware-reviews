@@ -1,7 +1,7 @@
 ---
 title: Sustaining Our Planet with Green Computing Amidst Growing AI Energy Demands | ZDNET
-date: 2024-09-18 15:45:59
-updated: 2024-09-20 11:54:23
+date: 2024-10-15T04:26:18.803Z
+updated: 2024-10-20T16:48:20.864Z
 tags:
   - sustainability
 categories:
@@ -96,11 +96,37 @@ Asked about their biggest technology barriers to deployments, 35% point to stora
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-ultimate-box-office-hype-films/"><u>[New] 2024 Approved Ultimate Box Office Hype Films</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>[New] Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-creative-expression-mastering-jump-cut-usage/"><u>[Updated] 2024 Approved Unlock Creative Expression Mastering Jump Cut Usage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-many-viewers-to-target-for-a-youtube-earning-journey/"><u>[Updated] In 2024, How Many Viewers to Target for a YouTube Earning Journey?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-superior-slow-motion-quality-through-fps-selection/"><u>2024 Approved Unlocking Superior Slow Motion Quality Through FPS Selection</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/5aac5l2v5oiq5yqf5bch5ysy5a2y5y2a5zplusf5yplusk5yw257o757wx6yg356e75yiw5lin5zcm55qe56gs56kf77ya5aplusm55so5oyh5y2x/"><u>如何成功將儲存區域及其系統遷移到不同的硬碟：實用指南</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a23-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A23 5G FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-speeds-with-phisons-revolutionary-e29t-pcie-40-ssd-controller-revealed-at-the-2024-flash-memory-summit-fms/"><u>Next-Level Speeds with Phison's Revolutionary E29T PCIe 4.0 SSD Controller Revealed at the 2024 Flash Memory Summit (FMS)</u></a></li>
+<li><a href="https://win-popular.techidaily.com/resolving-the-issue-of-hidden-image-duplicates-on-macos-a-guide-with-4-solutions/"><u>Resolving the Issue of Hidden Image Duplicates on macOS: A Guide with 4 Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-on-storage-top-rated-ssd-and-hard-drive-specials-for-this-year/"><u>Save Big on Storage: Top Rated SSD & Hard Drive Specials for This Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroups-extreme-ssd-cooling-system-a-120mm-radiator-for-low-powered-m2-drives/"><u>TeamGroup's Extreme SSD Cooling System: A 120Mm Radiator for Low-Powered M.2 Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-guide-by-tom-expert-advice-on-computers-electronics-and-more/"><u>The Comprehensive Guide by Tom: Expert Advice on Computers, Electronics & More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-tech-expert-reviews-and-insights/"><u>Tom's Computer Tech: Expert Reviews and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-electronics-expertise/"><u>Tom's Electronics Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-in-depth-reviews-and-latest-tech-news/"><u>Tom's Hardware: In-Depth Reviews & Latest Tech News</u></a></li>
+<li><a href="https://blog-min.techidaily.com/upload-the-winxvideo-ai-mobile-app-enhance-your-phone-experience-on-iphones-and-androids/"><u>Upload the WinxVideo AI Mobile App – Enhance Your Phone Experience on iPhones & Androids</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

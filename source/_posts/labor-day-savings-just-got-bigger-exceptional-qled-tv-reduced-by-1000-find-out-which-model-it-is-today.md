@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Savings Just Got Bigger: Exceptional QLED TV Reduced by $1,000 – Find Out Which Model It Is Today!"
-date: 2024-09-18 18:54:33
-updated: 2024-09-20 10:35:57
+date: 2024-10-17T21:21:18.964Z
+updated: 2024-10-20T23:47:54.069Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -68,6 +75,13 @@ Because I don't have any sort of XLR mixing module, I wasn't able to compare how
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ShurePlus Motiv app
 
 As I said, the [ShurePlus Motiv app](https://www.shure.com/en-US/products/software/shure%5Fplus%5Fmotiv%5Fdesktop) isn't strictly necessary to use the MV7 microphone with your computer, but if you want to get the most out of your mic without needing a degree in audio engineering, I highly recommend downloading it; the app is free and simple enough to use, even for beginners. 
@@ -86,6 +100,19 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +126,19 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +169,31 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-echoes-unleashed-exploring-sound-with-mac-for-2024/"><u>[New] Echoes Unleashed Exploring Sound with Mac for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-up-your-iphone-photography-with-time-lapses/"><u>2024 Approved Speed Up Your iPhone Photography with Time-Lapses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bridging-the-gap-the-ongoing-effort-by-google-for-seamless-text-communication-between-iphones-and-android-devices/"><u>Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-methods-for-relocating-apps-onto-external-sd-cards-on-your-android-device/"><u>Easy Methods for Relocating Apps Onto External SD Cards on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effortlessly-cutting-and-pasting-content-in-android-text-hyperlinks-and-visual-media-tips/"><u>Effortlessly Cutting & Pasting Content in Android: Text, Hyperlinks & Visual Media Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-storyboards-to-shortcuts-instra-to-tiksync-guide/"><u>From Storyboards to Shortcuts Instra-to-TikSync Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-asus-rog-phone-7-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Asus ROG Phone 7 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-s17-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo S17 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a05s-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A05s Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-optimal-gear-for-enhanced-live-video-quality/"><u>In 2024, Optimal Gear for Enhanced Live Video Quality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-a2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo A2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+</ul></div>
+

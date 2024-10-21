@@ -1,7 +1,7 @@
 ---
 title: Apple Watch SE on the Verge of a Makeover? Get the Inside Scoop on Affordable Model's Latest Features | ZDNET
-date: 2024-09-18 20:28:53
-updated: 2024-09-20 10:25:40
+date: 2024-10-16T00:02:05.569Z
+updated: 2024-10-20T23:48:08.647Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-discover-the-new-era-of-photography-with-toolwiz-comprehensive-2023-reviews-for-2024/"><u>[New] Discover the New Era of Photography with Toolwiz Comprehensive 2023 Reviews for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-budget-friendly-recorder-options-1-to-10-free-software-guide-for-2024/"><u>[Updated] Budget-Friendly Recorder Options #1 to #10 Free Software Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-conjuring-chrono-displacement-with-digital-magic/"><u>2024 Approved Conjuring Chrono-Displacement with Digital Magic</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-aocs-agon-pro-ag456uczd-the-ultimate-gaming-experience-with-a-45-inch-uhd-oled-display/"><u>Expert Analysis of AOC's Agon Pro AG456UCZD – The Ultimate Gaming Experience with a 45-Inch UHD OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-the-ultimate-guide-to-the-pixio-px2n7-oled-max-top-choice-for-gamers/"><u>Expert Analysis: The Ultimate Guide to the Pixio PX2n7-OLED Max - Top Choice for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-weigh-in-on-the-game-enhancing-performance-of-logitech-g-pro-x-2-keyboard-with-revolutionary-lightspeed-tech-for-gamers/"><u>Experts Weigh In on the Game-Enhancing Performance of Logitech G Pro X 2 Keyboard with Revolutionary Lightspeed Tech for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-a-comprehensive-guide/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-razr-40-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Razr 40 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-smart-8-plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix Smart 8 Plus FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-instagram-stories-by-including-youtube-tracks/"><u>In 2024, Enhancing Instagram Stories by Including YouTube Tracks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-c53-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme C53</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-review-advancements-and-setbacks-with-the-cooler-master-ion-360-liquid-cpu-chiller/"><u>Inside Review: Advancements & Setbacks with the Cooler Master ION 360 Liquid CPU Chiller</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-15-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 15 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-speedster-breakdown-honoring-the-legacy-of-voron/"><u>Sovol SV08 Speedster Breakdown: Honoring the Legacy of Voron</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-understanding-toms-tech-hardware/"><u>The Ultimate Resource for Understanding Tom's Tech Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-maximum-space-in-depth-analysis-of-the-western-digital-my-passport-6tb/"><u>Unlocking Maximum Space: In-Depth Analysis of the Western Digital My Passport (6TB)</u></a></li>
+</ul></div>
+

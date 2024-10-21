@@ -1,7 +1,7 @@
 ---
 title: "Meet the New King of Smart Cast: The $99 Google TV Streamer - Your Next-Gen Media Hub!"
-date: 2024-09-18 10:37:36
-updated: 2024-09-20 12:24:42
+date: 2024-10-13T20:23:11.471Z
+updated: 2024-10-20T18:15:17.461Z
 tags:
   - streaming-devices
 categories:
@@ -46,6 +46,13 @@ Every bit of packaging seems to be recyclable as well, which was a relief for me
 
 The microphone is one of the simplest I've ever had when it comes to the initial setup. It comes with just about everything you need: USB-C to USB 3.0 as well as USB-C to USB-C cables, a boom arm adapter, and my review unit came bundled with the desk tripod. Unfortunately, it doesn't come packaged with any sort of XLR cable. But the absence of an XLR cable is forgivable; especially since anyone who uses an XLR setup for their audio probably already has at least one cable, and if not, they're fairly inexpensive. The [AmazonBasics 6-foot XLR cable](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazonBasics-Male-Female-Microphone-Cable%2Fdp%2FB01JNLTTKS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1) is about $9, making it a great choice for anyone just starting with XLR setups or recording and streaming pros who want an inexpensive backup connector cable. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best microphones for streaming A dedicated mic can elevate your production quality for everything from Twitch streams to podcasts.  Read now](https://www.zdnet.com/article/best-streaming-mic/)
@@ -61,6 +68,13 @@ Taylor Clemons/ZDNet
 Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,26 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-online-destinations-for-video-promotion/"><u>2024 Approved Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-blueant-soundblade-impressive-clarity-and-powerful-output/"><u>Comprehensive Analysis of the BlueAnt SoundBlade - Impressive Clarity & Powerful Output</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-patriots-value-packed-viper-vp4300-lite-ssd-with-4tb-space/"><u>Comprehensive Review of Patriot's Value-Packed Viper VP4300 Lite SSD with 4TB Space</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-se-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone SE Device from iCloud</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-external-drives-compatible-usage-with-your-xbox-one-system/"><u>Mastering External Drives: Compatible Usage with Your Xbox One System</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-innovators-guide-to-non-intrusive-audio-modulation-in-modern-videos/"><u>New 2024 Approved The Innovators Guide to Non-Intrusive Audio Modulation in Modern Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/online-upgrade-fb-story-repository-for-2024/"><u>Online Upgrade Fb Story Repository for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/philips-evnia-gaming-masterpiece-49m2c8900-review-of-exceptional-color-and-buttery-smooth-performance-at-240hz-oled-display/"><u>Philips Evnia Gaming Masterpiece (49M2C8900) - Review of Exceptional Color & Buttery Smooth Performance at 240Hz OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-sustainability-in-gaming-memory-a-closer-look-at-the-eco-ddr5-performance-of-teamgroups-t-force-vulcan-c30-2x16gb/"><u>Revolutionizing Sustainability in Gaming Memory: A Closer Look at the Eco DDR5 Performance of TeamGroup's T-Force Vulcan (C30, 2X16GB)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-review-how-the-feel-of-keys-impacts-performance-on-the-clevetura-clvx-wireless-keyboard/"><u>Unboxing and Review: How the Feel of Keys Impacts Performance on the Clevetura CLVX Wireless Keyboard</u></a></li>
+</ul></div>
+

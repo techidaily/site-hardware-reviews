@@ -1,7 +1,7 @@
 ---
 title: "Breaking Sound Barriers: Exploring Innovative Alternatives to Bose and Sonos for Unmatched Audio Immersion"
-date: 2024-09-18 23:57:55
-updated: 2024-09-20 10:58:21
+date: 2024-10-17T03:59:22.022Z
+updated: 2024-10-21T01:41:27.088Z
 tags:
   - streaming-devices
 categories:
@@ -62,11 +62,37 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -86,6 +112,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +132,19 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +175,28 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-the-best-phones-for-your-gear-vr-experience/"><u>[New] In 2024, Unveiling the Best Phones for Your Gear VR Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-constructing-authenticity-in-documentaries/"><u>[Updated] In 2024, Constructing Authenticity in Documentaries</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-gpt-vs-bing-top-ai-chat-companions/"><u>AI Showdown: GPT Vs. Bing - Top AI Chat Companions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-beyerdynamic-mmx-300-pro-exceptional-audio-quality-meets-fundamental-design/"><u>Analyzing the Beyerdynamic MMX 300 Pro: Exceptional Audio Quality Meets Fundamental Design</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/broadcast-strategies-share-twitch-videos-on-fb-for-2024/"><u>Broadcast Strategies Share Twitch Videos on FB for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gameplay-revolutionary-robotic-additional-limb-by-researchers/"><u>Elevate Your Gameplay: Revolutionary Robotic Additional Limb by Researchers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-on-logitechs-latest-marvel-the-g-pro-x-2-with-incredible-speed-tailored-for-hardcore-gamers/"><u>Exclusive Insight on Logitech's Latest Marvel - The G Pro X 2 with Incredible Speed, Tailored for Hardcore Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-restore-cortana-functionality-when-it-stops-working-properly/"><u>How to Restore Cortana Functionality When It Stops Working Properly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-8-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 8 Plus and iPad Securely</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronic-devices-by-tom-a-trustworthy-guide/"><u>In-Depth Analysis of Electronic Devices by Tom - A Trustworthy Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-navigating-cutting-edge-gadgets-and-computing-insights/"><u>Inside Tom's Hardware: Navigating Cutting-Edge Gadgets and Computing Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-experts/"><u>Navigating the World of Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/rethink-rebrand-update-page-name-and-url/"><u>Rethink, Rebrand: Update Page Name & URL</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/visual-branding-in-youtubes-design-tips-for-2024/"><u>Visual Branding in YouTubes Design Tips for 2024</u></a></li>
+</ul></div>
+

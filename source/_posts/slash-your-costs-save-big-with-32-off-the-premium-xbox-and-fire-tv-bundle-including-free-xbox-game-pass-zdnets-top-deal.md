@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Costs: Save Big with 32%% Off the Premium Xbox & Fire TV Bundle, Including FREE Xbox Game Pass | ZDNet's Top Deal!"
-date: 2024-09-18 13:47:32
-updated: 2024-09-20 10:58:31
+date: 2024-10-14T22:41:29.710Z
+updated: 2024-10-21T01:41:43.640Z
 tags:
   - streaming-devices
 categories:
@@ -62,11 +62,25 @@ Taylor Clemons/ZDNet
 
 Because I don't have any sort of XLR mixing module, I wasn't able to compare how easy the initial setup would be compared to the USB connection. But since many newer modules support USB connectivity for PC and Mac computers, the difficulty would lie more in creating custom audio filters in your preferred streaming and recording software rather than in connecting hardware. The nice thing about the Shure MV7 is that if you do opt for the XLR connection, the microphone doesn't require any sort of phantom power module; it draws power from your computer or preamp, making it a bit more intuitive than other, more expensive audio equipment. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [The best gaming chairs: A tier above the rest These chairs will add support, comfort, and style to your gaming setup.  Read now](https://www.zdnet.com/article/best-gaming-chair/)
 
 Setting up the MV7 with a simple USB connection was about as easy as it gets: plug the USB-C connector into the mic and the USB 3.0 or another USB-C end into the computer, and once the computer recognizes the mic as an input device, you're good to go. I did have to download the ShurePlus Motiv app to update the microphone's firmware, but it was also a quick and simple process. You don't have to have the app installed to use the microphone, but it does help out with tailoring the MV7's pickup and EQ patterns to your space.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ShurePlus Motiv app
 
@@ -86,6 +100,13 @@ I love the High-pass presence boost setting, since that gave me the tone and qua
 
 You can even use the ShurePlus Motiv app to completely disable the mic's on-board touch controls for muting and live monitoring. This is a great option for anyone who talks with their hands or wants to be able to adjust mic positioning while recording or streaming and not accidentally mute themselves or cut live monitoring.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recording and live streaming
 
 Taylor Clemons/ZDNet
@@ -99,6 +120,13 @@ My office doesn't have any sort of acoustic treatments like foam sound absorbers
 The on-board touch controls were also a godsend during streaming for quick-muting the mic or adjusting the monitoring mix, saving me the hassle of having to tab out of my game to fiddle with settings within the Motiv app or toggle the mute button on and off. They are a little finnicky though, so you may have to poke at the mute button two or three times before it actually cuts the mic.
 
 [Shure MV7 $269 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0977SPN9R%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64671734-893a-4270-b839-c55a149db7c7%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusions
 
@@ -129,11 +157,27 @@ This microphone does have its downsides (it's heavy and expensive), but they're 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>[New] 2024 Approved How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-bypass-a-youtube-strike-and-keep-creating-videos-for-2024/"><u>[New] How to Bypass a YouTube Strike and Keep Creating Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expanding-youtube-audience-through-perpetual-creative-commons/"><u>[New] In 2024, Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-m6-pro-4g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco M6 Pro 4G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>2024 Approved Unleashing Visual Velocity Illustrator's Guide to Motion Blurs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-ryzen-5-2400g-driver-update-made-easy-fast-downloads-and-setup/"><u>AMD Ryzen 5 2400G Driver Update Made Easy – Fast Downloads and Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-impact-the-role-of-akasas-blower-type-gecko-in-maintaining-optimal-ssd-temperatures/"><u>Analyzing the Impact: The Role of Akasa's Blower-Type Gecko in Maintaining Optimal SSD Temperatures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100a-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100A?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-world-a-deep-dive-into-the-latest-in-hardware-technology/"><u>Inside Tom’s Computer World: A Deep Dive Into the Latest in Hardware Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-pc-hardware-by-experts-at-toms-hq/"><u>Insights Into PC Hardware by Experts at Tom's HQ</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-space-and-speed-detailed-insights-into-the-asus-rog-nuc-970-compact-desktop-system/"><u>Mastering Space and Speed: Detailed Insights Into the Asus ROG NUC 970 Compact Desktop System</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-should-you-choose-vn-video-editor-pro-for-your-video-editing-needs/"><u>Updated 2024 Approved Should You Choose VN Video Editor Pro for Your Video Editing Needs?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974259610-upgrade-to-the-new-killer-network-driver-for-your-pc-compatible-with-windows-11-8-or-7-free/"><u>Upgrade to the New Killer Network Driver for Your PC - Compatible with Windows 11, 8, or 7 – FREE</u></a></li>
+</ul></div>
+
