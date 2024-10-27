@@ -1,7 +1,7 @@
 ---
 title: "Achieving a Green Future: Ensuring Your Apple Watch Series 10 Is Carbon Neutral with Eco-Friendly Straps | ZDNet"
-date: 2024-09-19 10:21:47
-updated: 2024-09-20 11:11:22
+date: 2024-10-23T18:08:54.437Z
+updated: 2024-10-27T00:22:47.116Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-revenue-realization-strategies-for-successful-monetization-on-youtube-mobile/"><u>[New] In 2024, Revenue Realization Strategies for Successful Monetization on YouTube Mobile</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-surfers-specs-top-action-camera-choices-2023/"><u>[New] In 2024, Surfers' Specs - Top Action Camera Choices 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-physical-presence-vs-virtual-validation/"><u>[New] Physical Presence vs Virtual Validation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawlessai-imager-perfected-photo-processes/"><u>2024 Approved FlawlessAI Imager Perfected Photo Processes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-playlist-of-scores-for-clips/"><u>2024 Approved Ultimate Playlist of Scores for Clips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/lator-projected-profits-from-youtube-for-2024/"><u>Calculator Projected Profits From YouTube for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-itel-s23plus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Itel S23+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-google-pixel-8-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Google Pixel 8 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-hardware-tips-from-tom/"><u>Navigating High-Performance Hardware - Tips From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-solutions-from-toms-technological-realm/"><u>Pioneering Hardware Solutions From Tom's Technological Realm</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-up-your-gameplay-in-depth-review-of-the-sleek-and-fast-gigabyte-aorus-fn32-ultragear-240hz-4k-display/"><u>Power Up Your Gameplay: In-Depth Review of the Sleek and Fast Gigabyte Aorus FN32 UltraGear 240Hz 4K Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-setup-with-the-aoc-agon-pro-ag45nucg-an-in-depth-look-at-the-45-ultrawide-oled-gaming-screen-sharp-performance-meets-stylish-extreme-curv68/"><u>Revolutionize Your Setup with The AOC Agon Pro AG45nUCG - An In-Depth Look at the 45 Ultrawide OLED Gaming Screen: Sharp Performance Meets Stylish Extreme Curve!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-with-the-incredible-deal-lgs-34-curved-monitor-for-only-499-upgrade-now/"><u>Revolutionize Your Visual Experience with the Incredible Deal: LG's 34 Curved Monitor for Only $499 - Upgrade Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-with-a-premium-24-dell-freesync-screen-at-an-unbeatable-price-of-99/"><u>Save Big with a Premium 24 Dell FreeSync Screen at an Unbeatable Price of $99</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-on-the-ultrawide-aorus-oled-monitor-from-gigabyte-limited-offer-at-969/"><u>Score Big Savings on the Ultrawide, Aorus OLED Monitor From Gigabyte - Limited Offer at $969!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-the-best-gaming-monitor-of-the-year-for-a-steal-asus-tufs-34-curve-now-at-just-under-250/"><u>Shop the Best Gaming Monitor of The Year for a Steal - ASUS TUF's 34 Curve Now At Just Under $250!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-180hz-titan-army-p27a2r-a-top-contender-for-gamers-performance-needs/"><u>The Ultimate Guide to the 180Hz Titan Army P27A2R - A Top Contender for Gamers' Performance Needs</u></a></li>
+</ul></div>
+

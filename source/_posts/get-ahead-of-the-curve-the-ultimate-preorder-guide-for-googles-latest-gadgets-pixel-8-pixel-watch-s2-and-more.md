@@ -1,7 +1,7 @@
 ---
 title: "Get Ahead of the Curve: The Ultimate Preorder Guide for Google's Latest Gadgets - Pixel 8, Pixel Watch S2, and More"
-date: 2024-09-17 13:46:29
-updated: 2024-09-20 11:55:24
+date: 2024-10-22T17:18:57.132Z
+updated: 2024-10-26T18:32:24.032Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comparing-streamlabs-with-obs-for-professional-broadcasts/"><u>[New] 2024 Approved Comparing Streamlabs with OBS for Professional Broadcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-up-your-game-expert-tips-on-producing-compelling-slow-motion-photos-and-videos-for-instagram/"><u>[New] Step Up Your Game Expert Tips on Producing Compelling Slow Motion Photos and Videos for Instagram</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-smooth-start-scripts-captivating-podcast-intros/"><u>[Updated] In 2024, Smooth Start Scripts Captivating Podcast Intros</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-meta-might-overturn-the-status-quo-of-social-giants/"><u>How Meta Might Overturn the Status Quo of Social Giants</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-geforce-experience-error-in-settings-recovery-successfully/"><u>How to Address GeForce Experience Error in Settings Recovery Successfully</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-pcs-with-e1659fwu-windows-drivers/"><u>Streamline PCs with E1659FWU Windows Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-guides/"><u>Tom's Tech Review: In-Depth Computer & Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-ultimate-guide-to-computing-gear-and-innovations/"><u>Tom's Tech Review: Ultimate Guide to Computing Gear and Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-on-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Insights on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-elite-snapdragon-x-processor-laptops-outlast-others-for-more-than-15-hours-of-continuous-use-nearly-matching-intels-performance/"><u>Top Elite Snapdragon X Processor Laptops Outlast Others for More than 15 Hours of Continuous Use, Nearly Matching Intel's Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/trustworthy-tactics-growing-your-youtube-channel-by-a-million-steps-for-2024/"><u>Trustworthy Tactics Growing Your YouTube Channel by a Million Steps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-of-toms-computer-components/"><u>Unveiling the Best of Tom's Computer Components</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-secrets-for-tiktok-live-studio-success-for-2024/"><u>Updated Secrets for TikTok Live Studio Success for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-tech-knowledge-with-toms-comprehensive-hardware-reviews/"><u>Upgrading Your Tech Knowledge with Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-image-marketing-dos-vs-donts-explained/"><u>YouTube Image Marketing Dos vs Don'ts Explained</u></a></li>
+</ul></div>
+

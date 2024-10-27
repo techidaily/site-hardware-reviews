@@ -1,7 +1,7 @@
 ---
 title: "Affordable Athletic Excellence: Unpacking the Coros Apex 2 Pro Features for Fitness Enthusiasts | Tech Review"
-date: 2024-09-17 20:30:38
-updated: 2024-09-20 10:41:50
+date: 2024-10-25T20:39:48.458Z
+updated: 2024-10-26T21:27:39.139Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-amplify-impact-through-effective-video-marketing-on-youtubes-top-5-moves/"><u>[Updated] In 2024, Amplify Impact Through Effective Video Marketing on YouTube's Top 5 Moves</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-8-popular-oculus-rift-games-you-should-try/"><u>2024 Approved 8 Popular Oculus Rift Games You Should Try</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/english-tongues-foreign-flavor-syntax-and-vocabulary-shifts/"><u>English Tongue's Foreign Flavor: Syntax & Vocabulary Shifts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-13c-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 13C to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-prioritize-privacy-in-conversations-the-best-10-free-secure-mobile-calling-apps-for-iosandroid/"><u>In 2024, Prioritize Privacy in Conversations – The Best 10 Free, Secure Mobile Calling Apps for iOS/Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>In 2024, Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insightful-selection-tips-for-power-gamers/"><u>Insightful Selection Tips for Power Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-high-tech-equipment-guidance-from-toms-hardware-hub/"><u>Navigating Through High-Tech Equipment: Guidance From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pro-hardware-rundown-expert-analysis-of-the-latest-computing-innovations/"><u>Pro Hardware Rundown: Expert Analysis of the Latest Computing Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-viewing-experience-premium-quality-156-1080p-ips-monitor-never-seen-such-a-low-price-before-at-just-6599/"><u>Revolutionize Your Viewing Experience: Premium Quality 15.6 1080P IPS Monitor - Never Seen Such a Low Price Before at Just $65.99!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-win-on-tech-top-choice-dell-s3222dgm-gaming-screen-hits-record-low-only-229/"><u>Score Big Win on Tech: Top Choice Dell S3222DGM Gaming Screen Hits Record Low - Only $229!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlined-language-translation-best-online-subtitle-manipulators-for-2024/"><u>Streamlined Language Translation – Best Online Subtitle Manipulators for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-savvy-shoppers-unite-finding-quality-components-at-toms-hardware-emporium/"><u>Tech Savvy Shoppers Unite: Finding Quality Components at Tom's Hardware Emporium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-pros-resource-for-cutting-edge-computer-peripherals-trust-toms-judgments/"><u>The Pro’s Resource for Cutting-Edge Computer Peripherals – Trust Tom’s Judgments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-budget-and-high-performance-monitors-with-curved-panels-and-g-sync-compatibility/"><u>The Ultimate Guide to Budget and High-Performance Monitors with Curved Panels & G-Sync Compatibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-professional-monitor-breakdown-how-asus-proart-pa32ucxr-sets-new-standards-in-color-precision-with-its-advanced-mini-led-technology/"><u>The Ultimate Professional Monitor Breakdown - How Asus ProArt PA32UCXR Sets New Standards in Color Precision with Its Advanced Mini LED Technology</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 15 | Dr.fone</u></a></li>
+</ul></div>
+

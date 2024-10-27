@@ -1,7 +1,7 @@
 ---
 title: "Achieving a Carbon Neutral Apple Watch Series 10: The Role of Choosing Eco-Friendly Straps"
-date: 2024-09-17 23:59:15
-updated: 2024-09-20 11:24:38
+date: 2024-10-19T22:18:45.820Z
+updated: 2024-10-26T20:59:15.861Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,25 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capture-excellence-prime-phone-compatible-tripods/"><u>2024 Approved Capture Excellence Prime Phone-Compatible Tripods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/connect-and-play-xbox-one-zoom-guidebook/"><u>Connect and Play Xbox One Zoom Guidebook</u></a></li>
+<li><a href="https://win-online.techidaily.com/decouvrir-les-principes-pour-inversement-modifier-un-enregistrement-video/"><u>Découvrir Les Principes Pour Inversement Modifier Un Enregistrement Video</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487791-get-the-pro-level-logitech-g502-hero-at-an-amazing-price-only-35-experience-ultra-high-definition-controls-and-25k-dpi-sensitivity/"><u>Get the Pro-Level Logitech G502 Hero at an Amazing Price - Only $35! Experience Ultra-High Definition Controls and 25K DPI Sensitivity.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuite-de-conversion-mp3-en-videos-flv-avec-movavi/"><u>Gratuité De Conversion MP3 en Vidéos FLV Avec Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimal-obs-configurations-on-budget-computers/"><u>Optimal OBS Configurations on Budget Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964486834-special-memorial-day-deal-alert-high-quality-full-size-roccat-pyro-mechanical-keyboard-just-34-awaits-you/"><u>Special Memorial Day Deal Alert: High-Quality, Full-Size Roccat Pyro Mechanical Keyboard - Just $34 Awaits You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-reviews-the-ultimate-guide/"><u>Tom's Computer Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-modern-electronics/"><u>Tom's Tech Reviews: Comprehensive Analysis of Modern Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-uncovering-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Uncovering the Latest in Computer Hardware</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-harmony-of-the-wild-selecting-the-very-best-ios-and-android-nature-audio-apps/"><u>Updated In 2024, Harmony of the Wild Selecting the Very Best iOS & Android Nature Audio Apps</u></a></li>
+</ul></div>
+

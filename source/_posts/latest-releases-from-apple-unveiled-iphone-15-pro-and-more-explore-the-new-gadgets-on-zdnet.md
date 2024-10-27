@@ -1,7 +1,7 @@
 ---
 title: "Latest Releases From Apple Unveiled: IPhone 15 Pro and More - Explore the New Gadgets on ZDNet"
-date: 2024-09-19 20:48:42
-updated: 2024-09-20 10:46:47
+date: 2024-10-25T18:19:47.857Z
+updated: 2024-10-26T21:18:37.642Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-spectre-3-clash-mirage-4-unleashed/"><u>[Updated] 2024 Approved Spectre 3 Clash Mirage 4 Unleashed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-the-art-of-social-media-sharing-with-convertors/"><u>[Updated] In 2024, Mastering the Art of Social Media Sharing with Convertors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-ditch-microsofts-phone-link-discover-the-superior-alternative-application/"><u>1. Ditch Microsoft's Phone Link: Discover the Superior Alternative Application</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-screencasting-youtube-content-for-free/"><u>2024 Approved Step-by-Step Guide to Screencasting YouTube Content For Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-league-of-legends-black-screen-glitch-with-these-pro-tips-updated-guide-for-202n4/"><u>Beat League of Legends' Black Screen Glitch with These Pro Tips - Updated Guide for 202N4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-mobile-platforms-evaluating-the-performance-of-android-tablets-vs-ipads/"><u>Comparing Mobile Platforms: Evaluating the Performance of Android Tablets Vs. IPads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/complete-walkthrough-changing-the-built-in-browser-in-your-android-device/"><u>Complete Walkthrough: Changing the Built-In Browser in Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-top-10-essential-gboard-functions-for-enhanced-typing-on-android-devices/"><u>Discover the Top 10 Essential Gboard Functions for Enhanced Typing on Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-steps-to-customize-languages-for-specific-apps-on-your-android-device/"><u>Easy Steps to Customize Languages for Specific Apps on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-steps-turning-your-android-device-into-an-on-the-go-laptop-substitute/"><u>Easy Steps: Turning Your Android Device Into an On-the-Go Laptop Substitute</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-strategies-for-detecting-and-blocking-mobile-ad-spyware-on-android/"><u>Effective Strategies for Detecting & Blocking Mobile Ad Spyware on Android</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-ready-set-go-adding-a-countdown-timer-in-fcpx-in-just-3-steps/"><u>Get Ready, Set, Go! Adding a Countdown Timer in FCPX in Just 3 Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-meaningful-conversations-an-interviewers-journey/"><u>In 2024, Leading Meaningful Conversations An Interviewer's Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leaders-in-affordable-web-based-photography-tools/"><u>Leaders in Affordable Web-Based Photography Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-getting-your-windows-10-speakers-working-again/"><u>Quick Solutions: Getting Your Windows 10 Speakers Working Again</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-solutions-for-pixel-6-pro-when-will-that-persistent-screen-flicker-stop/"><u>Upcoming Solutions for Pixel 6 Pro: When Will That Persistent Screen Flicker Stop?</u></a></li>
+</ul></div>
+

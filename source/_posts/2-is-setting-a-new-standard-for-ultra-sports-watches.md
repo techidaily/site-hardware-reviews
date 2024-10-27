@@ -1,7 +1,7 @@
 ---
 title: 2 Is Setting a New Standard for Ultra Sports Watches
-date: 2024-09-19 16:24:22
-updated: 2024-09-20 12:40:42
+date: 2024-10-22T20:21:18.957Z
+updated: 2024-10-26T21:42:37.674Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-tactics-optimizing-freefire-video-content/"><u>[New] 2024 Approved Expert Tactics Optimizing FreeFire Video Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-handhinas-and-lenses-for-journey-shots/"><u>[New] 2024 Approved Handhinas and Lenses for Journey Shots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-affordable-pc-video-grabbing-software/"><u>[New] In 2024, Best Affordable PC Video Grabbing Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfect-your-posts-instagram-video-edits-with-borders/"><u>[Updated] In 2024, Perfect Your Posts Instagram Video Edits with Borders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mixed-reality-shopping-showcase/"><u>2024 Approved Mixed Reality Shopping Showcase</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-wps-insights-into-its-purpose-and-easy-implementation-steps/"><u>Exploring the World of WPS: Insights Into Its Purpose & Easy Implementation Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-lava-blaze-2-by-drfone-android/"><u>Full Guide to Unlock Your Lava Blaze 2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-spotifys-innovation-could-disrupt-car-infotainment-options/"><u>How Spotify's Innovation Could Disrupt Car Infotainment Options.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introduction-to-moving-visual-content/"><u>In 2024, Introduction to Moving Visual Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sony-bravia-soundbar-theatre-experience-surprisingly-enjoyable-audio-immersion/"><u>In-Depth Sony Bravia Soundbar Theatre Experience: Surprisingly Enjoyable Audio Immersion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-acer-vero-range-combining-elegant-design-with-user-friendly-technology-for-laser-projectors/"><u>Introducing the Acer Vero Range - Combining Elegant Design with User-Friendly Technology for Laser Projectors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-yeedis-cutting-edge-m12-proplus-robovac-now-available-for-american-households/"><u>Introducing Yeedi's Cutting-Edge M12 Pro+ RoboVac: Now Available for American Households</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/moving-on-from-smart-displays-heres-how-to-find-alternatives-to-the-echo-dot-and-clock/"><u>Moving On From Smart Displays? Here's How to Find Alternatives to the Echo Dot and Clock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-tech-2024s-best-ereaders-unveiled/"><u>Navigating the Latest Tech: 2024'S Best eReaders Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/outstanding-savings-on-electronics-with-sony-psvr-69-apple-airpods-and-the-versatile-anker-power-station/"><u>Outstanding Savings on Electronics with Sony PSVR², $69 Apple AirPods, & the Versatile Anker Power Station</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-motorola-moto-g-stylus-5g-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G Stylus 5G (2023) Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-create-stunning-animations-with-these-12-free-tools-for-windows-and-mac/"><u>Updated 2024 Approved Create Stunning Animations with These 12 Free Tools for Windows and Mac</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Laptop 5 Analysis - A Mixed Feelings Perspective | ZDNet Insights
-date: 2024-10-19T01:17:22.189Z
-updated: 2024-10-20T23:10:39.656Z
+date: 2024-10-21T19:50:12.181Z
+updated: 2024-10-26T22:46:25.964Z
 tags:
   - laptops
 categories:
@@ -53,19 +53,6 @@ All of the precision-machined cases and blazing-fast performance here couldn't m
 | Ports           | 1 x USB-C 4.0/Thunderbolt 4, 1 x USB-A 3.1, 3.5mm headphone jack, 1 x Surface Connect Port |
 | Size and weight | 12.1 L x 8.8 W x .57 H inches, 2.8 lbs                                                     |
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How's the build quality?
 
 If you're a fan of clean, minimalistic design, Microsoft's got your back.
@@ -85,10 +72,10 @@ Michael Gariffo/ZDNET
 **More: [The best laptops: Does Apple take the crown?](https://www.zdnet.com/article/best-laptop/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Features and ports
@@ -98,6 +85,13 @@ That one on the top is the Surface Connect Port, not an SD card reader slot, whi
 Michael Gariffo/ZDNET
 
 Microsoft's port selection on the Surface Laptop 5 is very middle-of-the-road. That's a good thing. It acknowledges that plenty of USB-A peripherals still exist, so it includes a single USB-A port. 
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -152,10 +146,10 @@ This might be forgivable in a budget model. But even the base config [Surface La
 **More: [The 10 best webcams: Join your next Zoom call in HD](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -180,18 +174,18 @@ Overall, I'd have no qualms about leaving my charger at home and expecting to ge
 
 [Microsoft Surface Laptop 5 $1,117 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1738938556&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 I may seem like I had high standards for this review, and I did. This is a flagship laptop from the company that makes Windows, after all. While those resources and ability to optimize for its own OS did show in aspects like the [Surface Laptop 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B8Q8GFMM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc6fbb856-6656-4200-96bf-59e251b1e7c2%7Cdtp&dtb=1)'s consistently excellent build quality and performance, it faltered when it came to basic modern necessities like a decent webcam and a contemporary display layout. 
 
 If you never videoconference or if wasted space around your display doesn't bother you, you're looking at the best Windows laptop you could buy right now. Even if those things do irk a bit, I'd recommend balancing them against the exceptional performance, build, and aesthetics. The Surface Laptop 5 is frustratingly close to being that universal leader among Windows portables that Microsoft wants it to be. But, if Microsoft wants that crown, I hope it updates the components that held this generation back when it comes time to design the Surface Laptop 6.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -241,22 +235,24 @@ Dell's latest entry in the XPS 13 lineup looks like it comes from further down t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/-practical-pathway-for-profit-tracking-the-straightforward-steps-to-analyze-youtube-earnings-for-2024/"><u>[New] A Practical Pathway for Profit Tracking The Straightforward Steps to Analyze YouTube Earnings for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-defeating-dissidence-a-guide-for-content-makers/"><u>[New] In 2024, Defeating Dissidence A Guide for Content Makers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/avigating-the-landscape-of-youtube-advertising-and-banners/"><u>[New] Navigating the Landscape of YouTube Advertising & Banners</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screener-info-deconverter/"><u>[Updated] 2024 Approved Screener Info Deconverter</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-perfecting-your-hulu-capture-pc-macios-android-tips/"><u>2024 Approved Perfecting Your Hulu Capture PC, Mac/iOS, Android Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/approach-consider-the-role-of-local-regulations-in-determining-land-use/"><u>Approach: Consider the Role of Local Regulations in Determining Land Use</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-nuphy-halo75-v2-analysis-a-perfect-choice-for-gaming-enthusiasts/"><u>Budget-Friendly Nuphy Halo75 V2 Analysis: A Perfect Choice for Gaming Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-equipment-breakdowns-by-tom-your-hardware-guide/"><u>Cutting-Edge Equipment Breakdowns by Tom – Your Hardware Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/diving-deep-into-sonys-premium-49-inch-led-television-a-captivating-4k-smart-tv-evaluation/"><u>Diving Deep Into Sony's Premium 49-Inch LED Television: A Captivating 4K Smart TV Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-brilliance-with-viewsonics-oled-gaming-display-xg272-2k-240-hz-reviewed/"><u>Experience Brilliance with ViewSonic's OLED Gaming Display: XG272-2K, 240 Hz Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-computer-gadgets-by-toms-hardware/"><u>Expert Analysis on Computer Gadgets by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-insights-from-toms-hardware-haven/"><u>Exploring Advanced Tech: Insights From Tom’s Hardware Haven</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-x50i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor X50i</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/live-streaming-and-virtual-camera-solutions-with-manycam/"><u>Live Streaming and Virtual Camera Solutions with ManyCam</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-complexities-of-toms-computer-gadgets-and-modules/"><u>Navigating the Complexities of Tom's Computer Gadgets and Modules</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-of-pc-cases-an-insightful-review-of-the-lian-li-hydroshift-360s-model-with-lcd-display/"><u>The Future of PC Cases: An Insightful Review of the Lian Li Hydroshift 360S Model with LCD Display</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/type-c-gaming-performance-unleashed-a-comprehensive-gamesir-x2s-controller-assessment/"><u>Type-C Gaming Performance Unleashed: A Comprehensive GameSir X2s Controller Assessment</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-guide-to-locating-vanished-eyes-only-images-on-snapchat/"><u>[New] In 2024, Guide to Locating Vanished Eyes-Only Images on Snapchat</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-strategies-for-ultimate-ps5-gaming-bliss/"><u>5 Strategies for Ultimate PS5 Gaming Bliss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-wireless-magnetic-charging-pad-for-iphone-only-35/"><u>Affordable Wireless Magnetic Charging Pad For iPhone - Only $35!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-asus-rog-nuc-970-mini-pc-high-power-computing-in-a-small-package/"><u>Expert Analysis of the Asus ROG NUC 970 Mini PC: High-Power Computing in a Small Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-and-performance-of-western-digitals-new-4tb-wd-blue-sn5000-ssd/"><u>Exploring the Features and Performance of Western Digital's New 4TB WD Blue SN5000 SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-nzxt-h7-flow-case-a-cautious-approach-to-performance/"><u>Exploring the NZXT H7 Flow Case: A Cautious Approach to Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-lava-blaze-2-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Lava Blaze 2 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-capturewiz-windows-10s-snapshot-hero/"><u>In 2024, CaptureWiz Windows 10'S Snapshot Hero</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 12 mini</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-optimal-sites-for-pixel-sounds/"><u>In 2024, Unveiling Optimal Sites for Pixel Sounds</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-star-wars-squadrons-the-ultimate-guide-to-epic-galactic-battles/"><u>In-Depth Analysis of Star Wars: Squadrons - The Ultimate Guide to Epic Galactic Battles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-choices-the-toms-system-specs-showdown/"><u>Mastering Tech Choices: The Tom's System Specs Showdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-choices-trustworthy-advice-from-toms-hardware/"><u>Mastering Your Tech Choices: Trustworthy Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-computing-unveiled-at-toms-hardware-review-hub/"><u>The Future of Computing Unveiled at Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-playstation-audio-modification-guidebook-for-2024/"><u>The Ultimate PlayStation Audio Modification Guidebook for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341752525-toms-tech-hub-in-depth-reviews-and-tips-explore-more-with-us/"><u>Tom's Tech Hub: In-Depth Reviews & Tips - Explore More with Us</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-powerhouse-in-depth-look-at-hps-new-snapdragon-chip-in-omnibook-x/"><u>Unboxing the Powerhouse: In-Depth Look at HP's New Snapdragon Chip in OmniBook X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-at-toms-device-hub/"><u>Unveiling the Latest in Electronics at Tom’s Device Hub</u></a></li>
 </ul></div>
 

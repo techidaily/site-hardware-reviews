@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Biking with Smart Glasses: A Game-Changer for Cyclists Revealed | Engadget"
-date: 2024-09-17 17:38:46
-updated: 2024-09-20 12:24:52
+date: 2024-10-19T20:17:30.862Z
+updated: 2024-10-26T22:24:01.157Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unlock-video-enhancements-changing-numbers-on-tiktok/"><u>[New] In 2024, Unlock Video Enhancements Changing Numbers on TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-sightgraph-assessment-center-for-2024/"><u>[New] SightGraph Assessment Center for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-superior-graphics-for-top-tier-4k-editing/"><u>[New] Superior Graphics for Top-Tier 4K Editing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-magixs-masterpiece-an-in-depth-look-at-video-pro-x/"><u>2024 Approved Magix's Masterpiece An In-Depth Look at Video Pro X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apple-accelerates-mac-gaming-strategy-with-comprehensive-ecosystem-integration/"><u>Apple Accelerates Mac Gaming Strategy with Comprehensive Ecosystem Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apples-legendary-1994-powerbook-520c-redesigned-now-boasting-modern-technology-with-apple-ipad-displays-and-the-soul-of-a-core-i5-macbook-pro/"><u>Apple's Legendary 1994 PowerBook 520C Redesigned - Now Boasting Modern Technology With Apple iPad Displays & the Soul of a Core I5 MacBook Pro!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmark-breakdown-intel-core-i7-258v-vs-ryzen-phoenix-processors-bapco-performance-rankings-unveiled/"><u>Benchmark Breakdown: Intel Core I7-258V vs Ryzen Phoenix Processors – BAPCO Performance Rankings Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-microsofts-latest-marvel-the-surface-pro-and-copilotplus-duo-impressive-build-yet-disappointing-ai-functionality/"><u>Comprehensive Review of Microsoft's Latest Marvel - The Surface Pro and Copilot+ Duo: Impressive Build, Yet Disappointing AI Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiast-revamps-faulty-lenovo-laptop-elevates-experience-with-premium-titanium-shell-and-clickity-click-mechanical-keys/"><u>Enthusiast Revamps Faulty Lenovo Laptop, Elevates Experience with Premium Titanium Shell & Clickity-Click Mechanical Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-m3-macbook-air-laptop-powerful-16gb-compact-n-13-inch-at-a-bargain-price-of-1149/"><u>Exclusive Offer - M3 MacBook Air Laptop: Powerful 16GB / Compact N 13-Inch at a Bargain Price of $1,149</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-performance-on-a-budget-acers-nitro-16-with-rtx-4070-and-amd-cpu-for-an-unbeatable-price-of-1129/"><u>Experience High Performance on a Budget: Acer's Nitro 16 with RTX 4070 and AMD CPU for an Unbeatable Price of $1,129</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-switch-pro-controller-in-steam-gaming/"><u>In 2024, Mastering Switch Pro Controller in Steam Gaming</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/locating-and-accessing-your-iphone-backup-files-on-macos-and-windows-systems/"><u>Locating and Accessing Your iPhone Backup Files on macOS & Windows Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-visual-impact-the-best-ae-title-methods-for-2024/"><u>Mastering Visual Impact The Best AE Title Methods for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/web-comedy-architect/"><u>Web Comedy Architect</u></a></li>
+</ul></div>
+

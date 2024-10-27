@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Deal Alert: Score the Best Price on Apple Watch SE - My Top Buy of 2023 | Tech Insights at ZDNet"
-date: 2024-09-19 17:58:15
-updated: 2024-09-20 12:42:19
+date: 2024-10-22T20:34:21.271Z
+updated: 2024-10-26T18:58:21.899Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-make-a-memorable-impact-with-youtubes-minis/"><u>[New] How to Make a Memorable Impact with Youtube's Minis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-find-x6-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo Find X6 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726221207345-avi-3gp-movavi/"><u>無料で簡単AVIファイル変換! オンラインツール3GPへ - 動画魔法帳Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diagnose-and-repair-your-realtek-rtlac-chipset-drivers-efficiently/"><u>Diagnose and Repair Your Realtek RTL#AC Chipset Drivers Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-built-in-apps-from-your-iphone/"><u>How to Remove Built-In Apps From Your iPhone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/immediate-streams-from-obs-to-insta-for-2024/"><u>Immediate Streams From OBS to Insta for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovate-your-setup-tips-from-toms-hardware-reviews/"><u>Innovate Your Setup: Tips From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-annual-subscription-to-youtube-premium-justifiable/"><u>Is an Annual Subscription to YouTube Premium Justifiable?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-build-advanced-insights-from-toms-hardware-experts/"><u>Master Your Build: Advanced Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-new-technology-insights-and-reviews-straight-from-toms-lab/"><u>Mastering New Technology: Insights and Reviews Straight From Tom's Lab</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-gear-a-deep-dive-into-toms-hardware-selection/"><u>Mastering Tech Gear: A Deep Dive Into Tom's Hardware Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-detailed-hardware-breakdowns-from-toms-team/"><u>Mastering Technology: Detailed Hardware Breakdowns From Tom's Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-needs-with-expert-insights-from-toms-hardware/"><u>Mastering Your Tech Needs with Expert Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastery-in-tech-professional-reviews-and-insights-by-toms-circuitry/"><u>Mastery in Tech: Professional Reviews & Insights by Tom's Circuitry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-choices-wisdom-from-toms-technology-blog/"><u>Navigating Hardware Choices - Wisdom From Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-advanced-hardware-solutions-at-toms-electronics-guide/"><u>Navigating Through Advanced Hardware Solutions at Tom's Electronics Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimizing-performance-a-deep-dive-into-streamlabs-obs/"><u>Optimizing Performance A Deep Dive Into Streamlabs OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-best-webcam-covers-for-2024/"><u>Top 10 Best Webcam Covers for 2024</u></a></li>
+</ul></div>
+

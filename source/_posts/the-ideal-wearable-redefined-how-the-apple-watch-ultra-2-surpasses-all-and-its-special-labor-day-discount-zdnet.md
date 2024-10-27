@@ -1,7 +1,7 @@
 ---
 title: "The Ideal Wearable Redefined: How the Apple Watch Ultra 2 Surpasses All & Its Special Labor Day Discount | ZDNET"
-date: 2024-09-18 11:52:17
-updated: 2024-09-20 11:55:33
+date: 2024-10-22T16:53:20.296Z
+updated: 2024-10-26T22:32:05.144Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>[New] 2024 Approved From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-iphones-automatic-replay-feature/"><u>[New] Navigating iPhone's Automatic Replay Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-your-teamwork-zooming-through-screenshares/"><u>[New] Streamline Your Teamwork Zooming Through Screenshares</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/niversal-youtube-guidelines-and-expectations-for-2024/"><u>[New] Universal YouTube Guidelines and Expectations for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-guide-to-tech-choices/"><u>Expert Analysis of Hardware by Tom - Your Guide to Tech Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-systems-with-toms-hardware-analysis/"><u>Exploring Advanced Systems with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-toms-guide/"><u>Exploring Computer Hardware with Tom's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/full-draft-of-the-upcoming-pcie-generation-7-specs-moving-ahead-to-official-release/"><u>Full Draft of the Upcoming PCIe Generation 7 Specs - Moving Ahead to Official Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-pcie-testing-premium-white-atx-design-featuring-5-m2-slots/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard PCIe Testing - Premium White ATX Design Featuring 5 M.2 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-camm2-an-overview-of-the-latest-smaller-swift-and-upgradeable-memory-standard/"><u>Introducing CAMM2: An Overview of the Latest Smaller, Swift, and Upgradeable Memory Standard</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-printer-driver-for-epson-wf-2760-compatible-with-windows-11-10-and-8/"><u>Updated Printer Driver for Epson WF-2760 - Compatible with Windows 11, 10 & 8</u></a></li>
+</ul></div>
+

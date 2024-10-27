@@ -1,7 +1,7 @@
 ---
 title: "How to Save Big: The Second Gen Apple Watch SE Reduced by $80 Following Prime Day | Tech Insights with ZDNet"
-date: 2024-09-19 15:58:17
-updated: 2024-09-20 11:12:42
+date: 2024-10-19T20:45:58.809Z
+updated: 2024-10-27T00:08:17.827Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-tale-weaving-resource/"><u>[New] 2024 Approved Elite Tale Weaving Resource</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games/"><u>[New] 2024 Approved Frontiers Unleashed A Review of the Best 7 Grand Strategy Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-srt-power-play-transforming-macwindows-experience/"><u>[New] 2024 Approved SRT Power Play Transforming Mac/Windows Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/49-post-rebate-offer-discover-why-the-phanteks-evolv-shift-2-is-a-top-choice-for-itx-enthusiasts/"><u>$49 Post-Rebate Offer: Discover Why the Phanteks Evolv Shift 2 Is a Top Choice for ITX Enthusiasts!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-the-iphone-15-handle-accidental-dives-understanding-its-moisture-protection-levels/"><u>Can the iPhone 15 Handle Accidental Dives? Understanding Its Moisture Protection Levels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-tech-analysis-by-toms-hardware-your-go-to-resource-for-hardware-reviews/"><u>Comprehensive Tech Analysis by Tom's Hardware – Your Go-To Resource for Hardware Reviews</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-12-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 12 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 Phone with Broken Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>In 2024, The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-lian-li-o11-vision-case-analysis-insights-with-tempered-glass/"><u>In-Depth Lian Li O11 Vision Case Analysis: Insights with Tempered Glass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ingenious-cooling-design-unveiled-passive-system-disperses-a-staggering-600w-without-fans/"><u>Ingenious Cooling Design Unveiled: Passive System Disperses a Staggering 600W Without Fans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-our-new-covid-19-origami-challenge-unfold-your-way-to-healthier-times/"><u>Introducing Our New COVID-19 Origami Challenge: Unfold Your Way to Healthier Times</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kid-friendly-guide-easy-steps-to-assemble-your-very-own-computer/"><u>Kid-Friendly Guide: Easy Steps to Assemble Your Very Own Computer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/time-travel-photos-on-snapchat-step-by-step-guide/"><u>Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-reviews-and-insights/"><u>Tom's Tech Hub: Innovative Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-tom-hardware-solutions-your-guide-to-the-best-tech/"><u>Top Tom Hardware Solutions: Your Guide to the Best Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-webcams-for-enhanced-podcast-production/"><u>Ultimate Webcams for Enhanced Podcast Production</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-best-tech-deals-with-toms-gadget-insights/"><u>Uncovering the Best Tech Deals with Tom’s Gadget Insights</u></a></li>
+</ul></div>
+

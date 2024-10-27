@@ -1,7 +1,7 @@
 ---
 title: Hands-On Review of the Baseus Blade 100W Multi-Device Charging Solution - High Performance & Convenient Portability
-date: 2024-10-14T19:05:51.128Z
-updated: 2024-10-20T17:22:44.101Z
+date: 2024-10-25T21:03:57.170Z
+updated: 2024-10-26T19:50:34.417Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3594bbf8-78b1-4bd7-99c3-66ac94315a67%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The specs
@@ -59,10 +59,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My experience
@@ -90,10 +90,16 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,20 +138,19 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-proven-strategies-for-vimeo-media-insertion-in-ppts/"><u>[New] In 2024, Proven Strategies for Vimeo Media Insertion in PPTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-artificial-intelligence-for-insights-and-predictions/"><u>2024 Approved Harnessing Artificial Intelligence for Insights and Predictions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benchmark-showdown-for-asus-zenbook-s1/"><u>Benchmark Showdown for Asus Zenbook S1</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-captivating-intros-for-podcasts-for-2024/"><u>Crafting Captivating Intros for Podcasts for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-xiaomi-redmi-a2-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Xiaomi Redmi A2</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enhance-your-content-creation-with-top-5-facebook-downloaders/"><u>Enhance Your Content Creation with Top 5 Facebook Downloaders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-aorus-co49dq-oled-display-unrivaled-color-depth-and-contrast/"><u>In-Depth Analysis of the Gigabyte Aorus CO49DQ OLED Display - Unrivaled Color Depth & Contrast</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-lofree-edge-affordable-alternative-despite-higher-price-tag-vs-apple-magic-board/"><u>In-Depth Look at the Lofree Edge: Affordable Alternative Despite Higher Price Tag Vs. Apple Magic Board</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-through-toms-detailed-analyses/"><u>Mastering Hardware Choices Through Tom's Detailed Analyses</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713954227686-new-2024-approved-whatre-the-best-alternatives-to-pexels/"><u>New 2024 Approved Whatre the Best Alternatives to Pexels?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lofree-edge-reviewed-lightweight-expensive-a-comparison-with-the-classic-apple-magic-keyboard/"><u>The Lofree Edge Reviewed: Lightweight, Expensive - A Comparison with the Classic Apple Magic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-achieving-top-quality-compression-of-videos-using-imovie/"><u>Ultimate Guide: Achieving Top-Quality Compression of Videos Using iMovie</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-building-a-tribute-to-toms-tech-expertise/"><u>Unveiling the Latest in PC Building - A Tribute to Tom's Tech Expertise</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/wijsgerapperd-en-gratis-online-tool-for-audiofile-conversion-from-aac-to-wma-by-movavi/"><u>Wijsgerapperd en Gratis: Online-Tool for Audiofile Conversion From AAC to WMA, by Movavi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-identifying-video-centric-dialogues/"><u>[Updated] 2024 Approved Identifying Video-Centric Dialogues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-drones-key-parts-for-peak-performance/"><u>2024 Approved Mastering Drones Key Parts for Peak Performance</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-how-to-get-back-removed-documents-via-recycle-bin-in-windows-versions-windows-1187/"><u>Guide: How to Get Back Removed Documents via Recycle Bin in Windows Versions (Windows 11/8/7)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Moto G Stylus 5G (2023)?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy F15 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-asuss-powerhouse-the-rog-rapture-gt-be9-pro-wifi-7-gigabit-router-a-balance-of-speed-and-flexibility/"><u>In-Depth Look at Asus's Powerhouse - The ROG Rapture GT-BE9# PRO WiFi 7 Gigabit Router: A Balance of Speed and Flexibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-wisdom-from-toms-workshop/"><u>Mastering Gadgets & Components - Wisdom From Tom's Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-selections-with-toms-technological-wisdom/"><u>Mastering Hardware Selections with Tom's Technological Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-expert-hardware-advice-from-tom/"><u>Navigating Today's Tech Landscape: Expert Hardware Advice From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Insights: A Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/transform-and-triumph-advanced-techniques-in-youtube-edits-for-2024/"><u>Trim, Transform, and Triumph Advanced Techniques in Youtube Edits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-potential-with-gigabytes-b760m-ds3h-ax-the-ultimate-guide-to-an-entry-level-three-monitor-motherboard/"><u>Unlocking Performance Potential with Gigabyte's B760M DS3H AX - The Ultimate Guide to an Entry-Level Three-Monitor Motherboard</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-call-of-duty-vanguard-keeps-freezing-on-your-pc/"><u>Why Call of Duty: Vanguard Keeps Freezing on Your PC ?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Format the Messages as if They Were Dated During World War II, with Dates Like April 6Th, 1944.
-date: 2024-09-18 19:21:58
-updated: 2024-09-20 10:10:45
+date: 2024-10-23T19:37:51.524Z
+updated: 2024-10-26T16:15:04.412Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-best-terraria-map-for-viewers-to-find-treasure/"><u>[Updated] 2024 Approved Top 5 Best Terraria Map for Viewers to Find Treasure</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[Updated] 2024 Approved Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-knowledge-acquisition-beyond-virtual-videos/"><u>[Updated] Mastering Knowledge Acquisition Beyond Virtual Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-visualizing-vigor-motion-blur-on-faces-in-picsart/"><u>[Updated] Visualizing Vigor Motion Blur on Faces in Picsart</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-virtual-worlds-contrasted-metaverse-vs-multiverse-analysis/"><u>2024 Approved Virtual Worlds Contrasted Metaverse vs Multiverse Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/all-in-one-screen-capture-az-insights-and-alternatives/"><u>All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-reviews-and-guides-by-toms-hardware-gurus/"><u>Cutting-Edge Tech Reviews and Guides by Tom's Hardware Gurus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-discount-on-samsungs-odyssey-g9-49-oled-curved-masterpiece-now-more-affordable-than-ever/"><u>Deep Discount on Samsung's Odyssey G9: 49 OLED Curved Masterpiece Now More Affordable Than Ever</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-gear-with-toms-tech-evaluations/"><u>Discover Cutting-Edge Gear with Tom's Tech Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-a-guide-by-toms-hardware-experts/"><u>Exploring the Latest in Tech: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gadget-gurus-review-roundup-comparing-top-tier-electronic-enhancements/"><u>Gadget Gurus' Review Roundup: Comparing Top-Tier Electronic Enhancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-ultimate-gameplay-experience-with-a-34-inch-asus-tuf-monitor-for-only-250-at-amazon/"><u>Get the Ultimate Gameplay Experience with a 34-Inch Asus TUF Monitor for Only $250 at Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/grab-your-bargain-a-thor-darth-vader-motif-monitor-is-just-1e6-more-than-expected-retailer-selling-24-inch-ips-display-at-low-price/"><u>Grab Your Bargain: A 'Thor Darth Vader' Motif Monitor Is Just $1E6 More Than Expected - Retailer Selling 24-Inch IPS Display at Low Price</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-6-youtuber-quizzes-to-know-which-youtuber-you-are/"><u>In 2024, 6 YouTuber Quizzes to Know Which YouTuber You Are</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-who-skipped-my-story-unfollowers-scan/"><u>In 2024, Who Skipped My Story? Unfollowers Scan</u></a></li>
+</ul></div>
+

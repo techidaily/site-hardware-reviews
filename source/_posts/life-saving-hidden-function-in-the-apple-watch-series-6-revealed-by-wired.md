@@ -1,7 +1,7 @@
 ---
 title: Life-Saving Hidden Function in the Apple Watch Series 6 Revealed by Wired
-date: 2024-09-19 12:31:37
-updated: 2024-09-20 11:22:55
+date: 2024-10-24T00:00:22.946Z
+updated: 2024-10-27T00:51:12.749Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-edit-a-comprehensive-look-at-title-and-description-for-igtv/"><u>[Updated] 2024 Approved Mastering the Edit A Comprehensive Look at Title & Description for IGTV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/a-comprehensible-guide-on-saving-instagram-story-content/"><u>A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-ai-interaction-the-ultimate-list-of-7-best-chatgpt-extensions-for-google-chrome-users/"><u>Boost AI Interaction: The Ultimate List of 7 Best ChatGPT Extensions for Google Chrome Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-types-the-comparative-analysis-of-public-private-and-personal-systems/"><u>Exploring AI Types: The Comparative Analysis of Public, Private and Personal Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-itel-s23plus-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Itel S23+ by Name | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-discovering-6-premium-apps-master-linkedin-video-downloads/"><u>In 2024, Discovering 6 Premium Apps Master LinkedIn Video Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-a2plus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi A2+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insta360-x4-camera-analysis-high-quality-shots-at-premium-pricing/"><u>In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-kobo-libra-ebook-reader-analysis-outstanding-features-beyond-the-multicolor-screen/"><u>In-Depth Kobo Libra Ebook Reader Analysis: Outstanding Features Beyond the Multicolor Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/laptop-and-desktop-reimagined-with-the-introduction-of-amds-revolutionary-zen/"><u>Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-and-asus-team-up-with-meta-for-cutting-edge-horizon-os-vr-gear/"><u>Lenovo & Asus Team Up with Meta for Cutting-Edge Horizon OS VR Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-autonomous-smartdesk-a-balancing-act-between-ease-of-assembly-and-functionality/"><u>Review of the Autonomous SmartDesk: A Balancing Act Between Ease of Assembly and Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revitalize-your-typing-experience-creative-combinations-of-keycap-sets/"><u>Revitalize Your Typing Experience: Creative Combinations of Keycap Sets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-typing-experience-with-keychron-q1-hes-magnetic-mechanism/"><u>Revolutionizing Typing Experience with Keychron Q1 HE's Magnetic Mechanism</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-leading-list-where-to-find-gamers-music-without-costs-for-2024/"><u>The Leading List Where to Find Gamers' Music Without Costs for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-magic-5-lite-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Magic 5 Lite Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unmatched-personalization-utilize-your-own-8-tailored-ais/"><u>Unmatched Personalization: Utilize Your Own 8 Tailored AIs</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Samsung Galaxy Watch
-date: 2024-09-17 12:39:17
-updated: 2024-09-20 12:24:37
+date: 2024-10-19T16:32:15.169Z
+updated: 2024-10-26T16:38:21.387Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-graphics-card-does-not-support-directx-11-features/"><u>[Fixed] Your Graphics Card Does Not Support DirectX 11 Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transferring-tactics-swiftly-send-files-to-devices/"><u>2024 Approved Transferring Tactics Swiftly Send Files to Devices</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/enhance-your-broadcasts-discover-manycams-top-tier-video-editing-and-remote-camera-solutions/"><u>Enhance Your Broadcasts: Discover ManyCam's Top-Tier Video Editing & Remote Camera Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/home-cinematic-wonders-fastest-tips-and-tricks/"><u>Home Cinematic Wonders Fastest Tips & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-stop-category-filtering-in-your-android-emails-for-a-simpler-inbox-experience/"><u>How to Stop Category Filtering in Your Android Emails for a Simpler Inbox Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-mobile-overlay-tools-top-10-innovative-photo-enhancers/"><u>In 2024, Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-fairphone-5-the-ultimate-in-sustainable-tech-with-a-lifetime-of-software-support/"><u>Introducing Fairphone 5: The Ultimate in Sustainable Tech with a Lifetime of Software Support</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/losungsstrategien-fur-den-what-failed-intcoedsys-fehler-in-windows-11-die-besten-4-ansatze/"><u>Lösungsstrategien Für Den „What Failed IntcOED.sys“-Fehler in Windows 11: Die Besten 4 Ansätze</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-huawei-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Huawei Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-android-privacy-how-to-prevent-random-mac-address-alteration/"><u>Mastering Android Privacy: How To Prevent Random MAC Address Alteration</u></a></li>
+<li><a href="https://win-web3.techidaily.com/microsoft-reveals-engineers-affinity-for-windows-11-insights-from-zdnet/"><u>Microsoft Reveals Engineers' Affinity for Windows 11: Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-conditional-formulas-with-isxl-functions-in-excel/"><u>Navigating Through Conditional Formulas with ISXL Functions in Excel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/oneplus-unveils-model-11-with-challenges-at-its-debut-what-to-know-about-this-latest-release/"><u>OnePlus Unveils Model 11 with Challenges at Its Debut – What to Know About This Latest Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-android-phones-haptic-feedback-a-users-manual-for-customizing-vibration-strength/"><u>Optimize Your Android Phone’s Haptic Feedback: A User's Manual for Customizing Vibration Strength</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pre-order-your-atandt-and-verizon-pixel-fold-available-now/"><u>Pre-Order Your AT&T & Verizon Pixel Fold - Available Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-damage-from-cellphone-shakes-protecting-your-smartphones-lens-a-guide-for-iphone-and-android-users/"><u>Preventing Damage From Cellphone Shakes: Protecting Your Smartphone's Lens - A Guide for iPhone & Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventing-nuisance-automated-calls-tips-for-android-users/"><u>Preventing Nuisance Automated Calls: Tips for Android Users</u></a></li>
+</ul></div>
+

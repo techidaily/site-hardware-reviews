@@ -1,7 +1,7 @@
 ---
 title: "Score the Latest Tech: Samsung Galaxy Watch 4 Goes On Sale for a Steal at Just $99 | Insider Offers From ZDNET"
-date: 2024-09-19 11:43:22
-updated: 2024-09-20 10:10:34
+date: 2024-10-19T23:32:22.065Z
+updated: 2024-10-26T18:42:12.072Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,26 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>[New] 2024 Approved Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-comparison-adobe-storage-vs-non-adobe-options/"><u>[Updated] The Ultimate Comparison Adobe Storage Vs. Non-Adobe Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-maximize-meeting-success-top-recording-tools/"><u>2024 Approved Maximize Meeting Success Top Recording Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-best-10-online-subtitle-editors/"><u>2024 Approved The Best 10 Online Subtitle Editors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/archiving-conversations-with-ai-how-to-retain-your-chatgpt-sessions/"><u>Archiving Conversations with AI: How to Retain Your ChatGPT Sessions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-home-internet-leveraging-prime-day-deals-for-enhanced-wireless-connectivity/"><u>Maximizing Your Home Internet: Leveraging Prime Day Deals for Enhanced Wireless Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/metas-horizon-os-powers-new-virtual-reality-devices-by-asus-and-lenovo/"><u>Meta's Horizon OS Powers New Virtual Reality Devices by ASUS & Lenovo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/now-accessible-the-latest-smart-led-containers-by-nanoleaf-hit-the-market/"><u>Now Accessible: The Latest Smart LED Containers by Nanoleaf Hit the Market.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revamped-rebranding-how-the-samsung-galaxy-fe-is-essentially-the-previous-model-in-disguise/"><u>Revamped Rebranding: How the Samsung Galaxy FE Is Essentially the Previous Model in Disguise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revive-the-odd-a-collection-of-the-most-bizarre-desktop-tower-cabinets/"><u>Revive the Odd: A Collection of the Most Bizarre Desktop Tower Cabinets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722884929666-samsung-galaxy-z-fold-6-revealed-find-out-when-how-much-and-what-to-expect-in-specs/"><u>Samsung Galaxy Z Fold 6 Revealed – Find Out When, How Much & What to Expect in Specs!</u></a></li>
+</ul></div>
+

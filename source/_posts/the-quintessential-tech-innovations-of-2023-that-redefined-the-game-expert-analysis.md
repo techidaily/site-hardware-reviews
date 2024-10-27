@@ -1,7 +1,7 @@
 ---
 title: The Quintessential Tech Innovations of 2023 That Redefined the Game | Expert Analysis
-date: 2024-10-17T16:06:50.977Z
-updated: 2024-10-20T18:34:59.077Z
+date: 2024-10-25T23:32:12.142Z
+updated: 2024-10-27T00:44:42.219Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,16 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +68,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +89,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +108,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,22 +156,21 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-revolutionize-your-storytelling-6-superior-instagram-reel-apps/"><u>[Updated] 2024 Approved Revolutionize Your Storytelling 6 Superior Instagram Reel Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>[Updated] In 2024, HDR Photoshop How to Create HDR Images in Photoshop Like a Pro</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-proven-steps-to-enhance-your-facetime-call-experience/"><u>[Updated] Proven Steps to Enhance Your FaceTime Call Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-simple-steps-to-adjust-your-iphone-battery-settings/"><u>6 Simple Steps to Adjust Your iPhone Battery Settings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-c5c-and-d6sec-uphere-air-cooler-analysis-best-under-20/"><u>Affordable C5C & D6Sec UpHere Air Cooler Analysis - Best Under $20</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/anticipating-the-new-pixel-timepiece-expected-costs-arrival-timeline-and-teasers-about-its-capabilities/"><u>Anticipating the New Pixel Timepiece: Expected Costs, Arrival Timeline, & Teasers About Its Capabilities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrating-zoom-and-skype-for-superior-video-conferencing-experience/"><u>In 2024, Integrating ZOOM & SKYPE for Superior Video Conferencing Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-advice-from-toms-hardware-hub/"><u>In-Depth Reviews and Advice From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-high-performance-hardware-at-tome-resource-center/"><u>Inside the World of High-Performance Hardware at Tom'e Resource Center</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-depths-of-toms-tech-domain-latest-trends-in-computing-equipment/"><u>Navigating the Depths of Tom's Tech Domain: Latest Trends in Computing Equipment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computers-with-tom-essential-hardware-guides/"><u>Navigating the World of Computers with Tom: Essential Hardware Guides</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/secure-and-simple-photovideo-sharing-with-ios-for-2024/"><u>Secure and Simple Photo/Video Sharing with IOS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-intelligence-the-leading-5-hardware-advances-in-ai-sphere/"><u>Synthesizing Intelligence: The Leading 5 Hardware Advances in AI Sphere</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-function-keys-on-your-keyboard/"><u>Troubleshooting Non-Responsive Function Keys on Your Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-speed-and-efficiency-with-corsair-mp600-mini-1tb-the-premier-review-of-the-leading-m2-nvme-ssd/"><u>Unlocking Speed and Efficiency with Corsair MP600 Mini 1TB: The Premier Review of the Leading M.2 NVMe SSD</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-essential-guide-to-top-16-free-video-enthusiasts/"><u>[New] 2024 Approved Essential Guide to Top 16 Free Video Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-direct-mac-pics-to-a-new-saving-area-for-2024/"><u>[New] Direct Mac Pics to a New Saving Area for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-quieten-system-sounds-on-pc-and-mac-devices-for-2024/"><u>[New] Quieten System Sounds on PC and Mac Devices for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-top-luts-for-sony-hlg/"><u>2024 Approved Top LUTs for Sony HLG</u></a></li>
+<li><a href="https://article-files.techidaily.com/beyond-binary-boundaries-metaverse-vs-multiverse-for-2024/"><u>Beyond Binary Boundaries Metaverse V/S Multiverse for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-hostgators-virtual-private-server-and-sharing-plans/"><u>Comprehensive Analysis: HostGator's Virtual Private Server & Sharing Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/damage-to-central-venous-lines/"><u>Damage to Central Venous Lines</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-alt-tab-not-working-glitch-on-your-computer/"><u>How to Repair 'Alt Tab Not Working' Glitch on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-se-2020-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone SE (2020) Without a Passcode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-tecno-spark-20-proplus-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Tecno Spark 20 Pro+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-evaluation-unveiling-the-power-of-asus-zenbook-s16s-amd-ryzen-ryzen-ai-nine-hx-370-cpu/"><u>Performance Evaluation: Unveiling the Power of Asus Zenbook S16's AMD Ryzen RYZEN AI Nine HX 370 CPU</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-pimoronis-nvme-based-dual-storage-solution-a-thorough-evaluation/"><u>Performance Insights on Pimoroni's NVMe-Based Dual Storage Solution: A Thorough Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-pimoroni-nvme-base-duo-solid-state-drive/"><u>The Ultimate Guide to the Pimoroni NVMe Base Duo Solid State Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-pc-components-toms-hardware/"><u>The Ultimate Resource for PC Components: Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-mysteries-your-trusted-source-toms-hardware/"><u>Unveiling Hardware Mysteries: Your Trusted Source, Tom's Hardware</u></a></li>
 </ul></div>
 

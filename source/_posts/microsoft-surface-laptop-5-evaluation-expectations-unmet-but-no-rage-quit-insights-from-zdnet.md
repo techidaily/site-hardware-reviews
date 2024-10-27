@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Laptop 5 Evaluation: Expectations Unmet but No Rage Quit - Insights From ZDNet"
-date: 2024-10-16T00:07:37.692Z
-updated: 2024-10-20T19:10:25.515Z
+date: 2024-10-24T22:00:45.120Z
+updated: 2024-10-27T00:21:50.061Z
 tags:
   - laptops
 categories:
@@ -38,10 +38,10 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -61,10 +61,10 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -85,13 +85,6 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The aptly-named Surface Studio 2+
 
 The Surface Studio 2+ looks nearly identical to the Surface Studio 2.
@@ -106,6 +99,13 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Presenter+ and Audio Dock
 
 The Microsoft Presenter+.
@@ -119,10 +119,16 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -171,21 +177,17 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g24-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/addressing-overflow-in-chatgpt-windows-use/"><u>Addressing Overflow in ChatGPT Windows Use</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-logitech-g515-lightspeed-tkl-keyboard-evaluation-the-ultimate-compact-choice/"><u>Affordable Logitech G515 Lightspeed TKL Keyboard Evaluation: The Ultimate Compact Choice</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-the-newsfeed-10-valid-reasons-to-leave-facebook-behind/"><u>Beyond the Newsfeed: 10 Valid Reasons to Leave Facebook Behind</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-clearing-data-with-cmd-on-your-windows-10-system/"><u>Efficiently Clearing Data with CMD on Your Windows 10 System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-pny-rp60-portable-ssd-good-quality-yet-unremarkable-features/"><u>Evaluating the PNY RP60 Portable SSD - Good Quality, Yet Unremarkable Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-fresh-installations-of-sas-drivers-on-modern-windows-systems-11-8-and-older-editions-7/"><u>Guide to Fresh Installations of SAS Drivers on Modern Windows Systems: 11, 8 & Older Editions (7)</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/improve-your-video-editing-with-these-5-obs-solutions-for-2024/"><u>Improve Your Video Editing with These 5 OBS Solutions for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-esteemed-experts-premium-instragram-highlight-designs-online/"><u>In 2024, Esteemed Experts Premium Instragram Highlight Designs Online</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-7-plus-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 7 Plus without Apple ID?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-level-visual-experience/"><u>Next-Level Visual Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-gearheads-companion-inside-toms-hardware-wonders/"><u>The Gearhead's Companion: Inside Tom's Hardware Wonders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Technology Secrets at Tom's Hardware Sanctuary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-performance-and-costs-the-lattepanda-mu-vs-raspberry-pi-5/"><u>Comparing Performance and Costs: The LattePanda Mu Vs. Raspberry Pi 5</u></a></li>
+<li><a href="https://fox-http.techidaily.com/extracting-images-from-movies-using-windows-10-photos-app-for-2024/"><u>Extracting Images From Movies Using Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-stability-guide-stop-pc-disruptions-and-get-back-to-gaming-smoothly/"><u>Halo Infinite Stability Guide - Stop PC Disruptions and Get Back to Gaming Smoothly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-fn-key-not-working/"><u>How To Fix Fn Key Not Working</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Lava Blaze 2 5G Phone without Google Account?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-n3-flip-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo Find N3 Flip Bootloader Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-top-hdr-camera-picks/"><u>In 2024, Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-viair/"><u>In-Depth Analysis of the Viair</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-toms-hardware-authority/"><u>Mastering Technology Insights: Tom's Hardware Authority</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-instructions-for-securing-your-favorite-vh1-songs-on-mac-or-pc/"><u>Step-by-Step Instructions for Securing Your Favorite VH1 Songs on Mac or PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surgical-intervention-may-be-necessary-for-certain-types-of-eye-injuries-to-preserve-vision-and-prevent-further-damage/"><u>Surgical Intervention May Be Necessary for Certain Types of Eye Injuries to Preserve Vision and Prevent Further Damage.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-youll-love-the-newly-launched-keychron-q1-he-the-ultimate-wireless-gaming-and-productivity-companion/"><u>Why You'll Love the Newly Launched Keychron Q1 HE - The Ultimate Wireless Gaming & Productivity Companion!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Level Gaming with Asus Vibe CX34: A Powerhouse Laptop Reviewed on ZDNet"
-date: 2024-10-17T16:49:36.125Z
-updated: 2024-10-20T23:35:33.330Z
+date: 2024-10-25T00:28:36.392Z
+updated: 2024-10-26T22:11:34.219Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,13 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -55,10 +62,16 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -81,6 +94,13 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -100,13 +120,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -128,13 +141,6 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -146,10 +152,16 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -190,22 +202,21 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-maximizing-video-quality-with-zooms-format-tools/"><u>[New] Maximizing Video Quality with Zoom's Format Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-tricks-to-upgrade-streaming-quality-on-mobile-apps-like-facebook-for-2024/"><u>[New] Tricks to Upgrade Streaming Quality on Mobile Apps Like Facebook for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-uavs-operation-a-guide-to-aerial-robotics/"><u>2024 Approved Exploring UAVs' Operation A Guide to Aerial Robotics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-zephyrus-g14-rtx-4060-steals-show-with-a-sizzling-1099-offer-only-at-best-buy/"><u>Asus ROG Zephyrus G14 RTX 4060 Steals Show with a Sizzling $1,099 Offer Only at Best Buy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-zenbook-s16-review-an-insightful-look-at-its-performance-powered-by-amd-ryzen-ai-9-hx-370/"><u>Asus Zenbook S16 Review: An Insightful Look at Its Performance Powered by AMD Ryzen AI 9 HX 370</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective32/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakthrough-in-laptop-technology-the-worlds-first-thinkpad-p1-gen-7-with-advanced-lpcamm2-memory-uncompromising-speed-and-slim-profile-redefined/"><u>Breakthrough in Laptop Technology: The World's First ThinkPad P1 Gen 7 with Advanced LPCAMM2 Memory – Uncompromising Speed and Slim Profile Redefined</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-cutting-edge-laptop-performance-the-1100-honor-magicbook-art-n14-with-meteor-lake-cpu-and-removable-camera/"><u>Experience Cutting-Edge Laptop Performance: The $1,100 Honor MagicBook Art N14 with Meteor Lake CPU & Removable Camera</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-elite-performance-the-new-razer-blade-18-features-i9-14900hx-processor-and-rtx-cu4090-for-4799/"><u>Experience Elite Performance - The New Razer Blade 18 Features I9-14900HX Processor and RTX Cu4090 for $4,799</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-toms-computing-equipment/"><u>Expert Insights on Tom's Computing Equipment</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/lenovos-new-international-release-yoga-portal-ai-with-a-compact-37l-design-and-integrated-14th-gen-intel-desktops/"><u>Lenovo's New International Release: Yoga Portal AI with a Compact 3.7L Design & Integrated 14Th Gen Intel Desktops</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-youtubes-video-editor-integrating-tracks-into-your-videos-for-2024/"><u>Mastering YouTube's Video Editor Integrating Tracks Into Your Videos for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-c55-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862736044-score-a-bargain-16-inch-macbook-pro-w-m3-chip-at-discounted-prices-pre-prime-day/"><u>Score a Bargain: 16-Inch MacBook Pro W/ M3 Chip at Discounted Prices Pre-Prime Day!</u></a></li>
-<li><a href="https://win11.techidaily.com/systematic-solutions-locating-and-correcting-windows-errors-via-the-power-of-command-prompt/"><u>Systematic Solutions: Locating & Correcting Windows Errors via the Power of Command Prompt</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/video-glamour-guide-elevating-your-shots-with-effective-lights-for-2024/"><u>Video Glamour Guide Elevating Your Shots with Effective Lights for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagrams-most-active-hours/"><u>[New] 2024 Approved Mastering Instagram's Most Active Hours</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pro-video-tech-selecting-advanced-recording-software/"><u>[New] 2024 Approved Pro Video Tech Selecting Advanced Recording Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-crafting-contrast-and-depth-in-hdr-portraits/"><u>[New] Crafting Contrast and Depth in HDR Portraits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/act-now-save-big-with-our-top-choice-of-nomad-iphone-cases-bogo-offer-on-zdnet/"><u>Act Now: Save Big with Our Top Choice of Nomad iPhone Cases - BOGO Offer on ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-guidance-with-tom-the-hardware-specialists/"><u>Advanced Gadget Guidance with Tom – The Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-explorations/"><u>Discover the Latest in Tech with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://facebook.techidaily.com/engage-with-ease-learn-the-top-30-smart-words-and-abbreviations-in-social-media/"><u>Engage with Ease: Learn the Top 30 SMART Words and Abbreviations in Social Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-features-of-lian-lis-hydroshift-lcd-tube-with-360-s/"><u>Exploring the Cutting-Edge Features of Lian Li's Hydroshift LCD Tube with 360 S</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-macsierra-visionaries-premier-dvd-creators-list/"><u>In 2024, MacSierra Visionaries Premier Dvd Creators List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-new-tech-guides-by-toms-digital-domain/"><u>Navigating Through New Tech: Guides by Tom's Digital Domain</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/rapid-recovery-effective-techniques-for-extracting-data-from-your-solid-state-drives/"><u>Rapid Recovery: Effective Techniques for Extracting Data From Your Solid State Drives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rt-of-attraction-top-20-fonts-for-impactful-youtube-thumbnails/"><u>The Art of Attraction Top 20 Fonts for Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-more-drive-potential-the-definitive-review-of-highpoints-rocket-1608a-usb-expansion-card/"><u>Unleash More Drive Potential: The Definitive Review of HighPoint's Rocket 1608A USB Expansion Card</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-details-a-thorough-review-of-hostingers-virtual-private-servers-and-shared-hosting/"><u>Unveiling the Details: A Thorough Review of Hostinger’s Virtual Private Servers & Shared Hosting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-of-sabrent-rocket-nano-1tb-2242-ssd-the-quintessential-choice-for-ultra-compact-storage-needs/"><u>Unveiling the Potential of Sabrent Rocket Nano 1TB 2242 SSD: The Quintessential Choice for Ultra-Compact Storage Needs</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-the-recommended-natural-ai-hindi-voice-generator/"><u>Updated In 2024, The Recommended Natural AI Hindi Voice Generator</u></a></li>
 </ul></div>
 

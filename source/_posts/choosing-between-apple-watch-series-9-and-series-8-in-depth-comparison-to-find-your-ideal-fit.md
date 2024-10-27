@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between Apple Watch Series 9 and Series 8: In-Depth Comparison to Find Your Ideal Fit!"
-date: 2024-09-17 13:19:40
-updated: 2024-09-20 11:51:23
+date: 2024-10-19T19:22:39.173Z
+updated: 2024-10-27T00:19:19.895Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-your-blueprint-for-broadcasting-live-on-facebook/"><u>[New] In 2024, Your Blueprint for Broadcasting Live on Facebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-transforming-images-with-ease-learn-snapseed-today/"><u>2024 Approved Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/awaken-with-fun-in-depth-review-of-mirari-kids-alarm-clock/"><u>Awaken with Fun: In-Depth Review of Mirari Kids' Alarm Clock</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-the-ice-with-these-beginner-video-gadgets/"><u>Break the Ice with These Beginner Video Gadgets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-collective-photo-music-plus-visual-creation-fusion-for-2024/"><u>Elite Collective Photo, Music + Visual Creation Fusion for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978721591-microsoft-bluetooth-driver-download-and-update-win-101187/"><u>Microsoft Bluetooth Driver Download & Update – Win 10/11/8/7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-to-snipping-and-shaping-videos-directly-from-your-android-phone/"><u>Step-by-Step Guide to Snipping & Shaping Videos Directly From Your Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-switching-dns-settings-on-your-android-device/"><u>Step-by-Step Guide: Switching DNS Settings on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-turning-off-auto-update-feature-on-your-android-devices/"><u>Step-by-Step Guide: Turning Off Auto-Update Feature on Your Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-instructions-creating-new-browser-windows-instead-of-tabs-in-the-android-version-of-google-chrome/"><u>Step-by-Step Instructions: Creating New Browser Windows Instead of Tabs in the Android Version of Google Chrome</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-prevent-google-photos-from-prompting-deletion-approval/"><u>Steps to Prevent Google Photos From Prompting Deletion Approval</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-indispensable-android-widgets-enhance-your-smartphone-experience/"><u>Top 10 Indispensable Android Widgets: Enhance Your Smartphone Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/wondershare/"><u>Wondershareを超えた最高の編集ソフトウェア：拡張されたデバイス対応</u></a></li>
+</ul></div>
+

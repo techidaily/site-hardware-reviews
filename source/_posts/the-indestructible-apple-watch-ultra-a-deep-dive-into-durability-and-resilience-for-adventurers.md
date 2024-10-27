@@ -1,7 +1,7 @@
 ---
 title: The Indestructible Apple Watch Ultra - A Deep Dive Into Durability and Resilience for Adventurers.
-date: 2024-09-19 22:41:43
-updated: 2024-09-20 10:52:19
+date: 2024-10-23T21:56:10.768Z
+updated: 2024-10-26T16:56:58.285Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,19 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-unveiling-the-magic-of-films-mood-with-colors/"><u>[New] 2024 Approved Unveiling the Magic of Film's Mood with Colors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-pathways-to-acquiring-facebooks-distinguished-verification/"><u>[New] Pathways to Acquiring Facebook's Distinguished Verification</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-advanced-setup-setting-up-an-elapsed-time-display-in-obs/"><u>2024 Approved Advanced Setup Setting up an Elapsed Time Display in OBS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tutorial-turning-on-hdr-for-windows-11-users/"><u>2024 Approved Tutorial Turning on HDR for Windows 11 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-play-with-higher-fps-reducing-lag-in-the-world-of-fall-guys-explained/"><u>Achieve Smoother Play with Higher FPS: Reducing Lag in the World of Fall Guys Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-use-for-ps5-with-ps4/"><u>Cross-Platform Use for PS5 with PS4?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-the-raspberry-pi-revolutionizes-your-classic-sony-tape-recorder-with-seamless-wireless-audio-streaming/"><u>How the Raspberry Pi Revolutionizes Your Classic Sony Tape Recorder with Seamless Wireless Audio Streaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-computer-hardware-at-toms-review-sites/"><u>In-Depth Analysis of Computer Hardware at Tom's Review Sites</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-with-raspberry-pi-5-meet-bender-your-ai-powered-personal-assistant-inspired-by-futurama/"><u>Introducing the Future with Raspberry Pi 5: Meet Bender, Your AI-Powered Personal Assistant Inspired by Futurama</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mega-gaming-experience-custom-raspberry-pi-5-upgraded-giant-game-boy-xl-featuring-fully-operational-buttons/"><u>Mega Gaming Experience: Custom Raspberry Pi 5 Upgraded Giant Game Boy XL Featuring Fully Operational Buttons</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/seamless-pet-nutrition-with-arf-pets-discover-the-art-of-automatic-feeding-made-easy/"><u>Seamless Pet Nutrition with Arf Pets – Discover the Art of Automatic Feeding Made Easy!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-for-accessing-and-streaming-mkv-media-on-any-platform-pcs-laptops-and-smartphones/"><u>Step-by-Step Tutorial for Accessing & Streaming MKV Media on Any Platform: PCs, Laptops, and Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-resolving-the-attempting-data-recovery-cycle-on-your-iphone/"><u>Ultimate Guide: Resolving the 'Attempting Data Recovery' Cycle on Your iPhone</u></a></li>
+</ul></div>
+

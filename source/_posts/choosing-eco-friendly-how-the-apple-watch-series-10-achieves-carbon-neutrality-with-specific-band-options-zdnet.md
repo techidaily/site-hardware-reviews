@@ -1,7 +1,7 @@
 ---
 title: "Choosing Eco-Friendly: How the Apple Watch Series 10 Achieves Carbon Neutrality with Specific Band Options | ZDNET"
-date: 2024-09-18 22:36:28
-updated: 2024-09-20 12:18:55
+date: 2024-10-21T20:28:00.702Z
+updated: 2024-10-26T18:27:51.198Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,19 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unleash-potential-optimizing-short-films-in-marketing/"><u>[New] In 2024, Unleash Potential Optimizing Short Films in Marketing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guides-by-tom-the-definitive-source/"><u>Advanced Hardware Guides by Tom - The Definitive Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-gaming-display-for-only-249-on-amazon/"><u>Affordable 34 Curved ASUS TUF Gaming Display for Only $249 on Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aocs-new-premium-ultrawide-monitor-240hz-oled-technology-at-just-1399/"><u>AOC's New Premium Ultrawide Monitor - 240Hz OLED Technology at Just $1,399!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boost-your-channels-popularity-optimal-post-dates/"><u>Boost Your Channel's Popularity - Optimal Post Dates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862840211-experience-crystal-clear-gaming-with-the-newly-discounted-samsung-odyssey-ark-now-cheaper-than-ever/"><u>Experience Crystal Clear Gaming with the Newly Discounted Samsung Odyssey Ark - Now Cheaper Than Ever.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expertly-selected-quintet-of-iphone-global-positioning-systems/"><u>Expertly Selected Quintet of iPhone Global Positioning Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-zero-5g-2023-turbo-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Zero 5G 2023 Turbo Phone Screen?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>In 2024, Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-x-flip-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo X Flip? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-the-art-of-video-with-these-html5-platforms/"><u>Master the Art of Video with These HTML5 Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-chatgpt-on-smartphones-comprehensive-guide-for-android-and-ios-devices/"><u>Navigating ChatGPT on Smartphones: Comprehensive Guide for Android and iOS Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862799080-revolutionary-tech-unveiled-the-new-modos-paper-monitor-offers-an-open-source-solution-to-high-res-and-low-latency-needs/"><u>Revolutionary Tech Unveiled: The New Modos Paper Monitor Offers an Open-Source Solution to High Res and Low Latency Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862809061-score-big-savings-with-asus-tuf-34-curved-gaming-monitor-at-an-unbeatable-price-on-amazon/"><u>Score Big Savings with ASUS TUF 34 Curved Gaming Monitor at an Unbeatable Price on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862812641-steal-the-show-with-the-low-cost-240hz-acer-nitro-gaming-monitor-just-pay-a-sweet-159/"><u>Steal the Show with the Low-Cost 240Hz Acer Nitro Gaming Monitor – Just Pay a Sweet $159</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleash-your-photo-potential-with-instagram-filters/"><u>Unleash Your Photo Potential with Instagram Filters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862822436-unlock-crystal-clear-viewing-with-the-built-in-webcam-and-powerful-display-of-samsungs-pixel-dense-viewfinity-s9-now-only-899-save-up-to-44-today/"><u>Unlock Crystal Clear Viewing with the Built-In Webcam & Powerful Display of Samsung's Pixel-Dense ViewFinity S9 - Now Only $899, Save Up to 44% Today!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Watch 6: Exclusive Offer With $100 Discount as Apple Unveils Latest Timepieces - Smart Shopping Alerts From ZDNet"
-date: 2024-09-19 12:41:26
-updated: 2024-09-20 10:53:38
+date: 2024-10-23T19:46:00.522Z
+updated: 2024-10-26T23:22:13.891Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,19 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/approved-digital-warriors-youtubes-top-ten-women/"><u>2024 Approved Digital Warriors YouTube’s #Top Ten Women</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-blueprint-designing-your-first-youtube-trailer/"><u>2024 Approved The Blueprint Designing Your First YouTube Trailer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-advanced-computing-at-toms-tech-store/"><u>Dive Into Advanced Computing at Tom's Tech Store</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-selection-of-wide-view-gaming-monitors-for-the-latest-year/"><u>Elite Selection of Wide-View Gaming Monitors for the Latest Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-pinnacle-of-professional-monitoring-asus-newest-creation-the-unrivaled-8k-mini-led-proart-display-brilliance-at-1200-nits-and-customizable-wi51/"><u>Experience the Pinnacle of Professional Monitoring: Asus' Newest Creation, The Unrivaled 8K Mini LED ProArt Display - Brilliance at 1200 Nits and Customizable with Cuatro Mil Lighting Zones.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-simple-overcoming-constant-elex-ii-game-crashes/"><u>PC Gaming Made Simple: Overcoming Constant Elex II Game Crashes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/profound-inspection-the-detailed-review-of-bublcams-360-camera/"><u>Profound Inspection The Detailed Review of Bublcam's 360 Camera</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/save-space-and-time-with-fb-video-conversion-tools/"><u>Save Space & Time with FB Video Conversion Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-flushing-your-androids-memory/"><u>Step-by-Step Guide: Flushing Your Android's Memory</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-video-calls-with-zoom-in-gmail-platform/"><u>Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-6-features-of-the-latest-nexus-7-tablet-what-every-tech-enthusiast-needs-to-know/"><u>Unveiling the Top 6 Features of the Latest Nexus 7 Tablet: What Every Tech Enthusiast Needs to Know</u></a></li>
+</ul></div>
+

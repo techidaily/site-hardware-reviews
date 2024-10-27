@@ -1,7 +1,7 @@
 ---
 title: OnePlus Unveils Revolutionary Smartwatch with 100-Hour Battery, Challenges Google Pixel Timepiece
-date: 2024-09-17 14:28:35
-updated: 2024-09-20 12:15:27
+date: 2024-10-19T20:39:55.590Z
+updated: 2024-10-26T19:10:42.734Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/full-guide-how-to-boost-bass-on-windows-10-2021-tips/"><u>[FULL GUIDE] How to Boost Bass on Windows 10 | 2021 Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-camera-hunt-essential-choices-for-new-enthusiasts/"><u>[New] Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-secrets-to-earning-facebooks-status-symbol-blue/"><u>[New] In 2024, Secrets to Earning Facebook’s Status Symbol (Blue)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-when-should-you-share-your-insta-story/"><u>[New] When Should You Share Your Insta Story?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-monetary-reality-of-being-a-podcaster/"><u>[Updated] The Monetary Reality of Being a Podcaster</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-monetization-the-new-rules-everyone-hates/"><u>[Updated] YouTube Monetization The New Rules Everyone Hates</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-enhance-videos-with-music-inshots-simple-methods/"><u>2024 Approved Enhance Videos with Music InShot's Simple Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discovering-the-top-8-truly-efficient-advancement-services/"><u>Discovering the Top 8 Truly Efficient Advancement Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-multi-user-interactions-jdis-two-view-displays-with-dual-touch-capability/"><u>Revolutionizing Multi-User Interactions: JDI's Two View Displays with Dual Touch Capability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsungs-odyssey-g9-the-epic-49-oled-curved-screen-now-at-record-lows/"><u>Samsung's Odyssey G9: The Epic 49 OLED Curved Screen Now at Record Lows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-on-the-ultrawide-screen-spectacle-save-60samsungs-49-oled-tv-today/"><u>Score Big Savings on the Ultrawide Screen Spectacle – Save $60([Samsung’s] 49” OLED TV) Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-technology-curves-with-toms-reliable-hardware-reviews/"><u>Stay Ahead of Technology Curves with Tom's Reliable Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-modern-hardware-solutions-by-tom/"><u>The Ultimate Guide to Modern Hardware Solutions by Tom</u></a></li>
+</ul></div>
+

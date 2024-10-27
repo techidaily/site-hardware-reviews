@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between Garmin's Top Models: A Comprehensive Review of the Forerunner 265 Vs. 965"
-date: 2024-09-17 18:14:48
-updated: 2024-09-20 12:17:10
+date: 2024-10-23T16:43:38.454Z
+updated: 2024-10-26T20:26:17.389Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-efficiently-recording-desktop-screens-for-various-purposes/"><u>[New] Efficiently Recording Desktop Screens for Various Purposes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten/"><u>[New] Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-product-reviews-for-monetary-rewards-on-youtube/"><u>[New] Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-significant-top-5-flexible-video-recorders-list-for-2024/"><u>[New] Significant Top 5 Flexible Video Recorders List for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/comprendre-et-resoudre-lopen-random-de-powershell-windows-foires-et-remedes/"><u>Comprendre Et Résoudre L'Open Random De PowerShell Windows: Foires Et Remèdes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-portable-nvme-ssd-by-pny-solid-functionality-that-lacks-distinction/"><u>Evaluating the Portable NVMe SSD by PNY: Solid Functionality that Lacks Distinction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-comparisons-toms-comprehensive-guide-to-computer-hardware/"><u>Expert Reviews & Comparisons: Tom's Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-tips-maximize-your-use-of-remote-connections-w11/"><u>Expert Tips: Maximize Your Use of Remote Connections W11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-comprehensive-guides-and-insights/"><u>Exploring Technology with Tom's Hardware - Comprehensive Guides and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-comprehensive-reviews-at-your-brand-name/"><u>Exploring the Latest in Tech: Comprehensive Reviews at [Your Brand Name]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-electronics-hub-in-depth-reviews-on-hardware-and-software-solutions/"><u>Exploring Tom's Electronics Hub: In-Depth Reviews on Hardware and Software Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-cpus-to-gpus-expert-tips-on-cutting-edge-hardware-with-tom/"><u>From CPUs to GPUs: Expert Tips on Cutting-Edge Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-sabrents-speedy-rocket-5-ssds-pre-order-begins-at-an-affordable-price-of-190/"><u>Get Your Hands on Sabrent's Speedy Rocket 5 SSDs - Pre-Order Begins at an Affordable Price of $190!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-hdmi-standards-spotting-differences-between-21-and-21a-cables/"><u>Navigating Through HDMI Standards - Spotting Differences Between 2.1 and 2.1a Cables</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-world-of-warcraft-wont-start-on-your-desktop-computer/"><u>Troubleshooting Guide: When World of Warcraft Won't Start on Your Desktop Computer</u></a></li>
+</ul></div>
+

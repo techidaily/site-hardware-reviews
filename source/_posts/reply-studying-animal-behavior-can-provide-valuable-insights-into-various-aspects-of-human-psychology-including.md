@@ -1,7 +1,7 @@
 ---
 title: "[Reply]: Studying Animal Behavior Can Provide Valuable Insights Into Various Aspects of Human Psychology, Including:"
-date: 2024-10-13T17:20:32.198Z
-updated: 2024-10-20T21:29:12.422Z
+date: 2024-10-22T18:42:01.606Z
+updated: 2024-10-26T23:35:39.367Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,16 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,17 +123,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>[Updated] A Duel of Viewers Google Cardboard Vs. Samsung VR</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>[Updated] In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-x-fold-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo X Fold 2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/leading-ultrabooks-and-luxury-laptop-picks-for-the-modern-tech-enthusiast/"><u>Leading Ultrabooks and Luxury Laptop Picks for the Modern Tech Enthusiast</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-your-guide-to-top-hardware-picks/"><u>Mastering Gadgets with Tom - Your Guide to Top Hardware Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-toms-guide-to-choosing-and-reviewing-essential-tech-tools/"><u>Mastering Gadgets: Tom's Guide to Choosing and Reviewing Essential Tech Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-in-depth-analysis-from-toms-hardware-experts/"><u>Mastering Tech: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-world-in-depth-reviews-and-news-from-toms-electronics-hub/"><u>Mastering Your Tech World - In-Depth Reviews and News From Tom's Electronics Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nightshade-techniques-to-safeguard-original-art-against-unauthorized-ai-replication/"><u>Nightshade Techniques to Safeguard Original Art Against Unauthorized AI Replication</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/record-games-with-no-hassle-nvidia-way/"><u>Record Games with No Hassle - NVIDIA Way</u></a></li>
-<li><a href="https://some-skills.techidaily.com/timing-duration-for-a-20mb-high-definition-video-for-2024/"><u>Timing Duration for a 20Mb High-Definition Video for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-redmi-k70e-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi Redmi K70E Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>[New] Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-your-guide-to-smooth-browsing-select-the-top-7-android-adblockers-for-2024/"><u>[Updated] Your Guide to Smooth Browsing Select the Top 7 Android AdBlockers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-transform-your-edits-how-to-negate-distracting-surroundings-using-affinity-photo/"><u>2024 Approved Transform Your Edits How to Negate Distracting Surroundings Using Affinity Photo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722984652403-cult-of-the-lamb-on-pc-keep-crashing-heres-how-to-solve-it/"><u>Cult of the Lamb on PC Keep Crashing? Here's How to Solve It</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevating-your-gaming-world-expert-review-on-philips-spectacular-evonia-49m2c8900-qd-oled-240-hz-monitor/"><u>Elevating Your Gaming World: Expert Review on Philips' Spectacular Evonia 49M2C8900 QD-OLED 240 Hz Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-logitech-g-pro-x-2-lightspeed-a-must-have-for-serious-gamers/"><u>Expert Analysis of the Logitech G Pro X 2 Lightspeed - A Must-Have for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-opinions-on-next-gen-tech-devices-the-toms-hardware-perspective/"><u>Expert Opinions on Next-Gen Tech Devices: The Tom's Hardware Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-run-as-administrator-not-working-in-windows/"><u>How to Fix Run as Administrator Not Working in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-picks-beloved-family-films-streaming-on-amazon-prime-video-this-july/"><u>Top Picks: Beloved Family Films Streaming on Amazon Prime Video This July</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-a-comprehensive-review-of-crucial-pros-high-speed-16gb-ddr5-ram-at-6000mhz/"><u>Unveiling the Potential: A Comprehensive Review of Crucial Pro's High-Speed 16GB DDR5 RAM at 6000MHz</u></a></li>
 </ul></div>
 

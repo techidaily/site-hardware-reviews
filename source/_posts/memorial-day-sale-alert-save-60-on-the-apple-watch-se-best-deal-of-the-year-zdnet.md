@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Sale Alert: Save $60 on the Apple Watch SE - Best Deal of the Year! | ZDNet"
-date: 2024-09-18 12:57:47
-updated: 2024-09-20 10:37:12
+date: 2024-10-23T20:03:52.046Z
+updated: 2024-10-26T23:39:44.716Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-speedy-solutions-for-disordering-your-youtube-queue-for-2024/"><u>[Updated] Speedy Solutions for Disordering Your YouTube Queue for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-streamers-unveiled-an-all-round-comparison-guide/"><u>In 2024, Best Streamers Unveiled An All-Round Comparison Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-14-pro-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 14 Pro Smoothly</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/oplossing-voor-eerste-rondje-terugzetten-van-een-exterieke-harde-schijvaterafslag/"><u>Oplossing Voor Eerste Rondje Terugzetten Van Een Exterieke Harde Schijvaterafslag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sk-hynixs-top-performing-in-house-created-pcie-50-ssd-launches-meet-the-power-efficient-and-speedy-platinum-p51/"><u>SK Hynix's Top-Performing In-House Created PCIe 5.0 SSD Launches – Meet the Power Efficient and Speedy Platinum P51</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-guide-converting-your-dvd-collection-into-high-quality-audio-files/"><u>Step-by-Step Guide: Converting Your DVD Collection Into High-Quality Audio Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/team-group-debuts-revolutionary-tech-in-taiwan-next-gen-pcie-50-ssds-for-enhanced-ai-performance-innovative-ssd-coolers-and-new-bluetooth-tag-featured-porta3/"><u>Team Group Debuts Revolutionary Tech in Taiwan: Next-Gen PCIe 5.0 SSDs for Enhanced AI Performance, Innovative SSD Coolers & New Bluetooth Tag Featured Portable Drive at Computex 202N4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-pc-hardware-expert-tips-from-toms-hardware/"><u>The Complete Guide to PC Hardware - Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lava-yuva-3-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Yuva 3 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-todays-latest-gadgets/"><u>Tom's Tech Review: In-Depth Analysis of Today's Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis-t17238642572196/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-latest-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Latest Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insightful-hardware-evaluations/"><u>Tom's Tech Reviews: Insightful Hardware Evaluations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-humor-kinemaster-for-memes-for-2024/"><u>Unleashing Humor KineMaster for Memes for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+</ul></div>
+

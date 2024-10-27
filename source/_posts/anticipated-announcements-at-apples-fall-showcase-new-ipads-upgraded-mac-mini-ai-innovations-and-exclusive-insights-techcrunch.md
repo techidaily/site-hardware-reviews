@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Announcements at Apple's Fall Showcase: New iPads, Upgraded Mac Mini, AI Innovations & Exclusive Insights | TechCrunch"
-date: 2024-10-14T04:14:28.192Z
-updated: 2024-10-21T04:57:05.287Z
+date: 2024-10-24T19:37:53.214Z
+updated: 2024-10-26T19:24:06.555Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,16 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,17 +123,18 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-enlivening-images-with-apples-soundtrack-for-2024/"><u>[New] Enlivening Images with Apple's Soundtrack for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-creating-engaging-youtube-content-a-step-by-step-approach/"><u>[New] In 2024, Creating Engaging YouTube Content A Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-a-step-by-step-approach-for-adding-soundtracks-to-youtube-clips-for-2024/"><u>[Updated] A Step-by-Step Approach for Adding Soundtracks to YouTube Clips for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-youtube-tagging-strategies-for-optimal-visibility/"><u>Essential YouTube Tagging Strategies for Optimal Visibility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>In 2024, Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-reviews-and-analysis-by-toms-hardware-experts/"><u>Innovative Tech Reviews and Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/master-recorder-a-comprehensive-review-of-screen-recording-for-2024/"><u>Master Recorder A Comprehensive Review of Screen Recording for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reaching-new-heights-a-comprehensive-review-of-crucial-pro-6000-series-ddr5-memory-for-advanced-system-tuning-and-performance-optimization/"><u>Reaching New Heights: A Comprehensive Review of Crucial Pro 6000 Series DDR5 Memory for Advanced System Tuning and Performance Optimization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-depth-of-snapchats-myai-learn-about-its-six-unexpected-utilities-beyond-cool-tech/"><u>The Hidden Depth of Snapchat's MyAI - Learn About Its Six Unexpected Utilities Beyond Cool Tech!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-linkedin-course-selections/"><u>Top-Rated LinkedIn Course Selections</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-qhd-gaming-with-asus-rog-strix-xg27acs-a-review-on-its-precision-and-adaptive-performance-at-180hz/"><u>Unlocking the Potential of QHD Gaming with Asus ROG Strix XG27ACS – A Review on Its Precision and Adaptive Performance at 180Hz</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-rolling-back-macos-sierra-to-el-capitan-version-for-2024/"><u>[New] Rolling Back MacOS Sierra to El Capitan Version for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-into-wealthy-creator-land-via-youtube-shorts-revenue-for-2024/"><u>[Updated] Step Into Wealthy Creator Land via YouTube Shorts Revenue for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-guide-to-hdr-on-windows-11/"><u>A Complete Guide to HDR on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-awakenings-discovering-harmonious-podcast-starts-for-2024/"><u>Audio Awakenings Discovering Harmonious Podcast Starts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tech-picks-and-reviews-a-look-into-toms-hardware-insights/"><u>Discover Top Tech Picks and Reviews: A Look Into Tom's Hardware Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-pairing-a-phone-with-your-new-oculus-quest-2/"><u>Expert Advice on Pairing a Phone with Your New Oculus Quest 2</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y28-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y28 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unbeatable-free-livestream-solutions-reviewed-across-all-platforms/"><u>In 2024, Unbeatable Free Livestream Solutions Reviewed Across All Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-the-first-step-is-conducting-a-detailed-survey-to-understand-the-propertys-physical-features-and-constraints/"><u>Solution: The First Step Is Conducting a Detailed Survey to Understand the Property's Physical Features and Constraints</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-into-the-soil-with-confidence-your-starter-kit-for-an-organic-and-sustainable-home-veg-patch/"><u>Step Into the Soil with Confidence: Your Starter Kit for an Organic and Sustainable Home Veg Patch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hardware-insights-and-expert-reviews/"><u>Tom's Computer Hardware Insights & Expert Reviews</u></a></li>
+<li><a href="https://techtrends.techidaily.com/trouble-free-methods-to-address-the-fm20dll-not-found-computer-glitch/"><u>Trouble-Free Methods to Address the 'fm20.dll Not Found' Computer Glitch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755292-ultimate-hardware-hub-dive-into-toms-tech-reviews-today/"><u>Ultimate Hardware Hub: Dive Into Tom's Tech Reviews Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Still Available at a $80 Discount: Apple's 2Nd Gen Watch SE Post-Prime Day Analysis by ZDnet"
-date: 2024-09-18 17:28:40
-updated: 2024-09-20 10:17:37
+date: 2024-10-19T16:22:18.531Z
+updated: 2024-10-26T16:23:08.604Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creating-revenue-in-gamer-channels-for-2024/"><u>[New] Creating Revenue in Gamer Channels for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-guide-to-downloading-igtv-videos-on-pcmac-os-for-2024/"><u>[New] Step-by-Step Guide to Downloading IGTV Videos on PC/Mac OS for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-new-era-of-videography-aspect-ratios-mandatory-for-2024/"><u>[New] Twitter's New Era of Videography Aspect Ratios Mandatory for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-v30t-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme V30T Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-anonymization-techniques-to-blur-faces/"><u>Advanced Anonymization Techniques to Blur Faces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakthrough-bargain-snag-crucial-hyper-fast-4tb-t700-ssd-with-gen-5-pcie-at-unparalleled-price-of-just-9-cents-per-gb/"><u>Breakthrough Bargain: Snag Crucial Hyper-Fast 4TB T700 SSD with Gen 5 PCIe at Unparalleled Price of Just 9 Cents per GB</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-wd-blue-sn5000-4tb-ssd-exploring-western-digitals-newest-entry-in-high-capacity-drives/"><u>Comprehensive Analysis of the WD Blue SN5000 4TB SSD – Exploring Western Digital's Newest Entry in High Capacity Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-klevv-cras-c93/"><u>Comprehensive Evaluation of KLEVV CRAS C93</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-analysis-by-toms-computing-experts/"><u>Comprehensive Hardware Analysis by Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsair-mp700-pro-se-ssd-examined-enhanced-features-and-performance/"><u>Corsair MP700 Pro SE SSD Examined: Enhanced Features & Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/deciphering-trillers-unique-positioning-amidst-social-media-titles-for-2024/"><u>Deciphering Triller's Unique Positioning Amidst Social Media Titles for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-performance-and-price-the-patriot-viper-vp43nlite-ssd-with-massive-4tb-storage/"><u>Deep Dive Into Performance & Price - The Patriot Viper VP43nLite SSD with Massive 4TB Storage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-digital-tools-with-toms-hardware-reviews/"><u>Discover the Best in Digital Tools with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-artificial-intelligence-sk-hynix-debuts-revolutionary-pcie-50-ssd-technology/"><u>Embracing Artificial Intelligence - SK Hynix Debuts Revolutionary PCIe 5.0 SSD Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723864253042-exclusive-offer-get-the-4tb-crucial-p3-plus-nvme-gen4-solid-state-drive-at-an-unbelievable-price-of-just-005gb/"><u>Exclusive Offer: Get the 4TB Crucial P3 Plus NVMe Gen4 Solid State Drive at an Unbelievable Price of Just $0.05/GB</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-xs-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone XS Space | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y27s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y27s Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-streams-for-gamers-unveiled-for-2024/"><u>Ultimate Streams for Gamers Unveiled for 2024</u></a></li>
+</ul></div>
+

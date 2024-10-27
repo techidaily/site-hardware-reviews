@@ -1,7 +1,7 @@
 ---
 title: "Gear Up for Classes with Top Deals From Samsung: Laptops, Tablets & More at Student Rates | Insider Tips"
-date: 2024-10-14T03:18:10.815Z
-updated: 2024-10-21T02:31:18.976Z
+date: 2024-10-23T23:22:31.034Z
+updated: 2024-10-26T17:37:14.267Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -64,10 +64,10 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -83,10 +83,10 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -100,10 +100,10 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -148,20 +148,14 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-maximizing-video-quality-in-steam-game-recording/"><u>[New] 2024 Approved Maximizing Video Quality in Steam Game Recording</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-expert-tips-for-efficient-instagram-to-mp4-transformation/"><u>[Updated] 2024 Approved Expert Tips for Efficient Instagram to MP4 Transformation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-7-essential-secrets-for-delectable-cooking-clips/"><u>[Updated] 7 Essential Secrets for Delectable Cooking Clips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-selfie-verfication-is-it-really-useful/"><u>[Updated] Instagram Video Selfie Verfication - Is It Really Useful?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-breakdown-top-picks-and-reviews-from-toms-experts/"><u>Advanced Gadget Breakdown: Top Picks and Reviews From Tom's Experts</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/comparing-heif-and-jpeg-a-detailed-analysis-of-image-quality-and-file-compression/"><u>Comparing HEIF & JPEG: A Detailed Analysis of Image Quality and File Compression</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341687948-dominate-your-pc-builds-in-depth-test-of-gskill-trident-z5-rgb-ddr5-ram-at-6400clk-pairs-perfectly-for-2x48gb-on-quadruple-channel-boards/"><u>Dominate Your PC Builds: In-Depth Test of G.SKILL Trident Z5 RGB DDR5 RAM at 6400CLK, Pairs Perfectly for 2X48GB on Quadruple-Channel Boards!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-g6x-gaming-laptop-solid-execution-lacks-exceptional-qualities/"><u>In-Depth Analysis of the Gigabyte G6X Gaming Laptop: Solid Execution Lacks Exceptional Qualities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-components-with-toms-technology-reviews/"><u>Navigating the World of Components with Tom’s Technology Reviews</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/resolve-instagrams-video-problems-swiftly/"><u>Resolve Instagram's Video Problems Swiftly</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ultimate-guide-to-online-portals-for-text-artistry-for-2024/"><u>Ultimate Guide to Online Portals for Text Artistry for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-in-depth-reviews-of-pc-hardware/"><u>Unveiling Gadgets with Tom: In-Depth Reviews of PC Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-powerhouse-a-comprehensive-review-of-asuss-latest-tri-band-7-ghz-wireless-router-rt-be96u/"><u>Unveiling the Powerhouse: A Comprehensive Review of Asus's Latest Tri-Band 7 GHz Wireless Router - RT-BE96U</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-goofy-adventure-a-critical-appraisal-videotape-edition-for-2024/"><u>'The Goofy Adventure' - A Critical Appraisal Videotape Edition for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieving-no-cost-entertainment-with-these-tips-on-getting-netflix-gratis/"><u>Achieving No-Cost Entertainment with These Tips on Getting Netflix Gratis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/archive-of-awe-high-quality-gif-preservation-for-tweeters-for-2024/"><u>Archive of Awe High-Quality GIF Preservation for Tweeters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/automated-conversion-tracking-with-cookiebot/"><u>Automated Conversion Tracking with Cookiebot</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-reviews-and-analysis-by-toms-hardware-experts/"><u>Innovative Tech Reviews and Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/twitch-live-streams-2022-how-to-save-your-favorite-videos/"><u>Twitch Live Streams 2022 - How To Save Your Favorite Videos</u></a></li>
 </ul></div>
 

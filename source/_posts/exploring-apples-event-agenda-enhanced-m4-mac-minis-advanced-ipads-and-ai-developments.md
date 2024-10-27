@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Event Agenda: Enhanced M4 Mac Minis, Advanced iPads, and AI Developments"
-date: 2024-10-16T23:25:28.821Z
-updated: 2024-10-20T23:53:14.422Z
+date: 2024-10-21T16:09:42.935Z
+updated: 2024-10-26T18:58:48.552Z
 tags:
   - laptops
 categories:
@@ -41,16 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -66,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +77,16 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,22 +129,14 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-safeguarding-your-digital-footprint-on-youtube/"><u>[New] 2024 Approved Safeguarding Your Digital Footprint on YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-icy-acceleration-olympics-best-from-2022-short-tracks/"><u>[Updated] 2024 Approved Icy Acceleration Olympics' Best From 2022 Short Tracks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-snapshots-of-sound-characters-short-musical-roles/"><u>[Updated] In 2024, Snapshots of Sound Characters Short Musical Roles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-access-to-xps-movie-making-tools/"><u>2024 Approved Quick Access to XP's Movie Making Tools</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-y100i-power-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y100i Power 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-lenovo-yoga-pro-9i-assessment-insight-on-durable-keyboard-and-slim-design/"><u>Comprehensive Lenovo Yoga Pro 9I Assessment: Insight on Durable Keyboard & Slim Design</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nokia-g310-lock-screen-password-by-drfone-android/"><u>How to Reset your Nokia G310 Lock Screen Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-smart-8-plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Smart 8 Plus by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-newly-launched-geekworm-x1011-network-storage-device/"><u>In-Depth Look at the Newly Launched GeekWorm X1011 Network Storage Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-horizons-in-depth-analysis-by-toms-hardware-experts/"><u>Navigating New Tech Horizons: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-insights/"><u>Navigating the World of Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-fold-7-update-anticipated-costs-release-timeline-tech-specs-and-buzzworthy-rumors-revealed/"><u>Samsung Galaxy Z Fold 7 Update: Anticipated Costs, Release Timeline, Tech Specs & Buzzworthy Rumors Revealed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-plating-palette-techniques-for-food-cinematography-for-2024/"><u>The Plating Palette Techniques for Food Cinematography for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-lofree-edge-delicate-and-pricy-against-apples-magic-type-cover/"><u>Unboxing the Lofree Edge: Delicate and Pricy Against Apple’s Magic Type Cover</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-premium-gaming-performance-with-the-budget-friendly-acer-predator-orion-5000-reviewed/"><u>Unlocking Premium Gaming Performance with the Budget-Friendly Acer Predator Orion 5000 - Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-lenovo-yoga-pro-cuarto-de-hora-a-critique-on-its-enduring-keyboard-and-lightweight-structure/"><u>Unveiling the Lenovo Yoga Pro Cuarto De Hora - A Critique on Its Enduring Keyboard and Lightweight Structure</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strongest-nvme-cooling-solution-on-the-market-the-ultimate-teamgroup-t-force-dark-airflow-i-heatsink-review/"><u>Unveiling the Strongest NVMe Cooling Solution on the Market - The Ultimate TeamGroup T-Force Dark AirFlow I Heatsink Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-powerful-literary-trailer-vids/"><u>[New] In 2024, Powerful Literary Trailer Vids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat10/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/crop-trim-and-refine-mastering-image-editing-in-fcpx/"><u>Crop, Trim, and Refine Mastering Image Editing in FCPX</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-seamless-spotify-links-on-windows-11-pc/"><u>Ensuring Seamless Spotify Links on Windows 11 PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/halo75-v2-expert-analysis-budget-friendly-premium-mechanical-keyboard/"><u>Halo75 V2 Expert Analysis: Budget-Friendly Premium Mechanical Keyboard</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-techniques-eradicating-apex-legends-engine-mishaps-with-our-step-by-step-guide/"><u>Master the Techniques: Eradicating Apex Legends Engine Mishaps with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-toms-hardware-comprehensive-tech-insights/"><u>The Ultimate Guide to Tom's Hardware: Comprehensive Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Joyful Tears of Upgrading to Apple's Latest M2 MacBook Air - A Review by ZDNET
-date: 2024-10-14T18:20:36.414Z
-updated: 2024-10-21T04:38:11.569Z
+date: 2024-10-24T22:41:42.955Z
+updated: 2024-10-26T22:24:17.104Z
 tags:
   - laptops
 categories:
@@ -36,6 +36,13 @@ Until I'm sure I don't just want it, but need it.
 
 Oh, all right, I may occasionally have a flexible definition of _need_.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The weakness. I just can't bear the weakness
 
 I worried, though, when Apple released the [M2 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). 
@@ -53,10 +60,10 @@ But the M2 MacBook Air seemed to represent a departure from the old Air design. 
 There were two things I kept staring at: the midnight color and the new, non-tapered shape.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -73,16 +80,22 @@ And then there was the remarkable fact that an Apple store actually had the [mid
 
 Resistance was futile. Actually, it was non-existent, even if I still wondered whether this laptop could possibly be worth it.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The lies I'd told myself
 
 With almost every gadget, it's one thing to play with it in a store. It's quite another to bring it into your daily life -- and I use a laptop at least 12 hours a day.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -107,13 +120,6 @@ Some (like ZDNET's [review of the M2 MacBook Air](https://www.zdnet.com/article/
 
 I've also noticed that MagSafe isn't quite what it used to be. Previously, it had flown out of its socket with minimal force. Now, you have to give it a perceptible tug before it detaches. I can't decide whether this is good or bad. I do like the sturdier feel of the cable, however. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## It's all ending in tears
 
 All right, you've had enough of me telling you that my head's been turned by the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2022-MacBook-24GB-Storage%2Fdp%2FB0BBYTHLX9%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C18aa5cd3-f048-4d8d-ad79-0a198584f44a%7Cdtp&dtb=1) \-- did I mention it's a gorgeous midnight color?
@@ -125,16 +131,10 @@ So, as I write this, I'm staring into space, blaring at myself for being so impu
 You see, but weeks after I bought my M2 Air, [the price began to descend](https://www.zdnet.com/article/apple-macbook-air-laptop-2022-m2-chip-cyber-monday-deals-2022-lowest-prices-ever/). Then it descended even more. Perhaps this is something to do with [the market prospects for laptops in 2023](https://www.zdnet.com/article/theres-a-long-cold-winter-ahead-for-pc-makers-that-could-be-good-news-for-pc-buyers/).
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -183,24 +183,18 @@ Unless, that is, you're selling [a perfectly functional robot dog](https://www.z
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-obs-studio-for-professional-gamers/"><u>[New] 2024 Approved OBS Studio for Professional Gamers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-iphones-darkest-hours-decoded-for-photographers-for-2024/"><u>[New] IPhone's Darkest Hours Decoded for Photographers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-pioneering-tools-top-5-cloud-based-videography-platforms/"><u>[Updated] 2024 Approved Pioneering Tools Top 5 Cloud-Based Videography Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-compreeved-analysis-a-full-review-of-the-gecata-device/"><u>[Updated] In 2024, Compreeved Analysis A Full Review of the Gecata Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/acer-predator-helios-14-powerful-gaming-in-a-slim-package/"><u>Acer Predator Helios 14: Powerful Gaming in a Slim Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bytesavvy-insights-unveiling-the-top-rated-electronics-of-the-year/"><u>ByteSavvy Insights: Unveiling the Top-Rated Electronics of the Year</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/defining-a-cognitive-computing-system-necessity-for-your-tech-arsenal/"><u>Defining a Cognitive Computing System: Necessity for Your Tech Arsenal?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-how-to-retrieve-your-car-stereos-unique-access-code-with-ease/"><u>Discover How to Retrieve Your Car Stereo's Unique Access Code with Ease</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-future-of-computers-through-toms-hardware-experts/"><u>Discovering the Future of Computers Through Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enter-the-arena-dominate-your-favorite-games-on-a-budget-with-the-899-legion-slim-5-by-lenovo-featuring-an-rtx-4060-gpu/"><u>Enter the Arena! Dominate Your Favorite Games on a Budget With The $899 Legion Slim 5 by Lenovo, Featuring an RTX 4060 GPU.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862683628-exclusive-preview-dells-latest-tech-unleashed-xps-and-inspiron-laptops-powered-by-qualcomm-snapdragon-ready-for-q3-launch/"><u>Exclusive Preview: Dell's Latest Tech Unleashed – XPS and Inspiron Laptops Powered by Qualcomm Snapdragon Ready for Q3 Launch</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-hub/"><u>Expert Advice on Computer Components From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-gear-by-toms-electronics-hub/"><u>Expert Analysis on PC Gear by Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862704498-hurry-exclusive-deal-on-the-rog-strix-g16-2024-just-1164-available-now-on-amazon/"><u>Hurry! Exclusive Deal on the ROG Strix G16 2024: Just $1,164 Available Now on Amazon</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-s24-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy S24 FRP Bypass Instantly</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeos-global-distribution-guide/"><u>In 2024, Vimeo's Global Distribution Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ate-screenshot-tools-for-youtube-live-sharing-for-2024/"><u>Ultimate Screenshot Tools for YouTube Live Sharing for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-selection-of-ipad-trackpad-devices/"><u>Ultimate Selection of iPad Trackpad Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175648404-unbeatable-deal-on-the-top-value-choice-thermalright-phantom-spirit-120-se-for-just-35/"><u>Unbeatable Deal on The Top Value Choice: Thermalright Phantom Spirit 120 SE for Just $35</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-new-youtube-earning-rules-unveiled/"><u>2024 Approved New YouTube Earning Rules Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/accelerating-your-workflow-with-lexar-ssds-the-sl500-and-professional-sl600-breakdown-for-speeds-beyond-20gbps/"><u>Accelerating Your Workflow with Lexar SSDs: The SL500 & Professional SL600 Breakdown for Speeds Beyond 20Gbps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyzing-the-impact-the-role-of-akasas-blower-type-gecko-in-maintaining-optimal-ssd-temperatures/"><u>Analyzing the Impact: The Role of Akasa's Blower-Type Gecko in Maintaining Optimal SSD Temperatures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-your-m4a-files-to-mp3-for-free-with-movavis-web-based-audio-editor/"><u>Convert Your M4A Files to MP3 for Free with Movavi's Web-Based Audio Editor</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-entertainment-a-thousand-gaming-channels/"><u>Elevate Entertainment A Thousand Gaming Channels</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/every-revealed-title-for-the-new-playstation-vr-a-comprehensive-list/"><u>Every Revealed Title for the New PlayStation VR²: A Comprehensive List</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-online-meetings-from-zoom-to-the-big-screen-television/"><u>How To: Project Your Online Meetings From Zoom to the Big Screen Television</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exemplary-6-online-communities-for-corporate-growth/"><u>In 2024, Exemplary 6 Online Communities for Corporate Growth</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-rog-azoth-extreme-at-500-value/"><u>In-Depth Analysis of the Asus ROG Azoth Extreme at $500 Value</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kingstons-fury-beast-ddr5-ram-5000mhz-cas-latency-40-in-depth-2x32gb-memory-module-evaluation/"><u>Kingston's Fury Beast DDR5 RAM (5,000MHz CAS Latency 40) - In-Depth 2X32GB Memory Module Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-space-and-speed-detailed-insights-into-the-asus-rog-nuc-970-compact-desktop-system/"><u>Mastering Space and Speed: Detailed Insights Into the Asus ROG NUC 970 Compact Desktop System</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-server-2003hdd/"><u>Windows Server 2003のHDDクローニング手順:再インストール不要</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-how-microsoft-copilot-and-temu-leveraged-super-bowl-advertising-for-download-success/"><u>ZDNet Exclusive: How Microsoft Copilot and Temu Leveraged Super Bowl Advertising for Download Success!</u></a></li>
 </ul></div>
 

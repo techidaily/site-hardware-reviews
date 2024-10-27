@@ -1,7 +1,7 @@
 ---
 title: "Top Durable Laptop Picks : A Guide by ZDNet"
-date: 2024-10-16T02:58:37.780Z
-updated: 2024-10-20T16:11:14.822Z
+date: 2024-10-22T23:22:08.103Z
+updated: 2024-10-26T19:35:59.469Z
 tags:
   - laptops
 categories:
@@ -94,18 +94,18 @@ Asus/ZDNET
 * [MSI Thin 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) (2023) for $920 ($79 off) - As its name implies, the Thin 15 is an ultraportable gaming machine with an Intel Core i7 processor and Nvidia RTX 4050 graphics card along with a 15.6-inch, 144Hz display. Last year's version is a solid gaming option under that $1,000 price point.
 * [Asus TUF Gaming A15 (2024)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51%2Fdp%2FB0CRDF25TQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $599 ($100 off) - The TUF line of laptops features solid gaming hardware along with military-grade durability. The A15 is a solid gaming laptop that fits this description to a T, marked way down to a competitive price for 8GB of RAM, 512GB of storage, and an Nvidia GeForce RTX 2050 graphics card.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best laptops for photo editing
 
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $545 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
 
@@ -116,6 +116,13 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C979bbd0c-a412-4517-8c3d-2e33ea5f9085%7Cdtp&dtb=1) for $699 (save $300): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -130,31 +137,17 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
@@ -171,6 +164,13 @@ When compiling the list of the best deals, we considered the following:
 * **Price**: Naturally, the price point of our recommended laptops has to include a worthwhile discount. While some discounts are small in relation to an overall price tag - for example, $30 off a $150 device - and other discounts are in the hundreds of dollars, we wanted to ensure that in any case, it's value for money.
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
 
@@ -238,22 +238,16 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-adding-dimension-to-text-in-adobe-illustrator/"><u>[Updated] Adding Dimension to Text in Adobe Illustrator</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-path-free-and-safe-vlc-installer-for-macos-users/"><u>2024 Approved Navigating the Path Free and Safe VLC Installer for macOS Users</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/2024outlook-pst/"><u>专业人士必用：2024年最佳Outlook PST备份解决方案</u></a></li>
-<li><a href="https://facebook.techidaily.com/breaking-down-social-media-downtime-reasons/"><u>Breaking Down Social Media Downtime Reasons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asrocks-value-packed-b760m-pro-rs-affordable-and-feature-filled/"><u>Comprehensive Guide to ASRock's Value-Packed B760M Pro RS: Affordable & Feature-Filled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-and-components-on-tomtechreviews-your-trusted-source-for-insights/"><u>Discover Top Gadgets and Components on TomTechReviews – Your Trusted Source for Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-hardware-from-toms-domain/"><u>Expert Insights on Latest Hardware From Tom's Domain</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-solid-reliability-of-the-asus-tuf-gaming-a14-unit/"><u>Exploring the Solid Reliability of the Asus TUF Gaming A14 Unit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-10-high-quality-passport-photos-available-here/"><u>Free 10 High-Quality Passport Photos Available Here</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-rethinking-recipes-squared-up-tutorials-for-youtube-and-facebook-success/"><u>In 2024, Rethinking Recipes Squared-Up Tutorials for YouTube and Facebook Success</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/is-asus-rog-keris-ii-ace-the-new-king-of-gamers-deathadder-v3-pro-vs-keris-ii-ace-reviewed/"><u>Is Asus ROG Keris II Ace the New King of Gamers? DeathAdder V3 Pro vs Keris II Ace Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-under-pressure-the-ultimate-guide-to-optimizing-cooling-with-5cuum-tower-plus-for-raspberry-pi-45/"><u>Stay Chilled Under Pressure: The Ultimate Guide to Optimizing Cooling with '5Cuum Tower Plus for Raspberry Pi 4/5</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-next-gen-tech-devices-by-toms-hardware-authority/"><u>The Definitive Guide to Next-Gen Tech Devices by Tom's Hardware Authority</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-star-wars-jedi-fallen-order-crashing-problem-on-pc/"><u>Troubleshooting Tips: Solving Star Wars Jedi: Fallen Order Crashing Problem on PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-unleashed-teamgroup-t-force-dark-airflow-i-nvme-cooler-in-depth-review/"><u>Ultimate Performance Unleashed: TeamGroup T-Force Dark AirFlow I NVMe Cooler In-Depth Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-distrust-in-artificial-intelligence-isnt-extreme/"><u>Why Distrust in Artificial Intelligence Isn't Extreme</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-free-software-selection-8-advanced-low-cost-3d-vids-plugins/"><u>[Updated] In 2024, Top Free Software Selection 8 Advanced, Low-Cost 3D Vids Plugins</u></a></li>
+<li><a href="https://article-tips.techidaily.com/10-essential-meme-blueprints/"><u>10 Essential Meme Blueprints</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-mastering-fast-thumbnail-design-for-valorants-highlighted-screenshots/"><u>2024 Approved Mastering Fast Thumbnail Design for Valorant's Highlighted Screenshots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts/"><u>2024 Approved Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-nuc-970-mini-pc-assessment-high-performance-powerhouse-in-a-small-form-factor/"><u>Asus ROG NUC 970 Mini PC Assessment: High-Performance Powerhouse in a Small Form Factor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-the-definitive-resource-on-pc-gear/"><u>Exploring Hardware with Tom: The Definitive Resource on PC Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-more-storage-on-a-budget-with-asrocks-m2-b760-motherboard-review/"><u>Get More Storage on a Budget with ASRock's M.2 B760 Motherboard Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-hp-omnibook-x-experience-a-comprehensive-dive-into-its-16-hour-battery-life-and-xpower-technology/"><u>Inside the HP OmniBook X Experience: A Comprehensive Dive Into Its 16-Hour Battery Life and XPower Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-youtube-video-scriptwriting-with-chatgpts-powerful-tools/"><u>Master the Art of YouTube Video Scriptwriting with ChatGPT's Powerful Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-at-toms-tech-hub/"><u>Navigating the World of PC Components at Tom's Tech Hub</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-online-video-editors-compatible-with-chromebook/"><u>Updated Top-Rated Online Video Editors Compatible with Chromebook</u></a></li>
 </ul></div>
 

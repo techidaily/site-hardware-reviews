@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Most Durable Smartwatches of 2024: Tested, Reviewed, and Ranked | Insights by ZDNET"
-date: 2024-09-17 10:35:38
-updated: 2024-09-20 12:46:50
+date: 2024-10-20T22:17:53.772Z
+updated: 2024-10-27T01:07:06.133Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +96,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +112,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-best-budget-friendly-video-stock-sites/"><u>[New] 2024 Approved Best Budget-Friendly Video Stock Sites</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715837993967-updated-the-7-best-fps-games/"><u>[Updated] The 7 Best FPS Games</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-ios-screenshoting-hack/"><u>[Updated] The Ultimate iOS Screenshoting Hack</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-eco-conscious-cinematography-setups-guide-for-2024/"><u>[Updated] Ultimate Eco-Conscious Cinematography Setups Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-how-to-film-seamless-ocean-vibes-with-these-7-hacks/"><u>2024 Approved How to Film Seamless Ocean Vibes with These 7 Hacks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-color-grading-with-luts-in-pscc/"><u>2024 Approved Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmarking-the-best-a-review-of-lexars-premium-ssd-range-including-the-sl500-and-sl600-featuring-turbocharged-speeds-of-up-to-20-gbps/"><u>Benchmarking the Best: A Review of Lexar's Premium SSD Range Including the SL500 and SL600, Featuring Turbocharged Speeds of Up to 20 Gbps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-cooler-master-ion-360-all-in-one-liquid-cooling-system-progress-and-pitfalls/"><u>Comprehensive Analysis of the Cooler Master ION 360 All-In-One Liquid Cooling System: Progress and Pitfalls</u></a></li>
+<li><a href="https://win-data.techidaily.com/conversion-of-heic-photos-from-iphone-or-pc-to-jpg-using-dropbox-step-by-step-guide/"><u>Conversion of HEIC Photos From iPhone or PC to JPG Using Dropbox - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-dough-spectrum-black-oled-gaming-display-27-masterpiece/"><u>Expert Analysis of the Dough Spectrum Black OLED Gaming Display - 27 Masterpiece</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-logitech-g515-lightspeed-combining-low-profile-style-with-cost-effective-performance/"><u>Expert Insight on Logitech G515 Lightspeed: Combining Low Profile Style with Cost-Effective Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-before-you-fly-drone-purchase-tips-and-considerations/"><u>In 2024, Before You Fly Drone Purchase Tips and Considerations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-and-the-copilotplus-experience-gorgeous-hardware-yet-ai-innovations-leave-something-to-be-desired/"><u>Microsoft Surface Pro and the Copilot+ Experience: Gorgeous Hardware, Yet AI Innovations Leave Something to Be Desired</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventive-measures-such-as-protective-eyewear-can-significantly-reduce-the-risk-of-ocular-trauma/"><u>Preventive Measures Such as Protective Eyewear Can Significantly Reduce the Risk of Ocular Trauma</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/securely-removing-the-windowsapps-folder-on-windows-11-a-step-by-step-guide/"><u>Securely Removing the WindowsApps Folder on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/titan-armys-value-packed-warrior-in-depth-analysis-of-180hz-performance-and-quality-in-the-p27a2r-gaming-monitor/"><u>Titan Army's Value-Packed Warrior: In-Depth Analysis of 180Hz Performance & Quality in the P27A2R Gaming Monitor</u></a></li>
+</ul></div>
+

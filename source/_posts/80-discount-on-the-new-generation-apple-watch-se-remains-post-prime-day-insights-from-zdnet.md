@@ -1,7 +1,7 @@
 ---
 title: $80 Discount on the New Generation Apple Watch SE Remains Post-Prime Day – Insights From ZDNet
-date: 2024-09-19 14:41:18
-updated: 2024-09-20 12:58:22
+date: 2024-10-24T00:25:50.651Z
+updated: 2024-10-26T17:46:28.353Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,19 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-guide-to-peak-performance-posting-times-for-insta-success/"><u>[New] In 2024, A Guide to Peak Performance Posting Times for Insta Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-5-secrets-for-increasing-your-video-writes/"><u>[New] Maximizing Impact 5 Secrets for Increasing Your Video' Writes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-and-evaluation-of-ankers-premium-26800mah-battery-pack-setup/"><u>Comprehensive Guide and Evaluation of Anker's Premium 26800mAh Battery Pack Setup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-make-your-fb-messages-go-global-solve-video-send-issues-iosandroid/"><u>How to Make Your FB Messages Go Global Solve Video Send Issues iOS/Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-security-made-easy-learn-how-to-block-no-caller-id-and-hide-private-numbers-incoming-calls/"><u>IPhone Security Made Easy: Learn How to Block No Caller ID and Hide Private Numbers Incoming Calls</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-art-of-smooth-transitions-l-cuts-and-j-cuts-in-final-cut-pro-x-for-2024/"><u>New The Art of Smooth Transitions L-Cuts and J-Cuts in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pis-latest-budget-friendly-upgrade-the-new-2gb-ram-option-for-enthusiasts/"><u>Raspberry Pi's Latest Budget-Friendly Upgrade: The New 2GB RAM Option for Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-jmgo-n1s-laser-projector-excellent-imaging-with-an-exceptional-designed-stand/"><u>Review of JMGO N1S Laser Projector - Excellent Imaging with an Exceptional Designed Stand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rising-cost-of-hard-drives-discover-affordable-options-and-secrets/"><u>Rising Cost of Hard Drives? Discover Affordable Options and Secrets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-discovery-sale-unbeatable-deal-on-the-top-ultrawide-displays-save-600-now/"><u>Samsung Discovery Sale: Unbeatable Deal on the Top Ultrawide Displays - Save $600 Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/satechi-dual-purpose-qi2-charger-unveiled-compact-and-versatile-wireless-power-solution-for-modern-gadgets/"><u>Satechi Dual-Purpose Qi2 Charger Unveiled: Compact and Versatile Wireless Power Solution for Modern Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-the-best-with-savings-must-have-headphones-offered-exclusively-during-prime-day/"><u>Score the Best with Savings! Must-Have Headphones Offered Exclusively During Prime Day</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamline-your-music-library-6-free-ios-apps-for-youtube-conversion-for-2024/"><u>Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-display-technology-how-qdel-screens-surpass-oled-limitations/"><u>The Future of Display Technology: How QDEL Screens Surpass OLED Limitations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-best-free-wmv-video-cutters/"><u>Updated 2024 Approved Discover the Best Free WMV Video Cutters</u></a></li>
+</ul></div>
+

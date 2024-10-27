@@ -1,7 +1,7 @@
 ---
 title: Top Picks for Hybrid-Friendly ThinkPads That Aren't Just Recent Releases | Expert Insights From ZDNet
-date: 2024-10-13T16:30:42.305Z
-updated: 2024-10-21T00:36:42.168Z
+date: 2024-10-24T19:26:37.885Z
+updated: 2024-10-27T00:09:16.456Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,18 +111,21 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effective-method-for-adding-music-to-facebook-iphone/"><u>[Updated] 2024 Approved Effective Method for Adding Music to Facebook (iPhone)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-journey-through-the-land-of-costless-image-mastery/"><u>[Updated] Journey Through the Land of Costless Image Mastery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-insights-identifying-your-posts-audience/"><u>2024 Approved Instagram Insights Identifying Your Post's Audience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-keris-ii-ace-the-gamers-choice-over-deathadder-v3-pro-in-depth-review/"><u>Asus ROG Keris II Ace: The Gamer's Choice Over DeathAdder V3 Pro - In-Depth Review</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-multitasking-game-setting-up-picture-in-picture-mode-on-android/"><u>Boost Your Multitasking Game: Setting Up Picture-in-Picture Mode on Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-perspective-on-gigabytes-g6x-laptop-competent-but-without-any-standout-features/"><u>Gamers' Perspective on Gigabyte's G6X Laptop: Competent but Without Any Standout Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correctly-unstrand-your-gaming-experience-in-windows/"><u>How to Correctly Unstrand Your Gaming Experience in Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-6s-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 6s Stuck On Activation Lock?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-augmented-gaming-experience-the-top-8-list/"><u>In 2024, Augmented Gaming Experience The Top 8 List</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trends-the-ultimate-resource-from-toms-hardware/"><u>Navigating New Tech Trends - The Ultimate Resource From Tom's Hardware</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pioneering-top-vr-movies-for-enjoyment/"><u>Pioneering Top VR Movies for Enjoyment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-silly-sphere-the-most-amusing-youtuber-shows-today/"><u>[Updated] In 2024, Silly Sphere The Most Amusing YouTuber Shows Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-turning-youtube-viewers-into-brand-partners/"><u>2024 Approved The Ultimate Guide to Turning Youtube Viewers Into Brand Partners</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y02t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-evaluation-stunning-volume-and-quality/"><u>BlueAnt Soundblade Evaluation: Stunning Volume & Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computers-from-toms-gear-experts/"><u>Expert Advice on Computers From Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-in-depth-analysis-at-toms-hardware-hub/"><u>Explore Top Tech: In-Depth Analysis at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Pattern Lock Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insiders-selection-prime-vr-device-picks/"><u>In 2024, Insider's Selection Prime VR Device Picks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macos-and-networking-the-ultimate-guide-to-flush-dns-caches/"><u>MacOS and Networking: The Ultimate Guide to Flush DNS Caches</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-joins-with-pearson-learning-networks/"><u>Mondly Joins With Pearson Learning Networks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Review - Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g2/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-lenovo-yoga-pro-9i-striking-a-balance-between-weightlessness-and-durable-keyboard/"><u>Unboxing and Testing the Lenovo Yoga Pro 9I: Striking a Balance Between Weightlessness and Durable Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-integrating-codegpt-into-your-visual-studio-workflow/"><u>Unlock the Power of AI: Integrating CodeGPT Into Your Visual Studio Workflow</u></a></li>
 </ul></div>
 

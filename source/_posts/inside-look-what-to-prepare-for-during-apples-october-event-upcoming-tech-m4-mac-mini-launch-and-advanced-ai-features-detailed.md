@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: What to Prepare for During Apple's October Event - Upcoming Tech, M4 Mac Mini Launch, and Advanced AI Features Detailed."
-date: 2024-10-18T17:26:01.821Z
-updated: 2024-10-21T05:29:33.139Z
+date: 2024-10-24T22:25:36.448Z
+updated: 2024-10-26T18:22:21.125Z
 tags:
   - laptops
 categories:
@@ -41,16 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -66,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,20 +123,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/eamless-youtube-to-wav-4-budget-friendly-solutions-revealed/"><u>[New] Seamless YouTube to WAV 4 Budget-Friendly Solutions Revealed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-most-popular-vr-cycling-worlds-for-2024/"><u>[Updated] Discover the Most Popular VR Cycling Worlds for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breakdown-and-examination-of-the-groundbreaking-4tb-wd-blue-sn50e-drive-by-western-digital/"><u>Breakdown and Examination of the Groundbreaking 4TB WD Blue SN50e Drive by Western Digital</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960036309-externalities-are-costs-or-benefits-incurred-by-third-parties-who-did-not-choose-to-be-affected/"><u>Externalities Are Costs or Benefits Incurred by Third Parties Who Did Not Choose to Be Affected</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-14-plus-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-tips-and-tricks-by-toms-hardware/"><u>Navigate the Tech World: Tips & Tricks by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ncaa-mens-hoops-roadshow-from-march-frenzy-to-final-four-triumphs/"><u>NCAA Men's Hoops Roadshow: From March Frenzy to Final Four Triumphs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-fit-review-a-wearable-for-your-active-lifestyle/"><u>Samsung Galaxy Fit Review: A Wearable for Your Active Lifestyle</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-if-you-cannot-open-microsoft-outlook/"><u>Step-by-Step Fixes if You Cannot Open Microsoft Outlook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides & Reviews</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pickup-monitors-of-2024-4k-ultra-hd-and-gaming-features/"><u>Top Pickup Monitors of 2024: 4K Ultra HD & Gaming Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-decoding-steps-to-access-your-channels-eyeballs/"><u>[New] 2024 Approved Decoding Steps to Access Your Channel's Eyeballs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-banish-soundless-tweets-live-the-sounds/"><u>[Updated] In 2024, Banish Soundless Tweets Live the Sounds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/aiff-wmamovavi/"><u>免費線上AIFF WMA格式過渡應用Movavi程式碼解決方案</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-coding-game-with-these-5-exceptional-ai-powered-tools-for-vs-code/"><u>Elevate Your Coding Game with These 5 Exceptional AI-Powered Tools for VS Code</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-technology-reviews-hardware-and-more/"><u>Expert Insights From Tom's Technology Reviews: Hardware and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-in-depth-hardware-insights/"><u>Exploring Technology with Tom: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-corsair-mp600-mini-1tb-m2-2280e27t-ssd-evaluation-top-of-the-line-performance-in-a-compact-form-factor/"><u>In-Depth Corsair MP600 Mini 1TB (M.2 2280/E27T) SSD Evaluation: Top of the Line Performance in a Compact Form Factor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-tom-insights-and-reviews-by-toms-gear/"><u>Navigating Hardware with Tom: Insights & Reviews by Tom's Gear</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-driverpowerstatefailure-error-effectively/"><u>Resolving the DRIVER_POWER_STATE_FAILURE Error Effectively</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5!</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/switching-from-ssd-to-traditional-hdd-under-windows-10-and-11-using-secure-boot-technology/"><u>Switching From SSD to Traditional HDD Under Windows 10 and 11 Using Secure Boot Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-reno-11-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo Reno 11 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

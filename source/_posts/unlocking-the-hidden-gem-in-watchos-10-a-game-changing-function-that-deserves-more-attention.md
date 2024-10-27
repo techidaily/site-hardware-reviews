@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Hidden Gem in WatchOS 10: A Game-Changing Function That Deserves More Attention"
-date: 2024-09-19 21:17:12
-updated: 2024-09-20 11:40:35
+date: 2024-10-25T17:53:49.999Z
+updated: 2024-10-27T00:35:00.121Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +108,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-lit-tales-in-just-a-minute/"><u>[New] 2024 Approved Lit Tales in Just a Minute</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-upgrade-samsung-bdplus-k850-review-update-2023/"><u>[Updated] In 2024, The Ultimate Upgrade Samsung BD+ K850 Review Update 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-dji-phantom-3-pros-innovations/"><u>[Updated] Navigating the DJI Phantom 3 Pro's Innovations</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726223663865-movavimxfwmv/"><u>無料でMovaviを使って、オンラインでMXF形式をWMVに変換 - フリー・ヴィデオコンバータ</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creatives-making-marvel-virtual-worlds-vivid/"><u>Creatives Making Marvel Virtual Worlds Vivid</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-audio-live-vids/"><u>Elite Audio Live Vids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-gadgets-and-hardware-from-toms-hardware/"><u>Expert Insights on Gadgets and Hardware From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-guide-to-hardware/"><u>Exploring the Latest in Technology with Tom's Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-your-perfect-pc-part-with-toms-hardware-advice/"><u>Find Your Perfect PC Part with Tom's Hardware Advice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-defy-2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Defy 2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-technology-hub/"><u>In-Depth Gadget Analysis by Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-toms-technology-experts/"><u>In-Depth Hardware Analysis by Tom's Technology Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intels-raptor-lake-and-refresh-chip-instability-cured-discover-the-power-of-the-latest-asus-firmware-upgrade-for-gamers/"><u>Intel's Raptor Lake & Refresh Chip Instability Cured - Discover the Power of the Latest Asus Firmware Upgrade for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-toms-hardware-top-tips-and-analysis/"><u>Master Your Gadgets with Tom's Hardware – Top Tips and Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-convenience-a-how-to-for-activating-auto-user-sign-in-on-your-windows-device/"><u>Mastering Convenience: A How-To for Activating Auto User Sign-In on Your Windows Device</u></a></li>
+</ul></div>
+

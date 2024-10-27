@@ -1,7 +1,7 @@
 ---
 title: Comparing the Fitbit Sense 2 & Versa 4 Over One Month - Top Wellness Tools, Yet Caution with GPS Functions | ZDNet
-date: 2024-09-18 15:56:28
-updated: 2024-09-20 12:23:49
+date: 2024-10-21T22:39:49.041Z
+updated: 2024-10-26T23:51:03.329Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-leading-free-video-conferencing-services-top-screen-sharing-list/"><u>[New] In 2024, Leading Free Video Conferencing Services Top Screen Sharing List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-two-effective-ways-how-can-i-share-youtube-videos-on-facebook/"><u>[Updated] In 2024, Two Effective Ways! How Can I Share YouTube Videos on Facebook?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-starting-off-understanding-av1-compression-for-2024/"><u>[Updated] Starting Off Understanding AV1 Compression for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-technology-from-toms-computer-solutions/"><u>Expert Insights on Technology From Tom's Computer Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-future-of-gaming-cases-the-phanteks-xt-pro-ultra-packed-with-advanced-lighting-and-superior-ventilation/"><u>Explore the Future of Gaming Cases: The Phanteks XT Pro Ultra, Packed with Advanced Lighting & Superior Ventilation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-experience-enhancing-silence-with-the-be-quiet-dark-base-pro-901-soundproofing-kit/"><u>Hands-On Experience: Enhancing Silence with the Be Quiet Dark Base Pro 901 Soundproofing Kit</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-store-expert-insights-on-technology-gadgets/"><u>Inside Tom's Hardware Store: Expert Insights on Technology Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-review-the-compact-fractal-pc-case-featuring-elegant-wood-design-and-customizable-backrest/"><u>Interactive Review: The Compact Fractal PC Case Featuring Elegant Wood Design and Customizable Backrest</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-language-with-11-great-mobile-word-games/"><u>Mastering Language with 11 Great Mobile Word Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/securesave-specialists-judgment-for-2024/"><u>SecureSave Specialists Judgment for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Components</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-impact-of-geminis-one-million-token-upgrade-on-blockchain-technology/"><u>Unveiling the Impact of Gemini's One Million Token Upgrade on Blockchain Technology</u></a></li>
+</ul></div>
+

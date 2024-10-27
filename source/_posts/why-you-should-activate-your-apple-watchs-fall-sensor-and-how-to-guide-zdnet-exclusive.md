@@ -1,7 +1,7 @@
 ---
 title: Why You Should Activate Your Apple Watch's Fall Sensor & How-To Guide | ZDNet Exclusive
-date: 2024-09-17 12:59:15
-updated: 2024-09-20 10:31:13
+date: 2024-10-23T23:40:11.418Z
+updated: 2024-10-26T20:40:21.199Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-easy-ways-to-record-webinar-on-windows-and-mac/"><u>[Updated] Easy Ways to Record Webinar on Windows and Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mapping-memorable-media-metaphors/"><u>[Updated] Mapping Memorable Media Metaphors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>2024 Approved The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-tool-to-overcome-isolation-and-solitude/"><u>ChatGPT as a Tool to Overcome Isolation and Solitude</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-your-youtube-empire-kit-overview/"><u>In 2024, Building Your YouTube Empire Kit Overview</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-open-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Open Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-incorporate-vital-health-details-on-your-android-device/"><u>Steps to Incorporate Vital Health Details on Your Android Device</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids-for-2024/"><u>The Definitive 10 Screenshot Boosters with Stickers on iPhones & Androids for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-secret-behind-exceptional-phone-experience-its-all-about-timeless-uncomplicated-design/"><u>The Secret Behind Exceptional Phone Experience: It's All About Timeless, Uncomplicated Design</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-about-youtube-tv-you-should-know/"><u>Things About YouTube TV You Should Know</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-14-friendly-multiplayer-android-gaming-experiences-you-shouldnt-miss/"><u>Top 14 Friendly Multiplayer Android Gaming Experiences You Shouldn't Miss</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-7-must-have-android-home-replacement-apps/"><u>Top 7 Must-Have Android Home Replacement Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-recommended-foldable-smartphones/"><u>Top Recommended Foldable Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-protective-covers-for-google-pixel-6-pro-2023-edition/"><u>Top-Rated Protective Covers for Google Pixel 6 Pro - 2023 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/"><u>Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-5g-uc-indicator-in-mobile-devices/"><u>Understanding the '5G UC' Indicator in Mobile Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/"><u>Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722884714968-whats-next-anticipated-details-for-the-new-google-pixel-tab-coming-soon/"><u>What's Next? Anticipated Details for The New Google Pixel Tab Coming Soon</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-11-pro-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 11 Pro takes time in scanning my iPhone? | Stellar</u></a></li>
+</ul></div>
+

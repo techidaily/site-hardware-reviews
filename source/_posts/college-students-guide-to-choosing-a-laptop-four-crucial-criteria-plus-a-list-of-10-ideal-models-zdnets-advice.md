@@ -1,7 +1,7 @@
 ---
 title: "College Students Guide to Choosing a Laptop: Four Crucial Criteria + A List of 10 Ideal Models (ZDNET's Advice)"
-date: 2024-10-14T23:27:37.127Z
-updated: 2024-10-21T00:07:25.243Z
+date: 2024-10-21T23:59:34.530Z
+updated: 2024-10-26T19:33:44.417Z
 tags:
   - laptops
 categories:
@@ -32,13 +32,6 @@ If you're stuck for ideas regarding laptops suitable to give as gifts, check out
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **The best laptop gift ideas**
 
@@ -209,6 +202,19 @@ Below are other laptop deals ZDNET has found at Amazon.
 
 [Acer Swift 3 laptop for $900 (save $200) $900 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-i7-1260P-Graphics-Bluetooth-SF314-512-73YZ%2Fdp%2FB09YSYVV2R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **The best laptop deals at Walmart**
 
 Below are other laptop deals ZDNET has found at Walmart.
@@ -228,16 +234,16 @@ Below are other laptop deals ZDNET has found at Best Buy.
 [Dell XPS 15 15.6-inch laptop for $2300 (save $500) $2,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-15-15-6-3-5k-oled-touch-screen-laptop-12th-gen-intel-core-i9-32gb-memory-nvidia-geforce-rtx-3050-ti-1tb-ssd-silver%2F6504382.p%3FskuId%3D6504382&publisher%5Fslug=zdnet&article%5Fname=21%20laptops%20that%20make%20great%20gifts%20in%202023&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-gift%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop gift ideas?
@@ -245,13 +251,6 @@ Below are other laptop deals ZDNET has found at Best Buy.
 You may need to balance expectations, budget, and the need for new equipment this year due to the economic situation, but we still need PCs for both work and study -- and they certainly come in handy when it comes to keeping ourselves entertained.
 
 While choosing these products, we tried to include options to suit a range of budgets while also keeping age ranges and their intended use in mind. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What laptop should I buy?
 
@@ -263,13 +262,6 @@ Gamers might opt for a larger screen still and higher resolutions, whereas with 
 
 Unless you are a Linux fan, you then need to decide what operating system you are the most comfortable with. The most common options are either Microsoft Windows or Apple macOS. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best laptop for students?
 
 If you plan to make use of the holiday sales to pick up a laptop suitable for a student in the family, or for a friend, it's helpful to know what kind of class or degree they are undertaking. 
@@ -278,11 +270,31 @@ You tend to see many Apple MacBook Airs and Pros around campus, and the majority
 
 However, if the course is creative, things can become a little more complicated, as you will probably want to focus on a screen of at minimum 15.6-inch, at least 16GB RAM, and a high-quality graphics card. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does laptop storage matter?
 
 The amount of storage on offer when you buy a laptop varies. Typically, you can expect storage to range between 128GB and 1/2TB solid-state drive (SSD) storage, although when it comes to Chromebooks, the smaller form facts mean that embedded MultiMediaCard (eMMC) storage is used, reducing capacity drastically.
 
 1TB is usually adequate for apps, software, games, and music. However, in any case, you can purchase portable hard drives to boost your storage space -- and create backups of your valuable data. 
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -366,17 +378,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-diy-video-setups-perfect-self-portraits-for-youtubers/"><u>[New] 2024 Approved DIY Video Setups Perfect Self-Portraits for YouTubers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unveiling-the-most-effective-budget-friendly-video-collaboration-tools-for-companies-and-classrooms/"><u>[New] 2024 Approved Unveiling the Most Effective Budget-Friendly Video Collaboration Tools For Companies & Classrooms</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-use-youcam-webcam-recorder/"><u>[New] In 2024, How to Use YouCam Webcam Recorder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-iphone-selfie-perks-8/"><u>[Updated] The Ultimate List of IPhone Selfie Perks #8</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/downloading-the-sm-bus-controller-for-windows-users-versions-11-10-8-and-7/"><u>Downloading the SM Bus Controller for Windows Users (Versions 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/engage-and-measure-instagram-stories-as-a-data-source-for-2024/"><u>Engage and Measure Instagram Stories as a Data Source for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mobile-cpu-showdown-intel-core-ultra-nv-vs-amd-ryzen-phoenix-in-a-race-for-top-bapco-scores/"><u>Mobile CPU Showdown: Intel Core Ultra Nv vs AMD Ryzen Phoenix in a Race for Top BAPCO Scores</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-unleashes-the-power-of-titan-18-pro-ryzen-dual-chip-marvel-featuring-rtx-4090-and-ryzen-9-7945hx3d/"><u>MSI Unleashes the Power of Titan 18 Pro Ryzen: Dual-Chip Marvel Featuring RTX 4090 & Ryzen 9 7945HX3D</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-the-new-aiplus-gaming-laptops-delivering-top-tier-performance-from-100-to-542-tops/"><u>MSI Unveils the New AI+ Gaming Laptops: Delivering Top-Tier Performance From 100 to 542 TOPS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computing-tips-and-tricks-from-toms-hardware/"><u>Navigating the Latest in Computing: Tips & Tricks From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/power-and-precision-a-thorough-review-of-the-alienware-m18-r2-desktop-with-clicky-mechanical-keyboard/"><u>Power and Precision: A Thorough Review of the Alienware M18 R2 Desktop with Clicky Mechanical Keyboard</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stuck-in-a-loop-expert-tips-for-resolving-minecrafts-persistent-loading-problem/"><u>Stuck in a Loop: Expert Tips for Resolving Minecraft's Persistent Loading Problem</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-prime-concepts-to-transform-vhs-imagery-on-computers/"><u>[New] 2024 Approved Prime Concepts to Transform VHS Imagery on Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ips-for-crafting-an-engaging-video-closure-on-youtub-for-2024/"><u>[New] Tips for Crafting an Engaging Video Closure on YouTub for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-ax57-go-wi-fi-6-compact-router-review-unleashing-high-speed-internet-on-your-journeys/"><u>Asus RT-AX57 Go Wi-Fi 6 Compact Router Review: Unleashing High-Speed Internet on Your Journeys</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-technology-choices-with-tips-from-toms-hardware-experts/"><u>Mastering Your Technology Choices with Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728481996057-pc-windows-11/"><u>PC復元: Windows 11アップグレード後の初期設定方法説明 -</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-the-pimoroni-nvme-sata-hybrid-storage-solution-dual-base-model-review/"><u>Performance Insights on the Pimoroni NVMe SATA Hybrid Storage Solution - Dual Base Model Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-best-of-both-worlds-exceptional-color-accuracy-and-high-performance-flexibility-with-the-asus-rog-strix-xg2n7acs-monitor/"><u>The Best of Both Worlds: Exceptional Color Accuracy and High-Performance Flexibility with the Asus ROG Strix XG2n7ACS Monitor</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme 11 Pro+? | Dr.fone</u></a></li>
 </ul></div>
 

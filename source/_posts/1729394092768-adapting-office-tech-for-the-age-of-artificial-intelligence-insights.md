@@ -1,7 +1,7 @@
 ---
 title: "Adapting Office Tech for the Age of Artificial Intelligence: Insights"
-date: 2024-10-14T16:19:13.016Z
-updated: 2024-10-20T19:18:45.909Z
+date: 2024-10-24T00:27:40.513Z
+updated: 2024-10-27T00:40:58.035Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,22 +136,21 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-inexpensive-pc-capture-programs-reviewed/"><u>[New] Inexpensive PC Capture Programs Reviewed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-best-asmr-microphones-you-should-try-for-2024/"><u>[New] The Best ASMR Microphones You Should Try for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-best-text-title-effect-types-in-after-effects-for-2024/"><u>[Updated] Best Text Title Effect Types in After Effects for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-craft-engaging-yt-titles-in-a-flash/"><u>[Updated] Craft Engaging YT Titles in a Flash</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-tonal-terrain-mac-audio-artistry/"><u>[Updated] In 2024, Tonal Terrain Mac Audio Artistry</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-iphone-7-screen-save-made-simple/"><u>[Updated] IPhone 7 Screen Save Made Simple</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-tips-for-broadcasting-youtube-content-via-facebook/"><u>[Updated] Tips for Broadcasting YouTube Content via Facebook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-strix-xg2-acq-an-180hz-marvel-in-accuracy-and-flexibility-the-ultimate-gamers-display-unveiled/"><u>Asus ROG Strix XG2^ ACQ: An 180Hz Marvel in Accuracy & Flexibility - The Ultimate Gamer's Display Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-testing-results-beautiful-design-robust-audio-capability/"><u>BlueAnt SoundBlade Testing Results: Beautiful Design, Robust Audio Capability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-insights-by-toms-review/"><u>Comprehensive Hardware Insights by Tom's Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-raspberry-pis-speed-and-storage-with-our-exclusive-mcdn-hatplus-test-and-insights/"><u>Elevate Your Raspberry Pi's Speed and Storage With Our Exclusive M.CDN HAT+ Test & Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-toms-comprehensive-guide/"><u>Exploring the Latest in Tech: Tom's Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-toms-hardware-reviews-and-updates/"><u>Navigating Through Tom's Hardware Reviews and Updates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-a-swift-overview-of-vn-video-editor-for-pc-users-for-2024/"><u>New A Swift Overview of VN Video Editor for PC Users for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/safe-recovery-techniques-from-faulty-dynamic-disks-a-comprehensive-step-by-step-manual/"><u>Safe Recovery Techniques From Faulty Dynamic Disks: A Comprehensive Step-by-Step Manual</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-face-off-how-does-the-newly-released-asus-rog-keris-ii-ace-stack-up-against-my-favorite-the-ragedeathadder-v3-pro/"><u>The Ultimate Face-Off: How Does the Newly Released Asus ROG Keris II Ace Stack Up Against My Favorite, the RageDeathAdder V3 Pro?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potency-of-akasa-geckos-ssd-cooler-an-elite-blower-heatsink-for-optimal-drive-performance/"><u>Unveiling the Potency of Akasa Gecko's SSD Cooler: An Elite Blower Heatsink for Optimal Drive Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-achieving-professional-quality-with-instagrams-virtual-screens/"><u>[New] 2024 Approved Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ultimate-profit-prodigy-in-the-digital-age/"><u>[Updated] 2024 Approved Ultimate Profit Prodigy in the Digital Age</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-inverted-illusions-the-art-of-rotating-visuals-for-social-media-success/"><u>2024 Approved Inverted Illusions The Art of Rotating Visuals for Social Media Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-moto-g24-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola Moto G24 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-review-mastering-seamless-performance-with-new-age-dual-band-speed-king/"><u>ASUS RT-BE96U Review: Mastering Seamless Performance with New Age Dual-Band Speed King</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-detailed-analyses-from-toms-hardware-experts/"><u>Discover the Latest in Tech: Detailed Analyses From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hardware-by-thomastechreview/"><u>Expert Insights on Hardware by ThomasTechReview</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-opinion-how-the-inexpensive-philips-hf3520-keeps-up-with-your-daily-routine/"><u>Expert Opinion: How the Inexpensive Philips HF3520 Keeps Up with Your Daily Routine</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-analysis-by-toms-hardware-experts/"><u>In-Depth Tech Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-setup-with-tips-and-tricks-from-toms-hardware-pros/"><u>Mastering Your PC Setup with Tips and Tricks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/optimizing-windows-for-chatgpt/"><u>Optimizing Windows for ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-with-toms-hardware-hub/"><u>Pioneering Technology Insights with Tom’s Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-trends-tips-and-reviews-by-toms-hardware-team/"><u>Unveiling Top Tech Trends: Tips and Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-counteracting-sonic-overlap-3-proven-techniques-for-clear-audio/"><u>Updated 2024 Approved Counteracting Sonic Overlap 3 Proven Techniques for Clear Audio</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-12-proplus-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme 12 Pro+ 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

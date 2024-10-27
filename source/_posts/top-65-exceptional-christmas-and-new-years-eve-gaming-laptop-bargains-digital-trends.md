@@ -1,7 +1,7 @@
 ---
 title: Top 65 Exceptional Christmas & New Year's Eve Gaming Laptop Bargains | Digital Trends
-date: 2024-10-17T19:13:39.575Z
-updated: 2024-10-21T02:29:13.991Z
+date: 2024-10-25T17:14:14.325Z
+updated: 2024-10-26T23:05:37.239Z
 tags:
   - laptops
 categories:
@@ -34,13 +34,6 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 * [Asus ZenBook Pro Duo 15 OLED 4K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZW-AB76T%2Fdp%2FB09TPTNZLG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc45b4425-85f9-43de-9833-1770313ed98a%7Cdtp&dtb=1): $1689 (save $811 at Amazon)
 * [LG Gram 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-gram-17-laptop-wqxga-intel-13th-gen-core-i7-with-16gb-memory-nvidia-geforce-rtx-3050-1tb-ssd-black%2F6540475.p%3FskuId%3D6540475&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $700 at Best Buy)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Top Amazon holiday laptop deals
 
 MSI/ZDNET
@@ -50,6 +43,13 @@ MSI/ZDNET
 * [Apple MacBook Air 13 M1 (2020)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc45b4425-85f9-43de-9833-1770313ed98a%7Cdtp&dtb=1): $750 (save $250)
 * [Acer Swift Go](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLaptop-1920x1200-Display-i7-1355U-SFG14-71T-72QV%2Fdp%2FB0BTQWR77M%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc45b4425-85f9-43de-9833-1770313ed98a%7Cdtp&dtb=1): $650 (save $250)
 * [Lenovo IdeaPad 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Processor-i5-1035G7-Accessories%2Fdp%2FB0CNGV8C34%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc45b4425-85f9-43de-9833-1770313ed98a%7Cdtp&dtb=1): $350 (save $350)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Top Best Buy holiday laptop deals
 
@@ -68,16 +68,10 @@ Dell/ZDNET
 * [Asus Zenbook 14X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14x-14-5-2-8k-oled-touch-laptop-intel-evo-platform-i7-13700h-16gb-memory-512gb-ssd-inkwell-gray%2F6543526.p%3FskuId%3D6543526&publisher_slug=itechdaily19598&exclusive=1): $700 (save $300)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Top Walmart holiday laptop deals
@@ -91,10 +85,10 @@ HP/ZDNET
 * [Lenovo IdeaPad Slim 5i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Slim-5i-Laptop-82XF002SUS-Intel-i7-1355U-16GB-RAM-1TB-SSD-16-0-Windows-11-Home-Intel-Iris-Xe-Graphics%2F3634632586%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $680 (save $270)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Top B&H Photo holiday laptop deals
@@ -156,10 +150,10 @@ We also looked over customer reviews to find out what matters to real people who
 If you're in the market for a new laptop and want the best of the best, you should check out our number one pick for the [best laptop of 2023](https://www.zdnet.com/article/best-laptop/): the MacBook Pro 16 M2 Max. It features the new M2 Max chipset from Apple for enhanced performance, multitasking, and graphics capabilities. It also gives you a 22-hour battery life for all-day work or play. You can configure the MacBook Pro 12 M2 Max with up to 96GB of RAM and with up to 8TB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best holiday 2023 deals?
@@ -227,18 +221,14 @@ If you're in the market for a new laptop and want the best of the best, you shou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-pro-screen-recorder-battle-top-selections-unveiled-for-2024/"><u>[New] Pro Screen Recorder Battle Top Selections Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-best-soundshapers-for-content-makers-on-youtube/"><u>[Updated] Best Soundshapers for Content Makers on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-ae-scripting-tools-and-plug-ins/"><u>[Updated] Top AE Scripting Tools & Plug-Ins</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sprint-through-photo-composition-googles-easy-way/"><u>2024 Approved Sprint Through Photo Composition - Google's Easy Way</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-services-virtual-private-servers-cloud-solutions-and-shared-hosting/"><u>Comprehensive Analysis of Hostinger's Services: Virtual Private Servers, Cloud Solutions & Shared Hosting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-maxsun-terminator-z790m-d5-ice-motherboard-evaluation-ultra-durable-white-matx-includes-five-m2-slots/"><u>Comprehensive Maxsun Terminator Z790M D5 Ice Motherboard Evaluation - Ultra Durable White MATX, Includes Five M.2 Slots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-of-computing-on-toms-hardware-showcase/"><u>Discover the Future of Computing on Tom's Hardware Showcase</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/"><u>DVD Slideshow Builder Deluxe</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-syncing-your-presence-in-real-time-tiktoks/"><u>In 2024, Syncing Your Presence in Real-Time TikToks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-toms-authoritative-guide-to-computer-components/"><u>Navigating the Tech Maze: Tom's Authoritative Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/poor-line-care/"><u>Poor Line Care</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-dell-xps-13-9n45-blending-classic-appeal-with-cutting-edge-snapdragon-x-elite-processing/"><u>Review of Dell XPS 13 (9N45): Blending Classic Appeal with Cutting-Edge Snapdragon X Elite Processing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/vlc-hacks-stop-showing-subtitles-on-screen-fast-3-effective-fixes/"><u>VLC Hacks: Stop Showing Subtitles on Screen Fast - 3 Effective Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-6-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 6 Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-reviewed-how-zen-5-elevates-gaming-performance-with-the-ryzen-5-9600x-and-ryzen-7-9700x/"><u>AMD Ryzen Reviewed: How Zen 5 Elevates Gaming Performance with the Ryzen 5 9600X and Ryzen 7 9700X</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bypassing-gpt-restrictions-ethical-dilemmas/"><u>Bypassing GPT Restrictions: Ethical Dilemmas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-dvr-technology-your-ultimate-question-answered/"><u>Decoding DVR Technology: Your Ultimate Question Answered</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009321382-discord-struggle-no-more-proven-tips-for-dealing-with-unresponsive-launches-and-quick-fixes/"><u>Discord Struggle No More: Proven Tips for Dealing with Unresponsive Launches and Quick Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-undetectable-bluetooth-peripherals-on-windows-10-machines/"><u>How to Address Undetectable Bluetooth Peripherals on Windows 10 Machines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gear-lab-a-deep-dive-into-modern-computing-equipment/"><u>Inside Tom's Gear Lab: A Deep Dive Into Modern Computing Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-p2nace-of-gaming-displays-the-titan-army-monitor-at-180-hz-a-comprehensive-review/"><u>Unboxing the P2nace of Gaming Displays: The Titan Army Monitor at 180 Hz - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-tech-secrets-toms-authoritative-guide-to-computer-gear/"><u>Unveiling New Tech Secrets - Tom's Authoritative Guide to Computer Gear</u></a></li>
 </ul></div>
 

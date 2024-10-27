@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden Gems: Discovering Exceptional Computers That May Surprise You - A Deep Dive by ZDNet"
-date: 2024-10-18T18:23:16.134Z
-updated: 2024-10-21T01:20:18.452Z
+date: 2024-10-24T21:14:09.049Z
+updated: 2024-10-26T16:58:42.913Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,18 +133,22 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-emotionally-enhanced-youtube-commentary-for-2024/"><u>[New] Emotionally-Enhanced YouTube Commentary for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-uniting-visuals-a-pc-and-web-overlay-method/"><u>[New] Uniting Visuals A PC & Web Overlay Method</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-haul-videography-unlocked-step-by-step-guide-for-enthusiasts/"><u>[Updated] Haul Videography Unlocked Step-by-Step Guide for Enthusiasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1716069953805-updated-in-2024-capture-your-screen-in-a-flash-free-no-hassle/"><u>[Updated] In 2024, Capture Your Screen in a Flash - Free, No Hassle!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/5-and-you-get-professional-grade-ssd-cooler-in-depth-review-of-the-uphere-m201/"><u>$5 and You Get Professional-Grade SSD Cooler: In-Depth Review of the UpHere M201</u></a></li>
-<li><a href="https://win-unique.techidaily.com/aomeiduplication/"><u>AOMEI自由型影像推送及網際網路Duplication程式介紹</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-nzxt-c1500-platinum-psu-evaluation/"><u>Comprehensive NZXT C1500 Platinum PSU Evaluation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/framed-facets-guide-to-the-best-apps-and-sites-for-frame-upgrades/"><u>Framed Facets Guide to the Best Apps & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-choices-the-toms-system-specs-showdown/"><u>Mastering Tech Choices: The Tom's System Specs Showdown</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/optimize-your-windows-11-search-top-5-expert-methods/"><u>Optimize Your Windows 11 Search: Top 5 Expert Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/rejuvenating-your-apple-device-a-detailed-guide-to-full-resets-on-iphoneipad/"><u>Rejuvenating Your Apple Device: A Detailed Guide to Full Resets on iPhone/iPad</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/simple-methods-back-up-your-entire-windows-11-x64-operating-system-and-files-with-two-effective-techniques/"><u>Simple Methods: Back Up Your Entire Windows 11 X64 Operating System and Files with Two Effective Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gear-in-depth-guide-by-toms-hardware-hub/"><u>Unveiling the Latest Gear: In-Depth Guide by Tom's Hardware Hub</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-automatically-resize-videos-for-instagram-on-mac-for-2024/"><u>[New] How to Automatically Resize Videos for Instagram on Mac for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-windows-ranked-5-best-screen-capture-programs/"><u>[New] In 2024, Mastering Windows Ranked 5 Best Screen Capture Programs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-viral-success-the-most-loved-ae-themes-for-social-media/"><u>[New] Viral Success The Most Loved AE Themes for Social Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-collabs-how-to-find-youtube-collaboration-partners-in-2024/"><u>[New] YouTube Collabs How to Find YouTube Collaboration Partners, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-shotchrome-fx-chromes-screen-capturing/"><u>2024 Approved ShotChrome FX Chrome's Screen Capturing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-economic-model-month-to-month-income/"><u>2024 Approved YouTube's Economic Model Month-to-Month Income?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2/"><u>ASRock PG2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-and-examination-of-the-groundbreaking-4tb-wd-blue-sn50e-drive-by-western-digital/"><u>Breakdown and Examination of the Groundbreaking 4TB WD Blue SN50e Drive by Western Digital</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-your-iphones-common-screen-issues-quickly/"><u>How to Resolve Your iPhone's Common Screen Issues Quickly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-tips-and-tricks-by-toms-hardware/"><u>Navigate the Tech World: Tips & Tricks by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-20-learning-applications-for-academic-success-a-comprehensive-guide-by-movavi/"><u>Top 20 Learning Applications for Academic Success: A Comprehensive Guide by Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-frostpunk-game-crashes-steps-and-strategies/"><u>Ultimate Fix for Frostpunk Game Crashes: Steps & Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-insights/"><u>Unveiling the Latest in Hardware with Tom's Technology Insights</u></a></li>
 </ul></div>
 

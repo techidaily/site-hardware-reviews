@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Score Unbeatable Prices on Upcoming iPhone 15 and Apple Watch Series 9 Ultra Preorders!"
-date: 2024-09-19 15:42:22
-updated: 2024-09-20 11:11:23
+date: 2024-10-20T00:56:19.109Z
+updated: 2024-10-26T20:43:02.048Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,27 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-tricks-to-automate-iphone-video-loops/"><u>[New] Tricks to Automate iPhone Video Loops</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-webcams-for-peak-twitch-performance/"><u>[Updated] 2024 Approved Essential Webcams for Peak Twitch Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-link-and-leverage-your-fb-story-for-greater-impact/"><u>[Updated] 2024 Approved Link & Leverage Your FB Story for Greater Impact</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-pop-8-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Pop 8</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/city-planning-for-climate-action-a-comprehensive-guide-for-2024/"><u>City Planning for Climate Action A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/control-your-raspberry-pi-from-anywhere-a-guide-to-using-raspberry-pi-connect-in-web-browsers/"><u>Control Your Raspberry Pi From Anywhere - A Guide to Using Raspberry Pi Connect in Web Browsers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cytron-edu-pico-kit-embracing-failure-as-a-pathway-to-success/"><u>Cytron Edu Pico Kit: Embracing Failure as a Pathway to Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanded-raspberry-pi-connect-enhances-ssh-capabilities-and-welcomes-legacy-model-compatibility/"><u>Expanded Raspberry Pi Connect Enhances SSH Capabilities and Welcomes Legacy Model Compatibility</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-guide-to-updating-the-surface-dock-software-on-your-device/"><u>Quick and Easy Guide to Updating the Surface Dock Software on Your Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-process-for-building-quality-srt-files-for-2024/"><u>Step-by-Step Process for Building Quality SRT Files for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-entertainment-hub-raspberry-pi-cm4-core-with-integrated-sports-features-and-gpio-extension-ports/"><u>Ultimate Entertainment Hub: Raspberry Pi CM4 Core with Integrated Sports Features and GPIO Extension Ports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-raspberry-pi-model-bplus-with-16gb-memory-successes-and-pitfalls/"><u>Upgrading Your Raspberry Pi Model B+ with 16GB Memory: Successes and Pitfalls</u></a></li>
+</ul></div>
+

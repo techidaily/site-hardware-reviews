@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Analysis: Withings ScanWatch Horizon Blends Elegance with Medical Accuracy – Insights From ZDNet"
-date: 2024-09-17 16:17:53
-updated: 2024-09-20 10:57:28
+date: 2024-10-22T20:40:54.902Z
+updated: 2024-10-26T23:08:10.664Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,19 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +92,19 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +114,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +147,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-co-creating-content-brands-team-up-for-youtube-success/"><u>[New] 2024 Approved Co-Creating Content Brands Team Up for YouTube Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mkv-on-mac-top-5-player-apps-summary/"><u>[New] In 2024, MKV on Mac Top 5 Player Apps Summary</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-turning-onoff-comments-with-ease-on-youtube-platform/"><u>[New] Turning On/Off Comments with Ease on YouTube Platform</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-x50-gt-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor X50 GT Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-samsungs-petabyte-ssd-cloud-storage-with-tailored-server-solutions/"><u>Explore Samsung's Petabyte SSD Cloud Storage with Tailored Server Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-handhelds-evolve-nextorage-delivers-a-breakthrough-in-speed-with-its-m2-2230-ssd-offering-lightning-fast-7n40mbs-speeds/"><u>Game Handhelds Evolve: Nextorage Delivers a Breakthrough in Speed with Its M.2 2230 SSD Offering Lightning-Fast 7,N40MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-with-nextorages-new-ultra-rapid-handheld-ssd-drive-at-7400mbs-speeds/"><u>Game Like Never Before with Nextorage's New Ultra-Rapid Handheld SSD Drive at 7,400MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonize-unifying-hp-jetprinter-driver-with-windows/"><u>Harmonize: Unifying HP JetPrinter Driver with Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-12-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 12 In Different Conditionsin</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-motorola-moto-g73-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Motorola Moto G73 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtube-snippets-guide-essential-insights-unveiled/"><u>In 2024, YouTube Snippets Guide Essential Insights Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-reviews-by-technology-expert-toms-domain/"><u>Innovative Gadget Reviews by Technology Expert, Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-expert-advice-on-tech-equipment-with-tom/"><u>Inside the Circuitry: Expert Advice on Tech Equipment with Tom</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling an Alluring Hybrid Timepiece: Exceptional Durability Meets Extended Battery and Elegance in a Watch That's Ahead of Its Time | CNET"
-date: 2024-09-19 11:17:16
-updated: 2024-09-20 11:47:51
+date: 2024-10-19T22:07:26.300Z
+updated: 2024-10-26T19:37:54.051Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,26 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-enhancing-social-media-reach-a-deep-dive-into-instagram-and-obs-streaming/"><u>[New] In 2024, Enhancing Social Media Reach A Deep Dive Into Instagram & OBS Streaming</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-prime-avi-media-reader-superior-on-every-platform/"><u>[New] In 2024, Prime Avi Media Reader - Superior on Every Platform</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-gpt-4all-and-its-operational-mechanics/"><u>A Deep Dive Into GPT-4All & Its Operational Mechanics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converti-arquivos-m4v-gratuitamente-online-com-o-movavi-ferramenta-completa-para-conversao/"><u>Converti Arquivos M4V Gratuitamente Online Com O Movavi - Ferramenta Completa Para Conversão!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-in-depth-hardware-analysis/"><u>Exploring Gadgets with Tom: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-msi-katana-gaming-laptop-just-1199-a-156-inch-machine-with-ultra-fast-rtx4070-graphics/"><u>Get the MSI Katana Gaming Laptop: Just $1,199 - A 15.6 Inch Machine with Ultra-Fast RTX^4070 Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gpds-anticipated-challenge-to-the-market-a-glimpse-at-their-upcoming-dual-screen-oled-laptop/"><u>GPD's Anticipated Challenge to the Market: A Glimpse at Their Upcoming Dual-Screen OLED Laptop</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-11-proplus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 11 Pro+ Lock Screen Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-of-pc-innovation-msis-aiplus-laptops-for-gamers-and-creators-unleashing-power-from-100-to-542-tops/"><u>Introducing the Future of PC Innovation: MSI's AI+ Laptops for Gamers and Creators - Unleashing Power From 100 to 542 TOPS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/your-rights-policy-updates-now-available/"><u>Your Rights - Policy Updates Now Available</u></a></li>
+</ul></div>
+
