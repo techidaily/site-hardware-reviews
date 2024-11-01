@@ -1,7 +1,7 @@
 ---
 title: "Transforming Remote Work with HP's Copilot+ Laptop: A Real-Life Success Story - Insights From ZDNet"
-date: 2024-10-19T22:17:42.236Z
-updated: 2024-10-26T17:07:14.586Z
+date: 2024-10-26T19:22:13.965Z
+updated: 2024-11-01T16:29:15.877Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +54,16 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +98,10 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,16 +146,18 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-subtitle-mastery-made-easy-10-free-online-tools/"><u>[New] Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-zenith-project-hub-analysis/"><u>[New] Zenith Project Hub Analysis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp/"><u>[Updated] In 2024, Seamless Transfer of Social Media Videos From Twitter to WhatsApp</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/android-trick-changing-media-order-sequence-for-2024/"><u>Android Trick Changing Media Order Sequence for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-10-v-phone-without-google-account-by-drfone-android/"><u>How to Unlock Sony Xperia 10 V Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-initiate-internet-income-low-cost-youtube-channel-buys/"><u>In 2024, Initiate Internet Income Low-Cost YouTube Channel Buys</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-power-of-hp-omnibook-x-experience-long-lasting-efficiency-with-snapdragons-innovation/"><u>Inside the Power of HP OmniBook X: Experience Long-Lasting Efficiency with Snapdragon's Innovation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-world-top-picks-for-powerful-systems/"><u>Inside Tom's Hardware World: Top Picks for Powerful Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-haven-comprehensive-computer-gear-reviews/"><u>Inside Tom's Tech Haven: Comprehensive Computer Gear Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-devices-a-deep-look-at-hardware-from-toms-perspective/"><u>Master Your Devices: A Deep Look at Hardware From Tom's Perspective</u></a></li>
-<li><a href="https://win-data.techidaily.com/profi-tricks-zur-wiedergewinnung-verschwundener-festplattenpartitionsdaten-mit-windows-7-entdeckung-empfohlener-methoden/"><u>Profi-Tricks Zur Wiedergewinnung Verschwundener Festplattenpartitionsdaten Mit Windows ˈ7 - Entdeckung Empfohlener Methoden</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-skillful-minecraft-players-building-circular-and-spherical-objects-for-2024/"><u>[New] Skillful Minecraft Players Building Circular & Spherical Objects for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-dominate-your-digital-footprint-with-large-scale-fb-visuals/"><u>[Updated] Dominate Your Digital Footprint with Large-Scale Fb Visuals</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>[Updated] Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>[Updated] In 2024, Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/browser-based-remote-access-mastering-your-raspberry-pi-through-raspberry-pi-connect/"><u>Browser-Based Remote Access: Mastering Your Raspberry Pi Through Raspberry Pi Connect</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-upgrades-and-gadgets-for-the-ultimate-raspberry-pi-pico-experience-22024/"><u>Essential Upgrades & Gadgets for the Ultimate Raspberry Pi Pico Experience 2#2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expand-your-storage-install-add-on-board-enabling-dual-nvme-ssd-configuration-on-raspberry-pi-5/"><u>Expand Your Storage: Install Add-On Board Enabling Dual NVMe SSD Configuration on Raspberry Pi 5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-8-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Asus ROG Phone 8 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-raspberry-pi-link-up-seamlessly-run-your-pi-from-anywhere-through-a-web-interface/"><u>Introducing Raspberry Pi Link-Up: Seamlessly Run Your Pi From Anywhere Through a Web Interface</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-x9a-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor X9a Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synergy-in-silicon-bots-tasked-with-equal-creativity-goals/"><u>Synergy in Silicon: Bots Tasked with Equal Creativity Goals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-review-of-the-latest-raspberry-pi-pico-a-deep-dive-into-its-new-arm-plus-risc-v-cores-at-an-affordable-price/"><u>Unboxing Review of the Latest Raspberry Pi Pico: A Deep Dive Into Its New Arm + RISC-V Cores at an Affordable Price</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-go-hybrid-discover-comparable-windows-contenders-to-macbook-air-with-cutting-edge-features-insights/"><u>Why Go Hybrid? Discover Comparable Windows Contenders to MacBook Air with Cutting-Edge Features Insights</u></a></li>
 </ul></div>
 

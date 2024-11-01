@@ -1,7 +1,7 @@
 ---
 title: $460 Discount on Microsoft Surface Pro 8 During Prime Day! Find All the Details Here at ZDNet.
-date: 2024-10-25T22:12:14.976Z
-updated: 2024-10-27T00:43:28.636Z
+date: 2024-10-28T20:22:27.910Z
+updated: 2024-11-01T17:35:17.647Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,13 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -70,6 +77,13 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -86,6 +100,13 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -93,13 +114,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -126,13 +140,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,6 +149,13 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -167,21 +181,7 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -220,18 +220,18 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[New] 2024 Approved Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-scale-up-snapshot-size-retain-sharpness/"><u>[New] 2024 Approved Scale Up Snapshot Size - Retain Sharpness</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-expertly-choosing-the-leading-5-facebook-video-grabers-for-2024/"><u>[New] Expertly Choosing the Leading 5 Facebook Video Grabers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-diy-lol-gameplay-tapes-mastering-three-methods/"><u>[Updated] 2024 Approved DIY LOL Gameplay Tapes Mastering Three Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-sideways-to-symmetry-mastering-the-art-of-rotating-visual-content-for-maximum-engagement/"><u>[Updated] In 2024, From Sideways to Symmetry Mastering the Art of Rotating Visual Content for Maximum Engagement</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1726030027717-pc3/"><u>PCに付属のオーディオ転送ソフトウェア3つ！長時間ボイスレコードへ</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-on-computer-gear-and-systems/"><u>Tom's Expertise on Computer Gear and Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gear-lab-in-depth-analysis-of-pc-parts/"><u>Tom's Gear Lab: In-Depth Analysis of PC Parts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-cutting-edge-computer-components/"><u>Tom's Tech Insights: Exploring Cutting-Edge Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews-t17238628805738/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-innovations-and-reviews/"><u>Tom's Tech Insights: Innovations and Reviews</u></a></li>
-<li><a href="https://extra-information.techidaily.com/two-keys-to-intriguing-tiktok-videos/"><u>Two Keys to Intriguing TikTok Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-prime-color-balancer-suite-for-2024/"><u>[New] Prime Color Balancer Suite for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-uncover-the-joyful-journey-best-comedy-and-sadness-on-insta/"><u>[Updated] 2024 Approved Uncover the Joyful Journey Best Comedy & Sadness on Insta</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-masterclass-of-marksmen-select-7-superior-fps/"><u>[Updated] In 2024, Masterclass of Marksmen Select 7 Superior FPS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-fluxvideoart-compile-and-display-on-macos-sierra/"><u>2024 Approved FluxVideoArt Compile & Display on macOS Sierra</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-download-now/"><u>7 - Download Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/all-about-tech-in-depth-analysis-from-tomhemline-of-hardware/"><u>All About Tech: In-Depth Analysis From Tom'hemline of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-9000-mastery-discover-asrocks-groundbreaking-motherboard-selection/"><u>AMD Ryzen 9000 Mastery: Discover ASRock's Groundbreaking Motherboard Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rare-frankenboards-maximus-xiii-hero-with-custom-so-dimm-memory-slots-and-authentic-kingston-fury-logo-a-collectors-delight/"><u>Asus' Rare Frankenboards: Maximus XIII Hero with Custom So-DiMM Memory Slots and Authentic Kingston Fury Logo - A Collector’s Delight</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bitlocker-free-windows-4-effective-security-measures/"><u>BitLocker-Free Windows: 4 Effective Security Measures</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/certified-msi-z890-and-b86-motherboard-lineup-supporting-the-new-intel-arrow-lake-s-processor-exclusive-preview-before-computex-2024/"><u>Certified MSI Z890 & B86) Motherboard Lineup Supporting the New Intel Arrow Lake-S Processor - Exclusive Preview Before Computex 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-cozy-living-areas-with-daylight/"><u>In 2024, Crafting Cozy Living Areas with Daylight</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-8-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 8 without Password?</u></a></li>
 </ul></div>
 

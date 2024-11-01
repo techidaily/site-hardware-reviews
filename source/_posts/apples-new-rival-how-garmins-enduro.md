@@ -1,7 +1,7 @@
 ---
 title: "Apple's New Rival: How Garmin's Enduro"
-date: 2024-09-17 11:40:28
-updated: 2024-09-20 12:25:42
+date: 2024-10-27T18:30:02.543Z
+updated: 2024-11-01T17:53:21.512Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-hot.techidaily.com/1-how-to-restore-irretrievably-erased-documents-in-your-google-drive-a-comprehensive-guide/"><u>1. How to Restore Irretrievably Erased Documents in Your Google Drive: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-free-clip-art-for-your-designs/"><u>2024 Approved Unlocking Free Clip-Art for Your Designs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-an-experts-take-on-the-value-packed-gigabyte-b760m-ds3h-ax-motherboard-for-multi-screen-enthusiasts/"><u>Discover the Power: An Expert's Take on the Value-Packed Gigabyte B760M DS3H AX Motherboard for Multi-Screen Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-web-experience-strategies-to-diminish-high-pings/"><u>Enhancing Web Experience: Strategies to Diminish High Pings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-gear-analysis-by-tom-your-trusted-guide-in-technology/"><u>Expert Gear Analysis by Tom - Your Trusted Guide in Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/imaging-techniques-like-oct-may-be-used-postoperatively-to-confirm-the-success-of-surgical-interventions-such-as-retinal-detachment-repair/"><u>Imaging Techniques Like OCT May Be Used Postoperatively to Confirm the Success of Surgical Interventions Such as Retinal Detachment Repair.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/immediate-streams-from-obs-to-insta/"><u>Immediate Streams From OBS to Insta</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigate-the-tiktok-twitter-connection/"><u>In 2024, Navigate the TikTok-Twitter Connection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-a1x-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo A1x 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cut-trim-and-edit-vlc-videos-on-mac-with-zero-quality-loss/"><u>New 2024 Approved Cut, Trim, and Edit VLC Videos on Mac with Zero Quality Loss</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/starting-off-right-must-haves-for-youtube-enthusiasts-for-2024/"><u>Starting Off Right Must-Haves for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341683423-surgical-intervention-may-be-necessary-for-certain-types-of-eye-injuries-to-preserve-vision-and-prevent-further-damage/"><u>Surgical Intervention May Be Necessary for Certain Types of Eye Injuries to Preserve Vision and Prevent Further Damage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-raspberry-pi-compute-module-4s-unveiled-in-depth-analysis-for-tech-professionals/"><u>The Raspberry Pi Compute Module #4S Unveiled: In-Depth Analysis for Tech Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-modern-hardware-solutions-by-toms-experts/"><u>The Ultimate Resource for Modern Hardware Solutions by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-ultimate-guide/"><u>Tom's Tech Reviews: Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-comparison-guide-for-high-speed-ssds-exploring-the-lexar-professional-sl600-and-sl500-with-remarkable-20g-speed-capabilities/"><u>Ultimate Comparison Guide for High-Speed SSDs: Exploring the Lexar Professional SL600 & SL500 with Remarkable 20G Speed Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gear-a-deep-dive-into-technology-and-hardware/"><u>Unveiling Tom's Gear: A Deep Dive Into Technology and Hardware</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-started-with-filmora-13-free-video-editor-download/"><u>Updated Get Started with Filmora 13 Free Video Editor Download</u></a></li>
+</ul></div>
+

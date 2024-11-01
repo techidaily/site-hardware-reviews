@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: The Ideal ThinkPad Models for Hybrid Professionals, Excluding the Latest Release - Insights From ZDNet"
-date: 2024-10-21T21:16:53.213Z
-updated: 2024-10-26T18:46:54.091Z
+date: 2024-10-31T19:21:01.372Z
+updated: 2024-11-01T16:37:42.977Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,20 +111,20 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/jeys-path-to-prosperity-monetizing-his-online-presence-for-2024/"><u>[New] Ajey's Path to Prosperity Monetizing His Online Presence for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-rapid-renders-of-powerpoint-plays-for-2024/"><u>[Updated] Rapid Renders of PowerPoint Plays for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlock-youtubes-end-screens-easy-template-ideas-and-tutorials/"><u>2024 Approved Unlock YouTube's End Screens Easy Template Ideas & Tutorials</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/addressing-surface-pro-7s-erratic-screen-behavior/"><u>Addressing Surface Pro 7'S Erratic Screen Behavior</u></a></li>
-<li><a href="https://win11.techidaily.com/convenient-ways-to-define-text-in-win11/"><u>Convenient Ways to Define Text in Win11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-12-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 12 Pro Smoothly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-zte-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on ZTE</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-circuits-with-tom-an-authoritative-source-for-tech-enthusiasts/"><u>Navigating Through Circuits with Tom: An Authoritative Source for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-your-workspace-samsung-unveils-updated-odyssey-and-view-monitors-featuring-cutting-edge-ai-innovation/"><u>Revolutionizing Your Workspace: Samsung Unveils Updated Odyssey and View Monitors Featuring Cutting-Edge AI Innovation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-gadget-reviews/"><u>Tom's Tech Hub: Advanced Gadget Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Review: In-Depth Analysis & Expert Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-on-hardware-innovations/"><u>Tom's Tech Review: Insights on Hardware Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware-t17238628801617/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-television-innovation-integrating-fb-live-experiences/"><u>[New] Television Innovation Integrating FB Live Experiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-convert-and-share-simplified-mp3-to-youtube-process-3-phases/"><u>[Updated] 2024 Approved Convert & Share Simplified MP3 to YouTube Process [3 Phases]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-seamless-idevice-screen-saving-tricks/"><u>[Updated] 2024 Approved Seamless iDevice Screen Saving Tricks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-vivid-chroma-optimizer/"><u>[Updated] In 2024, Vivid Chroma Optimizer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-free-access-to-10-superior-lut-resources/"><u>2024 Approved Free Access to 10 Superior LUT Resources</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-gadgets-with-toms-electronic-review/"><u>Exploring the World of Gadgets with Tom's Electronic Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488742-gamers-bargain-alert-snap-up-the-steelseries-arctis-nova-pro-wireless-at-a-steep-discount-of-64-off-the-leading-sound-experience/"><u>Gamer's Bargain Alert: Snap Up the SteelSeries Arctis Nova Pro Wireless at a Steep Discount of 64% Off – The Leading Sound Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-light-back-on-track-12-problem-solving-methods/"><u>Get Your iPhone Light Back on Track: 12 Problem-Solving Methods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hp-ends-production-of-internet-based-laserjet-models-amidst-consumer-protest-instant-ink-program-also-discontinued/"><u>HP Ends Production of Internet-Based LaserJet Models Amidst Consumer Protest: Instant Ink Program Also Discontinued</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-chromes-pinnacle-path-for-picking-and-packing-fb-vids/"><u>In 2024, Chromes' Pinnacle Path for Picking and Packing Fb Vids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/shop-now-and-save-big-get-up-to-60-off-the-top-rated-logitech-g-pro-x-superlight-for-gamers/"><u>Shop Now and Save Big: Get Up to 60% Off the Top-Rated Logitech G Pro X Superlight for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-setting-up-gotoaddons-for-kodi-your-premier-one-stop-entertainment-hub/"><u>Step-by-Step Tutorial: Setting Up GoTo_Addons for Kodi, Your Premier One-Stop Entertainment Hub</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-downloading-and-installing-the-newest-amd-vega-56-driver-for-windows-systems/"><u>The Ultimate Guide to Downloading and Installing the Newest AMD Vega 56 Driver for Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unbiased-gadget-analysis-and-reviews/"><u>Tom's Tech Review: Unbiased Gadget Analysis and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-the-best-gaming-audio-equipment/"><u>Ultimate Selection: The Best Gaming Audio Equipment</u></a></li>
 </ul></div>
 

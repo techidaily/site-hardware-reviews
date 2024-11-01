@@ -1,7 +1,7 @@
 ---
 title: First Ever Sustainable, Matter-Certified Nanoleaf Holiday Lighting Wins Eco-Conscious Festive Decor
-date: 2024-09-19 18:30:11
-updated: 2024-09-20 12:34:36
+date: 2024-10-25T16:27:08.946Z
+updated: 2024-11-01T17:08:42.442Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,30 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-effortless-video-streaming-on-your-facebook-page/"><u>[New] Effortless Video Streaming on Your Facebook Page</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-digital-alchemy-for-artists-leading-generators-turned-into-nfts/"><u>[Updated] 2024 Approved Digital Alchemy for Artists Leading Generators Turned Into NFTs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/assessing-the-lofree-edge-a-lightweight-thin-choice-comparatively-priced-against-the-apple-magic-keyboard/"><u>Assessing the Lofree Edge: A Lightweight, Thin Choice - Comparatively Priced Against the Apple Magic Keyboard</u></a></li>
+<li><a href="https://fox-info.techidaily.com/captivating-customer-revelation/"><u>Captivating Customer Revelation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-components-with-toms-hardware-a-detailed-insight/"><u>Discovering Components with Tom’s Hardware - A Detailed Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-a-comprehensive-guide/"><u>Exploring Technology with Tom: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-samsung-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Samsung PIN</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-xs-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone XS Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>In 2024, Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incorporating-soundscapes-into-your-social-media-masterpieces/"><u>In 2024, Incorporating Soundscapes Into Your Social Media Masterpieces</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/launching-an-impactful-instagram-live-session/"><u>Launching an Impactful Instagram Live Session</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-toms-expert-analysis-on-computer-hardware/"><u>Navigating the Tech World: Tom's Expert Analysis on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware-analysis/"><u>Navigating the World of PC Gear: Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-flsun-s1-high-speed-performance-in-a-quirky-design/"><u>Review of FLSun S1: High-Speed Performance in a Quirky Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-mejores-programas-de-captura-de-pantalla-para-windows-compatibles-con-win10-win8-y-win7/"><u>Top 5 Mejores Programas De Captura De Pantalla Para Windows: Compatibles Con Win10, Win8 Y Win7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341743549-wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of!</u></a></li>
+</ul></div>
+

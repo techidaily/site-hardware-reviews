@@ -1,7 +1,7 @@
 ---
 title: "M3 MacBook Air Unveiled: Apple Introduces Its Accessible Artificial Intelligence-Powered Laptop - Detailed Analysis"
-date: 2024-10-19T17:34:28.417Z
-updated: 2024-10-26T20:13:18.205Z
+date: 2024-10-25T16:03:10.620Z
+updated: 2024-11-01T16:39:42.642Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,16 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +86,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,18 +142,18 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-sell-more-grow-faster-discover-how-these-15-facebook-apps-can-help/"><u>2024 Approved Sell More, Grow Faster Discover How These 15 Facebook Apps Can Help</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tial-errors-to-dodge-beginner-youtubers-guide-for-2024/"><u>Essential Errors to Dodge Beginner YouTuber's Guide for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/exciting-development-filmora-x-now-compatible-with-arm-devices-for-2024/"><u>Exciting Development Filmora X Now Compatible with ARM Devices for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-tech-gadgets-by-toms-electronics-hub/"><u>Expert Insights on Tech Gadgets by Tom’s Electronics Hub</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/forge-funny-frameworks-for-2024/"><u>Forge Funny Frameworks for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-best-hardware-for-high-quality-livestreams/"><u>In 2024, Best Hardware for High-Quality Livestreams</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-hardware-by-toms-experts/"><u>In-Depth Analysis of PC Hardware by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-expert-insights-on-pc-components-and-gear/"><u>Inside Tom's Equipment: Expert Insights on PC Components and Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-zerowriter-inks-latest-typewriter-enhanced-52-e-ink-display-and-weeklong-battery-life-with-comfortable-mechanical-keys/"><u>Introducing Zerowriter Ink's Latest Typewriter: Enhanced 5.2 E-Ink Display & Weeklong Battery Life with Comfortable Mechanical Keys</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-projects-with-waveshares-new-iot-board-seamlessly-integrates-with-raspberry-pi-zero-includes-4glte-connectivity-and-customized-micropytho34/"><u>Revolutionize Your Projects with Waveshare's New IoT Board: Seamlessly Integrates with Raspberry Pi Zero, Includes 4G/LTE Connectivity & Customized MicroPython Environment</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-asus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Asus</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon-for-2024/"><u>[New] Unveiling the Hidden Meanings Behind Facebook's Messenger Icon for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhance-your-social-media-experience-with-these-top-tools-for-2024/"><u>Enhance Your Social Media Experience with These Top Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-waste-to-wonder-achieving-true-to-life-texture-appearance-and-smell-of-wood-through-3d-printing-with-sawdust-ink/"><u>From Waste to Wonder: Achieving True-to-Life Texture, Appearance, and Smell of Wood Through 3D Printing with Sawdust Ink</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-narzo-60x-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme Narzo 60x 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>In 2024, GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a79-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A79 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-asus-dvd-drivers-with-one-click-download/"><u>Install ASUS DVD Drivers with One-Click Download</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-components-wisdom-from-toms-hardware/"><u>The Ultimate Guide to PC Components - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-cutting-edge-hardware/"><u>Tom's Tech Review: Expert Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-gadget-analysis/"><u>Tom's Tech Review: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-price-on-new-asus-tuf-gaming-a15-memorial-day-special-at-only-658/"><u>Unbeatable Price on New Asus TUF Gaming A15 - Memorial Day Special at Only $658</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-computer-components-with-toms-gear-guides/"><u>Unlocking the Potential of Computer Components with Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-modern-electronics-at-toms-hardware-resource-center/"><u>Unveiling the Power of Modern Electronics at Tom's Hardware Resource Center</u></a></li>
 </ul></div>
 

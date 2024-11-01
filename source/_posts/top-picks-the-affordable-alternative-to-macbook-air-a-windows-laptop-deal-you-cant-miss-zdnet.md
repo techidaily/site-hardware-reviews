@@ -1,7 +1,7 @@
 ---
 title: "Top Picks: The Affordable Alternative to MacBook Air - A Windows Laptop Deal You Can't Miss! | ZDNet"
-date: 2024-10-20T19:39:02.053Z
-updated: 2024-10-26T17:22:11.521Z
+date: 2024-10-27T17:08:34.094Z
+updated: 2024-11-01T18:38:50.778Z
 tags:
   - laptops
 categories:
@@ -81,10 +81,16 @@ I have been integrating Copilot into my workflow as I learn more about how to us
 The Surface's battery life has been fantastic, too. I get over 15 hours of use from a single charge, and it has yet to fully deplete to zero by the time I call a benchmarking test. The combination of smart design with meaningful trade-offs is what gives this laptop its marathon battery life, and opens it up for a variety of use cases from a creator or productivity perspective. Basically, this is a laptop you can work remotely with for the whole day without a charger.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -94,10 +100,10 @@ I mentioned this before, but the direction that Microsoft took with this laptop 
 The Surface Laptop is a flagship mid-range device that's well-rounded enough to take on a variety of roles. Despite a few trade-offs, it's everything it should be for the price. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -134,24 +140,17 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-memorable-channel-presence-with-imagery/"><u>[New] 2024 Approved Crafting a Memorable Channel Presence with Imagery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficient-video-storing-in-google-chat/"><u>[New] In 2024, Efficient Video Storing in Google Chat</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unexpected-video-pitch-flipped-images-on-instagram/"><u>[New] Unexpected Video Pitch Flipped Images on Instagram</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/89-bargain-snag-the-trendy-eye-catching-lian-li-lancool-ntower-pc-case-at-unbeatable-price/"><u>$89 Bargain: Snag the Trendy, Eye-Catching Lian Li Lancool nTower PC Case at Unbeatable Price</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-corsair-hx1000i-psu-an-in-depth-performance-review/"><u>Comprehensive Analysis of the Corsair HX1000i PSU: An In-Depth Performance Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-5-key-elements-behind-chatgpts-meteoric-rise-to-fame/"><u>Discover the 5 Key Elements Behind ChatGPT's Meteoric Rise to Fame</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ce-video-reach-strategic-insights-into-youtubes-tag-system/"><u>Enhance Video Reach Strategic Insights Into YouTube's Tag System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-hardware-by-toms-tech-hub-reliable-and-informed-reviews/"><u>Expert Insights Into Hardware by Tom's Tech Hub - Reliable and Informed Reviews</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y78t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y78t? Try These Fixes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-assessment-of-the-corsair-tx5-problems/"><u>In-Depth Assessment of the Corsair TX5# Problems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/launch-of-seasonic-psu-models-featuring-advanced-12vhpwr-connectors-starting-from-230/"><u>Launch of Seasonic PSU Models Featuring Advanced 12VHPWR Connectors Starting From $230</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964496458-lowest-price-on-lian-li-lancool-215-vibrant-and-sleek-design-for-just-89/"><u>Lowest Price on Lian Li Lancool 215 - Vibrant and Sleek Design for Just $89</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-with-toms-guide/"><u>Navigating the Latest in Hardware with Tom's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-130-music-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia 130 Music</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steering-algorithms-who-rules/"><u>Steering Algorithms: Who Rules?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/steps-to-correct-network-access-failures-on-your-android-phone/"><u>Steps to Correct Network Access Failures on Your Android Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-performance-benchmarks/"><u>Tom's Tech Review: In-Depth Analysis and Performance Benchmarks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-scaling-up-on-igtv-through-powerful-hash-tagging-for-2024/"><u>[New] Scaling Up on IGTV Through Powerful Hash Tagging for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-screen-selection-simplified-find-the-best-display-for-xbox-series-x/"><u>[Updated] 2024 Approved Screen Selection Simplified - Find the Best Display for Xbox Series X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-classroom-titling-software/"><u>2024 Approved Master Classroom Titling Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-11-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 11 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862798369-dell-xps-13-shines-with-lgs-newly-released-oled-display-successful-mass-production-achieved/"><u>Dell XPS 13 Shines with LG's Newly Released OLED Display – Successful Mass Production Achieved</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862820893-dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862781576-experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-for-b-roll-utilization/"><u>In 2024, Best Practices for B-Roll Utilization</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-wanderlust-chronicles-setting-up-for-success-as-a-travel-vlogger/"><u>In 2024, The Wanderlust Chronicles Setting Up for Success as a Travel Vlogger</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862800618-maximize-your-gameplay-high-refresh-rate-monitor-at-an-unbeatable-price-only-149/"><u>Maximize Your Gameplay: High Refresh Rate Monitor at an Unbeatable Price - Only $149</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862816622-transform-your-gaming-experience-with-the-sale-priced-acer-nitro-a-stunning-24-curved-monitor-now-available-at-a-fantastic-price-of-only-81/"><u>Transform Your Gaming Experience with the Sale-Priced Acer Nitro: A Stunning 24 Curved Monitor Now Available at a Fantastic Price of Only $ 81</u></a></li>
 </ul></div>
 

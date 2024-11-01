@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Reading Lamps - Discover the Latest Picks!
-date: 2024-09-17 22:16:45
-updated: 2024-09-20 10:14:48
+date: 2024-10-25T17:11:06.635Z
+updated: 2024-11-01T18:29:14.755Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,29 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-review-best-dynamic-capture-devices/"><u>[New] 2024 Approved Essential Review Best Dynamic Capture Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-precision-in-screenshots-a-detailed-guide/"><u>[Updated] 2024 Approved Precision in Screenshots A Detailed Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-pioneering-the-future-of-drones-today-and-tomorrow/"><u>[Updated] Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-nuphy-halo75-v2-analysis-a-perfect-choice-for-gaming-enthusiasts/"><u>Budget-Friendly Nuphy Halo75 V2 Analysis: A Perfect Choice for Gaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-equipment-breakdowns-by-tom-your-hardware-guide/"><u>Cutting-Edge Equipment Breakdowns by Tom – Your Hardware Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/deep-dive-sonys-s6700-updates-review/"><u>Deep Dive Sony's S6700 Updates Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/discover-the-power-of-snapchat-boomers-quickly-and-effectively/"><u>Discover the Power of Snapchat Boomers – Quickly & Effectively</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-brilliance-with-viewsonics-oled-gaming-display-xg272-2k-240-hz-reviewed/"><u>Experience Brilliance with ViewSonic's OLED Gaming Display: XG272-2K, 240 Hz Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-computer-gadgets-by-toms-hardware/"><u>Expert Analysis on Computer Gadgets by Tom's Hardware</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nubia-z50-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nubia Z50 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers23/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/reach-new-heights-in-youtube-seo-top-tips-and-tricks/"><u>Reach New Heights in YouTube SEO Top Tips and Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-pc-cases-an-insightful-review-of-the-lian-li-hydroshift-360s-model-with-lcd-display/"><u>The Future of PC Cases: An Insightful Review of the Lian Li Hydroshift 360S Model with LCD Display</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functional-logitech-g430-microphone/"><u>Troubleshooting Steps for a Non-Functional Logitech G430 Microphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-hardware-with-tom/"><u>Understanding Hardware with Tom</u></a></li>
+</ul></div>
+

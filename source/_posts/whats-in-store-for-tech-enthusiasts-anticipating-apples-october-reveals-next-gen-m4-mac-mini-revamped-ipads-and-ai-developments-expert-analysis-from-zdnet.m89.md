@@ -1,7 +1,7 @@
 ---
 title: "What's in Store for Tech Enthusiasts: Anticipating Apple's October Reveals – Next-Gen M4 Mac Mini, Revamped iPads & AI Developments – Expert Analysis From ZDNet"
-date: 2024-10-24T23:55:31.926Z
-updated: 2024-10-26T23:15:54.487Z
+date: 2024-10-29T16:19:52.358Z
+updated: 2024-11-01T19:33:53.748Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,16 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,24 +123,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-acknowledgement-roundup-free-and-paid-template-haven/"><u>[Updated] 2024 Approved Acknowledgement Roundup Free & Paid Template Haven</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-quick-and-easy-methods-for-recording-audio-on-your-android-device/"><u>1. Quick and Easy Methods for Recording Audio on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-practices-for-picking-your-perfect-wireless-phone-charger/"><u>Best Practices for Picking Your Perfect Wireless Phone Charger</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bridging-the-gap-the-ongoing-effort-by-google-for-seamless-text-communication-between-iphones-and-android-devices/"><u>Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/easy-methods-for-relocating-apps-onto-external-sd-cards-on-your-android-device/"><u>Easy Methods for Relocating Apps Onto External SD Cards on Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funhouse-laughs-top-10-meme-blueprints-explained-for-2024/"><u>Funhouse Laughs Top 10 Meme Blueprints Explained for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-and-update-amd-radeon-hd-7850-drivers-on-windows-11/"><u>How to Install and Update AMD Radeon HD 7850 Drivers on Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-supercharge-your-game-trailers-with-keywords/"><u>In 2024, Supercharge Your Game Trailers with Keywords</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>List of Pokémon Go Joysticks On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/restaurar-registros-olvidados-pasos-simples-para-recuperar-grabaciones-eliminadas-en-reproductores-de-sonido-olympus-y-sony/"><u>Restaurar Registros Olvidados: Pasos Simples Para Recuperar Grabaciones Eliminadas en Reproductores De Sonido Olympus Y Sony</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/ripristina-immagini-eliminate-sulla-tua-carta-sd-senza-utilizzare-applicazioni/"><u>Ripristina Immagini Eliminate Sulla Tua Carta SD Senza Utilizzare Applicazioni</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-revolutionary-samsung-galaxy-chromebook-2-unveiling-portability-and-performance-in-a-review/"><u>The Revolutionary Samsung Galaxy Chromebook 2: Unveiling Portability and Performance in a Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlock-the-power-of-visual-storytelling-with-screen-capture-skills-for-2024/"><u>Unlock the Power of Visual Storytelling with Screen Capture Skills for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-cross-platform-note-taking-in-win11/"><u>Unveiling the Power of Cross-Platform Note Taking in Win11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-embarking-on-the-av1-coding-journey/"><u>[New] 2024 Approved Embarking on the AV1 Coding Journey</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[New] Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-ios-movie-guide-paid-vs-free-apps-ranked/"><u>[Updated] In 2024, Ultimate iOS Movie Guide Paid vs Free Apps Ranked</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-quality-with-toms-trusted-reviews-and-expertise/"><u>Decoding Hardware Quality with Tom's Trusted Reviews and Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-plus-upgraded-with-qualcomms-cost-effective-snapdragon-x-chips-offering-doubled-battery-lifespan-compared-to-intel-systems/"><u>Dell XPS 13 Plus Upgraded with Qualcomm’s Cost-Effective Snapdragon X Chips, Offering Doubled Battery Lifespan Compared to Intel Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-insights-on-tech-gear-at-toms-hardware-review/"><u>Discover Insights on Tech Gear at Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-msis-latest-innovation-the-aiplus-laptop-range-revolutionizing-gaming-and-creativity-with-up-to-542-tops/"><u>Discover MSI's Latest Innovation: The AI+ Laptop Range, Revolutionizing Gaming and Creativity with Up to 542 TOPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-notch-computer-hardware-with-toms-review-guide/"><u>Explore Top-Notch Computer Hardware with Tom's Review Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-technology-at-toms-digital-workshop/"><u>Exploring Cutting-Edge Technology at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-releases-with-toms-hardware-review/"><u>Exploring New Releases with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamer-and-creator-upgrades-dive-into-the-performance-of-msis-advanced-aiplus-laptops-showcasing-unprecedented-speed-from-100-542-tops/"><u>Gamer and Creator Upgrades: Dive Into the Performance of MSI's Advanced AI+ Laptops, Showcasing Unprecedented Speed From 100-542 TOPS</u></a></li>
+<li><a href="https://howto.techidaily.com/huawei-nova-y91-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Huawei Nova Y91 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-navigating-vimeo-tiers-free-plus-and-pro-options/"><u>In 2024, Navigating Vimeo Tiers Free, Plus, and Pro Options</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mkv-versus-mp4-determining-the-superior-video-file-format/"><u>MKV versus MP4: Determining the Superior Video File Format</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-exceptional-4th-of-july-promotions-for-phones-and-plans-zdnet-insights/"><u>Unveiling Exceptional 4Th of July Promotions for Phones and Plans - ZDNet Insights</u></a></li>
 </ul></div>
 

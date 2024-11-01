@@ -1,7 +1,7 @@
 ---
 title: "Transforming Typing Habits: One Week on a Split Ergo-Key and Its Unintended Effects on Old Gear | Insights by ZDNET"
-date: 2024-10-23T16:01:50.856Z
-updated: 2024-10-26T22:22:28.884Z
+date: 2024-10-27T19:17:30.841Z
+updated: 2024-11-01T18:24:53.537Z
 tags:
   - laptops
 categories:
@@ -107,10 +107,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,22 +149,24 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevated-engagement-awards-on-video-realms/"><u>[New] 2024 Approved Elevated Engagement Awards on Video Realms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-time-travel-on-fb-accessing-historical-posts-for-2024/"><u>[New] Time Travel on FB Accessing Historical Posts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-understanding-video-storage-daylong-total-in-gbs/"><u>[New] Understanding Video Storage Daylong Total in GBs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-potential-advanced-techniques-in-instagram-loop-creation/"><u>[Updated] 2024 Approved Unleash Potential Advanced Techniques in Instagram Loop Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-professional-level-communication-on-skype-for-2024/"><u>[Updated] Professional-Level Communication on Skype for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-pc-gear-with-toms-hardware-insights/"><u>Exploring High-Performance PC Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-visual-storytelling-planning-strategy-on-instavideo/"><u>In 2024, Mastering Visual Storytelling Planning Strategy on InstaVideo</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/keep-the-confidant-human-trust-chatgpt-less/"><u>Keep the Confidant Human; Trust ChatGPT Less</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-innovations-at-toms-hardware/"><u>Navigating the Latest in Hardware Innovations at Tom's Hardware</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/professionelle-losungen-fur-den-umgang-mit-browserabsturzen-optimierungstechniken-fur-eine-verbesserte-nutzungserfahrung/"><u>Professionelle Lösungen Für Den Umgang Mit Browserabstürzen – Optimierungstechniken Für Eine Verbesserte Nutzungserfahrung</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-full-potential-effortlessly-operate-windows-with-your-new-steam-deck-oled-device/"><u>Unlocking Full Potential: Effortlessly Operate Windows with Your New Steam Deck OLED Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-seamless-connectivity-a-step-by-step-for-combining-various-mesh-network-systems/"><u>Unlocking Seamless Connectivity: A Step-by-Step for Combining Various Mesh Network Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-origin-whats-behind-the-name-bluetooth/"><u>Unraveling the Origin: What's Behind the Name 'Bluetooth'?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/wake-up-gently-with-philips-hue-transform-your-mornings-into-breathtaking-sunrises-by-your-bedside/"><u>Wake Up Gently with Philips Hue - Transform Your Mornings Into Breathtaking Sunrises by Your Bedside</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/wi-fi-standard-8-wi-fi-7-advantages-explained-and-why-you-should-consider-switching/"><u>Wi-Fi Standard 8 (Wi-Fi 7): Advantages Explained & Why You Should Consider Switching!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-smart-tvs-secret-beyond-entertainment-it-monitors-all-you-do/"><u>Your Smart TV's Secret: Beyond Entertainment, It Monitors All You Do</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-videos-on-facebook-in-2024/"><u>[New] How to Share Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-prime-gopro-editing-software-for-iosandroid-users/"><u>[New] In 2024, Prime GoPro Editing Software for iOS/Android Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-depth-examination-the-dji-phantom-3-experience/"><u>[New] In-Depth Examination The DJI Phantom 3 Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-review-of-budget-friendly-clouds/"><u>[New] In-Depth Review of Budget-Friendly Clouds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-charm-in-tiktok-videos/"><u>[Updated] In 2024, Crafting Charm in TikTok Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nt-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion-for-2024/"><u>Content Hub Hierarchy Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubics-trailblazing-multicolor-3d-printer-the-kobra-3-edition/"><u>Exploring the Features of Anycubic's Trailblazing Multicolor 3D Printer: The Kobra 3 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695533-exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-freezing-issues-during-system-start-up/"><u>Fixing Windows 11 Freezing Issues During System Start-Up</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-google-pixel-7a-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Google Pixel 7a Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-your-trusted-computer-hub/"><u>Inside Tom's Hardware: Your Trusted Computer Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/on-the-go-connectivity-assessment-asus-rt-ax52018-nano-router-a-review-for-wanderers-and-road-warriors/"><u>On-the-Go Connectivity Assessment: Asus RT-AX52018 Nano Router – A Review for Wanderers and Road Warriors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-gigabyte-g6x-for-gamers-reliable-functionality-yet-unremarkable-attributes/"><u>Reviewing the Gigabyte G6X for Gamers: Reliable Functionality Yet Unremarkable Attributes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-effortless-dvd-to-avi-file-transformation/"><u>Step-by-Step Tutorial on Effortless DVD to AVI File Transformation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-gadgets-by-toms-tech-wisdom/"><u>The Ultimate Guide to Cutting-Edge Gadgets by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-motorola-moto-g04-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G04 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-kingston-fury-ddr5-6000-a-closer-look-at-its-high-speed-32gbx2-performance/"><u>Unveiling the Capabilities of the Kingston Fury DDR5-6000: A Closer Look at Its High-Speed 32GBx2 Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Scoop on the Premier Smart Devices of 2Nndê: Professional Insights and Ratings | ZDNET"
-date: 2024-09-19 20:23:42
-updated: 2024-09-20 10:28:36
+date: 2024-10-28T17:23:57.737Z
+updated: 2024-11-01T19:25:10.619Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-flip-content-sequence-android-video-workaround/"><u>[New] Flip Content Sequence Android Video Workaround</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-google-photos-and-your-creativity-quick-collages-made-simple/"><u>[New] Google Photos & Your Creativity Quick Collages Made Simple</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-enhance-your-pc-gaming-experience-with-steelseries-engine-on-windows-11/"><u>Free Download: Enhance Your PC Gaming Experience with SteelSeries Engine on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-monitor-insight-asrocks-pg27qft2a-with-ultra-fast-180-hz-display-analyzed/"><u>Gaming Monitor Insight: ASRock's PG27QFT2A with Ultra-Fast 180 Hz Display Analyzed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-solo-driver-installed-tutorial-for-windows-users/"><u>Get Your Focusrite Scarlett Solo Driver Installed - Tutorial for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-12-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 12? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-of-windows-movie-maker-versus-movavi-video-editor-which-offers-better-editing-tools/"><u>In-Depth Analysis of Windows Movie Maker Versus Movavi Video Editor: Which Offers Better Editing Tools?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-expert-hardware-analysis/"><u>Mastering Gadgets with Tom - Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-scoop-from-toms-hardware-experts/"><u>Mastering Technology: Inside Scoop From Tom's Hardware Experts</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-user-participation-in-stories-polls/"><u>Maximizing User Participation in Stories Polls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/overcoming-fullscreen-malfunctions-in-obs-for-2024/"><u>Overcoming Fullscreen Malfunctions in OBS for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/public-hearings-may-provide-community-members-with-a-platform-to-influence-the-land-division-process/"><u>Public Hearings May Provide Community Members with a Platform to Influence the Land Division Process.</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-a-disabled-windows-11-media-app/"><u>Reactivating a Disabled Windows 11 Media App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-anycub-(datetime)kobra-3-revolutionizing-3d-printing-with-multicolor-capabilities/"><u>Review of Anycub <DateTime>Kobra 3 - Revolutionizing 3D Printing with Multicolor Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub - The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-hardware-solutions/"><u>Tom's Ultimate Guide to Cutting-Edge Hardware Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 11 Pro 5G Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-toms-authoritative-hardware-reviews/"><u>Unlocking Performance Secrets: Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-digital-tools-top-picks-from-toms-comprehensive-hardware-guide/"><u>Unveiling Digital Tools: Top Picks From Tom’s Comprehensive Hardware Guide</u></a></li>
+</ul></div>
+

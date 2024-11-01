@@ -1,7 +1,7 @@
 ---
 title: Extend Your MacBook's Life on a Single Charge – Expert Strategies Unveiled
-date: 2024-10-21T00:50:35.208Z
-updated: 2024-10-26T19:21:45.279Z
+date: 2024-10-25T17:13:28.801Z
+updated: 2024-11-01T17:38:18.152Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +54,10 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +75,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +92,10 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,22 +140,20 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-slow-motion-photography-techniques-for-instagram-posts-for-2024/"><u>[New] Mastering Slow Motion Photography Techniques for Instagram Posts for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-ai-voice-text-to-speech/"><u>2024 Approved What Is AI Voice Text to Speech?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exclusive-list-top-10-live-streaming-networks-ranked-for-2024/"><u>Exclusive List Top 10 Live Streaming Networks Ranked for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/ignite-a-sensation-how-to-have-your-video-go-viral-for-2024/"><u>Ignite a Sensation How to Have Your Video Go Viral for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/keep-your-apple-devices-powered-and-protected-with-our-top-pick-of-3-in-1-magsafe-chargers-innovative-tech-insights-by-zdnet/"><u>Keep Your Apple Devices Powered & Protected with Our Top Pick of 3-in-1 MagSafe Chargers | Innovative Tech Insights by ZDNET</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/most-cost-effective-4k-screen-buys-in-2s4e/"><u>Most Cost-Effective 4K Screen Buys in 2S4e</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-new-gear-with-toms-comprehensive-hardware-analysis/"><u>Navigate New Gear with Tom's Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-technology-tips-and-tricks-from-toms-experience/"><u>Navigate the World of Technology: Tips and Tricks From Tom's Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-apples-restrictions-a-look-at-why-gifting-is-tricky-on-ios-devices/"><u>Navigating Apple's Restrictions: A Look at Why Gifting Is Tricky on iOS Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computer-components-with-toms-expertise/"><u>Navigating the Latest in Computer Components with Tom's Expertise</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pcwinx-mediatrans/"><u>PCとスマートデバイスに対応したWinX MediaTrans: 簡単な操作で音楽、ビデオ、画像のシームレス転送</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-200-on-dell-alienware-aw3225qf-premium-32-240hz-4k-oled-gamers-dream-display/"><u>Save $200 on Dell Alienware AW3225QF: Premium 32 240Hz, 4K OLED Gamer's Dream Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-the-highest-gaming-quality-with-our-best-ever-rated-dell-s3222dgm-for-a-shocking-low-of-229/"><u>Score the Highest Gaming Quality with Our Best Ever Rated Dell S3222DGM for a Shocking Low of $229</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/snag-the-ultimate-deal-240hz-acer-nitro-27-curved-display-at-only-159/"><u>Snag the Ultimate Deal: 240Hz Acer Nitro 27 Curved Display at Only $159!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-up-to-ultra-fast-gaming-the-new-asus-rog-strix-xg27wcs-monitor-delivers-crisp-visuals-on-its-27-va-screen-running-at-180-hz/"><u>Step Up to Ultra-Fast Gaming - The New Asus Rog Strix XG27WCS Monitor Delivers Crisp Visuals on Its 27 VA Screen Running at 180 Hz</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-ace-your-edits-in-depth-guide-to-high-quality-youtube-videos/"><u>[New] Ace Your Edits In-Depth Guide to High-Quality YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-easy-techniques-perfect-your-idevice-screen-shots/"><u>[New] Easy Techniques Perfect Your iDevice Screen Shots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-breakdown-the-true-price-of-a-podcast/"><u>[New] Expert Breakdown The True Price of a Podcast</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-massive-subscriber-jump-for-a-sensible-5-investment/"><u>[Updated] Massive Subscriber Jump for a Sensible $5 Investment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>[Updated] Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unearth-pristine-stock-media-from-selective-4-youtube-hubs/"><u>2024 Approved Unearth Pristine Stock Media From Selective 4 YouTube Hubs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-video-ventures-uploading-to-twtplustumble-feeds/"><u>2024 Approved Video Ventures Uploading to Twt+Tumble Feeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-experts/"><u>Exploring Computer Components with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-hardware-review-guide/"><u>Exploring Digital Innovations with Tom's Hardware Review Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-with-technology-toms-detailed-insights-on-electronics/"><u>Hands-On with Technology: Tom's Detailed Insights on Electronics</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-batteries-and-chargers-for-gopro-hero5-official-and-counterfeits-for-2024/"><u>Top Batteries and Chargers for GoPro Hero5 – Official & Counterfeits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-workstation-essential-z790-motherboards-and-liquid-cpu-coolers-reviewed/"><u>Upgrade Your Workstation: Essential Z790 Motherboards and Liquid CPU Coolers Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/win-a-top-ranked-pc-building-contest-toms-hardware-exclusive/"><u>Win a Top-Ranked PC Building Contest: Tom's Hardware Exclusive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/winner-highlights-from-the-2015-fourth-quarter-at-toms-hardware-system-builder-showdown-results/"><u>Winner Highlights From the 2015 Fourth Quarter at Tom's Hardware: System Builder Showdown Results</u></a></li>
 </ul></div>
 

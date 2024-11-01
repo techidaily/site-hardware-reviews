@@ -1,7 +1,7 @@
 ---
 title: "Portable Powerhouse: Dell Unveils a New Gaming Laptop Perfect for the Office and Beyond - Insights"
-date: 2024-10-21T22:22:40.023Z
-updated: 2024-10-26T23:13:13.090Z
+date: 2024-10-25T19:21:32.653Z
+updated: 2024-11-01T16:03:28.969Z
 tags:
   - laptops
 categories:
@@ -71,10 +71,10 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,17 +113,20 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-earn-online-via-youtube-how-reaching-500-subscribers-pays-off-for-2024/"><u>[New] Earn Online via YouTube How Reaching 500 Subscribers Pays Off for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expertly-alter-imagesvideo-with-mobile-3dluts/"><u>[New] Expertly Alter Images/Video with Mobile 3DLUTs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-seamless-video-editing-on-windows-11-platform-for-2024/"><u>[New] Seamless Video Editing on Windows 11 Platform for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-complete-breakdown-enhancing-your-experience-with-advanced-mobizen-techniques-for-2024/"><u>[Updated] Complete Breakdown Enhancing Your Experience with Advanced Mobizen Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creative-potential-with-green-screen-tips/"><u>2024 Approved Unleash Creative Potential with Green Screen Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-electronics-with-toms-review-comprehensive-hardware-guides/"><u>Dive Into Electronics with Tom’s Review: Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-a-guide-by-toms-hardware-experts/"><u>Exploring the World of Computing with Tom - A Guide by Tom's Hardware Experts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-tiktok-and-twittersphere-crossover-the-viral-vids/"><u>In 2024, TikTok and Twittersphere Crossover The Viral Vids</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/shared-woes-the-unforeseen-pitfalls-of-transitioning-to-iphone-on-ios-18-a-collective-experience/"><u>Shared Woes: The Unforeseen Pitfalls of Transitioning to iPhone on iOS 18 – A Collective Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-insights/"><u>Tom's Tech Reviews: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-the-ultimate-guide-to-modern-electronics/"><u>Unveiling Gadgets with Tom: The Ultimate Guide to Modern Electronics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-advice-on-valheim-seed-selection/"><u>[Updated] In 2024, Expert Advice on Valheim Seed Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-fruition-for-virtual-quests/"><u>[Updated] Ultimate Fruition for Virtual Quests</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computing-toms-hardware-analysis/"><u>Expert Insights Into Computing - Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-take-on-the-affordable-giant-monoprice-40-inch-crystal-pro-gaming-monitor-44394-with-high-fps-and-stealthy-cost/"><u>Experts' Take on the Affordable Giant - Monoprice 40 Inch Crystal Pro Gaming Monitor (44394) with High FPS and Stealthy Cost!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-gadgets-with-toms-hardware-insights/"><u>Exploring New Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides-t172386288018310/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-on-epic-memorial-day-offer-32-inch-dell-gaming-monitor-at-an-unbeatable-price-of-279/"><u>Game On! Epic Memorial Day Offer - 32-Inch Dell Gaming Monitor at an Unbeatable Price of $279</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-delight-capture-the-elite-dell-s3222dgm-monitor-for-a-bargain-at-just-229/"><u>Gamers' Delight: Capture the Elite Dell S3222DGM Monitor for a Bargain at Just $229</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-ultimate-deal-this-memorial-day-with-a-gaming-monitor-at-just-279-the-dell-s3222dgm-32-inch-model/"><u>Get the Ultimate Deal This Memorial Day with a Gaming Monitor at Just $279 – The Dell S3222DGM 32-Inch Model</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-restore-a-clear-image-addressing-line-issues-in-modern-television-screens/"><u>How to Restore a Clear Image: Addressing Line Issues in Modern Television Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>In 2024, Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokias-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokias Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unlocking-voice-inputs-powerpoint-speech-to-text-guide/"><u>Unlocking Voice Inputs PowerPoint Speech-to-Text Guide</u></a></li>
 </ul></div>
 

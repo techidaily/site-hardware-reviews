@@ -1,7 +1,7 @@
 ---
 title: "1. Enhance Your Peace of Mind: The Newest Security Standard for Smart Home Gadgets Coming"
-date: 2024-09-18 13:34:20
-updated: 2024-09-20 11:25:10
+date: 2024-10-28T18:14:53.677Z
+updated: 2024-11-01T19:41:52.687Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-unpacking-techniques-for-facebook-live-embedding-for-2024/"><u>[New] Unpacking Techniques for Facebook Live Embedding for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-your-shorts-videos-thumbnail-shows-up/"><u>[Updated] Ensuring Your Shorts Video's Thumbnail Shows Up</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-ready-to-save-space-with-these-38-exceptional-android-compressor-apps/"><u>[Updated] Get Ready to Save Space with These 38 Exceptional Android Compressor Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-bestdiscords-ultimate-guide-to-popular-themes/"><u>[Updated] In 2024, BestDiscord's Ultimate Guide to Popular Themes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-xs-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone XS Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-zen-5-revolutionizes-gaming-in-depth-analysis-of-the-ryzen-9600x-vs-ryzen-7/"><u>AMD Zen 5 Revolutionizes Gaming: In-Depth Analysis of the Ryzen 9600X Vs. Ryzen 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-upheres-c5c-and-dnsect-models-high-performance-at-a-low-cost/"><u>Comparing UpHere's C5C and DnSect Models: High Performance at a Low Cost</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-your-network-with-tp-links-re200-ac750-range-extender-a-comprehensive-review/"><u>Enhancing Your Network with TP-Link's RE200 AC750 Range Extender - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341738052-expert-review-on-the-powerful-platinum-series-nzxt-c1ebuilding-with-sustainable-materials-including-recycled-content-when-possible/"><u>Expert Review on the Powerful Platinum Series - NZXT C1ebuilding with Sustainable Materials, Including Recycled Content when Possible</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-hardware-with-tom-a-detailed-analysis/"><u>Exploring the World of Computer Hardware with Tom - A Detailed Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone without Google Account?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-machine-top-picks-and-trends-from-toms-tech-analysis/"><u>Master Your Machine: Top Picks and Trends From Tom's Tech Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-lattepanda-benchmarks-outpacing-raspberry-pi-4-with-speed-at-a-higher-cost/"><u>Mu LattePanda Benchmarks: Outpacing Raspberry Pi 4 with Speed, at a Higher Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-gadgets-and-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Gadgets and Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performance-test-comprehensive-review-of-the-gigabyte-aorus-fo32u2p-ultra-fast-240hz-and-stunning-4k-oled-display-for-gamers/"><u>Top-Performance Test: Comprehensive Review of the Gigabyte Aorus FO32U2P - Ultra-Fast 240Hz and Stunning 4K OLED Display for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-hardware-perspective/"><u>Unveiling New Gadgets with Tom - A Hardware Perspective</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+</ul></div>
+

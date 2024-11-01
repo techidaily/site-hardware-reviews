@@ -1,7 +1,7 @@
 ---
 title: "How to Score the Best Laptop Bargains During Amazon's Prime Day in Oct '24: Insider Tips & Tricks"
-date: 2024-10-22T22:28:49.755Z
-updated: 2024-10-26T20:22:34.008Z
+date: 2024-10-27T16:23:50.551Z
+updated: 2024-11-01T17:53:33.943Z
 tags:
   - laptops
 categories:
@@ -124,13 +124,6 @@ Asus/ZDNET
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $1,679 ($20 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXKQYNPD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $1,399 ($200 off): This Copilot+ certified laptop features the more competent Snapdragon X Elite chip and 1TB of storage.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -140,6 +133,13 @@ Kyle Kucharski/ZDNET
 * [Acer Nitro 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHexa-Core-GeForce-Display-Backlit-AN16-41-R148%2Fdp%2FB0D3VJXSWK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $799 (save $200): This mid-range gaming laptop has a 16-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4050 graphics card.
 * [Acer Swift Go 14](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Facer-Display-Experiences-Processor-SFG14-72T-718K%2Fdp%2FB0CNDTGC77%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce81cd4b2-c3db-4cf2-aad9-a8b2a2744d97%7Cdtp&dtb=1) for $927 (save $72): This lightweight laptop features an Intel Core Ultra 7 155H CPU, Intel Arc graphics, 16GB of RAM, and a 512GB SSD.
 * [HP 17-inch Touch Laptop](https://qvc.uikc.net/c/159047/565130/9368?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.qvc.com%2Fhp-17-touch-laptop-intel-n200-4gb-ram-128gb-ssd-w-hp-mouse-%2526-ms365.product.E324465.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for $479 (Save $80): For a large-screen laptop with touch capabilities, HP's 17-inch Touch comes in a variety of bold colorways, and is bundled with a mouse in this QVC deal. This is a solid choice for users who want a large screen to play media, but only need a basic hardware configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals
 
@@ -153,20 +153,13 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro 16 M3 Max](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-macbook-pro-16-laptop-m3-max-chip-built-for-apple-intelligence-36gb-memory-30-core-gpu-1tb-ssd-space-black%2F6534635.p%3FskuId%3D6534635&publisher_slug=itechdaily19598&exclusive=1) for $2,999 (save $500): Apple's flagship content creation and workstation laptop has 36GB of RAM, a 1TB SSD, and M3 Max chip with integrated graphics processors.
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $430 (save $270): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
@@ -176,6 +169,19 @@ Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -190,10 +196,10 @@ When compiling the list of the best deals, we considered the following:
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What are the best October Prime Day 2024 deals?
@@ -262,19 +268,14 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-driving-traffic-to-long-form-videos-via-shorts/"><u>[New] In 2024, Driving Traffic to Long-Form Videos via Shorts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/avoid-voiding-your-intels-cpu-warranty-the-essential-guide-to-choosing-the-right-liquid-freezer-iii-from-arctic-with-contact-frames/"><u>Avoid Voiding Your Intels CPU Warranty: The Essential Guide to Choosing the Right Liquid Freezer III From Arctic With Contact Frames</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-heartfelt-youtube-journeys-for-2024/"><u>Creating Heartfelt YouTube Journeys for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/diy-animated-wireless-charger-in-the-shape-of-a-3d-printer-save-over-50-with-bambu-labs/"><u>DIY Animated Wireless Charger in the Shape of a 3D Printer: Save Over $50 with Bambu Labs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-by-tom-your-trusted-source/"><u>Expert Hardware Insights by Tom - Your Trusted Source</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-dynamic-windows-top-9-essential-gif-recorder-programs/"><u>In 2024, Dynamic Windows Top 9 Essential GIF Recorder Programs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-electronics-guide/"><u>In-Depth Gadget Analysis by Tom's Electronics Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/interactivemix-for-all-systems-for-2024/"><u>InteractiveMix for All Systems for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-gadget-guide/"><u>Navigating the World of Technology with Tom's Gadget Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfecting-the-art-of-media-preservation-macs-dvd-burn-guide/"><u>Perfecting the Art of Media Preservation Mac's DVD Burn Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964487420-score-unbeatable-deal-grab-your-steelseries-arctis-nova-pro-wireless-for-just-64-top-choice-in-gaming-headsets/"><u>Score Unbeatable Deal: Grab Your SteelSeries Arctis Nova Pro Wireless for Just $64 - Top Choice in Gaming Headsets!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-insights-in-depth-hardware-evaluation-and-comparison/"><u>Tom's Computer Insights: In-Depth Hardware Evaluation and Comparison</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-most-accessible-triple-decker-cpu-the-amd-ryzen-student-when-did-world-war-ii-start/"><u>Unveiling the Most Accessible Triple-Decker CPU: The AMD Ryzen # Student: When Did World War II Start?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-channel-gain-strategies-for-youtube-aspirants/"><u>[New] 2024 Approved Channel Gain Strategies for YouTube Aspirants</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-best-5-book-promo-videos-for-authors/"><u>2024 Approved Exploring the Best 5 Book Promo Videos for Authors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-tech-overviews-discover-more-at-tomngear/"><u>Advanced Tech Overviews: Discover More at Tom'n'Gear</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-note-30-vip-racing-edition-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Note 30 VIP Racing Edition to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-ancient-crt-tech-achieves-record-breaking-700hz-sacrifices-full-1280x1024-resolution/"><u>Revolutionary Ancient CRT Tech Achieves Record-Breaking 700Hz, Sacrifices Full 1280X1024 Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-multi-user-interactions-jdis-two-view-displays-with-dual-touch-capability/"><u>Revolutionizing Multi-User Interactions: JDI's Two View Displays with Dual Touch Capability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsungs-odyssey-g9-the-epic-49-oled-curved-screen-now-at-record-lows/"><u>Samsung's Odyssey G9: The Epic 49 OLED Curved Screen Now at Record Lows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-on-the-ultrawide-screen-spectacle-save-60samsungs-49-oled-tv-today/"><u>Score Big Savings on the Ultrawide Screen Spectacle – Save $60([Samsung’s] 49” OLED TV) Today!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-checklist-for-solo-online-stream-success-for-2024/"><u>The Ultimate Checklist for Solo Online Stream Success for 2024</u></a></li>
 </ul></div>
 

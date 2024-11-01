@@ -1,7 +1,7 @@
 ---
 title: "Avoid Missing Out: Exclusive Best Deals for BizTech Products During October's Super Prime Day 2Er Event - Your Ultimate Guide to Saving Big! Insider"
-date: 2024-10-22T18:24:07.791Z
-updated: 2024-10-27T01:24:45.724Z
+date: 2024-10-25T16:07:52.233Z
+updated: 2024-11-01T16:00:15.374Z
 tags:
   - laptops
 categories:
@@ -83,13 +83,6 @@ The Razer Blade 15 is a powerhouse of a laptop, built for content creation, gami
 * [Alienware m16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m16-qhd-165hz-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6541332.p%3FskuId%3D6541332&publisher_slug=itechdaily19598&exclusive=1) for $1400 (save $600)
 * [HP Envy 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-2-in-1-14-full-hd-touch-screen-laptop-intel-core-i5-8gb-memory-512gb-ssd-natural-silver%2F6535745.p%3FskuId%3D6535745&publisher_slug=itechdaily19598&exclusive=1) for $550 (save $300)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Newegg laptop deals still available
 
 * [Asus ROG Flow Z13](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fblack-asus-rog-flow-z13-gz301zc-ps73-gaming%252Fp%252FN82E16834236104%253FItem%253DN82E16834236104) for $900 (save $900)
@@ -117,10 +110,10 @@ The Razer Blade 15 is a powerhouse of a laptop, built for content creation, gami
 * [MSI Summit E13 Flip](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1657261-REG%2Fmsi%5Fsummit%5Fe13flipevo%5Fa11mt%5F235%5Fsummit%5Fe13flip%5Fevo%5Ffhd.html): $1099 (save $400)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Lenovo laptop deals still available
@@ -130,6 +123,13 @@ The Razer Blade 15 is a powerhouse of a laptop, built for content creation, gami
 * [ThinkPad L13 Yoga Gen 2 Intel](https://go.shopyourlikes.com/pi/b1eac4bac01adb5918f9d39dd57377004f61290a?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $429 (save $1410)
 * [ThinkPad X1 Carbon Gen 11 Intel](https://go.shopyourlikes.com/pi/efb64ca6aa9406947c6dbf863778934bc2f62030?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $1160 (save $1160)
 * [Slim Pro 7 AMD](https://go.shopyourlikes.com/pi/f69960e07818a5f694fdfcaf6125ec3b02754ea6?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $1085 (save $365)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Dell laptop deals still available
 
@@ -141,19 +141,19 @@ The Razer Blade 15 is a powerhouse of a laptop, built for content creation, gami
 * [XPS 15](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Fxps-15-laptop%2Fspd%2Fxps-15-9530-laptop%2Fusexchcto9530rpl05): $1999 (save $500)
 * [Dell G15](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fgaming-laptops-pcs-and-accessories%2Fg16-gaming-laptop%2Fspd%2Fg-series-16-7620-laptop%2Fgn7620ftshh): $950 (save $450)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best HP laptop deals still available
 
 * [Spectre x360 2-in-1](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-spectre-x360-16-2-in-1-laptop-16t-f2000-74r53av-1): $1200 (save $500)
 * [Omen 16 gaming laptop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-transcend-gaming-laptop-16t-u000-161-765s5av-1): $1200 (save $500)
 * [Victus 16 gaming laptop](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-gaming-laptop-16t-r000-156-7n4k9av-1): $900 (save $400)
 * [HP Chromebook 14](https://www.awin1.com/cread.php?awinmid=7168&awinaffid=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-chromebook-14a-ne0047nr): $200 (save $110)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Acer laptop deals still available
 
@@ -173,6 +173,13 @@ The Razer Blade 15 is a powerhouse of a laptop, built for content creation, gami
 * [Asus GeForce RTX 3060](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1648769-REG%2Fasus%5Ftuf%5Frtx3060%5Fo12g%5Fv2%5Fgaming%5Ftuf%5Fgaming%5Fgeforce%5Frtx.html): $310 (save $150 at B&H Photo)
 * [PNY GeForce RTX 3060 Ti](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1702638-REG%2Fpny%5Ftechnologies%5Fgmr361tn4j8gt2cktp%5Fgeforce%5Frtx%5F3060%5Fti.html): $440 (save $110 at B&H Photo)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Monitor deals still available
 
 * [LG Ultragear 48-inch OLED](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-48GQ900-B-UltragearTM-Monitor-Anti-Glare%2Fdp%2FB0B356KYJ6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C043d30dc-e7ac-47b2-9530-8e3843f64971%7Cdtp&dtb=1): $800 (save $700)
@@ -186,6 +193,13 @@ Amazon's Big Prime Deal Days 2023 runs Tuesday October 10 through Wednesday Octo
 
 The exclusive deals for Prime members officially launch on October 10 at 3 a.m. EDT, and new deals drop as often as every 30 minutes during the two-day event.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these Amazon Prime Day deals?
 
 While sifting through Amazon's Prime Day deal offerings as well as deals from competitors like Best Buy and Newegg, I kept these criteria in mind:
@@ -194,23 +208,9 @@ While sifting through Amazon's Prime Day deal offerings as well as deals from co
 * **Discounts and coupons:** We've all scrolled through a retailer's deals page and scoffed at "markdowns" of 5% or just a few dollars. I made sure that each deal I featured on this list was marked down at least 15%, though I was able to find a few that were marked down by more than half.
 * **Exclusive, lightning, and invite-only deals:** Amazon is slowly rolling out early deals in waves, with some being available only to Prime members, Prime members with a specific invitation link, or for a very short time. I've made sure that exclusive, lightning/flash, and invite-only deals are clearly labeled.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best laptop?
 
 My pick for the [best laptop](https://www.zdnet.com/article/best-laptop/) is the MacBook Pro M2\. The updated CPU provides faster, more efficient processing as well as more power for rendering digital art or editing videos and photos. You can configure the MacBook Pro M2 with up to 96GB of RAM and up to 8TB of storage. And on a full charge, you'll get up to 22 hours of use so you can go all day and night before you need to plug in.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2023 deals?
 
@@ -276,24 +276,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-crafting-a-profitable-channel-in-your-first-youtube-steps/"><u>[Updated] Crafting a Profitable Channel in Your First Youtube Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-photographic-prose-ios-and-androids-best-caption-creators-for-2024/"><u>[Updated] Photographic Prose IOS & Android's Best Caption Creators for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-swift-transformation-androids-best-vid-upgrades/"><u>[Updated] Swift Transformation Android's Best Vid Upgrades</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-expert-analysis-and-reviews-for-avid-hardware-enthusiasts/"><u>[Your Brand Name] – Expert Analysis & Reviews for Avid Hardware Enthusiasts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-transforming-insta-video-to-mp3-audio/"><u>2024 Approved Transforming Insta Video to Mp3 Audio</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/2024s-ultimate-ssd-deals-guide-find-the-lowest-prices-for-1tb-2tb-and-4tb-storage-drives/"><u>2024'S Ultimate SSD Deals Guide: Find the Lowest Prices for 1TB, 2TB & 4TB Storage Drives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/active-cooling-live-demonstration-experience-doubled-durability-and-performance-with-freezetechs-airjet-ssd/"><u>Active Cooling Live Demonstration: Experience Doubled Durability & Performance with FreezeTech's Airjet SSD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-tips-from-toms-hardware-professionals/"><u>Advanced Tips From Tom's Hardware Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-portable-nvme-ssd-by-pny-solid-functionality-that-lacks-distinction/"><u>Evaluating the Portable NVMe SSD by PNY: Solid Functionality that Lacks Distinction</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-a2-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi A2 FRP Bypass</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-facebook-videos-with-synchronized-musical-charm/"><u>In 2024, Elevate Facebook Videos with Synchronized Musical Charm</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-13-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi 13 Ultra Screen | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-s18-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo S18 Phone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/mlining-earnings-with-youtube-studio-techniques-for-2024/"><u>Streamlining Earnings with Youtube Studio Techniques for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-affordable-solid-state-drives-and-hard-disk-drives-in-202/"><u>Ultimate Guide to Affordable Solid State Drives & Hard Disk Drives in 202</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-prime-day-offerings-save-big-with-4tb-ssds-for-only-four-pennies-per-gb-in-a-spectacular-storage-sale-event/"><u>Unbeatable Prime Day Offerings: Save Big with 4TB SSDs for Only Four Pennies per GB in a Spectacular Storage Sale Event</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-pc-building-with-toms-equipment-insights/"><u>Unveiling the Secrets of PC Building with Tom’s Equipment Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/us-court-battle-ymtc-vs-micron-over-intellectual-property-rights-alleging-infringement-of-eleven-patents-from-chinas-memory-sector/"><u>US Court Battle: YMTC Vs. Micron Over Intellectual Property Rights, Alleging Infringement of Eleven Patents From China's Memory Sector</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-a-step-by-step-approach-to-movie-recording-on-multiple-os/"><u>[New] In 2024, A Step-by-Step Approach to Movie Recording on Multiple OS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-notes-and-alerts-implementation/"><u>[New] Mastering YouTube Notes & Alerts Implementation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-on-youtube-live-from-smartphone/"><u>[New] Unleash Your Creativity on YouTube Live From Smartphone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/discover-the-leading-free-game-recording-tools-for-2024/"><u>Discover the Leading Free Game Recording Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/from-game-to-gigabyte-an-essential-guide-for-2024/"><u>From Game to Gigabyte An Essential Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-lava-blaze-2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Lava Blaze 2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/in-depth-guide-to-securely-clearing-data-insights-and-resources-from-stellar-professionals/"><u>In-Depth Guide to Securely Clearing Data: Insights and Resources From Stellar Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastery-in-mac-screen-capture-format-conversion-for-2024/"><u>Mastery in Mac Screen Capture Format Conversion for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-landscape-with-trustworthy-insights-from-toms-hardware/"><u>Navigate the Tech Landscape with Trustworthy Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-insider/"><u>Navigating the Digital Landscape with Tom's Hardware Insider</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-analysis-by-toms-technology-blog/"><u>Pioneering Hardware Analysis by Tom's Technology Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gameplay-with-acers-new-lineup-high-performance-oled-monitors-and-the-exceptional-480hz-predator-x27u-f3/"><u>Revolutionize Your Gameplay with Acer's New Lineup: High-Performance OLED Monitors and the Exceptional 480Hz Predator X27U F3</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-setup-the-premium-24-curved-display-by-sceptre-now-available-for-just-79/"><u>Revolutionize Your Gaming Setup: The Premium, 24 Curved Display by Sceptre Now Available for Just $79!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-compatibility-problem-with-uhbr-certified-cables-and-displayport-21-affecting-nvidias-rtx-40-series-choices/"><u>The Compatibility Problem with UHBR-Certified Cables and DisplayPort 2.1 Affecting NVIDIA's RTX 40-Series Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-assessment-of-the-pixio-px277-oled-monitor-for-gamers-a-hidden-treasure-revealed/"><u>The Ultimate Assessment of the Pixio PX277 OLED Monitor for Gamers: A Hidden Treasure Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-by-toms-tech-experts/"><u>The Ultimate Guide to Hardware by Tom’s Tech Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-new-technology-by-toms-experts/"><u>The Ultimate Guide to New Technology by Tom's Experts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transform-your-channels-views-with-strategic-insights-for-2024/"><u>Transform Your Channels Views with Strategic Insights for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-fortnite-thumbnail-with-motion-blur-for-2024/"><u>Updated How to Make Fortnite Thumbnail with Motion Blur for 2024</u></a></li>
 </ul></div>
 

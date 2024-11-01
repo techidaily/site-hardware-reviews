@@ -1,7 +1,7 @@
 ---
 title: Alexa's Rival Arrives with Open-Source Prowess, Reshaping the Future of Smarthome Technology | ZDNET
-date: 2024-09-17 22:34:53
-updated: 2024-09-20 12:17:41
+date: 2024-10-31T18:39:33.733Z
+updated: 2024-11-01T18:59:58.088Z
 tags:
   - smart-lighting
 categories:
@@ -52,11 +52,40 @@ This [Google Nest Hub 2](https://goto.walmart.com/c/5597632/565706/9383?sharedId
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-basic-equipment-for-travel-video-creators-for-2024/"><u>[Updated] Basic Equipment for Travel Video Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-list-critical-6-fb-lite-downloads-for-2024/"><u>[Updated] Essential List Critical 6 FB Lite Downloads for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-front-runners-in-4k-gaming-graphics/"><u>[Updated] In 2024, Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-topic-titling-artisans-assistant/"><u>[Updated] Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-why-every-keysnobber-awaits-the-keychron-q1-he-an-exhaustive-review-of-this-top-tier-mechanical-keyboard/"><u>Discover Why Every Keysnobber Awaits the Keychron Q1-HE: An Exhaustive Review of This Top-Tier Mechanical Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-game-with-top-10-pc-picks-google-play/"><u>Elevate Your Game with Top 10 PC Picks (Google Play)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/frozn-a620-pro-se-by-id-cooling-an-unmatched-investment-in-cooling-technology/"><u>Frozn A620 Pro SE by ID-Cooling - An Unmatched Investment in Cooling Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-epson-wf-7710-drivers-compatible-with-windows-1081-8-and-7/"><u>Get the Newest EPSON WF-7710 Drivers: Compatible with Windows 10/8.1, 8 & 7</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/gli-applicazioni-piu-efficaci-per-la-copia-del-sistema-operativo-windows/"><u>Gli Applicazioni Più Efficaci per La Copia Del Sistema Operativo Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-premium-free-online-tools-for-professional-video-tweaks/"><u>In 2024, Explore Premium Free Online Tools for Professional Video Tweaks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-13-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 13 Pro Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-why-the-logitech-g-pro-x-2-lightspeed-is-essential-for-hardcore-gamers/"><u>In-Depth Review: Why the Logitech G Pro X 2 Lightspeed Is Essential for Hardcore Gamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-lava-blaze-2-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Lava Blaze 2 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-a-deep-dive-into-the-strengths-and-weaknesses-of-the-cooler-master-ion-amoled-liquid-cpu-cooler-moving-forward-with-caution/"><u>Taking a Deep Dive Into the Strengths and Weaknesses of the Cooler Master ION Amoled Liquid CPU Cooler: Moving Forward with Caution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Top Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-a-look-at-toms-hardware-findings/"><u>Unveiling the Latest in Electronics - A Look at Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/water-conservation/"><u>Water Conservation</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

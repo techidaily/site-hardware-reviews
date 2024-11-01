@@ -1,7 +1,7 @@
 ---
 title: "A Week with an Ergonomic Split Keyboard: How My Whole PC Setup Got Redefined"
-date: 2024-10-19T21:33:37.544Z
-updated: 2024-10-27T01:12:40.695Z
+date: 2024-10-26T18:17:12.392Z
+updated: 2024-11-01T18:38:33.874Z
 tags:
   - laptops
 categories:
@@ -109,10 +109,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -151,24 +151,18 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-luminous-lore-of-video-production-expert-insights/"><u>[New] 2024 Approved Luminous Lore of Video Production Expert Insights</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-experience-the-future-of-mobile-gaming-iphone-vr-leaderboard/"><u>[New] Experience the Future of Mobile Gaming IPhone VR Leaderboard</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-celebrating-the-best-top-stop-motion-films-of-all-times/"><u>[New] In 2024, Celebrating the Best Top Stop-Motion Films of All Times</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-selective-choice-top-cards-for-4k-videos/"><u>[Updated] 2024 Approved Selective Choice Top Cards for 4K Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apex-spectrum-by-maingear-combining-customizable-rgb-lighting-with-advanced-liquid-cooling-features/"><u>Apex Spectrum by Maingear: Combining Customizable RGB Lighting with Advanced Liquid Cooling Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964468371-discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-a-guide-to-the-latest-in-computer-hardware/"><u>Exploring Tom's Tech Insights: A Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-control-system-sounds-and-notifications-on-xbox-series-xs/"><u>How to Control System Sounds and Notifications on Xbox Series X|S</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-biomutant-from-crashing-in-pc-essential-troubleshooting-steps-players/"><u>How to Stop Biomutant From Crashing in PC - Essential Troubleshooting Steps Players</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-will-us-import-duties-impact-the-cost-of-electronic-components-and-personal-computers-unraveling-the-complexity/"><u>How Will US Import Duties Impact the Cost of Electronic Components & Personal Computers? Unraveling the Complexity</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-qualcomm-snapdragon-development-board-bridging-microsoft-windows-and-arm-technology/"><u>Introducing the Qualcomm Snapdragon Development Board: Bridging Microsoft Windows and ARM Technology</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-oculus-the-premium-vr-gaming-headset-for-2024/"><u>Mastering Oculus The Premium VR Gaming Headset for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/quiet-powerhouse-creation-the-journey-to-an-rgb-less-whisper-quiet-computer-insights-from-toms-hardware/"><u>Quiet Powerhouse Creation: The Journey to an RGB-Less, Whisper-Quiet Computer - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-complete-obs-guide-to-skype-call-recording/"><u>The Complete OBS Guide to Skype Call Recording</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updating-drivers-a-users-guide-for-the-logitech-m510-wireless-mouse/"><u>Updating Drivers: A User's Guide for the Logitech M510 Wireless Mouse</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-workstation-essential-z790-motherboards-and-liquid-cpu-coolers-reviewed/"><u>Upgrade Your Workstation: Essential Z790 Motherboards and Liquid CPU Coolers Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/win-a-top-ranked-pc-building-contest-toms-hardware-exclusive/"><u>Win a Top-Ranked PC Building Contest: Tom's Hardware Exclusive</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-incorporating-youtube-videos-in-google-slides/"><u>[New] 2024 Approved Guide Incorporating YouTube Videos in Google Slides</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-8-best-image-grabbing-utilities/"><u>[Updated] In 2024, 8 Best Image Grabbing Utilities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-navigating-online-audio-archives-an-intuitive-guide-for-2024/"><u>[Updated] Navigating Online Audio Archives An Intuitive Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-level-hdr-techniques-elevate-your-photography-skills/"><u>2024 Approved Pro-Level HDR Techniques Elevate Your Photography Skills</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862743546-experience-enhanced-productivity-top-tier-lg-34-curved-display-awaits-for-an-unbeatable-price-of-499/"><u>Experience Enhanced Productivity: Top-Tier LG 34 Curved Display Awaits for an Unbeatable Price of $499!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862770787-get-the-ultimate-deal-samsung-odyssey-g50a-27-qhd-ips-display-for-only-255-on-amazon/"><u>Get the Ultimate Deal: Samsung Odyssey G50A 27 QHD IPS Display for Only $255 on Amazon!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-discover-the-top-30-free-intro-creators-on-youtube/"><u>In 2024, Discover the Top 30 Free Intro Creators on YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/incorporating-distinctive-perks-into-online-film-and-show-rental-platforms/"><u>Incorporating Distinctive Perks Into Online Film & Show Rental Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-content-control-muting-followers/"><u>Mastering Content Control Muting Followers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862808588-shop-the-best-gaming-monitor-of-the-year-for-a-steal-asus-tufs-34-curve-now-at-just-under-250/"><u>Shop the Best Gaming Monitor of The Year for a Steal - ASUS TUF's 34 Curve Now At Just Under $250</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862778698-spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862810235-title-master-your-gameplay-on-asus-rog-strix-xg27acs-the-180hz-gaming-marvel-unveiled/"><u>Title: Master Your Gameplay on Asus ROG Strix XG27ACS - The 180Hz Gaming Marvel Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-guided-by-toms-expertise/"><u>Unveiling the Latest in Hardware - Guided by Tom's Expertise</u></a></li>
 </ul></div>
 

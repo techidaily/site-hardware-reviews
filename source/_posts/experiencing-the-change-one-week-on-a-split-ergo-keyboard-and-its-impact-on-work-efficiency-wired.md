@@ -1,7 +1,7 @@
 ---
 title: "Experiencing the Change: One Week on a Split Ergo Keyboard & Its Impact on Work Efficiency | Wired"
-date: 2024-10-23T16:25:40.203Z
-updated: 2024-10-27T00:44:11.202Z
+date: 2024-10-25T16:44:33.625Z
+updated: 2024-11-01T19:23:50.093Z
 tags:
   - laptops
 categories:
@@ -109,16 +109,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -157,22 +151,19 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-value-360-cameras-simplifying-visual-storytelling/"><u>[New] Top Value 360° Cameras Simplifying Visual Storytelling</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-how-to-reverse-videos-on-android/"><u>[Updated] 2024 Approved How to Reverse Videos on Android?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-exploring-ice-cream-screen-recorder-technology/"><u>[Updated] In 2024, Exploring Ice Cream Screen Recorder Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/artificial-intelligence-boosting-computer-performance-next-gen-spec-leap/"><u>Artificial Intelligence Boosting Computer Performance: Next-Gen Spec Leap</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-bargains-on-technology-featuring-amazon-firestick-anker-portable-charger-and-dji-quadcopter-among-others/"><u>Best Bargains on Technology: Featuring Amazon Firestick, Anker Portable Charger & DJI Quadcopter Among Others</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/boosting-typing-speed-and-comfort-why-i-prefer-placing-my-hand-in-the-keyboard-middle/"><u>Boosting Typing Speed and Comfort: Why I Prefer Placing My Hand in the Keyboard Middle</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/can-other-brands-successfully-implement-apples-modular-design-strategy/"><u>Can Other Brands Successfully Implement Apple's Modular Design Strategy?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/creating-your-own-diy-bluetooth-enabled-smart-speaker-with-raspberry-pi/"><u>Creating Your Own DIY Bluetooth-Enabled Smart Speaker with Raspberry Pi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-usb-colours-understanding-blue-yellow-and-red-significance/"><u>Decoding USB Colours - Understanding Blue, Yellow & Red Significance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-nvidia-graphics-card-drivers-installation-guide-for-windows-users-windows-1078/"><u>Free Nvidia Graphics Card Drivers: Installation Guide for Windows Users (Windows 10/7/8)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-ape-vormat-tot-mp3-konvertor-online-zoektocht-minimalisten/"><u>Gratis APE-Vormat Tot MP3 Konvertor Online - Zoektocht Minimalisten</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-ultimate-pixel-prospects-top-7-monitors-for-photoshop-2024/"><u>The Ultimate Pixel Prospects - Top 7 Monitors For Photoshop, 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-growth-in-the-grove-top-7-stardew-valley-addons-for-2024/"><u>[New] Growth in the Grove Top 7 Stardew Valley Addons for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221685208-pcx-movavi/"><u>靈活易用的網路平台 PCX格式自由轉換 - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/experience-ultra-clarity-in-xiaomis-screen-capture-technology-for-2024/"><u>Experience Ultra Clarity in Xiaomi's Screen Capture Technology for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-oppo-a78-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo A78 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-14-pro-max-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 14 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-quick-video-pace-adjustments-on-youtube-for-2024/"><u>Mastering Quick Video Pace Adjustments on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-with-toms-hardware-insider-tips/"><u>Navigating New Tech with Tom's Hardware Insider Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-tips-and-reviews-from-toms-hardware-specialists/"><u>Navigating the Tech World: Tips & Reviews From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-massless-carbon-fiber-enhanced-batteries-the-key-to-ultra-lightweight-gadgets/"><u>Revolutionary Massless Carbon-Fiber Enhanced Batteries - The Key to Ultra Lightweight Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzens-cutting-edge-ai-300-series-arrives-sooner-than-expected-preorder-before-july-28th-at-best-buy/"><u>Ryzen's Cutting-Edge AI 300 Series Arrives Sooner Than Expected – Preorder Before July 28Th at Best Buy.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-7-best-tools-that-use-ai-to-make-presentations-for-you/"><u>The 7 Best Tools That Use AI to Make Presentations for You</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Major Enhancements Roll Out: The New and Improved Eve HomeKit Motion Detector at Only $40"
-date: 2024-09-19 10:55:33
-updated: 2024-09-20 10:13:47
+date: 2024-10-31T20:24:57.146Z
+updated: 2024-11-01T20:02:02.050Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,30 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-infusing-life-into-virtual-scenes-with-spark-ar-and-personalized-lookups/"><u>[New] Infusing Life Into Virtual Scenes with Spark AR and Personalized Lookups</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-explore-and-download-50-free-youtube-banners/"><u>[Updated] Explore & Download 50 FREE YouTube Banners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovative-reclaim-review-the-ultimate-screen-recorder/"><u>2024 Approved Innovative 'Reclaim' Review – The Ultimate Screen Recorder?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-techniques-in-fbx-game-filming-for-2024/"><u>Advanced Techniques in FBX Game Filming for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/behind-the-scenes-youtube-live-thumbnail-secrets/"><u>Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bluehost-reviewed-a-guide-to-their-cloud-vps-and-shared-plans-examined/"><u>Bluehost Reviewed: A Guide to Their Cloud, VPS, and Shared Plans Examined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-power-of-a-dual-band-7ghz-wifi-beast-with-asus-rt-be96u/"><u>Exploring the Power of a Dual-Band 7GHz WiFi Beast with ASUS RT-BE96U</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-the-closed-folder-conundrum-in-winxpxo11/"><u>How to Overcome the Closed Folder Conundrum in WinXP/XO11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-game-asus-rog-swift-pg34wcdm-240hz-oled-gaming-monitor-an-in-depth-look-at-premium-image-quality-and-optimized-performance/"><u>Master the Game: Asus ROG Swift PG34WCDM 240Hz OLED Gaming Monitor - An In-Depth Look at Premium Image Quality and Optimized Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-gameplay-how-the-high-speed-high-style-gigabyte-aorus-fo32u2p-240hz-oled-monitor-elevates-gaming-performance/"><u>Maximizing Your Gameplay: How the High-Speed, High-Style Gigabyte Aorus FO32U2P 240Hz OLED Monitor Elevates Gaming Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Computer Gear with Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/seeking-excellence-prime-free-srt-online-translators-guide-for-2024/"><u>Seeking Excellence Prime Free SRT Online Translators Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g13/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-of-logitech-g-pro-x-2-with-lightspeed-technology-a-must-have-for-serious-gamers/"><u>Ultimate Review of Logitech G Pro X 2 with Lightspeed Technology: A Must-Have for Serious Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-data-potential-four-ways-to-tap-into-disk-editor-settings-on-windows-11/"><u>Unlock Data Potential: Four Ways to Tap Into Disk Editor Settings on Windows 11</u></a></li>
+</ul></div>
+

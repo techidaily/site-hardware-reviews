@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Samsung Unpacked: Detailed Roundup and Specs of All Galaxy Innovations | Tech Insights by ZDNET"
-date: 2024-09-18 16:46:47
-updated: 2024-09-20 10:52:48
+date: 2024-10-28T20:09:00.444Z
+updated: 2024-11-01T18:29:15.564Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * Certain features do come up short, however, with no significant upgrades from the previous generation.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -83,6 +90,13 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro%2F6.7-inch-display-256gb-natural-titanium-unlocked&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the [Apple Watch Ultra 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) will be staying on my wrist for an extended period of time -- likely until the next Ultra version comes out. Apple's improvements this year don't push the envelope in any particular way, but they're well-rounded enough to make the Watch Ultra still the best flagship sports watch that enthusiasts should buy.
@@ -92,6 +106,13 @@ With my primary SIM now living as an eSIM in the [iPhone 15 Pro Max](https://app
 If you don't have an Apple Watch Ultra but are interested in buying one, the Ultra 2 is the best option. If you can live with a dimmer display and technically slower performance, picking up last year's [Watch Ultra at a discount](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Cellular-Titanium-Precision-Extra-Long%2Fdp%2FB0BDHT6Q8V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C79c76f66-f110-4d42-8b2d-4a9c0ed8b1ba%7Cdtp&dtb=1) is not the worst idea either. 
 
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-debating-digital-domains-obs-versus-twitch/"><u>[New] In 2024, Debating Digital Domains OBS Versus Twitch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[Updated] A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-high-end-cooling-solved-a-comprehensive-look-at-the-id-cooling-fx360-pro-for-60/"><u>Affordable High-End Cooling Solved: A Comprehensive Look at the ID-Cooling FX360 Pro for $60</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-pitfalls-solutions-to-6-recurrent-chatgpt-mistakes/"><u>Avoiding Pitfalls: Solutions to 6 Recurrent ChatGPT Mistakes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-the-ultimate-guide-to-electronics-hardware/"><u>Expert Reviews by Tom: The Ultimate Guide to Electronics Hardware</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/full-scale-hevc-h265-encoder-and-decoder-device-support-directory/"><u>Full-Scale HEVC / H.265 Encoder & Decoder Device Support Directory</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 6s Plus Passcode not Working?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-lian-lis-revolutionary-hydroshift-lcd-groovy-surround-gaming-tower-review/"><u>Inside Look at Lian Li's Revolutionary Hydroshift LCD Groovy Surround Gaming Tower Review</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-s18-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S18 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-tips-from-toms-hardware-experts/"><u>Navigating the World of Computing: Tips From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/showcasing-spectacular-color-accuracy-and-contrast-with-the-gigabyte-aorus-oled-gaming-screen/"><u>Showcasing Spectacular Color Accuracy and Contrast with the Gigabyte Aorus OLED Gaming Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-troubleshooting-guide-when-your-google-meet-camera-wont-turn-on/"><u>Solved: Troubleshooting Guide - When Your Google Meet Camera Won't Turn On</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-and-electronics-gear-toms-insights/"><u>The Ultimate Resource for Computer and Electronics Gear: Tom’s Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-gear/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-from-toms-hardware/"><u>Tom's Tech Review: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-14-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi 14 Phone</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-motorola-g24-power-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Motorola G24 Power on Windows?</u></a></li>
+</ul></div>
+

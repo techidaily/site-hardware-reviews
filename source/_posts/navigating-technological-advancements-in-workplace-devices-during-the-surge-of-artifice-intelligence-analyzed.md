@@ -1,7 +1,7 @@
 ---
 title: Navigating Technological Advancements in Workplace Devices During the Surge of Artifice Intelligence - Analyzed
-date: 2024-10-21T17:13:28.771Z
-updated: 2024-10-26T22:40:23.836Z
+date: 2024-10-25T17:47:52.761Z
+updated: 2024-11-01T19:15:44.772Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,10 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -136,19 +136,24 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-unlocking-creative-potential-using-luts-for-color-grading-in-ae-for-2024/"><u>[Updated] Unlocking Creative Potential Using LUTs for Color Grading in AE for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-use-zoom-on-xbox-one/"><u>2024 Approved How to Use Zoom on Xbox One</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-m3-macbook-air-laptop-powerful-16gb-compact-n-13-inch-at-a-bargain-price-of-1149/"><u>Exclusive Offer - M3 MacBook Air Laptop: Powerful 16GB / Compact N 13-Inch at a Bargain Price of $1,149</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-high-performance-on-a-budget-acers-nitro-16-with-rtx-4070-and-amd-cpu-for-an-unbeatable-price-of-1129/"><u>Experience High Performance on a Budget: Acer's Nitro 16 with RTX 4070 and AMD CPU for an Unbeatable Price of $1,129</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unprecedented-value-razer-blade-15-now-at-a-historic-1000-discount-for-the-year-2023/"><u>Experience Unprecedented Value - Razer Blade 15 Now at a Historic $1,000 Discount for the Year 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-new-gadgets-with-tom-a-detailed-guide-on-hardware/"><u>Exploring New Gadgets with Tom - A Detailed Guide on Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-disappointment-to-upgrade-delight-adding-a-custom-titanium-case-and-mechanical-keyboard/"><u>From Lenovo Disappointment to Upgrade Delight: Adding a Custom Titanium Case and Mechanical Keyboard</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/guidelines-for-legally-reposting-on-insta/"><u>Guidelines for Legally Reposting on Insta</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a05s-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A05s Activity | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-the-latest-in-technology-via-toms-hardware/"><u>Inside Look: The Latest in Technology via Tom's Hardware</u></a></li>
-<li><a href="https://extra-information.techidaily.com/no-more-quick-yt-thumbnails-full-length-viewing/"><u>No More Quick YT Thumbnails Full-Length Viewing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/perfect-your-gameplay-tips-for-professional-minecraft-sessions-on-mac/"><u>Perfect Your Gameplay Tips for Professional Minecraft Sessions on Mac</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-potential-the-best-hr-vlogs-1-10/"><u>[New] Unlock Potential The Best HR Vlogs #1-10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-5-strategies-for-storing-mov-on-windows-10/"><u>[Updated] 2024 Approved 5 Strategies for Storing .mov on Windows 10</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-comprehensively-understanding-ios-visual-record-function/"><u>[Updated] 2024 Approved Comprehensively Understanding IO’s Visual Record Function</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ultimate-png-alterations-guide/"><u>[Updated] 2024 Approved Ultimate PNG Alterations Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-prime-downloader-tools-fb-videos-and-firefox-compatible-for-2024/"><u>[Updated] Prime Downloader Tools FB Videos & FireFox Compatible for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-and-fast-raspberry-pi-m2-ssd-addon-comprehensive-evaluation/"><u>Affordable and Fast Raspberry Pi M.2 SSD Addon: Comprehensive Evaluation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/die-effektivsten-methoden-zur-reduktion-von-videolangen-fur-e-mail-kampagnen-ein-umfassender-leitfaden/"><u>Die Effektivsten Methoden Zur Reduktion Von Videolängen Für E-Mail-Kampagnen: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/effortless-streaming-to-facebook-audiences-using-zoom/"><u>Effortless Streaming to Facebook Audiences Using Zoom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-cryptocurrency-profits-with-these-premium-psus-the-ideal-choices-for-eth-and-btc-miners/"><u>Enhance Cryptocurrency Profits with These Premium PSUs: The Ideal Choices for Eth & Btc Miners</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-at-toms-computer-gear-hub/"><u>Expert Analysis at Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-an-in-depth-hardware-review/"><u>Exploring Computer Components with Tom - An In-Depth Hardware Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-v-purse-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor V Purse Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-maker-project-the-ultimate-raspberry-pi-1000-with-5-cores-enhanced-performance/"><u>Innovative Maker Project: The Ultimate 'Raspberry Pi 1000' With 5 Cores, Enhanced Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-revolutionary-particle-featuring-a-snapdragon-cpu-and-inbuilt-ai-chip-for-next-gen-computing/"><u>Introducing the Revolutionary Particle: Featuring a Snapdragon CPU and Inbuilt AI Chip for Next-Gen Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-with-toms-computer-advice/"><u>Navigating the World of PC Components with Tom's Computer Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pimoronis-latest-innovation-the-two-player-picade-max-reviving-classic-games-powered-by-raspberry-pi/"><u>Pimoroni's Latest Innovation: The Two-Player Picade Max, Reviving Classic Games Powered by Raspberry Pi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-cyberdeck-2064-by-cyberdore-featuring-advanced-handle-oversized-wheel-and-cutting-edge-display-technology/"><u>Revolutionary Cyberdeck 2064 by Cyberdore: Featuring Advanced Handle, Oversized Wheel, and Cutting-Edge Display Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-reviews-and-guides-for-high-performance-computing/"><u>Tom's Tech: Expert Reviews and Guides for High-Performance Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-mastering-winx-mediatrans-seamless-conversion-of-videos-music-and-photos/"><u>Ultimate Guide: Mastering WinX MediaTrans – Seamless Conversion of Videos, Music, and Photos</u></a></li>
 </ul></div>
 

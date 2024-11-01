@@ -1,7 +1,7 @@
 ---
 title: 4-Camera + Floodlight Bundle This Labor Day - Only $80 at ZDNET!
-date: 2024-09-19 12:40:25
-updated: 2024-09-20 10:11:44
+date: 2024-10-26T19:21:17.647Z
+updated: 2024-11-01T17:04:53.730Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,19 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +82,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +103,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +117,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +164,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-how-to-use-tiktok-hashtags-to-increase-your-post-reach/"><u>[New] How to Use TikTok Hashtags to Increase Your Post Reach</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-a-memorable-and-unique-moniker-for-your-filmora-content/"><u>[Updated] 2024 Approved Creating a Memorable and Unique Moniker for Your Filmora Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-speedster-software-best-rapid-releases-for-tablets-and-computers/"><u>[Updated] In 2024, Speedster Software - Best Rapid Releases for Tablets & Computers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unlocking-youtube-success-top-video-strategies-to-explode-views-for-2024/"><u>[Updated] Unlocking YouTube Success Top Video Strategies to Explode Views for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgetry-with-tom-navigating-the-world-of-computer-hardware/"><u>Advanced Gadgetry with Tom: Navigating the World of Computer Hardware</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-vs-intel-processors-which-brand-delivers-better-computing-power/"><u>AMD vs Intel Processors: Which Brand Delivers Better Computing Power?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-pny-rp6-1tb-external-drive-adequate-but-lacks-exceptional-characteristics/"><u>Comprehensive Analysis of the PNY RP6지 1TB External Drive: Adequate but Lacks Exceptional Characteristics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-your-cs2-experience-top-tips-for-smoother-gameplay-with-optimal-fps/"><u>Enhancing Your CS2 Experience: Top Tips for Smoother Gameplay with Optimal FPS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exclusive-nintendo-switch-fighter-lineups-max-156/"><u>Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-technology-with-toms-hardware-hub/"><u>Exploring Cutting-Edge Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/illustrator/"><u>Illustrator檔恢復指南：這裡揭密七種有效技巧</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-through-toms-hardware/"><u>Mastering the Digital World Through Tom's Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movae/"><u>MOV形式でAEが認識できなくなった時、効果的なトラブルシューティング手順</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trustworthy-advice-from-toms-hardware-experts/"><u>Navigating New Tech: Trustworthy Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reviewing-microsofts-hololens-step-into-the-future/"><u>Reviewing Microsoft's HoloLens – Step Into the Future</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-and-reviews/"><u>Tom's Tech Insights and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-power-of-raspberry-pi-cm4-a-tribute-to-industrial-innovation/"><u>Unboxing the Power of Raspberry Pi CM4 - A Tribute to Industrial Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-features-and-performance-of-geekworm-x1-011-a-comprehensive-review/"><u>Unveiling the Features and Performance of Geekworm X1 0/1/1 - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-modern-marvel-expert-analysis-of-the-lian-li-hydroshift-lcd-360s-case/"><u>Unveiling the Modern Marvel: Expert Analysis of the Lian Li Hydroshift LCD 360S Case</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Savings Alert: Grab the Ultimate Govee Light Strip Bundle Now & Slash Costs by $100 – Game On with ZDNet!"
-date: 2024-09-18 13:33:20
-updated: 2024-09-20 10:13:37
+date: 2024-10-29T17:26:08.983Z
+updated: 2024-11-01T16:01:17.535Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,19 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +103,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +117,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +164,29 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-the-boundaries-of-true-black-on-asuss-professional-screen-for-2024/"><u>[Updated] Exploring the Boundaries of True Black on ASUS's Professional Screen for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-fast-and-efficient-snipping-on-a-pc-top-5-screen-grabber-reviews/"><u>[Updated] Fast & Efficient Snipping on a PC Top 5 Screen Grabber Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ios-snapshot-spectrum-your-quick-reference-for-2024/"><u>[Updated] IO's Snapshot Spectrum Your Quick Reference for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-screen-captures-galore-expert-techniques-for-twitter-visuals/"><u>2024 Approved Screen Captures Galore Expert Techniques for Twitter Visuals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-performance-with-corsair-mp600-mini-1tb-ssd-the-ultimate-review-of-the-markets-best-m2-nvme-solution/"><u>Experience Next-Level Performance with Corsair MP600 Mini 1TB SSD - The Ultimate Review of the Market's Best M.2 NVMe Solution</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17e-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-evaluations-from-toms-hardware-experts/"><u>In-Depth Tech Evaluations From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-windows-gameplay-unboxing-the-high-end-asus-rog-ally-x-gaming-device/"><u>Mastering Mobile Windows Gameplay: Unboxing the High-End Asus ROG Ally X Gaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-in-depth-reviews-by-toms-hardware-experts/"><u>Mastering Technology: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nocturnal-narrative-videos-analysis-for-2024/"><u>Nocturnal Narrative Videos Analysis for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341692803-ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-x-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone X Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-itel-s23-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Itel S23</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-toms-review-channel-in-depth-analysis-of-cutting-edge-computing-devices/"><u>The Tom's Review Channel: In-Depth Analysis of Cutting-Edge Computing Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-with-toms-review-panel/"><u>Unveiling Technology Secrets with Tom's Review Panel</u></a></li>
+</ul></div>
+

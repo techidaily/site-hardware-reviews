@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Illumination: How GE's Cync Is Revolutionizing Neon Light Technology - Insight From ZDNet"
-date: 2024-09-19 19:30:43
-updated: 2024-09-20 12:20:47
+date: 2024-10-29T17:46:14.290Z
+updated: 2024-11-01T19:10:32.916Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-webcam-integration-in-gaming-setup-mastery/"><u>[New] 2024 Approved Webcam Integration in Gaming Setup Mastery</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-content-with-top-ranked-youtube-channels/"><u>[New] Elevate Your Content with Top-Ranked YouTube Channels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-simplified-guide-to-crafting-effective-instagram-loops/"><u>[Updated] 2024 Approved Simplified Guide to Crafting Effective Instagram Loops</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211414909-9783892016366-da-dove-vengo-dove-vado-il-viaggio-della-tua-anima/"><u>Da dove vengo? Dove vado? Il viaggio della tua anima | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-gear-and-updates-from-toms-pc-hardware-reviews/"><u>Essential Gear and Updates From Tom's PC Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-unleashed-detailed-analysis-of-the-asus-rog-swift-pg34wcdm-monitors-stunning-240hz-oled-screen-and-superior-graphics-fidelity/"><u>High-Performance Gaming Unleashed: Detailed Analysis of the Asus ROG Swift PG34WCDM Monitor's Stunning 240Hz OLED Screen and Superior Graphics Fidelity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-phantom-v-fold-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Phantom V Fold Activity | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-rating-the-id-cooling-frozn-a620-pro-se/"><u>In-Depth Analysis and Rating: The ID-Cooling Frozn A620 PRO SE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-world-expert-analysis-on-electronics-and-pc-components/"><u>Inside Tom’s Tech World: Expert Analysis on Electronics and PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-discover-top-picks-at-toms-hardware-hub/"><u>Mastering Your Devices? Discover Top Picks at Tom's Hardware Hub</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211114521-9781804131251-paganism-persisting/"><u>Paganism Persisting | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixel-perfect-gaming-display/"><u>Pixel-Perfect Gaming Display</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-tactics-ensuring-quality-in-live-sport-broadcasts-for-2024/"><u>Prime Tactics Ensuring Quality in Live Sport Broadcasts for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-insights-on-top-notch-electronic-devices/"><u>Tom’s Insights on Top-Notch Electronic Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-definitive-guide/"><u>Tom's Tech Reviews: The Definitive Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated Everything You Want To Know About Kapwing Video Translation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/virtueel-konverteren-van-voc-documenten-omzetten-en-bewerken-gratis-met-movavi/"><u>Virtueel Konverteren Van VOC Documenten - Omzetten en Bewerken Gratis Met Movavi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/zooming-in-and-out-like-a-storytelling-pro-insta-tips-for-2024/"><u>Zooming in and Out Like a Storytelling Pro Insta Tips for 2024</u></a></li>
+</ul></div>
+

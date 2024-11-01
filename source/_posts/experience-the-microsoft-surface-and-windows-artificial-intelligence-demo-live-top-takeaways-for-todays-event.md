@@ -1,7 +1,7 @@
 ---
 title: Experience the Microsoft Surface & Windows Artificial Intelligence Demo Live – Top Takeaways for Today’s Event
-date: 2024-10-21T17:54:58.553Z
-updated: 2024-10-26T16:16:17.405Z
+date: 2024-10-27T19:05:31.639Z
+updated: 2024-11-01T18:28:30.581Z
 tags:
   - laptops
 categories:
@@ -39,10 +39,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 ## What's new with software and AI?
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Copilot
@@ -56,13 +56,6 @@ Copilot will be available on Windows 11 devices, across Microsoft 365 services i
 On September 26, Copilot will begin rollout as part of a new Windows 11 release, the most ambitious update to Windows 11 since it was first released, according to Yusuf Mehdi, Corporate Vice President of Microsoft. 
 
 This is Microsoft's answer to [Google's Duet AI](https://www.zdnet.com/article/google-workspaces-ai-facelift-is-finally-here-meet-duet-ai-for-workspace/), which is another generative AI assistant that works across the Google Workspace.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Windows 11 AI integration
 
@@ -79,6 +72,13 @@ Windows Ink Anywhere is another new Windows 11 feature that will work with Copil
 You can also use the pen within the Snipping Tool to copy and paste the equation into Copilot and have it solved. 
 
 Copilot on Windows can also obtain information from your connected smartphone so that you can ask Copilot any questions about what's on-device, like text message summaries. An example that was demoed included the presenter asking Copilot about an upcoming flight. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Chat updates
 
@@ -112,6 +112,13 @@ The Microsoft Shopping Experience will be a standalone site that can be accessed
 
 There is also a suite of new tools coming to Bing Chat Enterprise including the incorporation with mobile. Bing Chat Enterprise also supports images within the enterprise with multimodal search powered by [GPT-4](https://www.zdnet.com/article/what-is-gpt-4-heres-everything-you-need-to-know/) and Bing Image Generator. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft 365 Copilot and Microsoft 365 Chat
 
 June Wan/ZDNET
@@ -136,13 +143,6 @@ Microsoft 365 Copilot is currently in preview with a select number of users and 
 
 ## What's new with hardware?
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Surface Laptop Go 3
 
 June Wan/ZDNET
@@ -156,6 +156,13 @@ Other new additions include iCloud Photos Integration and Clipchamp on Windows 1
 As far as hardware and design go, the Surface Laptop Go 3 looks just about, if not the same, as the previous version, meaning you're still getting a sleek, portable form factor that's ultralight (just under 2.5 pounds) with a 12.4-inch PixelSense touchscreen at the helm.
 
 The laptop will start at $799 and be available in four colors, including Ice Blue, Sage, Sandstone, and Platinum.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Surface Laptop Studio 2
 
@@ -174,13 +181,6 @@ The Laptop Studio 2 also features a new haptic touchpad with a "perfect-feeling 
 Microsoft is also introducing adaptive pen tips, adding to the accessibility tools that were introduced last year for Surface laptops.
 
 Preorders start today for the Laptop Studio 2, which starts at $1,999, and Surface Laptop Go 3, and both devices will be available on October 3.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Hub 3
 
@@ -232,24 +232,17 @@ AI is also integrated with the Surface Hub 3\. In a post-event demo, a Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-art-of-documenting-real-time-facetime-discussions/"><u>[New] In 2024, Unveiling the Art of Documenting Real-Time FaceTime Discussions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-the-potential-of-your-facebook-profile-with-covers/"><u>[Updated] In 2024, Unlock the Potential of Your Facebook Profile with Covers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fingerprint-of-motion-tracking-systems/"><u>2024 Approved Fingerprint of Motion Tracking Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/addressing-the-problem-how-msi-is-fixing-the-heat-sink-design-error-in-new-z790-motherboards/"><u>Addressing the Problem: How MSI Is Fixing the Heat Sink Design Error in New Z790 Motherboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-b760m-pro-rs-motherboard-analysis-budget-friendly-with-plenty-of-m2-support/"><u>ASRock B760M Pro RS Motherboard Analysis: Budget-Friendly with Plenty of M.2 Support</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-mobo-exceptional-deal-at-just-135/"><u>Asus Prime X670-P WiFi AM5 Mobo - Exceptional Deal at Just $135!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-in-class-gaming-motherboards-of-2024-find-your-ideal-socket-compatibility-and-chipset-configuration/"><u>Best-in-Class Gaming Motherboards of 2024: Find Your Ideal Socket Compatibility and Chipset Configuration</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/get-your-hands-dirty-exploring-the-lenovo-9-inch-nook-tablet/"><u>Get Your Hands Dirty: Exploring the Lenovo 9-Inch Nook Tablet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862868318-how-much-will-you-pay-for-elite-gaming-the-declassified-x670e-by-evga-demands-over-1300/"><u>How Much Will You Pay for Elite Gaming? The Declassified X670E by EVGA Demands Over $1,300!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unlock-full-participant-grid-display-in-meet/"><u>In 2024, Unlock Full Participant Grid Display in Meet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-epson-wf-2940-drivers-a-step-by-cstep-guide-for-windows-users/"><u>Installing Epson WF-2940 Drivers: A Step-by-CStep Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862867060-maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-the-ultimate-guide/"><u>Tom's Computer Gear: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis-t17238628805655/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-king-of-fighters-xvs-persistent-pc-crashes/"><u>Troubleshooting Guide: Fixing The King of Fighters XV's Persistent PC Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-potential-with-these-5-methods-to-utilize-chatgpt-in-academia/"><u>Unleash Your Potential with These 5 Methods to Utilize ChatGPT in Academia</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-high-end-ice-sports-design-golden-socketed-intel-z790-aorus-xtreme-x-motherboard-featuring-colossal-m2-cooling/"><u>Unveiling Gigabyte's High-End Ice Sports Design: Golden Socketed Intel Z790 Aorus Xtreme X Motherboard Featuring Colossal M.2 Cooling</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-cutting-edge-content-creation-mastering-live-recording-tools/"><u>[New] 2024 Approved Cutting-Edge Content Creation Mastering Live Recording Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-visibility-on-yt-key-aspects-of-channel-art-and-banner-size/"><u>[New] In 2024, Enhance Visibility on YT Key Aspects of Channel Art & Banner Size</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-marketing-mastery-the-unveil-way/"><u>[New] Marketing Mastery The Unveil Way</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-zoom-transcoding-mastery-essential-three-step-approach/"><u>2024 Approved Zoom Transcoding Mastery Essential Three-Step Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehhemic-approach-to-repairing-and-preventing-cod-black-ops-4-malfunctions/"><u>Comprehhemic Approach to Repairing and Preventing COD Black Ops 4 Malfunctions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-language-apps-the-definitive-educators-guide/"><u>Innovative Language Apps: The Definitive Educator's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030144340-iphone/"><u>IPhone動画フォーマット変換ガイド集</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-a-tour-of-tomn-hardware-world/"><u>Navigating Today's Tech Landscape: A Tour of Tom'n Hardware World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/observe-changes-in-behavior-look-for-any-changes-in-behavior-that-could-indicate-substance-abuse-such-as-mood-swings-withdrawal-from-family-activities-decli81/"><u>Observe Changes in Behavior: Look for Any Changes in Behavior that Could Indicate Substance Abuse, Such as Mood Swings, Withdrawal From Family Activities, Declining Academic Performance, or a Sudden Disinterest in Hobbies and Friends.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-7-specs-finalized-on-the-verge-of-official-market-release/"><u>PCIe Gen 7 Specs Finalized - On the Verge of Official Market Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pcie-gen-amoled-with-new-generation-7-standard-comprehensive-draft-unveiled/"><u>PCIe Gen Amoled with New Generation 7 Standard - Comprehensive Draft Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/psychoacoustic-enhancement-for-playstation-titles-for-2024/"><u>Psychoacoustic Enhancement for PlayStation Titles for 2024</u></a></li>
 </ul></div>
 

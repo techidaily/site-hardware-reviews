@@ -1,7 +1,7 @@
 ---
 title: "The Battle of Portables: When LG Gram Pro Surpasses Apple's MacBook Air | ZDNet Review"
-date: 2024-10-21T19:29:50.007Z
-updated: 2024-10-26T18:13:38.741Z
+date: 2024-10-29T17:05:59.627Z
+updated: 2024-11-01T16:24:37.467Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,10 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,20 +115,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-from-ground-to-sky-the-lifting-elite-drone-list/"><u>[New] 2024 Approved From Ground to Sky The Lifting Elite Drone List</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-top-notch-grid-crafting-made-simple-our-expertly-selected-10-tools/"><u>[New] Top-Notch Grid Crafting Made Simple Our Expertly Selected 10 Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-potential-role-in-cyber-threat-evolution/"><u>GPT's Potential Role in Cyber Threat Evolution</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-pova-6-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Pova 6 Pro 5G Devices</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-wisdom-from-toms-hardware-experts/"><u>Navigating the World of Gadgets – Wisdom From Tom's Hardware Experts</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unveiling-the-top-8-sonic-signatures-for-youtube-creators-opening-moments/"><u>New In 2024, Unveiling the Top 8 Sonic Signatures for YouTube Creators Opening Moments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/qualcomms-game-changing-snapdragon-processors-in-dell-xps-13-plus-achieving-twice-the-battery-life-at-half-the-price-of-intel-options/"><u>Qualcomm's Game-Changing Snapdragon Processors in Dell XPS 13 Plus: Achieving Twice the Battery Life at Half the Price of Intel Options</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/razer-blade-18-premium-laptop-for-professionals-featuring-nvidias-geforce-rtx-4090-graphics-card-priced-at-4799/"><u>Razer Blade 18: Premium Laptop for Professionals Featuring Nvidia's GeForce RTX 4090 Graphics Card, Priced at $4,799</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revamped-tech-blueprint-superior-laptop-performance-boost-with-intel-core-ultra-and-new-generation-ryzen-cpus/"><u>Revamped Tech Blueprint: Superior Laptop Performance Boost with Intel Core Ultra & New Generation Ryzen CPUs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-is-arm-based-mediatek-gears-up-to-power-windows-laptops-post-qualcomm-pact/"><u>The Future Is ARM-Based: MediaTek Gears Up to Power Windows Laptops Post Qualcomm Pact</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computing-in-depth-reviews-and-analysis/"><u>Tom's Computing: In-Depth Reviews and Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-latest-amazon-kindle-paperwhite-your-ultimate-guide-for-avid-readers/"><u>Unveiling the Latest Amazon Kindle Paperwhite: Your Ultimate Guide for Avid Readers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-harmonyhub-pro-downloads-and-reviews/"><u>[New] HarmonyHub Pro Downloads & Reviews</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-roadmap-to-thriving-in-digital-advertising/"><u>[New] The Roadmap to Thriving in Digital Advertising</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-picks-optimal-sites-for-snagging-snapchat-alert-tunes/"><u>[New] Top Picks Optimal Sites for Snagging Snapchat Alert Tunes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>[Updated] 2024 Approved Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-million-viewer-milestone-and-associated-income-levels/"><u>[Updated] 2024 Approved Million-Viewer Milestone and Associated Income Levels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-demystifying-asuss-proart-pa-329q-full-review-of-a-top-4k-display/"><u>[Updated] In 2024, Demystifying Asus’s ProArt PA 329Q – Full Review of a Top 4K Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/diy-personalized-android-user-interface-creation-using-cost-free-tools/"><u>DIY Personalized Android User Interface Creation Using Cost-Free Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficiently-capture-whatsapp-chat-a-step-by-step-tutorial/"><u>Efficiently Capture WhatsApp Chat A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-the-night-my-journey-into-a-world-of-dark-modes/"><u>Embracing the Night: My Journey Into a World of Dark Modes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-eye-comfort-on-android-devices-with-these-simple-brightness-adjustments/"><u>Enhance Your Eye Comfort on Android Devices with These Simple Brightness Adjustments!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhance-your-facebook-presence-with-clear-hd-vids-for-2024/"><u>Enhance Your Facebook Presence with Clear HD Vids for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-differences-essential-aspects-of-samsungs-ecosystem-not-found-in-the-google-universe-a-comprehensive-guide-for-switchers/"><u>Experience Differences: Essential Aspects of Samsung's Ecosystem Not Found in the Google Universe – A Comprehensive Guide for Switchers</u></a></li>
 </ul></div>
 

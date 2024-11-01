@@ -1,7 +1,7 @@
 ---
 title: Best Bargains of Black Friday & Cyber Monday 2024 - Exclusive Deals From Top Retailers | PCMag
-date: 2024-10-20T23:38:09.502Z
-updated: 2024-10-26T22:13:57.255Z
+date: 2024-10-28T18:56:17.004Z
+updated: 2024-11-01T17:48:23.901Z
 tags:
   - laptops
 categories:
@@ -85,13 +85,6 @@ Dell/ZDNET
 * [Acer Chromebook 314](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CB314-4HT-32X6-i3-N305-Processor-Display%2Fdp%2FB0CMRRFGVN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $339 ($110 off) - For a Chromebook with a little bit more storage and a full HD display, this 14-inch Acer machine is a solid campus companion.
 * [Lenovo V15 Essential Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Essential-Quad-core-Processor-Ethernet%2Fdp%2FB0D8524KVL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $399 ($100 off) - Lenovo's V15 laptop is a well-rounded machine with a full 1TB of storage, which is enough for multiple years' worth of documents and files.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best gaming laptops under $1,000
 
 Asus/ZDNET
@@ -106,13 +99,6 @@ Asus/ZDNET
 * [Acer Chromebook Spin 714](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-CP714-1WN-53M9-i5-1235U-1920x1200-Keyboard%2Fdp%2FB0BJH9LGK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $545 ($227 off): If you're looking for a good sale price on a convertible 2-in-1, Acer's Chromebook Spin 714 brings all the light efficiency of a Chromebook to a portable form factor. This is a great editing device if you often use Google Photos. Also, with a new purchase, you get Gemini Advanced, 2TB of cloud storage, and more free for three months.
 * [Asus Zenbook Duo Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Zenbook-Certified-Graphics-UX8406MA-PS99T%2Fdp%2FB0CRD6PJDF%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $1,503 ($196 off): Asus' Duo is a game-changing machine with its dual 14-inch OLED displays and powerful hardware, allowing for a wide range of configurations that creatives will love.
 * [Microsoft Surface Laptop Snapdragon X Elite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Windows-Touchscreen-Snapdragon%2Fdp%2FB0CXL68236%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C47065100-4b72-4d10-9ba8-936345e6db51%7Cdtp&dtb=1) for $1,560 ($139 off): The higher-end Copilot+ certified laptop with the 12-core Snapdragon X Elite chip and 1TB of storage is also still on sale following October Prime Day.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
 
@@ -137,28 +123,42 @@ Kyle Kucharski/ZDNET
 * [Acer Chromebook Spin 714](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-spin-714-intel-evo-laptop-14-1610-wuxga-1920-x-1200-touch-intel-core-i5-1335u-8gb-ram-256gb-ssd-steel-gray%2F6541841.p%3FskuId%3D6541841&publisher_slug=itechdaily19598&exclusive=1) for $499 (save $200): A budget-friendly 2-in-1 laptop that's perfect for students with a 14-inch touchscreen display, 8GB of RAM, and 256GB SSD.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals before and after those days as well. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -238,24 +238,17 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-expertise-in-making-screen-captures-on-ios-easier/"><u>[New] Expertise in Making Screen Captures on iOS Easier</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-a-comprehensive-guide-to-creating-compelling-fb-reels/"><u>[New] In 2024, A Comprehensive Guide to Creating Compelling FB Reels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-detailed-steps-to-supercharge-your-youtube-audio-content/"><u>[Updated] Detailed Steps to Supercharge Your YouTube Audio Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cond-guide-to-fast-fortnite-graphics-for-2024/"><u>30-Second Guide to Fast Fortnite Graphics for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/does-the-future-belong-to-modular-accessories-after-apples-trial/"><u>Does the Future Belong to Modular Accessories After Apple's Trial?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-on-the-deal-of-the-year-essential-travel-wire-organizers-now-at-unbeatable-prices/"><u>Don’t Miss Out on the Deal of the Year - Essential Travel Wire Organizers Now at Unbeatable Prices!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dont-wait-secure-your-own-portable-solar-generator-today/"><u>Don't Wait: Secure Your Own Portable Solar Generator Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elite-analysis-of-the-nomad-stand-one-max-review-the-quintessential-luscious-three-in-one-iphone-charging-station/"><u>Elite Analysis of the Nomad Stand One Max Review: The Quintessential Luscious Three-in-One iPhone Charging Station</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhancements-for-the-switch-2-a-call-for-improved-virtual-storefront/"><u>Enhancements for The Switch 2: A Call for Improved Virtual Storefront</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-games-demanding-enhanced-performance-when-is-it-time-for-a-graphics-card-refresh/"><u>Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluate-tech-specs-with-geekbenchs-recent-benchmarking-tool/"><u>Evaluate Tech Specs with Geekbench's Recent Benchmarking Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-active-audio-with-the-sennheiser-momentum-sport-top-pick-for-workout-buddies/"><u>Experience Active Audio with the Sennheiser Momentum Sport – Top Pick for Workout Buddies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-magic-of-govee-glide-hexa-light-panels-a-detailed-analysis-for-wall-mounted-ambiance/"><u>Experience the Magic of Govee Glide Hexa Light Panels - A Detailed Analysis for Wall-Mounted Ambiance</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalized-voice-recognition-program-for-windows-whisper-and-autohotkey-methods/"><u>Personalized Voice Recognition Program for Windows: Whisper & AutoHotkey Methods</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-broadcasting-your-life-in-real-time-from-pc-via-instagram/"><u>Step-by-Step Guide: Broadcasting Your Life in Real Time From PC via Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-tecno-camon-20-premier-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Tecno Camon 20 Premier 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstuck-reviving-the-windows-11-start-menu-when-it-stops-responding/"><u>Unstuck: Reviving the Windows 11 Start Menu When It Stops Responding</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-effortless-mkv-trimming-on-mac-the-best-tools-for-2024/"><u>Updated Effortless MKV Trimming on Mac The Best Tools for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-tailored-strategies-for-free-clock-usage-optimization/"><u>[New] 2024 Approved Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-turboinsta-video-boosting-online-and-mobile-fixes/"><u>[New] 2024 Approved TurboInsta Video Boosting Online & Mobile Fixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-reimagining-home-entertainment-with-lgs-bp550-update/"><u>2024 Approved Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-faceoff-evaluating-which-ai-excels-at-coding-chatgpt-versus-gemini-challenge/"><u>Chatbot Faceoff: Evaluating Which AI Excels at Coding - ChatGPT Versus Gemini Challenge</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-convenient-viewing-setting-up-youtube-on-large-tv-panels/"><u>In 2024, Convenient Viewing Setting Up YouTube on Large TV Panels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-keeping-your-virtual-circle-true-not-tainted-by-tricks/"><u>In 2024, Keeping Your Virtual Circle True, Not Tainted by Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-choosing-an-economical-mechanical-keypad-best-picks-and-buying-tips/"><u>The Ultimate Guide to Choosing an Economical Mechanical Keypad: Best Picks and Buying Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-toms-in-depth-hardware-reviews/"><u>The Ultimate Resource for Computer Enthusiasts: Tom's In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-guides/"><u>Tom's Tech Insights: Comprehensive Reviews & Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-hps-new-omnibook-ultra-14-features-cutting-edge-amd-ryzen-ai-300-and-lightning-fast-thunderbolt-4/"><u>Ultimate Performance: HP's New OmniBook Ultra 14 Features Cutting-Edge AMD Ryzen AI 300 & Lightning Fast Thunderbolt 4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-showdown-intel-core-i7-2580m-vs-amd-ryzen-phoenix-bapco-benchmark-revelations/"><u>Ultimate Showdown: Intel Core I7-2580M vs AMD Ryzen Phoenix - BAPCO Benchmark Revelations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-next-level-gaming-with-asus-rog-strix-g16-at-an-incredible-amazon-offer-of-just-1164/"><u>Unleash Next-Level Gaming with ASUS Rog Strix G16 at an Incredible Amazon Offer of Just $1,164</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Honors Apple's Innovative M2 MacBook Air as 2023 Tech Product of Choice
-date: 2024-10-23T17:06:13.338Z
-updated: 2024-10-26T20:41:48.137Z
+date: 2024-10-26T19:53:55.184Z
+updated: 2024-11-01T17:22:23.282Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,17 +150,24 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ecoding-best-practices-navigating-through-top-9-free-logo-creators/"><u>[New] Decoding Best Practices Navigating Through Top 9 Free Logo Creators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-efficient-live-gaming-broadcasting-on-xbox/"><u>[New] Efficient Live Gaming Broadcasting on Xbox</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-codec-clash-determining-the-leader-in-video-quality/"><u>2024 Approved Codec Clash Determining the Leader in Video Quality</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/clone-craftsmanship-unveiled-the-ultimate-guide-to-drive-duplicating-techniques/"><u>Clone Craftsmanship Unveiled: The Ultimate Guide to Drive Duplicating Techniques</u></a></li>
-<li><a href="https://win-bits.techidaily.com/complete-step-by-step-tutorial-creating-custom-mp3-ringtones-on-your-iphone/"><u>Complete Step-by-Step Tutorial: Creating Custom MP3 Ringtones on Your iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>In 2024, The Art of HDR Enhancement Your Lightroom Journey</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-next-generation-of-vr-innovations-reviewed-for-2024/"><u>The Next Generation of VR Innovations Reviewed for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/troubleshooting-play-store-connectivity-issues-on-your-amazon-fire-device/"><u>Troubleshooting: Play Store Connectivity Issues on Your Amazon Fire Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-disabling-mobile-data-usage-for-specific-apps-on-android-devices/"><u>Ultimate Guide: Disabling Mobile Data Usage for Specific Apps on Android Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-apk-files-are-they-secure-for-downloads/"><u>Understanding APK Files: Are They Secure for Downloads?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-how-androids-healthconnect-function-enhances-wellness-management-worth-using-or-not/"><u>Understanding How Android's HealthConnect Function Enhances Wellness Management - Worth Using or Not?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-the-updates-a-deep-dive-into-android-12l/"><u>Understanding the Updates: A Deep Dive Into Android 12L</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-quality-hd-screensaver-recorders/"><u>[New] Best Quality HD Screensaver Recorders</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-create-a-unique-identity-personalize-your-youtube-url-today/"><u>[New] Create a Unique Identity Personalize Your YouTube URL Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-secret-screensnappers-guide-discreet-techniques-for-photo-taking-for-2024/"><u>[New] Secret ScreenSnapper's Guide Discreet Techniques for Photo-Taking for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-guide-to-eye-catching-after-effects-texture/"><u>[Updated] In 2024, Ultimate Guide to Eye-Catching After Effects Texture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-subscriber-led-achievement-awards-in-content-space-for-2024/"><u>[Updated] Subscriber-Led Achievement Awards in Content Space for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/and-machandbrake/"><u>日本語化&使い方解説: MacでのHandbrake素晴らしいビデオ圧縮ツールを始めよう！</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/apc-index-mismatch-bluescreen-woes-heres-how-you-can-resolve-it/"><u>APC Index Mismatch Bluescreen Woes? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-practices-updating-your-amd-radeon-video-card-drivers-on-windows-7/"><u>Best Practices: Updating Your AMD Radeon Video Card Drivers on Windows 7</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/economical-cameras-rated/"><u>Economical Cameras Rated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinks-bigger-with-thinkpad-p1-gen-7-the-ultimate-gaming-and-work-machine-sporting-the-latest-lpcamm2-memory-for-superior-performance-in-a-compact-fo33/"><u>Lenovo Thinks Bigger With ThinkPad P1 Gen 7 - The Ultimate Gaming & Work Machine Sporting the Latest LPCAMM2 Memory for Superior Performance in a Compact Form</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-tips-and-reviews-by-tomhardware/"><u>Navigating the World of Computer Hardware: Tips & Reviews by TomHardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-copilotplus-gaming-with-prism-optimizations-and-cross-platform-cheat-blocking-microsofts-latest-endeavor-revealed/"><u>Revolutionizing Copilot+ Gaming with Prism Optimizations & Cross-Platform Cheat Blocking – Microsoft's Latest Endeavor Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-a-sizzling-deal-on-asuss-rog-zephyrus-g16-intel-ultra-9-chipset-and-nvidia-rtx-at-massive-savings/"><u>Score a Sizzling Deal on ASUS's RoG Zephyrus G16 - Intel Ultra 9 Chipset & NVIDIA RTX at Massive Savings!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-discover-essential-reviews-from-toms-hardware/"><u>Stay Ahead of the Curve: Discover Essential Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-gadget-guide-discovering-top-picks-with-toms-hardware-knowledge/"><u>The Ultimate Gadget Guide - Discovering Top Picks with Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-navigating-the-future-of-computer-components/"><u>Tom's Hardware: Navigating the Future of Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-dive-into-computer-components/"><u>Tom's Tech Insights: A Dive Into Computer Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-fix-for-ralink-windows-driver-woes-free-download-guide/"><u>Ultimate Fix for Ralink Windows Driver Woes: Free Download Guide</u></a></li>
 </ul></div>
 

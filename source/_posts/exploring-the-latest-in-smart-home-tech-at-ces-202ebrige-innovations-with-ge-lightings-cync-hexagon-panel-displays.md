@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest in Smart Home Tech at CES 202Ebrige Innovations with GE Lighting's Cync Hexagon Panel Displays
-date: 2024-09-18 16:53:51
-updated: 2024-09-20 10:25:24
+date: 2024-10-28T20:24:45.544Z
+updated: 2024-11-01T19:20:19.079Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,30 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/reating-impactful-outros-top-6-free-tools/"><u>[New] Creating Impactful Outros Top 6 FREE Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/utting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[New] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-find-hidden-fb-watch-video-tile-for-2024/"><u>[Updated] Find Hidden FB Watch Video Tile for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-reviews-unveiling-insights-from-toms-hardware/"><u>Advanced Gadget Reviews: Unveiling Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-knowledge-simplified-with-toms-insider-guides-and-reviews/"><u>Advanced Hardware Knowledge Simplified with Tom's Insider Guides and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-testing-and-review-of-asus-zenbook-s16-with-amd-ryzen-ai-nine-hx-series-processor/"><u>Comprehensive Guide to Testing and Review of ASUS Zenbook S16 with AMD Ryzen AI Nine HX Series Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-performance-a-detailed-look-at-the-pros-and-cons-of-the-cooler-master-ion-360-aio-pc-watercooler/"><u>Evaluating Performance: A Detailed Look at the Pros and Cons of the Cooler Master ION 360 AIO PC Watercooler</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-14-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 14 Pro Max to SIM? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-produce-high-impact-low-cost-youtube-ads/"><u>In 2024, How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-understanding-and-enforcing-rights-on-youtube/"><u>In 2024, Understanding and Enforcing Rights on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-upgrade-with-the-asus-pro-b760m-ct-csm-motherboard-a-detailed-examination/"><u>Mastering Your PC Upgrade with the Asus Pro B760M-CT CSM Motherboard – A Detailed Examination</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-animation-studios-for-pc-and-mac-top-picks-for-pros/"><u>New Best Animation Studios for PC and Mac Top Picks for Pros</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-the-latest-computer-hardware/"><u>Tom's Tech Review: Expert Insights on the Latest Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-with-toms-hardware-test-lab/"><u>Unlocking Performance with Tom's Hardware Test Lab</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unwrap-the-ultimate-gift-a-brand-new-ibuypower-pc-for-dad-on-his-special-day/"><u>Unwrap the Ultimate Gift: A Brand-New iBUYPOWER PC for Dad on His Special Day</u></a></li>
+</ul></div>
+

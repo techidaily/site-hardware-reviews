@@ -1,7 +1,7 @@
 ---
 title: "Budget-Friendly Robustness: Discover the Leading Shockproof Smartwatch That Packs a Punch in Durability and Value!"
-date: 2024-09-17 15:14:22
-updated: 2024-09-20 10:30:11
+date: 2024-10-27T19:58:16.590Z
+updated: 2024-11-01T19:06:08.433Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,19 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +141,29 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-premium-headsets-for-next-gen-drone-pilots/"><u>[New] 2024 Approved Premium Headsets for Next-Gen Drone Pilots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-quick-methods-for-scavenging-free-frame-videos/"><u>[New] Quick Methods for Scavenging Free Frame Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitta-visuals-audio-extraction-services/"><u>[Updated] 2024 Approved Twitta Visuals Audio Extraction Services</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-flight-pioneers-face-off-dji-vs-gopro/"><u>[Updated] Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-quality-web-resources-for-glossy-3d-letters-for-2024/"><u>[Updated] High-Quality Web Resources for Glossy 3D Letters for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-the-keychron-k2-he-where-classic-elegance-meets-modern-tech-innovation/"><u>Comprehensive Review: The Keychron K2 HE, Where Classic Elegance Meets Modern Tech Innovation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elite-range-extenders-of-2024-enhancing-your-wireless-experience/"><u>Elite Range Extenders of 2024 - Enhancing Your Wireless Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-fade-inout-processes-in-audacity/"><u>In 2024, Navigating Fade-In/Out Processes in Audacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/local-gardening-events/"><u>Local Gardening Events</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-in-depth-hardware-analysis-by-toms-experts/"><u>Mastering Technology Choices: In-Depth Hardware Analysis by Tom’s Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-is-now-a-deep-dive-into-lian-li-hydroshift-lcd-360s-casing-innovations/"><u>The Future Is Now: A Deep Dive Into Lian Li Hydroshift LCD 360S Casing Innovations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-new-worlds-latest-fix-still-struggles-with-occasional-freezing-glitches/"><u>The New World's Latest Fix Still Struggles With Occasional Freezing Glitches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-devices-on-toms-computer-corner/"><u>Unveiling New Devices on Tom's Computer Corner</u></a></li>
+</ul></div>
+

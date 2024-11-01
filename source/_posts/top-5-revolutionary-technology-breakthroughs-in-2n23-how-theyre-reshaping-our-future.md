@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Revolutionary Technology Breakthroughs in 2N23: How They're Reshaping Our Future"
-date: 2024-10-25T01:06:02.139Z
-updated: 2024-10-27T00:17:01.206Z
+date: 2024-10-29T18:48:01.342Z
+updated: 2024-11-01T16:48:55.041Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,18 +150,18 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-say-goodbye-to-data-limits-explore-the-best-of-30-free-clouds-offering-1tbplus-included/"><u>[New] Say Goodbye to Data Limits - Explore the Best of 30 Free Clouds Offering 1TB+ Included</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ultimateglobalvision-select-live-and-home-channels-together/"><u>[New] UltimateGlobalVision Select Live and Home Channels Together</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>[Updated] From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pin-to-play-the-ultimate-free-pinterest-video-download-guide/"><u>[Updated] Pin-to-Play The Ultimate Free Pinterest Video Download Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-a-comprehensive-review-of-the-lightroom-app-on-android/"><u>2024 Approved A Comprehensive Review of the Lightroom App on Android</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-bugs-a-comprehensive-solution-for-unstable-gameplay-of-f1-2020-pc-version/"><u>Beat the Bugs: A Comprehensive Solution for Unstable Gameplay of F1 2020 PC Version</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benefits-unveiled-discover-five-compelling-reasons-to-opt-for-a-samsung-galaxy-tab-rather-than-an-ipad/"><u>Benefits Unveiled: Discover Five Compelling Reasons to Opt for a Samsung Galaxy Tab Rather Than an iPad.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/conserve-battery-and-reduce-data-usage-with-googles-streamlined-lightweight-android-applications/"><u>Conserve Battery & Reduce Data Usage with Google's Streamlined Lightweight Android Applications</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/efficient-energy-use-in-mobile-how-to-prevent-app-drain-with-androids-hidden-power-mode/"><u>Efficient Energy Use in Mobile: How to Prevent App Drain with Android's Hidden Power Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effortless-steps-removing-repeated-data-from-your-android-device/"><u>Effortless Steps: Removing Repeated Data From Your Android Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-mobile-experience-with-these-8-cutting-edge-ai-tools/"><u>Elevate Your Mobile Experience with These 8 Cutting-Edge AI Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-performance-why-you-shouldnt-shut-down-apps-on-your-android-smartphone/"><u>Enhance Performance: Why You Shouldn't Shut Down Apps on Your Android Smartphone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/44oq44od44kv44ki44od44ox44ov44kh44kk44or5lit44gu5bplusf6kab44gq5oof5acx44gu44g5b6p5ywd5pa55rov/"><u>バックアップファイル中の必要な情報のみ復元方法</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-essential-tips-for-skyrocketing-your-instagram-followers/"><u>[New] In 2024, Essential Tips for Skyrocketing Your Instagram Followers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-mastering-video-editing-tools-like-movie-maker-w11/"><u>[Updated] 2024 Approved A Comprehensive Guide to Mastering Video Editing Tools Like Movie Maker W11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-capture-and-conserve-the-instagram-freedom-toolkit/"><u>[Updated] 2024 Approved Capture and Conserve The Instagram Freedom Toolkit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-enhancing-facial-dynamics-using-picsarts-motion-blur/"><u>[Updated] 2024 Approved Enhancing Facial Dynamics Using Picsart's Motion Blur</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-endorsements-strategically/"><u>2024 Approved Building Endorsements Strategically</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-new-worlds-best-psvr-games-on-their-way-out/"><u>2024 Approved Unleashing New Worlds Best PSVR Games on Their Way Out</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-with-dual-intel-powered-screens-begin-at-a-budget-of-899/"><u>Acemagic X1 with Dual Intel-Powered Screens — Begin at a Budget of $899</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-breakdown-navigating-the-world-of-gadgets-on-toms-digital-platform/"><u>Advanced Tech Breakdown: Navigating the World of Gadgets on Tom's Digital Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/copilotplus-showcases-cutting-edge-snapdragon-notebooks-join-our-live-testing-event/"><u>Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-insights-from-toms-comprehensive-equipment-reviews/"><u>Cutting-Edge Tech Insights From Tom's Comprehensive Equipment Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-unveiling-the-secrets-of-high-performance-systems-by-toms-circuitry/"><u>Dive Into Technology: Unveiling the Secrets of High-Performance Systems by Tom's Circuitry</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-huawei-p60-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Huawei P60?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-win-10win-11-scrolling-advantage/"><u>The Win 10/Win 11 Scrolling Advantage</u></a></li>
 </ul></div>
 

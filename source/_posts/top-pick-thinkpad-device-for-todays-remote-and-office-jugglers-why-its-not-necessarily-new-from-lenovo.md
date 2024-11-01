@@ -1,7 +1,7 @@
 ---
 title: Top Pick ThinkPad Device for Today's Remote & Office Jugglers – Why It’s Not Necessarily New From Lenovo
-date: 2024-10-22T18:51:34.148Z
-updated: 2024-10-26T17:23:21.854Z
+date: 2024-10-30T18:01:23.647Z
+updated: 2024-11-01T20:03:11.431Z
 tags:
   - laptops
 categories:
@@ -69,16 +69,10 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,19 +111,17 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/inancial-fortitude-for-youtubers-beyond-basic-earnings/"><u>[New] Financial Fortitude for YouTubers Beyond Basic Earnings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-revisiting-social-media-written-history-on-your-laptopsphones/"><u>[New] Revisiting Social Media' Written History on Your Laptops/Phones</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-stream-your-success-a-step-by-step-guide-to-earning/"><u>[Updated] Stream Your Success A Step-by-Step Guide to Earning</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion19/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed!</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/easy-guide-moving-epub-books-from-pc-to-iphone-without-using-itunes/"><u>Easy Guide: Moving EPUB Books From PC to iPhone Without Using iTunes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elegoo-saturn-4-ultra-pioneering-progress-and-breakthroughs-in-the-realm-of-high-quality-resin-printing/"><u>Elegoo Saturn 4 Ultra: Pioneering Progress and Breakthroughs in the Realm of High-Quality Resin Printing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-pc-components-with-toms-hardware-experts/"><u>Exploring the Latest in PC Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/future-of-nova-launcher-uncertain-will-it-be-phased-out/"><u>Future of Nova Launcher Uncertain: Will It Be Phased Out?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-latest-dell-xps-amoeba-9345-classic-style-enhanced-by-snapdragon-x-elite-chipset/"><u>In-Depth Analysis of the Latest Dell XPS Amoeba (9345): Classic Style Enhanced by Snapdragon X Elite Chipset</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcoming-startup-failures-error-0xc0000007b-repair/"><u>Step-by-Step Guide to Overcoming Startup Failures (Error 0Xc00#00007b) [REPAIR]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-100-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor 100 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-5-tecniche-per-ridurre-in-settore-i-file-video-mkv-senza-costi/"><u>Top 5 Tecniche per Ridurre in Settore I File Video MKV Senza Costi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-iphones-a-compreenas-guide-to-storing-and-sharing-gifs/"><u>[Updated] 2024 Approved IPhones A Compreenas Guide to Storing & Sharing GIFs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>2024 Approved Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-technology-tips-at-toms-hardware-destination/"><u>Discover Cutting-Edge Technology Tips at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-visit-toms-hardware-hub/"><u>Discover the Latest in Computing - Visit Tom's Hardware Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-call-of-duty-encounter-fixing-fps-drops-and-resolving-in-game-stutter-in-modern-warfare-2-for-windows-players/"><u>Enhance Your Call of Duty Encounter - Fixing FPS Drops and Resolving In-Game Stutter in Modern Warfare 2 for Windows Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-boost-your-counter-strike-fps/"><u>Fast and Furious: Boost Your Counter-Strike FPS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>In 2024, Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unlocking-twitters-potential-with-live-videos/"><u>In 2024, Unlocking Twitter's Potential with Live Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-pc-setups-through-toms-hardware-insights/"><u>Navigating Advanced PC Setups Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138593797-9781452552606-the-labyrinth-of-life/"><u>The Labyrinth of Life | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-innovations-in-computing-at-toms-hardware-insights/"><u>Unveiling New Innovations in Computing at Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-expert-tips-from-toms-systems/"><u>Unveiling the Latest in Computer Hardware with Expert Tips From Tom's Systems</u></a></li>
 </ul></div>
 

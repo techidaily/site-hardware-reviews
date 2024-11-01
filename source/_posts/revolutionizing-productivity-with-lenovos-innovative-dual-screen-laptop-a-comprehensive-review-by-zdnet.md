@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Productivity with Lenovo's Innovative Dual-Screen Laptop - A Comprehensive Review by ZDNet
-date: 2024-10-21T18:21:34.337Z
-updated: 2024-10-27T00:07:28.728Z
+date: 2024-10-30T20:34:51.044Z
+updated: 2024-11-01T19:01:18.296Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,13 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -55,10 +62,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -81,13 +88,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -107,13 +107,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -135,6 +128,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -146,10 +146,10 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -190,24 +190,18 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-conquering-camera-fear-paving-the-path-to-youtube-success/"><u>[Updated] 2024 Approved Conquering Camera Fear Paving the Path to YouTube Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-inside-look-how-mycam-shapes-your-visual-storytelling/"><u>[Updated] 2024 Approved Inside Look How MyCam Shapes Your Visual Storytelling</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fabricate-comical-artwork-adobe-style/"><u>[Updated] Fabricate Comical Artwork, Adobe Style</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-pixels-to-perfection-the-advantages-of-srgb-over-rgb/"><u>2024 Approved From Pixels to Perfection The Advantages of Srgb over Rgb</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-14-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 14 iCloud Activation Lock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/copilotplus-takes-on-new-snapdragon-laptop-lineup-real-time-testing-and-reviews/"><u>Copilot+ Takes on New Snapdragon Laptop Lineup - Real-Time Testing & Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/electronics-mishap-how-a-laptop-fire-forced-emergency-disembarkation-from-an-american-airline-plane/"><u>Electronics Mishap: How a Laptop Fire Forced Emergency Disembarkation From an American Airline Plane</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guides-on-pc-components-by-toms-computer-gear/"><u>Expert Guides on PC Components by Tom's Computer Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-in-depth-hardware-analysis/"><u>Exploring Gadgets with Tom: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-the-msi-katana-gaming-laptop-just-1199-a-156-inch-machine-with-ultra-fast-rtx4070-graphics/"><u>Get the MSI Katana Gaming Laptop: Just $1,199 - A 15.6 Inch Machine with Ultra-Fast RTX^4070 Graphics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gpds-anticipated-challenge-to-the-market-a-glimpse-at-their-upcoming-dual-screen-oled-laptop/"><u>GPD's Anticipated Challenge to the Market: A Glimpse at Their Upcoming Dual-Screen OLED Laptop</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-14-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi 14 Phones? | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-perform-a-total-wipe-on-iphone-through-your-computer-windows-and-mac-strategies-with-stellar-assistance/"><u>How to Perform a Total Wipe on iPhone Through Your Computer: Windows & Mac Strategies with Stellar Assistance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-illumination-choose-best-websites-with-photo-framing-features/"><u>In 2024, Image Illumination Choose Best Websites with Photo Framing Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-of-pc-innovation-msis-aiplus-laptops-for-gamers-and-creators-unleashing-power-from-100-to-542-tops/"><u>Introducing the Future of PC Innovation: MSI's AI+ Laptops for Gamers and Creators - Unleashing Power From 100 to 542 TOPS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-expert-tips-from-toms-hardware-hub/"><u>Mastering Modern Electronics: Expert Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technological-innovations-a-deep-dive-into-toms-hardware-analyses/"><u>Mastering Technological Innovations: A Deep Dive Into Tom's Hardware Analyses</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-podcast-hosting-services-a-comprehensive-ranking-for-2024/"><u>New Top Podcast Hosting Services A Comprehensive Ranking for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-screenshot-synergy-for-pc-users/"><u>Seamless Screenshot Synergy for PC Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertise-in-equipment-discover-comprehensive-tips-from-toms-hardware-experts/"><u>Expertise in Equipment: Discover Comprehensive Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-equipment-review/"><u>Exploring Digital Innovations with Tom's Equipment Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-code-interpretation-work-exploring-its-vital-significance/"><u>How Does ChatGPT Code Interpretation Work? Exploring Its Vital Significance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M14 4G Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y77t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y77t Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-14-engaging-text-movies-for-creative-experimentation/"><u>In 2024, Top 14 Engaging Text Movies for Creative Experimentation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instant-action-steps-for-correcting-workspace-glitches-on-winos/"><u>Instant Action Steps for Correcting Workspace Glitches on WINOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-pong-game-on-raspberry-pi-pico-pov-technique-and-tailored-mouse-driver/"><u>Interactive Pong Game on Raspberry Pi Pico: POV Technique & Tailored Mouse Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/open-source-ultimate-tool-the-raspberry-pi-rp2vecky-hackbat-for-comprehensive-penetration-testing/"><u>Open-Source Ultimate Tool: The Raspberry Pi RP2vecky HackBat for Comprehensive Penetration Testing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964507389-pineboards-innovative-combo-package-features-raspberry-pi-enhanced-with-neural-processing-unit-and-m2-nvme-storage-now-available/"><u>Pineboards' Innovative Combo Package Features Raspberry Pi Enhanced with Neural Processing Unit and M.2 NVMe Storage - Now Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-powerful-advantages-of-using-an-oled-screen-for-2-years/"><u>The Powerful Advantages of Using an OLED Screen for 2 Years</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-a14-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy A14 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 7 Plus Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
 

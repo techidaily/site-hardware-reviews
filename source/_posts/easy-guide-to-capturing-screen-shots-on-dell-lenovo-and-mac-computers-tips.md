@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Capturing Screen Shots on Dell, Lenovo & Mac Computers - Tips
-date: 2024-10-19T19:42:40.233Z
-updated: 2024-10-26T22:39:57.345Z
+date: 2024-10-28T17:01:44.605Z
+updated: 2024-11-01T18:29:28.852Z
 tags:
   - laptops
 categories:
@@ -33,23 +33,30 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: The old fashioned way**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
@@ -61,19 +68,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -88,6 +82,13 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -105,13 +106,6 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -122,24 +116,18 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
@@ -184,20 +172,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-boost-engagement-with-effective-video-loops-on-instagram-for-2024/"><u>[New] Boost Engagement with Effective Video Loops on Instagram for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-validating-yourself-a-look-at-verified-insta-posts-for-2024/"><u>[New] Validating Yourself A Look at Verified Insta Posts for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-explore-top-rated-image-transition-tools/"><u>2024 Approved Explore Top-Rated Image Transition Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg227-wcs-a-27-va-panel-monitor-with-blistering-180hz-performance-for-gamers/"><u>Asus Unveils New Rog Strix XG2^27 WCS: A 27 VA Panel Monitor with Blistering 180Hz Performance for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-by-tom-decoding-computer-hardware/"><u>Comprehensive Guide by Tom: Decoding Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/conquer-virtual-worlds-in-depth-analysis-of-alienwares-aw2725df-360-hz-oled-monitor-for-serious-gamers/"><u>Conquer Virtual Worlds: In-Depth Analysis of Alienware's AW2725DF 360 Hz OLED Monitor for Serious Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-new-technology-discover-toms-hardware/"><u>Expert Guidance on New Technology - Discover Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-the-ultimate-guide/"><u>Exploring Technology with Tom's Hardware Hub - The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/first-portable-gaming-monitor-by-minisforum-high-performance-with-a-15ninch-display-and-144-hz-at-only-189/"><u>First Portable Gaming Monitor by Minisforum: High Performance with a 15.nInch Display and 144 Hz at only $189</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-s23plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel S23+ to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-selecting-fps-for-videos-why-not-both-30-or-60/"><u>In 2024, Selecting FPS for Videos Why Not Both, 30 or 60?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mkamkv-online-movavi/"><u>MKA/MKV 영상 무료 변환 - Online: Movavi 소피싱</u></a></li>
-<li><a href="https://fox-info.techidaily.com/revolutionize-your-podcasts-rankings-with-effective-seo-methods-for-2024/"><u>Revolutionize Your Podcast's Rankings with Effective SEO Methods for 2024</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/secure-your-audio-files-easily-on-windows-7-and-10-free-and-simple-guide/"><u>Secure Your Audio Files Easily on Windows 7 & 10 - Free and Simple Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-color-consistency-comparing-srgb-and-rgb-formats/"><u>[New] Color Consistency Comparing Srgb and Rgb Formats</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fb-stream-downloading-on-different-operating-systems/"><u>[Updated] 2024 Approved FB Stream Downloading on Different Operating Systems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-conversions-building-irresistible-email-signup-forms-detailed-tips-and-techniques-with-massmail-demo/"><u>Boost Your Conversions: Building Irresistible Email Signup Forms, Detailed Tips & Techniques with MassMail Demo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-get-your-windows-integrated-camera-up-and-running-again/"><u>DIY Repair: Get Your Windows Integrated Camera Up & Running Again</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964489043-enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-guide-comprehensive-hardware-evaluations/"><u>Expert Insights From Tom's Computer Guide: Comprehensive Hardware Evaluations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/formulate-light-hearted-images-for-social-media-giphy-for-2024/"><u>Formulate Light-Hearted Images for Social Media Giphy for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-first-access-8bitdos-retro-18-mechanical-keypad-preorders-launched-exclusive-nes-famicom-and-c64-versions-shipping-in-july/"><u>Get First Access: 8Bitdo's Retro 18 Mechanical Keypad Preorders Launched – Exclusive NES, Famicom & C64 Versions Shipping in July</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-oppo-find-x7-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Oppo Find X7.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-50-on-alienware-premium-bluetooth-gaming-keyboards/"><u>Save $50 on Alienware Premium Bluetooth Gaming Keyboards</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook-for-2024/"><u>Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-expert-insights-on-pc-components-and-tech-advancements/"><u>Tom's Computing: Expert Insights on PC Components and Tech Advancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide-on-latest-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide on Latest Computer Hardware</u></a></li>
 </ul></div>
 

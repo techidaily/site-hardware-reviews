@@ -1,7 +1,7 @@
 ---
 title: "Top Recommended Illumination Solutions for Your Home Office: Insights From ZDNet"
-date: 2024-09-17 22:25:33
-updated: 2024-09-20 11:22:42
+date: 2024-10-27T18:20:15.016Z
+updated: 2024-11-01T17:15:07.483Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-intelligent-digital-diary-with-mematic-services/"><u>[New] 2024 Approved Intelligent Digital Diary with Mematic Services</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-original-movie-recording-dissection-and-substitute-series/"><u>[New] 2024 Approved Original Movie Recording Dissection & Substitute Series</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>[New] A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-scheduling-zoom-conferences-for-android-users/"><u>[Updated] 2024 Approved Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-insights-navigating-the-world-of-modern-electronics-with-toms-experts/"><u>Advanced Tech Insights: Navigating the World of Modern Electronics with Tom's Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/all-purpose-capture-software-azs-app-critiques/"><u>All-Purpose Capture Software - AZ's App Critiques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/busting-the-myths-about-portable-power-why-the-20-anker-charger-is-a-game-changer-as-spotlighted/"><u>Busting the Myths About Portable Power - Why the $20 Anker Charger Is a Game-Changer, as Spotlighted</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-gadgets-and-computer-components-on-toms-hardware/"><u>Discover Top-Tier Gadgets and Computer Components on Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-elite-gamertime-with-titan-armys-p27a2r-a-no-nonsense-high-performance-180hz-review/"><u>Experience Elite Gamertime with Titan Army's P27A2R - A No Nonsense, High-Performance 180Hz Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-perfect-match-msi-z370-a-pro-driver-pack-for-optimal-functioning/"><u>Get the Perfect Match: MSI Z370-A Pro Driver Pack for Optimal Functioning</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-transforming-images-into-engaging-animation-projects/"><u>In 2024, Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-games-with-ease-the-comprehensive-review-of-bright-and-colorful-viewsonic-xg272-2k-240hz-gaming-display/"><u>Mastering Games with Ease: The Comprehensive Review of Bright and Colorful ViewSonic XG272-2K 240Hz Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-with-toms-hardware-reviews-and-analysis/"><u>Mastering Tech Trends with Tom's Hardware Reviews and Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-blend-windows-11-and-android-top-6-integrative-apps/"><u>Seamlessly Blend Windows 11 and Android: Top 6 Integrative Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-transition-of-netflix-from-dvd-rentals-by-mail-to-dominating-streaming-services/"><u>The Transition of Netflix: From DVD Rentals by Mail to Dominating Streaming Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computing-by-toms-tech-experts/"><u>The Ultimate Guide to Computing by Tom's Tech Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-value-review-of-patriots-vp4nano-sata-iii-vp4300-lite-4tb-ssd-balancing-cost-and-capacity/"><u>Unpacking the Value: Review of Patriot's VP4nano SATA III VP4300 Lite, 4TB SSD Balancing Cost and Capacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-power-with-toms-guide-to-hardware/"><u>Unveiling the Latest in Computing Power with Tom's Guide to Hardware</u></a></li>
+</ul></div>
+

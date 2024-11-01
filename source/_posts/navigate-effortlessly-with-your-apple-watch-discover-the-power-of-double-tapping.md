@@ -1,7 +1,7 @@
 ---
 title: Navigate Effortlessly with Your Apple Watch - Discover the Power of Double Tapping!
-date: 2024-09-17 15:12:49
-updated: 2024-09-20 11:59:48
+date: 2024-10-25T18:27:18.096Z
+updated: 2024-11-01T18:20:47.632Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,31 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-facebooks-essential-steps-smoothly-uploading-videos-via-pc-iosandroid/"><u>[New] 2024 Approved Facebook's Essential Steps Smoothly Uploading Videos via PC, iOS/Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-vr-gear-top-10-pc-headsets-2023-edition/"><u>[New] 2024 Approved VR Gear Top 10 PC Headsets, 2023 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-teaching-through-media-efficient-classroom-editing/"><u>[Updated] Teaching Through Media Efficient Classroom Editing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341710115-affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/artful-stop-motion-animation-the-best-15-films-for-2024/"><u>Artful Stop-Motion Animation - The Best 15 Films for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-your-videos-viewer-profile-on-youtube-top-tips-revealed/"><u>Discover Your Video's Viewer Profile on YouTube – Top Tips Revealed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695805-expert-analysis-raspberry-pi-5-enhanced-by-pi-52s-cooling-tower-speedy-performance-uncovered/"><u>Expert Analysis: Raspberry Pi 5 Enhanced by Pi 52'S Cooling Tower - Speedy Performance Uncovered!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-selection-trustworthy-tips-from-toms-hardware-experts/"><u>Mastering Electronics Selection: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-with-toms-hardware-reviews/"><u>Navigating the Circuitry with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-through-teething-issues-how-5g-technology-continues-to-showcase-impressive-growth-prospects-according-to-zdnet/"><u>Navigating Through Teething Issues: How 5G Technology Continues to Showcase Impressive Growth Prospects, According to ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pristine-visionary-storytelling-system/"><u>Pristine Visionary Storytelling System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solid-reliability-meets-space-saving-in-our-6tb-my-passport-review/"><u>Solid Reliability Meets Space Saving in Our 6TB My Passport Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-4k-experience-deep-dive-into-samsungs-ue590/"><u>The Ultimate 4K Experience - Deep Dive Into Samsung's UE590</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-cutting-edge-tech-by-toms-hardware/"><u>The Ultimate Resource for Cutting-Edge Tech by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-with-toms-hardware-insights/"><u>Unlocking Tech Secrets with Tom's Hardware Insights</u></a></li>
+</ul></div>
+

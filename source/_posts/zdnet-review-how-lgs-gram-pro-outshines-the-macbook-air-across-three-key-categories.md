@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Review: How LG's Gram Pro Outshines the MacBook Air Across Three Key Categories"
-date: 2024-10-21T00:18:12.999Z
-updated: 2024-10-27T00:33:53.208Z
+date: 2024-10-30T19:37:21.531Z
+updated: 2024-11-01T17:39:19.655Z
 tags:
   - laptops
 categories:
@@ -43,16 +43,10 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -66,10 +60,10 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -83,10 +77,10 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -125,22 +119,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-list-of-live-streaming-camera-models/"><u>[New] In 2024, The Ultimate List of Live-Streaming Camera Models</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-instagram-photography-guide-for-crafting-perfect-covers/"><u>[Updated] The Ultimate Instagram Photography Guide for Crafting Perfect Covers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-solution-of-iphone-x-face-id-not-working/"><u>[Updated] The Ultimate Solution of iPhone X Face ID Not Working</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/advance-your-pc-to-the-pinnacle-of-video-conversion-via-tdarr-innovations/"><u>Advance Your PC to the Pinnacle of Video Conversion via Tdarr Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-explorations-by-tech-savant-tom/"><u>Advanced Hardware Explorations by Tech Savant, Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-or-overpriced-diving-into-the-netgear-orbi-770-mesh-routers-price-point/"><u>Affordable or Overpriced? Diving Into the Netgear Orbi 770 Mesh Router's Price Point</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-p55-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-new-technological-breakthroughs-on-toms-hardware/"><u>Delving Into New Technological Breakthroughs on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-toms-computer-world-the-ultimate-guide-to-new-hardware-findings/"><u>Dive Into Tom's Computer World - The Ultimate Guide to New Hardware Findings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/explore-8-inexpensive-virtual-gatherings-mac-and-windows-compatibility/"><u>Explore 8 Inexpensive Virtual Gatherings Mac & Windows Compatibility</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improve-gaming-and-rendering-with-new-amd-radeon-v2410-video-card-drivers/"><u>Improve Gaming & Rendering with New AMD Radeon v24.10 Video Card Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-akasa-gecko-ssd-heatsink-evaluation-with-built-in-fan-technology/"><u>In-Depth Akasa Gecko SSD Heatsink Evaluation with Built-In Fan Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-home-cleaning-with-dysons-new-ar-vacuuming-assistance-zdnet-insight/"><u>Master Your Home Cleaning with Dyson's New AR Vacuuming Assistance | ZDNET Insight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/p27a2r-titan-gaming-monitor-180hz-a-comprehensive-purchase-guide/"><u>P27A2R Titan Gaming Monitor 180Hz - A Comprehensive Purchase Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-resilient-player-in-gaming-pcs-inside-review-of-asus-tuf-ga14/"><u>The Resilient Player in Gaming PCs: Inside Review of Asus TUF GA14</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-advice/"><u>Tom's Computer Gear: Expert Reviews and Advice</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-gtfo-crashes-tips-for-stability-and-performance/"><u>Troubleshooting GTFO Crashes – Tips for Stability and Performance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-steadicams-to-elevate-uav-video-production-quality/"><u>[New] Prime Steadicams to Elevate UAV Video Production Quality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-premium-choices-in-video-capture-tools-for-websites/"><u>[Updated] 2024 Approved Premium Choices in Video Capture Tools for Websites</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/avchd-zu-mp4-konvertieren-top-methoden-zur-aufrechterhaltung-der-bildqualitat/"><u>AVCHD Zu MP4 Konvertieren - Top-Methoden Zur Aufrechterhaltung Der Bildqualität</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-c65-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/descifra-tu-coleccion-de-peliculas-conversion-facil-desde-vob-a-mp4-en-sistemas-operativos-windows-10-y-macos-incluido-el-vob-con-protection/"><u>Descifra Tu Colección De Películas: Conversión Fácil Desde VOB a MP4 en Sistemas Operativos Windows 10 Y macOS Incluido El VOB Con Protection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diving-deep-into-bsod-memory-information/"><u>Diving Deep Into BSOD Memory Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/edit-your-photographs-like-a-pro-with-movavis-powerful-picture-correction-suite/"><u>Edit Your Photographs Like a Pro with Movavi's Powerful Picture Correction Suite</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-premium-samsung-galaxy-note-9-experience-in-oversized-display-market/"><u>Expert Analysis of the Premium Samsung Galaxy Note 9 Experience in Oversized Display Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341731156-expert-analysis-on-asus-rog-azoth-extreme-at-just-500-reviews-inside/"><u>Expert Analysis on Asus ROG Azoth Extreme at Just $500 - Reviews Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-insights-and-analysis/"><u>Exploring Gadgets with Tom's Hardware Insights and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-value-and-performance-an-in-depth-look-at-the-id-cooling-frozn-a620-pro-se-cooler/"><u>Maximizing Value and Performance: An In-Depth Look at the ID-Cooling Frozn A620 PRO SE Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341713132-regular-follow-up-visits-allow-for-assessment-of-healing-progress-and-detection-of-late-onset-complications/"><u>Regular Follow-Up Visits Allow for Assessment of Healing Progress and Detection of Late Onset Complications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-impactful-evolution-in-industrial-electronics-an-in-depth-review-of-the-raspberry-pi-compute-module-4s/"><u>The Impactful Evolution in Industrial Electronics: An In-Depth Review of the Raspberry Pi Compute Module 4S</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pineboards-hatdrive-budget-friendly-and-fast-attachment-for-raspberry-pi/"><u>Unveiling the Pineboards HatDrive: Budget-Friendly & Fast Attachment for Raspberry Pi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gadgets-and-hardware-innovations-toms-insight/"><u>Unveiling Top Gadgets and Hardware Innovations - Tom's Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-picks-a-spotlight-on-toms-hardware-selection/"><u>Unveiling Top Tech Picks: A Spotlight on Tom's Hardware Selection</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-the-power-of-countdown-timers-in-final-cut-pro-x/"><u>Updated 2024 Approved Unleash the Power of Countdown Timers in Final Cut Pro X</u></a></li>
 </ul></div>
 

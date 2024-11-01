@@ -1,7 +1,7 @@
 ---
 title: "2023 Ultimate Memory Guide: Professional Workstation and Gaming Upgrades Revealed | ZDNET Top Picks"
-date: 2024-10-23T01:07:43.016Z
-updated: 2024-10-27T01:29:05.283Z
+date: 2024-10-31T17:45:08.152Z
+updated: 2024-11-01T18:44:13.710Z
 tags:
   - laptops
 categories:
@@ -25,6 +25,13 @@ We prioritized machines that scored well in durability, portability, and of cour
 ## What's the best laptop for college right now?
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf96a2647-48a5-4f5e-a08f-e6332b6f1289%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best laptop for college in 2024
 
@@ -75,6 +82,13 @@ Cons
 
 ## HP Dragonfly Pro Chromebook
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best Chromebook for college
 
 Instead of going for a Mac or a Windows machine, [Chromebooks, powered by ChromeOS](https://www.zdnet.com/article/five-reasons-chromebooks-are-the-perfect-laptop/) are a solid third option, and the best one for college students is the HP Dragonfly Pro Chromebook.
@@ -105,21 +119,7 @@ Cons
 * Screen isn't very bright
 * A little bulky
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Acer Aspire Go 15
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best college laptop under $500
 
@@ -151,13 +151,6 @@ Cons
 
 ## Asus ROG Zephyrus G14
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best college laptop for gaming
 
 You know what they say about all work and no play. Let's face it, college is a grind, so it's nice to be able to unplug by plugging into your favorite game. Luckily, there are laptops that can do both, and the Asus ROG Zephyrus G14 gives you the best of both worlds. This is a sleek and lightweight laptop that you can bring to class, but it's also powerful enough to run all your favorite games in the off-hours. Also, the  offers student discounts on select laptops after signing up through a brief application form.
@@ -183,20 +176,14 @@ Cons
 * Expensive
 * Comes with multiple supporting parts
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lenovo Yoga Book 9i
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best 2-in-1 convertible laptop for college
 
@@ -213,10 +200,10 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best laptop for college?
@@ -243,6 +230,19 @@ The right college for laptop depends on first on what you want to get out of it,
 | Asus ROG Zephyrus G14               | A laptop you can take to class, but can double as a gaming machine.                                   |
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How we test laptops
 
 Kyle Kucharski/ZDNET
@@ -260,16 +260,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop for college
@@ -343,20 +337,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-see-old-stories-on-facebook-find-story-archive-easily/"><u>[New] 2024 Approved How to See Old Stories on Facebook Find Story Archive Easily</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-digital-storytelling-creating-compelling-gifs-for-2024/"><u>[New] Digital Storytelling Creating Compelling GIFs for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-ultimate-10-apps-to-boost-audio-velocity/"><u>[New] Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-video-capturing-warriors-choosing-between-obs-and-fraps/"><u>[New] Video Capturing Warriors Choosing Between OBS and Fraps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-video-resizer-tool/"><u>Digital Video Resizer Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-the-excellence-of-current-motorola-mobile-devices/"><u>Discovering the Excellence of Current Motorola Mobile Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/diy-personalized-android-user-interface-creation-using-cost-free-tools/"><u>DIY Personalized Android User Interface Creation Using Cost-Free Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/embracing-the-night-my-journey-into-a-world-of-dark-modes/"><u>Embracing the Night: My Journey Into a World of Dark Modes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-your-eye-comfort-on-android-devices-with-these-simple-brightness-adjustments/"><u>Enhance Your Eye Comfort on Android Devices with These Simple Brightness Adjustments!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-differences-essential-aspects-of-samsungs-ecosystem-not-found-in-the-google-universe-a-comprehensive-guide-for-switchers/"><u>Experience Differences: Essential Aspects of Samsung's Ecosystem Not Found in the Google Universe – A Comprehensive Guide for Switchers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-disabling-intrusive-notification-alerts-on-android-devices/"><u>Guide: Disabling Intrusive Notification Alerts on Android Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-cutting-edge-final-cut-pros-best-10-plugins/"><u>In 2024, Cutting Edge Final Cut Pro's Best 10 Plugins</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-days-of-the-week-in-french/"><u>The Days of the Week in French</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-quality-without-the-mic-a-practical-guide/"><u>[Updated] Enhancing Quality without the Mic A Practical Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862730029-exclusive-deal-get-the-hp-omen-transcend-14-laptop-with-rtx-gpu-and-oled-display-at-300-off/"><u>Exclusive Deal: Get the HP Omen Transcend 14 Laptop with RTX GPU & OLED Display at $300 Off!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862728742-get-the-best-bargain-asus-tuf-gaming-laptop-with-amd-ryzen-for-a-shocking-memorial-day-sale-only-658/"><u>Get the Best Bargain - Asus TUF (Gaming) Laptop with AMD Ryzen for a Shocking Memorial Day Sale: Only $658</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862715673-preview-the-acemagic-x1-before-it-hits-shelves-limited-time-offer-for-tech-enthusiasts/"><u>Preview the AceMagic X1 Before It Hits Shelves - Limited Time Offer for Tech Enthusiasts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/sever-link-pc-and-mobile-devices-discord-for-2024/"><u>Sever Link - PC & Mobile Devices Discord for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-gearing-up-for-top-performance/"><u>Tom's Tech Insights: Gearing Up for Top Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-of-toms-computer-components/"><u>Unveiling the Best of Tom's Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-tech-knowledge-with-toms-comprehensive-hardware-reviews/"><u>Upgrading Your Tech Knowledge with Tom's Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-resets-fix-for-resolution-settings-lockup/"><u>Win11 Resets - Fix for Resolution Settings Lockup</u></a></li>
 </ul></div>
 

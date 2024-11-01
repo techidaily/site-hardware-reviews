@@ -1,7 +1,7 @@
 ---
 title: "Top ThinkPad Choice for the Modern Hybrid Professional: Beyond the Latest Lenovo Release - Insights From ZDNet"
-date: 2024-10-19T16:25:09.634Z
-updated: 2024-10-26T23:22:40.199Z
+date: 2024-10-28T18:38:35.123Z
+updated: 2024-11-01T19:02:25.964Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,16 +111,20 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-instructions-for-googles-automatic-transcription-service/"><u>2024 Approved Step-by-Step Instructions for Google's Automatic Transcription Service</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chucklecraft-sign-up-now-and-laugh-later/"><u>ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-a-comprehensive-guide-to-cutting-edge-hardware/"><u>Exploring Tom's Tech: A Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/geometric-future-flamingo-model-0-ultra-slim-foldable-desktop-enclosure-perfect-for-your-mini-itx-motherboard/"><u>Geometric Future Flamingo Model 0 - Ultra-Slim, Foldable Desktop Enclosure Perfect for Your Mini-ITX Motherboard</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-versatile-adata-case-for-atx-supporting-standard-and-backward-compatible-connector-layouts-enhanced-by-xpgs-invader-x-bridge-technology/"><u>Introducing the Versatile Adata Case for ATX, Supporting Standard & Backward-Compatible Connector Layouts – Enhanced by XPG's Invader X Bridge Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-electronics-with-toms-hardware-expertise/"><u>Navigating Electronics with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/new-years-savings-bonanza-get-free-premium-access-for-life-on-mondly/"><u>New Year's Savings Bonanza: Get Free Premium Access for Life on Mondly!</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/professionelles-iso-image-herstellen-and-dvd-duplikate-erstellen-auf-windows-1187-mit-winx-software/"><u>Professionelles ISO-Image Herstellen & DVD Duplikate Erstellen Auf Windows 11/8/7 Mit WinX Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-saving-youtube-videos-as-screen-captures-today-completely-free/"><u>Start Saving YouTube Videos as Screen Captures Today - Completely Free</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-the-latest-hardware-trends/"><u>Tom's Tech Hub: Expert Insights Into the Latest Hardware Trends</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-a-step-by-step-approach-to-infusing-conversations-with-gifs-on-snapchat/"><u>[New] 2024 Approved A Step-by-Step Approach to Infusing Conversations with GIFs on Snapchat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-efficiently-recording-desktop-screens-for-various-purposes/"><u>[New] Efficiently Recording Desktop Screens for Various Purposes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-2023-tech-scoop-efficiently-tracking-down-fb-vids/"><u>2024 Approved 2023 Tech Scoop Efficiently Tracking Down FB Vids</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-quality-xiaomi-g34wqi-34-inch-180hz-monitor-review-vibrant-color-and-impressive-contrast-ratio-analysis/"><u>Affordable Quality: Xiaomi G34WQi 34-Inch 180Hz Monitor Review - Vibrant Color and Impressive Contrast Ratio Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/alienware-aw2725df-360hz-the-ultimate-battlefield-companion-unleashed-on-an-eye-popping-oled-screen/"><u>Alienware AW2725DF 360Hz: The Ultimate Battlefield Companion Unleashed on an Eye-Popping OLED Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862822842-amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversione-dvd-a-divx-di-alta-qualita-senza-costi-riduce-le-dimensioni-e-mantieni-il-contenuto/"><u>Conversione DVD a DivX Di Alta Qualità Senza Costi: Riduce Le Dimensioni E Mantieni Il Contenuto</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862826163-dells-high-resolution-qhd-ips-gaming-monitor-only-1ebaseandamppaged0-at-this-price/"><u>Dell's High-Resolution QHD IPS Gaming Monitor: Only $1Ebase=&amp;paged=0 at This Price!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829005-experience-crystal-clear-visuals-with-the-27-qhd-ips-samsung-odyssey-g50a-now-priced-at-a-bargain-255-on-amazon/"><u>Experience Crystal Clear Visuals with the 27 QHD IPS Samsung Odyssey G50A - Now Priced at a Bargain $255 on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862836417-grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracked-finesse-how-to-efficiently-edit-and-enhance-windows-photos/"><u>In 2024, Fast-Tracked Finesse How to Efficiently Edit and Enhance Windows Photos</u></a></li>
+<li><a href="https://facebook.techidaily.com/in-depth-why-some-posts-vanish-from-fb-timelines/"><u>In-Depth: Why Some Posts Vanish From Fb Timelines</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-should-you-buy-videopad-video-editor-a-honest-review-and-analysis-for-2024/"><u>Updated Should You Buy Videopad Video Editor? A Honest Review and Analysis for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11s-best-screen-capturing-software-selection-top-11-recommendations/"><u>Win11's Best Screen Capturing Software Selection – Top 11 Recommendations!</u></a></li>
 </ul></div>
 

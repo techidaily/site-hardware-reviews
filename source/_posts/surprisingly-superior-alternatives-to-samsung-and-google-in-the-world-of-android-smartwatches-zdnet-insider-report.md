@@ -1,7 +1,7 @@
 ---
 title: Surprisingly Superior Alternatives to Samsung and Google in the World of Android Smartwatches - ZDNET Insider Report
-date: 2024-09-18 14:16:31
-updated: 2024-09-20 11:39:48
+date: 2024-10-26T19:01:19.306Z
+updated: 2024-11-01T17:15:13.418Z
 tags:
   - smart-watches
 categories:
@@ -22,6 +22,13 @@ Matthew Miller/ZDNET
 * However it's only available in a single size (47mm to be exact) meaning this may not be a good fit for folks with smaller wrists.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
 
@@ -79,6 +86,13 @@ Matthew Miller/ZDNET
 
 While I wouldn't categorize the Galaxy Watch Ultra's battery life with that of Garmin, Suunto, or Coros sports watches, I have been able to get just about the same two-day endurance as the Apple Watch Ultra. That's a win in my book, even if it can only be achieved with the always-on display turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After years of using Samsung watches, the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) is the closest the company has come to producing a wearable fit for my needs and lifestyle. 
@@ -88,6 +102,13 @@ There are, however, a couple of shortcomings that Samsung needs to address befor
 **Also: [The 43 best Amazon Labor Day deals you can shop now](https://www.zdnet.com/home-and-office/best-labor-day-amazon-deals-2024/)**
 
 Still, as a smartwatch with more capabilities than normal, Samsung's Ultra wearable is a fantastic option for power users and enthusiasts like myself, with just enough new features like gesture controls, plenty of watch faces and useful complications, and the ability to dive deeper into all the details synced to Samsung Health.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -114,11 +135,30 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-is-online-video-streaming-worth-extra-costs-see-how-youtube-plans-fit-in/"><u>[New] 2024 Approved Is Online Video Streaming Worth Extra Costs? See How YouTube Plans Fit In</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-array-of-inquisitive-prompts-for-podcast-appeal-for-2024/"><u>[New] Cutting-Edge Array of Inquisitive Prompts for Podcast Appeal for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-starting-off-right-must-haves-for-youtube-enthusiasts/"><u>2024 Approved Starting Off Right Must-Haves for YouTube Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-nuc-970-mini-pc-assessment-high-performance-powerhouse-in-a-small-form-factor/"><u>Asus ROG NUC 970 Mini PC Assessment: High-Performance Powerhouse in a Small Form Factor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-errors-and-solutions-for-unlaunched-dragon-age-inquisition-sessions/"><u>Common Errors and Solutions for Unlaunched Dragon Age Inquisition Sessions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-the-definitive-resource-on-pc-gear/"><u>Exploring Hardware with Tom: The Definitive Resource on PC Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-more-storage-on-a-budget-with-asrocks-m2-b760-motherboard-review/"><u>Get More Storage on a Budget with ASRock's M.2 B760 Motherboard Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guida-esclusiva-alla-sovraimpressione-di-due-video-tutto-quello-che-devi-sapere-nel-2024/"><u>Guida Esclusiva Alla Sovraimpressione Di Due Video: Tutto Quello Che Devi Sapere Nel 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>In 2024, Transform Your Speech Access to No-Cost Voice Manipulation Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-evaluating-bluehosts-offerings-in-cloud-vps-and-shared-hosting-environments/"><u>In-Depth Review: Evaluating Bluehost's Offerings in Cloud, VPS, and Shared Hosting Environments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-hp-omnibook-x-experience-a-comprehensive-dive-into-its-16-hour-battery-life-and-xpower-technology/"><u>Inside the HP OmniBook X Experience: A Comprehensive Dive Into Its 16-Hour Battery Life and XPower Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-at-toms-tech-hub/"><u>Navigating the World of PC Components at Tom's Tech Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-hurdle-of-non-responding-email-alerts-on-pcs/"><u>Overcoming the Hurdle of Non-Responding Email Alerts on PCs</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ricostruire-la-cartella-documenti-di-windows-11-5-strategie-efficacissime/"><u>Ricostruire La Cartella Documenti Di Windows 11: 5 Strategie Efficacissime</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-microsofts-latest-surface-pro-exceptional-beauty-overshadowed-by-uninspiring-ai-innovations/"><u>The Verdict on Microsoft's Latest Surface Pro: Exceptional Beauty Overshadowed by Uninspiring AI Innovations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-s23plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy S23+ Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
+

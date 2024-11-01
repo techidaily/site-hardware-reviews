@@ -1,7 +1,7 @@
 ---
 title: The Revolutionary M3 MacBook Air From Apple - Bringing AI Accessibility to Everyday Users | Tech Insights
-date: 2024-10-21T22:08:02.141Z
-updated: 2024-10-26T23:46:45.494Z
+date: 2024-10-28T19:29:20.480Z
+updated: 2024-11-01T17:44:56.152Z
 tags:
   - laptops
 categories:
@@ -45,16 +45,10 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -115,10 +109,16 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -148,6 +148,13 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | CPU (Single Core)            | 140                 |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
 
@@ -179,13 +186,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33b6f882-0f32-4a12-a00c-f58c672b1c63%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33b6f882-0f32-4a12-a00c-f58c672b1c63%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -197,10 +197,10 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -249,22 +249,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>[New] In 2024, Charting the Unknown Visual Facts From 2017'S Youtube World</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-the-vault-of-online-videos-via-facebook/"><u>[New] Unlocking the Vault of Online Videos via Facebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-10-best-trending-background-music-for-youtube-shorts/"><u>2024 Approved The 10 Best Trending Background Music for YouTube Shorts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/chinese-semiconductor-firm-cxmt-targets-ai-market-with-innovative-hbm-memory-solutions-paving-the-path-to-independence/"><u>Chinese Semiconductor Firm CXMT Targets AI Market with Innovative HBM Memory Solutions, Paving the Path to Independence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-performance-metrics-of-toms-computer-components/"><u>Detailed Analysis: Performance Metrics of Tom's Computer Components</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/full-scrutiny-uncovering-the-dji-inspire-1-features/"><u>Full Scrutiny Uncovering the DJI Inspire 1 Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-apples-vision-pro-is-revitalizing-enterprises-a-closer-look-at-five-pioneering-companies/"><u>How Apple's Vision Pro Is Revitalizing Enterprises - A Closer Look at Five Pioneering Companies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-gen-nvidia-gpus-empowered-by-microns-production-of-ultra-fast-24gb-hbm3e-ai-memory-chips-set-for-release-in-q2/"><u>Next-Gen Nvidia GPUs Empowered by Micron's Production of Ultra-Fast 24GB HBM3E AI Memory Chips, Set for Release in Q2</u></a></li>
-<li><a href="https://video-capture.techidaily.com/simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sk-hynix-triumphs-as-ai-revolution-surge-bolsters-its-control-to-35-of-the-global-dram-market/"><u>SK Hynix Triumphs as AI Revolution Surge Bolsters Its Control to 35% of the Global DRAM Market</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/surecore-unveils-eco-efficient-quantum-memory-innovation-stable-at-recordly-cool-temperatures-of-just-4-kelvin/"><u>SureCore Unveils Eco-Efficient Quantum Memory Innovation - Stable at Recordly Cool Temperatures of Just 4 Kelvin</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-breakthrough-global-leader-samsung-initiates-production-of-ultra-thin-lpddr5x-memory-modules/"><u>Tech Breakthrough: Global Leader Samsung Initiates Production of Ultra-Thin LPDDR5X Memory Modules</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-future-unveiled-experience-unmatched-audio-with-klipschs-flexus-200/"><u>The Future Unveiled: Experience Unmatched Audio with Klipsch's Flexus 200</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-hardware-insights/"><u>Tom's Tech Reviews: In-Depth Analysis and Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-china-based-semiconductor-producer-pursues-enhanced-funding-for-195-billion-goal-ipo-deferred/"><u>Top China-Based Semiconductor Producer Pursues Enhanced Funding for $19.5 Billion Goal, IPO Deferred</u></a></li>
-<li><a href="https://facebook.techidaily.com/uncoupling-your-social-media-instagram-vs-facebook/"><u>Uncoupling Your Social Media: Instagram Vs. Facebook</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-voice-over-mastery-essential-fcp-recording-hacks/"><u>Updated 2024 Approved Voice Over Mastery Essential FCP Recording Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[New] In 2024, Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-facebook-profile-pictures-with-these-expert-creators/"><u>[New] In 2024, Mastering Facebook Profile Pictures with These Expert Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-spearheading-efficient-speech-recognition-on-google-platforms/"><u>[Updated] In 2024, Spearheading Efficient Speech Recognition on Google Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-7-must-have-metaverse-devices-you-need-to-prepare/"><u>2024 Approved 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-tricks-overcoming-doom-eternal-initial-launch-issues/"><u>DIY Tricks: Overcoming DOOM Eternal Initial Launch Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-pinpointing-youtube-comments/"><u>In 2024, Pinpointing YouTube Comments</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/insightful-analysis-the-phenomenon-of-mixed-reality-for-2024/"><u>Insightful Analysis The Phenomenon of Mixed Reality for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-toms-hardware-wisdom/"><u>Master Your Gadgets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-through-toms-hardware-experts/"><u>Mastering the Digital World Through Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tips-from-toms-hardware/"><u>Navigating the World of Gadgets with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/new-era-of-gaming-begins-top-brands-like-acer-dell-hp-and-lenovo-roll-out-1099-snapdragon-x-windows-copilot-pcs-with-exceptional-battery-life/"><u>New Era of Gaming Begins: Top Brands Like Acer, Dell, HP and Lenovo Roll Out $1,099 Snapdragon X Windows Copilot PCs with Exceptional Battery Life</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviving-the-iconic-1994-apple-powerbook-520c-enhanced-with-an-ipad-display-and-cutting-edge-2015-macbook-pro-hardware-inside/"><u>Reviving the Iconic 1994 Apple PowerBook 520C - Enhanced with an iPad Display and Cutting-Edge 2015 MacBook Pro Hardware Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-computing-experience-with-acer-dell-hp-and-lenovos-latest-offerings-affordable-snapdragon-x-windows-copilot-pcs-with-impressive-battery-l11/"><u>Revolutionize Your Computing Experience with Acer, Dell, HP and Lenovo's Latest Offerings: Affordable Snapdragon X Windows Copilot PCs With Impressive Battery Life</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-expert-gadget-reviews-and-tech-insights/"><u>Tom's Hardware - Expert Gadget Reviews & Tech Insights</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-lenovo-thinkpad-drivers-for-windows-10/"><u>Update Lenovo Thinkpad Drivers for Windows 10</u></a></li>
 </ul></div>
 

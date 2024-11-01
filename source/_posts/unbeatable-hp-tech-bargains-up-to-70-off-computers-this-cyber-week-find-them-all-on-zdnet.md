@@ -1,7 +1,7 @@
 ---
 title: Unbeatable HP Tech Bargains! Up to 70%% Off Computers This Cyber Week | Find Them All on ZDNET
-date: 2024-10-21T17:16:31.703Z
-updated: 2024-10-26T16:36:01.605Z
+date: 2024-10-30T20:08:02.373Z
+updated: 2024-11-01T16:17:43.731Z
 tags:
   - laptops
 categories:
@@ -90,10 +90,10 @@ The Zenbook Duo challenged what a laptop could look like with its dual-screen fo
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CRD1QRF4%2Fref%3Dasc%5Fdf%5FB0CRD1QRF41728126000000%3Fcreative%3D395261%26creativeASIN%3DB0CRD1QRF4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C86b9978d-c485-45a2-a9e9-8aab5a420239%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 laptop deals
@@ -105,35 +105,35 @@ Kyle Kucharski/ZDNET
 * [Asus Chromebook CM14 Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-Anti-Glare-1366x768-CM1402CM2A-DS44%2Fdp%2FB0CJS1399P%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C86b9978d-c485-45a2-a9e9-8aab5a420239%7Cdtp&dtb=1) for $168 ($110 off) - Asus' CM14 is a sleek and lightweight Chromebook that comes loaded with the streamlined ChromeOS to get the basics done on an efficient machine. And for this price, you can't ask for a more affordable device.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When is Amazon's October Prime Day 2024?
 
 Amazon Prime Day event lasts from Tuesday, Oct. 8 through Wednesday, Oct. 9, but there are noteworthy deals both before and after those days. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper on Prime Day?
 
 Amazon hasn't historically been the premiere destination for laptop deals, but the ones it lists for Prime Day have been too good to ignore. The MacBook deals, for example, were pretty major when they first dropped, since Apple is notorious for being restrictive about sales. The deals on Prime Day have gotten better each year, with more and more manufacturers participating with a broader range of devices. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How did we choose these October Prime Day deals?
 
@@ -212,15 +212,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-screensnapper-pro-2023-apowersofts-latest-for-pcs/"><u>[New] 2024 Approved ScreenSnapper Pro 2023 Apowersoft's Latest for PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-s17t-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after S17t has been deleted.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-repair-unresponsive-spacebar-in-windows-11-computers/"><u>Step-by-Step Guide to Repair Unresponsive Spacebar in Windows 11 Computers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-playlist-portability-service-to-service-swap-for-2024/"><u>The Art of Playlist Portability Service to Service Swap for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pitfalls-of-using-generative-ai-for-enhancing-chat-services-insights-and-analysis/"><u>The Pitfalls of Using Generative AI for Enhancing Chat Services - Insights & Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-ghost-runner-overcoming-critical-failures-in-windows-11/"><u>Troubleshooting the Ghost Runner: Overcoming Critical Failures in Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-instantaneous-windows-photo-explorer/"><u>[Updated] In 2024, Instantaneous Windows Photo Explorer</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/2024-mp4-15/"><u>2024年版 MP4 編輯器選擇清單 - 15 件推荐的最佳工具</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-sees-steep-decline-in-gaming-sales-yet-celebrates-surging-profits-from-data-centers-by-115/"><u>AMD Sees Steep Decline in Gaming Sales, Yet Celebrates Surging Profits From Data Centers by 115%</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/osts-on-downloads-with-this-list-of-20-free-youtube-sound-rippers-for-2024/"><u>Cut Costs on Downloads with This List of 20 Free YouTube Sound Rippers for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gratuit-konvertisseren-van-flac-naar-mp3-online-met-movavi-vrije-dienst/"><u>Gratuit Konvertisseren Van FLAC Naar MP3 Online Met Movavi - Vrije Dienst</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-7-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 7 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-conquer-video-lengths-your-ultimate-guide-to-auto-resizing-on-mac/"><u>In 2024, Conquer Video Lengths Your Ultimate Guide to Auto-Resizing on Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-unfreezing-process-effective-ways-to-revive-your-windows-10-taskbar/"><u>Mastering the Unfreezing Process: Effective Ways to Revive Your Windows 10 Taskbar</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-videographic-success-stories-for-client-praise/"><u>Mastering Videographic Success Stories for Client Praise</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ess-transformation-top-tools-for-youtube-videos-for-2024/"><u>Seamless Transformation Top Tools for YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-motherboards-of-2024-compare-by-socket-type-and-chipset/"><u>Top Rated Gaming Motherboards of 2024: Compare by Socket Type & Chipset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-compact-pc-building-with-maxsuns-newly-engineered-backside-slot-mini-itx-board/"><u>Transforming Compact PC Building with Maxsun's Newly Engineered Backside Slot Mini-ITX Board</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-computer-components-by-toms-hardware-experts/"><u>Ultimate Guide to Computer Components by Tom's Hardware Experts</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/unleash-the-power-of-hardware-with-toms-wisdom/"><u>Unleash the Power of Hardware with Tom's Wisdom</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-new-ice-themed-z790-aorus-xtreme-x-golden-cpu-socket-and-dazzling-giant-m2-cooling/"><u>Unveiling Gigabyte's New Ice-Themed Z790 Aorus XTreme X: Golden CPU Socket & Dazzling Giant M.2 Cooling</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-journey-through-modern-technology/"><u>Unveiling New Gadgets with Tom - A Journey Through Modern Technology</u></a></li>
 <li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-pc-hardware-with-toms-computing-experts/"><u>Unveiling the Best in PC Hardware with Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strengths-of-asuss-pro-b760m-ct-with-comprehensive-system-module-csm-reviewed/"><u>Unveiling the Strengths of Asus's Pro B760M-CT with Comprehensive System Module (CSM) Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-customers-can-now-order-loongson-cpu-equipped-mothers-and-systems-from-373-shipping-available/"><u>US Customers Can Now Order Loongson-CPU-Equipped Mothers & Systems From $373: Shipping Available</u></a></li>
 </ul></div>
 

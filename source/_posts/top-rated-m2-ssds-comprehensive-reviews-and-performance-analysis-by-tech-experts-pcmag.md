@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated M.2 SSDs : Comprehensive Reviews & Performance Analysis by Tech Experts | PCMag"
-date: 2024-10-19T20:46:11.673Z
-updated: 2024-10-26T22:16:10.337Z
+date: 2024-10-31T16:49:38.972Z
+updated: 2024-11-01T17:29:15.541Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,13 @@ All of the ultraportable laptops on this list sport cutting-edge form factors, a
 
 Our overall top pick for the best lightweight laptop has to go to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7db6cd82-2c93-4d40-af5c-7b35de870353%7Cdtp&dtb=1). In terms of portability, sleek form factor, solid battery life, and AI-capabilities, the MacBook Air M3 reigns supreme among the lightest of the light. It might not be the best pick for you, however, so we included other options that round out the spectrum of common use cases. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best ultraportable laptops of 2024
 
 Show less 
@@ -48,10 +55,10 @@ Cons
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
@@ -82,7 +89,21 @@ Cons
 * Generic design
 * Loud fans
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Acer Swift Go 14
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
 
@@ -110,27 +131,7 @@ Cons
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Asus ROG Zephyrus G14
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best lightweight laptop for gaming
 
@@ -161,20 +162,14 @@ Cons
 * Design tradeoffs for ultra portability
 * Expensive
 
-## LG Gram Pro 17
-
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## LG Gram Pro 17
 
 ### Best lightweight laptop with a 17" display
 
@@ -234,10 +229,10 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which is the right lightweight laptop for you?
@@ -276,13 +271,6 @@ These laptops all offer solid performance in their own right, but paired with th
 * **Battery life:** In order to be considered for this list, I considered machines with better-than-average battery life. This is one metric that will vary significantly based on use case, but all of these laptops will easily last an entire workday (eight hours) on one charge, even while undergoing demanding workloads
 * **Price:** Cost is an important factor and will make or break many consumers' choices. The reality is that ultraportability does come at a cost, as none of these laptops would be considered "budget" by any rate. The Acer Swift Go 14, however, is still quite affordable, starting at $800, though upgrades will move that number more in line with the others on this list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why does having a lightweight laptop matter?
 
 The answer to this question is simple: laptops are made to be carried around, and no one wants to carry a heavy computer. Having a thin, lightweight machine opens up its usability and lets you take it places you normally wouldn't consider possible. 
@@ -316,10 +304,10 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are there alternative lightweight laptops worth considering?
@@ -368,24 +356,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-obs-enhancing-integrating-a-timed-countdown-mechanism-for-2024/"><u>[New] Obs Enhancing Integrating a Timed Countdown Mechanism for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-designing-customized-instagram-feed-narratives/"><u>[Updated] 2024 Approved Designing Customized Instagram Feed Narratives</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-dcp-l2540dw-windows-installation-and-driver-downloads-for-hassle-free-printing/"><u>Brother DCP-L2540DW Windows Installation & Driver Downloads for Hassle-Free Printing</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/gratis-software-de-respaldo-y-restauracion-de-datos-personales-compatible-con-pcs-iphone-ipad-and-ipods/"><u>Gratis Software De Respaldo Y Restauración De Datos Personales Compatible Con PCs, iPhone, iPad & iPods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-asus-rog-phone-8-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Asus ROG Phone 8 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-x100-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo X100 Pro Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/initiate-insight-an-entryway-guide-to-online-product-critique-channels/"><u>Initiate Insight An Entryway Guide to Online Product Critique Channels</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-asus-stunning-8k-mini-led-proart-display-a-beacon-of-visual-excellence-in-the-world-of-high-end-professional-monitors-boasting-exceptional-lumin50/"><u>Introducing Asus' Stunning 8K Mini LED ProArt Display - A Beacon of Visual Excellence in the World of High-End Professional Monitors, Boasting Exceptional Luminance and Precise Control Over Illumination Zones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/jdis-innovative-2vd-technology-enables-unique-touch-experiences-on-shared-screens-for-individual-users/"><u>JDI's Innovative 2VD Technology Enables Unique Touch Experiences on Shared Screens for Individual Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kindle-hacked-to-function-as-a-mobile-e-ink-screen-devs-how-to-manual/"><u>Kindle Hacked to Function as a Mobile E-Ink Screen - Dev's How-To Manual</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-gadgets-a-journey-through-toms-hardware-realm/"><u>Mastering Modern Gadgets: A Journey Through Tom's Hardware Realm</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/monoprices-game-changer-a-price-wise-high-performance-144-hz-40-gaming-display-revealed-in-our-exclusive-review/"><u>Monoprice's Game Changer: A Price-Wise, High-Performance, 144 Hz 40 Gaming Display Revealed in Our Exclusive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-high-performance-gaming-displays-240hz-qd-oled-monitors-in-new-sizes/"><u>MSI Unveils High Performance Gaming Displays - 240Hz QD-OLED Monitors in New Sizes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-gadgets-insights-from-toms-technology-corner/"><u>Navigating Advanced Gadgets: Insights From Tom's Technology Corner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-components-at-toms-system-analysis/"><u>Navigating High-Tech Components at Tom's System Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-tomhardware/"><u>Navigating the World of Electronics with TomHardware</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-edge-40-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Edge 40 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-4-update-woes-discover-simple-solutions-to-prevent-game-crashes-now/"><u>Resident Evil 4 Update Woes? Discover Simple Solutions to Prevent Game Crashes Now!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[New] 2024 Approved Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hdr-editing-essentials-for-pc-users-for-2024/"><u>[New] HDR Editing Essentials for PC Users for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mobile-security-focused-the-leading-10-free-video-calling-applications-for-2024/"><u>[New] Mobile Security-Focused The Leading 10 Free Video Calling Applications for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-chuckle-inducing-cover-versions/"><u>[Updated] Chuckle-Inducing Cover Versions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-live-mastery-4-key-tv-broadcast-tips/"><u>2024 Approved FB Live Mastery 4 Key TV Broadcast Tips</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1726029034011-youtube/"><u>効率的な方法：YouTubeチャンネル内のビデオ一式をダウンロードするコツ</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488440-asus-rog-azoth-extreme-ultimate-gamers-choice-oled-touch-screen-robust-aluminum-body-with-carbon-fiber-at-499/"><u>ASUS ROG AZOTH Extreme: Ultimate Gamer's Choice - OLED Touch Screen, Robust Aluminum Body with Carbon Fiber at $499</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-gadgets-with-toms-electronic-insights/"><u>Exploring Advanced Gadgets with Tom's Electronic Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-solutions-with-toms-expertise-in-computer-hardware/"><u>Exploring Advanced Tech Solutions with Tom's Expertise in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487571-historic-discount-alert-grab-the-logitech-g-pro-for-just-54-best-offer-yet/"><u>Historic Discount Alert! Grab the Logitech G Pro for Just $54 – Best Offer Yet!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-operate-srt-audio-on-windowsmacos/"><u>In 2024, Operate SRT Audio on Windows/macOS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-c65s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Poco C65s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-frontiers-unpacking-windows-10-improvements/"><u>New Frontiers Unpacking Windows 10 Improvements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487998-steep-discount-alert-8bitdos-nes-style-retro-keyboard-now-at-just-79-on-amazon-prime-day/"><u>Steep Discount Alert: 8BitDo's NES-Style Retro Keyboard Now at Just $79 on Amazon Prime Day!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steps-for-resolving-driver-setup-issues-in-windows/"><u>Steps for Resolving Driver Setup Issues in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-selection-of-premium-gaming-chairs/"><u>The Ultimate Selection of Premium Gaming Chairs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-guide-comprehensive-hardware-analysis-and-comparisons/"><u>Tom's Computer Gear Guide: Comprehensive Hardware Analysis and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-expert-insights-and-comprehensive-analysis/"><u>Tom's Hardware Review: Expert Insights and Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-low-profile-keyboard-setup-the-ultimate-comfort-addition-for-just-11-featuring-logitechs-mx-palm-rest/"><u>Transform Your Low-Profile Keyboard Setup: The Ultimate Comfort Addition for Just $11 – Featuring Logitech's MX Palm Rest</u></a></li>
 </ul></div>
 

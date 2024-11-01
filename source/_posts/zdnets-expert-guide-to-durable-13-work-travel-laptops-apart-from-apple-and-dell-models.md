@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Expert Guide to Durable 13 Work Travel Laptops, Apart From Apple and Dell Models
-date: 2024-10-25T01:02:10.998Z
-updated: 2024-10-26T22:11:14.994Z
+date: 2024-10-29T20:13:09.650Z
+updated: 2024-11-01T20:03:41.915Z
 tags:
   - laptops
 categories:
@@ -116,16 +116,10 @@ MacBook Airs are fine machines, but they tended to be a little underpowered unti
 [Here's David's guide](https://www.zdnet.com/article/which-mac-to-buy-10-tips-to-help-you-decide/) for making trade-off decisions on new purchases. The TL;DR version is he recommends getting a MacBook Pro with at least 16GB RAM, an M1 processor, and an SSD of at least 256GB (but you could limp along on 128GB). While David uses a Mac Studio as his daily work machine, he has an M1 MacBook Air with 16GB of RAM and, because of the power of the M1 compared to the old Intel chips, he quite likes it for when he's out and about. 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is buying used worth it?
@@ -151,16 +145,10 @@ The bottom line, as always, has to be knowing your unique needs. Is the longest 
 We can't really answer any of those questions because neither of us have twins in college. We expect that savings would be paramount, and perhaps each twin could upgrade after college (on their own dimes).
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Checklist for buying a used machine
@@ -170,6 +158,13 @@ So, let's say you decide to ignore our advice and buy a machine from a local sel
 ## Step 1\. Before the road trip, get an About This Mac snapshot
 
 As mentioned above (and as you should know if you're braving buying a used Mac locally), About This Mac is a small screen located under the Apple menu. Have the seller take a photo of that screen and send it to you. That should give you the model number, serial number, amount of RAM, OS currently running, and type of storage. If any of those specs bother you, stop right here.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2\. Make a bootable USB drive
 
@@ -185,16 +180,16 @@ Here's a quick note: if you don't have a Mac already to make this external boot 
 
 You'll want to bring a basic test kit with you when you go to see the device you're considering. First, bring the external drive with a pre-configured version of MacOS. Next, bring a set of headphones (preferably with a headphone jack, rather than a USB connection). This will allow you to test external audio. Pack an SD card to test the internal SD card slot, if one exists. Finally, if you're looking at a 2008 to 2012 MacBook Pro, bring a CD and DVD with you to test the internal drive.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 4\. Once you arrive, carefully look over the machine
 
 Here's where you're going to do a thorough physical inspection of the machine before booting it up. You want to notice any dents, scratches, and, especially, any obvious damage. Look at each of the ports to see if any is out of alignment or crushed. Examine the screen for scratches or damage. Some MacBook Pros have visible screws. Check to make sure they're all in place and not stripped or missing. If the machine looks too beaten up, you might want to give it a pass. That said, some scratched up Macs still work great, and the scratches could well save you some bucks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 5\. Check the power adapter and boot the beast
 
@@ -210,13 +205,6 @@ If you're testing an Intel-based Mac, hold down the Option key (and keep holding
 
 If you can't boot the machine using either approach, walk away. This deal is a bust. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 6\. Check network and display
 
 The simplest way to make sure the network is running is to go to YouTube. Don't worry about running Chrome here. Just launch Safari to make sure you can get to YouTube. If the seller says there's no available network connection (or if you're in a public location), try setting up Wi-Fi. If you can't test the network, period, then walk away.
@@ -229,31 +217,31 @@ We like using the keyboard viewer, but you can also open Notes or TextEdit. Type
 
 **Also:** [**The best keyboards: Our top pick integrates a helpful ChatGPT shortcut**](https://www.zdnet.com/home-and-office/smart-office/best-keyboard/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 8\. Check drive, ports, and camera
 
 If there's an optical drive, take your test disk, insert it to see if it plays. Plug in your SD card to see if the machine reads it. Test your external drive in each of the USB ports. Try your headset to make sure it works. Fire up FaceTime or Photo Booth to make sure the MacBook's camera works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 9\. Check drive status
 
 It used to be that you could check the SMART (Self-Monitoring, Analysis and Reporting Technology) status of hard drives. With Apple's new APFS and SSDs, SMART is pretty much obsolete. We prefer to use Disk Utility to run First Aid on a drive to see if any errors show up. Errors on the drive could be caused by a bad drive (which is replaceable) or bad drive controller chips (which are not). We recommend walking away from any machine that fails the First Aid scan. If the seller doesn't want you to run a scan, run away.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 10\. Check the health condition of the battery
 
 Apple details [a series of simple steps](https://support.apple.com/en-us/HT201585) for making sure the battery still has life in it. This series of steps includes a look at the Mac's perception of the battery's condition and its cycle count. Pay attention to the max cycle count listed for [each model on this page](https://support.apple.com/en-us/HT201585), and then the cycle count you find on the machine you're considering. If they're too close, don't buy the machine. You'll need a costly battery replacement sooner rather than later.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 11\. Run Apple Diagnostics or Apple Hardware Test
 
@@ -303,19 +291,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-pictureprecision-the-ultimate-guide-to-adjusting-post-dimensions-in-instagram/"><u>[New] PicturePrecision The Ultimate Guide to Adjusting Post Dimensions in Instagram</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-humorhub-your-step-by-step-to-fun-videos/"><u>[Updated] HumorHub Your Step-by-Step to Fun Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-enhance-your-whatsapp-chats-ultimate-formatting-tips-and-shortcuts/"><u>1. Enhance Your WhatsApp Chats: Ultimate Formatting Tips and Shortcuts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazon-fire-tablet-hack-shifting-apps-to-external-sd-memory-for-enhanced-performance-and-storage-management/"><u>Amazon Fire Tablet Hack: Shifting Apps to External SD Memory for Enhanced Performance and Storage Management</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/android-leads-in-notification-innovation-outshining-iphone-features/"><u>Android Leads in Notification Innovation, Outshining iPhone Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionize-your-video-content-with-vce-22-mastery/"><u>In 2024, Revolutionize Your Video Content with VCE 2.2 Mastery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/by-step-changing-the-state-of-your-youtube-comments-for-2024/"><u>Step-by-Step Changing the State of Your YouTube Comments for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-must-watch-kid-flicks-on-netflix/"><u>The Ultimate List of Must-Watch Kid Flicks on Netflix</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-iphones-share-focus-mode-a-comprehensive-guide/"><u>Understanding iPhone's 'Share Focus' Mode: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-anticipated-launch-of-og-mobiles-new-nothing-phone-2-on-july-11/"><u>Unveiling the Anticipated Launch of OG Mobile's New 'Nothing Phone 2' On July 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-steps-to-find-out-your-android-version-and-build-id/"><u>Unveiling the Steps to Find Out Your Android Version and Build ID</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-foldable-version-of-google-pixel-could-feature-a-simplified-photography-setup/"><u>Upcoming Foldable Version of Google Pixel Could Feature a Simplified Photography Setup</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-google-pixel-8-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Google Pixel 8 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-low-cost-smart-home-devices-for-gaming/"><u>[New] 2024 Approved Ultimate Low-Cost Smart Home Devices for Gaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>[Updated] 2024 Approved Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instacaptions-for-a-global-stage-top-100-inspirational-posts/"><u>[Updated] In 2024, InstaCaptions for a Global Stage Top 100 Inspirational Posts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-understanding-av1-your-initial-compre-point/"><u>[Updated] Understanding AV1 Your Initial Compre Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-get-the-2024-asus-tuf-gaming-a15-laptop-this-memorial-day-for-an-exclusive-price-of-658/"><u>Don't Miss Out - Get the 2024 Asus TUF Gaming A15 Laptop This Memorial Day for an Exclusive Price of $658</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/emergency-evacuation-how-a-laptop-fired-up-an-american-airlines-flight/"><u>Emergency Evacuation: How a Laptop Fired Up an American Airlines Flight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-new-scented-way-to-compute-with-asus-adol-book-laptop-combining-technology-and-aromatherapy/"><u>Experience the New Scented Way to Compute With Asus' Adol Book Laptop: Combining Technology and Aromatherapy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-gear-guides-and-tips/"><u>Exploring Computer Hardware with Tom: Gear Guides and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-innovations-at-toms-tech-hub/"><u>Exploring the Latest Innovations at Tom's Tech Hub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-analyzing-hero5-black-and-yi-4k-cameras-for-modern-adventurers/"><u>In 2024, Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computing-world-top-picks-in-hardware-and-software/"><u>Inside Tom’s Computing World: Top Picks in Hardware and Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-adol-book-asus-latest-innovation-a-laptop-with-built-in-scent-technology/"><u>Introducing the Adol Book: Asus' Latest Innovation - A Laptop with Built-In Scent Technology</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-oppo-reno-11-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo Reno 11 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-f14-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy F14 5G Device</u></a></li>
 </ul></div>
 
