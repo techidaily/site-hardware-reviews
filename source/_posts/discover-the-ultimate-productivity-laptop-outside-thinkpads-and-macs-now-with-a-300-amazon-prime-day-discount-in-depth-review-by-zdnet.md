@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Productivity Laptop Outside ThinkPads & Macs, Now with a $300 Amazon Prime Day Discount | In-Depth Review by ZDNET
-date: 2024-10-30T20:51:25.828Z
-updated: 2024-11-01T20:03:26.523Z
+date: 2024-11-05T06:23:22.890Z
+updated: 2024-11-07T09:14:41.125Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,10 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,10 +106,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,18 +148,15 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premier-choices-for-accessible-screen-recorders/"><u>[New] In 2024, Premier Choices for Accessible Screen Recorders</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>[New] Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-mastering-digital-image-cropping-techniques/"><u>[Updated] 2024 Approved Mastering Digital Image Cropping Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-selection-free-photo-enhancement-tools-for-iphones-for-2024/"><u>[Updated] Ultimate Selection Free Photo Enhancement Tools for iPhones for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-detailed-app-analysis-the-ultimate-az-recorder-guide/"><u>2024 Approved Detailed App Analysis - The Ultimate AZ Recorder Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/decoding-the-code-for-quick-fb-media/"><u>Decoding the Code for Quick FB Media</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-infinix-note-30-vip-racing-edition-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Infinix Note 30 VIP Racing Edition FRP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-guides/"><u>Navigating the World of Electronics with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-wisdom-from-toms-hardware-experts/"><u>Navigating the World of Gadgets – Wisdom From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/qualcomms-game-changing-snapdragon-processors-in-dell-xps-13-plus-achieving-twice-the-battery-life-at-half-the-price-of-intel-options/"><u>Qualcomm's Game-Changing Snapdragon Processors in Dell XPS 13 Plus: Achieving Twice the Battery Life at Half the Price of Intel Options</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/razer-blade-18-premium-laptop-for-professionals-featuring-nvidias-geforce-rtx-4090-graphics-card-priced-at-4799/"><u>Razer Blade 18: Premium Laptop for Professionals Featuring Nvidia's GeForce RTX 4090 Graphics Card, Priced at $4,799</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revamped-tech-blueprint-superior-laptop-performance-boost-with-intel-core-ultra-and-new-generation-ryzen-cpus/"><u>Revamped Tech Blueprint: Superior Laptop Performance Boost with Intel Core Ultra & New Generation Ryzen CPUs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-is-arm-based-mediatek-gears-up-to-power-windows-laptops-post-qualcomm-pact/"><u>The Future Is ARM-Based: MediaTek Gears Up to Power Windows Laptops Post Qualcomm Pact</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-29-how-to-record-free-webinars-with-ease-and-precision/"><u>[New] 29 How-To Record Free Webinars with Ease and Precision</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-ios-video-streaming-tools-for-iphones-ipads/"><u>[Updated] Best iOS Video Streaming Tools for iPhones, iPads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximizing-fb-ad-success-a-step-by-step-animated-guide/"><u>2024 Approved Maximizing FB Ad Success A Step-by-Step Animated Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-itel-a60s-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-100-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor 100</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discoveries-the-world-of-toms-technology-insight/"><u>Pioneering Hardware Discoveries: The World of Tom's Technology Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-in-computing-tips-and-reviews-from-toms-hardware-experts/"><u>Stay Ahead in Computing: Tips and Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-access-is-forbidden-problem-on-your-site-403-error/"><u>Troubleshooting the 'Access Is Forbidden' Problem on Your Site (403 Error)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What's Coming in the Apple October Event? M4 Mac Mini Reveal, Latest iPad Lineup & Advancements in Siri and Beyond | Wired
-date: 2024-10-30T20:21:49.104Z
-updated: 2024-11-01T16:45:26.181Z
+date: 2024-10-31T04:01:37.730Z
+updated: 2024-11-07T13:17:00.519Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,15 +123,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-box-by-strategy-market-success-blueprints/"><u>[New] Box by Strategy Market Success Blueprints</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-crack-the-code-of-imagerys-roots-with-our-reverse-analysis-tools-for-instagram/"><u>[New] Crack the Code of Imagery's Roots with Our Reverse Analysis Tools for Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz-for-2024/"><u>[New] Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-lg-360-camera-full-review/"><u>[New] LG 360 Camera Full Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-influencing-now-top-10-hashtags-for-your-next-post/"><u>[Updated] 2024 Approved Influencing Now Top 10 Hashtags for Your Next Post</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-redefine-small-screen-experience-explore-these-top-6-freely-available-youtube-shorts-downloader-tools/"><u>[Updated] Redefine Small Screen Experience Explore These Top 6 Freely Available YouTube Shorts Downloader Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-and-advice-on-gadgets-trust-in-toms-hardware/"><u>Comprehensive Reviews and Advice on Gadgets - Trust in Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-choosing-quality-components-by-tom/"><u>The Ultimate Resource for Choosing Quality Components by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-in-depth-reviews-of-pc-hardware/"><u>Unveiling Gadgets with Tom: In-Depth Reviews of PC Hardware</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-microsnap-evaluation-and-comparable-software/"><u>[New] In 2024, MicroSnap Evaluation & Comparable Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolution-at-your-desk-windows-10-updates-reviewed/"><u>[New] Revolution at Your Desk Windows 10 Updates Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-metaverse-enthusiasts-secret-to-simple-avatars/"><u>[Updated] Metaverse Enthusiasts' Secret to Simple Avatars</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks/"><u>[Updated] Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-auditory-ambiance-music-in-instagrams-visual-narratives/"><u>2024 Approved Auditory Ambiance Music in Instagram's Visual Narratives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-space-not-time-discover-the-coolest-34-phone-apps-for-slashing-size/"><u>2024 Approved Maximize Space, Not Time Discover the Coolest 34 Phone Apps for Slashing Size</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-modern-electronics-by-toms-expertise/"><u>In-Depth Analysis of Modern Electronics by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-hps-omnibook-ultra-14-the-power-duo-of-amd-ryzen-ai-300-chipset-and-next-gen-thunderbolt-4-for-unmatched-productivity/"><u>Introducing HP's OmniBook Ultra 14: The Power Duo of AMD Ryzen AI 300 Chipset & Next-Gen Thunderbolt 4 for Unmatched Productivity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1138136-9780892545674-jung-and-the-alchemical-imagination/"><u>Jung and the Alchemical Imagination | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/land-a-steady-bargain-on-high-performance-laptop-save-250-on-asuss-rog-zephyrus-g16-with-advanced-cpu-and-graphics/"><u>Land a Steady Bargain on High-Performance Laptop - Save $250 on ASUS's RoG Zephyrus G16 with Advanced CPU & Graphics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-through-insightful-articles-by-toms-hardware/"><u>Mastering Tech Trends Through Insightful Articles by Tom's Hardware</u></a></li>
 </ul></div>
 

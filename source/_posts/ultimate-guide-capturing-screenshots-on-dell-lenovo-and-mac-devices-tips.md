@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Capturing Screenshots on Dell, Lenovo & Mac Devices - Tips"
-date: 2024-10-27T16:48:56.971Z
-updated: 2024-11-01T19:58:10.868Z
+date: 2024-11-02T12:57:14.509Z
+updated: 2024-11-06T16:38:17.611Z
 tags:
   - laptops
 categories:
@@ -28,13 +28,6 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -42,13 +35,6 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -76,6 +62,13 @@ Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
 Windows also includes a [one-stop tool for taking screenshots](https://www.zdnet.com/article/how-to-screenshot-on-windows/) or capturing individual windows or portions of windows. It's called the Snipping Tool and its full menu can be accessed by opening your start menu and typing in "snip." Alternatively, you can skip directly to the capture functionality it offers by pressing **Win+Shift+S.**
@@ -88,15 +81,22 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
@@ -109,30 +109,24 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
@@ -178,14 +172,15 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-navigating-next-gen-storage-the-ultimate-five/"><u>[Updated] Navigating Next-Gen Storage The Ultimate Five</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-insights-on-modern-hardware-your-go-to-source-toms-tech-reviews/"><u>Advanced Insights on Modern Hardware - Your Go-To Source, Tom's Tech Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862820893-dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevating-your-channels-profits-with-impactful-and-effective-trailers/"><u>Elevating Your Channels' Profits with Impactful and Effective Trailers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862824795-experience-ultraportability-with-vaios-newly-launched-visionplus-14-monitor-just-072-pounds/"><u>Experience Ultraportability with Vaio's Newly Launched Vision+ 14 Monitor - Just 0.72 Pounds</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-2023s-premier-alternatives-to-samsungs-gear-360-cam/"><u>In 2024, 2023'S Premier Alternatives to Samsung's Gear 360 Cam</u></a></li>
-<li><a href="https://techidaily.com/nasa-confirms-operational-bluetooth-technology-now-available-aboard-the-international-space-station/"><u>NASA Confirms: Operational Bluetooth Technology Now Available Aboard the International Space Station</u></a></li>
-<li><a href="https://win-dash.techidaily.com/targus-displaylink-driver-updates-a-step-by-step-guide-for-windows-users/"><u>Targus DisplayLink Driver Updates: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862816622-transform-your-gaming-experience-with-the-sale-priced-acer-nitro-a-stunning-24-curved-monitor-now-available-at-a-fantastic-price-of-only-81/"><u>Transform Your Gaming Experience with the Sale-Priced Acer Nitro: A Stunning 24 Curved Monitor Now Available at a Fantastic Price of Only $ 81</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones/"><u>[New] A Step-by-Step Guide Turning Viral Soundtracks Into Personal Ringtones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-communication-merging-skype-and-zoom-functionality-for-2024/"><u>Boost Communication Merging Skype and Zoom Functionality for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-frontiers-with-toms-hardware-innovations/"><u>Exploring Digital Frontiers with Tom's Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341752337-get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-on-iphone-15-plus-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Videos Not Playing on iPhone 15 Plus?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-nord-3-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus Nord 3 5G Phone Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-with-toms-hardware-advice/"><u>Mastering Your Digital Life with Tom's Hardware Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-latest-computer-reviews-from-toms-hardware-insights/"><u>Unveiling Latest Computer Reviews From Tom's Hardware Insights</u></a></li>
 </ul></div>
 

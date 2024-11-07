@@ -1,7 +1,7 @@
 ---
 title: "Modeling Future Automatons: Why Animal-Inspired Robotics Is a Game Changer - Insights From The New Breed"
-date: 2024-09-19 13:41:28
-updated: 2024-09-20 11:47:22
+date: 2024-11-01T02:24:53.428Z
+updated: 2024-11-07T13:14:08.677Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube-for-2024/"><u>[Updated] Listening Out Loud Deciphering the Differences Between Podcasts & YouTube for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-methods-for-migrating-snapshots-to-storage/"><u>[Updated] Simplified Methods for Migrating Snapshots to Storage</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-efficient-techniques-for-transferring-images-from-icloud-to-your-ipad/"><u>1. Efficient Techniques for Transferring Images From iCloud to Your iPad</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-comprehensive-analysis-of-the-acer-predator-orion-egpu/"><u>Affordable Excellence: Comprehensive Analysis of the Acer Predator Orion eGPU</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-iptv-platform-agnosticism/"><u>Comprehensive IPTV Platform Agnosticism</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audiovisual-mastery-imovie-sound-guide/"><u>In 2024, Audiovisual Mastery IMovie Sound Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-components-with-toms-guide/"><u>Inside the World of Components with Tom's Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/introducing-the-new-release-of-apowermirror-v1463-features-youll-love/"><u>Introducing the New Release of ApowerMirror (v1.4.6.3): Features You'll Love</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-gaming-on-windows-with-asus-rog-ally-x-an-insightful-revenue-at-an-elevated-price/"><u>Mastering Mobile Gaming on Windows with Asus ROG Ally X - An Insightful Revenue at an Elevated Price</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-computer-hardware-trends-guided-by-toms-gear-review/"><u>Navigate the Latest Computer Hardware Trends – Guided by Tom's Gear Review</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-10-proplus-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 10 Pro+ 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-unveiling-the-best-in-hardware-technology/"><u>Pioneering Reviews by Tom: Unveiling the Best in Hardware Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/seamless-username-switching-in-google-meet-settings/"><u>Seamless Username Switching in Google Meet Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-savvy-consumers-discovering-quality-hardware-with-tom/"><u>The Ultimate Resource for Tech Savvy Consumers - Discovering Quality Hardware with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-guide-to-toms-computer-components-and-systems/"><u>Unlocking Performance: A Guide to Tom's Computer Components and Systems</u></a></li>
+</ul></div>
+

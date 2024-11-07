@@ -1,7 +1,7 @@
 ---
 title: Top 5 Smart Outlet Devices Reviewed by Tech Experts at ZDNet
-date: 2024-09-17 21:43:10
-updated: 2024-09-20 11:23:29
+date: 2024-11-05T17:55:46.717Z
+updated: 2024-11-06T23:50:56.719Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,27 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-seamless-shoot-and-capture-with-tracker-tech/"><u>[New] 2024 Approved Seamless Shoot-and-Capture with Tracker Tech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>[New] 2024 Approved Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-navigating-the-pathway-to-royalty-free-images/"><u>[New] In 2024, Navigating the Pathway to Royalty-Free Images</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-5-budget-friendly-methods-for-live-feed-recordings/"><u>[New] In 2024, Top 5 Budget-Friendly Methods for Live Feed Recordings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>[Updated] Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-using-obs-and-streamlabs-together-mac/"><u>2024 Approved The Ultimate Guide to Using OBS and Streamlabs Together (Mac)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprendere-il-file-divx-guida-alla-lettura-e-alla-reproduzione/"><u>Comprendere Il File DivX: Guida Alla Lettura E Alla Reproduzione</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insightful-gadget-analysis-and-hardware-breakdown/"><u>Tom's Tech Review: Insightful Gadget Analysis and Hardware Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-gear-tech-advice-the-toms-hardware-way/"><u>Top Gear Tech Advice - The Tom's Hardware Way</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-a-widescreen-gaming-screen/"><u>Ultimate Guide to Choosing a Widescreen Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-secrets-with-toms-authoritative-reviews/"><u>Unveiling Hardware Secrets with Tom's Authoritative Reviews</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-perfecting-the-journey-a-guide-to-integrating-visual-sequences-for-2024/"><u>Updated Perfecting the Journey A Guide to Integrating Visual Sequences for 2024</u></a></li>
+</ul></div>
+

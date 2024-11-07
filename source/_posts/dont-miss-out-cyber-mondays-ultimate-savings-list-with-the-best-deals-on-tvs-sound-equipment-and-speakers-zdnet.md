@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Cyber Monday’s Ultimate Savings List with the Best Deals on TVs, Sound Equipment, and Speakers | ZDNET"
-date: 2024-10-30T20:03:18.170Z
-updated: 2024-11-01T18:24:45.475Z
+date: 2024-11-03T14:24:42.817Z
+updated: 2024-11-07T07:21:27.134Z
 tags:
   - laptops
 categories:
@@ -118,13 +118,6 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -138,6 +131,13 @@ ZDNET
 * [Final Fantasy VII Rebirth for $50 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFinal-Fantasy-VII-Rebirth-PlayStation-5%2Fdp%2FB0CGXZQ4CD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): The anticipated FFVII remaster includes an Amazon exclusive PS5 controller skin.
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals still available
 
@@ -180,13 +180,6 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -206,18 +199,18 @@ Samsung/ZDNET
 * [LG UltraGear OLED 39-inch curved monitor for $803 (save $697)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-39GS95QE-UltraGear-DisplayHDR-DisplayPort%2Fdp%2FB0CV1VL18C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): This ultra-wide monitor has a 240Hz refresh rate, 0.03ms response time, and OLED panel for more accurate colors, detailing, and contrast.
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day PC gaming accessories deals still available
 
 * [Logitech G560 speaker system for $160 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-LIGHTSYNC-Gaming-Speakers-Lighting%2Fdp%2FB07B2WLS17%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): A high-end speaker system for PC and console gaming with 7.1CH surround sound DTS:X Ultra audio, and RGB lighting.
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d7a5497-a1e0-4972-a422-4c4d6df6a28b%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
 
@@ -228,30 +221,37 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -319,16 +319,19 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-firecapture-plugins-for-firefox/"><u>[Updated] FireCapture Plugins for Firefox</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>2024 Approved Embedded Recorder Usage in Huawei's Mate Series and the P Lineup</u></a></li>
-<li><a href="https://facebook.techidaily.com/captivating-your-audience-tips-for-photographic-proficiency/"><u>Captivating Your Audience: Tips for Photographic Proficiency</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-note-30i-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix Note 30i Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviews-of-the-viewsonic-xg2eon-oled-stunning-240hz-performance-for-gamers/"><u>Reviews of the ViewSonic XG2eon OLED: Stunning 240Hz Performance for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-troubleshooting-of-nspr-(a-href(httpswwwgooglecomsearchqnspr4pluserror)error)-missing-or-not-found-dll(a)/"><u>Step-by-Step Troubleshooting of Nspr <a href=<https://www.google.com/search?q=Nspr4+error>Error>: Missing or Not Found DLL</A></u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-reviews-and-advice/"><u>Tom's Computer Components - In-Depth Reviews and Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-hub-expert-reviews-and-innovative-pc-building-tips/"><u>Tom's Computer Hub: Expert Reviews & Innovative PC Building Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-15-no-cost-software-to-change-your-videos-from-4k-tofrom-hd-best-pc-and-mac-options-revealed/"><u>Top 15 No-Cost Software to Change Your Videos From 4K To/From HD: Best PC & Mac Options Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-best-budget-friendly-closer-tutorials-top-6-edition/"><u>[New] The Best Budget-Friendly Closer Tutorials Top 6 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harnessing-imagination-a-practical-guide-to-professional-gifs-for-2024/"><u>[Updated] Harnessing Imagination A Practical Guide to Professional GIFs for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-open-source-game-tunes-library-web-for-2024/"><u>[Updated] Open Source Game Tunes Library Web for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-soon-will-expire-warning-on-microsoft-os/"><u>Avoiding Soon Will Expire Warning on Microsoft OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-concept-of-dual-mode-monitors/"><u>Breaking Down the Concept of Dual-Mode Monitors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-apex-legends-loading-issues-in-seconds-simple-solutions-inside/"><u>Fixing Apex Legends Loading Issues in Seconds - Simple Solutions Inside</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Power 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 5GFRP Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sneak-peek-of-the-future-new-ai-integrated-dell-laptops-set-for-a-summer-release/"><u>Sneak Peek of the Future - New AI-Integrated Dell Laptops Set for a Summer Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-elite-selection-premium-notebooks-and-high-performance-laptops/"><u>The Elite Selection: Premium Notebooks & High-Performance Laptops</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-companion-introducing-pdw4/"><u>The Ultimate Game Companion: Introducing PDW4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware-t17238628794254/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
 </ul></div>
 

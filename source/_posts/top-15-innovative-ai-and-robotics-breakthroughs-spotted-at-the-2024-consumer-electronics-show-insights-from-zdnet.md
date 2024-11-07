@@ -1,7 +1,7 @@
 ---
 title: Top 15 Innovative AI & Robotics Breakthroughs Spotted at the 2024 Consumer Electronics Show - Insights From ZDNet
-date: 2024-09-18 15:41:11
-updated: 2024-09-20 12:44:17
+date: 2024-11-04T07:21:56.103Z
+updated: 2024-11-06T22:05:40.869Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/irect-linkage-bridging-youtube-and-imovie-with-music/"><u>[New] Direct Linkage Bridging YouTube and iMovie with Music</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crafting-the-perfect-auditory-package-for-boxings/"><u>[Updated] 2024 Approved Crafting the Perfect Auditory Package For Boxings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-adapting-to-instagrams-evolved-content-curation/"><u>[Updated] Adapting to Instagram's Evolved Content Curation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-create-insta-highlight-cover-photos-a-complete-guide-for-2024/"><u>[Updated] How to Create Insta Highlight Cover Photos A Complete Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premier-mac-recording-software-top-5-innovations-revealed/"><u>[Updated] In 2024, Premier Mac Recording Software Top 5 Innovations Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-understanding-how-youtube-manages-post-upload-content/"><u>[Updated] Understanding How YouTube Manages Post-Upload Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-m34-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy M34 without App | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-system-solutions-with-toms-hardware-your-trusted-guide/"><u>Expert System Solutions with Tom's Hardware - Your Trusted Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-from-toms-hardware-experts/"><u>In-Depth Gadget Analysis From Tom's Hardware Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-save-money-now-the-4-most-reliable-sources-for-filmora-discounts/"><u>New 2024 Approved Save Money Now The 4 Most Reliable Sources for Filmora Discounts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powering-up-performance-a-detailed-look-at-lexars-20-gbps-storage-giants-sl500-and-sl600-models/"><u>Powering Up Performance: A Detailed Look at Lexar's 20 Gbps Storage Giants - SL500 and SL600 Models</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sunfounder-piromann-5-assessment-fulfilling-assembly-needed/"><u>SunFounder Piromann 5 Assessment - Fulfilling Assembly Needed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review: Expert Insights on Hardware</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-for-xp-pens-advanced-16-pro-drawing-monitor-features-benefits-and-more/"><u>Top Reviews for XP-Pen's Advanced 16 Pro Drawing Monitor: Features, Benefits & More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-tier-gaming-display-tested-asrocks-pg27qft2a-offers-powerful-speed-for-a-competitive-price/"><u>Top-Tier Gaming Display Tested: ASRock's PG27QFT2A Offers Powerful Speed for a Competitive Price</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-gadgets-with-toms-guides/"><u>Unveiling the Secrets of Gadgets with Tom's Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syn-2naio-liquid-cooling-system-evaluation-excellent-thermal-management-yet-unpolished-ui/"><u>Valkyrie Syn 2nAIO Liquid Cooling System Evaluation: Excellent Thermal Management, Yet Unpolished UI</u></a></li>
+</ul></div>
+

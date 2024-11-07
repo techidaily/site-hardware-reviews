@@ -1,7 +1,7 @@
 ---
 title: "Inside the Most Innovative Tech of CES 202E: ZDNet Editors' Choice Awards"
-date: 2024-10-31T18:13:45.093Z
-updated: 2024-11-01T16:25:09.404Z
+date: 2024-11-03T13:48:06.170Z
+updated: 2024-11-06T21:44:50.074Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,13 @@ Show less
 
 ## Apple iPhone 14 Pro Max
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best smartphone of 2022
 
 **Tech specs: Processor:** Apple A16 | **Display Size:** 6.7 inches | **Storage Options:** 128GB/256GB/512GB/1TB | **Rear Cameras:** 48MP wide, 12MP ultra-wide, and 12MP telephoto | **Front Camera:** 12MP f/1.9 | **Colors:** Silver, Space Black, Gold, Deep Purple | **Weight:** 240g
@@ -45,6 +52,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Nothing](https://www.awin1.com/awclick.php?mid=48011&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fus.nothing.tech%2Fpages%2Fphone-1)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNothing-Phone1-Smartphone-Factory-Unlocked%2Fdp%2FB0B76JMCM9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Nothing Phone 1
 
@@ -98,13 +112,6 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BX4XVCM5%2Fref%3Dasc%5Fdf%5FB0BX4XVCM51728558000000%3Fcreative%3D395261%26creativeASIN%3DB0BX4XVCM5%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra
 
 ### Best smartwatch of 2022
@@ -126,13 +133,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Oura Ring](https://ouraring.sjv.io/c/159047/1408413/16760?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fouraring.com%2Fproduct%2Fhorizon-silver&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Oura Ring Gen 3 Horizon
 
@@ -161,10 +161,10 @@ Show less
 ## Samsung Galaxy Tab S8 Plus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best tablet of 2022
@@ -241,6 +241,19 @@ Show less
 
 ## Samsung Neo QLED 8K QN800B TV
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best TV of 2022
 
 **Tech specs: Screen size:** 65-, 75- or 85-inch | **Resolution:** 7,680 x 4,320 | **Picture processor:** Neural Quantum Processor 8K | **Color:** 100% Color Volume with Quantum Dot | **Adaptive picture:** Optimized/EyeComfort | **Refresh rate:** 120Hz | Ports: (4) HDMI, (2) USB 2 ports
@@ -259,13 +272,26 @@ Show less
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F731543167&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Kasa Smart Plug Mini
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best smart plug of 2022
@@ -289,13 +315,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B9HY3614%2Fref%3Dasc%5Fdf%5FB0B9HY36141728558000000%3Fcreative%3D395261%26creativeASIN%3DB0B9HY3614%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
 ## Yale Assure Lock 2
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best smart lock of 2022
 
@@ -338,10 +357,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09Q7SZHKG%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Drop + EPOS PC38X Gaming Headset
@@ -363,6 +382,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C784cc1cd-b602-41a3-9a72-a33e2151c1b9%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Logitech MX Master 3S
 
@@ -426,13 +452,6 @@ The Roomba j7+ doesn't have mopping capabilities, but it does pair beautifully w
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are some other top tech products of 2022?
 
 While we think the above devices are the best of the best, we do have some honorable mentions of products that grabbed our attention throughout the year. 
@@ -454,13 +473,6 @@ We asked ZDNET writers and editors what their favorite products they reviewed/pu
 ## Were all these products released in 2022?
 
 Most of these products were released this year, but some, such as the Kasa Smart Plug Mini and the Drop + EPOS PC38X gaming headset, were previously released. We were just super impressed with them this year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What technology will trend in 2023?
 
@@ -502,17 +514,21 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/issecting-youtubes-selection-of-trending-video-responses-for-2024/"><u>[New] Dissecting YouTube's Selection of Trending Video Responses for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-hues-the-filmmakers-palette-guide/"><u>[Updated] Harmonizing Hues The Filmmaker's Palette Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smart-solutions-iphone-content-to-computer/"><u>[Updated] Smart Solutions IPhone Content to Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/concerned-about-the-rise-of-quiet-quitting-essential-dos-and-donts-to-prevent-workplace-issues-zdnet/"><u>Concerned About the Rise of 'Quiet Quitting'? Essential Do's & Don'ts to Prevent Workplace Issues | ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guides-on-toms-computing-essentials/"><u>Expert Guides on Tom's Computing Essentials</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-f04-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy F04 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computers-and-devices-with-tom/"><u>Inside the World of Computers & Devices with Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-world-the-ultimate-resource-for-enthusiasts/"><u>Inside Tom's Equipment World: The Ultimate Resource for Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-gear-with-expertise-from-toms-hardware/"><u>Navigate the World of Tech Gear with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-m2-ssd-card-adapter-hat-review-budget-friendly-and-fast-performance/"><u>Raspberry Pi M.2 SSD Card Adapter HAT Review - Budget Friendly and Fast Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-66-travel-influencers-on-twitter-with-exclusive-offers/"><u>Ultimate List of 66 Travel Influencers on Twitter with Exclusive Offers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-techniques-to-achieve-consistent-frame-rates-in-obs-studio/"><u>[New] 2024 Approved Techniques to Achieve Consistent Frame Rates in OBS Studio</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-from-novice-to-expert-learning-the-ins-and-outs-of-instagram-hashtags/"><u>[New] In 2024, From Novice to Expert Learning the Ins and Outs of Instagram Hashtags</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-utilizing-youtubes-cc-to-enhance-your-videography/"><u>[New] Utilizing YouTube's CC to Enhance Your Videography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-your-content-seo-mastery-starts-here/"><u>[Updated] In 2024, Elevate Your Content SEO Mastery Starts Here</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/direct-obs-video-feed-for-instagram/"><u>Direct OBS Video Feed for Instagram</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-your-comprehensive-resource/"><u>Exploring Hardware with Tom - Your Comprehensive Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-depths-of-digital-gadgets-at-toms-equipment-emporium/"><u>Exploring the Depths of Digital Gadgets at Tom’s Equipment Emporium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-edge-with-acemagics-upcoming-dual-display-laptop-reserve-now-before-release-date/"><u>Get the Edge with AceMagic's Upcoming Dual-Display Laptop – Reserve Now Before Release Date</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-up-close-with-microsofts-revolutionary-surface-and-surface-pro-laptops-featuring-innovative-copilotplus-technology/"><u>Get Up Close With Microsoft’s Revolutionary Surface & Surface Pro Laptops Featuring Innovative Copilot+ Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-disable-live-recording-in-quicktime-player-for-2024/"><u>How to Disable Live Recording in QuickTime Player for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-find-x6-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Find X6 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-sony-xperia-10-v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Sony Xperia 10 V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-and-amd-collaborate-inside-high-end-designs-of-asus-zenbook-s-and-tuf-a1-4-laptops/"><u>Intel & AMD Collaborate Inside High-End Designs of Asus' Zenbook S and TUF A1 4 Laptops</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/massive-rtx-4090-gaming-laptop-at-a-steal-save-700-on-the-alienware-m18-r2/"><u>Massive RTX 4090 Gaming Laptop at a Steal: Save $700 on the Alienware M18 R2!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-precision-the-comprehensive-toms-hardware-encyclopedia/"><u>Mastering Devices with Precision - The Comprehensive Tom's Hardware Encyclopedia</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-enigma-of-posthumous-presence-a-closer-look-at-how-our-voices-linger-on-the-internet/"><u>The Enigma of Posthumous Presence: A Closer Look at How Our Voices Linger on the Internet</u></a></li>
 </ul></div>
 

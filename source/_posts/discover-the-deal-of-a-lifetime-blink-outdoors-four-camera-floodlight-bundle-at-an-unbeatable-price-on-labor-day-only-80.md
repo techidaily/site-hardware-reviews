@@ -1,7 +1,7 @@
 ---
 title: "Discover the Deal of a Lifetime: Blink Outdoor's Four-Camera Floodlight Bundle at an Unbeatable Price on Labor Day - Only $80!"
-date: 2024-09-19 11:56:10
-updated: 2024-09-20 11:48:26
+date: 2024-11-01T15:15:56.031Z
+updated: 2024-11-07T06:27:07.309Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,28 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-prime-7-apps-for-smooth-youtube-live-broadcast-from-iphone-and-android-devices/"><u>[Updated] Prime 7 Apps for Smooth YouTube Live Broadcast From iPhone & Android Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-quality-computer-system-builders-race-event-q4-2015-competitive-price-at-just-912/"><u>AMD Quality Computer System Builders Race Event, Q4 2015 - Competitive Price at Just $912</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ease-your-build-process-with-the-innovative-features-of-asus-tuf-gaming-desktops/"><u>Ease Your Build Process with the Innovative Features of Asus TUF Gaming Desktops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/eco-conscious-choices-for-the-apple-watch-series-10-the-path-to-carbon-neutrality-through-smart-band-selection-zdnet/"><u>Eco-Conscious Choices for the Apple Watch Series 10: The Path to Carbon Neutrality Through Smart Band Selection | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-academic-performance-with-these-6-essential-pc-improvements-for-students/"><u>Enhance Academic Performance with These 6 Essential PC Improvements for Students</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy F14 5G Phone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-easy-to-follow-steps-crafting-animated-gifs-from-youtube-content-pcmobile/"><u>In 2024, Easy-to-Follow Steps Crafting Animated GIFs From YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-color-correction-applying-free-luts-in-obs-productions/"><u>Mastering Color Correction Applying Free LUTs in OBS Productions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reactivate-your-iphones-text-ringers-and-notifications-in-just-20-steps-a-comprehensive-guide/"><u>Reactivate Your iPhone's Text Ringers & Notifications in Just 20 Steps – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964467063-skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-and-comprehensive-reviews/"><u>Tom's Tech Hub: Expert Insights and Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-gadgets-and-pc-hardware-with-toms-guide/"><u>Unveiling the Best in Gadgets and PC Hardware with Tom's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-v1607-upgrade-complications-understanding-failure-points/"><u>Windows 10 v1607 Upgrade Complications - Understanding Failure Points</u></a></li>
+</ul></div>
+

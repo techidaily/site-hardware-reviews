@@ -1,7 +1,7 @@
 ---
 title: Revolutionary RT-2 Technology by Google DeepMind Empowers Bots with Unprecedented Abilities | TechCrunch
-date: 2024-09-18 14:35:27
-updated: 2024-09-20 11:19:36
+date: 2024-10-31T11:07:11.594Z
+updated: 2024-11-07T07:03:33.928Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,42 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-through-io-screenshot-functionality/"><u>[New] 2024 Approved Navigating Through IO Screenshot Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676604-adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-kingston-fury-ddr5-6000-c40-with-dual-channels-a-thorough-review-of-its-capable-execution/"><u>Comprehensive Kingston Fury DDR5-6000 C40 with Dual Channels: A Thorough Review of Its Capable Execution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-usb-tether-connection-problems-quickly/"><u>How to Resolve USB Tether Connection Problems Quickly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-full-reveal-on-camstudios-recording-capabilities/"><u>In 2024, Full Reveal on CamStudio's Recording Capabilities</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-3-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord 3 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-inside-the-headset-comprehensive-vr-gear-analysis/"><u>In 2024, Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-verdict-vidmas-role-in-modern-screen-capture/"><u>In 2024, The Verdict Vidma’s Role in Modern Screen Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-systems-the-ultimate-guide-by-toms-hardware-specialists/"><u>Mastering Computer Systems: The Ultimate Guide by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-game-field-with-the-aorus-fo32u2p-an-oled-gaming-monitor-that-redefines-luxury-and-speed-at-240hz-and-4k-resolution/"><u>Mastering the Game Field with the Aorus FO32U2P - An OLED Gaming Monitor That Redefines Luxury and Speed at 240Hz & 4K Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-critique-ensuring-a-protected-experience/"><u>NZXT H7 Flow Critique: Ensuring a Protected Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-asus-camera-errors-in-windows-11-os/"><u>Overcome ASUS Camera Errors in Windows 11 OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-analysis-by-tom-mastering-your-tech-choices/"><u>Pioneering Hardware Analysis by Tom - Mastering Your Tech Choices</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

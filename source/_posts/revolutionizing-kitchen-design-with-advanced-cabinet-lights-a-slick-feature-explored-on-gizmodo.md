@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Kitchen Design with Advanced Cabinet Lights - A Slick Feature Explored on Gizmodo
-date: 2024-09-17 18:27:44
-updated: 2024-09-20 10:44:10
+date: 2024-11-01T20:18:14.674Z
+updated: 2024-11-07T02:09:02.412Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-conquer-audio-production-a-comprehensible-guide-to-podcast-editing-for-2024/"><u>[New] Conquer Audio Production A Comprehensible Guide to Podcast Editing for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-simplified-avi-to-graphic-style-gif-transformation-using-the-power-of-filmora/"><u>[New] In 2024, Simplified AVI to Graphic-Style GIF Transformation Using the Power of Filmora</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-instagram-grid-makers-to-create-visually-appealing-grids-for-2024/"><u>[New] Top 10 Instagram Grid Makers to Create Visually Appealing Grids for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-mac-mkv-players-compilation/"><u>[Updated] In 2024, Top Mac MKV Players Compilation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-screenplay-genius-weaving-compelling-narratives-and-dialogues-for-2024/"><u>[Updated] Screenplay Genius Weaving Compelling Narratives and Dialogues for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-unveils-new-virtual-reality-potential-on-messenger/"><u>Facebook Unveils New Virtual Reality Potential on Messenger</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-moto-g04-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola Moto G04? </u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ps3-experience-on-pc-leading-emulators-guide/"><u>In 2024, PS3 Experience on PC Leading Emulators Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-cutting-edge-technology-by-toms-experts/"><u>Inside Look at Cutting-Edge Technology by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-tips-tricks-and-reviews-by-toms-hardware-experts/"><u>Mastering Modern Electronics: Tips, Tricks & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-trusted-resource/"><u>Mastering Technology Insights From Tom’s Trusted Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visuals-in-esports-why-the-pixio-px277-oled-is-a-game-changer-for-gamers/"><u>Mastering Visuals in eSports: Why the Pixio PX277 OLED Is a Game Changer for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-tips-and-tricks-from-toms-tech-haven/"><u>Mastering Your Digital Life: Tips & Tricks From Tom's Tech Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-lessons-from-toms-hardware-experts/"><u>Navigating the World of Gadgets: Lessons From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-motherboards-at-toms-electronics/"><u>Navigating the World of Motherboards at Tom's Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-tech-tips-and-tricks-from-toms-hardware/"><u>Navigating the World of Tech: Tips and Tricks From Tom's Hardware</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-art-of-syncing-audio-and-video-alignment-techniques-in-fcpx-2024/"><u>New The Art of Syncing Audio and Video Alignment Techniques in FCPX 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-tutorial-on-safely-upgrading-your-ssd-while-preserving-all-files/"><u>Step-by-Step Tutorial on Safely Upgrading Your SSD While Preserving All Files</u></a></li>
+</ul></div>
+

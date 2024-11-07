@@ -1,7 +1,7 @@
 ---
 title: Top Productivity Laptop That Beats ThinkPads and MacBooks - Get 30%% Off During Prime Day! [ZDNet Exclusive]
-date: 2024-10-30T20:19:28.349Z
-updated: 2024-11-01T17:05:21.626Z
+date: 2024-11-03T14:07:11.743Z
+updated: 2024-11-06T19:41:45.664Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,21 +133,22 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-jest-in-imagery-create-with-kapwing-for-2024/"><u>[New] Jest in Imagery Create with Kapwing for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-simplicity-in-video-creation-a-guide-to-10-easy-to-make-youtube-videos/"><u>[Updated] Simplicity in Video Creation A Guide to 10 Easy-to-Make YouTube Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-windows-error-0xc0000098-with-our-detailed-fix-guide/"><u>Beat Window's Error 0xC0000098 with Our Detailed Fix Guide</u></a></li>
-<li><a href="https://fox-where.techidaily.com/bootstrapping-executable-guide-on-using-an-exe-file-with-cli-commands/"><u>Bootstrapping Executable: Guide on Using an EXE File with CLI Commands</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-discover-the-brilliance-of-samsungs-qn55q60rafxza-tv-with-4k-and-hdr10plus/"><u>Comprehensive Review: Discover the Brilliance of #Samsung's QN55Q60RAFXZA TV with 4K and HDR10+</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-asus-rog-strix-g16-2-now-a-steal-at-1164-on-amazon/"><u>Get Your Hands-On the Latest ASUS ROG Strix G16 2# - Now a Steal at $1,164 on Amazon</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12plus-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 12+ 5G Phone without PIN</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>In 2024, Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/inspiration-for-individuality-on-snapchat-a-resource-of-over-120-private-story-concepts-for-2024/"><u>Inspiration for Individuality on Snapchat A Resource of Over 120 Private Story Concepts for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-a-journey-through-toms-computing-world/"><u>Mastering Hardware Knowledge - A Journey Through Tom's Computing World</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-reviews-with-toms-electronics-insights/"><u>Navigating Gadget Reviews with Tom’s Electronics Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/powerhouse-gaming-in-a-portable-package-acers-predator-helios-neo-14-fusion-of-speed-and-sleekness/"><u>Powerhouse Gaming in a Portable Package: Acer's Predator Helios Neo 14 Fusion of Speed and Sleekness</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-best-solutions-for-iphone-contact-data-recovery-a-comprehensive-review/"><u>The Best Solutions for iPhone Contact Data Recovery - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-guide-to-next-gen-tech-features-spotted-at-toms-gadgets-forum/"><u>The Comprehensive Guide to Next-Gen Tech: Features Spotted at Tom's Gadgets Forum</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-new-era-for-portables-unveiling-features-of-the-revamped-dell-xps-13-9345-with-snapdragon-x-elite-processor/"><u>The New Era for Portables: Unveiling Features of the Revamped Dell XPS 13 (9345) with Snapdragon X Elite Processor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-to-grips-with-final-cut-pro-step-by-step-tutorial/"><u>[New] Get to Grips with Final Cut Pro – Step by Step Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ptimal-video-sharing-experience-decide-between-tiktok-and-youtubes-shorts/"><u>[New] Optimal Video-Sharing Experience Decide Between TikTok & YouTubes' Shorts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spin-the-dial-zoom-in-on-vr-samsung-and-lg-compare/"><u>[New] Spin the Dial, Zoom in on VR Samsung & LG Compare</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr/"><u>2024 Approved Quantum HDR Everything You May Want to Know About Quantum HDR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieve-more-with-ai-goal-setting-for-health-enhancement/"><u>Achieve More With AI: Goal-Setting for Health Enhancement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-ally-x-tested-exceptional-handheld-pc-gaming-experience-comes-with-a-hefty-bill/"><u>Asus ROG Ally X Tested – Exceptional Handheld PC Gaming Experience Comes With a Hefty Bill</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-managed-servers-vps-cloud-and-sharing-options/"><u>Comprehensive Analysis of Hostinger's Managed Servers: VPS, Cloud & Sharing Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-technology-tips-at-toms-hardware-destination/"><u>Discover Cutting-Edge Technology Tips at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-visit-toms-hardware-hub/"><u>Discover the Latest in Computing - Visit Tom's Hardware Hub</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/evaluating-reliable-backup-software-how-does-aomei-backupper-stand-up-to-acronis-true-image/"><u>Evaluating Reliable Backup Software: How Does AOMEI Backupper Stand Up to Acronis True Image?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-dvd-burning-made-easy-3-methods-for-windows-and-mac-users/"><u>In 2024, DVD Burning Made Easy 3 Methods for Windows and Mac Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Plus Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-pc-setups-through-toms-hardware-insights/"><u>Navigating Advanced PC Setups Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-electronics-with-toms-hardware-guides/"><u>Navigating New Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-v29-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo V29 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-innovations-in-computing-at-toms-hardware-insights/"><u>Unveiling New Innovations in Computing at Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-expert-tips-from-toms-systems/"><u>Unveiling the Latest in Computer Hardware with Expert Tips From Tom's Systems</u></a></li>
 </ul></div>
 

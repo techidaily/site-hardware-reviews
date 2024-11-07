@@ -1,7 +1,7 @@
 ---
 title: Massive Discount Alert! The Roborock S8 Pro Ultra Now at Record Lows Post-Prime Day - Save Big!
-date: 2024-09-19 22:10:38
-updated: 2024-09-20 12:20:38
+date: 2024-11-02T18:31:27.615Z
+updated: 2024-11-06T16:01:31.465Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-hardware-review-blog/"><u>Expert Insights From Tom's Hardware Review Blog</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 15 Plus?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-itel-p40plus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Itel P40+ Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-secrets-at-toms-hardware-reviews/"><u>Navigating Through Technology Secrets at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-electronics-by-toms-device-diary/"><u>The Ultimate Review of Electronics by Tom's Device Diary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-exploring-the-latest-in-computer-components/"><u>Tom's Tech Review: Exploring the Latest in Computer Components</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-hp-laptop-sound-problems-effective-solutions/"><u>Troubleshooting HP Laptop Sound Problems: Effective Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-with-toms-hardware-guides-and-tips/"><u>Unlocking Performance Secrets with Tom's Hardware Guides & Tips</u></a></li>
+</ul></div>
+

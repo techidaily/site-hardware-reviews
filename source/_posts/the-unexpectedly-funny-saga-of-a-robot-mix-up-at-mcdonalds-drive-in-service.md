@@ -1,7 +1,7 @@
 ---
 title: The Unexpectedly Funny Saga of a Robot Mix-Up at McDonald's Drive-In Service
-date: 2024-09-17 12:34:20
-updated: 2024-09-20 12:54:42
+date: 2024-11-04T09:47:08.041Z
+updated: 2024-11-06T22:22:41.198Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-quick-click-quest-the-art-of-facebook-id-reconnaissance-for-2024/"><u>[New] Quick Click Quest The Art of Facebook ID Reconnaissance for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-husqvarnas-high-flyers-the-2023-drone-review-series/"><u>[Updated] 2024 Approved Husqvarna's High Flyers The 2023 Drone Review Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-toms-detailed-evaluations-on-hardware/"><u>Decoding Technology: Tom's Detailed Evaluations on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-accelerated-speeds-with-crucials-p310-ssd-review-for-m2-2280-cards/"><u>Experience Accelerated Speeds with Crucial's P310 SSD Review for M.2 2280 Cards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explosive-popularity-unveiling-5-powerful-motivators-for-chatgpt/"><u>Explosive Popularity: Unveiling 5 Powerful Motivators for ChatGPT</u></a></li>
+<li><a href="https://article-posts.techidaily.com/how-to-make-a-favorite-tiktok-sound-your-caller-id-for-2024/"><u>How to Make a Favorite TikTok Sound Your Caller ID for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insights-into-the-pny-rp60-1tb-ssd-review-acceptably-efficient-but-not-particularly-memorable/"><u>Insights Into the PNY RP60 1TB SSD Review - Acceptably Efficient, But Not Particularly Memorable</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-reviews-unveiling-the-latest-in-hardware-with-toms-insights/"><u>Pioneering Technology Reviews: Unveiling the Latest in Hardware with Tom's Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snowflakes-and-champions-highlights-from-beijing-games/"><u>Snowflakes and Champions Highlights From Beijing Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/"><u>Sovol SV08 Evaluation: Reviving the Spirit of Voron on Two Wheels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-kingston-fury-beast-ddr5-memory-module-reviewed-testing-its-c40-technology-across-dual-32gb-channels/"><u>The Kingston Fury Beast DDR5 Memory Module Reviewed - Testing Its C40 Technology Across Dual 32GB Channels</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-ultimate-guide-to-learning-all-the-details-about-voice-cloning/"><u>The Ultimate Guide to Learning All the Details About Voice Cloning</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Development: OpenAI Joins Forces with Innovative Startup to Forge Next-Generation Humanoid Robotics via Cutting-Edge AI Techniques | ZDNET"
-date: 2024-09-18 22:41:24
-updated: 2024-09-20 11:18:35
+date: 2024-11-03T10:30:49.843Z
+updated: 2024-11-07T10:45:59.380Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-know-how-record-ipad-display/"><u>[New] 2024 Approved Essential Know-How Record iPad Display</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fading-audio-dynamics-a-logic-pro-approach/"><u>[New] Fading Audio Dynamics A Logic Pro Approach</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-download-instagram-highlights-in-2-ways-in-2024/"><u>[Updated] How to Download Instagram Highlights in 2 Ways, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-20-visionary-metaverse-projects-with-educational-value/"><u>2024 Approved 20 Visionary Metaverse Projects with Educational Value</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-streaming-perfection-best-practices-in-vr-gameplay-recording/"><u>2024 Approved Streaming Perfection Best Practices in VR Gameplay Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beyond-the-hype-how-ray-tracing-transforms-graphics-with-unmatched-depth-and-realism/"><u>Beyond the Hype: How Ray Tracing Transforms Graphics with Unmatched Depth and Realism</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-masters-expertly-reviewing-recorders-for-2024/"><u>Capture Masters Expertly Reviewing Recorders for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-top-ereader-gadgets-your-go-to-guide-s-best-picks/"><u>Comparing Top eReader Gadgets: Your Go-To Guide 'S Best Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-switchbot-remote-overview-does-it-truly-merge-all-your-needs/"><u>Comprehensive SwitchBot Remote Overview: Does It Truly Merge All Your Needs?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-revolutionary-compact-tracker-by-nomad-a-credit-card-sized-solution-for-precise-location-tracking/"><u>Discover the Revolutionary Compact Tracker by Nomad – A Credit Card-Sized Solution for Precise Location Tracking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-future-of-safety-swap-out-your-old-ring-doorbell-today/"><u>Embrace the Future of Safety - Swap Out Your Old Ring Doorbell Today!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/reaction-video-makers-that-will-take-your-content-to-the-next-level-for-2024/"><u>Reaction Video Makers That Will Take Your Content to the Next Level for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-asus-rog-phone-8-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Asus ROG Phone 8 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/will-the-apple-m3-chip-phase-out-your-older-m1-and-m2-models-expert-tips-on-optimal-timing-for-an-upgrade-detailed-analysis-zdnet/"><u>Will the Apple M3 Chip Phase Out Your Older M1 and M2 Models? Expert Tips on Optimal Timing for an Upgrade - Detailed Analysis | ZDNET</u></a></li>
+</ul></div>
+

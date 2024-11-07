@@ -1,7 +1,7 @@
 ---
 title: "Exploring Non-Human Prototypes in Advanced Robotics: Insights From The New Breed Book Review | ZDNET"
-date: 2024-09-18 15:14:45
-updated: 2024-09-20 11:40:51
+date: 2024-11-02T20:55:06.630Z
+updated: 2024-11-07T07:51:06.668Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-trim-youtube-videos-like-a-pro/"><u>[New] 2024 Approved How to Trim YouTube Videos Like a Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-authenticate-your-yt-account-a-hint-list/"><u>[Updated] 2024 Approved How to Authenticate Your YT Account? A Hint List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhance-workflow-the-essential-list-of-8-scheduling-apps/"><u>[Updated] In 2024, Enhance Workflow The Essential List of 8 Scheduling Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-level-action-cams-for-clear-unwavering-videos/"><u>In 2024, Pro-Level Action Cams for Clear, Unwavering Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-15-best-looking-android-games-a-match-for-console-quality/"><u>Top 15 Best-Looking Android Games: A Match for Console Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-next-gen-foldable-samsung-galaxy-z-flip-4-pros-and-innovations-compared/"><u>Unboxing the Next Gen Foldable: Samsung Galaxy Z Flip 4 Pros and Innovations Compared</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-causes-behind-your-phones-unexpected-reboots-a-comprehensive-guide/"><u>Understanding the Causes Behind Your Phone's Unexpected Reboots: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-functionality-of-the-android-systems-webview-component/"><u>Understanding the Functionality of the Android System's WebView Component</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-next-level-features-on-a-budget-the-best-deals-in-tech-700-samsung-galaxy-s21-fe-5g/"><u>Unlock Next-Level Features on a Budget: The Best Deals in Tech - $700 Samsung Galaxy S21 FE 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-androids-full-potential-with-these-5-ingenious-screen-grab-techniques/"><u>Unlocking Android's Full Potential with These 5 Ingenious Screen Grab Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-guide-final-opportunity-to-access-your-lg-smartphone-securely/"><u>Unlocking Guide: Final Opportunity to Access Your LG Smartphone Securely</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-final-cut-pro-reversing-video-footage-with-ease/"><u>Updated Mastering Final Cut Pro Reversing Video Footage with Ease</u></a></li>
+</ul></div>
+

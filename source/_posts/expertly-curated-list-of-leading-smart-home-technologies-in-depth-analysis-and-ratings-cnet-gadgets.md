@@ -1,7 +1,7 @@
 ---
 title: "Expertly Curated List of Leading Smart Home Technologies : In-Depth Analysis and Ratings | CNET Gadgets"
-date: 2024-09-19 22:57:47
-updated: 2024-09-20 11:33:23
+date: 2024-11-06T11:43:22.157Z
+updated: 2024-11-07T04:11:24.009Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,30 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-composition-strategies-with-blend-modes/"><u>[New] 2024 Approved Advanced Composition Strategies with Blend Modes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-photo-pace-crafting-time-lapse-videos-on-your-galaxy-phone/"><u>2024 Approved Photo Pace Crafting Time-Lapse Videos on Your Galaxy Phone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-x50i-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor X50i System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/from-skepticism-to-enthusiasm-the-key-features-of-youtube-music-that-impressed-me/"><u>From Skepticism to Enthusiasm: The Key Features of YouTube Music That Impressed Me</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-yuva-2-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Yuva 2 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862766355-nice-price-drop-acers-34-curved-qhd-monitor-now-just-200-on-newegg/"><u>Nice Price Drop: Acer's 34 Curved QHD Monitor Now Just $200 on Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862780251-save-big-now-limited-offer-on-gigabytes-32-inch-qhd-gaming-monitor-gs3n32q-at-a-steal-only-199/"><u>Save Big Now – Limited Offer on Gigabyte's 32-Inch QHD Gaming Monitor (GS3n32Q) at a Steal: Only $199!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/streamlining-online-meetings-zoom-for-win10-for-2024/"><u>Streamlining Online Meetings Zoom for WIN10 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446458846-struggling-with-iphones-auto-brightness-feature-discover-7-quick-fixes-here/"><u>Struggling With iPhone's Auto-Brightness Feature? Discover 7 Quick Fixes Here!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-how-to-optimize-your-videos-with-effective-compression-techniques-for-email-attachments/"><u>Ultimate Guide: How to Optimize Your Videos with Effective Compression Techniques for Email Attachments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultra-lightweight-laptop-accessory-meet-vaios-revolutionary-visionplus-14-display-at-just-072lbs/"><u>Ultra-Lightweight Laptop Accessory: Meet Vaio's Revolutionary Vision+ 14 Display at Just 0.72Lbs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deal-alert-gaming-powerhouse-dells-32-inch-monitor-for-just-279-on-memorial-day-weekend/"><u>Unbeatable Deal Alert! Gaming Powerhouse - Dell's 32-Inch Monitor for Just $279 on Memorial Day Weekend</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-and-pc-parts-on-toms-gear-hub/"><u>Unveiling the Latest Gadgets and PC Parts on Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pro-gamers-dream-the-27-oled-masterpiece-by-dough-spectrum-an-ultimate-review-on-precision-and-premium-gaming-experience/"><u>Unveiling the Pro Gamers' Dream - The 27 OLED Masterpiece by Dough Spectrum: An Ultimate Review on Precision & Premium Gaming Experience!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/vintage-crt-technology-hits-700hz-refresh-rate-with-reduced-display-of-only-120p/"><u>Vintage CRT Technology Hits 700Hz Refresh Rate with Reduced Display of Only 120P</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Innovative DIY Manufacturing at Home: Master the Art of Creating Custom Goods Using Robotic Assistance | ZDNET"
-date: 2024-09-18 23:57:15
-updated: 2024-09-20 11:59:25
+date: 2024-11-05T04:28:47.649Z
+updated: 2024-11-07T09:08:54.967Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-photos-to-feeds-selecting-the-best-9-gear-upgrades/"><u>[New] 2024 Approved From Photos to Feeds Selecting the Best 9 Gear Upgrades</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists/"><u>[New] Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-3d-modeling-programs-for-animators/"><u>[Updated] 2024 Approved Essential 3D Modeling Programs for Animators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-6-value-proposition-affordable-4k-projectors/"><u>[Updated] Best 6 Value Proposition Affordable 4K Projectors</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-youtubes-revenue-mechanisms/"><u>[Updated] Navigating YouTube's Revenue Mechanisms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-anycubic-kobra-3-assessment-the-trailblazer-of-multi-hued-3d-creations/"><u>Comprehensive Anycubic Kobra 3 Assessment - The Trailblazer of Multi-Hued 3D Creations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-toms-hardware-hub/"><u>Discover the Latest in Computing - Tom's Hardware Hub</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-the-ultimate-5-substitutes-for-makemkv-on-windows-and-macos-convert-your-dvds-into-perfectly-rendered-mkv-files/"><u>Discover the Ultimate 5 Substitutes for MakeMKV on Windows & macOS: Convert Your DVDs Into Perfectly Rendered MKV Files</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a15-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-frontiers-with-toms-hardware-experts/"><u>Exploring Digital Frontiers with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-design-of-the-lian-li-hydroshift-lcd-360s-case/"><u>Exploring the Cutting-Edge Design of the Lian Li Hydroshift LCD 360S Case</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-best-bang-for-your-buck-with-id-coolings-fx360-pro-a-comprehensive-analysis/"><u>Get the Best BANG FOR YOUR BUCK with ID-Cooling's FX360 Pro: A Comprehensive Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-a78-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo A78 5G Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-tech-with-tom-essential-hardware-selection-advice/"><u>Navigating Through Tech with Tom: Essential Hardware Selection Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-building-with-the-cost-effective-cytron-maker-featuring-an-rp2040-chip/"><u>The Ultimate Guide to Building with the Cost-Effective Cytron Maker Featuring an RP2040 Chip</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-innovations-in-computer-components/"><u>Tom's Tech Review: Unveiling the Latest Innovations in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-technology-with-toms-hardware-insights/"><u>Unveiling the Latest in PC Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/windows-stellar-file-wiper-pro-easy-setup-and-automated-cleaning/"><u>Windows Stellar File Wiper Pro: Easy Setup & Automated Cleaning</u></a></li>
+</ul></div>
+

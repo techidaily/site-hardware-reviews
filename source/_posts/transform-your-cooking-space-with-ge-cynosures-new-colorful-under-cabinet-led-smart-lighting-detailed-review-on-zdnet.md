@@ -1,7 +1,7 @@
 ---
 title: Transform Your Cooking Space with GE Cynosure's New Colorful Under-Cabinet LED Smart Lighting - Detailed Review on ZDNet
-date: 2024-09-17 11:50:10
-updated: 2024-09-20 10:35:26
+date: 2024-11-01T09:22:32.383Z
+updated: 2024-11-07T03:18:22.182Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,13 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +76,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +97,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +111,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +158,33 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-fading-techniques-for-less-intensity-in-logic-pro-tracks/"><u>[New] Mastering Fading Techniques for Less Intensity in Logic Pro Tracks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-7-best-vocal-modification-software-on-the-market-for-2024/"><u>[Updated] 7 Best Vocal Modification Software on the Market for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-seamlessly-integrate-into-others-tiktok-livestreams-for-2024/"><u>[Updated] Seamlessly Integrate Into Others’ TikTok Livestreams for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-quick-cuts-editing-instagram-videos-on-macos/"><u>2024 Approved Quick Cuts Editing Instagram Videos on macOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-analysis-by-tom-in-depth-hardware-reviews/"><u>Advanced Gadget Analysis by Tom: In-Depth Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ddr5-pushes-past-limits-achieving-9058mhz-overclock-on-amds-ryzen-7000-series-using-new-firmware/"><u>DDR5 Pushes Past Limits: Achieving 9058MHz Overclock on AMD's Ryzen 7000 Series Using New Firmware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-with-tom-your-go-to-source-for-gadget-reviews/"><u>Decoding Hardware with Tom: Your Go-To Source for Gadget Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/foremost-gaming-with-device-controllers/"><u>Foremost Gaming with Device Controllers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-honor-x50i-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Honor X50i</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-exploring-toms-comprehensive-guide-to-pc-components/"><u>Mastering Gadgets: Exploring Tom's Comprehensive Guide to PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-with-tom-comprehensive-gadget-analysis-and-advice/"><u>Mastering Tech with Tom: Comprehensive Gadget Analysis & Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-path-to-advanced-system-configuration-in-windows-10-without-a-hitch/"><u>Mastering the Path to Advanced System Configuration in Windows 10 without a Hitch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964464340-new-overclocking-milestone-rtx-3nce-3080-smashes-speed-limit-at-234ghz/"><u>New Overclocking Milestone: RTX 3Nce 3080 Smashes Speed Limit at 2.34GHz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/one-step-bavarder-setup-procedure-for-linux-users/"><u>One-Step Bavarder Setup Procedure for Linux Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/synching-visuals-and-audio-step-by-step-process/"><u>Synching Visuals and Audio Step-by-Step Process</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/syncing-iphone-and-outlook-contacts-made-easy-top-6-techniques-unveiled/"><u>Syncing iPhone and Outlook Contacts Made Easy - Top 6 Techniques Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-insights-by-tom-exploring-advanced-computer-and-electronics-equipment/"><u>Tech Insights by Tom: Exploring Advanced Computer and Electronics Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-breakthrough-in-pc-performance-ddr5-memory-hit-9058mhz-with-ryzen-clockwork-latest-bios-update-secrets-revealed/"><u>Thrilling Breakthrough in PC Performance: DDR5 Memory Hit 9058MHz with Ryzen Clockwork - Latest BIOS Update Secrets Revealed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-your-ultimate-guide-to-high-performance-components/"><u>Tom's Tech Gear: Your Ultimate Guide to High-Performance Components</u></a></li>
+</ul></div>
+

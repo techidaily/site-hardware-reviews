@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Memorial Day with a Floor Care Bonanza: Get the Roborock Q7 Max+ Vacuum & Mop at 45%% Off Today Only! | ZDNET"
-date: 2024-09-17 14:13:13
-updated: 2024-09-20 12:52:28
+date: 2024-11-05T17:22:51.129Z
+updated: 2024-11-06T20:37:56.848Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-from-social-media-sound-to-personal-melody-an-in-depth-guide/"><u>[New] From Social Media Sound to Personal Melody - An In-Depth Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-superior-obs-configurations-budget-edition/"><u>[Updated] 2024 Approved Superior OBS Configurations - Budget Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-cameras-to-obs-a-step-by-step-mac-and-pc-broadcast-setup/"><u>[Updated] From Cameras to OBS A Step-by-Step Mac & PC Broadcast Setup</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-social-forecast-in-graphs-2023-edition-unveiled/"><u>[Updated] Social Forecast in Graphs 2023 Edition Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-gigabyes-premium-b650-aorus-elite-ax-ice-motherboard-evaluating-cost-vs-quality-and-usb-capabilities/"><u>A Closer Look at Gigabye's Premium B650 Aorus Elite AX Ice Motherboard: Evaluating Cost Vs. Quality and USB Capabilities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-seipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone SE/iPad/iPod</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-computer-parts-through-toms-hardware-breakdowns/"><u>Discover Top-Tier Computer Parts Through Tom's Hardware Breakdowns</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-world-of-computer-components-with-expert-guidance-from-toms-hardware/"><u>Dive Into the World of Computer Components with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-hub-your-ultimate-guide/"><u>Exploring Tom's Tech Hub: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-cyberpunk-2077s-non-launching-error-solved/"><u>How to Overcome Cyberpunk #2077'S Non-Launching Error - Solved</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files/"><u>In 2024, Step-by-Step From Twitter Videos/YouTube Songs to Scribbled MP3 Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-pimoroni-nvme-solid-state-drive-ssd-dual-base-unit-review/"><u>In-Depth Analysis: Pimoroni NVMe Solid State Drive (SSD) Dual Base Unit Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-systems-with-toms-hardware-tips/"><u>Navigating High-Performance Systems with Tom's Hardware Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-pics-windows-11s-fast-photo-viewer/"><u>Quick Pics Windows 11'S Fast Photo Viewer</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-11-fs-data-loss-and-corruption/"><u>Solutions for Windows 11 FS Data Loss and Corruption</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-the-geekworm-x1011-nas-maker-inside-story-and-evaluation/"><u>The Complete Guide to the Geekworm X1011 NAS Maker: Inside Story and Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-reviews-and-guides/"><u>Tom's Tech Hub: Comprehensive Reviews and Guides</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Hybrid: The Smartest Tech Tested - A Lenovo Laptop That Becomes an Android Tablet"
-date: 2024-10-28T16:05:10.518Z
-updated: 2024-11-01T20:42:55.527Z
+date: 2024-11-04T10:58:49.099Z
+updated: 2024-11-07T10:11:14.884Z
 tags:
   - laptops
 categories:
@@ -47,6 +47,13 @@ Show less
 [View now at Nothing](https://www.awin1.com/awclick.php?mid=48011&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fus.nothing.tech%2Fpages%2Fphone-1)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNothing-Phone1-Smartphone-Factory-Unlocked%2Fdp%2FB0B76JMCM9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
 ## Nothing Phone 1
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best innovative smartphone of 2022
 
@@ -98,14 +105,14 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BX4XVCM5%2Fref%3Dasc%5Fdf%5FB0BX4XVCM51728644400000%3Fcreative%3D395261%26creativeASIN%3DB0BX4XVCM5%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch Ultra
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smartwatch of 2022
 
@@ -126,6 +133,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Oura Ring](https://ouraring.sjv.io/c/159047/1408413/16760?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fouraring.com%2Fproduct%2Fhorizon-silver&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Oura Ring Gen 3 Horizon
 
@@ -153,6 +167,13 @@ Show less
 
 ## Samsung Galaxy Tab S8 Plus
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best tablet of 2022
 
 **Tech specs: Display:** 12.4'' Super AMOLED (2,800 x 1,752) at 120Hz | **Processor:** Qualcomm Snapdragon 8 Gen 1 | **OS:** One UI Tab 4 based on Android 12 | **Memory:** 8GB RAM with 128GB/256GB (expandable via MicroSD) | **Camera:** 13MP wide, 6MP ultra-wide, and a 12MP front | **Connection ports:** 1x USB-C 3.2, 1x MicroSD card slot, keyboard pins | **Weight:** 1.26lbs
@@ -171,14 +192,20 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FIntroducing-Kindle-Scribe-the-first-Kindle-for-reading-and-writing%2Fdp%2FB09BSGFTHY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
-## Amazon Kindle Scribe
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Amazon Kindle Scribe
 
 ### Best e-reader of 2022
 
@@ -210,13 +237,6 @@ Processor tested  Apple M2 8‑core
 
 Graphics tested  Apple M2 8‑core
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple MacBook Air M2
 
 ### Best laptop of 2022
@@ -239,6 +259,13 @@ Show less
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F404600225&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09SBL34C4%2Fref%3Dasc%5Fdf%5FB09SBL34C41728644400000%3Fcreative%3D395261%26creativeASIN%3DB09SBL34C4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Samsung Neo QLED 8K QN800B TV
 
 ### Best TV of 2022
@@ -260,6 +287,13 @@ Show less
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F731543167&subId1=zd-__COM_CLICK_ID__-dtp)
 
 ## Kasa Smart Plug Mini
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smart plug of 2022
 
@@ -303,6 +337,13 @@ Show less
 
 ## Wooting 60HE Gaming Keyboard
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best gaming keyboard of 2022
 
 **Tech specs: Form factor**: 60% | **Switch type:** Proprietary "Lekker" analog switches | **Keycap type:** Black double-shot PBT with shine-through legends | **Lighting:** Customizable per-key RGB with animated and interactive effects | **Available layouts:** ANSI (US) and ISO (Europe) | **Connectivity:** Replaceable USB-C cable (USB-C to USB-A cable included) | **Weight:** 1.33lbs
@@ -342,19 +383,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Logitech MX Master 3S
 
@@ -400,21 +428,7 @@ Show less
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot%2Froomba-j7-j7plus%2Fpcmcat1633095696173.c%3Fid%3Dpcmcat1633095696173&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Roomba j7+
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best robot vacuum of 2022
 
@@ -446,13 +460,6 @@ While we think the above devices are the best of the best, we do have some honor
 
 [Pulsar Xlite V2 Mini Wireless Mouse $69.96 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09X1654RY%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C13feadf2-b3e0-43f1-9239-e918074266af%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these best tech products of 2022?
 
 We asked ZDNET writers and editors what their favorite products they reviewed/purchased were in 2022 to compile this list. We also considered new and groundbreaking products that gained popularity over the year, as well as technology that is bringing something new to the sector. 
@@ -460,13 +467,6 @@ We asked ZDNET writers and editors what their favorite products they reviewed/pu
 ## Were all these products released in 2022?
 
 Most of these products were released this year, but some, such as the Kasa Smart Plug Mini and the Drop + EPOS PC38X gaming headset, were previously released. We were just super impressed with them this year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What technology will trend in 2023?
 
@@ -508,19 +508,19 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-adding-background-melodies-to-vimeo-filmography/"><u>[New] Adding Background Melodies to Vimeo Filmography</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-is-broadcasting-facebook-videos-a-reality-yet-for-2024/"><u>[Updated] Is Broadcasting Facebook Videos a Reality Yet for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-audiovisual-harmony-incorporating-audio-into-powerpoint-presentations/"><u>2024 Approved Audiovisual Harmony Incorporating Audio Into PowerPoint Presentations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-the-art-of-downloading-fb-status-videos/"><u>2024 Approved Mastering the Art of Downloading Fb Status Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/"><u>2024 Approved The Artisan’s Touch Skillfully Applying Face-Centric Motion Blur Using Picsart</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-solutions-decoded-inside-look-with-toms-hardware/"><u>Advanced Computing Solutions Decoded – Inside Look with Tom's Hardware</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-smooth-printing-with-new-canon-mg2520-driver-updates-on-your-windows-pc/"><u>Ensure Smooth Printing with New Canon MG2520 Driver Updates on Your Windows PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-from-toms-technology-hub/"><u>Expert Hardware Insights From Tom's Technology Hub</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fixing-inertia-and-jello-distortions-in-uav-clips-for-2024/"><u>Fixing Inertia and Jello Distortions in UAV Clips for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-melodic-brilliance-of-blueant-soundblade-an-in-depth-look-at-its-volume-and-aesthetics/"><u>The Melodic Brilliance of BlueAnt Soundblade - An In-Depth Look at Its Volume & Aesthetics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-resource-toms-hardware-unveiled/"><u>The Ultimate Tech Resource - Tom's Hardware Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uncovering-the-secrets-of-superior-action-capture/"><u>Uncovering the Secrets of Superior Action Capture</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-12t-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 12T Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-the-ultimate-companion-to-toms-gear-advice/"><u>Unveiling Tech Secrets: The Ultimate Companion to Tom's Gear Advice</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ive-into-youtubes-best-practices-for-playlist-design-for-2024/"><u>[New] Dive Into Youtube's Best Practices for Playlist Design for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] In 2024, How to Make a Thumbnail for Your YouTube Free Easily!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[Updated] 2024 Approved The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-life-into-your-windows-11-screen/"><u>Breathing Life Into Your Windows 11 Screen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-download-and-installation-made-easy-for-ez-grabber-users/"><u>In 2024, Download and Installation Made Easy for EZ Grabber Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-8-plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Smart 8 Plus to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-online-fb-link-exporter-unlock-access-to-8plus-tools/"><u>In 2024, Online FB Link Exporter Unlock Access to 8+ Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-modern-hardware-solutions-by-tom/"><u>The Ultimate Guide to Modern Hardware Solutions by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-resource-for-your-pc-needs-by-tom/"><u>The Ultimate Tech Resource for Your PC Needs by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-exploration-a-deep-dive-into-pc-specs-and-performance/"><u>Tom's Hardware Exploration: A Deep Dive Into PC Specs and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review - Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-signs-detecting-if-someones-using-an-apple-airtag-to-monitor-your-movements/"><u>Unveiling the Signs: Detecting If Someone's Using An Apple AirTag to Monitor Your Movements</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation of ION Robotics' AV751: Balancing Superb Suction with Directional Quirks | Tech Advisor"
-date: 2024-09-18 22:34:18
-updated: 2024-09-20 10:11:31
+date: 2024-11-05T21:12:05.997Z
+updated: 2024-11-07T00:20:49.461Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-global-earning-maestro-of-video-content-for-2024/"><u>[New] Global Earning Maestro of Video Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-an-honest-review-of-recordcast/"><u>2024 Approved An Honest Review of RecordCast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-performance-with-toms-pc-reviews/"><u>Discovering Performance with Tom's PC Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-equipment-insights/"><u>Dive Into Technology with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-a-deep-dive-into-hardware-innovations/"><u>Exploring Gadgets with Tom: A Deep Dive Into Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-mighty-raspberry-pi-cm4-an-ode-to-an-industrial-staple/"><u>Exploring the Mighty Raspberry Pi CM4 - An Ode to an Industrial Staple</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23plus-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel S23+ Phone with Broken Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-amd-radeon-r9-graphics-driver-in-windows-10/"><u>How to Update AMD Radeon R9 Graphics Driver in Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Zero 5G 2023 Turbo FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-by-tom-the-ultimate-guide-to-modern-hardware/"><u>Innovative Tech Analysis by Tom: The Ultimate Guide to Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computers-and-electronics-with-tom/"><u>Inside the World of Computers and Electronics with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-guides-on-computer-hardware/"><u>Tom's Tech Hub: In-Depth Guides on Computer Hardware</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-f54-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy F54 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncovering-the-power-of-the-garmin-forerunner/"><u>Uncovering the Power of the Garmin Forerunner</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-google-pixel-8s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Google Pixel 8s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-windows-portable-gaming-rig-a-comprehensive-review-of-the-expensive-asus-rog-ally-x/"><u>Unveiling the Best Windows Portable Gaming Rig: A Comprehensive Review of the Expensive Asus ROG Ally X</u></a></li>
+</ul></div>
+

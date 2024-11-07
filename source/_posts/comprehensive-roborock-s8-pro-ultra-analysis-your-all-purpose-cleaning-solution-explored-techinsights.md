@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Roborock S8 Pro Ultra Analysis - Your All-Purpose Cleaning Solution Explored | TechInsights
-date: 2024-09-17 17:24:49
-updated: 2024-09-20 11:36:42
+date: 2024-10-30T23:32:15.842Z
+updated: 2024-11-07T05:30:59.164Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-tutorial-for-recording-your-fb-chat-history/"><u>[New] In 2024, The Ultimate Tutorial for Recording Your FB Chat History</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rivacy-first-sending-your-personal-youtube-link-via-google/"><u>[New] Privacy First Sending Your Personal YouTube Link via Google</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-potential-of-iphone-burst-photography/"><u>2024 Approved Harness the Potential of iPhone Burst Photography</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-pc-components-with-toms-hardware-experts/"><u>Exploring the Latest in PC Components with Tom's Hardware Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-civi-3-disney-100th-anniversary-edition-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi Civi 3 Disney 100th Anniversary Edition Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175681761-maximize-speed-with-corsairs-innovative-single-twist-pc-fan-screw-build-your-rig-in-record-time/"><u>Maximize Speed with Corsair's Innovative Single-Twist PC Fan Screw - Build Your Rig in Record Time!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-in-pc-components-by-tech-savvy-tom/"><u>Top Picks in PC Components by Tech Savvy Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-azoth-extreme-top-review-for-your-money-saving-search/"><u>Unboxing the Asus ROG Azoth Extreme: Top Review for Your Money-Saving Search</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-gopros-time-lapse-technology-for-2024/"><u>Unleash Creativity with GoPro's Time-Lapse Technology for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Smartest Home Automation Products of 2024: Thoroughly Vetted by Experts | CNET"
-date: 2024-09-18 23:36:54
-updated: 2024-09-20 10:55:41
+date: 2024-11-05T09:27:12.342Z
+updated: 2024-11-07T06:05:51.012Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-premier-mac-4k-monitor-selections-top-10-edition-for-2024/"><u>[New] Premier Mac 4K Monitor Selections Top 10 Edition for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/differences-between-standard-360-and-vr-content-for-2024/"><u>Differences Between Standard 360° & VR Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enthralling-examination-and-replacement-ideas/"><u>Enthralling Examination & Replacement Ideas</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-upgrades-and-gadgets-for-the-ultimate-raspberry-pi-pico-experience-22024/"><u>Essential Upgrades & Gadgets for the Ultimate Raspberry Pi Pico Experience 2#2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expand-your-storage-install-add-on-board-enabling-dual-nvme-ssd-configuration-on-raspberry-pi-5/"><u>Expand Your Storage: Install Add-On Board Enabling Dual NVMe SSD Configuration on Raspberry Pi 5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-at-toms-computer-gear-hub/"><u>Expert Analysis at Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-an-in-depth-hardware-review/"><u>Exploring Computer Components with Tom - An In-Depth Hardware Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-driver-crash-averted-now-working-fine/"><u>GPU Driver Crash Averted, Now Working Fine</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-maker-project-the-ultimate-raspberry-pi-1000-with-5-cores-enhanced-performance/"><u>Innovative Maker Project: The Ultimate 'Raspberry Pi 1000' With 5 Cores, Enhanced Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-revolutionary-particle-featuring-a-snapdragon-cpu-and-inbuilt-ai-chip-for-next-gen-computing/"><u>Introducing the Revolutionary Particle: Featuring a Snapdragon CPU and Inbuilt AI Chip for Next-Gen Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-with-toms-computer-advice/"><u>Navigating the World of PC Components with Tom's Computer Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revitalizing-a-malfunctioning-windows-printerscanner/"><u>Revitalizing a Malfunctioning Windows Printer/Scanner</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-transition-from-mp4-to-3gp-two-effortless-techniques-for-effective-media-file-conversion/"><u>Seamless Transition From MP4 to 3GP: Two Effortless Techniques for Effective Media File Conversion</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-10-anime-movies-of-all-time/"><u>Updated 2024 Approved Top 10 Anime Movies of All Time</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-shortcut-making-reaction-videos-with-filmora-for-2024/"><u>Updated The Ultimate Shortcut Making Reaction Videos with Filmora for 2024</u></a></li>
+</ul></div>
+

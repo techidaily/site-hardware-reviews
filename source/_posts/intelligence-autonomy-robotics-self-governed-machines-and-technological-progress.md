@@ -1,7 +1,7 @@
 ---
 title: Intelligence, Autonomy, Robotics, Self-Governed Machines, and Technological Progress.
-date: 2024-09-17 15:37:40
-updated: 2024-09-20 11:47:26
+date: 2024-10-30T16:40:39.063Z
+updated: 2024-11-07T13:43:33.137Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-commanders-quest-embarking-on-the-most-spectacous-7-total-wars/"><u>[New] Commanders' Quest Embarking on The Most Spectacous 7 Total Wars</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bluehost-hosting-services-breakdown-testing-the-waters-of-cloud-vps-and-shared-plans/"><u>Bluehost Hosting Services Breakdown: Testing the Waters of Cloud, VPS, and Shared Plans</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-the-ultimate-collection-top-15-christmas-anime-films-in-full-hd-mp4/"><u>Download the Ultimate Collection: Top 15 Christmas Anime Films in Full HD (MP4)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-ultimate-sound-of-turtle-beachs-atlas-air-headphones-comfort-meets-acoustic-excellence/"><u>Experience the Ultimate Sound of Turtle Beach's Atlas Air Headphones – Comfort Meets Acoustic Excellence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-realme-11-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Realme 11 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-nubia-red-magic-9-proplus-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Nubia Red Magic 9 Pro+ to iPod | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-12-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 12 Lock Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-unparalleled-precision-meets-dynamic-180hz-gameplay/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS: Unparalleled Precision Meets Dynamic 180Hz Gameplay</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-ssd-lifespan-with-akasa-gecko-a-thorough-review-of-this-superior-blower-heatsink-technology/"><u>Maximizing SSD Lifespan with Akasa Gecko: A Thorough Review of This Superior Blower Heatsink Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-testing-insights-on-the-asus-zenbook-s16-featuring-an-intel-core-i7-cpu/"><u>Performance Testing Insights on the Asus Zenbook S16 Featuring an Intel Core I7 CPU</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-repair-corsair-icue-connectivity-glitches-with-windows-11/"><u>Steps to Repair Corsair iCUE Connectivity Glitches with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-on-a-shoestring-discover-why-zdnet-hauls-these-amazing-3ergy-earbuds-at-35-only/"><u>Top Rated on a Shoestring? Discover Why ZDNET Hauls These Amazing $3Ergy Earbuds at 35$ Only!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cutting-edge-video-editing-top-3-4k8k-software-solutions-for-2024/"><u>Updated Cutting-Edge Video Editing Top 3 4K/8K Software Solutions for 2024</u></a></li>
+</ul></div>
+

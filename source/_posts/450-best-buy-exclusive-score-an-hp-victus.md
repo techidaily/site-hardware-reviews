@@ -1,7 +1,7 @@
 ---
 title: "$450 Best Buy Exclusive: Score an HP Victus"
-date: 2024-10-30T16:11:24.971Z
-updated: 2024-11-01T18:28:39.171Z
+date: 2024-11-02T01:57:10.148Z
+updated: 2024-11-07T00:35:58.026Z
 tags:
   - laptops
 categories:
@@ -34,10 +34,10 @@ Below are some of the best Best Buy deals we have found, which will save you som
 * [Samsung Galaxy Watch6 smartwatch (40mm)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3FskuId%3D6546704&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $240 (save $60)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Best Buy tech deals
@@ -62,13 +62,6 @@ Jada Jones/ZDNET
 * [Bose QuietComfort wireless noise-canceling headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fbose-quietcomfort-wireless-noise-cancelling-over-the-ear-headphones-black%2F6554461.p%3FskuId%3D6554461&publisher_slug=itechdaily19598&exclusive=1): $249 (save $100)
 * [Sennheiser Momentum 4 headphones](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsennheiser-momentum-4-wireless-adaptive-noise-canceling-over-the-ear-headphones-black%2F6514466.p%3FskuId%3D6514466&publisher_slug=itechdaily19598&exclusive=1): $300 (save $80)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Best Buy TV deals
 
 The Roku Pro Series TVs have a thin 1.9-inch bezel that gives them a shadowbox look.
@@ -82,19 +75,6 @@ Roku
 * [Pioneer 50-inch LED 4K UHD Smart Xumo TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpioneer-50-class-led-4k-uhd-smart-xumo-tv%2F6543648.p%3FskuId%3D6543648&publisher_slug=itechdaily19598&exclusive=1): $200 (save $100)
 * [Insignia 75-inch F30 Series LED 4K UHD Smart Fire TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Finsignia-75-class-f30-series-led-4k-uhd-smart-fire-tv%2F6480926.p%3FskuId%3D6480926&publisher_slug=itechdaily19598&exclusive=1): $470 (save $130)
 * [LG 77-inch C3 Series OLED evo 4K UHD Smart webOS TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-77-class-c3-series-oled-evo-4k-uhd-smart-webos-tv%2F6535930.p%3FskuId%3D6535930&publisher_slug=itechdaily19598&exclusive=1): $2300 (save $200)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Best Buy tablet, laptop deals
 
@@ -118,6 +98,13 @@ Maria Diaz/ZDNET
 * [iRobot Roomba j9+ self-emptying robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-j9-self-emptying-robot-vacuum-ruby-bronze%2F6553417.p%3FskuId%3D6553417&publisher_slug=itechdaily19598&exclusive=1): $599 (save $300)
 * [iRobot Roomba Vac Essential robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-vac-essential-robot-vacuum-q0120-black%2F6577016.p%3FskuId%3D6577016&publisher_slug=itechdaily19598&exclusive=1): $180 (save $70)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these Best Buy deals?
 
 To find the best deals, we scoured the entire Best Buy website, searching through thousands of various products to bring you the best deals. 
@@ -133,15 +120,22 @@ We chose our favorite Best Buy deals based on the following factors:
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on these deals, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What was Best Buy called originally?
 
 Founded in 1966, Best Buy used to be known as Sound of Music. However, after diversifying out from audio products, the company changed its name to Best Buy in 1983\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How popular is Best Buy's Geek Squad?
@@ -202,18 +196,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-10-game-changing-ways-for-designing-cover-art/"><u>[New] 10 Game-Changing Ways for Designing Cover Art</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-convert-your-fb-video-into-singable-songs-mp3-for-2024/"><u>[New] Convert Your FB Video Into Singable Songs (MP3) for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale-for-2024/"><u>[New] Crafting a Non-Ad Revenue Stream on YouTube The Self-Sustaining Creator’s Tale for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-whispering-wonders-for-zzzs-choice-vocalists/"><u>[New] In 2024, Whispering Wonders for Zzz's Choice Vocalists</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-starting-from-scratch-stardews-ginger-island-guide/"><u>[New] Starting From Scratch Stardew's Ginger Island Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[Updated] In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/agile-approaches-storing-ppt-speeches-for-2024/"><u>Agile Approaches Storing PPT Speeches for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-permitted-recording-youtube-video-screenshots/"><u>In 2024, Permitted Recording YouTube Video Screenshots?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-knowledge-top-picks-from-toms-hardware/"><u>Mastering Your Tech Knowledge: Top Picks From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-a-trusted-source-for-gadget-enthusiasts/"><u>Pioneering Reviews by Tom: A Trusted Source for Gadget Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341743302-stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-how-to-manual-installing-latest-webcam-driver-for-microsofts-operating-system/"><u>The How-To Manual: Installing Latest WebCam Driver for Microsoft's Operating System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-computer-wonders-at-toms-hardware-haven/"><u>Unveiling Computer Wonders at Tom's Hardware Haven</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-template-to-trendsetter-gamer-channel-banners-guide-for-2024/"><u>[Updated] From Template to Trendsetter Gamer Channel Banners Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-become-the-star-with-your-own-stories-guidelines-for-crafting-over-120-creative-snap-tales/"><u>[Updated] In 2024, Become the Star with Your Own Stories Guidelines for Crafting over 120 Creative Snap Tales</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beyond-the-hype-why-creating-gun-prototypes-via-3d-printing-is-tougher-than-it-seems/"><u>Beyond the Hype: Why Creating Gun Prototypes via 3D Printing Is Tougher Than It Seems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-top-pick-for-affordable-yet-powerful-gaming-laptops-up-to-1500/"><u>Discover the Top Pick for Affordable Yet Powerful Gaming Laptops Up To $1,500</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offer-300-off-asus-rog-zephyrus-g14-for-gamers-features-oled-nvidia-rtx-graphics/"><u>Exclusive Offer: $300 Off Asus ROG Zephyrus G14 for Gamers - Features OLED, Nvidia RTX Graphics!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-the-affordable-lenovo-legion-slim-ebranded-as-a-high-quality-gaming-laptop-under-1100-on-newegg/"><u>Experience Next-Level Gaming with the Affordable Lenovo Legion Slim Ebranded as a High-Quality Gaming Laptop Under $1,100 on Newegg</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-cutting-edge-technology-of-asus-expertbook-p5-featuring-intels-next-level-lunar-lake-processors-for-ultimate-performance/"><u>Explore the Cutting-Edge Technology of ASUS ExpertBook P5 Featuring Intel’s Next-Level Lunar Lake Processors for Ultimate Performance</u></a></li>
+<li><a href="https://fox-making.techidaily.com/how-to-add-multilingual-support-in-flipbook-designs-with-flipbuilder/"><u>How to Add Multilingual Support in FlipBook Designs with FlipBuilder</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-pro-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-video-editing-inshots-place/"><u>In 2024, The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/leading-ultrabooks-and-luxury-laptop-picks-for-the-modern-tech-enthusiast/"><u>Leading Ultrabooks and Luxury Laptop Picks for the Modern Tech Enthusiast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-online-subtitles-our-choice-of-free-services/"><u>Mastering Online Subtitles Our Choice of Free Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/superior-ai-conversational-tools-top-alternatives-to-chategpt/"><u>Superior AI Conversational Tools: Top Alternatives to ChateGPT</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveiling-the-secrets-of-facetune-a-comprehensive-review-for-2024/"><u>Unveiling the Secrets of Facetune A Comprehensive Review for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Cyber Monday: Unveiling the Ultimate List of 2022'S Best Offers | Featured by ZDNet"
-date: 2024-10-28T17:34:43.497Z
-updated: 2024-11-01T19:28:26.180Z
+date: 2024-10-31T06:27:33.643Z
+updated: 2024-11-07T14:22:52.569Z
 tags:
   - laptops
 categories:
@@ -40,13 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -60,13 +53,6 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C46c4a23a-e363-4547-b075-3e302f59ee07%7Cdtp&dtb=1) |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -89,10 +75,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -115,6 +101,13 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Evaluating Lenovo's dual-screen software
 
 With such unique hardware, Lenovo had to build unique software for Windows 11 so that it behaves properly and gives you extra functionality.
@@ -136,10 +129,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -151,6 +144,13 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -190,22 +190,17 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-premier-8-edits-suites-for-linux-buffs/"><u>[New] In 2024, Premier 8 Edits Suites for Linux Buffs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-embrace-laughter-and-sorrow-with-these-top-10-meme-igs/"><u>[Updated] Embrace Laughter and Sorrow with These Top 10 Meme IGs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-insiders-method-becoming-a-pro-at-fb-live-streaming/"><u>[Updated] The Insider's Method Becoming a Pro at FB Live Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[Updated] Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-innovative-frame-tools-and-websites-image-editors/"><u>2024 Approved Innovative Frame Tools and Websites Image Editors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-guides-and-reviews-on-pc-hardware-by-toms-experts/"><u>Advanced Guides and Reviews on PC Hardware by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-under-20-reviews-uphere-c5c-and-d6sec-air-cooler-efficiency-explored/"><u>Affordable Under-$20 Reviews: UpHere C5C & D6Sec Air Cooler Efficiency Explored</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341659635-approach-consider-the-role-of-local-regulations-in-determining-land-use/"><u>Approach: Consider the Role of Local Regulations in Determining Land Use.</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cutting-edge-creativity-choosing-high-quality-camera-lenses/"><u>Cutting Edge Creativity Choosing High-Quality Camera Lenses</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exceptional-gaming-experience-with-the-acer-predator-orion-n5000-budget-friendly-powerhouse/"><u>Exceptional Gaming Experience with the Acer Predator Orion N5000: Budget-Friendly Powerhouse</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-wipe-iphone-data-permanently-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Wipe iPhone Data Permanently? | Stellar</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-tips-from-toms-hardware-zone/"><u>Mastering Gadgets and Gizmos with Tips From Tom’s Hardware Zone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sabrent-rocket-nano-2242-1tb-ssd-performance-testing-the-ideal-base-drive-for-m2-2242-slots/"><u>Sabrent Rocket Nano 2242 1TB SSD Performance Testing: The Ideal Base Drive for M.2 2242 Slots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-top-picks-and-insights/"><u>Tom's Computer Review: Top Picks and Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723262297773-twice-this-number-is-represented-by-2x/"><u>Twice This Number Is Represented by ( 2X )</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-microsoft-sculpt-ergonomic-keyboard-drivers-with-simple-steps/"><u>Update Microsoft Sculpt Ergonomic Keyboard Drivers with Simple Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagram-the-essential-guide-to-mastering-reels/"><u>[New] Navigating Instagram The Essential Guide to Mastering Reels</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfect-picks-microphones-for-diverse-online-audiences/"><u>[New] Perfect Picks Microphones for Diverse Online Audiences</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-distinguished-pioneers-elite-insta-hlv-page-builders/"><u>[Updated] 2024 Approved Distinguished Pioneers Elite Insta HLV Page Builders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/crafting-your-pc-with-the-cooler-master-qube-n500-modular-tower-innovative-design-meets-potential-enhancements/"><u>Crafting Your PC with the Cooler Master Qube N500 Modular Tower: Innovative Design Meets Potential Enhancements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-audio-file-exchange-upload-your-m4a-and-download-as-ogg-without-cost/"><u>Effortless Audio File Exchange - Upload Your M4A and Download as Ogg without Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-new-gadgets-with-toms-computing-hub/"><u>Expert Insights Into New Gadgets with Tom's Computing Hub</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-successfully-share-video-in-mp4-format-on-facebook-and-fix-upload-issues/"><u>How to Successfully Share Video in MP4 Format on Facebook and Fix Upload Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-instantly-professional-rapidly-crafting-valorant-game-imagery/"><u>In 2024, Instantly Professional Rapidly Crafting Valorant Game Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-scripture-melodies-on-your-phone/"><u>In 2024, Step-by-Step Scripture Melodies on Your Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-nzxt-h6-flow-rgb-case-assessment-stylish-and-unique/"><u>In-Depth NZXT H6 Flow RGB Case Assessment: Stylish and Unique</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-inwin-f5-gaming-rig-seamless-mobo-connectors-and-stylish-natural-front-panels-exposed/"><u>Inside the InWin F5 Gaming Rig: Seamless Mobo Connectors & Stylish Natural Front Panels Exposed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-accessories-to-enhance-your-sj4000/"><u>The Ultimate List of Accessories to Enhance Your SJ4000</u></a></li>
 </ul></div>
 

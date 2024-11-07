@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Urgent Cybersecurity Threats Detected in Hospitasters' Operative Machines"
-date: 2024-09-18 23:18:13
-updated: 2024-09-20 11:38:38
+date: 2024-11-02T18:46:30.614Z
+updated: 2024-11-06T22:03:12.170Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,31 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video-for-2024/"><u>[New] Decoding Dimensions The Key to Perfect Aspect Ratios in Video for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-ppts-potential-with-voiceover-techniques/"><u>[New] Unlocking PPT's Potential with Voiceover Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unwanted-android-pop-up-notifications/"><u>Effective Ways to Prevent Unwanted Android Pop-Up Notifications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-accessibility-real-time-transcription-feature-added-to-pixel-smartphone-calls/"><u>Enhanced Accessibility: Real-Time Transcription Feature Added to Pixel Smartphone Calls</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-guide-unlocking-200-savings-on-latest-samsung-gadgets-launching-soon/"><u>Exclusive Guide: Unlocking $200 Savings on Latest Samsung Gadgets Launching Soon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-high-quality-sound-the-new-pixel-tablet-at-just-499-features-built-in-speaker-docking-system/"><u>Experience High-Quality Sound: The New Pixel Tablet at Just $499 Features Built-In Speaker Docking System</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/guia-completa-para-desinstalar-una-unidad-usb-en-windows-11-con-tres-metodos-principales/"><u>Guía Completa Para Desinstalar Una Unidad USB en Windows 11 Con Tres Métodos Principales</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-meizu-21-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Meizu 21 to iPod | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-blue-screen-of-death-bsod-explained/"><u>Understanding the Blue Screen of Death: BSOD Explained</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-your-inner-bard-tips-for-composing-poetry-via-chatgpt/"><u>Unlock Your Inner Bard: Tips for Composing Poetry via ChatGPT</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

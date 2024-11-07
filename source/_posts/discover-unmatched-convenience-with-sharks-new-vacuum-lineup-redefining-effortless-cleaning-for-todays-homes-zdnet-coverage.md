@@ -1,7 +1,7 @@
 ---
 title: Discover Unmatched Convenience with Shark's New Vacuum Lineup, Redefining Effortless Cleaning for Today's Homes | ZDNET Coverage
-date: 2024-09-18 17:58:36
-updated: 2024-09-20 10:23:35
+date: 2024-11-01T07:22:40.023Z
+updated: 2024-11-07T05:25:20.777Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-30-tips-and-tricks-to-take-your-youtube-shorts-templates-to-the-next-level/"><u>[New] 2024 Approved 30 Tips & Tricks to Take Your YouTube Shorts Templates to the Next Level</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-proven-ways-to-archive-roblox-games-on-apple-devices/"><u>[Updated] 2024 Approved Proven Ways to Archive Roblox Games on Apple Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tailored-thumbnails-elevating-your-video-visibility-on-youtube/"><u>[Updated] Tailored Thumbnails Elevating Your Video Visibility on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>2024 Approved DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-others-replicate-apples-success-with-modular-accessory-technology/"><u>Can Others Replicate Apple's Success with Modular Accessory Technology?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-your-perfect-smartphone-a-comparison-between-samsung-galaxy-and-google-pixel/"><u>Choosing Your Perfect Smartphone: A Comparison Between Samsung Galaxy and Google Pixel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/determine-the-total-number-of-vehicles-passed-through-texas-in-june-which-is-given-as-8-times-106/"><u>Determine the Total Number of Vehicles Passed Through Texas in June, Which Is Given as $8 Times 10^6$.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-advanced-artificial-intelligence-cameras-of-google-pixel-7-series-starting-at-599/"><u>Discover the Advanced Artificial Intelligence Cameras of Google Pixel 7 Series, Starting at $599</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-finest-senior-friendly-phone-contracts-of-2024/"><u>Discover the Finest Senior-Friendly Phone Contracts of 2024</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/download-videos-from-tnt-as-mp4-or-avi-on-any-device-with-the-tnt-video-converter-tool/"><u>Download Videos From TNT as MP4 or AVI on Any Device with the TNT Video Converter Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-guide-to-transferring-tunes-onto-your-android-device/"><u>Easy Guide to Transferring Tunes Onto Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-concept-of-reverse-inductive-charging-technology/"><u>Exploring the Concept of Reverse Inductive Charging Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-prediction-power-versus-astrological-guesses/"><u>GPT's Prediction Power Versus Astrological Guesses</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expressing-thanks-top-outro-templates-collection/"><u>In 2024, Expressing Thanks Top Outro Templates Collection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-fund-allocation-setting-up-a-podcast-stage-for-2024/"><u>In-Depth Fund Allocation Setting Up a Podcast Stage for 2024</u></a></li>
+</ul></div>
+

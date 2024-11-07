@@ -1,7 +1,7 @@
 ---
 title: "Huge Discounts on GE Lighting Products: Save Up To 61%% On Smart Lamps & Controls - ZDNet"
-date: 2024-09-17 17:42:53
-updated: 2024-09-20 12:23:32
+date: 2024-11-03T00:44:20.976Z
+updated: 2024-11-07T14:51:15.827Z
 tags:
   - smart-lighting
 categories:
@@ -68,11 +68,35 @@ The Govee Permanent Outdoor Lights 2 are available for purchase right now. The 5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-professional-approach-to-screen-capturing-in-adobe-captive-environment/"><u>[New] 2024 Approved Professional Approach to Screen Capturing in Adobe Captive Environment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>[New] Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outubers-essential-camera-guidebook-for-2024/"><u>[New] YouTubers' Essential Camera Guidebook for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-twitter-to-whatsapp-video-broadcasting-guide/"><u>[Updated] 2024 Approved Twitter-to-WhatsApp Video Broadcasting Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apex-spectrum-by-maingear-combining-customizable-rgb-lighting-with-advanced-liquid-cooling-features/"><u>Apex Spectrum by Maingear: Combining Customizable RGB Lighting with Advanced Liquid Cooling Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964468371-discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oneplus-11r-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your OnePlus 11R to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-hardware-with-tom-your-ultimate-guide/"><u>Navigating Computer Hardware with Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide-to-tech-innovations/"><u>Tom's Computer Review: The Ultimate Guide to Tech Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-t17239718716137/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-8-essential-steam-deck-gadgets-and-peripherals-you-must-have/"><u>Top 8 Essential Steam Deck Gadgets and Peripherals You Must Have</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/windows-desktop-recording-techniques-no-cost/"><u>Windows Desktop Recording Techniques - No Cost</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

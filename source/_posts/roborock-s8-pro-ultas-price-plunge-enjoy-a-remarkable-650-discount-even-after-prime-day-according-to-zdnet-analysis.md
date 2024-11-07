@@ -1,7 +1,7 @@
 ---
 title: "Roborock S8 Pro Ulta's Price Plunge: Enjoy a Remarkable $650 Discount Even After Prime Day, According to ZDNET Analysis"
-date: 2024-09-18 10:59:29
-updated: 2024-09-20 12:15:27
+date: 2024-11-04T18:03:22.922Z
+updated: 2024-11-07T07:34:35.990Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ultimate-gopro-battle-hero5-black-vs-hero4-silver/"><u>[Updated] 2024 Approved Ultimate GoPro Battle Hero5 Black vs Hero4 Silver</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-power-of-vivacut/"><u>[Updated] Unveiling the Power of VivaCut</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-list-of-top-5-mac-streamers/"><u>2024 Approved The Ultimate List of Top 5 Mac Streamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-networking-board-review-harnessing-the-power-of-lightning-in-miniature/"><u>ASRock Z790I Lightning Wireless Networking Board Review: Harnessing the Power of Lightning in Miniature</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/atlas-air-by-turtle-beach-an-immersive-audio-journey-with-unmatched-comfort/"><u>Atlas Air by Turtle Beach: An Immersive Audio Journey with Unmatched Comfort</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/boost-your-connection-with-netgears-tri-band-nighthawk-x6-ac3200-wifi-router-a-detailed-review/"><u>Boost Your Connection with Netgear's Tri-Band Nighthawk X6 AC3200 WiFi Router - A Detailed Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-essentials-toms-guide-to-computer-hardware/"><u>Exploring Technology Essentials: Tom’s Guide to Computer Hardware</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mid-century-designed-cutting-edge-performance-unveiling-the-keychron-k2-he-special-edition-review/"><u>Mid-Century Designed, Cutting-Edge Performance: Unveiling the Keychron K2 HE Special Edition Review</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ps4-screenshot-sharing-made-easy-a-step-by-step-guide-for-2024/"><u>PS4 Screenshot Sharing Made Easy A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-asrocks-pg27qft2a-exceptional-value-for-high-refresh-rate-gaming-enthusiasts/"><u>Review of ASRock's PG27QFT2A - Exceptional Value for High Refresh Rate Gaming Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-conversation-learn-how-to-interact-with-chatgpt/"><u>Unlock the Power of Conversation: Learn How to Interact with ChatGPT!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-with-toms-hardware-findings/"><u>Unlocking Technology Secrets with Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sovol-sv08-review-a-tribute-speed-machine-inspired-by-voron/"><u>Unveiling Sovol SV08 Review: A Tribute Speed Machine Inspired by Voron</u></a></li>
+</ul></div>
+

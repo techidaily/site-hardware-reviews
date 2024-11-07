@@ -1,7 +1,7 @@
 ---
 title: "Robotic Revolution in Your Backyard: Unleashing Creativity with Automated Manufacturing Tools - The ZDNET Guide"
-date: 2024-09-18 11:15:31
-updated: 2024-09-20 11:54:56
+date: 2024-11-03T22:12:06.248Z
+updated: 2024-11-07T10:51:55.576Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-wealth-through-instagrams-revenue-avenues-for-2024/"><u>[New] Unlocking Wealth Through Instagram's Revenue Avenues for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-multi-background-streaming-the-green-screen-way/"><u>[Updated] In 2024, Mastering Multi-Background Streaming The Green Screen Way</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlocking-the-power-of-android-time-lapses/"><u>2024 Approved Unlocking the Power of Android Time-Lapses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-disappearing-badge-icons/"><u>Addressing Disappearing Badge Icons</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-asus-rog-phone-8-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Asus ROG Phone 8 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-assessing-the-kingston-furys-ddr5-6000-at-60gbs-a-reliable-performer-for-gamers-and-professionals/"><u>In-Depth Analysis: Assessing the Kingston Fury's DDR5-6000 at 60GB/S, a Reliable Performer for Gamers and Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-advanced-capabilities-a-guide-to-enabling-chatgpts-latest-beta-browsing-and-extension-support-features/"><u>Mastering Advanced Capabilities: A Guide to Enabling ChatGPT's Latest Beta Browsing and Extension Support Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/restart-your-computer-to-let-changes-take-effect-then-try-ripping-the-dvd-again-using-a-reputable-software-tool-like-makemkv-or-handbrake/"><u>Restart Your Computer to Let Changes Take Effect, Then Try Ripping the DVD Again Using a Reputable Software Tool Like MakeMKV or HandBrake.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-hardware/"><u>Tom's Tech: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-video-chat-tools-on-windows-6-1-leaders-for-2024/"><u>Top Video Chat Tools on Windows #6-#1 Leaders for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncover-the-latest-in-gadgets-with-toms-equipment-guide/"><u>Uncover the Latest in Gadgets with Tom's Equipment Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-tech-insights-with-tom-a-comprehensive-hardware-overview/"><u>Uncovering Tech Insights with Tom - A Comprehensive Hardware Overview</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-specs-a-deep-dive-into-toms-hardware-analysis/"><u>Unraveling the Specs: A Deep Dive Into Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-essence-filmoras-top-10-enchanting-features-for-2024/"><u>Unveiling the Essence Filmora’s Top 10 Enchanting Features for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-gear-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computer Gear with Tom - A Comprehensive Guide</u></a></li>
+</ul></div>
+

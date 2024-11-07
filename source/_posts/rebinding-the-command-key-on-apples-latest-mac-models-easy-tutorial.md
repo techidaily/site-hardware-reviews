@@ -1,7 +1,7 @@
 ---
 title: Rebinding the Command Key on Apple's Latest Mac Models – Easy Tutorial
-date: 2024-10-29T17:38:17.812Z
-updated: 2024-11-01T17:30:44.149Z
+date: 2024-11-05T10:07:42.788Z
+updated: 2024-11-06T22:26:01.614Z
 tags:
   - laptops
 categories:
@@ -40,14 +40,14 @@ So what if I told you you can remap the Apple keyboard so that the Globe key, wh
 
 (Even if you've always been a Mac user, and everything I just wrote meant nothing to you, you'll still want to read this. There's a good chance that the following remapping feature will benefit you just as much, too.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to remap the Globe key into the Command key
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open up Keyboard settings
 
@@ -56,10 +56,10 @@ Let's start by running a Spotlight Search (clicking the magnifying glass on the 
 You can also access this menu by clicking the Apple icon on the top left of the status bar > System Preferences > and then Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Open Modifier Keys
@@ -69,16 +69,16 @@ On the bottom right of the Keyboard settings should be a button labeled "Modifie
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Remap the Globe key to Command
@@ -90,10 +90,10 @@ Note: There is a "Control key" on the Mac keyboard but it doesn't function the s
 Screenshot by June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How this helps
@@ -130,22 +130,18 @@ From a Windows user perspective, being able to still access my usual keyboard sh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-youtube-for-ultimate-virtual-reality-adventures/"><u>[New] Navigating YouTube for Ultimate Virtual Reality Adventures</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-gen-screen-in-depth-look-at-the-hp-envy-27/"><u>2024 Approved Next Gen Screen In-Depth Look at the HP Envy 27</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unveiling-vr-video-versus-spherical-capture-tech-distinctions/"><u>2024 Approved Unveiling VR Video versus Spherical Capture Tech Distinctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-dev-error-6328-from-call-of-duty-warzone-expert-advice-for-gamers/"><u>Banish Dev Error 6328 From Call of Duty Warzone – Expert Advice for Gamers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-of-the-2023-oscars-full-movie-downloads-available/"><u>Live Streaming of the 2023 Oscars: Full Movie Downloads Available</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-guide-to-the-latest-in-hardware/"><u>Tom's Tech Hub: Your Guide to the Latest in Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides-for-top-hardware-picks/"><u>Tom's Tech Insights: Expert Reviews & Guides for Top Hardware Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Review: A Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Review: Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guides-on-hardware-and-gadgets/"><u>Tom's Tech Review: In-Depth Guides on Hardware & Gadgets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-emerging-innovations-in-artifice-intelligence-hardware/"><u>Top 5 Emerging Innovations in Artifice Intelligence Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-gaming-rig-bargains-of-2024-authentic-alienware-and-dell-offers/"><u>Top Gaming Rig Bargains of 2024: Authentic Alienware & Dell Offers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deals-on-alienware-and-dell-tech-game-on/"><u>Unbeatable Deals on Alienware and Dell Tech - Game On!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleashing-potential-why-ubuntu-dominates-windows-11-in-handling-the-latest-framework-laptop-features/"><u>Unleashing Potential: Why Ubuntu Dominates Windows 11 in Handling the Latest Framework Laptop Features</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unwanted-tv-bloat-consider-before-a-dvr-purchase/"><u>Unwanted TV Bloat? Consider Before a DVR Purchase</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/upgrading-your-mobile-pc-with-microsofts-improved-windows-features/"><u>Upgrading Your Mobile PC with Microsoft's Improved Windows Features</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitters-hot-talk-hustle-1-10-viral-visits-for-2024/"><u>[New] Twitter's Hot Talk Hustle #1-#10 Viral Visits for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-fast-loading-instagram-media-content/"><u>[Updated] In 2024, Mastering Fast-Loading Instagram Media Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-post-tomorrow-assessment-original-ideas/"><u>[Updated] In 2024, Post-Tomorrow Assessment Original Ideas</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-google-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Google</u></a></li>
+<li><a href="https://fox-that.techidaily.com/can-iphone-retain-images-in-icloud-storage-post-deletion-discover-8-solutions/"><u>Can iPhone Retain Images in iCloud Storage Post-Deletion? Discover 8 Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hostingers-web-hosting-offerings-from-vps-to-shared-services/"><u>Exploring Hostinger’s Web Hosting Offerings: From VPS to Shared Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-sovol-sv0s-performance-a-modern-tribute-to-voron/"><u>Exploring Sovol SV0ˈs Performance: A Modern Tribute to Voron</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-antitrust-battles-to-smart-growth-samsungs-rise-on-the-ai-frontier-outshines-industry-peers-in-latest-tech-index-zdnet/"><u>From Antitrust Battles to Smart Growth: Samsung's Rise on the AI Frontier Outshines Industry Peers in Latest Tech Index | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-insightful-reviews-on-asus-rog-azoth-extreme-perfect-gaming-rig-under-500/"><u>Get Insightful Reviews on Asus ROG Azoth Extreme - Perfect Gaming Rig Under $500</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-insights-on-levelplays-combat-air-ca4-cooler-efficient-and-noise-free-operation-for-your-pc/"><u>Review Insights on Levelplay's Combat Air CA4 Cooler - Efficient and Noise-Free Operation for Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-unraveling-the-latest-in-computer-components/"><u>Tom's Tech Corner: Unraveling the Latest in Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-asus-rog-swift-oled-pg32ucdp-reviewed-for-unmatched-gaming-clarity/"><u>Unlocking the Potential: Asus ROG Swift OLED PG32UCDP Reviewed for Unmatched Gaming Clarity</u></a></li>
 </ul></div>
 

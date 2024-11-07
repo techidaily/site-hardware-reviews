@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Choosing the Right Business Travel Tablet - Beyond iPads and ThinkPads | Insights From ZDNet
-date: 2024-10-30T19:55:39.570Z
-updated: 2024-11-01T16:12:10.417Z
+date: 2024-11-02T17:38:00.571Z
+updated: 2024-11-07T15:13:40.635Z
 tags:
   - laptops
 categories:
@@ -69,10 +69,10 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,18 +111,19 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-is-splitcam-the-pinnacle-of-recording-capabilities-for-2024/"><u>[New] Is SplitCam The Pinnacle of Recording Capabilities for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/break-free-the-chuckles-the-most-hilarious-facebook-detainment-stories/"><u>Break Free the Chuckles The Most Hilarious Facebook Detainment Stories</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/"><u>Get Updated NVIDIA Driver Pack for GeForce RTX 2070 on Windows OS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-m54-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy M54 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-rating-the-id-cooling-frozn-a620-pro-se/"><u>In-Depth Analysis and Rating: The ID-Cooling Frozn A620 PRO SE</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-discover-top-picks-at-toms-hardware-hub/"><u>Mastering Your Devices? Discover Top Picks at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-tech-trends-toms-hardware-haven/"><u>Navigating the Latest Tech Trends - Tom's Hardware Haven</u></a></li>
-<li><a href="https://techidaily.com/quick-download-for-acer-predator-xb271h-display-drivers-step-by-step/"><u>Quick Download for Acer Predator XB271H Display Drivers - Step by Step</u></a></li>
-<li><a href="https://facebook.techidaily.com/safeguarding-your-data-against-facebook-quiz-traps/"><u>Safeguarding Your Data Against Facebook Quiz Traps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/streamlining-podcast-feed-creation-techniques-for-2024/"><u>Streamlining Podcast Feed Creation Techniques for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-definitive-guide/"><u>Tom's Tech Reviews: The Definitive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-lavas-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Lavas Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-exclusive-farewell-to-game-costs/"><u>[Updated] In 2024, Exclusive Farewell to Game Costs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>[Updated] The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-2023s-top-browser-extensions-download-facebook-videos-effortlessly/"><u>2024 Approved Top 2023'S Top Browser Extensions Download Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862705155-acers-game-changer-steal-the-latest-tech-at-1129-rtx-4070-plus-amd-cpu-powered-nitro-16-laptop-unleashed/"><u>Acer's Game-Changer: Steal the Latest Tech at $1,129 - RTX 4070 + AMD CPU Powered Nitro 16 Laptop Unleashed!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-instagram-an-in-depth-look-at-its-features-and-functionality/"><u>Demystifying Instagram: An In-Depth Look at Its Features & Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-potential-top-10-ai-tools-for-podcast-titles/"><u>In 2024, Unleashing Potential Top 10 AI Tools for Podcast Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mpegiphone/"><u>MPEGビデオがiPhoneで楽しく流れるようにする簡単なガイド</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/super-bowl-ad-battles-overshadowed-by-apples-most-captivating-campaign-of-weekend-as-reported-by-zdnet/"><u>Super Bowl Ad Battles Overshadowed by Apple's Most Captivating Campaign of Weekend, As Reported by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
+<li><a href="https://ai-video.techidaily.com/unlocking-global-audiences-top-video-language-converters/"><u>Unlocking Global Audiences Top Video Language Converters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-electronics-tips-and-reviews-by-toms-hardware-professionals/"><u>Unveiling High-Performance Electronics - Tips and Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
 </ul></div>
 

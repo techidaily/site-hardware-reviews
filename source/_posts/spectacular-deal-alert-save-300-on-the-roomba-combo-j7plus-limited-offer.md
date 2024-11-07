@@ -1,7 +1,7 @@
 ---
 title: "Spectacular Deal Alert: Save $300 on the Roomba Combo J7+ - Limited Offer!"
-date: 2024-09-18 22:23:46
-updated: 2024-09-20 11:30:26
+date: 2024-11-01T04:01:46.899Z
+updated: 2024-11-06T19:42:33.153Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-elevate-your-channel-techniques-for-logo-insertion-in-videos/"><u>[New] 2024 Approved Elevate Your Channel Techniques for Logo Insertion in Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scrutinizing-magix-video-composer/"><u>[New] Scrutinizing MAGIX Video Composer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-skyrocketing-youtube-popularity-through-seo-know-how/"><u>[Updated] 2024 Approved Skyrocketing YouTube Popularity Through SEO Know-How</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-advanced-features-of-vlc-for-mac-users/"><u>[Updated] In 2024, Unveiling Advanced Features of VLC for Mac Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cost-effective-microcontroller-projects-with-the-cytron-maker-uno-rp2040-a-comprehensive-review/"><u>Cost-Effective Microcontroller Projects with the Cytron Maker Uno RP2040 - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-of-both-worlds-with-keychron-q1-he-a-hybrid-desktopwireless-marvel/"><u>Discover the Best of Both Worlds with Keychron Q1 HE - A Hybrid Desktop/Wireless Marvel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-gear-review-at-tomtechspotlight/"><u>Expert Gear Review at TomTechSpotlight</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-huawei-nova-y71-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Huawei Nova Y71 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-tackle-windows-activation-fault-0x803f700f/"><u>Guidelines to Tackle Windows Activation Fault 0X803F700f</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-crafting-winning-twitter-sponsored-content/"><u>In 2024, Crafting Winning Twitter Sponsored Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-pny-rp6-1tb-ssd-satisfactory-performance-with-no-notable-highlights/"><u>In Depth Review of PNY RP6# 1TB SSD: Satisfactory Performance with No Notable Highlights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+</ul></div>
+

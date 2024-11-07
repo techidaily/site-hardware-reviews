@@ -1,7 +1,7 @@
 ---
 title: "Huge Memorial Day Sale: Get Up To $300 Off The Incredible iRobot Roomba J7 on ZDNet"
-date: 2024-09-19 10:18:39
-updated: 2024-09-20 11:27:25
+date: 2024-11-06T08:05:39.186Z
+updated: 2024-11-07T09:51:13.871Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-idea-to-execution-creating-must-watch-fb-reels/"><u>[Updated] In 2024, From Idea to Execution Creating Must-Watch FB Reels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-sierra-icloud-drive-integrations-and-usage/"><u>[Updated] In 2024, Unlocking Sierra iCloud Drive Integrations & Usage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tailoring-humor-personalize-with-kinemaster/"><u>[Updated] Tailoring Humor Personalize with KineMaster</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-reviewed-how-zen-5-elevates-gaming-performance-with-the-ryzen-5-9600x-and-ryzen-7-9700x/"><u>AMD Ryzen Reviewed: How Zen 5 Elevates Gaming Performance with the Ryzen 5 9600X and Ryzen 7 9700X</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-zen-5-revolutionizes-gaming-in-depth-analysis-of-the-ryzen-9600x-vs-ryzen-7/"><u>AMD Zen 5 Revolutionizes Gaming: In-Depth Analysis of the Ryzen 9600X Vs. Ryzen 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-upheres-c5c-and-dnsect-models-high-performance-at-a-low-cost/"><u>Comparing UpHere's C5C and DnSect Models: High Performance at a Low Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341738052-expert-review-on-the-powerful-platinum-series-nzxt-c1ebuilding-with-sustainable-materials-including-recycled-content-when-possible/"><u>Expert Review on the Powerful Platinum Series - NZXT C1ebuilding with Sustainable Materials, Including Recycled Content when Possible</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-hardware-with-tom-a-detailed-analysis/"><u>Exploring the World of Computer Hardware with Tom - A Detailed Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuit-dts-wav-converteren-helemaal-kostenloos-online-zoek-mooi-ze-mbt/"><u>Gratuit DTS-WAV Converteren Helemaal Kostenloos Online - Zoek Mooi Ze MBT</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 15</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gear-lab-a-deep-dive-into-modern-computing-equipment/"><u>Inside Tom's Gear Lab: A Deep Dive Into Modern Computing Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-machine-top-picks-and-trends-from-toms-tech-analysis/"><u>Master Your Machine: Top Picks and Trends From Tom's Tech Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-memory-performance-with-gskill-trident-z5-rgb-ddr5-your-ultimate-guide-for-motherboards-supporting-2x48gb/"><u>Mastering Memory Performance with G.SKILL Trident Z5 RGB DDR5: Your Ultimate Guide for Motherboards Supporting 2X48GB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-techniques-for-enhancing-viewability-of-participants-in-google-meets/"><u>Proven Techniques for Enhancing Viewability of Participants in Google Meets</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209575109-revive-your-disconnected-usb-mouse-in-5-easy-steps/"><u>Revive Your Disconnected USB Mouse in 5 Easy Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tips-for-viewing-real-time-coverage-of-the-2024-olympic-games/"><u>Top Tips for Viewing Real-Time Coverage of the 2024 Olympic Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performance-test-comprehensive-review-of-the-gigabyte-aorus-fo32u2p-ultra-fast-240hz-and-stunning-4k-oled-display-for-gamers/"><u>Top-Performance Test: Comprehensive Review of the Gigabyte Aorus FO32U2P - Ultra-Fast 240Hz and Stunning 4K OLED Display for Gamers</u></a></li>
+</ul></div>
+

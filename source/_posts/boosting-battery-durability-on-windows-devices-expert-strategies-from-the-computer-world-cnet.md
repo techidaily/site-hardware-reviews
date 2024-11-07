@@ -1,7 +1,7 @@
 ---
 title: "Boosting Battery Durability on Windows Devices: Expert Strategies From the Computer World | CNET"
-date: 2024-10-29T18:46:30.202Z
-updated: 2024-11-01T17:23:09.862Z
+date: 2024-10-31T16:00:16.381Z
+updated: 2024-11-07T01:11:47.252Z
 tags:
   - laptops
 categories:
@@ -41,14 +41,14 @@ Cons
 * No proprietary drivers (Nvidia, ATI, etc.) are included, but they can easily be installed via the Driver Manager
 * Doesn't come with Snap support, but it can be added
 
-## Linux Mint
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Linux Mint
 
 ### Best Linux distribution for beginners overall
 
@@ -80,6 +80,13 @@ Cons
 * No support for overclocking CPUs or GPUs
 
 ## Chrome OS
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Linux distribution for beginners who are tired of Windows headaches
 
@@ -114,13 +121,6 @@ Cons
 
 ## Ubuntu
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best easy-to-use Linux distribution for beginners
 
 **Ubuntu features: Price:** Free for individuals/Variable commercial pricing | **Core code:** Linux Kernel: 6.5.0 | **Open source?** Yes
@@ -145,13 +145,6 @@ Pros
 
 Cons 
 * The Windows and macOS interfaces are only available in the paid version
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Zorin OS
 
@@ -182,14 +175,20 @@ Cons
 * No dual-boot option for Windows 8 and newer PCs
 * Doesn't play well with Ubuntu PPAs
 
-## MX Linux
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## MX Linux
 
 ### Best lightweight Linux distribution for beginners
 
@@ -224,13 +223,6 @@ Cons
 
 ## elementary OS
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best beginner Linux distribution for those migrating from MacOS
 
 **elementary OS Features:** **Price:** Free option available (Price is pay what you can) | **Core code:** Ubuntu LTS | **Open source?** Yes
@@ -260,19 +252,6 @@ My pick for the best Linux distribution for beginners is Linux Mint. It has a us
 
 So, ready to give Linux a try? It's worked well for me for over 30 years, and it can work well for you for the next 30\. While most [desktops seem to be heading to a DaaS model--including Windows](https://www.computerworld.com/article/3625450/say-hello-to-the-windows-365-cloud-pc.html) \-- I can guarantee you Linux will still be available for your PC decades from now.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Linux distro for beginners is right for you?
 
 | **Choose** **this...** | **If** **you** **want...**                               |
@@ -286,6 +265,13 @@ So, ready to give Linux a try? It's worked well for me for over 30 years, and it
 
 In the end, the best Linux distro for you is whichever one feels the most familiar. Some of the picks on our list have user interfaces that are very, very close to older versions of Windows to make it easier to learn something new. Others allow for dual-booting so you can swap back and forth between operating systems when you want to poke around in Linux for an afternoon or need to get some work done in Windows. You also want to choose a version of Linux that is supported by a robust online community of coders, documentation teams, and regular users. That way, if you have any issues with installation, downloading programs, or just general questions, you can get the help you need.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these best Linux distros for beginners?
 
 While compiling these picks, we paid careful attention to each Linux distribution's ease of use, price, and core code. 
@@ -295,6 +281,13 @@ While compiling these picks, we paid careful attention to each Linux distributio
 * **Ease of use:** Since these systems are for beginners, we considered how a novice would interact with the user experience of an operating system that isn't Windows or macOS. These beginner systems should feel familiar but not overwhelming.
 * **Price:** If you are new to Linux, you probably don't want to invest a sum of money into it if you are unfamiliar with the system. That's why we included picks that had free options as well as paid options.
 * **Core code:** A core Linux distro contains a kernel that helps you install the operating system. However, beginners can find this confusing. We considered which distros' core code would be easiest to navigate.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it hard to install applications on Linux?
 
@@ -318,24 +311,31 @@ The future of the desktop aside, unlike Windows, where your only real choices to
 
 What's a would-be Linux desktop user to do? Luckily for you, you don't have to try them all out to find a good fit. The key question is: "What do you want to use Linux for?" For beginners, I look at what's the easiest to pick up, the best overall Linux desktop, the simplest Linux for Windows users, and the easiest Linux for users with older machines.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you run Windows programs on Linux?
 
 If you still need some Windows programs, you can always try [Crossover Linux](https://www.codeweavers.com/crossover/) to run them on Linux. It won't run all Windows apps by any means, but it runs many of them surprisingly well. Some Microsoft programs are now available natively on Linux. These include the [Edge browser](https://www.microsoft.com/en-us/edge) and [Teams](https://www.techrepublic.com/article/how-to-install-microsoft-teams-on-linux/).
 
 You can also run [Windows 365 Cloud PC](https://www.microsoft.com/en-us/windows-365), a full Windows 10 or 11 cloud-based desktop, from Linux. This subscription service costs a pretty penny. Or, for free, you can run [Microsoft 365 for the web](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web) (formerly Office 365), which gives you access to a subset of Word, Excel, PowerPoint, Outlook, and OneNote's functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do you need security software on desktop Linux?
 
 No, not really. True, while Linux is much safer than Windows, it's not totally immune from attacks. But, those attacks tend to be much rarer than those that plague Windows or macOS. 
 
 That said, you should still run a firewall, which Linux has built-in, and for stopping malware in its tracks you might consider installing [ESET Endpoint AntiVirus for Linux](https://www.eset.com/us/business/download/endpoint-antivirus-linux/) or [ClamAV](https://www.clamav.net/). 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there other Linux distros worth considering?
 
@@ -389,14 +389,24 @@ View at Pop.system76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-guide-to-pocket-friendly-discord-video-downloads-on-tech-devices/"><u>[New] Guide to Pocket-Friendly Discord Video Downloads on Tech Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-guide-to-tracking-down-your-youtube-voice/"><u>[Updated] The Essential Guide to Tracking Down Your YouTube Voice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-effective-methods-to-end-w10-photo-app-freezes/"><u>[Updated] Unveiling Effective Methods to End W10 Photo App Freezes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-motorola-moto-g13-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Moto G13 Phone Screen?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-advanced-hardware-insights/"><u>Tom's Tech Hub: Advanced Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-world-of-computing-the-ultimate-resource-for-hardware-enthusiasts/"><u>Tom's World of Computing: The Ultimate Resource for Hardware Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-your-zoom-black-display-issue-expert-solutions-for-2-pcs/"><u>Troubleshoot & Resolve Your Zoom Black Display Issue: Expert Solutions for 2지원 PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-asus-rog-nuc-970-mini-pc-evaluation-power-packed-in-a-smaller-frame/"><u>Ultimate Asus ROG NUC 970 Mini PC Evaluation: Power-Packed in a Smaller Frame</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-peak-performance-a-detailed-examination-and-evaluation-of-the-lightning-fast-logitech-g-pro-x-2-designed-for-elite-gamers-only/"><u>Unlocking Peak Performance: A Detailed Examination and Evaluation of the Lightning Fast Logitech G Pro X 2 - Designed for Elite Gamers Only</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-fundamental-furnishings-in-mc-the-basics-of-homesteading/"><u>[New] Fundamental Furnishings in MC The Basics of Homesteading</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-approaches-to-enhance-the-impact-of-your-youtube-intro/"><u>[Updated] Innovative Approaches to Enhance the Impact of Your YouTube Intro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionizing-flight-indispensable-drone-extras-unveiled/"><u>[Updated] Revolutionizing Flight Indispensable Drone Extras Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-costs-sapphires-latest-pcie-gen-4-mini-itx-am5-board-arrives-in-the-chinese-market/"><u>Cutting Costs: Sapphire's Latest PCIe Gen 4 Mini ITX AM5 Board Arrives in the Chinese Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computers-and-accessories-curated-by-toms-hardware/"><u>Cutting-Edge Computers and Accessories Curated by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-diy-motherboard-selection-for-hassle-free-pc-construction/"><u>Easy DIY Motherboard Selection for Hassle-Free PC Construction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-guide-to-tech-choices/"><u>Expert Analysis of Hardware by Tom - Your Guide to Tech Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-systems-with-toms-hardware-analysis/"><u>Exploring Advanced Systems with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-toms-guide/"><u>Exploring Computer Hardware with Tom's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/full-draft-of-the-upcoming-pcie-generation-7-specs-moving-ahead-to-official-release/"><u>Full Draft of the Upcoming PCIe Generation 7 Specs - Moving Ahead to Official Release</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grande-screen-recorder-di-windows-10-8-e-7-pc-registrazioni-dello-schermo-in-tutta-la-sua-interezza-o-sezioni-specifiche/"><u>Grande Screen Recorder Di Windows 10, 8 E 7 PC – Registrazioni Dello Schermo in Tutta La Sua Interezza O Sezioni Specifiche</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hassle-free-diy-motherboard-kits-for-seamless-personal-computing-endeavors/"><u>Hassle-Free DIY Motherboard Kits for Seamless Personal Computing Endeavors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-improve-your-digital-television-signal-using-a-home-antenna/"><u>How to Improve Your Digital Television Signal Using a Home Antenna</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-pcie-testing-premium-white-atx-design-featuring-5-m2-slots/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard PCIe Testing - Premium White ATX Design Featuring 5 M.2 Slots</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-professional-results-without-the-professionals-diy-movie-making-for-beginners/"><u>New 2024 Approved Professional Results Without the Professionals DIY Movie Making for Beginners</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-300tb-ssds-from-sk-hynix-pioneering-the-future-of-storage-for-ai-environments/"><u>Revolutionary 300TB SSDs From SK Hynix: Pioneering the Future of Storage for AI Environments</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/schutz-fur-ihr-filmerlebnis-verwandeln-sie-altereneuere-dvds-mit-qualitatsgarantie-in-5-minuten/"><u>Schutz Für Ihr Filmerlebnis: Verwandeln Sie Ältere/Neuere DVDs Mit Qualitätsgarantie in 5 Minuten</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-travelers-guide-transforming-journeys-into-shareable-content-for-2024/"><u>The Traveler’s Guide Transforming Journeys Into Shareable Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-creativity-10-must-know-tips-for-cover-art-for-2024/"><u>Unleash Creativity 10 Must-Know Tips for Cover Art for 2024</u></a></li>
 </ul></div>
 

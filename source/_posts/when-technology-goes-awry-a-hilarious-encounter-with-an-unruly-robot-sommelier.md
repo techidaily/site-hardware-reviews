@@ -1,7 +1,7 @@
 ---
 title: "When Technology Goes Awry: A Hilarious Encounter with an Unruly Robot Sommelier"
-date: 2024-09-17 11:18:33
-updated: 2024-09-20 10:33:25
+date: 2024-11-01T05:15:51.641Z
+updated: 2024-11-06T18:38:41.079Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-discovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>[New] 2024 Approved Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-2023-fb-live-essentials-watching-made-easy/"><u>[New] In 2024, 2023 FB Live Essentials Watching Made Easy</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>[Updated] 2024 Approved Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>[Updated] In 2024, Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-moment-in-vr-infinity/"><u>2024 Approved Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://howto.techidaily.com/nokia-c12-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-resolving-windows-error-126-connection-issues-effectively/"><u>Step-by-Step Guide: Resolving Windows 'Error 126' Connection Issues Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-decreasing-decibels-in-logic-pro-projects-for-2024/"><u>Subtlety in Sound Decreasing Decibels in Logic Pro Projects for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-alternative-path-operating-system-setup-for-incompatible-processors-with-windows-11/"><u>The Alternative Path: Operating System Setup for Incompatible Processors with Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Gear: The Ultimate Guide to Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-analysis/"><u>Tom's Tech Insights: Comprehensive Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-best-gaming-ram-in-2nd4e-swift-performance-budget-friendly-options-with-radiant-rgb-features/"><u>Ultimate Guide to the Best Gaming RAM in 2nD4e - Swift Performance, Budget-Friendly Options with Radiant RGB Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-a-comprehensive-look-at-the-corsair-dominator-platinum-6400-mhz-rgb-led-and-2x16gb-ddr5-ram-modules/"><u>Unveiling Performance: A Comprehensive Look at the Corsair Dominator Platinum - 6400 MHz, RGB LED, and 2X16GB DDR5 RAM Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sk-hynixs-probe-into-suspected-illicit-dram-inside-huawei-devices/"><u>Unveiling SK Hynix's Probe Into Suspected Illicit DRAM Inside Huawei Devices</u></a></li>
+</ul></div>
+

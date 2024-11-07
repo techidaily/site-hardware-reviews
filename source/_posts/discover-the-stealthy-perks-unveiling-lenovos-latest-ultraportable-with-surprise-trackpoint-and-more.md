@@ -1,7 +1,7 @@
 ---
 title: "Discover the Stealthy Perks: Unveiling Lenovo's Latest Ultraportable with Surprise TrackPoint and More"
-date: 2024-10-27T16:27:35.911Z
-updated: 2024-11-01T18:48:25.269Z
+date: 2024-11-01T08:15:01.580Z
+updated: 2024-11-07T05:20:03.992Z
 tags:
   - laptops
 categories:
@@ -73,10 +73,10 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,14 +115,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-corrected-non-existence-of-shorts-on-feeds-for-2024/"><u>[Updated] Corrected Non-Existence of Shorts on Feeds for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-budget-friendly-android-video-call-alternatives/"><u>[Updated] In 2024, Budget-Friendly Android Video Call Alternatives</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-saving-scenes-seamlessly-the-power-of-vimeo-record-for-2024/"><u>[Updated] Saving Scenes Seamlessly The Power of Vimeo Record for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-xs-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone XS Max in the Best Ways</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ipad-air-4-versus-galaxy-tab-s7plus-ultimate-showdown-of-premier-tablet-tech/"><u>IPad Air 4 Versus Galaxy Tab S7+ Ultimate Showdown of Premier Tablet Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware-t17238628794254/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-game-changing-risc-v-dev-laptop-engineers-dream-at-an-unbeatable-price-of-around-300-from-china/"><u>Unveiling the Game-Changing RISC-V Dev Laptop: Engineers' Dream at an Unbeatable Price of Around $300 From China</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-breakdown/"><u>Unveiling the Latest in Technology: Tom's Hardware Breakdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-economical-systems-optimized-by-ideal-obs-settings/"><u>[Updated] 2024 Approved Economical Systems Optimized by Ideal OBS Settings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-masterful-approach-to-creating-attractive-yt-summaries/"><u>2024 Approved Masterful Approach to Creating Attractive YT Summaries</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/battle-of-giants-how-iphone-15-pro-max-stacks-up-against-samsung-galaxy-s2n-ultra/"><u>Battle of Giants: How iPhone 15 Pro Max Stacks Up Against Samsung Galaxy S2n Ultra</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-top-photo-frame-tech-of-2024/"><u>Best Practices Top Photo Frame Tech of 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-picking-your-next-device-at-toms-tech-oasis/"><u>Expert Advice on Picking Your Next Device at Tom's Tech Oasis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-storage-solutions-with-6tb-wd-my-passport-a-comprehensive-review/"><u>Exploring Storage Solutions with 6TB WD My Passport: A Comprehensive Review</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guia-detallada-resolviendo-problemas-con-backups-de-windows-10-y-11/"><u>Guía Detallada: Resolviendo Problemas Con Backups De Windows 10 Y 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy S23+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-premium-features-and-exceptional-precision-of-the-27-dough-spectrum-gaming-screen/"><u>In-Depth Review: Premium Features & Exceptional Precision of the 27 Dough Spectrum Gaming Screen</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-freshest-surface-book-drivers-installed-in-a-flash/"><u>Quick-Fix: Freshest Surface Book Drivers Installed in a Flash</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/under-budget-breeze-masters-check-out-our-review-of-upheres-c5c-and-d6sec-coolers/"><u>Under-Budget Breeze Masters? Check Out Our Review of UpHere's C5C and D6Sec Coolers!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlock-the-potential-of-audience-feedback-on-youtube/"><u>Unlock the Potential of Audience Feedback on YouTube</u></a></li>
 </ul></div>
 

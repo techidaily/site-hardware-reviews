@@ -1,7 +1,7 @@
 ---
 title: "Fast Fix: Adjusting the Luminance of Your MacBook's Keys Like a Pro - Expert Guidance From ZDNet"
-date: 2024-10-27T16:48:05.963Z
-updated: 2024-11-01T18:09:12.592Z
+date: 2024-11-02T16:46:31.978Z
+updated: 2024-11-07T00:19:38.320Z
 tags:
   - laptops
 categories:
@@ -57,16 +57,10 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -86,10 +80,10 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -129,10 +123,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -156,10 +150,10 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -206,17 +200,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-instant-recording-tips-for-facetime-chats/"><u>[Updated] Instant Recording Tips for FaceTime Chats</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-understanding-podcast-profit-margins-for-2024/"><u>[Updated] Understanding Podcast Profit Margins for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-konica-minolta-print-driver-software-compatible-with-multiple-windows-os/"><u>Essential Konica Minolta Print Driver Software: Compatible with Multiple Windows OS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-and-systems-by-toms-hardware/"><u>Expert Analysis on Gadgets and Systems by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-8-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 8 Space | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-limiting-video-size-the-mac-way-to-insta-cutting/"><u>In 2024, Limiting Video Size The Mac Way to Insta-Cutting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-electronics-guide/"><u>In-Depth Analysis by Tom's Electronics Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-in-depth-analysis-and-gear-reviews/"><u>Inside Tom's Hardware: In-Depth Analysis and Gear Reviews</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/iosplusandroid-guide-to-invisible-youtube-viewing/"><u>IOS+Android Guide to Invisible YouTube Viewing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-gear-choices-with-expert-advice-from-toms-equipment-hub/"><u>Master Your Gear Choices with Expert Advice From Tom's Equipment Hub</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/unlocking-the-power-of-three-key-approaches/"><u>Unlocking the Power of Three: Key Approaches</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-audio-shaping-secrets-the-fading-technique-for-2024/"><u>[New] Audio Shaping Secrets The Fading Technique for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-premium-visual-aids-for-business-professionals/"><u>[New] FREE Premium Visual Aids for Business Professionals</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-18-ways-to-record-internet-radio-comprehensive-tutorial/"><u>[Updated] 18 Ways To Record Internet Radio- Comprehensive Tutorial</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-use-twitter-archive-in-2024/"><u>[Updated] How to Use Twitter Archive, In 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/celebrate-memorial-day-with-unbeatable-savings-the-new-asus-tuf-gaming-a13-laptop-for-just-658/"><u>Celebrate Memorial Day with Unbeatable Savings: The New Asus TUF Gaming A1^3 Laptop for Just $658!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-tech-a-tour-of-the-latest-in-hardware-by-tom/"><u>Discover Cutting-Edge Tech: A Tour of the Latest in Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gear-insights-with-toms-hardware-mastery/"><u>Discover Top Gear Insights with Tom's Hardware Mastery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-computer-gear-hub/"><u>Expert Advice From Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-electronics-the-toms-hardware-compendium/"><u>Expert Advice on Electronics - The Tom's Hardware Compendium</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restarting-a-frozen-or-unresponsive-system/"><u>Expert Tips for Restarting a Frozen or Unresponsive System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tier-hardware-reviews-with-toms-electronics-insights/"><u>Explore Top-Tier Hardware Reviews with Tom's Electronics Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-asus-rog-zephyrus-g1-6-can-its-top-notch-hardware-delivery-a-smooth-gaming-journey/"><u>Exploring the Asus ROG Zephyrus G1 6: Can Its Top-Notch Hardware Delivery a Smooth Gaming Journey?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-meet-your-new-best-friend-asus-dali-concept-upgrades-the-zephyrus-g1-with-a-stunning-colorful-touch-enabled-lid/"><u>Gamers, Meet Your New Best Friend - Asus' Dali Concept Upgrades the Zephyrus G1지네터 with a Stunning Colorful Touch-Enabled Lid</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-16-inch-macbook-pro-with-m3-pro-for-less-dont-miss-this-500-deal-before-amazon-prime-day/"><u>Get the 16-Inch MacBook Pro With M3 Pro for Less - Don't Miss This $500 Deal Before Amazon Prime Day!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-off-the-iphone-15-pro-and-pro-max/"><u>How to Turn Off the iPhone 15 Pro and Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-11-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 11? Find the Best Solution Here</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-entrepreneurial-journey-of-launching-a-review-channel-for-clothing-for-2024/"><u>The Entrepreneurial Journey of Launching a Review Channel for Clothing for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-xs-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone XS and Android Phones</u></a></li>
 </ul></div>
 

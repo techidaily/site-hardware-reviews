@@ -1,7 +1,7 @@
 ---
 title: "Uncovering the Concealed Features of an Ultra-Compact Lenovo Device: The Ingenious TrackPoint Reveal"
-date: 2024-10-25T19:18:47.999Z
-updated: 2024-11-01T19:03:53.278Z
+date: 2024-11-02T02:38:53.924Z
+updated: 2024-11-06T20:35:15.952Z
 tags:
   - laptops
 categories:
@@ -73,16 +73,10 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,21 +115,24 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sharpen-aesthetic-focus-learning-border-techniques-for-insta-videos/"><u>[New] In 2024, Sharpen Aesthetic Focus Learning Border Techniques for Insta-Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-balancing-iphone-hd-video-with-premiere-pros-exposure-control-for-2024/"><u>[Updated] Balancing iPhone HD Video with Premiere Pro’s Exposure Control for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-prodigy-skyrocketing-with-content-innovation/"><u>[Updated] In 2024, Channel Prodigy Skyrocketing with Content Innovation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved.</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-google-pixel-7a-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Google Pixel 7a Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-reviewed-by-toms-hardware-experts/"><u>Discover Top Gadgets Reviewed by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-sovol-sv08-reviving-classic-voron-performance/"><u>Expert Insight on Sovol SV08 - Reviving Classic Voron Performance</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expertly-merge-vimeo-footage-with-ppts-using-modern-tools-for-2024/"><u>Expertly Merge Vimeo Footage with PPTs Using Modern Tools for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-disappeared-bluetooth-manage-your-devices/"><u>Fixing: Disappeared Bluetooth, Manage Your Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/innovating-visual-identity-with-ae-titles-for-2024/"><u>Innovating Visual Identity with AE Titles for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-gif-accelerators-online-and-mobile-solutions/"><u>New 2024 Approved Top GIF Accelerators Online and Mobile Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-insights-navigating-the-world-of-technology-gear/"><u>Tom's Hardware Insights: Navigating the World of Technology Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews/"><u>Tom's Tech Insights: In-Depth Guides and Reviews</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-ultimate-manual-to-earn-through-vimeos-revenue-channels/"><u>[New] 2024 Approved The Ultimate Manual to Earn Through Vimeo's Revenue Channels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-journeying-through-yesteryears-facebook-posts-on-mobilelaptop/"><u>[Updated] Journeying Through Yesteryear's Facebook Posts on Mobile/Laptop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamline-your-recordings-zooms-leading-transcription-apps-reviewed-for-2024/"><u>[Updated] Streamline Your Recordings Zoom's Leading Transcription Apps Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/849-us-release-of-dasungs-paperlike-color-touchscreen-monitor-12-inch-stylish-design-and-sharp-2560x1600-resolution/"><u>$849 U.S. Release of Dasung's Paperlike Color Touchscreen Monitor – 12-Inch, Stylish Design & Sharp 2560X1600 Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acer-unveils-three-cutting-edge-oled-gaming-screens-with-top-offering-the-480hz-27-predator-x2amo-u-f3/"><u>Acer Unveils Three Cutting-Edge OLED Gaming Screens with Top Offering, the 480Hz 27” Predator X2amo U F3</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-12-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 12 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862791699-discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-pioneering-digital-expression-with-these-6-best-nft-makers/"><u>In 2024, Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-audio-potential-in-audacity-mac-edition/"><u>In 2024, Unlocking Audio Potential in Audacity, Mac Edition</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/indications-simples-pour-recuperer-avec-facilite-votre-contenu-telecharge/"><u>Indications Simples Pour Récupérer Avec Facilité Votre Contenu Téléchargé</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-recovery-guide-fixing-audio-issues-after-windows-10-patch/"><u>Noise Recovery Guide: Fixing Audio Issues After Windows 10 Patch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-simple-steps-for-plugging-into-a-surface-dock-driver/"><u>Quick and Simple Steps for Plugging Into a Surface Dock Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862788414-score-big-with-the-latest-deal-on-samsung-odyssey-g50a-27-qhd-ips-monitor-now-only-255/"><u>Score Big with the Latest Deal on Samsung Odyssey G50A 27 QHD IPS Monitor – Now Only $255</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-generative-ai-on-modern-search-techniques-leading-companies-embracing-innovation/"><u>The Impact of Generative AI on Modern Search Techniques: Leading Companies Embracing Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insightful-gadget-analysis-and-hardware-breakdown/"><u>Tom's Tech Review: Insightful Gadget Analysis and Hardware Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-gear-tech-advice-the-toms-hardware-way/"><u>Top Gear Tech Advice - The Tom's Hardware Way</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-a-widescreen-gaming-screen/"><u>Ultimate Guide to Choosing a Widescreen Gaming Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-secrets-with-toms-authoritative-reviews/"><u>Unveiling Hardware Secrets with Tom's Authoritative Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-toms-hardware-guide/"><u>Unveiling the Latest Tech: Tom's Hardware Guide</u></a></li>
 </ul></div>
 

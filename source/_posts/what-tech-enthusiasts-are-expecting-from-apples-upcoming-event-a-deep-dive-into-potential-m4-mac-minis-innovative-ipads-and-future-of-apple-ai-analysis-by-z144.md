@@ -1,7 +1,7 @@
 ---
 title: What Tech Enthusiasts Are Expecting From Apple’s Upcoming Event – A Deep Dive Into Potential M4 Mac Minis, Innovative iPads, and Future of Apple AI | Analysis by ZDNET
-date: 2024-10-28T17:03:02.415Z
-updated: 2024-11-01T20:47:07.224Z
+date: 2024-10-30T19:57:33.767Z
+updated: 2024-11-06T21:17:29.676Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,16 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,16 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -135,18 +123,19 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-decipher-high-impact-content-selecting-premier-rank-trackers-for-youtubers/"><u>[New] In 2024, Decipher High-Impact Content Selecting Premier Rank Trackers for YouTubers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pioneering-techniques-to-transform-your-obs-studio-projects/"><u>2024 Approved Pioneering Techniques to Transform Your OBS Studio Projects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-rode-streamer-x-is-it-worth-transforming-your-filmmaking-experience/"><u>A Comprehensive Review of Rode Streamer X: Is It Worth Transforming Your Filmmaking Experience?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/battlenet-outage-distinguishing-server-issues-from-personal-internet-problems/"><u>Battle.net Outage: Distinguishing Server Issues From Personal Internet Problems</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/charting-your-course-in-youtubing-dodge-these-top-8-common-missteps-in-2024/"><u>Charting Your Course in YouTubing Dodge These Top 8 Common Missteps, In 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-in-depth-analysis-of-latest-hardware-gadgets/"><u>Expert Reviews by Tom: In-Depth Analysis of Latest Hardware Gadgets</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok-for-2024/"><u>Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok) for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-13-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 13 without Password?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-deep-dives-into-tech-by-tom/"><u>Mastering Electronics: Deep Dives Into Tech by Tom</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-chatgpt-in-a-multilingual-world/"><u>The Ultimate Guide to ChatGPT in a Multilingual World</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-all-things-hardware-by-tom/"><u>The Ultimate Resource for All Things Hardware by Tom</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-free-10-websites-to-watch-cartoon-online-in-hd/"><u>Updated 2024 Approved FREE 10 Websites to Watch Cartoon Online in HD</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-resoudre-les-problemes-de-declenchement-du-touchpad-pc/"><u>Comment Résoudre Les Problèmes De Déclenchement Du Touchpad PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-snapchat-emojis-with-ease-an-essential-illustrated-key-for-chat-enthusiasts/"><u>Decode Snapchat Emojis with Ease: An Essential Illustrated Key for Chat Enthusiasts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-play-7t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Play 7T? Try These Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-s23plus-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel S23+</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/la-facon-deffacer-des-documents-de-votre-compte-onedrive-tout-en-preservant-ceux-du-disque-dur/"><u>La Façon D’effacer Des Documents De Votre Compte OneDrive Tout en Préservant Ceux Du Disque Dur.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-drfone-by-drfone-ios/"><u>Locked Out of iPhone SE? 5 Ways to get into a Locked iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mac-studio-vs-mac-mini-why-one-feature-could-determine-your-next-purchase-decision-this-fall/"><u>Mac Studio Vs. Mac Mini: Why One Feature Could Determine Your Next Purchase Decision This Fall</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-tips-from-toms-computer-specialists/"><u>Mastering Your PC: Tips From Tom’s Computer Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastery-in-pc-components-a-journey-through-toms-hardware-wisdom/"><u>Mastery in PC Components: A Journey Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-tecno-spark-20-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Tecno Spark 20 Phone? Unlock It Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-devs-dream-affordable-chinese-startups-risc-ve-laptop-at-300/"><u>Next-Gen Devs' Dream: Affordable Chinese Startup's RISC-Ve Laptop at $300</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premier-alienware-and-dell-discounts-for-gamers/"><u>Premier Alienware & Dell Discounts for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-zephyrus-g14-experience-with-asus-new-dali-concept-a-colorful-leap-forward-for-gamer-lid-displays/"><u>Transform Your Zephyrus G14 Experience with Asus' New Dali Concept - A Colorful Leap Forward for Gamer Lid Displays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unintentional-consequences-hp-probooks-affected-by-updated-bios-causing-black-screen-issues/"><u>Unintentional Consequences: HP ProBooks Affected by Updated BIOS Causing Black Screen Issues</u></a></li>
 </ul></div>
 

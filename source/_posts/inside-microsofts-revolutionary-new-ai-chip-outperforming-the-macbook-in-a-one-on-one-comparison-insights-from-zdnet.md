@@ -1,7 +1,7 @@
 ---
 title: "Inside Microsoft's Revolutionary New AI Chip: Outperforming the MacBook in a One-on-One Comparison | Insights From ZDNet"
-date: 2024-10-28T16:04:20.809Z
-updated: 2024-11-01T18:33:00.930Z
+date: 2024-11-01T04:03:59.836Z
+updated: 2024-11-07T06:13:58.225Z
 tags:
   - laptops
 categories:
@@ -51,10 +51,10 @@ Ultimately, does what you see above really seem more practical and usable than a
 Asus
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Explore
@@ -86,10 +86,10 @@ Lenovo
 Of course, even this form factor, which seems like the most objectively usable way to take a dual-screen setup on the go, still requires some adjustment. The detachable Bluetooth keyboard will require you to lug along an extra accessory, and you'll still be limited to using the dual touchscreens or the optional Lenovo stylus for input, unless you also bring a mouse. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -101,10 +101,10 @@ Luckily, even if you forget everything else, you can still opt for an onscreen k
 As always, it'll be up to the consumers once the Yoga Book 9i comes out in June to decide if the company has finally answered the dual-screen laptop question correctly. It'll also depend on whether they think the specs, which you can find below, are worth the $2,100 asking price. If the reality of the Yoga Book 9i finally lives up to the massive potential of a truly useful dual-screen laptop, it might just be a bargain. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lenovo Yoga Book 9i specifications
@@ -166,16 +166,19 @@ As always, it'll be up to the consumers once the Yoga Book 9i comes out in June 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-best-unfollow-tools-and-apps-for-twitter/"><u>[New] 2024 Approved Best Unfollow Tools and Apps for Twitter</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-advanced-android-video-and-screenshot-tools-top-5-selection/"><u>[New] In 2024, Advanced Android Video & Screenshot Tools, Top 5 Selection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-start-recording-audio-on-windows-11/"><u>2024 Approved Quick Start Recording Audio on Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862653040-carbon-fiber-structural-battery-breakthroughs-lighter-and-stronger-tech-devices-ahead/"><u>Carbon Fiber Structural Battery Breakthroughs: Lighter and Stronger Tech Devices Ahead!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dont-panic-just-power-down-the-ultimate-troubleshooting-for-water-damaged-iphones-and-ipods/"><u>Don't Panic, Just Power Down! The Ultimate Troubleshooting for Water-Damaged iPhones & iPods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-ultimate-guide-to-dji-drone-video-livestreams-on-fb/"><u>In 2024, The Ultimate Guide to DJI Drone Video Livestreams on FB</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-tech-analysis-navigating-new-innovations-at-toms-hardware/"><u>Top Tech Analysis: Navigating New Innovations at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-future-of-mac-gaming-apples-strategy-using-its-full-ecosystem-arsenal/"><u>Unveiling the Future of Mac Gaming – Apple's Strategy Using Its Full Ecosystem Arsenal</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-immersive-worlds-with-youtubes-top-10-vr-videos/"><u>[Updated] 2024 Approved Unlock Immersive Worlds with YouTube's Top 10 VR Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-choose-from-the-finest-7-android-browsers-without-ads/"><u>[Updated] Choose From the Finest 7 Android Browsers Without Ads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-free-high-quality-desktop-video-encoding-software/"><u>2024 Approved Free, High-Quality Desktop Video Encoding Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guia-completa-para-eludir-las-restricciones-de-disney-y-extraer-archivos-mpeg-4-en-dvds/"><u>Guía Completa Para Eludir Las Restricciones De Disney Y Extraer Archivos MPEG-4 en DVDs</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guide-facile-pour-copier-le-contenu-dune-cle-usb-sur-une-seconde-cle-sans-perte-de-donnees/"><u>Guide Facile Pour Copier Le Contenu D'une Clé USB Sur Une Seconde Clé Sans Perte De Données</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-teamgroup-t-force-dark-airflow-i-ultimate-nvme-ssd-cooling-solution/"><u>In-Depth Analysis of the TeamGroup T-Force Dark AirFlow I: Ultimate NVMe SSD Cooling Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-with-toms-technology-review/"><u>In-Depth Hardware Analysis with Tom's Technology Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-motherboards-and-more-a-trip-through-toms-electronic-explorations/"><u>Mastering Motherboards and More: A Trip Through Tom’s Electronic Explorations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-the-future-of-home-networking-in-depth-analysis-and-insights-on-the-revolutionary-asus-wifi-7-router-rt-be96u/"><u>Pioneering the Future of Home Networking: In-Depth Analysis and Insights on the Revolutionary Asus WiFi 7 Router - RT-BE96U</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-boosting-podcast-quality-using-the-focusrite-scarlet-cu2-expert-insights-from-zdnet/"><u>The Ultimate Guide to Boosting Podcast Quality Using the Focusrite Scarlet Cu2 | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-discord-video-call-volume-problems/"><u>Troubleshooting Tips: Resolving Discord Video Call Volume Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-look-into-toms-hardware-insights/"><u>Unlocking Performance: A Look Into Tom’s Hardware Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nokia C12 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

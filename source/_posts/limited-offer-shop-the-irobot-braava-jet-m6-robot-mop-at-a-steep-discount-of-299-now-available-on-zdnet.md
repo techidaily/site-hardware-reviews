@@ -1,7 +1,7 @@
 ---
 title: "Limited Offer: Shop the iRobot Braava Jet M6 Robot Mop at a Steep Discount of $299! - Now Available on ZDNet!"
-date: 2024-09-17 15:21:42
-updated: 2024-09-20 11:11:13
+date: 2024-10-31T13:42:30.897Z
+updated: 2024-11-07T01:57:47.424Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-do-i-explore-every-shared-piece-by-friends-on-messages/"><u>[Updated] In 2024, How Do I Explore Every Shared Piece by Friends on Messages?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Pro Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/biodiversity/"><u>Biodiversity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/browse-backwards-a-guide-to-facebook-archives-for-2024/"><u>Browse Backwards A Guide to Facebook Archives for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/digital-heavyweights-decoded-a-tour-through-the-worlds-top-10-internet-hubs/"><u>Digital Heavyweights Decoded: A Tour Through the World's Top 10 Internet Hubs</u></a></li>
+<li><a href="https://win-best.techidaily.com/dvd-ripping-made-simple-top-7-methods-for-windows-and-macos-users/"><u>DVD Ripping Made Simple: Top 7 Methods for Windows and macOS Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-fast-internet-speeds-a-review-of-asuss-cutting-edge-tri-band-wireless-router-the-rt-be96u-with-enhanced-7-ghz-performance/"><u>Experience Ultra-Fast Internet Speeds: A Review of Asus's Cutting-Edge Tri-Band Wireless Router - The RT-BE96U with Enhanced 7 GHz Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-gear-analysis-by-tom-your-trusted-guide-in-technology/"><u>Expert Gear Analysis by Tom - Your Trusted Guide in Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-a-comprehensive-gadget-guide/"><u>Inside Tom's Hardware: A Comprehensive Gadget Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pioneering-mobile-tech-androids-role-in-vr360-videos-update-2023-for-2024/"><u>Pioneering Mobile Tech Android's Role in VR/360 Videos (Update 2023) for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sound-gear-choices-evaluate-these-5-parameters/"><u>Sound Gear Choices - Evaluate These 5 Parameters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-modern-hardware-solutions-by-toms-experts/"><u>The Ultimate Resource for Modern Hardware Solutions by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice/"><u>Tom's Tech Insights: In-Depth Reviews & Expert Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-technology-trends-at-toms-computer-solutions/"><u>Unveiling New Technology Trends at Tom's Computer Solutions</u></a></li>
+</ul></div>
+

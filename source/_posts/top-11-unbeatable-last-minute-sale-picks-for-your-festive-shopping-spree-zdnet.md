@@ -1,7 +1,7 @@
 ---
 title: Top 11 Unbeatable Last-Minute Sale Picks for Your Festive Shopping Spree | ZDNet
-date: 2024-09-18 17:11:48
-updated: 2024-09-20 12:55:56
+date: 2024-11-02T11:32:32.543Z
+updated: 2024-11-06T18:02:04.662Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-segmentviewpoint-report/"><u>[New] 2024 Approved SegmentViewpoint Report</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-pathway-to-stellar-visual-results-through-color-tuning/"><u>[Updated] The Pathway to Stellar Visual Results Through Color Tuning</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-tech-trends-on-toms-hardware-showcase/"><u>Discover Cutting-Edge Tech Trends on Tom's Hardware Showcase</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cost-savings-in-electronics-projects-a-detailed-review-of-the-cytron-maker-uno-rp2040-board/"><u>Exploring Cost Savings in Electronics Projects: A Detailed Review of the Cytron Maker Uno RP2040 Board</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341739768-exploring-wartime-velocity-the-unconventional-flsun-s1-solar-charger-reviewed/"><u>Exploring Wartime Velocity - The Unconventional FLSun S1 Solar Charger Reviewed!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro, Apples New iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-computing-components-the-toms-hardware-essentials/"><u>Mastering Computing Components: The Tom's Hardware Essentials</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/non-compliance-with-standard-care-protocols/"><u>Non-Compliance with Standard Care Protocols</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rapid-audio-to-video-conversion-for-youtube-fans/"><u>Rapid Audio-to-Video Conversion for YouTube Fans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-to-effortless-telegram-web-use-for-2024/"><u>Step-by-Step Guide to Effortless Telegram Web Use for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-complete-guide-to-managing-win11-applications-via-winget/"><u>The Complete Guide to Managing Win11 Applications via Winget</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-d3dx924dll-missing-or-corruption-problems/"><u>The Ultimate Fix for 'd3dx9_24.dll' Missing or Corruption Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advice-your-guide-to-cutting-edge-computer-hardware/"><u>Tom's Tech Advice: Your Guide to Cutting-Edge Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/upgrades-coming-soon-for-snipping-tool-and-microsoft-paint-on-windows-11/"><u>Upgrades Coming Soon for Snipping Tool & Microsoft Paint on Windows 11</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Explores the Unveiling of Roborock’s New Robot Vacuum Range at Consumer Electronics Show
-date: 2024-09-18 21:34:10
-updated: 2024-09-20 12:25:19
+date: 2024-11-05T04:38:48.783Z
+updated: 2024-11-06T22:08:16.832Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-the-depths-of-fraps-recorders/"><u>[New] In 2024, Exploring the Depths of Fraps Recorders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aesthetic-excellence-vs-underwhelming-ai-a-review-of-the-microsoft-surface-pro-with-copilotplus/"><u>Aesthetic Excellence Vs. Underwhelming AI: A Review of the Microsoft Surface Pro with Copilot+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hardware-by-thomastechreview/"><u>Expert Insights on Hardware by ThomasTechReview</u></a></li>
+<li><a href="https://article-tips.techidaily.com/guide-to-enable-windows-11-auto-hdr-settings/"><u>Guide to Enable Windows 11 Auto-HDR Settings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-edible-media-recipe-tutorials/"><u>In 2024, The Art of Edible Media Recipe Tutorials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/madden-19-critique-fantastic-modes-starting-to-lose-sparkle-over-time/"><u>Madden '19 Critique: Fantastic Modes, Starting to Lose Sparkle Over Time</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-setup-with-tips-and-tricks-from-toms-hardware-pros/"><u>Mastering Your PC Setup with Tips and Tricks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-the-pnyrp60-is-this-portable-ssd-worth-your-investment/"><u>The Verdict on the #PNY_RP60 - Is This Portable SSD Worth Your Investment?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-explained-decoding-the-latest-in-computer-and-gadgetry/"><u>Tom's Hardware Explained: Decoding the Latest in Computer and Gadgetry</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-massive-financial-benefits-a-closer-look-at-the-game-changing-50-laptop-add-on-revealed/"><u>Unlocking Massive Financial Benefits: A Closer Look at the Game-Changing $50 Laptop Add-On Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+</ul></div>
+

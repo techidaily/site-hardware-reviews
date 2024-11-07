@@ -1,7 +1,7 @@
 ---
 title: "AI's Lightning Speed Demonstrated: Crafting a Robot in Just Seconds – The Limitless Possibebilities Explored by ZDNET"
-date: 2024-09-18 23:48:39
-updated: 2024-09-20 12:29:13
+date: 2024-10-30T22:30:48.123Z
+updated: 2024-11-06T20:26:42.166Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,25 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-essential-guide-to-youtubes-premier-unboxers/"><u>[New] 2024 Approved Essential Guide to YouTube's Premier Unboxers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-your-study-of-the-past-with-these-top-10-channels/"><u>Craft Your Study of the Past with These Top 10 Channels</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oneplus-nord-n30-se-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does OnePlus Nord N30 SE Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-reclaim-disk-space-on-your-computer-running-windows-11/"><u>Efficiently Reclaim Disk Space on Your Computer Running Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-does-the-asus-rog-azoth-extreme-hold-up-in-depth-review-for-500-dollar-buyers/"><u>How Does The Asus ROG Azoth Extreme Hold Up? In-Depth Review for 500 Dollar Buyers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-srt-conversion-made-easy-a-step-by-step-approach/"><u>In 2024, SRT Conversion Made Easy A Step-by-Step Approach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-travel-wi-fi-companion-asus-rt-ax57-go-review-navigating-seamless-connectivity-anywhere/"><u>The Ultimate Travel Wi-Fi Companion: Asus RT-AX57 Go Review - Navigating Seamless Connectivity Anywhere</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-comprehensive-guide-and-insights/"><u>Tom's Hardware Review: Comprehensive Guide and Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-msvcr1ebdll-file-missing-on-helldivers-2-game/"><u>Troubleshooting Steps: MSVCR1eb.dll File Missing on HellDivers 2 Game</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-efficiency-a-closer-look-at-nzxts-c1500-platinum-psu/"><u>Unveiling Efficiency: A Closer Look at NZXT's C1500 Platinum PSU</u></a></li>
+</ul></div>
+

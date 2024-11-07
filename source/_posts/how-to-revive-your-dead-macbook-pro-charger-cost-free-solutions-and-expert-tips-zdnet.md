@@ -1,7 +1,7 @@
 ---
 title: How to Revive Your Dead MacBook Pro Charger - Cost-Free Solutions and Expert Tips | ZDNET
-date: 2024-10-29T18:35:10.605Z
-updated: 2024-11-01T18:52:55.139Z
+date: 2024-11-05T23:12:02.926Z
+updated: 2024-11-06T23:35:36.584Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,20 +133,20 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-picks-top-5-high-performing-android-recorders/"><u>[New] 2024 Approved Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-to-add-clearer-subtitles-on-youtube/"><u>[Updated] Step-By-Step Guide to Add Clearer Subtitles on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-art-of-digital-makeup-on-video-platforms/"><u>2024 Approved The Art of Digital Makeup on Video Platforms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-budget-friendly-high-performance-gaming-laptops-below-1000/"><u>Best Budget-Friendly High-Performance Gaming Laptops Below $1,000</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-top-tier-computer-hardware-by-toms-technology-hub/"><u>Detailed Analysis of Top-Tier Computer Hardware by Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-hardware-insights-with-toms-technology-hub/"><u>Discover Hardware Insights with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dominate-your-games-secure-the-powerful-msi-katana-laptop-156-nvidia-geforce-rtx-4070-for-an-unbeatable-price-of-1199/"><u>Dominate Your Games: Secure the Powerful MSI Katana Laptop (15.6, NVIDIA GeForce RTX 4070) for an Unbeatable Price of $1,199</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enduring-power-played-out-in-asus-tuf-gaming-a14-an-in-depth-review/"><u>Enduring Power Played Out in Asus TUF Gaming A14: An In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862716918-exclusive-offer-on-lenovo-legion-gaming-pcs-with-rtx-graphics-and-ultra-smooth-display-get-750-off-today/"><u>Exclusive Offer on Lenovo Legion Gaming PCs with RTX Graphics & Ultra-Smooth Display – Get $750 Off Today!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-for-students-unbeatable-prices-you-wont-want-to-miss/"><u>Final Cut Pro for Students Unbeatable Prices You Wont Want to Miss</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/five-fantastic-iphones-for-podcast-fans-for-2024/"><u>Five Fantastic iPhones for Podcast Fans for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-audio-journey-iphoneipad-podcasting-secrets-unveiled/"><u>In 2024, Perfect Your Audio Journey IPhone/iPad Podcasting Secrets Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862735364-score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-y77t-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Y77t</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlocking-video-metrics-incorporating-tags-wisely/"><u>[New] Unlocking Video Metrics Incorporating Tags Wisely</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-approach-to-mastering-360-video-edits-in-premiere-pro/"><u>[Updated] A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lush-backdrops-a-treasure-chest-of-free-templates-for-cinematographers/"><u>[Updated] Lush Backdrops A Treasure Chest of Free Templates for Cinematographers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-zoom-strategies-for-clarity-in-web-meetings/"><u>2024 Approved Advanced Zoom Strategies for Clarity in Web Meetings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341716627-approach/"><u>Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/discovering-the-ultimate-solution-showmores-recording-mastery-for-2024/"><u>Discovering The Ultimate Solution ShowMore's Recording Mastery for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-upgrade-intel-hd-graphics-driver-for-windows-11-latest-version/"><u>Download & Upgrade Intel HD Graphics Driver for Windows 11 – Latest Version</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/patriot-viper-vp4300-lite-4tb-ssd-analysis-big-storage-meets-affordable-pricing/"><u>Patriot Viper VP4300 Lite 4TB SSD Analysis - Big Storage Meets Affordable Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pi52-icetower-plus-revolutionizes-raspberry-pi-5-cooling-efficiency-in-our-in-depth-review/"><u>Pi52 IceTower Plus Revolutionizes Raspberry Pi 5 Cooling Efficiency in Our In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gameplay-experience-unleashed-in-depth-review-of-the-philips-49m2c8900-240hz-qd-oled-display/"><u>Ultimate Gameplay Experience Unleashed: In-Depth Review of the Philips 49M2C8900 - 240Hz QD-OLED Display</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-your-family-sharing-essential-steps-and-quick-fixes-you-must-try/"><u>Unstuck Your Family Sharing: Essential Steps & Quick Fixes You Must Try</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-and-reviews-at-toms-hardware/"><u>Unveiling Innovations and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-expert-review-on-the-id-cooling-frozn-a62ebit-pro-series-for-enthusiasts/"><u>Unveiling the Power: Expert Review on the ID-Cooling Frozn A62ebit - Pro Series for Enthusiasts</u></a></li>
 </ul></div>
 

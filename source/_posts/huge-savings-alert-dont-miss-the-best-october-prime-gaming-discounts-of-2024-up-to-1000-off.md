@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings Alert: Don't Miss the Best October Prime Gaming Discounts of 2024 – Up to $1,000 Off!"
-date: 2024-10-26T18:54:47.148Z
-updated: 2024-11-01T16:28:35.524Z
+date: 2024-11-03T01:17:30.870Z
+updated: 2024-11-06T22:41:44.643Z
 tags:
   - laptops
 categories:
@@ -118,13 +118,6 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -181,10 +174,10 @@ Kyle Kucharski/ZDNET
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals still available
@@ -195,13 +188,6 @@ Lenovo
 * [Acer Nitro 17 for $1,177 (save $222 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOcta-Core-GeForce-Display-Backlit-AN17-41-R7G3%2Fdp%2FB0BTQ61Z6D%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This gaming laptop boasts a wide 17-inch display with a 165Hz refresh rate and is built with an Nvidia GeForce RTX 4056 graphics card.
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals still available
 
@@ -219,6 +205,13 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals still available
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -226,33 +219,40 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -319,20 +319,18 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-detailed-examination-of-mycam-for-smart-home-setups/"><u>[New] A Detailed Examination of MyCam for Smart Home Setups</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-gold-standard-of-livestream-performances/"><u>[New] In 2024, Gold Standard of Livestream Performances</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-photoharmony-android-and-ios-instagram-collages/"><u>2024 Approved PhotoHarmony Android & iOS Instagram Collages</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725290122879-winxvideo-ai/"><u>利用 Winxvideo AI 技術提升影片質量達到前所未有</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/can-the-asus-rog-keris-ii-ace-outdo-the-deathadder-v3-pro-an-expert-comparison-and-review/"><u>Can the Asus ROG Keris II Ace Outdo the DeathAdder V3 Pro? An Expert Comparison and Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-pny-rp60s-1tb-solid-state-drive-fairly-competent-but-lacks-distinction/"><u>Comprehensive Analysis of PNY RP60's 1TB Solid-State Drive: Fairly Competent but Lacks Distinction</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-nvme-cooling-with-our-comprehensive-review-of-the-uphere-m201-heatsink-for-under-5/"><u>Discover the Best Value in NVMe Cooling with Our Comprehensive Review of the UpHere M201 Heatsink for Under $5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-technology-insights-comprehensive-guides-and-reviews/"><u>Exploring Electronics with Tom's Technology Insights: Comprehensive Guides & Reviews</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-nokia-g310-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia G310 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-14-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 14 Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-tvos-18-upgrade-improves-apple-tv-conversations-with-superior-audio-quality-insights-from-zdnet/"><u>How tvOS 18 Upgrade Improves Apple TV Conversations with Superior Audio Quality - Insights From ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203762665-laptop-microphone-malfunctions-heres-how-you-can-get-it-working-again/"><u>Laptop Microphone Malfunctions? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-choices-made-easy-by-toms-tech-wisdom/"><u>Navigating Hardware Choices Made Easy by Tom's Tech Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-level-gaming-visual-experience-with-the-27-black-oled-display-by-dough-spectrum-review-and-evaluation/"><u>Next-Level Gaming Visual Experience with the 27 Black OLED Display by Dough Spectrum - Review & Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gear-the-comprehensive-toms-hardware-analysis/"><u>Unveiling Top Gear: The Comprehensive Tom's Hardware Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[New] Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-beyond-basics-pro-tips-for-sticker-queries-on-instagram/"><u>[Updated] Beyond Basics Pro Tips for Sticker Queries on Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lenovo-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lenovo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-hub/"><u>Expert Advice on Computer Components From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-gear-by-toms-electronics-hub/"><u>Expert Analysis on PC Gear by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-asus-rog-strix-g16-2-now-a-steal-at-1164-on-amazon/"><u>Get Your Hands-On the Latest ASUS ROG Strix G16 2# - Now a Steal at $1,164 on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-7-leading-alarm-apps-on-your-phone/"><u>The Ultimate Selection: 7 Leading Alarm Apps on Your Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-solution-to-fix-the-missing-normalizdll-issue/"><u>The Ultimate Solution to Fix the 'Missing Normaliz.dll' Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-building-a-pc-tips-from-toms-hardware/"><u>Ultimate Guide to Building a PC - Tips From Tom's Hardware</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/umzug-auf-ein-ssd-eine-anleitung-fur-die-migration-von-betriebssystemen-windows-111087-mit-4-schritten/"><u>Umzug Auf Ein SSD: Eine Anleitung Für Die Migration Von Betriebssystemen Windows 11/10/8/7 Mit 4 Schritten</u></a></li>
 </ul></div>
 

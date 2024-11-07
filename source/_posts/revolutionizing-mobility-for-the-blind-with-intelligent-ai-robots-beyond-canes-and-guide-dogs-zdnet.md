@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Mobility for the Blind with Intelligent AI Robots - Beyond Canes and Guide Dogs | ZDNET
-date: 2024-09-18 11:56:56
-updated: 2024-09-20 10:21:38
+date: 2024-11-02T06:36:30.818Z
+updated: 2024-11-06T18:18:53.012Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,38 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-lightening-your-day-with-humor-comical-facebook-detention-memes/"><u>[Updated] In 2024, Lightening Your Day with Humor Comical Facebook Detention Memes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-ig-potential-strategies-for-accumulating-1000plus-likesmonth/"><u>[Updated] Unlocking IG Potential Strategies for Accumulating 1,000+ Likes/Month</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-choose-between-filmora-and-democreator/"><u>2024 Approved How to Choose Between Filmora and Democreator</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-critique-of-the-gigabyte-g6xs-functionality-capable-for-battles-without-notable-distinctions/"><u>A Critique of the Gigabyte G6X's Functionality: Capable for Battles, Without Notable Distinctions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/community-gardens-and-cooperatives/"><u>Community Gardens and Cooperatives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-through-youtube-partnerships/"><u>Earning Through YouTube Partnerships</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-gadget-hub-unlocking-the-best-in-technology/"><u>Expert Reviews by Tom’s Gadget Hub - Unlocking the Best in Technology</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-magic-vs-2-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor Magic Vs 2 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-philips-evonia-49m2c8900-monitor-with-quantum-dot-oled-technology-for-gaming-excellence-240hz/"><u>In-Depth Analysis: Philips Evonia 49M2C8900 Monitor with Quantum Dot OLED Technology for Gaming Excellence (240Hz)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-6tb-capacity-and-sturdy-design-of-my-passport-by-western-digital/"><u>In-Depth Look at the 6TB Capacity and Sturdy Design of My Passport by Western Digital</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-color-correction-in-final-cut-pro/"><u>New 2024 Approved Color Correction in Final Cut Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/optimized-motion-the-creme-de-la-liste-of-srt-upgrades-for-pc-and-mac/"><u>Optimized Motion The Crème De La Liste of SRT Upgrades for PC and Mac</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-redmi-k70-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi K70 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sabrents-m2-2242-nano-1tb-ssd-tested-and-analyzed-is-it-the-ideal-baseline-drive-for-your-system/"><u>Sabrent's M.2 2242 Nano 1TB SSD Tested & Analyzed – Is It The Ideal Baseline Drive For Your System?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-balance-of-telecommuting-vs-office-presence-advantages-prevail-amid-potential-obstacles-ahead-analyzed-on-zdnet/"><u>The Balance of Telecommuting vs Office Presence: Advantages Prevail Amid Potential Obstacles Ahead | Analyzed on ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-your-guide-to-the-latest-tech/"><u>Tom's Computer Review: Your Guide to the Latest Tech</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-sabrent-rocket-nano-a-comprehensive-review-of-the-m2-2242-1tb-ssd-benchmark-king/"><u>Unboxing the Sabrent Rocket Nano: A Comprehensive Review of the M.2 2242 1TB SSD Benchmark King</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

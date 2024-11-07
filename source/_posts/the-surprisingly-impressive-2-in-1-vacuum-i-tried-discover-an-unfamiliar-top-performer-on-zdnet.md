@@ -1,7 +1,7 @@
 ---
 title: "The Surprisingly Impressive 2-in-1 Vacuum I Tried: Discover an Unfamiliar Top Performer on ZDNET"
-date: 2024-09-19 13:27:20
-updated: 2024-09-20 11:22:33
+date: 2024-11-02T00:27:52.008Z
+updated: 2024-11-06T20:33:05.384Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-proven-youtube-intra-creation-strategies-free-edition/"><u>[Updated] Proven YouTube Intra Creation Strategies, Free Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-flat-text-into-sculptable-3d-characters/"><u>[Updated] Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723202-cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2-reconnected-solutions-to-the-common-connection-problems/"><u>Destiny 2 Reconnected: Solutions to the Common Connection Problems</u></a></li>
+<li><a href="https://win-community.techidaily.com/diy-bootable-windows-server-2022-drive-with-this-simple-tutorial/"><u>DIY Bootable Windows Server 2022 Drive with This Simple Tutorial!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computing-from-tomntech-space/"><u>Expert Advice on Computing From Tom'nTech Space</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fixing-vss-volume-shadow-copy-service-problems-on-windows-10-7-and-8-comprehensive-guide/"><u>Fixing VSS (Volume Shadow Copy Service) Problems on Windows 10, 7 & 8 - Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-speed-computing-on-lattepanda-mu-is-it-worth-more-than-raspberry-pi-5/"><u>High-Speed Computing on LattePanda Mu - Is It Worth More Than Raspberry Pi 5?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-the-gigabyte-g6x-game-machine-reliable-fun-with-missing-highlights/"><u>Inside Look at the Gigabyte G6X Game Machine: Reliable Fun with Missing Highlights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-quell-the-no-email-malfunction-in-app/"><u>Mastering Windows 11: Quell the No Email Malfunction in App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-assessment-navigating-the-allure-of-design-and-the-underwhelming-ai-capabilities/"><u>Microsoft Surface Pro Assessment: Navigating the Allure of Design and the Underwhelming AI Capabilities</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-11-bluetooth-audio-interruptions-a-step-by-step-guide/"><u>Resolving Windows 11 Bluetooth Audio Interruptions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-eco-performance-dissecting-the-power-of-teamgroups-ddr5-6000-t-force-vulcan-c30-memory-kit/"><u>The Future of Eco Performance: Dissecting the Power of TeamGroup's DDR5-6000 T-Force Vulcan C30 Memory Kit</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-truth-behind-the-frame-rate-drops-in-call-of-dutys-latest-installment-uncovering-the-reasons-and-fixes-for-modern-warfare-3s-fps-problems/"><u>The Truth Behind the Frame Rate Drops in Call of Duty's Latest Installment - Uncovering the Reasons and Fixes for Modern Warfare 3'S FPS Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-software/"><u>Tom's Tech Review: Expert Insights on Hardware and Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-when-style-overshadows-subpar-effectiveness-in-our-detailed-review/"><u>Valkyrie Vind SL125 - When Style Overshadows Subpar Effectiveness in Our Detailed Review</u></a></li>
+</ul></div>
+

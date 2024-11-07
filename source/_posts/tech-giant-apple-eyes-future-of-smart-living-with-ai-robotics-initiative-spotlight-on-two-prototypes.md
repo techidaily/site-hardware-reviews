@@ -1,7 +1,7 @@
 ---
 title: Tech Giant Apple Eyes Future of Smart Living With AI Robotics Initiative, Spotlight on Two Prototypes
-date: 2024-09-17 11:28:39
-updated: 2024-09-20 12:19:33
+date: 2024-11-01T15:23:19.915Z
+updated: 2024-11-07T07:39:10.343Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-the-hottest-templates-in-igs-vfx-community/"><u>[New] In 2024, Navigating the Hottest Templates in IG's VFX Community</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-15-steps-towards-perfecting-your-educational-video-content-for-youtube/"><u>[Updated] In 2024, 15 Steps Towards Perfecting Your Educational Video Content for YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-11-insider-secrets-for-windows-11-mastery-for-2024/"><u>[Updated] Top 11 Insider Secrets for Windows 11 Mastery for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-high-definition-streaming-on-global-platforms-fb/"><u>2024 Approved Strategies for High Definition Streaming on Global Platforms (FB)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic-6-lite-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic 6 Lite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-computer-components-toms-tech-hub/"><u>Expert Insights on Latest Computer Components - Tom's Tech Hub</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-get-ready-to-be-amazed-the-best-4k-video-clips/"><u>In 2024, Get Ready to Be Amazed The Best 4K Video Clips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computer-components-with-toms-hardware-advice/"><u>Navigate the World of Computer Components with Tom’s Hardware Advice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-webs-big-players-an-overview-of-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web's Big Players: An Overview of Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-6-youtube-outro-makers-lots-of-free-options/"><u>Top 6 YouTube Outro Makers - Lots of FREE Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveil-the-secrets-of-quality-hardware-through-toms-lens/"><u>Unveil the Secrets of Quality Hardware Through Tom's Lens</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
+</ul></div>
+

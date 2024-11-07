@@ -1,7 +1,7 @@
 ---
 title: "Transforming the Uncanny: The Art of Making Spooky Smart with ChatGPT"
-date: 2024-09-17 17:48:50
-updated: 2024-09-20 11:14:26
+date: 2024-10-31T21:47:47.985Z
+updated: 2024-11-06T18:04:17.474Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-filmmakers-choice-for-steady-videos/"><u>[New] 2024 Approved Filmmaker's Choice for Steady Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/evolutionize-your-audience-youtube-marketing-101/"><u>[New] Revolutionize Your Audience YouTube Marketing 101</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-enhance-your-whatsapp-chats-ultimate-formatting-tips-and-shortcuts/"><u>1. Enhance Your WhatsApp Chats: Ultimate Formatting Tips and Shortcuts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazon-fire-tablet-hack-shifting-apps-to-external-sd-memory-for-enhanced-performance-and-storage-management/"><u>Amazon Fire Tablet Hack: Shifting Apps to External SD Memory for Enhanced Performance and Storage Management</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/android-leads-in-notification-innovation-outshining-iphone-features/"><u>Android Leads in Notification Innovation, Outshining iPhone Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benefits-unveiled-discover-five-compelling-reasons-to-opt-for-a-samsung-galaxy-tab-rather-than-an-ipad/"><u>Benefits Unveiled: Discover Five Compelling Reasons to Opt for a Samsung Galaxy Tab Rather Than an iPad.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/conserve-battery-and-reduce-data-usage-with-googles-streamlined-lightweight-android-applications/"><u>Conserve Battery & Reduce Data Usage with Google's Streamlined Lightweight Android Applications</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-hp-universal-printer-drivers-on-windows-pcs-easy-guide/"><u>Download HP Universal Printer Drivers on Windows PCs - Easy Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-energy-use-in-mobile-how-to-prevent-app-drain-with-androids-hidden-power-mode/"><u>Efficient Energy Use in Mobile: How to Prevent App Drain with Android's Hidden Power Mode</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effortless-steps-removing-repeated-data-from-your-android-device/"><u>Effortless Steps: Removing Repeated Data From Your Android Device</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans/"><u>In 2024, Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>In 2024, Perfect Your Pics Ideal Apps List for iPhones/Androids</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-back-in-time-xbox-classics-via-xemu-for-pc/"><u>Jump Back in Time: Xbox Classics via Xemu for PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/step-up-to-the-challenge-full-screen-mastery-for-fb-vids-for-2024/"><u>Step Up to the Challenge Full-Screen Mastery for FB Vids for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fix-for-nwstoreexe-application-errors-a-detailed-walkthrough/"><u>Ultimate Fix for 'nw_store.exe Application' Errors - A Detailed Walkthrough</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210655434-9781454931874-unicorn-your-life/"><u>Unicorn Your Life | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-steps-to-find-out-your-android-version-and-build-id/"><u>Unveiling the Steps to Find Out Your Android Version and Build ID</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-foldable-version-of-google-pixel-could-feature-a-simplified-photography-setup/"><u>Upcoming Foldable Version of Google Pixel Could Feature a Simplified Photography Setup</u></a></li>
+</ul></div>
+

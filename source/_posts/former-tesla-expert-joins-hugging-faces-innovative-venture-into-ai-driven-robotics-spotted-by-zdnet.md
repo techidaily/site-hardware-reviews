@@ -1,7 +1,7 @@
 ---
 title: Former Tesla Expert Joins Hugging Face's Innovative Venture Into AI-Driven Robotics - Spotted by ZDNet
-date: 2024-09-19 12:21:28
-updated: 2024-09-20 12:23:47
+date: 2024-11-02T12:12:27.115Z
+updated: 2024-11-07T01:07:05.152Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>[Updated] 2024 Approved Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-stream-on-discord-step-by-step-guide/"><u>[Updated] 2024 Approved How to Stream on Discord [Step-by-Step Guide]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-superior-titles-for-live-game-broadcasting/"><u>[Updated] In 2024, Superior Titles for Live Game Broadcasting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence-for-2024/"><u>[Updated] Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-reactive-content-unveiled/"><u>2024 Approved Twitter's Reactive Content Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-mixer-broadcasting-on-macos-systems/"><u>Conquer Mixer Broadcasting on macOS Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y27s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y27s Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-se-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone SE with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>In 2024, The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-errors-during-steam-game-setup-or-progressive-update-processes/"><u>Overcoming Errors During Steam Game Setup or Progressive Update Processes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-to-snipping-and-shaping-videos-directly-from-your-android-phone/"><u>Step-by-Step Guide to Snipping & Shaping Videos Directly From Your Android Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-turning-off-auto-update-feature-on-your-android-devices/"><u>Step-by-Step Guide: Turning Off Auto-Update Feature on Your Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-instructions-creating-new-browser-windows-instead-of-tabs-in-the-android-version-of-google-chrome/"><u>Step-by-Step Instructions: Creating New Browser Windows Instead of Tabs in the Android Version of Google Chrome</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-prevent-google-photos-from-prompting-deletion-approval/"><u>Steps to Prevent Google Photos From Prompting Deletion Approval</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-indispensable-android-widgets-enhance-your-smartphone-experience/"><u>Top 10 Indispensable Android Widgets: Enhance Your Smartphone Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-13-ios-15-functions-inspired-by-android-unveiling-apples-adaptations/"><u>Top 13 iOS 15 Functions Inspired by Android: Unveiling Apple's Adaptations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-android-wearables-of-2024-the-ultimate-guide/"><u>Top-Rated Android Wearables of 2024: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tutorial-using-apples-facetime-app-effectively-on-android-phones-and-tablets/"><u>Ultimate Tutorial: Using Apple's FaceTime App Effectively on Android Phones and Tablets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-smart-capabilities-of-android-operating-system/"><u>Understanding the Smart Capabilities of Android Operating System</u></a></li>
+</ul></div>
+

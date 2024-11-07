@@ -1,7 +1,7 @@
 ---
 title: Top 5 Revolutionary Technological Breakthroughs in 2
-date: 2024-10-31T19:41:20.176Z
-updated: 2024-11-01T18:55:19.777Z
+date: 2024-11-05T14:56:24.144Z
+updated: 2024-11-07T07:29:33.921Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -62,10 +62,10 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -83,10 +83,10 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -102,10 +102,10 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -150,15 +150,17 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-icy-innovations-on-ice-olympic-edition/"><u>[Updated] Icy Innovations on Ice - Olympic Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-win10s-elite-screen-recording-and-capture-software-selection/"><u>[Updated] In 2024, Win10's Elite Screen Recording & Capture Software Selection</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-understanding-user-generated-music-rights-on-instagram/"><u>[Updated] Understanding User-Generated Music Rights on Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/6-vital-video-forms-for-captivated-viewers/"><u>6 Vital Video Forms for Captivated Viewers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-in-depth-hardware-insights/"><u>Exploring Technology with Tom: In-Depth Hardware Insights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximizing-meteorological-measurements-for-less-in-depth-analysis-of-the-ambient-ws-2902a-osprey-gadget/"><u>Maximizing Meteorological Measurements for Less: In-Depth Analysis of the Ambient WS-2902A Osprey Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-tech-tools-at-toms-hardware-hub/"><u>Navigating the World of High-Tech Tools at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-with-the-uphere-m201-top-notch-nvme-ssd-cooler-for-a-steal-at-5/"><u>Stay Chilled with the UpHere M201: Top-Notch NVMe SSD Cooler for a Steal at $5!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-truth-about-bluehosts-hosting-options-cloud-vps-and-sharing-tested/"><u>Unveiling the Truth About Bluehost's Hosting Options - Cloud, VPS, and Sharing Tested</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-youtubes-sound-enhancement-techniques/"><u>[New] Mastering YouTube's Sound Enhancement Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-art-of-going-unseen-during-instagram-live-events/"><u>[Updated] The Art of Going Unseen During Instagram Live Events</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unraveling-top-6-your-guide-to-free-and-favored-shorts-downloaders/"><u>2024 Approved Unraveling Top 6 Your Guide to Free & Favored Shorts Downloaders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg2-cuilntess-gaming-display-27-inch-180hz-refresh-rate-on-a-premium-va-panel/"><u>Asus Unveils New ROG Strix XG2 Cuilntess Gaming Display: 27-Inch, 180Hz Refresh Rate on a Premium VA Panel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-nas-solutions-optimize-your-digital-space-with-reliable-storage-drives/"><u>Best NAS Solutions: Optimize Your Digital Space with Reliable Storage Drives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-tom-a-detailed-guide-by-toms-hardware/"><u>Exploring Hardware with Tom: A Detailed Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-computer-diary/"><u>Exploring the Latest Gadgets with Tom's Computer Diary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-beware-this-is-how-the-monoprice-crystal-pro-40-inch-144hz-screen-offers-big-savings-without-sacrificing-quality/"><u>Gamers Beware! This Is How the Monoprice Crystal Pro 40-Inch 144Hz Screen Offers Big Savings without Sacrificing Quality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/harmonic-hues-infusing-your-social-media-content-with-tunes/"><u>Harmonic Hues Infusing Your Social Media Content with Tunes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-90-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor 90 Phone Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862761277-the-ultimate-gamers-guide-to-the-dough-spectrum-black-27-oled-display-in-depth-reveal-on-exceptional-color-precision-and-premium-quality-output/"><u>The Ultimate Gamer's Guide to the Dough Spectrum Black 27 OLED Display: In-Depth Reveal on Exceptional Color Precision & Premium Quality Output</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unmatched-video-editing-excellence-macwin-edition/"><u>Unmatched Video Editing Excellence - Mac/Win Edition</u></a></li>
 </ul></div>
 

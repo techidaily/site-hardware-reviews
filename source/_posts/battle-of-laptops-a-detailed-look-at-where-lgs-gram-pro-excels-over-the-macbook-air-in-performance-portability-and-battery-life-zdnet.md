@@ -1,7 +1,7 @@
 ---
 title: "Battle of Laptops: A Detailed Look at Where LG's Gram Pro Excels Over the MacBook Air in Performance, Portability & Battery Life | ZDNet"
-date: 2024-10-25T20:40:18.779Z
-updated: 2024-11-01T18:38:17.587Z
+date: 2024-11-01T12:17:47.071Z
+updated: 2024-11-06T22:30:50.343Z
 tags:
   - laptops
 categories:
@@ -27,10 +27,10 @@ For those of us who'd been working with Linux for some time, that was more a bot
 We went hands-on with some of the best laptops on the market that can run Linux, testing their performance, battery, and features. Our pick for the best Linux laptop overall is the [Lenovo ThinkPad Z13 Gen 2](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1796374-REG%2Flenovo%5F21jv000dus%5F13%5F3%5Fthinkpad%5Fz13%5Fgen.html) is our top pick due to its more affordable price and customization options. Check out the rest of the list to learn about our other top picks. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The best Linux laptops of 2024
@@ -50,7 +50,21 @@ Cons
 * Not all CPU options support up to 64GB of RAM
 * Incompatible with discrete GPUs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lenovo ThinkPad Z13
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best Linux laptop overall
 
@@ -108,13 +122,6 @@ Cons
 
 ## Acer Swift Edge
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best AMD-based Linux laptop
 
 The Acer Swift Edge 16 is an excellent AMD-based laptop that supports [three different versions of Linux](https://www.amd.com/en/support/linux-drivers): RHEL x86 64-bit, Ubuntu x86 64-bit, and SLED/SLES 15\. The AMD Ryzen 7 7840U processor uses the brand's new AI engine for better power efficiency and performance, letting you multitask with fewer issues. 
@@ -141,13 +148,6 @@ Cons
 * Expensive
 * No AMD option
 * No 4K or touchscreen display options
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MSI Stealth Studio AI
 
@@ -177,6 +177,13 @@ Cons
 * Expensive
 * Somewhat thick and heavy design
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Microsoft Surface Laptop Studio 2
 
 ### Best battery life in a Linux laptop
@@ -193,13 +200,6 @@ Both Kerry Wan and Max Buondonno of ZDNET got to try out the Surface Laptop Stud
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best Linux laptop?
 
 My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is no stranger to offering Linux support for their laptops and desktops, and the ThinkPad Z13 takes the cake. It also offers several configuration options to help tailor the laptop to your specific work, learning, or hobbyist programmer/coder needs. It also has a more affordable price than some other options on the market, retailing for about $1200\. This makes it a great option for beginners and hobbyists who might not want to drop a lot of money on something they may not use much.
@@ -213,6 +213,13 @@ My choice for the best Linux laptop is the Lenovo ThinkPad Z13 Gen 2\. Lenovo is
 | Microsoft Surface Laptop Studio 2 | $2,500    | Up to Intel Core i7-13800H/Up to Nvidia RTX 4060                    | 19 hours         |
 
 \*MSRP at time of writing. Please note that actual retail pricing may vary depending on the seller as well as available deals and promotions. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Linux laptop is right for you?
 
@@ -246,10 +253,10 @@ While we were researching and testing each Linux-compatible laptop on this list,
 * **Configurability:** No two users will have the exact same needs when using a Linux laptop. Each model chosen for our list has been verified to allow users to drop in new components, expand memory, and add storage drives.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Linux?
@@ -261,13 +268,6 @@ Linux is an open-source operating system, created by Linus Torvalds, that is not
 This is a bit of a complicated answer.
 
 Yes, you can run Linux operating systems on MacBooks, Mac Minis, and Mac desktops. But there's a catch: you have to opt for an older model that uses an Intel Core processor instead of Apple's own M1 or M2 chips. Apple's silicon chips are starting to see Linux hobbyists and pros alike build support, but at the time of writing, the only reliable way to get Linux to run on an M1/M2 Mac is to use a [virtual machine](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine/) which is a type of emulation program.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there disadvantages to running Linux instead of Windows or MacOS?
 
@@ -281,18 +281,18 @@ When talking about programming and coding, you may come across the term "open-so
 
 Linux is popular with programmers since it is open-source, which means that it's easy to try and make your own modifications or command lists. Or you can work together with the Linux community to resolve common bug issues or create new support programs for hardware like Apple's M3 Silicon Chips. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's the oldest computer you can run with Linux?
 
 The great thing about Linux is that it is an open source operating system. Which means there are a lot of different versions out there on forums and also the Internet Archive. And since there are so many different release versions, newcomers looking to save money on their first dedicated or dual-boot Linux machine can pick up a vintage computer at a thrift store, estate sale, or other secondhand store and likely find an operating system version that will run with it.
 
 A thread on the [Linux Mint Forums](https://forums.linuxmint.com/viewtopic.php?t=228393) is full of users who were able to use various versions of Linux Mint as well as Puppy (a version of Linux designed to be run from a flash drive, making it great for hobbyists who restore vintage tech) and Ubuntu on Windows Vista and Windows 98 computers (which intrepid tech hunters may be able to find for a bargain at a thrift store or secondhand online). And Tech Tangents on YouTube, a channel dedicated to restoring and archiving retro computer hardware and software, was able to revive a [TeleVideo 950 terminal](https://www.youtube.com/watch?v=ob7cEzXLxXU) that was originally released in 1980 and use a version of Linux on it. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Linux laptops we tested
 
@@ -340,24 +340,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/xpert-voice-editing-software-for-video-content-makers/"><u>[New] Expert Voice Editing Software for Video Content Makers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits/"><u>[New] In 2024, From Basics to Brilliance The Ultimate Guide to HDR Portraits</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-anointing-editors-without-spending-a-dime/"><u>2024 Approved Anointing Editors Without Spending a Dime</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-keris-ii-ace-the-gamers-choice-over-deathadder-v3-pro-in-depth-review/"><u>Asus ROG Keris II Ace: The Gamer's Choice Over DeathAdder V3 Pro - In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-performance-stunning-visual-fidelity-on-the-gigabyte-aorus-co49dq-oled-for-gamers/"><u>Breaking Down Performance: Stunning Visual Fidelity on the Gigabyte Aorus CO49DQ OLED for Gamers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ex3700-wireless-range-extender-by-netgear-ac750-a-full-review-for-potential-buyers-with-tips-and-comparisons/"><u>EX3700 Wireless Range Extender by Netgear AC750: A Full Review for Potential Buyers with Tips & Comparisons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-perspective-on-gigabytes-g6x-laptop-competent-but-without-any-standout-features/"><u>Gamers' Perspective on Gigabyte's G6X Laptop: Competent but Without Any Standout Features</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-m54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy M54 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-canon-mf743-cddvd-drive-on-windows-step-by-step-guide-to-download-and-setup/"><u>Installing Canon MF743 CD/DVD Drive on Windows – Step-by-Step Guide to Download and Setup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trends-the-ultimate-resource-from-toms-hardware/"><u>Navigating New Tech Trends - The Ultimate Resource From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-the-revolutionary-4tb-wd-blue-sn5000-solid-state-drive-from-western-digital/"><u>Performance Insights on the Revolutionary 4TB WD Blue SN5000 Solid State Drive From Western Digital</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/reiniciando-su-pc-tres-formas-sencillas-de-reconfigurar-los-servicios-de-actualizacion-de-microsoft-windows/"><u>Reiniciando Su PC - Tres Formas Sencillas De Reconfigurar Los Servicios De Actualización De Microsoft Windows</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/secure-your-vmware-and-hyper-v-365-data-effortlessly-discover-the-power-of-our-complimentary-backup-solution/"><u>Secure Your VMware and Hyper-V 365 Data Effortlessly: Discover the Power of Our Complimentary Backup Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-deep-dive-into-cutting-edge-hardware/"><u>Tom's Tech Insights: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-unresponsive-dns-quick-and-effective-solutions/"><u>Troubleshoot Your Unresponsive DNS: Quick & Effective Solutions!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vrs-current-creative-conundrum-latest-insights/"><u>VR's Current Creative Conundrum - Latest Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-nighttime-narratives-in-pixels/"><u>[New] Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-hidden-treasure-of-free-macos-transcription-tools-for-2024/"><u>[Updated] Hidden Treasure of Free macOS Transcription Tools for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-podcast-vs-youtube-the-ideal-medium-explored/"><u>2024 Approved Podcast vs YouTube The Ideal Medium Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-innovations-at-toms-tech-hub/"><u>Exploring the Latest Innovations at Tom's Tech Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-converter-imagens-webp-para-gif-online-no-site-do-movavi/"><u>Gratuito: Converter Imagens WEBP Para GIF Online No Site Do Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-honor-70-lite-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Honor 70 Lite 5G Phones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computing-world-top-picks-in-hardware-and-software/"><u>Inside Tom’s Computing World: Top Picks in Hardware and Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-adol-book-asus-latest-innovation-a-laptop-with-built-in-scent-technology/"><u>Introducing the Adol Book: Asus' Latest Innovation - A Laptop with Built-In Scent Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-thinks-bigger-with-thinkpad-p1-gen-7-the-ultimate-gaming-and-work-machine-sporting-the-latest-lpcamm2-memory-for-superior-performance-in-a-compact-fo33/"><u>Lenovo Thinks Bigger With ThinkPad P1 Gen 7 - The Ultimate Gaming & Work Machine Sporting the Latest LPCAMM2 Memory for Superior Performance in a Compact Form</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-tips-and-reviews-by-tomhardware/"><u>Navigating the World of Computer Hardware: Tips & Reviews by TomHardware</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-mkv-trimming-software-top-10-picks-for-2024/"><u>New Free MKV Trimming Software Top 10 Picks for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728506183866-pc/"><u>PCフォーマット前にハードドライブ容量を最適化する方法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-copilotplus-gaming-with-prism-optimizations-and-cross-platform-cheat-blocking-microsofts-latest-endeavor-revealed/"><u>Revolutionizing Copilot+ Gaming with Prism Optimizations & Cross-Platform Cheat Blocking – Microsoft's Latest Endeavor Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-a-sizzling-deal-on-asuss-rog-zephyrus-g16-intel-ultra-9-chipset-and-nvidia-rtx-at-massive-savings/"><u>Score a Sizzling Deal on ASUS's RoG Zephyrus G16 - Intel Ultra 9 Chipset & NVIDIA RTX at Massive Savings!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-discover-essential-reviews-from-toms-hardware/"><u>Stay Ahead of the Curve: Discover Essential Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-samsung-galaxy-watch-active-your-guide-to-health-and-activity-monitoring/"><u>Unveiling the Samsung Galaxy Watch Active: Your Guide to Health and Activity Monitoring</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wallet-friendly-360-degree-video-technology/"><u>Wallet-Friendly 360-Degree Video Technology</u></a></li>
 </ul></div>
 

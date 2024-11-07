@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Combo Deal of NordVPN & MS365 at Only $40 Today!"
-date: 2024-10-31T18:33:01.461Z
-updated: 2024-11-01T17:51:57.081Z
+date: 2024-11-01T17:49:59.957Z
+updated: 2024-11-07T01:21:44.351Z
 tags:
   - laptops
 categories:
@@ -101,6 +101,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Samsung 55-inch OLED S95B Series 4K TV for $1,700 (save $450) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/samsung-55%22-class---oled-s95b-series---4k-uhd-tv---allstate-3-year-protection-plan-bundle-included-for-5-years-of-total-coverage%2A.product.4000045530.html)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday laptop & computer deals still available**
 
 [Acer Aspire Vero 14-inch Intel Core i5 for $450 (save $250) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/acer-aspire-vero-14%22-laptop---12th-gen-intel-core-i5-1235u---1080p---windows-11.product.4000055208.html)
@@ -109,13 +116,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Acer Swift Edge 16" 4K OLED Laptop for $1,000 (Save $500) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/acer-swift-edge-16%22-4k-oled-laptop---amd-ryzen-7-6800u---windows-11.product.4000056371.html)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Costco Cyber Monday gaming deals still available**
 
 [HP Victus gaming desktop Radeon RX 6600XT for $700 (Save $300) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/hp-victus-gaming-desktop---amd-ryzen-7-5700g---radeon-rx-6600xt.product.4000056482.html)
@@ -123,13 +123,6 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Xbox Series S Console for $240 (Save $60) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/xbox-series-s-console.product.4000064893.html)
 
 [MSI Aegis RS Gaming Desktop for $3,600 (Save $400) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/msi-aegis-rs-gaming-desktop---intel-core-i9-12900kf----geforce-rtx-3080ti.product.100847630.html)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Costco Cyber Monday streaming device deals still available**
 
@@ -156,10 +149,10 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 [Apple AirPods (2nd Gen) for $100 (save $20) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/apple-airpods-wireless-headphones-with-charging-case-%282nd-generation%29.product.100487204.html)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Costco Cyber Monday smartwatch deals still available**
@@ -174,6 +167,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 
 [Google Nest Cam 3-Pack for $300 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/google-nest-cam-%28outdoor-or-indoor%2c-battery%29-3-pack.product.100798317.html)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Costco Cyber Monday smart home deals still available**
 
 [Blink whole-home security system bundle for $200 (Save $100) View now at Costco](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/blink-whole-home-security-system-bundle.product.100805528.html)
@@ -185,6 +185,13 @@ Samsung's 65-inch QN859BF Series is seeing a $900 price drop ahead of Black Frid
 ## How did we choose these Cyber Monday Costco deals?
 
 As a Costco member, I'm always on the lookout for the best deals and, thankfully, Costco makes this easy by consistently offering great deals on high-quality items. Here at ZDNET, we do the legwork for you and round up the best ones through research, experience, and our own expertise.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's the best Costco membership type?
 
@@ -208,10 +215,10 @@ Costco opened at 9:00 am on Black Friday, November 25, 2022\.
 Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals at Costco were online-only, as is the tradition for the Cyber Monday sale.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When was Cyber Monday 2022?
@@ -219,10 +226,10 @@ Though most warehouses open at 10:00am Monday through Friday, Cyber Monday deals
 Cyber Monday takes place on the next Monday following the Thanksgiving holiday and Black Friday. This year it was on November 28, 2022\. We combed through all the best Cyber Monday deals as the day went on, to bring you the latest ones available.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2022?
@@ -253,19 +260,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Holiday deals by category**
 
 * [The best holiday 2022 gaming deals](https://www.zdnet.com/home-and-office/home-entertainment/best-holiday-gaming-deals-2022/)
@@ -293,10 +287,10 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
@@ -347,17 +341,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>2024 Approved Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-reverse-image-scanning-on-instagram-photos/"><u>2024 Approved Mastering Reverse Image Scanning on Instagram Photos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gaming-monitor-insight-asrocks-pg27qft2a-with-ultra-fast-180-hz-display-analyzed/"><u>Gaming Monitor Insight: ASRock's PG27QFT2A with Ultra-Fast 180 Hz Display Analyzed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-nord-n30-se-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Nord N30 SE Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/professionalizing-your-youtube-income-with-universal-tech-tips-for-2024/"><u>Professionalizing Your YouTube Income with Universal Tech Tips for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/revealing-invisible-words-within-pictures-of-word-files-techniques-explored/"><u>Revealing Invisible Words Within Pictures of Word Files: Techniques Explored</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-hardware-solutions/"><u>Tom's Ultimate Guide to Cutting-Edge Hardware Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/trasformare-i-file-mp3-in-avi-gratuitamente-online-utilizzando-e/"><u>Trasformare I File MP3 in AVI Gratuitamente Online Utilizzando E</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023-for-2024/"><u>Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023 for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-toms-authoritative-hardware-reviews/"><u>Unlocking Performance Secrets: Tom's Authoritative Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-digital-tools-top-picks-from-toms-comprehensive-hardware-guide/"><u>Unveiling Digital Tools: Top Picks From Tom’s Comprehensive Hardware Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/why-microsofts-upscaler-is-essential-the-key-attraction-of-upgrading-to-a-copilotplus-gaming-pc/"><u>Why Microsoft's Upscaler Is Essential: The Key Attraction of Upgrading to a CoPilot+ Gaming PC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[New] 2024 Approved The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertly-edited-beginnings-anywhere/"><u>[Updated] Expertly Edited Beginnings, Anywhere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-developers-roadmap-to-building-intelligent-web-solutions-using-chatgpt/"><u>A Developer's Roadmap to Building Intelligent Web Solutions Using ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-diskusage-in-windows-strategies-for-effective-drive-space-analysis/"><u>Decoding DiskUsage in Windows: Strategies for Effective Drive Space Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descarga-gratuita-de-imovie-para-windows-guia-completa-y-mejores-opciones/"><u>Descarga Gratuita De iMovie Para Windows: Guía Completa Y Mejores Opciones</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-13-miniipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 13 mini/iPad/iPod</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>In 2024, The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-visuals-quick-and-costless-video-downloads-on-pinterest/"><u>In 2024, Unlock Your Visuals Quick & Costless Video Downloads on Pinterest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis52/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-the-ultimate-bargain-279-32-dell-s322dmg-monitor-perfect-for-gamers-this-memorial-day/"><u>Score the Ultimate Bargain: $279 32” Dell S322DMG Monitor, Perfect for Gamers This Memorial Day!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/spectacular-gaming-screen-bargain-acer-nitro-34-curved-wqhd-monitor-for-just-200-on-newegg/"><u>Spectacular Gaming Screen Bargain – Acer Nitro 34 Curved WQHD Monitor for Just $200 on Newegg.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer & Gadget Analysis</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-8-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 8</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-cutting-edge-hardware-by-toms-technology-digest/"><u>Ultimate Guide to Cutting-Edge Hardware by Tom's Technology Digest</u></a></li>
 </ul></div>
 

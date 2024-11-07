@@ -1,7 +1,7 @@
 ---
 title: "1. Microsoft Introduces Copilot+ Support for Surface Products Targeting Professionals: Key Updates Revealed"
-date: 2024-10-29T18:56:45.178Z
-updated: 2024-11-01T16:06:27.394Z
+date: 2024-11-06T12:52:01.460Z
+updated: 2024-11-07T03:45:13.559Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,13 @@ As a hybrid option for those who want the best of both worlds, a smart notebook 
 
 To help you decide which smart notebooks are worth the investment, we tested and researched the best ones on the market, considering notebook feel, storage capabilities and options, special features, and price. Based on our hands-on experience, our pick for the best smart notebook overall is the [Boox Note Air 3 C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBOOX-Tablet-Note-Air-ePaper%2Fdp%2FB0CHF423CP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf008f522-6e1c-4462-8dcb-b33a0fcc70ed%7Cdtp&dtb=1) thanks to its note-taking and productivity features and smooth color display. We also included notebooks from brands like Kindle, Rocketbook, and others that ZDNET staff use and recommend. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best smart notebooks of 2024
 
 Show less 
@@ -40,7 +47,21 @@ Pros
 Cons 
 * Screen can lag when browsing web or watching videos
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Boox Note Air 3 C
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smart notebook overall
 
@@ -72,13 +93,6 @@ Cons
 
 ## Rocketbook Fusion Smart Notebook
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best budget smart notebook
 
 The Rocketbook Fusion Smart Notebook has versatile page and template options for only $40\. The notebook's synthetic paper allows you to write with the included Pilot FriXion pen, then wipe the page clean with a damp cloth to reuse it repeatedly.
@@ -106,14 +120,14 @@ Cons
 * Premium pen upgrade will cost you more
 * Does not support note-taking on magazines or newspapers
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Kindle Scribe
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smart notebook for reading
 
@@ -177,13 +191,6 @@ Cons
 
 ## reMarkable 2
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best smart notebook splurge
 
 Those diligent note-takers looking to really splurge on a smart reusable notebook should consider the reMarkable 2\. This notebook is more of a [large-screen tablet](https://www.zdnet.com/article/best-large-tablet/) with a low-latency E-Ink writing experience that makes you feel like you're writing on paper rather than on a tablet screen. In addition, with reMarkable's cloud app called Connect, you get access to standout features like screen share, handwriting conversion, unlimited cloud storage, and more.
@@ -199,10 +206,10 @@ The reMarkable 2 comes with the option of either the Marker or Marker Plus pen t
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Digital notebooks, compared
@@ -261,21 +268,7 @@ A lot of these digital notebooks can also be categorized as tablets. When we tes
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Frequently Asked Questions:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best smart pen for my electronic notebook?
 
@@ -286,22 +279,15 @@ Our best pick for smart pens would have to be the [Apple Pencil](https://www.zdn
 [Wacom Bamboo Ink $41.6 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB081LKC91V%2Fref%3Dasc%5Fdf%5FB081LKC91V1727780400000%3Fcreative%3D395261%26creativeASIN%3DB081LKC91V%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf008f522-6e1c-4462-8dcb-b33a0fcc70ed%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do they come with a smart pen or are those sold separate?
 
 Most smart notebooks already include a smart pen, but it will also depend on the manufacturer and specific model. Smart notebooks such as reMarkable 2 and Wacom Bamboo Slate include the smart pen with their notebook. 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Would I recommend a smart notebook for students?
 
@@ -313,9 +299,23 @@ Keeping your notes and reminders organized on a single device for school is the 
 
 That depends on the specific product. For example, Rocketbook's lineup of smart notebooks are made with real paper, as is the Moleskine smart notebook. However, other options like the Kindle Scribe and the ReMarkable 2 have low-latency, e-ink screens that feel paper-like, but you can still definitely tell they are more of a tablet than an actual notebook with paper. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use an iPad as a smart notebook?
 
 While you won't get the "feel" of real paper with an iPad, you can use an iPad as a way to take notes digitally, especially if you have a quality stylus like the Apple Pencil. iOS apps like Noteflow allow you to take notes, annotate PDFs, sketch and doodle, and more while syncing to the cloud.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there alternative smart notebooks to consider?
 
@@ -363,20 +363,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-farewell-in-the-instagram-world/"><u>[New] Mastering the Art of Farewell in the Instagram World</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/2x48gb-powerhouse-unveiled-explore-the-might-of-gskills-trident-z5-rgb-ddr5-ram-for-ultimate-motherboard-pairing/"><u>2X48GB Powerhouse Unveiled: Explore the Might of G.SKILL's Trident Z5 RGB DDR5 RAM for Ultimate Motherboard Pairing!</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/effortless-transformation-of-mts-to-mov-videos-using-windows-software-tools/"><u>Effortless Transformation of MTS to MOV Videos Using Windows Software Tools</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/get-your-ideal-iphoneraser-today-shop-now/"><u>Get Your Ideal iPhonEraser Today – Shop Now!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-6-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 6 iOS System? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-8-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 8 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-computing-by-toms-hardware-experts/"><u>In-Depth Analysis of Cutting-Edge Computing by Tom's Hardware Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210551521-9798985735215-kosmos/"><u>Kosmos | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-choices-with-toms-detailed-hardware-analysis/"><u>Mastering Electronics Choices with Tom's Detailed Hardware Analysis</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-avidemux-sound-repair-expert-solutions/"><u>New 2024 Approved Avidemux Sound Repair Expert Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/t-force-vulcan-c30-from-teamgroup-unveiling-its-eco-friendly-ddr5-6000-prowess-in-a-detailed-review/"><u>T-Force Vulcan C30 From TeamGroup: Unveiling Its Eco-Friendly DDR5-6000 Prowess in a Detailed Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-pc-performance-to-the-next-level-with-crucials-pro-overclocking-ddr5-c36-ram-2x16gb-detailed-insights-and-benchmarks/"><u>Taking PC Performance to the Next Level with Crucial's Pro Overclocking DDR5 C36 RAM (2X16GB) - Detailed Insights & Benchmarks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-microsoft-surface-pro-xplored-copilotplus-addition-brings-beauty-and-questionable-ai-strength/"><u>The Microsoft Surface Pro Xplored – Copilot+ Addition Brings Beauty and Questionable AI Strength</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unleashing-your-viewing-experience-screen-recording-solutions/"><u>Unleashing Your Viewing Experience Screen Recording Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eamlessly-transition-media-formats-with-free-downloader-for-2024/"><u>[New] Seamlessly Transition Media Formats with Free Downloader for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-discovering-perfection-an-in-depth-look-at-lgs-4k-screen/"><u>[Updated] In 2024, Discovering Perfection An In-Depth Look at LG's 4K Screen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-quantifying-mr-beasts-earnings/"><u>[Updated] In 2024, Quantifying Mr. Beast's Earnings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-lose-yourself-to-laughter-best-10-jokes/"><u>[Updated] Lose Yourself to Laughter Best 10 Jokes</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-social-sightings-exploring-the-most-viewed-tweets-on-twitter-for-2024/"><u>[Updated] Social Sightings Exploring the Most Viewed Tweets on Twitter for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/gaming-on-one-disabling-cross-play-and-selecting-top-platforms-for-2024/"><u>Gaming on One Disabling Cross-Play and Selecting Top Platforms for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-best-free-subtitle-grabbers-from-youtube-archive/"><u>In 2024, Best Free Subtitle Grabbers From YouTube Archive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transforming-compact-pc-building-with-maxsuns-newly-engineered-backside-slot-mini-itx-board/"><u>Transforming Compact PC Building with Maxsun's Newly Engineered Backside Slot Mini-ITX Board</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-lag-issues-in-the-popular-game-outrider/"><u>Troubleshooting Common Lag Issues in the Popular Game Outrider</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-computer-components-by-toms-hardware-experts/"><u>Ultimate Guide to Computer Components by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-the-power-of-hardware-with-toms-wisdom/"><u>Unleash the Power of Hardware with Tom's Wisdom</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-new-ice-themed-z790-aorus-xtreme-x-golden-cpu-socket-and-dazzling-giant-m2-cooling/"><u>Unveiling Gigabyte's New Ice-Themed Z790 Aorus XTreme X: Golden CPU Socket & Dazzling Giant M.2 Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-journey-through-modern-technology/"><u>Unveiling New Gadgets with Tom - A Journey Through Modern Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-pc-hardware-with-toms-computing-experts/"><u>Unveiling the Best in PC Hardware with Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strengths-of-asuss-pro-b760m-ct-with-comprehensive-system-module-csm-reviewed/"><u>Unveiling the Strengths of Asus's Pro B760M-CT with Comprehensive System Module (CSM) Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-customers-can-now-order-loongson-cpu-equipped-mothers-and-systems-from-373-shipping-available/"><u>US Customers Can Now Order Loongson-CPU-Equipped Mothers & Systems From $373: Shipping Available</u></a></li>
 </ul></div>
 

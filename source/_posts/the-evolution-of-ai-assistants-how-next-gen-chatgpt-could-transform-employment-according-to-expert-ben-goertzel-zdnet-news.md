@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of AI Assistants: How Next-Gen ChatGPT Could Transform Employment, According to Expert Ben Goertzel | ZDNet News"
-date: 2024-09-18 22:39:11
-updated: 2024-09-20 11:45:27
+date: 2024-11-01T02:16:27.653Z
+updated: 2024-11-07T12:54:20.204Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros/"><u>[New] In 2024, Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pictorial-perfection-proven-techniques-for-stunning-photos/"><u>[New] Pictorial Perfection Proven Techniques for Stunning Photos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-advanced-techniques-for-trimming-youtube-footage-for-2024/"><u>[Updated] Advanced Techniques for Trimming YouTube Footage for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-demystifying-video-seo-on-youtube-as-a-novice/"><u>[Updated] Demystifying Video SEO on YouTube as a Novice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-on-a-budget-an-in-depth-look-at-the-cytrn-maker-uno-rp2040-board-for-hobbyists/"><u>Building on a Budget: An In-Depth Look at the Cytrn Maker Uno RP2040 Board for Hobbyists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newly-released-realtek-bluetooth-drivers-for-enhanced-performance-in-windows-11-and-10/"><u>Download the Newly Released Realtek Bluetooth Drivers for Enhanced Performance in Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-the-ultimate-guide-to-electronics-hardware/"><u>Expert Reviews by Tom: The Ultimate Guide to Electronics Hardware</u></a></li>
+<li><a href="https://win-bits.techidaily.com/guia-paso-a-paso-para-transferir-una-particion-de-disco-a-otro-en-windows-11/"><u>Guía Paso a Paso Para Transferir Una Partición De Disco a Otro en Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-lian-lis-revolutionary-hydroshift-lcd-groovy-surround-gaming-tower-review/"><u>Inside Look at Lian Li's Revolutionary Hydroshift LCD Groovy Surround Gaming Tower Review</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premium-hardware-choices-for-uhd-editors/"><u>Premium Hardware Choices for UHD Editors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-and-electronics-gear-toms-insights/"><u>The Ultimate Resource for Computer and Electronics Gear: Tom’s Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insights-from-toms-hardware/"><u>Tom's Tech Review: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-safari-issues-with-these-proven-techniques-top-10/"><u>Troubleshoot Your iPhone's Safari Issues with These Proven Techniques (Top 10)</u></a></li>
+<li><a href="https://discover-community.techidaily.com/unlock-online-communication-potential-with-manycam-top-notch-virtual-webcam-solution/"><u>Unlock Online Communication Potential with ManyCam: Top-Notch Virtual Webcam Solution!</u></a></li>
+</ul></div>
+

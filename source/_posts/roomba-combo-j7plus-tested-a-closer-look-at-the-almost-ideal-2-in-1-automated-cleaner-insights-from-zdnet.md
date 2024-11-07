@@ -1,7 +1,7 @@
 ---
 title: "Roomba Combo J7+ Tested: A Closer Look at the Almost Ideal 2-in-1 Automated Cleaner | Insights From ZDNET"
-date: 2024-09-17 17:48:52
-updated: 2024-09-20 10:53:10
+date: 2024-11-01T04:39:42.907Z
+updated: 2024-11-07T12:29:00.221Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,28 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-beyond-inshot-top-pc-editing-solutions/"><u>[Updated] 2024 Approved Beyond Inshot Top PC Editing Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-innovative-video-designs-free-premiere-plans/"><u>[Updated] 2024 Approved Innovative Video Designs Free Premiere Plans</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-buying-made-simple-a-beginners-toolkit/"><u>[Updated] In 2024, Channel Buying Made Simple A Beginner’s Toolkit</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-zoomjoint-reporting/"><u>[Updated] ZoomJoint Reporting</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-v30-lite-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo V30 Lite 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-methods-for-relocating-apps-onto-external-sd-cards-on-your-android-device/"><u>Easy Methods for Relocating Apps Onto External SD Cards on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-upgrade-to-modern-displaylink-driver-for-your-windows-10-system/"><u>Seamless Upgrade to Modern DisplayLink Driver for Your Windows 10 System</u></a></li>
+</ul></div>
+

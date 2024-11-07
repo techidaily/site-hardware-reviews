@@ -1,7 +1,7 @@
 ---
 title: "Introducing Astro by Amazon: A Cutting-Edge Robot Guarding Businesses Against Cyber Threats"
-date: 2024-09-19 14:39:21
-updated: 2024-09-20 10:25:10
+date: 2024-11-02T00:16:27.749Z
+updated: 2024-11-07T02:12:06.753Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,23 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-exploring-the-in-depth-world-of-magix-video-pro-x-for-2024/"><u>[New] Exploring the In-Depth World of Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-netgear-ex3700-ac750-wireless-range-extender-performance/"><u>Comprehensive Analysis: Netgear EX3700 AC750 Wireless Range Extender Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-gadgets-with-toms-hardware-experts/"><u>Exploring Advanced Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-best-no-fee-livestream-options-on-all-devices-for-2024/"><u>In-Depth Analysis of Best No-Fee LiveStream Options on All Devices for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-hostingers-server-solutions-vps-cloud-hosting-and-more/"><u>In-Depth Review of Hostinger's Server Solutions - VPS, Cloud Hosting, and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341743664-keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-efficiency-with-advanced-technology-from-toms-equipment/"><u>Maximizing Efficiency with Advanced Technology From Tom's Equipment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-presentation-with-personalized-typography-in-ae-projects/"><u>Perfect Presentation with Personalized Typography in AE Projects</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-un65nu8000fxza-review-a-mediocre-smart-tv-at-a-high-price/"><u>Samsung UN65NU8000FXZA Review: A Mediocre Smart TV at a High Price</u></a></li>
+</ul></div>
+

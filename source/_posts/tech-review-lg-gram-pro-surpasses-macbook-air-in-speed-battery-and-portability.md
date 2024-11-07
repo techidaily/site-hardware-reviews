@@ -1,7 +1,7 @@
 ---
 title: "Tech Review: LG Gram Pro Surpasses MacBook Air in Speed, Battery & Portability"
-date: 2024-10-28T18:01:48.956Z
-updated: 2024-11-01T18:57:08.603Z
+date: 2024-11-02T09:45:51.475Z
+updated: 2024-11-07T13:06:17.398Z
 tags:
   - laptops
 categories:
@@ -46,19 +46,19 @@ Cons
 * Built-in speakers could be stronger
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best lightweight laptop overall
@@ -89,14 +89,14 @@ Cons
 * Generic design
 * Loud fans
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Acer Swift Go 14
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best lightweight laptop for AI
 
@@ -124,14 +124,14 @@ Cons
 * Compact size means it can run hot
 * Comes pre-loaded with bloatware
 
-## Asus ROG Zephyrus G14
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Asus ROG Zephyrus G14
 
 ### Best lightweight laptop for gaming
 
@@ -161,13 +161,6 @@ Pros
 Cons 
 * Design tradeoffs for ultra portability
 * Expensive
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## LG Gram Pro 17
 
@@ -200,13 +193,6 @@ Cons
 * Battery life is not the best
 * Expensive
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lenovo ThinkPad X1 Carbon
 
 ### Best lightweight laptop for work
@@ -223,6 +209,13 @@ It also comes with an 8MP webcam that can shoot in 4K, perfect for presenting a 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best lightweight laptop?
 
 The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take on almost anything you throw at it, and the entire package weighs just 2.7 pounds. 
@@ -234,6 +227,13 @@ The best lightweight laptop in 2024 is the [Apple MacBook Air M3](https://www.zd
 | ASUS ROG Zephyrus G14 | $1600             | AMD Ryzen 9 8945HS, GeForce RTX 4060             | 16GB, 1TB                   | 3.31             |
 | LG Gram Pro 17        | $1299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050 | 16GB, 1TB                   | 2.7              |
 | Lenovo X1 Carbon      | $2263             | Intel Core Ultra 5 125U, Intel Arc Graphics      | 16GB, up to 1TB             | 2.4              |
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which is the right lightweight laptop for you?
 
@@ -287,13 +287,6 @@ Most laptops today weigh between two and a half and five pounds, with a five-pou
 
 The heaviest laptops on this list are the Asus ROG Zephyrus G14 and the 15-inch MacBook Air M3, each weighing just 3.3 pounds. In the laptop world, that's light. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What slim laptop backpack do we recommend?
 
 We love lightweight laptops because they're easy to carry around. But the backpack you carry it in is just as important. There are many great backpacks out there for transporting your laptop, but here are a few we recommend.
@@ -301,6 +294,13 @@ We love lightweight laptops because they're easy to carry around. But the backpa
 **Also: [From everyday use to travel, these are the best backpacks](https://www.zdnet.com/home-and-office/best-backpack/)**
 
 [ZDNET RECOMMENDS Matein Travel Laptop Backpack Packed with travel-friendly features like a luggage strap and an anti-theft back pocket that protects your valuables, the Matein travel laptop is an inexpensive and solid travel backpack for your laptop. A bonus feature is an external USB charging port for easy charging on the go. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)[ZDNET RECOMMENDS Herschel Little America Backpack Herschel backpacks have a timeless design that's comfortable to wear thanks to the contoured padded back straps. It comes in two sizes which can hold up to a 13-inch laptop or a 15-inch laptop. Its drawstring closure expands to create extra storage space while the magnetic front straps secure what's inside. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB00838TCGO%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb372b0e0-f807-4ada-91fc-3819fe7f0ce6%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
@@ -356,22 +356,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-pro-youtube-gamers-broadcasting-journey/"><u>[New] 2024 Approved From Novice to Pro YouTube Gamers' Broadcasting Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-weaving-words-wisely-uncovering-the-top-8-writing-schools/"><u>[Updated] In 2024, Weaving Words Wisely Uncovering the Top 8 Writing Schools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>[Updated] Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/panasonic-lumix/"><u>「Panasonic Lumixで失われた写真を取り戻す方法」</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-critique-of-the-gigabyte-g6xs-functionality-capable-for-battles-without-notable-distinctions/"><u>A Critique of the Gigabyte G6X's Functionality: Capable for Battles, Without Notable Distinctions</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/accelerating-carlsberg-breweries-product-launch-time-to-market-strategies/"><u>Accelerating Carlsberg Breweries' Product Launch: Time-to-Market Strategies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/backtrack-innovation-box-for-2024/"><u>Backtrack Innovation Box for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/community-gardens-and-cooperatives/"><u>Community Gardens and Cooperatives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-gadget-hub-unlocking-the-best-in-technology/"><u>Expert Reviews by Tom’s Gadget Hub - Unlocking the Best in Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-philips-evonia-49m2c8900-monitor-with-quantum-dot-oled-technology-for-gaming-excellence-240hz/"><u>In-Depth Analysis: Philips Evonia 49M2C8900 Monitor with Quantum Dot OLED Technology for Gaming Excellence (240Hz)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-6tb-capacity-and-sturdy-design-of-my-passport-by-western-digital/"><u>In-Depth Look at the 6TB Capacity and Sturdy Design of My Passport by Western Digital</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-innovative-tips-for-achieving-accurate-language-translations/"><u>Navigating ChatGPT: Innovative Tips for Achieving Accurate Language Translations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sabrents-m2-2242-nano-1tb-ssd-tested-and-analyzed-is-it-the-ideal-baseline-drive-for-your-system/"><u>Sabrent's M.2 2242 Nano 1TB SSD Tested & Analyzed – Is It The Ideal Baseline Drive For Your System?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-windows-11-login-processes/"><u>Streamlining Windows 11 Login Processes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-your-guide-to-the-latest-tech/"><u>Tom's Computer Review: Your Guide to the Latest Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-sabrent-rocket-nano-a-comprehensive-review-of-the-m2-2242-1tb-ssd-benchmark-king/"><u>Unboxing the Sabrent Rocket Nano: A Comprehensive Review of the M.2 2242 1TB SSD Benchmark King</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-chorus-of-chats-music-infusion-in-whatsapp-for-2024/"><u>[New] Chorus of Chats Music Infusion in WhatsApp for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>[New] In 2024, '21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tackling-background-noise-in-virtual-presentations/"><u>[New] Tackling Background Noise in Virtual Presentations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-review-and-compare-streamlabs-and-embedding-platforms/"><u>[Updated] In 2024, Review and Compare StreamLabs & Embedding Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-sharpen-your-snaps-the-elite-eight-of-grids-and-frames/"><u>[Updated] Sharpen Your Snaps The Elite Eight of Grids and Frames</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-guide-to-successfully-post-movies-made-with-wmm-onto-vimeo/"><u>2024 Approved Guide to Successfully Post Movies Made with WMM Onto Vimeo</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-lite-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 Lite in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-into-the-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights Into the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transition-to-modern-light-management-with-asus-new-bios-and-microsoft-dynamic-lighting-a-smoother-alternative-to-armory-crate-solutions/"><u>Transition to Modern Light Management with Asus' New BIOS and Microsoft Dynamic Lighting: A Smoother Alternative to Armory Crate Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-7-quick-fixes-when-your-emojis-go-rogue-on-apple-gadgets/"><u>Troubleshooting: 7 Quick Fixes When Your Emojis Go Rogue on Apple Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-asrocks-latest-cutting-edge-amd-ryzen-9000-series-mobo-lineup/"><u>Unveiling ASRock's Latest: Cutting-Edge AMD Ryzen 9000 Series Mobo Lineup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-tech-secrets-toms-hardware-experts/"><u>Unveiling High-Performance Tech Secrets: Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-technology-with-toms-hardware-insights/"><u>Unveiling the Best in Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-gadgets-and-pcs-with-toms-detailed-reviews/"><u>Unveiling Top-Notch Gadgets & PCs with Tom’s Detailed Reviews</u></a></li>
 </ul></div>
 

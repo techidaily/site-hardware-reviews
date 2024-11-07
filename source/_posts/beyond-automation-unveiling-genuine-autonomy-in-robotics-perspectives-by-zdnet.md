@@ -1,7 +1,7 @@
 ---
 title: "Beyond Automation: Unveiling Genuine Autonomy in Robotics | Perspectives by ZDNET"
-date: 2024-09-19 17:53:24
-updated: 2024-09-20 12:33:12
+date: 2024-11-03T17:59:54.499Z
+updated: 2024-11-06T21:52:30.373Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-step-by-step-screen-shot-on-android-devices/"><u>[New] In 2024, Step-by-Step Screen Shot on Android Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-viral-videos-not-pricey-twitter-video-to-gif-conversion/"><u>[New] Viral Videos, Not Pricey Twitter Video to GIF Conversion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-colorful-conga-crow/"><u>[Updated] In 2024, Colorful Conga Crow</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-innovative-naming-solutions-for-channels-for-2024/"><u>[Updated] Innovative Naming Solutions for Channels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-mitigating-the-risk-of-youtube-sanctions/"><u>2024 Approved Mitigating the Risk of YouTube Sanctions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-and-economical-a-comprehensive-look-at-the-logitech-g515-lightspeed-tkl-keyboard/"><u>Compact and Economical: A Comprehensive Look at the Logitech G515 Lightspeed TKL Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-b760m-ds3h-ax-board-budget-friendly-entry-level-with-triple-monitor-support/"><u>Comprehensive Evaluation of the Gigabyte B760M DS3H AX Board - Budget-Friendly Entry Level with Triple Monitor Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-on-flsun-solar-panel-s1-with-warp-speed-efficiency/"><u>Comprehensive Review on FLSun Solar Panel S1 with Warp Speed Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-comprehensive-guides-on-gadgets-and-systems/"><u>Exploring Tech with Tom - Comprehensive Guides on Gadgets & Systems</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-an-insiders-look-at-tiktok-element-hierarchy/"><u>In 2024, An Insider's Look at TikTok Element Hierarchy</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12plus-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12+ 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c53-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C53 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-video-wins-essential-ideas-for-vloggers/"><u>In 2024, Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-computer-components-from-toms-gear-guides/"><u>In-Depth Analysis of Cutting-Edge Computer Components From Tom's Gear Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premium-pc-gaming-on-the-go-with-the-asus-rog-ally-x-a-comprehensive-review/"><u>Premium PC Gaming On-the-Go with the Asus ROG Ally X - A Comprehensive Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-invisible-thief-strikes-again-learning-the-9-hack-signals-early/"><u>The Invisible Thief Strikes Again: Learning the 9 Hack Signals Early</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-top-tech-gadgets-of-2023/"><u>Tom's Hardware Review: Top Tech Gadgets of 2023</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-the-best-tips-from-toms-hardware/"><u>Unlocking Computer Secrets: The Best Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-with-toms-guide/"><u>Unveiling Cutting-Edge Technology with Tom's Guide</u></a></li>
+</ul></div>
+

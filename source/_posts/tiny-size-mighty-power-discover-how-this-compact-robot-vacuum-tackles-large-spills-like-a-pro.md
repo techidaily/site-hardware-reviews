@@ -1,7 +1,7 @@
 ---
 title: "Tiny Size, Mighty Power: Discover How This Compact Robot Vacuum Tackles Large Spills Like a Pro"
-date: 2024-09-17 11:55:48
-updated: 2024-09-20 12:38:45
+date: 2024-10-31T16:59:31.393Z
+updated: 2024-11-07T01:22:09.148Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-superior-vr-equipment-for-drone-flight/"><u>[Updated] 2024 Approved Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skype-to-mp3-capturing-calls-at-no-charge/"><u>[Updated] In 2024, Skype to MP3 Capturing Calls at No Charge</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-pathway-including-vimeo-videos-for-2024/"><u>[Updated] Instagram's Pathway Including Vimeo Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-chromebooks-best-capture-tools-no-cost/"><u>2024 Approved Chromebook's Best Capture Tools (No Cost)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-cinematic-upgrade-gopro-hero5-black-vs-hero4-silver-edition/"><u>2024 Approved Cinematic Upgrade GoPro Hero5 Black vs Hero4 Silver Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oneplus-12-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from OnePlus 12 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267618003-act-fast-secure-state-of-the-art-photo-restoration-techniques-today/"><u>Act Fast: Secure State-of-the-Art Photo Restoration Techniques Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effortlessly-cutting-and-pasting-content-in-android-text-hyperlinks-and-visual-media-tips/"><u>Effortlessly Cutting & Pasting Content in Android: Text, Hyperlinks & Visual Media Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancing-sleep-with-android-bedtime-functionality-personal-experience-and-tips/"><u>Enhancing Sleep with Android Bedtime Functionality: Personal Experience and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-guide-calculating-necessary-internal-storage-for-optimal-performance-on-android-smartphones/"><u>Essential Guide: Calculating Necessary Internal Storage for Optimal Performance on Android Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exciting-tech-alert-the-release-date-for-nothing-phone-2-set-for-july-11th-revealed/"><u>Exciting Tech Alert: The Release Date for Nothing Phone 2 Set for July 11Th Revealed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-how-to-input-critical-emergency-health-information-into-your-android-smartphone/"><u>Guide: How to Input Critical Emergency Health Information Into Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-amazon-fire-tablets-unresponsive-play-store/"><u>How to Fix Amazon Fire Tablet's Unresponsive Play Store</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-selecting-superior-capture-cards-switch-style/"><u>In 2024, Selecting Superior Capture Cards, Switch Style</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ios-features-inspired-by-and-android/"><u>IOS, Features Inspired by, and Android.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/making-the-smart-choice-prioritizing-a-timeless-mobile-device-over-a-novelty-computer-accessory/"><u>Making the Smart Choice: Prioritizing a Timeless Mobile Device Over A Novelty Computer Accessory</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece-for-2024/"><u>The Secret Sauce for a Viral TikTok Unboxer Masterpiece for 2024</u></a></li>
+</ul></div>
+

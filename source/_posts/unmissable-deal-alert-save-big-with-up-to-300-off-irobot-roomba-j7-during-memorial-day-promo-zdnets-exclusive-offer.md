@@ -1,7 +1,7 @@
 ---
 title: "Unmissable Deal Alert: Save Big With Up To $300 Off iRobot Roomba J7 During Memorial Day Promo | ZDNet's Exclusive Offer!"
-date: 2024-09-18 13:20:31
-updated: 2024-09-20 10:37:32
+date: 2024-10-30T16:18:11.972Z
+updated: 2024-11-06T16:51:12.711Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,30 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-best-undersea-gopro-enhancements/"><u>[New] Best Undersea Gopro Enhancements</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/activating-pip-functionality-a-step-by-step-guide-on-using-youtubes-picture-in-picture-mode-in-chrome-and-firefox/"><u>Activating PiP Functionality: A Step-by-Step Guide on Using YouTube's Picture-in-Picture Mode in Chrome & Firefox</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-testing-results-beautiful-design-robust-audio-capability/"><u>BlueAnt SoundBlade Testing Results: Beautiful Design, Robust Audio Capability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-insights-by-toms-review/"><u>Comprehensive Hardware Insights by Tom's Review</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-x50i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X50i in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-abletons-techniques-for-diminishing-sound-intensity/"><u>In 2024, Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-toms-hardware-reviews-and-updates/"><u>Navigating Through Tom's Hardware Reviews and Updates</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimale-wdssd-verschiebungssoftware-fur-nutzer-von-windows-der-beste-pick/"><u>Optimale WDSSD Verschiebungssoftware Für Nutzer Von Windows - Der Beste Pick!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-sovol-sv08-the-fast-and-nimble-homage-to-voron-series/"><u>Reviewing Sovol SV08: The Fast and Nimble Homage to Voron Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-on-track-with-these-elite-10-workout-logging-apps-of-2024-your-fitness-journey-revolution/"><u>Stay on Track with These Elite 10 Workout Logging Apps of 2024 - Your Fitness Journey Revolution</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-roadmap-to-viewing-all-star-trek-movies-in-their-intended-order-for-the-ultimate-sci-fi-adventure/"><u>The Comprehensive Roadmap to Viewing All Star Trek Movies in Their Intended Order for the Ultimate Sci-Fi Adventure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-face-off-how-does-the-newly-released-asus-rog-keris-ii-ace-stack-up-against-my-favorite-the-ragedeathadder-v3-pro/"><u>The Ultimate Face-Off: How Does the Newly Released Asus ROG Keris II Ace Stack Up Against My Favorite, the RageDeathAdder V3 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-pova-5s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Pova 5s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-with-toms-technology-hub/"><u>Unveiling the Latest in Hardware with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zen-5-revolution-unveiling-the-power-of-amds-ryzen-5-9600x-and-ryzen-pressing-7-9700x/"><u>Zen 5 Revolution: Unveiling the Power of AMD's Ryzen 5 9600X & Ryzen Pressing 7 9700X</u></a></li>
+</ul></div>
+

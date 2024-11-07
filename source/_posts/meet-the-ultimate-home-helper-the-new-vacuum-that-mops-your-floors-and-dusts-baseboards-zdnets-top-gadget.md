@@ -1,7 +1,7 @@
 ---
 title: "Meet the Ultimate Home Helper: The New Vacuum That Mops Your Floors & Dusts Baseboards | ZDNET's Top Gadget"
-date: 2024-09-17 10:31:57
-updated: 2024-09-20 11:16:34
+date: 2024-11-02T02:58:21.331Z
+updated: 2024-11-07T14:19:36.137Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,26 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unparalleled-video-grabber-suite-your-download-delight/"><u>[New] In 2024, Unparalleled Video Grabber Suite - Your Download Delight</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[Updated] 2024 Approved The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/face-off-between-the-oculus-quest-3-and-apple-glasses-was-zuckerberg-right-tech-analysis-by-zdnet/"><u>Face-Off Between the Oculus Quest 3 and Apple Glasses: Was Zuckerberg Right? | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-group-administrators-on-alert-amazons-legal-moves/"><u>Facebook's Group Administrators on Alert: Amazon's Legal Moves</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 15</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/one-finger-technique-revealed-expanding-your-view-on-google-maps-made-easy/"><u>One-Finger Technique Revealed: Expanding Your View on Google Maps Made Easy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimal-android-launcher-experience-on-large-smartphones-why-niagara-excels/"><u>Optimal Android Launcher Experience on Large Smartphones: Why Niagara Excels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-android-15-update-how-it-drastically-improves-your-smartphones-battery-efficiency/"><u>Revolutionary Android 15 Update: How It Drastically Improves Your Smartphone's Battery Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/secure-your-digital-footprint-how-to-safeguard-against-data-leaks-in-mobile-applications/"><u>Secure Your Digital Footprint: How to Safeguard Against Data Leaks in Mobile Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-disabling-incoming-text-notifications-on-android-phones/"><u>Step-by-Step Tutorial: Disabling Incoming Text Notifications on Android Phones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/form-your-videos-secrets-of-effective-youtube-seo-tools-for-2024/"><u>Transform Your Videos Secrets of Effective YouTube SEO Tools for 2024</u></a></li>
+</ul></div>
+

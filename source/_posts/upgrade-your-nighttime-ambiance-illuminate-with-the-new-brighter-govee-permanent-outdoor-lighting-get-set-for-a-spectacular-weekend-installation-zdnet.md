@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Nighttime Ambiance: Illuminate With the New, Brighter Govee Permanent Outdoor Lighting - Get Set for a Spectacular Weekend Installation | ZDNET"
-date: 2024-09-18 21:51:15
-updated: 2024-09-20 10:31:43
+date: 2024-11-02T19:21:38.954Z
+updated: 2024-11-06T21:24:55.139Z
 tags:
   - smart-lighting
 categories:
@@ -51,6 +51,19 @@ When we last built a new home from scratch, way back in 2003, I obsessed over pl
 
 The most startling thing I noticed when looking over the wiring diagram is that we won't have a single [coaxial cable](https://www.zdnet.com/home-and-office/networking/how-to-convert-your-homes-old-tv-cable-into-powerful-ethernet-lines/) in the house. I guess that answers the question, "What comes after cord-cutting?" The answer is: no cord at all.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Smart lighting
 
 The last time I chronicled our [smart home experience](https://www.zdnet.com/home-and-office/smart-home/these-are-the-five-things-i-learned-from-my-smart-home/) I called smart lighting the killer app. That's still true. Every table lamp and pendant light in our current home is equipped with [Philips Hue bulbs](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Bluetooth-Compatible-Assistant%2Fdp%2FB088KR6KZN%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fkeywords%3Dhue%2Bbulbs%26qid%3D1691761560%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26th%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) that give us nearly infinite control over the intensity of that light. Some of those bulbs even offer control over the color and warmth of that light (although we've learned that those effects are best used sparingly). We've also added smart [Hue lightstrips](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPhilips-Hue-Lightstrip-Compatible-555334-2%2Fdp%2FB08N5HGXW4%2Fref%3Dsr%5F1%5F1%5Fsspa%3Fcrid%3D1699MKQ6W2NVE%26keywords%3DHue%2Blightstrips%26qid%3D1691761633%26sprefix%3Dhue%2Blightstrips%2Caps%2C122%26sr%3D8-1-spons%26sp%5Fcsd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41c9babc-1fae-4686-b4df-410cb02a62bd%7Cdtp&dtb=1) for cool indirect illumination effects.
@@ -69,6 +82,13 @@ Photo credit: Deako
 
 We'll still have a few Hue bulbs for table lamps and light strips for mood lighting above cabinets, but the entire setup should be dramatically simpler and more powerful than our current one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Smart energy
 
 In the past 30 years, home builders have become much more sensitive to energy efficiency. Partly that's because of stricter building codes (if you're curious about the topic, [this discussion by two energy experts](https://www.volts.wtf/p/the-obscure-but-extremely-important) is worth a listen). But it's also because more home buyers are demanding it.
@@ -83,6 +103,13 @@ The home is pre-wired for solar and we'll probably install those panels as well 
 
 Of course, we'll include an [EV charger](https://www.zdnet.com/article/best-home-ev-charger/) in the garage, reducing our reliance on fossil fuels to a bare minimum.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Home security
 
 Back before the turn of this century, installing a home security system was a cumbersome process, with wired sensors on doors and windows connecting to dedicated phone lines that communicated to a central monitoring facility. [Today's alternatives](https://www.zdnet.com/home-and-office/smart-home/best-security-system/) are mostly wireless and easy to add, especially when building a home from the foundation up.
@@ -90,6 +117,13 @@ Back before the turn of this century, installing a home security system was a cu
 **Also: [Everything you need for smart home security](https://www.zdnet.com/home-and-office/smart-home/everything-you-need-for-smart-home-security/)**
 
 We'll have a simple [Alarm.com home security system](https://alarm.com/) with the basics: motion sensors and a smart video doorbell, but no additional cameras, at least for now. The most important feature of all, though, is a way to definitively relieve an anxiety that every homeowner knows only too well: "Did I remember to close the garage door?" Open the app, check the status indicator, and tap the Close Garage Door button, if necessary.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. The hub
 
@@ -130,11 +164,26 @@ Now, if you'll excuse me, I have to go pack a few more boxes before the movers g
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-youtube-revenue-essential-view-count-milestones/"><u>[Updated] 2024 Approved Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-tips-for-successful-hulu-capturing-on-various-platforms-for-2024/"><u>[Updated] Essential Tips for Successful Hulu Capturing on Various Platforms for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>2024 Approved The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475970-get-the-ultimate-cooling-with-lian-lis-lancool-iii-for-only-119-the-best-deal-on-pc-gear-today/"><u>Get the Ultimate Cooling with Lian Li's Lancool III for Only $119 – The Best Deal on PC Gear Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-pc-freezing-in-spellbreak-solutions-and-tips/"><u>How to Overcome PC Freezing in Spellbreak - Solutions & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-electronics-hub-unveiling-cutting-edge-computer-gear-and-accessories/"><u>Inside Tom's Electronics Hub: Unveiling Cutting-Edge Computer Gear and Accessories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-deepcool-mini-itx-pc-chassis-equipped-with-a-convenient-handling-loop-and-extensive-ventilation/"><u>Introducing the New DeepCool Mini-ITX PC Chassis: Equipped with a Convenient Handling Loop and Extensive Ventilation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-version-available-now-install-epson-wf-35203540-drivers-on-your-windows-computer/"><u>Latest Version Available Now: Install Epson WF 3520/3540 Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964476216-unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncovering-the-secret-connecting-your-airpods-to-a-nintendo-console/"><u>Uncovering the Secret: Connecting Your AirPods to a Nintendo Console</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-on-technology-by-tom-hardware-focus/"><u>Unveiling the Insights on Technology by Tom - Hardware Focus</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-sound-10-best-professional-audio-editing-programs/"><u>Updated In 2024, Elevate Your Sound 10 Best Professional Audio Editing Programs</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Last Minute Game Sale Extravaganza! Snag Your Favorite Titles at Up to 50%% Off on Prime Day October 2# - Don't Miss Out!
-date: 2024-10-25T19:01:35.670Z
-updated: 2024-11-01T19:03:40.903Z
+date: 2024-11-05T16:07:25.889Z
+updated: 2024-11-06T18:41:55.965Z
 tags:
   - laptops
 categories:
@@ -161,6 +161,13 @@ Nintendo/ZDNET
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals still available
 
 Kyle Kucharski/ZDNET
@@ -172,13 +179,6 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $1,800 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-aurora-r16-desktop-intel-core-i7-processor-14700kf-nvidia-geforce-rtx-4070-super-32gb-memory-1tb-sdd-black%2F6577352.p%3FskuId%3D6577352&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming PC with a 14th gen Intel Core i7 CPU, RTX 4070 Super GPU, 32GB of RAM, and a 1TB SSD.
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals still available
 
@@ -200,10 +200,10 @@ Samsung/ZDNET
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C26617edf-4f5e-45db-ae31-d2886b0faf00%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals still available
@@ -213,10 +213,10 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C26617edf-4f5e-45db-ae31-d2886b0faf00%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -229,10 +229,10 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
@@ -240,10 +240,10 @@ Samsung/ZDNET
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -319,19 +319,21 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-block-status-recognizing-on-snapchat-silence/"><u>[Updated] Detecting Block Status Recognizing On-Snapchat Silence</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-nokia-c32-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Nokia C32 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/a-compreayers-must-have-top-10-free-passport-photo-tools/"><u>A Compreayer's Must-Have Top 10 Free Passport Photo Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/accelerated-energy-production-a-thorough-review-of-the-unusual-delta-shaped-flsun-s1/"><u>Accelerated Energy Production: A Thorough Review of the Unusual Delta Shaped FLSun S1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-strix-xg2-acq-an-180hz-marvel-in-accuracy-and-flexibility-the-ultimate-gamers-display-unveiled/"><u>Asus ROG Strix XG2^ ACQ: An 180Hz Marvel in Accuracy & Flexibility - The Ultimate Gamer's Display Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-for-dealing-with-the-easy-anti-cheat-glitch-in-apex-legends/"><u>Effortless Solutions for Dealing with the Easy Anti-Cheat Glitch in Apex Legends</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-raspberry-pis-speed-and-storage-with-our-exclusive-mcdn-hatplus-test-and-insights/"><u>Elevate Your Raspberry Pi's Speed and Storage With Our Exclusive M.CDN HAT+ Test & Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-lofree-edge-featherweight-bright-future-premium-price-vs-apple-magic-board/"><u>Evaluating the Lofree Edge: Featherweight, Bright Future, Premium Price vs Apple Magic Board</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/hiding-identity-on-instagram-live-secure-viewing-tips-for-2024/"><u>Hiding Identity on Instagram Live Secure Viewing Tips for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-computing-a-deep-dive-into-toms-hardware-world/"><u>Mastering Modern Computing: A Deep Dive Into Tom's Hardware World</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/step-by-step-guide-to-hp-printer-firmware-update/"><u>Step-by-Step Guide to HP Printer Firmware Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tomorrows-evaluation-creative-pathways/"><u>Tomorrow’s Evaluation Creative Pathways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potency-of-akasa-geckos-ssd-cooler-an-elite-blower-heatsink-for-optimal-drive-performance/"><u>Unveiling the Potency of Akasa Gecko's SSD Cooler: An Elite Blower Heatsink for Optimal Drive Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-iobit-screen-recorder-review/"><u>[New] 2024 Approved IObit Screen Recorder Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-tickletunes-recommendations-best-online-funnier-downloads/"><u>[New] 2024 Approved TickleTunes Recommendations Best Online Funnier Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-d500-experience-achieving-excellence-with-4k-hd/"><u>[New] The D500 Experience Achieving Excellence with 4K HD</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamlining-youtube-videos-adding-subtitles-and-cc-proficiently/"><u>[Updated] In 2024, Streamlining YouTube Videos Adding Subtitles & CC Proficiently</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-user-generated-content-music-posting-on-instagram/"><u>2024 Approved Mastering User-Generated Content Music Posting on Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio-for-2024/"><u>Bring Your Imaginations to Life Time-Lapse Photography with GoPro Studio for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862805004-experience-next-level-gaming-on-a-budget-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-now-at-199/"><u>Experience Next-Level Gaming on a Budget: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor Now at $199</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-craft-a-compelling-narrative-with-your-igtv-video-titles-and-texts/"><u>In 2024, Craft a Compelling Narrative with Your IGTV Video Titles & Texts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-microscope-effect-for-enhanced-video-conferencing/"><u>In 2024, Mastering the Microscope Effect for Enhanced Video Conferencing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-adding-your-digital-drivers-license-to-apple-wallet-on-your-iphone/"><u>Step-by-Step Guide: Adding Your Digital Driver's License to Apple Wallet on Your iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862771438-title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862790686-unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-technology-trends-at-toms-hardware-haven/"><u>Unveiling Top Technology Trends at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/urgent-alert-displayport-21-faces-critical-problems-with-uhbr-compatible-cables-why-nvidia-prefers-dp-14-for-rtx-40-series/"><u>Urgent Alert: DisplayPort 2.1 Faces Critical Problems With UHBR-Compatible Cables – Why NVIDIA Prefers DP 1.4 for RTX 40 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/vaio-unveils-visionplus14-the-largest-and-lightest-portable-display-in-the-market/"><u>Vaio Unveils Vision+14: The Largest and Lightest Portable Display in the Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/viewsonic-va1nte-portable-monitor-evaluation-expected-performance-across-the-board/"><u>ViewSonic VA1nte Portable Monitor Evaluation: Expected Performance Across the Board</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Domestic AI with Holograms: Top Concepts From Recent Mobile World Congress Showcase"
-date: 2024-09-17 23:24:36
-updated: 2024-09-20 11:49:28
+date: 2024-10-30T19:38:08.042Z
+updated: 2024-11-07T12:25:15.833Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-asmr-channel-discoveries-for-2024/"><u>[Updated] Essential ASMR Channel Discoveries for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tracing-your-instagram-fanbase-shifts-for-2024/"><u>[Updated] Tracing Your Instagram Fanbase Shifts for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpt-serve-as-a-tool-for-crafting-cybersecurity-threats/"><u>Can ChatGPT Serve as a Tool for Crafting Cybersecurity Threats?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/disable-youtube-preview-across-platforms/"><u>Disable Youtube Preview Across Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/does-the-future-belong-to-modular-accessories-after-apples-trial/"><u>Does the Future Belong to Modular Accessories After Apple's Trial?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-on-the-deal-of-the-year-essential-travel-wire-organizers-now-at-unbeatable-prices/"><u>Don’t Miss Out on the Deal of the Year - Essential Travel Wire Organizers Now at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-wait-secure-your-own-portable-solar-generator-today/"><u>Don't Wait: Secure Your Own Portable Solar Generator Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-analysis-of-the-nomad-stand-one-max-review-the-quintessential-luscious-three-in-one-iphone-charging-station/"><u>Elite Analysis of the Nomad Stand One Max Review: The Quintessential Luscious Three-in-One iPhone Charging Station</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancements-for-the-switch-2-a-call-for-improved-virtual-storefront/"><u>Enhancements for The Switch 2: A Call for Improved Virtual Storefront</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-games-demanding-enhanced-performance-when-is-it-time-for-a-graphics-card-refresh/"><u>Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluate-tech-specs-with-geekbenchs-recent-benchmarking-tool/"><u>Evaluate Tech Specs with Geekbench's Recent Benchmarking Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-active-audio-with-the-sennheiser-momentum-sport-top-pick-for-workout-buddies/"><u>Experience Active Audio with the Sennheiser Momentum Sport – Top Pick for Workout Buddies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-square-to-wide-how-to-adjust-video-shape-for-2024/"><u>From Square to Wide How to Adjust Video Shape for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-razr-40-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Razr 40 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-complete-video-revenue-playbook-dm-vs-yo-edition/"><u>In 2024, The Complete Video Revenue Playbook Dm Vs. Yo Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-ravbg64-cpu-crunch-solutions-for-smoother-realtek-hd-audio-performance/"><u>Tackling the Ravbg64 CPU Crunch: Solutions for Smoother Realtek HD Audio Performance</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transforme-seus-arquivos-mp3-em-filmes-em-movimento-gratuitamente-com-a-ferramenta-online-do-movavi/"><u>Transforme Seus Arquivos MP3 Em Filmes Em Movimento Gratuitamente Com a Ferramenta Online Do Movavi!</u></a></li>
+</ul></div>
+

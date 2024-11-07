@@ -1,7 +1,7 @@
 ---
 title: "CES 2023 Highlights From Day Two: Top Unveilings and Innovations Featured on ZDNet"
-date: 2024-10-26T18:35:32.995Z
-updated: 2024-11-01T20:27:29.704Z
+date: 2024-10-31T01:12:07.895Z
+updated: 2024-11-07T10:10:33.246Z
 tags:
   - laptops
 categories:
@@ -30,15 +30,22 @@ While hundreds of companies are stationed in Las Vegas announcing new and innova
 
 And, if you're still waiting to hear from some major companies, keep checking back . More companies will be announcing more innovative products as the week progresses.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## LG saves its biggest (and best) TV for last
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 LG
@@ -63,6 +70,13 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MSI drops new laptops for gamers and creatives
 
 MSI
@@ -77,13 +91,6 @@ While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-of
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung adds new security software with Knox Matrix
 
 Samsung
@@ -93,13 +100,6 @@ In an exclusive interview  Editor-in-Chief Jason Hiner, Samsung security leader 
 Check out the article version of the interview [here](https://www.zdnet.com/article/samsung-has-a-plan-to-lock-down-all-of-the-smart-devices-in-your-house/), or watch the [video interview with Shin Baik](https://www.zdnet.com/article/samsung-has-a-plan-to-lock-down-all-of-the-smart-devices-in-your-house/).
 
 **Also:** [**What's in the tech bag ZDNET's EIC takes to CES?**](https://www.zdnet.com/article/what-tech-is-in-the-ces-2023-bag-of-zdnets-editor-in-chief/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## HP focuses on sustainability and hybrid work with new laptops
 
@@ -118,10 +118,10 @@ You're used to indoor appliances with smart features, but now with the Bird Budd
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HyperX debuts new gaming mice
@@ -178,17 +178,17 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-insider-guide-to-regular-broadcast-etiquette-for-2024/"><u>[Updated] The Insider Guide to Regular Broadcast Etiquette for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/app-vs-website-the-unmatched-benefits-of-using-chatgpt-offline/"><u>App vs Website: The Unmatched Benefits of Using ChatGPT Offline</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-examined-how-close-is-it-to-perfect-gaming-performance/"><u>Asus ROG Swift OLED PG32UCDP Examined - How Close Is It to Perfect Gaming Performance?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/beginners-tutorial-learn-how-to-play-pokemon-unite/"><u>Beginner's Tutorial: Learn How to Play Pokémon Unite</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-tech-world-top-picks-and-insights-by-toms-hardware/"><u>Inside the Tech World: Top Picks and Insights by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341713193-revolutionary-keychron-q1-he-released-experience-the-ultimate-in-wireless-keyboards/"><u>Revolutionary Keychron Q1 HE Released: Experience the Ultimate in Wireless Keyboards!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taking-control-of-windows-read-only-constraints/"><u>Taking Control of Windows Read-Only Constraints</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-expertise-in-motherboards-cpus-and-more-a-tech-hub/"><u>Tom’s Expertise in Motherboards, CPUs & More | A Tech Hub</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>[New] 2024 Approved The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-engage-more-viewers-unveiling-top-youtube-font-secrets/"><u>[New] In 2024, Engage More Viewers Unveiling Top YouTube Font Secrets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-6-hdmi-21-monitor/"><u>[Updated] Top 6 HDMI 2.1 Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-omnibook-ultra-14-the-future-of-laptop-innovation-with-integrated-amd-ryzen-ai-300-chipset-and-top-notch-thunderbolt-4-speed/"><u>HP's OmniBook Ultra 14: The Future of Laptop Innovation with Integrated AMD Ryzen AI 300 Chipset & Top-Notch Thunderbolt 4 Speed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-70-lite-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor 70 Lite 5G Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inshot-vs-other-editors-comprehensive-analysis/"><u>In 2024, InShot vs Other Editors Comprehensive Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-toms-authoritative-take-on-tech-advanceby-tom/"><u>Mastering Equipment: Tom's Authoritative Take on Tech Advanceby Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-innovations-with-detailed-reviews-from-toms-domain/"><u>Mastering Modern Tech Innovations with Detailed Reviews From Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-and-gadgets-with-wisdom-from-toms-electronic-oasis/"><u>Mastering Your PC and Gadgets with Wisdom From Tom's Electronic Oasis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/memorial-day-memories-asus-tuf-a15-gaming-laptop-at-an-unbeatable-price-of-just-658-in-2n4/"><u>Memorial Day Memories: ASUS TUF A15 Gaming Laptop at an Unbeatable Price of Just $658 in 2N4</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/onlineoffline-animation-revolution-with-zero-price-tag/"><u>Online/Offline Animation Revolution with Zero Price Tag</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-c67-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme C67 4G Users</u></a></li>
 </ul></div>
 

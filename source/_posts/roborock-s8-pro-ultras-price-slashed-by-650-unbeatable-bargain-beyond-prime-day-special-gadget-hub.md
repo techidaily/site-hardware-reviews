@@ -1,7 +1,7 @@
 ---
 title: Roborock S8 Pro Ultra's Price Slashed by $650 - Unbeatable Bargain Beyond Prime Day Special | Gadget Hub
-date: 2024-09-19 22:46:25
-updated: 2024-09-20 11:15:15
+date: 2024-11-02T06:38:06.296Z
+updated: 2024-11-07T00:38:59.083Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-hilarious-guide-crafting-memes-with-ease/"><u>[New] 2024 Approved Hilarious Guide Crafting Memes with Ease</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-facial-lockout-a-deep-dive-into-iphones-face-id-vs-galaxys-recognition/"><u>[Updated] 2024 Approved Facial Lockout A Deep Dive Into iPhone's Face ID Vs. Galaxy’s Recognition</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-discover-the-art-of-youtube-playlist-shuffling-for-2024/"><u>[Updated] Discover the Art of YouTube Playlist Shuffling for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essential-notebooks-excellent-in-media-post-production/"><u>[Updated] Essential Notebooks Excellent in Media Post-Production</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-garner-over-a-thousand-viewers-swiftly/"><u>[Updated] In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-peak-viewing-valor-youtubes-daily-top-ten-highlights/"><u>[Updated] Peak Viewing Valor YouTube's Daily Top Ten Highlights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-knowledge-simplified-with-toms-insider-guides-and-reviews/"><u>Advanced Hardware Knowledge Simplified with Tom's Insider Guides and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-testing-and-review-of-asus-zenbook-s16-with-amd-ryzen-ai-nine-hx-series-processor/"><u>Comprehensive Guide to Testing and Review of ASUS Zenbook S16 with AMD Ryzen AI Nine HX Series Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-performance-a-detailed-look-at-the-pros-and-cons-of-the-cooler-master-ion-360-aio-pc-watercooler/"><u>Evaluating Performance: A Detailed Look at the Pros and Cons of the Cooler Master ION 360 AIO PC Watercooler</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-custom-tuned-content-with-our-advanced-cookiebot-integration/"><u>Experience Custom-Tuned Content with Our Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-5-upgraded-with-icetower-pi-52-a-comprehensive-review-of-its-ultra-fast-chilling-capabilities/"><u>Raspberry Pi 5 Upgraded with IceTower Pi 52: A Comprehensive Review of Its Ultra-Fast Chilling Capabilities</u></a></li>
+<li><a href="https://blog-min.techidaily.com/telechargement-gratuit-transformez-vos-fichiers-wav-en-format-aiff-via-le-convertisseur-en-ligne-de-movavi/"><u>Téléchargement Gratuit : Transformez Vos Fichiers WAV en Format AIFF via Le Convertisseur en Ligne De Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-tech-analysis-toms-hardware-direct/"><u>The Ultimate Source for Tech Analysis - Tom's Hardware Direct</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-with-toms-hardware-test-lab/"><u>Unlocking Performance with Tom's Hardware Test Lab</u></a></li>
+</ul></div>
+

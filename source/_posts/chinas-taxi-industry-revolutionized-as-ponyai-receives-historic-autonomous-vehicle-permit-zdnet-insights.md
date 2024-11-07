@@ -1,7 +1,7 @@
 ---
 title: China's Taxi Industry Revolutionized as Pony.ai Receives Historic Autonomous Vehicle Permit | ZDNet Insights
-date: 2024-09-18 19:56:22
-updated: 2024-09-20 11:38:42
+date: 2024-11-06T03:30:12.396Z
+updated: 2024-11-07T12:19:45.232Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,37 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-fanfare-unveiled-android-and-iphones-most-liked-apps/"><u>[Updated] Facebook Fanfare Unveiled Android & iPhone's Most Liked Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-tailoring-tags-to-achieve-six-figures-in-views-for-2024/"><u>[Updated] Tailoring #Tags to Achieve Six Figures in Views for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-evaluation-stunning-volume-and-quality/"><u>BlueAnt Soundblade Evaluation: Stunning Volume & Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-efficiency-adding-uninstall-shortcuts-to-windows-menu/"><u>Boosting Efficiency: Adding Uninstall Shortcuts to Windows Menu</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-7-free-virtual-fax-providers/"><u>Discover the Latest 7 FREE Virtual Fax Providers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computers-from-toms-gear-experts/"><u>Expert Advice on Computers From Tom's Gear Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-in-depth-analysis-at-toms-hardware-hub/"><u>Explore Top Tech: In-Depth Analysis at Tom's Hardware Hub</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-with-toms-hardware-comprehensive-gear-evaluations/"><u>Navigating Tech Trends with Tom's Hardware - Comprehensive Gear Evaluations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/newly-uncovered-default-passwords-for-d-link-network-gear-july-edition/"><u>Newly Uncovered Default Passwords for D-Link Network Gear - July Edition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-videopad-video-editor-features-pros-and-cons/"><u>The Ultimate Guide to Videopad Video Editor Features, Pros, and Cons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guides-on-computer-hardware/"><u>Tom's Tech Review - Comprehensive Guides on Computer Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mobile-picks-of-tech-reviewers-at-zdnet-real-world-device-usage-insights/"><u>Top Mobile Picks of Tech Reviewers at ZDNet: Real-World Device Usage Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g2/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-lenovo-yoga-pro-9i-striking-a-balance-between-weightlessness-and-durable-keyboard/"><u>Unboxing and Testing the Lenovo Yoga Pro 9I: Striking a Balance Between Weightlessness and Durable Keyboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/users-share-their-greatest-disappointments-after-upgrading-to-iphone-ios-18-you-wont-be-surprised/"><u>Users Share Their Greatest Disappointments After Upgrading to iPhone iOS 18 – You Won’t Be Surprised</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

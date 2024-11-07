@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Domestic Aid: Unveiling Three Cutting-Edge Concepts for a Smart, Holographic Companion Showcased at Mobile World Congress"
-date: 2024-09-18 17:53:11
-updated: 2024-09-20 12:15:45
+date: 2024-11-04T20:09:15.397Z
+updated: 2024-11-06T21:30:31.375Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,23 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-explore-best-10-websites-for-professional-vectors/"><u>[New] 2024 Approved Explore Best 10 Websites for Professional Vectors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-efficient-sound-capturing-in-the-latest-windows-11/"><u>2024 Approved Efficient Sound Capturing in the Latest Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-ready-for-smooth-gaming-call-of-duty-modern-warfares-fps-problem-solved-in-latest-release/"><u>Get Ready for Smooth Gaming: Call of Duty: Modern Warfare's FPS Problem Solved in Latest Release</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-fairphone-5-the-ultimate-in-sustainable-tech-with-a-lifetime-of-software-support/"><u>Introducing Fairphone 5: The Ultimate in Sustainable Tech with a Lifetime of Software Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-android-privacy-how-to-prevent-random-mac-address-alteration/"><u>Mastering Android Privacy: How To Prevent Random MAC Address Alteration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastery-of-macos-catalina-an-update-journey-begins-here/"><u>Mastery of macOS Catalina: An Update Journey Begins Here</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/oneplus-unveils-model-11-with-challenges-at-its-debut-what-to-know-about-this-latest-release/"><u>OnePlus Unveils Model 11 with Challenges at Its Debut – What to Know About This Latest Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-android-phones-haptic-feedback-a-users-manual-for-customizing-vibration-strength/"><u>Optimize Your Android Phone’s Haptic Feedback: A User's Manual for Customizing Vibration Strength</u></a></li>
+</ul></div>
+

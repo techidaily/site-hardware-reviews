@@ -1,7 +1,7 @@
 ---
 title: "Sparkling Clean Floor Deals on Memorial Day: Save 45%% with the Roborock Q7 Max+ RoboVac and Mop - Shop Now at ZDNet!"
-date: 2024-09-17 13:56:44
-updated: 2024-09-20 12:26:26
+date: 2024-11-05T23:21:30.403Z
+updated: 2024-11-07T14:38:37.565Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-canons-lut-collection-maximize-image-impact-free-and-paid-choices-for-2024/"><u>[Updated] Canon’s LUT Collection Maximize Image Impact - FREE & Paid Choices for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-guide-installing-your-xbox-360-controller-driver/"><u>Download Guide: Installing Your Xbox 360 Controller Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-imperfections-how-much-i-adore-my-samsung-frame-despite-its-shortcomings/"><u>Embracing Imperfections: How Much I Adore My Samsung Frame Despite Its Shortcomings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancements-coming-to-your-google-assistant-hub-whats-new-with-the-google-home-app/"><u>Enhancements Coming to Your Google Assistant Hub: What's New with the Google Home App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-picks-for-ultimate-protection-the-leading-outdoor-cctvs/"><u>Expert Picks for Ultimate Protection: The Leading Outdoor CCTVs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-rate-the-belkin-qi2-dual-charging-pad-with-15w-and-hidden-connectivity-innovative-tech-unveiled/"><u>Experts Rate the Belkin Qi2 Dual Charging Pad with 15W & Hidden Connectivity – Innovative Tech Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-capabilities-detailed-insights-into-the-lenovo-legion-7i-with-ryzen-processor-and-nvidia-graphics/"><u>Exploring the Capabilities: Detailed Insights Into the Lenovo Legion 7I with Ryzen Processor and NVIDIA Graphics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-tecno-phantom-v-flip-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Tecno Phantom V Flip?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-photonpinnacle-z7-optimize-picture-scaling/"><u>In 2024, PhotonPinnacle Z7 Optimize Picture Scaling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-msi-magic-cognizant-oled-top-gaming-display-unveiled/"><u>In-Depth Analysis of the MSI Magic Cognizant OLED - Top Gaming Display Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-insta360-x4-camera-analysis-high-quality-shots-at-premium-pricing/"><u>In-Depth Insta360 X4 Camera Analysis: High Quality Shots at Premium Pricing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-broken-steam-friendship-connections-w11/"><u>Mending Broken Steam Friendship Connections W11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-lava-blaze-2-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Lava Blaze 2 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vivid-visuals-for-beauty-creators/"><u>Vivid Visuals for Beauty Creators</u></a></li>
+</ul></div>
+
