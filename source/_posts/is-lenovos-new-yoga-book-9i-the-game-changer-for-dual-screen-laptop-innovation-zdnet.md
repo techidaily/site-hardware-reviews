@@ -1,7 +1,7 @@
 ---
 title: Is Lenovo's New Yoga Book 9I the Game Changer for Dual-Screen Laptop Innovation? - ZDNet
-date: 2024-11-02T13:30:19.684Z
-updated: 2024-11-07T00:23:09.313Z
+date: 2024-11-14T17:22:49.633Z
+updated: 2024-11-17T17:34:03.759Z
 tags:
   - laptops
 categories:
@@ -40,13 +40,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -60,6 +53,13 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7720f040-ecee-4f18-b2a4-d4eddb365f24%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -82,10 +82,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does it perform?
@@ -109,10 +109,10 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -135,6 +135,13 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -144,13 +151,6 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -190,24 +190,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-hasten-your-windows-doc-analysis-process/"><u>[New] In 2024, Hasten Your Windows Doc Analysis Process</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-content-creation-evolution-choosing-studio-over-beta/"><u>2024 Approved Video Content Creation Evolution Choosing Studio Over Beta</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/backside-gpu-integration-discover-maxsuns-advanced-mini-itx-motherboard-technology/"><u>Backside GPU Integration: Discover Maxsun's Advanced Mini-ITX Motherboard Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-ideal-gamers-board-best-2024-motherboards-ranked-by-sockets-and-processor-compatibility/"><u>Discover the Ideal Gamer's Board: Best 2024 Motherboards Ranked by Sockets and Processor Compatibility</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-mutant-asus-frankenboards-maximus-xiii-heroes-with-so-dimm-memory-and-striking-kingston-fury-designs-for-collectors/"><u>Discover the Mutant Asus Frankenboards: Maximus XIII Heroes with So-DiMM Memory and Striking Kingston Fury Designs for Collectors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-wave-of-performance-with-asrocks-amd-ryzen-9000-motherboards/"><u>Discover the New Wave of Performance with ASRock's AMD Ryzen 9000 Motherboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-realms-with-toms-gadget-analysis/"><u>Dive Into Digital Realms with Tom's Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/early-bird-access-to-msi-z890-and-b860-motherboards-prepare-your-rig-ahead-of-computex-2024-with-the-latest-arrow-lake-s-supported-kits/"><u>Early Bird Access to MSI Z890 & B860 Motherboards - Prepare Your Rig Ahead of Computex 2024 with the Latest Arrow Lake-S Supported Kits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-rigs-the-cutting-edge-features-of-gigabytes-new-aorus-xtreme-and-xtreme-ice-mobos-gpu-lines-revealed-at-computex/"><u>Experience Next-Level Gaming Rigs: The Cutting-Edge Features of Gigabyte’s New Aorus Xtreme and Xtreme Ice Mobos, GPU Lines Revealed at Computex</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-at-toms-pc-parts-store-find-what-you-need-here/"><u>Expert Reviews at Tom's PC Parts Store - Find What You Need Here!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-best-free-vfx-resources-online-for-2024/"><u>Explore the Best FREE VFX Resources Online for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-the-definitive-guide-to-high-performance-equipment/"><u>Exploring Tech with Tom: The Definitive Guide to High-Performance Equipment</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a05s-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A05s is off? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 12</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209649455-9781982132972-living-full-circle/"><u>Living Full Circle | Free Book</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/moving-from-windows-11-home-unlocking-pro-benefits/"><u>Moving From Windows 11 Home: Unlocking Pro Benefits</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-instructions-for-projecting-iphone-content-onto-tcl-tv/"><u>Step-by-Step Instructions for Projecting iPhone Content Onto TCL TV</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/understanding-uks-colloquialisms-vs-usas-vernacular/"><u>Understanding UK's Colloquialisms vs USA's Vernacular</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-audio-capture-essentials-mastering-mac-setup/"><u>[New] In 2024, Audio Capture Essentials Mastering Mac Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-assessing-sns-hdr-pros-worth-with-comparative-insight/"><u>[Updated] Assessing SNS HDR Pro's Worth with Comparative Insight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-dimensions-for-impressive-videography/"><u>[Updated] Instagram Dimensions for Impressive Videography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-best-free-online-introduction-systems/"><u>[Updated] Step-by-Step Best Free Online Introduction Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-electronics-with-toms-review-comprehensive-hardware-guides/"><u>Dive Into Electronics with Tom’s Review: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/download-your-media-in-mp3-format-effortless-webm-to-mp3-conversion-by-movavi/"><u>Download Your Media in MP3 Format - Effortless Webm to MP3 Conversion by Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-solutions-to-prevent-wow-from-freezing-or-crashing-during-play/"><u>Easy Solutions to Prevent WoW From Freezing or Crashing During Play</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-a-guide-by-toms-hardware-experts/"><u>Exploring the World of Computing with Tom - A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/mechanical-marvel-the-game-changing-blackwidow-v4/"><u>Mechanical Marvel: The Game Changing BlackWidow V4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-update-by-asrock-allows-locked-comet-lake-s-cpus-to-overclock-on-non-z-motherboards/"><u>Revolutionary Update by ASRock Allows Locked Comet Lake-S CPUs to Overclock on Non-Z Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzen-4000-series-sets-new-standards-the-renoir-chip-achieves-world-record-at-6666-mhz/"><u>Ryzen 4000 Series Sets New Standards: The Renoir Chip Achieves World Record at 6666 MHz</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/six-creative-strategies-for-using-chatgpt-in-your-writing-process/"><u>Six Creative Strategies for Using ChatGPT in Your Writing Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-t17239718671242/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-insights/"><u>Tom's Tech Reviews: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-gadget-insights-and-performance-analysis/"><u>Tom's Tech Reviews: Expert Gadget Insights and Performance Analysis</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-zero-cost-antivirus-utilities-for-immediate-protection/"><u>Top 15 Zero-Cost Antivirus Utilities for Immediate Protection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-the-ultimate-guide-to-modern-electronics/"><u>Unveiling Gadgets with Tom: The Ultimate Guide to Modern Electronics</u></a></li>
 </ul></div>
 

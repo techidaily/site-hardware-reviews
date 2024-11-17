@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Lenovo ThinkPad Z16 Analysis: Strong Performance Hindered by Subpar Webcam - Insights From ZDNet"
-date: 2024-11-04T22:08:19.271Z
-updated: 2024-11-06T20:04:06.921Z
+date: 2024-11-10T16:41:05.129Z
+updated: 2024-11-17T20:40:11.936Z
 tags:
   - laptops
 categories:
@@ -54,10 +54,10 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -93,10 +93,10 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -122,10 +122,10 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -141,10 +141,10 @@ This Chromebook and others like it are already more than capable enough to handl
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -195,21 +195,18 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-12-essential-websites-for-stunning-fb-profile-pictures/"><u>[New] 12 Essential Websites for Stunning FB Profile Pictures</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-churn-your-own-custom-internet-laughter/"><u>[New] Churn Your Own Custom Internet Laughter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-mastering-tweet-reactions-a-complete-guide-for-23/"><u>[New] In 2024, Mastering Tweet Reactions - A Complete Guide for '23</u></a></li>
-<li><a href="https://win-able.techidaily.com/3gp-mp43gp/"><u>3GPファイル定義: MP4から3GPへの無料変換ガイドとツール紹介</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/deciphering-digital-mysteries-stellars-first-encrypted-hard-drive-recovery/"><u>Deciphering Digital Mysteries: Stellar's First Encrypted Hard Drive Recovery</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210780785-9781398488359-eds-odyssey-how-i-met-buddha-and-the-aliens/"><u>Ed’s Odyssey How I Met Buddha and the Aliens | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x9a-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor X9a</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-with-my-goal-zero-bamboo-laptop-the-best-travel-buddy-ever/"><u>Exploring New Horizons with My Goal Zero Bamboo Laptop - The Best Travel Buddy Ever!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exploring-the-capabilities-of-sj-cam-s6/"><u>Exploring the Capabilities of SJ-CAM S6</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/farewell-your-alexa-show-top-picks-for-replacing-the-amazon-echo-with-a-display/"><u>Farewell Your Alexa Show: Top Picks for Replacing the Amazon Echo with a Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-performance-gamer-focused-desktops-the-latest-cooler-master-builds/"><u>High-Performance, Gamer-Focused Desktops: The Latest Cooler Master Builds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-nomads-innovative-portable-rechargeable-tracker-the-ultimate-gps-device-compacted-in-your-wallet/"><u>Introducing Nomad's Innovative Portable Rechargeable Tracker: The Ultimate GPS Device Compacted in Your Wallet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-multi-room-audio-a-guide-to-using-home-assistant/"><u>Mastering Multi-Room Audio: A Guide to Using Home Assistant</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-productivity-with-minimal-spend-the-ultimate-guide-to-choosing-the-perfect-office-chair-steelcase-series-1-reviewed/"><u>Maximize Productivity with Minimal Spend: The Ultimate Guide to Choosing the Perfect Office Chair - Steelcase Series 1 Reviewed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mega-discounts-on-ecovacs-robot-vacuums-and-mopping-units-save-up-to-850-during-exclusive-prime-day-offer/"><u>Mega Discounts on ECOVACS Robot Vacuums & Mopping Units - Save Up to $850 During Exclusive Prime Day Offer!</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>New Top 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-protouch-4k-uniscreen-hub-systems/"><u>[New] In 2024, ProTouch 4K UniScreen Hub Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>[Updated] 2024 Approved Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138588672-9781449735630-2251-acoustic-neuroma/"><u>225.1 Acoustic Neuroma | Free Book</u></a></li>
+<li><a href="https://techidaily.com/enhanced-user-experience-with-customized-content-powered-by-cookiebot-technology/"><u>Enhanced User Experience with Customized Content: Powered by Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-parts-to-pc-masterpiece-constructing-an-epic-rtx-4070-and-2tb-storage-system-for-less-than-a-grand-during-amazons-exclusive-sale/"><u>From Parts to PC Masterpiece: Constructing an Epic RTX 4070 and 2TB Storage System for Less than a Grand During Amazon's Exclusive Sale</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-oppo-reno-11-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Oppo Reno 11 5G.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro with/without SIM Card</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/revolutionizing-chinas-tech-space-tencentos-server-v3-enables-local-servers-to-run-on-indigenous-chip-architectures-like-phytium-feiteng/"><u>Revolutionizing China's Tech Space: TencentOS Server V3 Enables Local Servers to Run on Indigenous Chip Architectures Like Phytium Feiteng</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzen-ai-300-laptop-release-postponed-new-arrival-date-and-best-buy-listings-july-28/"><u>Ryzen AI 300 Laptop Release Postponed: New Arrival Date and Best Buy Listings - July 28</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-book4-edge-vs-iphone-12-showdown-unveiling-early-benchmarks-of-snapdragon-x-elite/"><u>Samsung Book4 Edge vs iPhone 12 Showdown: Unveiling Early Benchmarks of Snapdragon X Elite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-savvy-shoppers-toms-computer-components-review/"><u>The Ultimate Resource for Savvy Shoppers: Tom's Computer Components Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-visual-voyage-for-more-engagement-on-social-platforms/"><u>The Visual Voyage for More Engagement on Social Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-top-tech-reviews/"><u>Tom's Computer Components: Your Guide to Top Tech Reviews</u></a></li>
 </ul></div>
 

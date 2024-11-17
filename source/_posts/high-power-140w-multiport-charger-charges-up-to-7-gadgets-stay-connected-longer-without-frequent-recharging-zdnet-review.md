@@ -1,7 +1,7 @@
 ---
 title: High-Power 140W Multiport Charger Charges Up to 7 Gadgets - Stay Connected Longer without Frequent Recharging [ZDNet Review]
-date: 2024-10-30T21:57:21.210Z
-updated: 2024-11-07T03:06:33.151Z
+date: 2024-11-11T20:01:38.385Z
+updated: 2024-11-17T20:27:56.482Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C19780859-000e-40ed-95a9-a1b7d2480caa%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The specs
@@ -59,10 +59,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My experience
@@ -90,10 +90,16 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,16 +138,18 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-evolution-of-youtube-shorts-templates-and-their-impact-on-engagement/"><u>[Updated] The Evolution of YouTube Shorts Templates and Their Impact on Engagement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-reviews-by-tom-your-trusted-source/"><u>Advanced Gadget Reviews by Tom: Your Trusted Source</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-advanced-video-formats-av1-and-vp9/"><u>Discovering Advanced Video Formats AV1 & VP9</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/end-missing-pages-issue-with-new-printer-update/"><u>End Missing Pages Issue with New Printer Update</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341724260-experience-the-ultimate-sound-of-turtle-beachs-atlas-air-headphones-comfort-meets-acoustic-excellence/"><u>Experience the Ultimate Sound of Turtle Beach's Atlas Air Headphones – Comfort Meets Acoustic Excellence!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/high-quality-webcam-videos-with-best-editors/"><u>High-Quality Webcam Videos with Best Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transform-vob-files-into-mp4-format-a-comprehensive-guide-for-windows-and-macos/"><u>How to Transform VOB Files Into MP4 Format: A Comprehensive Guide for Windows and macOS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-p55-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel P55 5G Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sustainable-tools-and-practices/"><u>Sustainable Tools and Practices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-economical-path-to-enhanced-speeds-in-depth-look-at-the-raspberry-pis-ms2-hatplus/"><u>The Economical Path to Enhanced Speeds: In-Depth Look at the Raspberry Pi's M.S2 HAT+</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-visual-excellence-of-gigabytes-aorus-co49dq-a-deep-dive-review-on-color-fidelity-and-contrast-brilliance/"><u>Unveiling the Visual Excellence of Gigabyte's Aorus CO49DQ: A Deep Dive Review on Color Fidelity and Contrast Brilliance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-guide-to-facebooks-pinnacle-feature-adjustments-for-2024/"><u>[New] A Guide to Facebook's Pinnacle Feature Adjustments for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1099-launch-of-snapdragon-x-windows-copilotplus-pcs-by-acer-dell-hp-and-lenovo-featuring-multi-day-battery-life/"><u>$1,099: Launch of Snapdragon X Windows Copilot+ PCs by Acer, Dell, HP, and Lenovo Featuring 'Multi-Day Battery Life'</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-audiovisual-pro-perfect-ppt-presentation-recording/"><u>2024 Approved Audiovisual Pro Perfect PPT Presentation Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-high-definition-video-production-in-the-facebook-era/"><u>2024 Approved Navigating High Definition Video Production in the Facebook Era</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862657349-acers-exclusive-gamers-deal-unmatched-performance-with-rtx-4070-and-amd-cpu-in-the-nitro-16-laptop-available-now-for-just-1129/"><u>Acer's Exclusive Gamers Deal: Unmatched Performance with RTX 4070 and AMD CPU in the Nitro 16 Laptop - Available Now for Just $1,129</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/europes-90-years-in-words-language-mosaic-in-full-bloom/"><u>Europe's 90 Years In Words - Language Mosaic in Full Bloom</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-spark-10-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-trust-in-truthgpt-coin-justified/"><u>Is Trust in TruthGPT Coin Justified?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/rediscover-lost-eyes-only-pics/"><u>Rediscover Lost Eyes-Only Pics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862736608-revolutionize-gaming-at-a-bargain-the-ultimate-deal-on-a-156-msi-katana-laptop-with-nvidia-rtx-4070-gpu-only-1199/"><u>Revolutionize Gaming at a Bargain - The Ultimate Deal on a 15.6 MSI Katana Laptop with NVIDIA RTX 4070 GPU: Only $1,199</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862709534-score-big-savings-snag-asus-2024-rog-zephyrus-g14-oled-screen-rtx-4060-for-300-less/"><u>Score Big Savings: Snag ASUS 2024 ROG Zephyrus G14 - OLED Screen, RTX 4060 for $300 Less</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-strategies-for-effectively-uninstalling-ios-applications/"><u>Top Strategies for Effectively Uninstalling iOS Applications</u></a></li>
 </ul></div>
 

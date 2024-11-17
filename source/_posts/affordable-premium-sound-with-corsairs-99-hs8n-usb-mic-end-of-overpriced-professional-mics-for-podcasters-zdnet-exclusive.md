@@ -1,7 +1,7 @@
 ---
 title: "Affordable, Premium Sound with Corsair's $99 HS8n USB Mic: End of Overpriced Professional Mics for Podcasters | ZDNET Exclusive"
-date: 2024-09-18 21:48:11
-updated: 2024-09-20 11:32:16
+date: 2024-11-12T20:07:48.255Z
+updated: 2024-11-17T16:57:37.574Z
 tags:
   - pc
 categories:
@@ -78,11 +78,32 @@ The company teamed up with Lecia Geosystems, Topcon, and Trimble to ensure that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-recording-playbook-your-roblox-adventures-transformed/"><u>[Updated] In 2024, The Ultimate Recording Playbook Your Roblox Adventures, Transformed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-samsungs-visionary-leap-the-ubd-k850-ultrablade-2023/"><u>2024 Approved Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-with-rich-features-discover-the-value-of-an-lg-24lh4480-smart-tv/"><u>Budget-Friendly with Rich Features: Discover the Value of an LG 24LH4480 Smart TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-highpoint-rocket-1608a-usb-expansion-card-enhanced-storage-and-performance/"><u>Expert Analysis of HighPoint Rocket 1608A USB Expansion Card - Enhanced Storage and Performance</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-oppo-find-x7-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Find X7 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-oled-gaming-display-a-thorough-review-of-gigabyeet-aorus-fo32u2p-with-exceptional-speed-and-style-for-serious-gamers/"><u>The Ultimate 4K OLED Gaming Display - A Thorough Review of Gigabyeet Aorus FO32U2P with Exceptional Speed & Style for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-exploring-in-depth-computer-hardware-insights/"><u>Tom's Tech Hub: Exploring In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-titles-only-available-on-playstation-5-your-complete-guide/"><u>Top Titles Only Available on PlayStation 5: Your Complete Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-gadget-gazette-authoritative-reviews-and-buying-advice/"><u>Unveiling Tech Secrets with Tom's Gadget Gazette: Authoritative Reviews & Buying Advice</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

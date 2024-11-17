@@ -1,7 +1,7 @@
 ---
 title: Hybrid Work Fuels HP's Business Strategy and Surges PC Sales - Insight on Immediate Ink Rollout
-date: 2024-09-18 10:35:10
-updated: 2024-09-20 10:10:53
+date: 2024-11-13T20:25:33.900Z
+updated: 2024-11-17T17:47:46.440Z
 tags:
   - printer
 categories:
@@ -43,6 +43,13 @@ On supply chain, Lores said HP is managing well and that advantage can also driv
 
 HP is also optimizing systems and consolidated to 1 ERP system. The company also has leveraged data science and analytics to optimize its supply chain. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Printing: Becoming a services business
 
 Printing habits have changed, but printers remain essential for home, work and school. In some ways, HP's printing business is going subscription. For instance, HP's Instant Ink subscription base tops 10 million and HP projects about $500 million in subscription revenue for fiscal 2021\. 
@@ -65,6 +72,13 @@ The moving parts for HP's printing business include:
 On the services front, Tran said Instant Ink will move beyond ink to toner and paper. HP said almost half of its customers want to get their PC, printer, supplies and services consolidated into one monthly bill. 
 
 HP is also offering printers and supplies to remote workers via customized company portals and bridging into digital document workflow software.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3D printing
 
@@ -93,11 +107,27 @@ In addition, HP is targeting high-performance athletic footwear and has a person
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/eo-explosion-leading-tech-for-your-videos/"><u>[New] SEO Explosion Leading Tech for Your Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pinnacle-ios-solutions-the-best-ps2-game-emulators/"><u>[Updated] 2024 Approved Pinnacle IOS Solutions The Best PS2 Game Emulators</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-extraordinary-12-tools-for-endless-screen-capture/"><u>[Updated] In 2024, Extraordinary 12 Tools for Endless Screen Capture</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastery-over-cloud-expenses-cheapest-options-showcased/"><u>[Updated] Mastery Over Cloud Expenses Cheapest Options Showcased</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pis-storage-with-low-cost-high-speed-hatdrive-by-pineboards/"><u>Boost Your Raspberry Pi's Storage with Low-Cost, High-Speed HatDrive by Pineboards</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-comparison-nintendo-switch-lite-against-the-new-nintendo-switch-oled/"><u>Head-to-Head Comparison: Nintendo Switch Lite Against the New Nintendo Switch OLED</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-valkyrie-syn-240-all-in-one-liquid-cooler-stellar-cooling-capabilities-hindered-by-software-design/"><u>In-Depth Analysis of the Valkyrie Syn 240 All-in-One Liquid Cooler: Stellar Cooling Capabilities Hindered by Software Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovations-unveiled-at-toms-hardware-haven/"><u>Innovations Unveiled at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-overheating-check-out-our-thorough-review-of-the-levelplay-combat-air-ca4-cpu-cooler/"><u>Mastering PC Overheating? Check Out Our Thorough Review of the Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g24-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Motorola Moto G24 won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-savvy-with-team-tom-ultimate-hardware-guide/"><u>Tech Savvy with Team Tom: Ultimate Hardware Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-15-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 15 Pro to PC | Dr.fone</u></a></li>
+</ul></div>
+

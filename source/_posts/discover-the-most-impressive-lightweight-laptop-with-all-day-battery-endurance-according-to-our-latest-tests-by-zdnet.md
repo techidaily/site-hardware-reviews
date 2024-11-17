@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Impressive Lightweight Laptop with All-Day Battery Endurance, According to Our Latest Tests by ZDNet
-date: 2024-11-02T02:59:16.028Z
-updated: 2024-11-06T22:30:20.031Z
+date: 2024-11-11T16:44:10.403Z
+updated: 2024-11-17T19:44:47.126Z
 tags:
   - laptops
 categories:
@@ -29,10 +29,10 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -100,10 +100,10 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +113,10 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,17 +153,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-implementing-visual-learning-strategies-in-classrooms/"><u>[Updated] Implementing Visual Learning Strategies in Classrooms</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-every-story-prime-video-editor-apps-for-android/"><u>[Updated] In 2024, Elevate Every Story Prime Video Editor Apps for Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/849-us-release-of-dasungs-paperlike-color-touchscreen-monitor-12-inch-stylish-design-and-sharp-2560x1600-resolution/"><u>$849 U.S. Release of Dasung's Paperlike Color Touchscreen Monitor – 12-Inch, Stylish Design & Sharp 2560X1600 Resolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862791699-discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-se-2022-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone SE (2022) Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-g73-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto G73 5G Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-navigating-echo-reduction-techniques-in-audacity/"><u>In 2024, Navigating Echo Reduction Techniques in Audacity</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2065482-9781782797982-pagan-portals-nature-mystics/"><u>Pagan Portals - Nature Mystics | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862788414-score-big-with-the-latest-deal-on-samsung-odyssey-g50a-27-qhd-ips-monitor-now-only-255/"><u>Score Big with the Latest Deal on Samsung Odyssey G50A 27 QHD IPS Monitor – Now Only $255</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nubia-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nubia IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-secrets-with-toms-authoritative-reviews/"><u>Unveiling Hardware Secrets with Tom's Authoritative Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-toms-hardware-guide/"><u>Unveiling the Latest Tech: Tom's Hardware Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-journey-through-simulated-realities-vr-basics/"><u>[Updated] 2024 Approved Journey Through Simulated Realities VR Basics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-decoding-revenue-from-a-million-watches-on-youtube/"><u>[Updated] Decoding Revenue From A Million Watches on YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-expert-advice-for-saving-and-archiving-periscope-footage-for-2024/"><u>[Updated] Expert Advice for Saving and Archiving Periscope Footage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>[Updated] In 2024, Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-story-stream-sequencer-app/"><u>2024 Approved Story Stream Sequencer App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/chinese-semiconductor-firm-cxmt-targets-ai-market-with-innovative-hbm-memory-solutions-paving-the-path-to-independence/"><u>Chinese Semiconductor Firm CXMT Targets AI Market with Innovative HBM Memory Solutions, Paving the Path to Independence</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-display-winners-oled-amoled-vs-ips-lcd/"><u>Decoding Display Winners: OLED, AMOLED Vs. IPS LCD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-performance-metrics-of-toms-computer-components/"><u>Detailed Analysis: Performance Metrics of Tom's Computer Components</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-samsung-galaxy-s24-ultra-by-fonelab-android-recover-music/"><u>How to recover old music from your Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-v-purse-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor V Purse to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-with-tom-the-ultimate-gadget-guide/"><u>In-Depth Hardware Analysis with Tom - The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-hub-a-deep-dive-into-latest-hardware-technology-and-reviews/"><u>Inside Tom's Gadget Hub: A Deep Dive Into Latest Hardware Technology & Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-samsungs-game-changing-32gb-ddr5-ic-technology-for-next-gen-1tb-memory-devices/"><u>Introducing Samsung's Game-Changing 32GB DDR5 IC Technology for Next-Gen 1TB Memory Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgetry-with-tom-in-depth-reviews-and-tips-on-pc-components/"><u>Navigating Gadgetry with Tom: In-Depth Reviews and Tips on PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-technology-insights/"><u>Navigating the World of Computing with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-pc-crucial-ddr5-ram-updates-for-gigabyte-motherboards/"><u>Optimize Your PC: Crucial DDR5 RAM Updates for Gigabyte Motherboards</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/wiederherstellung-deiner-video-dateien-in-windows-11-eine-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Deiner Video-Dateien in Windows 11 – Eine Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

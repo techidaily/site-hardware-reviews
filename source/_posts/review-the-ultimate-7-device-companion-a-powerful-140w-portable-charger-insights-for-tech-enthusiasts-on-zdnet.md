@@ -1,7 +1,7 @@
 ---
 title: "Review: The Ultimate 7-Device Companion - A Powerful 140W Portable Charger | Insights for Tech Enthusiasts on ZDNET"
-date: 2024-11-02T10:12:20.499Z
-updated: 2024-11-06T19:17:20.747Z
+date: 2024-11-13T20:06:51.452Z
+updated: 2024-11-17T20:56:00.902Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf15deed8-5c0d-4341-85ea-3f23a89cbfb1%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The specs
@@ -59,10 +59,10 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My experience
@@ -90,10 +90,10 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -132,15 +132,20 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-live-in-action-2023-edition/"><u>[New] 2024 Approved Facebook Live in Action 2023 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>[New] In 2024, Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
-<li><a href="https://win-blog.techidaily.com/alienware-command-center-malfunction-heres-what-you-need-to-know/"><u>Alienware Command Center Malfunction? Here's What You Need to Know!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-sunfounder-pironman-5-bicycle-assessment-necessity-of-precise-construction-steps/"><u>Comprehensive SunFounder Pironman 5 Bicycle Assessment: Necessity of Precise Construction Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-geekworm-x1011-revealed-unboxing-the-next-gen-network-attached-storage-creator/"><u>Exclusive Geekworm X1011 Revealed: Unboxing the Next-Gen Network Attached Storage Creator</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-retro-gaming-with-raspberry-pi-introducing-the-dual-player-picade-max-from-pimoroni/"><u>Experience Retro Gaming with Raspberry Pi: Introducing the Dual Player Picade MAX From Pimoroni</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-boundaries-of-ai-with-openai/"><u>Exploring the Boundaries of AI with OpenAI</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-capturing-twitters-fun-android-and-iphone-tips/"><u>In 2024, Capturing Twitter's Fun Android & iPhone Tips</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Passcode without a Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premier-mobile-gaming-best-android-gb-simulators/"><u>[Updated] 2024 Approved Premier Mobile Gaming Best Android GB Simulators</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-seamless-approaches-to-finding-discord-groups/"><u>[Updated] Exploring Seamless Approaches to Finding Discord Groups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-hdr-shifts-the-paradigm-of-video-quality-standards/"><u>[Updated] How HDR Shifts the Paradigm of Video Quality Standards</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-exemplary-6-skyline-minecraft-abodes/"><u>[Updated] In 2024, Exemplary 6 Skyline Minecraft Abodes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862820338-acer-nitros-stunning-34-inch-curved-screen-qhd-quality-at-unbeatable-200-shop-now-on-newegg/"><u>Acer Nitro's Stunning 34-Inch Curved Screen: QHD Quality at Unbeatable $200 - Shop Now on Newegg!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-how-on-device-ai-works-a-comprehensive-guide/"><u>Demystifying How On-Device AI Works: A Comprehensive Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-verizon-nfl-sunday-pass-top-secrets-revealed/"><u>Free Verizon NFL Sunday Pass: Top Secrets Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862823268-get-the-lg-ultragear-34-qhd-display-with-g-sync-for-549-at-amazon-limited-time-offer/"><u>Get the LG Ultragear 34 QHD Display with G-Sync for $549 at Amazon – Limited Time Offer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862770787-get-the-ultimate-deal-samsung-odyssey-g50a-27-qhd-ips-display-for-only-255-on-amazon/"><u>Get the Ultimate Deal: Samsung Odyssey G50A 27 QHD IPS Display for Only $255 on Amazon!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-your-studies-10-fantastic-apps-for-the-teenage-learner/"><u>Navigating Your Studies: 10 Fantastic Apps for the Teenage Learner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862824936-professional-gamers-choice-in-depth-analysis-of-dough-spectrums-27-oled-display-top-tiers-in-color-precision-and-visual-fidelity/"><u>Professional Gamers' Choice: In-Depth Analysis of Dough Spectrum's 27 OLED Display - Top Tiers in Color Precision & Visual Fidelity!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862808588-shop-the-best-gaming-monitor-of-the-year-for-a-steal-asus-tufs-34-curve-now-at-just-under-250/"><u>Shop the Best Gaming Monitor of The Year for a Steal - ASUS TUF's 34 Curve Now At Just Under $250</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862778698-spectacular-size-and-speed-for-gamers-comprehensive-review-of-the-low-priced-monoprice-crystal-pro-40-inch-screen/"><u>Spectacular Size & Speed for Gamers - Comprehensive Review of the Low-Priced Monoprice Crystal Pro 40-Inch Screen!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862810235-title-master-your-gameplay-on-asus-rog-strix-xg27acs-the-180hz-gaming-marvel-unveiled/"><u>Title: Master Your Gameplay on Asus ROG Strix XG27ACS - The 180Hz Gaming Marvel Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-lost-ark-unable-to-reach-server-issue/"><u>Troubleshooting Steps: Resolving 'Lost Ark' Unable to Reach Server Issue</u></a></li>
 </ul></div>
 

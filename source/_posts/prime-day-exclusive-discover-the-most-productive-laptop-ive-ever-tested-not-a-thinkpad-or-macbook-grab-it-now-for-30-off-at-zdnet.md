@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Discover the Most Productive Laptop I've Ever Tested (Not a ThinkPad or MacBook) - Grab It Now for 30%% Off at ZDNet!"
-date: 2024-11-06T14:31:42.783Z
-updated: 2024-11-06T19:28:30.474Z
+date: 2024-11-13T17:00:21.874Z
+updated: 2024-11-17T21:28:40.645Z
 tags:
   - laptops
 categories:
@@ -91,10 +91,10 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,21 +133,22 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers/"><u>[Updated] Beyond Imagination The Best Sci-Fi Metaverse Films for Adventurers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-win11s-leading-video-creators-guide/"><u>[Updated] Win11's Leading Video Creators Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-bridging-fb-videos-to-home-screens-a-prospect/"><u>2024 Approved Bridging FB Videos to Home Screens A Prospect</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-immersive-sound-listening-on-the-go-with-iphone/"><u>In 2024, Immersive Sound Listening on the Go With iPhone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>In 2024, Master Guide Convert YouTube Videos Seamlessly to MPEG</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-photography-transforming-your-android-device-into-a-professional-web-camera/"><u>Mastering Mobile Photography: Transforming Your Android Device Into a Professional Web Camera</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-video-editing-mastery-top-4k8k-software-for-beginners-and-pros/"><u>New Video Editing Mastery Top 4K/8K Software for Beginners and Pros</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/permanently-switched-on-why-i-chose-dark-mode-for-good/"><u>Permanently Switched On: Why I Chose Dark Mode for Good</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/portable-charging-with-a-twist-the-mophie-battery-includes-an-additional-ac-connection-for-versatile-use/"><u>Portable Charging with a Twist: The Mophie Battery Includes an Additional AC Connection for Versatile Use</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/quick-tips-for-flipping-and-adjusting-video-orientation-on-an-android-phone/"><u>Quick Tips for Flipping and Adjusting Video Orientation on an Android Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/recognizing-age-related-wear-and-tear-in-your-4-year-old-android-device/"><u>Recognizing Age-Related Wear and Tear in Your 4-Year-Old Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/say-goodbye-to-traditional-wallets-embracing-the-convenience-of-a-magnetic-phone-pouch/"><u>Say Goodbye to Traditional Wallets: Embracing the Convenience of a Magnetic Phone Pouch.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solve-these-prevalent-android-glitches-in-just-a-few-simple-steps/"><u>Solve These Prevalent Android Glitches in Just a Few Simple Steps!</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/top-rated-dvd-video-editing-software-for-windows-and-mac-enhance-your-projects/"><u>Top-Rated DVD Video Editing Software for Windows and Mac: Enhance Your Projects</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/transforming-zombies-into-a-gameplay-delight-in-depth-analysis-of-7-days-to-die-on-sandbox-platforms/"><u>Transforming Zombies Into a Gameplay Delight: In-Depth Analysis of '7 Days to Die' On Sandbox Platforms</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated In 2024, A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions/"><u>[Updated] In 2024, How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-snap-tastic-facebooks-fleeting-media/"><u>[Updated] Snap-Tastic Facebook's Fleeting Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/549-for-the-lg-ultragear-34-qhd-monitor-features-g-sync-available-now-on-amazon/"><u>$549 for the LG Ultragear 34 QHD Monitor - Features G-Sync, Available Now on Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862812083-999-yes-get-the-epic-lg-ultragears-39-curved-gaming-monitor-with-qhd-at-amazon-today/"><u>$999? Yes! Get the Epic LG Ultragear's 39 Curved Gaming Monitor with QHD at Amazon Today</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-vidharvest-instagram-live-fb/"><u>2024 Approved VidHarvest Instagram Live (FB)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862832943-discover-the-alienware-34-inch-curved-gaming-masterpiece-exclusive-deal-for-749-at-best-buy/"><u>Discover the Alienware 34 Inch Curved Gaming Masterpiece - Exclusive Deal for $749 at Best Buy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862788628-elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-precision-with-every-swipe-the-ultimate-review-of-the-affordable-moto-g-stylus-phone/"><u>Experience Precision with Every Swipe: The Ultimate Review of the Affordable Moto G Stylus Phone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862825645-experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862809089-get-a-quality-curved-screen-for-gamers-acers-24-monitor-sale-hits-just-81/"><u>Get a Quality Curved Screen for Gamers – Acer's 24 Monitor Sale Hits Just $81</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-m34-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy M34 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/personalizing-the-ios-18-control-center-on-your-iphone-a-step-by-step-guide/"><u>Personalizing the iOS 18 Control Center on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829610-sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon!</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unleash-potential-ps5-writable-and-readable-extras-for-2024/"><u>Unleash Potential PS5' Writable & Readable Extras for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-gt-5-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme GT 5 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

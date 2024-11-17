@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficiency: Activating Energy Saving Features in Google Chrome - A Comprehensive Guide by ZDNet"
-date: 2024-11-01T09:25:33.863Z
-updated: 2024-11-06T22:49:51.710Z
+date: 2024-11-11T16:43:55.644Z
+updated: 2024-11-17T16:12:21.678Z
 tags:
   - laptops
 categories:
@@ -36,10 +36,10 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to enable Energy Saver mode on Google Chrome
@@ -47,10 +47,10 @@ In an attempt to make the browser a bit less of a drain on the batteries of port
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Requirements
@@ -58,10 +58,16 @@ It's currently an experimental feature that's not enabled by default, so you'll 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -73,6 +79,13 @@ _chrome://settings/help_
 If you are not yet running version 108 or higher, you need to update.
 
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
 
@@ -97,13 +110,6 @@ The "Enable the battery saver mode feature in the settings" flag in Google Chrom
 Adrian Kingsley-Hughes/ZDNET
 
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
 
@@ -161,24 +167,17 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-mac-tips-for-effective-lecture-saves/"><u>[New] 2024 Approved Mac Tips for Effective Lecture Saves</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>[New] Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-tips-for-uploading-external-urls-to-ig/"><u>[New] Tips for Uploading External URLs to IG</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-snapshot-excellence-the-finest-software-on-market/"><u>[Updated] 2024 Approved Snapshot Excellence The Finest Software on Market</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-2024s-elite-video-capturing-technology/"><u>[Updated] 2024'S Elite Video Capturing Technology</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-tips-for-effortless-photos-and-videos-in-windows-11/"><u>[Updated] Pro Tips for Effortless Photos & Videos in Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>2024 Approved Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/effortless-change-tracking-and-sync-with-leading-free-backup-solutions-learn-in-3-easy-steps/"><u>Effortless Change Tracking & Sync with Leading Free Backup Solutions - Learn in 3 Easy Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-guide-comprehensive-hardware-evaluations/"><u>Expert Insights From Tom's Computer Guide: Comprehensive Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-experts-t17239718736562/"><u>Exploring Computer Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-first-access-8bitdos-retro-18-mechanical-keypad-preorders-launched-exclusive-nes-famicom-and-c64-versions-shipping-in-july/"><u>Get First Access: 8Bitdo's Retro 18 Mechanical Keypad Preorders Launched – Exclusive NES, Famicom & C64 Versions Shipping in July</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-remedy-dxgierrordevicehunk-in-win1011/"><u>Guide to Remedy DXGI_ERROR_DEVICE_HUNK in Win10/11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-12-sign-bio-blueprints-on-whatsapp/"><u>In 2024, The Ultimate 12-Sign Bio Blueprints on WhatsApp</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-50-on-alienware-premium-bluetooth-gaming-keyboards/"><u>Save $50 on Alienware Premium Bluetooth Gaming Keyboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computing-expert-insights-on-pc-components-and-tech-advancements/"><u>Tom's Computing: Expert Insights on PC Components and Tech Advancements</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide-on-latest-computer-hardware/"><u>Tom's Tech Insights: Comprehensive Guide on Latest Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-hardware/"><u>Tom's Tech Insights: Your Guide to the Latest in Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964487592-unbeatable-offer-grab-an-exceptional-bargain-with-rodecaster-duo-and-complimentary-rode-nth-100m-headset-all-for-just-374/"><u>Unbeatable Offer: Grab an Exceptional Bargain with Rodecaster Duo & Complimentary Rode NTH-100M Headset - All for Just $374!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-and-components-with-tom-your-guide-to-the-latest-in-hardware-technology/"><u>Unveiling Gadgets & Components with Tom - Your Guide to the Latest in Hardware Technology</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-maximizing-exposure-the-art-of-applying-youtube-tags/"><u>2024 Approved Maximizing Exposure The Art of Applying YouTube Tags</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/analyst-forecast-oled-display-market-surges-with-over-134m-units-projected-for-yearly-delivery/"><u>Analyst Forecast: OLED Display Market Surges with Over 1.34M Units Projected for Yearly Delivery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-review-a-revolutionary-approach-towards-perfection-in-gaming-displays/"><u>Asus ROG Swift OLED (PG32UCDP) Review - A Revolutionary Approach Towards Perfection in Gaming Displays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-high-resolution-4k-screens-top-choices/"><u>Budget-Friendly High-Resolution 4K Screens: Top Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computer-news-and-reviews-by-team-toms-hardware/"><u>Cutting-Edge Computer News & Reviews by Team Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-with-tom-authoritative-hardware-insights/"><u>Decoding Tech with Tom: Authoritative Hardware Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme Narzo 60 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-12t-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 12T Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/premium-photographic-holding-websites-for-2024/"><u>Premium Photographic Holding Websites for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-full-potential-of-video-creation-with-vida-for-2024/"><u>Unlocking the Full Potential of Video Creation with Vida for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/wie-sie-viren-mit-dem-befehl-cmd-in-ihrem-pc-entfernen-und-geloschte-dateien-wiederherstellen-konnen/"><u>Wie Sie Viren Mit Dem Befehl CMD in Ihrem PC Entfernen Und Gelöschte Dateien Wiederherstellen Können</u></a></li>
 </ul></div>
 

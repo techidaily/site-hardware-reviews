@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Tomorrow's Innovations: A Deep Dive Into the Samsung Galaxy S23 & M5 Ultra - Foresight"
-date: 2024-11-04T23:54:23.709Z
-updated: 2024-11-07T14:11:30.498Z
+date: 2024-11-11T21:10:40.926Z
+updated: 2024-11-17T16:18:05.957Z
 tags:
   - laptops
 categories:
@@ -63,6 +63,13 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Textbook design, period.
 
 The design of the Galaxy Book 3 Ultra doesn't move the needle; hide the Samsung logo on the cover and it can easily pass as just another large-screen laptop that's stacked up during Black Friday. Fortunately, the sturdy aluminum build of the Galaxy Book feels much more premium than that of a discount laptop, and thanks to subtle wedges and seamless curves throughout the chassis, the 16-inch size gives off a better impression of portability than a MacBook Pro of similar size. If I had to lug around a laptop throughout a workday, I'd pick the Samsung without hesitation.
@@ -79,6 +86,13 @@ Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and g
 
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Live by the display…
 
 Believe it or not, I still consider the Galaxy Book 3 Ultra's display to be one of its key selling points. You're looking at a 16-inch, 120Hz, 3K, AMOLED display, with [most of its tech carried over](https://www.zdnet.com/article/samsung-display-brings-advanced-smartphone-oled-touch-tech-to-notebooks/) from the sharp, great-looking panels from Samsung's high-end smartphones. The colors on the laptop are, to say the least, punchy, visually distinctive, and plenty bright for most environments. Gaming and multimedia consumption are an absolute treat on the Galaxy Book.
@@ -90,13 +104,6 @@ For content creation and multitasking, the wider 16:10 dimension here is ideal. 
 The thin bezels make the 16-inch display a little more manageable.
 
 June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best use of space?
 
@@ -111,6 +118,13 @@ The keys have a decent amount of travel and are evenly spaced throughout the cha
 June Wan/ZDNET
 
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A dedicated graphics card matters
 
@@ -138,13 +152,6 @@ By the numbers, the Galaxy Book 3 Ultra is neck and neck with Apple's older [M1 
 
 While your Twitter feed isn't going to load any faster because one laptop scored higher than the other, we're looking at seconds (or even minutes) of faster speeds when it comes to graphics-intensive applications like exporting 4K videos and loading AAA games.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## An ecosystem of its own
 
 Much like Apple's deep integration across devices, Samsung's been building out an ecosystem of its own. This, in my opinion, is the biggest reason anyone should consider the Galaxy Book, let alone the Ultra. With the latest laptops, Galaxy users can sync their smartphones and tablets to take advantage of features like Multi Control, which allows you to navigate and control multiple devices through the Galaxy Book's keyboard and trackpad, Quick Share for wireless data transferring, and more.
@@ -158,10 +165,10 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 [Buy the Samsung Galaxy Book 3 Ultra $2,200 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -173,13 +180,6 @@ Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/lin
 For content creators and professional users, especially if you already own a [Samsung smartphone](https://www.zdnet.com/article/best-samsung-phone/) or tablet, I could see the Ultra laptop being worth the splurge. It's also one of the few non-gaming laptops that I'd genuinely recommend for those who play.
 
 But at a starting price of $2,200, there are plenty of other, more affordable yet just as powerful laptops that you should be considering, including the [last-gen MacBook Pro (M1 Pro)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C055dabfc-a9d8-47d4-b1d4-199c62d89af5%7Cdtp&dtb=1). I'd also look elsewhere if you rely heavily on an SD card for file transferring. In my case, I'm always taking pictures and videos with a mirrorless camera, and being able to move my files locally, with no fear of wonky wireless connections getting in the way, is a must.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -227,19 +227,16 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-reflect-and-paraphrase-restate-what-youve-heard-in-your-own-words-to-ensure-comprehension-and-ask-clarifying-questions-if-needed/"><u>[New] 2024 Approved Reflect and Paraphrase Restate What You've Heard in Your Own Words to Ensure Comprehension, and Ask Clarifying Questions if Needed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-ordinary-to-stunning-a-guide-to-hdr-portraits/"><u>[Updated] From Ordinary to Stunning A Guide to HDR Portraits</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-online-video-snatcher-download-favorites-instantly/"><u>[Updated] In 2024, Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-budget-friendly-high-performance-gaming-laptops-below-1000/"><u>Best Budget-Friendly High-Performance Gaming Laptops Below $1,000</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bridging-the-gap-between-standard-and-superior-video-quality-techniques/"><u>Bridging the Gap Between Standard and Superior Video Quality Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cutting-edge-tools-the-best-9-gif-recorders-for-animated-windows-content/"><u>Cutting-Edge Tools The Best 9 GIF Recorders for Animated Windows Content</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-bios-related-hard-drive-errors/"><u>Demystifying BIOS-Related Hard Drive Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-of-top-tier-computer-hardware-by-toms-technology-hub/"><u>Detailed Analysis of Top-Tier Computer Hardware by Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-hardware-insights-with-toms-technology-hub/"><u>Discover Hardware Insights with Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dominate-your-games-secure-the-powerful-msi-katana-laptop-156-nvidia-geforce-rtx-4070-for-an-unbeatable-price-of-1199/"><u>Dominate Your Games: Secure the Powerful MSI Katana Laptop (15.6, NVIDIA GeForce RTX 4070) for an Unbeatable Price of $1,199</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-xcover-7-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy XCover 7 FRP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862735364-score-an-epic-deal-nitro-16-gaming-laptop-with-amd-and-rtx-acers-rtx-4070-for-just-1129/"><u>Score an Epic Deal: Nitro 16 Gaming Laptop with AMD and RTX ([Acer's RTX 4070) for Just $1,129</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-free-gpt-4-but-dont-ignore-the-exclusive-perks-available-to-plus-users/"><u>Embrace Free GPT-4; But Don’t Ignore the Exclusive Perks Available to Plus Users.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-hd-photography-insta360s-new-tiny-go-3-shoots-in-stunning-4k-resolution/"><u>Experience Ultra-HD Photography: Insta360's New Tiny Go 3 Shoots in Stunning 4K Resolution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cherry-xtrfy-k5v2-a-game-changing-review-with-cutting-edge-red-keyswitch-technology/"><u>Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gemini-technology-fuels-nests-latest-innovative-smart-thermostat/"><u>Gemini Technology Fuels Nest's Latest Innovative Smart Thermostat</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-github-desktop-for-windows-os-devops/"><u>Harness the Power of GitHub Desktop for Windows OS DevOps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-new-era-of-racing-vr-bike-selection-guide/"><u>In 2024, New Era of Racing VR Bike Selection Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-iphone-reveal-rumors-surrounding-iphone-16-series-uncovered/"><u>New iPhone Reveal - Rumors Surrounding iPhone 16 Series Uncovered!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-graphics-distortions-a-step-by-nstep-guide-to-fixing-warzone-issues/"><u>Overcoming Graphics Distortions: A Step-by-nStep Guide to Fixing Warzone Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-new-world-audio-problems/"><u>Ultimate Guide: Solving New World Audio Problems</u></a></li>
 </ul></div>
 

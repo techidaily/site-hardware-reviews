@@ -1,7 +1,7 @@
 ---
 title: "DIY Smartphone & Laptop Care: How Apple's New Self-Service Repair Program Empowers Users"
-date: 2024-11-01T20:46:52.777Z
-updated: 2024-11-06T22:59:40.038Z
+date: 2024-11-14T19:56:20.225Z
+updated: 2024-11-17T16:39:29.639Z
 tags:
   - laptops
 categories:
@@ -68,16 +68,10 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -85,6 +79,13 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -113,6 +114,13 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -156,13 +164,6 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -179,13 +180,6 @@ Jason Hiner/ZDNET
 
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a59d7ad-a472-4505-abd5-734590cf967e%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0a59d7ad-a472-4505-abd5-734590cf967e%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final thought
 
 At first glance, it may seem odd that Apple is releasing the upgraded [M3 MacBook Air](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m3&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) lineup just nine months after the 15-inch M2 version was [first unveiled at Apple WWDC in June 2023](https://www.zdnet.com/video/apple-wwdc-2023-every-product-revealed-vision-pro-15-inch-macbook-air-more/). But, this is a good thing. For the 13-inch and 15-inch MacBook Air models, this is an incremental upgrade that brings them up to date with [the new M3 processors that Apple announced last fall](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/) and continues them on their trajectory to be more capable and more of the light professional-grade laptops that many people can use to handle all of their work. 
@@ -197,10 +191,10 @@ Up close with the M3 MacBook Air 15-inch in Midnight.
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -249,20 +243,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-incorporating-film-into-lessons/"><u>[New] Mastering the Art of Incorporating Film Into Lessons</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-staying-pure-hearted-amidst-the-ruse-of-ratings-and-likes/"><u>[New] Staying Pure-Hearted Amidst the Ruse of Ratings and Likes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-taming-echoes-syncing-voices-to-obs-channel/"><u>[New] Taming Echoes Syncing Voices to OBS Channel</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728475341490-windows-11-onedrive5/"><u>「關於一起在 Windows 11 中解決OneDrive資料夾同步問題的5種技巧」</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862705155-acers-game-changer-steal-the-latest-tech-at-1129-rtx-4070-plus-amd-cpu-powered-nitro-16-laptop-unleashed/"><u>Acer's Game-Changer: Steal the Latest Tech at $1,129 - RTX 4070 + AMD CPU Powered Nitro 16 Laptop Unleashed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-elite-gaming-laptops-top-5-options-for-gamers/"><u>Affordable Elite Gaming Laptops - Top 5 Options for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862736363-copilotplus-showcases-cutting-edge-snapdragon-notebooks-join-our-live-testing-event/"><u>Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-potential-data-security-issues-the-hidden-dangers-of-chatbots/"><u>Navigating Through Potential Data Security Issues: The Hidden Dangers of Chatbots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862709693-score-the-new-deal-dell-g16-16-inch-gaming-laptop-at-an-unbeatable-price-of-949/"><u>Score the New Deal: Dell G16 16-Inch Gaming Laptop at an Unbeatable Price of $949</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-essential-factors-you-shouldnt-overlook-when-shopping-for-your-next-dashcam/"><u>Top 9 Essential Factors You Shouldn't Overlook When Shopping for Your Next Dashcam</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-electronics-tips-and-reviews-by-toms-hardware-professionals/"><u>Unveiling High-Performance Electronics - Tips and Reviews by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728483797566-windows-10/"><u>Windows 10 刻存辦法故障修正</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1789149-9780698196636-8-minute-meditation-expanded/"><u>8 Minute Meditation Expanded | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-low-cost-wireless-hdmi-dongles-deliver-quality-performance-in-gaming-cinema-and-slideshows/"><u>Can Low-Cost Wireless HDMI Dongles Deliver Quality Performance in Gaming, Cinema, and Slideshows?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-the-perfect-keyboard-companer-for-your-new-steam-deck-a-comprehensive-guide/"><u>Choosing the Perfect Keyboard Companer for Your New Steam Deck: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-the-right-flagship-ipad-pro-x-vs-ipad-pro-y-a-comprehensive-guide/"><u>Choosing the Right Flagship: IPad Pro X vs iPad Pro Y – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-deepfakes-openais-ai-to-counteract-chatgpt-copycats/"><u>Detecting Deepfakes: OpenAI's AI to Counteract ChatGPT Copycats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-power-why-intel-gpus-demand-your-attention-now/"><u>Embrace the Power: Why Intel GPUs Demand Your Attention Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-the-past-my-reasons-for-favoring-vintage-video-games-over-contemporary-titles/"><u>Embracing the Past: My Reasons for Favoring Vintage Video Games over Contemporary Titles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-smart-homes-ahead-how-three-key-missteps-led-to-superior-automation-scenarios/"><u>Enhanced Smart Homes Ahead: How Three Key Missteps Led to Superior Automation Scenarios</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enjoy-steam-gameplay-anywhere-with-stream-remote-play-no-need-for-a-dedicated-steam-link/"><u>Enjoy Steam Gameplay Anywhere with Stream Remote Play - No Need for a Dedicated Steam Link!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offers-on-electronics-save-big-on-items-like-the-apple-pencil-and-amazon-fire-hd-10/"><u>Exclusive Offers on Electronics: Save Big on Items Like the Apple Pencil & Amazon Fire HD 10</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/explore-the-top-8-solutions-for-retrieving-lost-imessages-on-your-iphone/"><u>Explore the Top 8 Solutions for Retrieving Lost iMessages on Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions/"><u>In 2024, The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solutions-to-absent-screen-behavior-on-devices/"><u>Solutions to Absent Screen Behavior on Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-to-navigating-lg-televisions-and-set-top-box-channels/"><u>The Complete Guide to Navigating LG Televisions and Set-Top Box Channels</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-downloader-apps-youtube-videos-on-android-compared/"><u>Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hewlett-Packard Shines with Impressive Q4 Performance and Optimistic Q1 Forecast | ZDNet
-date: 2024-09-18 17:14:29
-updated: 2024-09-20 10:11:19
+date: 2024-11-16T18:50:35.682Z
+updated: 2024-11-17T17:11:20.867Z
 tags:
   - printer
 categories:
@@ -75,11 +75,40 @@ As for the outlook, HP projected first quarter non-GAAP earnings of 99 cents a s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ectified-invisible-shortcut-on-youtube-for-2024/"><u>[New] Rectified Invisible Shortcut on YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-revolutionizing-video-quality-on-tiktok/"><u>[Updated] 2024 Approved Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capture-more-than-memories-adding-fun-filters-to-snaps/"><u>2024 Approved Capture More Than Memories Adding Fun Filters to Snaps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foolproof-method-for-adding-a-link-to-your-tiktok-bio/"><u>2024 Approved Foolproof Method for Adding a Link to Your TikTok Bio</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-multimedia-conversion-switch-between-webm-mp4-mp3-and-mov-formats-easily/"><u>Effortless Multimedia Conversion: Switch Between WebM, MP4, MP3, and MOV Formats Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 13 mini with a Mask On</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-evaluations-from-toms-hardware-experts/"><u>In-Depth Tech Evaluations From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-windows-gameplay-unboxing-the-high-end-asus-rog-ally-x-gaming-device/"><u>Mastering Mobile Windows Gameplay: Unboxing the High-End Asus ROG Ally X Gaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-in-depth-reviews-by-toms-hardware-experts/"><u>Mastering Technology: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/netgear-orbi-770-is-a-high-speed-wi-fi-mesh-network-worth-its-cost/"><u>Netgear Orbi 770: Is a High-Speed Wi-Fi Mesh Network Worth Its Cost?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341692803-ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/proven-methods-for-boosting-video-watchers-for-2024/"><u>Proven Methods for Boosting Video Watchers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-xcover-6-pro-tactical-edition-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy XCover 6 Pro Tactical Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/skype2024top11/"><u>Skype錄影技巧大解密：专家推薦2024年度最好用工具TOP11列表</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-raspberry-pi-cm4-review-engineering-a-new-era-in-industrial-computing/"><u>The Raspberry Pi CM4 Review: Engineering a New Era in Industrial Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-toms-review-channel-in-depth-analysis-of-cutting-edge-computing-devices/"><u>The Tom's Review Channel: In-Depth Analysis of Cutting-Edge Computing Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-analysis/"><u>Tom's Tech Reviews: In-Depth Insights and Analysis</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unleash-peak-performance-windows-10-update-with-amd-graphics/"><u>Unleash Peak Performance: Windows 10 Update with AMD Graphics!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-with-toms-review-panel/"><u>Unveiling Technology Secrets with Tom's Review Panel</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

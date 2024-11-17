@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Expert Evaluation of the Lenovo IdeaPad Flex 5I - Superior ARM Power, Integrated 5G Connectivity & Extended Endurance
-date: 2024-11-05T03:57:42.430Z
-updated: 2024-11-07T00:25:21.848Z
+date: 2024-11-12T19:07:45.623Z
+updated: 2024-11-17T20:54:14.356Z
 tags:
   - laptops
 categories:
@@ -66,10 +66,10 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +83,10 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +118,16 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +181,16 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,21 +238,20 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-advanced-methods-for-creating-quick-quality-thumbnails-for-2024/"><u>[New] Advanced Methods for Creating Quick, Quality Thumbnails for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-8-suggestions-for-high-quality-iphone-videography-projects/"><u>[Updated] 2024 Approved Top 8 Suggestions for High-Quality iPhone Videography Projects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-mobile-app-dev-editing-systems/"><u>[Updated] Best Mobile App Dev Editing Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/anddvd/"><u>最新のフリーソフトでシンプル&効率的にDVD作成！限界なし、完全版が手に入ります</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-the-windows-http-error-a-guide-to-fixes/"><u>Decoding the Window's HTTP Error: A Guide to Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-video-codecs-in-depth-comparison-of-mp4-and-h2c64-technologies/"><u>Decoding Video Codecs: In-Depth Comparison of MP4 and H.2C64 Technologies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-advanced-equipment-with-toms-gadgets-a-deep-dive-into-modern-technology/"><u>Discovering Advanced Equipment with Tom's Gadgets: A Deep Dive Into Modern Technology</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhance-your-data-skills-simple-techniques-for-editing-columns-and-rows-in-microsoft-excel/"><u>Enhance Your Data Skills: Simple Techniques for Editing Columns & Rows in Microsoft Excel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-your-pc-with-corsair-elite-6500-and-elite-nano-atx-motherboards-customizable-wood-or-aluminum-accent-panels-included/"><u>Enhance Your PC with Corsair Elite 6500 & Elite Nano ATX Motherboards: Customizable Wood or Aluminum Accent Panels Included!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expand-your-digital-space-the-raijintek-zofos-ultra-featuring-fourteen-spacious-drive-bays/"><u>Expand Your Digital Space - The Raijintek Zofos Ultra, Featuring Fourteen Spacious Drive Bays</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-asus-rog-phone-8-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Asus ROG Phone 8 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-lian-li-o11-vision-case-analysis-insights-with-tempered-glass/"><u>In-Depth Lian Li O11 Vision Case Analysis: Insights with Tempered Glass</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/strategies-for-improving-your-interview-prowess/"><u>Strategies for Improving Your Interview Prowess</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-reviews-and-insights/"><u>Tom's Tech Hub: Innovative Reviews & Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-guides-on-computer-hardware/"><u>Tom's Tech Insights: Expert Guides on Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-deciphering-disguised-dialogues-with-youtube-viewers/"><u>[New] In 2024, Deciphering Disguised Dialogues with YouTube Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-next-gen-escapades-upcoming-best-playstation-vr-games-to-try/"><u>[New] Next-Gen Escapades Upcoming Best PlayStation VR Games to Try</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-2023s-prime-divers-top-tier-aquatic-camera-choices/"><u>[Updated] In 2024, 2023'S Prime Divers Top-Tier Aquatic Camera Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-scour-these-top-12-sites-for-stock-photos-at-zero-cost/"><u>2024 Approved Scour These Top 12 Sites for Stock Photos at Zero Cost</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-technology-evaluations-by-toms-hardware-experts/"><u>Advanced Technology Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/all-about-tech-in-depth-analysis-from-tomhemline-of-hardware/"><u>All About Tech: In-Depth Analysis From Tom'hemline of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-9000-mastery-discover-asrocks-groundbreaking-motherboard-selection/"><u>AMD Ryzen 9000 Mastery: Discover ASRock's Groundbreaking Motherboard Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rare-frankenboards-maximus-xiii-hero-with-custom-so-dimm-memory-slots-and-authentic-kingston-fury-logo-a-collectors-delight/"><u>Asus' Rare Frankenboards: Maximus XIII Hero with Custom So-DiMM Memory Slots and Authentic Kingston Fury Logo - A Collector’s Delight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/certified-msi-z890-and-b86-motherboard-lineup-supporting-the-new-intel-arrow-lake-s-processor-exclusive-preview-before-computex-2024/"><u>Certified MSI Z890 & B86) Motherboard Lineup Supporting the New Intel Arrow Lake-S Processor - Exclusive Preview Before Computex 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-tech-knowledge-at-your-fingertips-toms-hardware-corner/"><u>Comprehensive Tech Knowledge at Your Fingertips - Tom's Hardware Corner</u></a></li>
+<li><a href="https://win-popular.techidaily.com/get-ready-for-microsofts-latest-offering-a-potential-boon-or-bane-to-your-tech-experience-insights-from-zdnet/"><u>Get Ready for Microsoft's Latest Offering: A Potential Boon or Bane to Your Tech Experience | Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-epson-v700-printing-software-for-windows-os-versions-7-to-10/"><u>Get the Latest Epson V700 Printing Software for Windows OS Versions 7 to 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862869889-intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-initialization-hurdle-in-d3d/"><u>Overcoming Initialization Hurdle in D3D</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-windows-11/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Windows 11</u></a></li>
 </ul></div>
 

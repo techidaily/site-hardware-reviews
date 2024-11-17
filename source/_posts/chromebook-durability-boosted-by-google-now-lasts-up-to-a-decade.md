@@ -1,7 +1,7 @@
 ---
 title: Chromebook Durability Boosted by Google - Now Lasts Up to a Decade
-date: 2024-11-01T04:29:02.055Z
-updated: 2024-11-07T05:57:00.179Z
+date: 2024-11-12T16:31:57.619Z
+updated: 2024-11-17T21:24:08.371Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -60,10 +66,10 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -75,10 +81,10 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -125,24 +131,24 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-hottest-10-tiktok-filter-trends-to-captivate-viewers/"><u>[New] In 2024, Hottest 10 TikTok Filter Trends to Captivate Viewers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-live-action-anytime-anywhere-our-ultimate-12-stream-service/"><u>[New] Live Action Anytime, Anywhere - Our Ultimate 12-Stream Service</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862705261-amazing-savings-alert-the-razer-blade-15-gaming-laptop-is-now-shockingly-affordable-with-a-huge-discount/"><u>Amazing Savings Alert! The Razer Blade 15 Gaming Laptop Is Now Shockingly Affordable with a Huge Discount!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-down-average-podcaster-salary-for-2024/"><u>Breaking Down Average Podcaster Salary for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/celebrate-memorial-day-with-unbeatable-savings-the-new-asus-tuf-gaming-a13-laptop-for-just-658/"><u>Celebrate Memorial Day with Unbeatable Savings: The New Asus TUF Gaming A1^3 Laptop for Just $658!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-tech-a-tour-of-the-latest-in-hardware-by-tom/"><u>Discover Cutting-Edge Tech: A Tour of the Latest in Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-gear-insights-with-toms-hardware-mastery/"><u>Discover Top Gear Insights with Tom's Hardware Mastery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-computer-gear-hub/"><u>Expert Advice From Tom's Computer Gear Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-electronics-the-toms-hardware-compendium/"><u>Expert Advice on Electronics - The Tom's Hardware Compendium</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-top-tier-hardware-reviews-with-toms-electronics-insights/"><u>Explore Top-Tier Hardware Reviews with Tom's Electronics Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862732090-get-the-powerhouse-dell-g16-gaming-laptop-now-at-just-949/"><u>Get the Powerhouse Dell G16 Gaming Laptop Now at Just $949!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hp-enterprise-files-lawsuit-against-inspur-over-patent-violations-amid-ongoing-us-business-activities/"><u>HP Enterprise Files Lawsuit Against Inspur Over Patent Violations Amid Ongoing U.S. Business Activities</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y78-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y78 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>In 2024, Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-2024s-best-free-video-editing-programs-for-everyone/"><u>New The Ultimate List 2024S Best Free Video Editing Programs for Everyone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-fifa-21-crashes-on-windows-in-depth-solutions-and-prevention-techniques/"><u>Overcome FIFA 21 Crashes on Windows - In-Depth Solutions and Prevention Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-top-9-tools-for-making-gifs/"><u>The Ultimate Guide Top 9 Tools for Making GIFs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-ranked-password-security-tools-of-2024-professional-reviews-zdnet/"><u>Top-Ranked Password Security Tools of 2024: Professional Reviews | ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862703895-transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-the-numbers-youtube-earnings-and-cpm-insights/"><u>[New] Navigating the Numbers YouTube Earnings & CPM Insights</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-budget-friendly-top-7-mac-apps-for-enhanced-tiktok-videos/"><u>[Updated] In 2024, Budget-Friendly Top 7 Mac Apps for Enhanced TikTok Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimize-iphone-usage-how-to-manipulate-picture-in-picture-on-youtube-for-2024/"><u>[Updated] Optimize iPhone Usage How to Manipulate Picture-in-Picture on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-secrets-for-converting-instagram-vids-into-high-quality-mp4/"><u>[Updated] Unveiling Secrets for Converting Instagram Vids Into High-Quality MP4</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-boosting-engagement-and-reach-secrets-of-instagram-video-uploads-on-desktop/"><u>In 2024, Boosting Engagement & Reach Secrets of Instagram Video Uploads on Desktop</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x50-gt-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X50 GT Phone FRP Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lenovo-and-asus-team-up-with-meta-for-cutting-edge-horizon-os-vr-gear/"><u>Lenovo & Asus Team Up with Meta for Cutting-Edge Horizon OS VR Gear</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-how-to-stabilize-your-video-in-the-final-cut-pro/"><u>New How to Stabilize Your Video in the Final Cut Pro?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/post-update-glitch-printer-no-longer-functions/"><u>Post-Update Glitch: Printer No Longer Functions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-autonomous-smartdesk-a-balancing-act-between-ease-of-assembly-and-functionality/"><u>Review of the Autonomous SmartDesk: A Balancing Act Between Ease of Assembly and Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revitalize-your-typing-experience-creative-combinations-of-keycap-sets/"><u>Revitalize Your Typing Experience: Creative Combinations of Keycap Sets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-typing-experience-with-keychron-q1-hes-magnetic-mechanism/"><u>Revolutionizing Typing Experience with Keychron Q1 HE's Magnetic Mechanism</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/section-2b-five-factes-to-remember/"><u>Section 2B: Five Factes to Remember</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/six-strategies-for-succeeding-in-a-world-led-by-algorithms/"><u>Six Strategies for Succeeding in a World Led by Algorithms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/struggling-with-weak-wifi-signal-try-this-essential-checklist-before-upgrading-your-router/"><u>Struggling with Weak Wifi Signal? Try This Essential Checklist Before Upgrading Your Router</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-external-drives-why-theyre-indispensable-even-with-cloud-backup-options/"><u>The Essential Guide to External Drives: Why They're Indispensable Even With Cloud Backup Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-rise-of-horizontal-pc-cases-as-the-ultimate-choice-in-motherboard-enclosures-insights-revealed/"><u>The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed</u></a></li>
 </ul></div>
 

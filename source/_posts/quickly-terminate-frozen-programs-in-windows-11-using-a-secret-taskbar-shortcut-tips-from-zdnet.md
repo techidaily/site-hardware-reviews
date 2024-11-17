@@ -1,7 +1,7 @@
 ---
 title: Quickly Terminate Frozen Programs in Windows 11 Using a Secret Taskbar Shortcut - Tips From ZDNet
-date: 2024-09-19 22:42:42
-updated: 2024-09-20 10:45:38
+date: 2024-11-10T20:51:54.354Z
+updated: 2024-11-17T16:44:35.381Z
 tags:
   - printer
 categories:
@@ -49,6 +49,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Things to know
 
 This is a developer tool, which means you should remember Uncle Ben's warning to Peter Parker: "With great power comes great responsibility." 
@@ -90,11 +97,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-premier-mobile-dev-editor-software-guide/"><u>[Updated] Premier Mobile Dev Editor Software Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-free-power-of-youtube-imagery-extraction-for-2024/"><u>[Updated] Unlock Free Power of YouTube Imagery Extraction for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-zen-5-revolutionizes-gaming-in-depth-analysis-of-the-ryzen-9600x-vs-ryzen-7/"><u>AMD Zen 5 Revolutionizes Gaming: In-Depth Analysis of the Ryzen 9600X Vs. Ryzen 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fast-track-data-handling-comparing-the-cutting-edge-lexar-sl500-and-sl600-drives-featuring-over-20-gigabit-per-second-transfer-rates/"><u>Fast-Track Data Handling: Comparing the Cutting-Edge Lexar SL500 and SL600 Drives Featuring Over 20 Gigabit Per Second Transfer Rates</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/how-to-successfully-monetize-your-blogging-project-using-buyselladscom/"><u>How to Successfully Monetize Your Blogging Project Using BuySellAds.com</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mac-enhancement-synchronized-screen-plus-audio-tracking/"><u>In 2024, Mac Enhancement Synchronized Screen + Audio Tracking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-pimoronis-nvme-ssd-base-duo-a-comprehensive-review/"><u>In-Depth Analysis: Pimoroni's NVMe SSD Base Duo - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-lattepanda-benchmarks-outpacing-raspberry-pi-4-with-speed-at-a-higher-cost/"><u>Mu LattePanda Benchmarks: Outpacing Raspberry Pi 4 with Speed, at a Higher Cost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/obs-vs-wirecast-ultimate-broadcast-showdown-for-2024/"><u>OBS vs Wirecast Ultimate Broadcast Showdown for 2024</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/status-of-microsofts-promise-for-a-complimentary-windows-11-update/"><u>Status of Microsoft's Promise for a Complimentary Windows 11 Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-solutions-to-arduino-uno-driver-issues-in-windows-os/"><u>Step-by-Step Solutions to Arduino Uno Driver Issues in Windows OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341744890-the-initial-planning-phase-includes-a-detailed-survey-of-the-propertys-physical-features/"><u>The Initial Planning Phase Includes a Detailed Survey of the Property's Physical Features.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-enthusiasts-discover-toms-hardware-insights/"><u>The Ultimate Resource for Computer Enthusiasts - Discover Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-gadgets-and-hardware-insights/"><u>Tom's Tech Review: Unveiling the Latest Gadgets and Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-digest/"><u>Unveiling Gadgets with Tom's Hardware Digest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-hardware-perspective/"><u>Unveiling New Gadgets with Tom - A Hardware Perspective</u></a></li>
+</ul></div>
+

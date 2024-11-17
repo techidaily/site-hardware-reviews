@@ -1,7 +1,7 @@
 ---
 title: Day Two Highlights at CES 2023 - Top Tech Unveiled
-date: 2024-11-05T13:38:06.273Z
-updated: 2024-11-07T06:03:27.599Z
+date: 2024-11-12T18:39:05.675Z
+updated: 2024-11-17T16:58:47.188Z
 tags:
   - laptops
 categories:
@@ -34,6 +34,13 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 LG
 
 While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/), it also launched a surprise wireless plug-and-play 97-inch TV. It comes with Zero Connect and One Wall Design for a flush wall experience – no wires needed.
@@ -48,13 +55,6 @@ In addition to a new line of [eco-friendly laptops for workers and students](htt
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The year of the smart toilet sensor
 
 Withings
@@ -64,10 +64,10 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MSI drops new laptops for gamers and creatives
@@ -77,16 +77,10 @@ MSI
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Roku and Hisense offer new models and upgrades
@@ -96,13 +90,6 @@ Roku
 While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-hisense-unveils-new-u6k-u7k-and-u8k-tvs/) with ULED X technology, Roku announced that it's entering the smart TV game with a new line of Roku panels. 
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
 
@@ -121,6 +108,13 @@ HP
 While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a series of other laptops, monitors, and webcams. Also announced was a focus on sustainability, with many products being constructed from post-consumer recycled materials.
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Track your feathered friends with the Bird Buddy smart feeder
 
@@ -184,22 +178,24 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-stable-shooting-ideal-gimbals-and-handhelds-reviewed/"><u>[Updated] 2024 Approved Stable Shooting Ideal Gimbals & Handhelds Reviewed</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-premium-panzoid-structure-packs/"><u>[Updated] In 2024, Premium Panzoid Structure Packs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-pathways-in-virtual-reality-biking/"><u>[Updated] Pioneering Pathways in Virtual Reality Biking</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/approach-recall-the-initial-stage-of-planning-for-land-division/"><u>Approach: Recall the Initial Stage of Planning for Land Division</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-computer-components-insights-from-toms-hardware-reviews/"><u>Discover the Best Computer Components - Insights From Tom's Hardware Reviews</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-top-rated-image-transition-tools/"><u>Explore Top-Rated Image Transition Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-flsun-s1-high-velocity-and-distinctive-delta-shape/"><u>In-Depth Analysis of the FLSun S1 - High Velocity and Distinctive Delta Shape</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-performance-breakdown-of-the-nzxt-c1email-protected-platinum-supply/"><u>In-Depth Performance Breakdown of the NZXT C1([email Protected]) Platinum Supply</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-with-toms-hardware-guide/"><u>Mastering Equipment with Tom's Hardware Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-makeup-tutorials-launching-your-glam-vlog/"><u>Mastering Makeup Tutorials Launching Your Glam Vlog</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-top-10-talking-photo-online-tools-you-have-to-try/"><u>New 2024 Approved Top 10 Talking Photo Online Tools You Have To Try</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-bluetooth-audio-delay-in-no-time-with-these-simple-fixes/"><u>Resolve Bluetooth Audio Delay in No Time with These Simple Fixes!</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-k70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-metaverse-unraveled-a-cosmic-collision/"><u>The Metaverse Unraveled: A Cosmic Collision</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341724300-toms-guide-to-high-performance-gadgets-and-components-expert-reviews/"><u>Tom's Guide to High-Performance Gadgets and Components - Expert Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: Comprehensive Analysis of the Latest Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/workshops-and-webinars/"><u>Workshops and Webinars</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elite-4k-gaming-laptops-ranked-1/"><u>[New] 2024 Approved Elite 4K Gaming Laptops Ranked #1</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssential-gif-making-software-the-ultimate-guide-for-2024/"><u>[New] Essential GIF Making Software The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-camera-glory-spotlight-on-top-10-female-youtubers/"><u>[Updated] 2024 Approved Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>[Updated] 2024 Approved The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-list-of-free-video-openers/"><u>[Updated] 2024 Approved The Ultimate List of Free Video Openers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout-for-2024/"><u>[Updated] How To Streamline the Integration of YouTube Playlists Into a Site's Layout for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-innovate-visual-signatures-for-free-using-graphic-patterns/"><u>2024 Approved Innovate Visual Signatures for Free Using Graphic Patterns</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/complete-breakdown-space-battles-and-immersive-gameplay-in-star-wars-squadrons/"><u>Complete Breakdown: Space Battles & Immersive Gameplay in Star Wars: Squadrons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-the-spectacular-display-dynamics-of-the-oled-gaming-monitor-gigabyte-aorus-co49dq-with-impressive-colors-and-contrasts/"><u>Expert Review: The Spectacular Display Dynamics of the OLED Gaming Monitor - Gigabyte Aorus CO49DQ with Impressive Colors & Contrasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-logitech-g515-lightspeed-tkl-budget-friendly-and-sleek-design/"><u>In-Depth Analysis of the Logitech G515 Lightspeed TKL - Budget-Friendly and Sleek Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-highpoint-rocket-1608a-drive-upgrade-add-in-for-boosted-speed-and-capacity/"><u>In-Depth Look at the HighPoint Rocket 1608A Drive Upgrade Add-In for Boosted Speed and Capacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-interstellar-dominance-the-ultimate-stellaris-strategies/"><u>Mastering Interstellar Dominance - The Ultimate Stellaris Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-the-economical-and-efficient-asrock-b760m-pro-rs-motherboard-great-for-m2-storage-expansion/"><u>Review of the Economical and Efficient ASRock B760M Pro RS Motherboard: Great for M.2 Storage Expansion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-budding-gardeners-handbook-to-sustainable-veggie-gardening-from-seedling-to-harvest/"><u>The Budding Gardener's Handbook to Sustainable Veggie Gardening From Seedling to Harvest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-in-speed-reviewing-the-unleashed-potential-of-crucials-overclocked-ddr5-6000-16gb-ram-modules/"><u>The Game Changer in Speed: Reviewing the Unleashed Potential of Crucial's Overclocked DDR5-6000 16GB RAM Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-choices-by-toms-hardware/"><u>The Ultimate Guide to Hardware - Choices by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
 </ul></div>
 

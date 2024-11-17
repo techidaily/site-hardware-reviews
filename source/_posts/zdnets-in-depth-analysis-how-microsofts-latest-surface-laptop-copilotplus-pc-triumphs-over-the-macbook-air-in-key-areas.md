@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis: How Microsoft's Latest Surface Laptop Copilot+ PC Triumphs Over the MacBook Air in Key Areas"
-date: 2024-11-02T21:55:03.324Z
-updated: 2024-11-07T07:14:55.169Z
+date: 2024-11-16T20:19:58.468Z
+updated: 2024-11-17T20:53:49.626Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,10 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -66,16 +66,10 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -91,10 +85,10 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C88688729-0a22-42fb-9c25-1fc3c85c51a1%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -136,15 +130,18 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-sweeping-vistas-with-your-iphone-social-media-360-tips-for-2024/"><u>[New] Sweeping Vistas with Your iPhone Social Media 360 Tips for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-se-2020-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone SE (2020) Safe and Legal</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-restoring-spotify-functionality-while-driving-with-android-auto/"><u>Essential Tips: Restoring Spotify Functionality While Driving With Android Auto</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-androids-full-potential-with-these-5-ingenious-screen-grab-techniques/"><u>Unlocking Android's Full Potential with These 5 Ingenious Screen Grab Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-guide-final-opportunity-to-access-your-lg-smartphone-securely/"><u>Unlocking Guide: Final Opportunity to Access Your LG Smartphone Securely</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-of-the-full-specs-anticipate-the-google-pixel-7s-grand-release-in-october/"><u>Unveiling of the Full Specs: Anticipate the Google Pixel 7'S Grand Release in October</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-solutions-for-pixel-6-pro-when-will-that-persistent-screen-flicker-stop/"><u>Upcoming Solutions for Pixel 6 Pro: When Will That Persistent Screen Flicker Stop?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/video-capturing-warriors-choosing-between-obs-and-fraps-for-2024/"><u>Video Capturing Warriors Choosing Between OBS and Fraps for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>[New] Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-professional-gamers-guide-optimal-video-capture-tips/"><u>[Updated] 2024 Approved Professional Gamers' Guide Optimal Video Capture Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[Updated] In 2024, From Videos to Vibrant GIFs YouTube Conversion Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-zoom-room-basics-for-newbies/"><u>[Updated] In 2024, Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-essential-techniques-for-efficient-iphone-7-recording/"><u>2024 Approved Essential Techniques for Efficient iPhone 7 Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862781576-experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-resolve-hey-siri-issues-on-your-iphone/"><u>How to Troubleshoot and Resolve 'Hey Siri' Issues on Your iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-with-tom-a-comprehensive-guide/"><u>Navigating the Latest in Hardware with Tom - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-todays-tech-landscape-a-look-inside-toms-hardware/"><u>Navigating Today's Tech Landscape: A Look Inside Tom's Hardware</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photobooth-playback-error-constant-pause-issues-for-2024/"><u>Photobooth Playback Error Constant Pause Issues for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/superior-4k-screens-our-1-picks-for-2024/"><u>Superior 4K Screens Our #1 Picks for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-asus-rog-swift-pg49wcd-a-49-oled-marvel-for-gaming-excellence/"><u>The Game Changer: Asus ROG Swift PG49WCD - A 49 OLED Marvel for Gaming Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turn-your-kindle-into-a-customizable-e-ink-display-a-step-by-step-devrepo-guide/"><u>Turn Your Kindle Into a Customizable E-Ink Display: A Step-by-Step DevRepo Guide</u></a></li>
 </ul></div>
 

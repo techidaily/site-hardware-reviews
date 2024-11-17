@@ -1,7 +1,7 @@
 ---
 title: "Securely Delete All Your Data From a Windows PC: A Step-by-Step Guide (No Cost Involved) | Tech Insights"
-date: 2024-11-05T23:36:11.723Z
-updated: 2024-11-07T01:39:18.810Z
+date: 2024-11-13T19:05:30.746Z
+updated: 2024-11-17T21:18:18.435Z
 tags:
   - laptops
 categories:
@@ -36,25 +36,44 @@ Google Chrome is known as a bit of a [resource hog](https://www.zdnet.com/articl
 In an attempt to make the browser a bit less of a drain on the batteries of portable devices, Google has rolled out a new feature called Energy Saver mode. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to enable Energy Saver mode on Google Chrome
 
 It's currently an experimental feature that's not enabled by default, so you'll need to enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 First, you need to be running version 108 or higher of Google Chrome on Windows, Mac, Linux, or Chromebooks. This version is rolling out to users as of Tuesday, Nov. 29\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your Chrome browser version
@@ -68,10 +87,10 @@ If you are not yet running version 108 or higher, you need to update.
 **Also:** [**The best Cyber Monday Chromebook deals still available**](https://www.zdnet.com/article/cyber-monday-chromebook-deals-november-28-2022/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable the experimental feature
@@ -97,13 +116,6 @@ The "Enable the battery saver mode feature in the settings" flag in Google Chrom
 Adrian Kingsley-Hughes/ZDNET
 
 Find the flag, change the drop-down menu for the flag to Enabled**,** and then click Restart to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Select when the battery saver feature will activate
 
@@ -161,18 +173,21 @@ If you want to roll this setting back, head back to the "Enable the battery save
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-top-rated-ios-applications-for-emulating-popular-psp-games/"><u>[Updated] Top-Rated iOS Applications for Emulating Popular PSP Games</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apple-pay-dilemmas-heres-how-to-resolve-them-in-just-10-steps/"><u>Apple Pay Dilemmas? Here's How to Resolve Them in Just 10 Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-ally-x-tested-exceptional-handheld-pc-gaming-experience-comes-with-a-hefty-bill/"><u>Asus ROG Ally X Tested – Exceptional Handheld PC Gaming Experience Comes With a Hefty Bill</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-xcover-7-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy XCover 7 is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-technology-tips-at-toms-hardware-destination/"><u>Discover Cutting-Edge Technology Tips at Tom's Hardware Destination</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-visit-toms-hardware-hub/"><u>Discover the Latest in Computing - Visit Tom's Hardware Hub</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oneplus-nord-ce-3-lite-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For OnePlus Nord CE 3 Lite 5G Phones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/televising-facebook-video-content-a-possibility-in-2024/"><u>Televising Facebook Video Content A Possibility , In 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-exceptional-presidents-day-offers-over-60-at-leading-retailers-like-amazon-walmart-and-more-comprehensive-deals-digest-by-zdnet/"><u>Unlocking Exceptional Presidents' Day Offers Over 60% at Leading Retailers Like Amazon, Walmart and More | Comprehensive Deals Digest by ZDNET</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-innovations-in-computing-at-toms-hardware-insights/"><u>Unveiling New Innovations in Computing at Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-expert-tips-from-toms-systems/"><u>Unveiling the Latest in Computer Hardware with Expert Tips From Tom's Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-investigating-instagrams-videography-cap-for-2024/"><u>[New] Investigating Instagram's Videography Cap for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-craft-of-loom-seamless-screen-recording-guide/"><u>[New] The Craft of Loom Seamless Screen Recording Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-income-arises-from-each-snapshot-video/"><u>[Updated] 2024 Approved How Much Income Arises From Each Snapshot (Video)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-capture-cumulative-chronicles-for-2024/"><u>[Updated] Capture Cumulative Chronicles for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-ultimate-8-ranked-apps-mobile-video-tile-masters-freepaid/"><u>[Updated] Unveiling the Ultimate #8 Ranked Apps Mobile Video Tile Masters (Free/Paid)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-what-you-must-watch-a-close-look-at-todays-top-8-social-media-clips/"><u>2024 Approved What You Must Watch! - A Close Look at Today's Top 8 Social Media Clips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-note-30-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Note 30 FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-sunfounders-pironman-n-model-5-with-noteworthy-assembling-steps/"><u>A Comprehensive Review of SunFounder's Pironman N Model 5 with Noteworthy Assembling Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-breakdown-by-tom-the-ultimate-hardware-guide/"><u>Advanced Tech Breakdown by Tom: The Ultimate Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-acer-predator-orion-5000-laptop-review-top-value-and-high-end-specs/"><u>Best Acer Predator Orion 5000 Laptop Review: Top Value and High-End Specs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-innovations-at-toms-computer-chronicles-expert-electronics-evaluations/"><u>Dive Into Digital Innovations at Tom's Computer Chronicles: Expert Electronics Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-innovations-and-build-configurations-on-toms-hardware-the-pc-enthusiast-hub/"><u>Explore Top Tech Innovations and Build Configurations on Tom's Hardware | The PC Enthusiast Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-performance-of-the-pixio-px277-an-underrated-champion-in-monitors-for-gamers/"><u>Exploring the Cutting-Edge Performance of the Pixio PX277 - An Underrated Champion in Monitors for Gamers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-huion-graphic-pad-drivers-for-windows-step-by-step-tutorial/"><u>Get the Latest Huion Graphic Pad Drivers for Windows - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-exporting-and-sharing-your-chat-history-with-ai/"><u>The Ultimate Guide to Exporting and Sharing Your Chat History with AI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-hub-expert-hardware-analysis/"><u>Tom's Gadget Hub: Expert Hardware Analysis</u></a></li>
 </ul></div>
 

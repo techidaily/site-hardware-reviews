@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Phenomenon of ChatGPT: An In-Depth Look at the Leading AI Conversational Agent - Insights by ZDNet"
-date: 2024-09-17 14:12:18
-updated: 2024-09-20 10:14:16
+date: 2024-11-15T20:57:15.258Z
+updated: 2024-11-17T20:51:04.418Z
 tags:
   - printer
 categories:
@@ -114,6 +114,13 @@ Yes, ChatGPT is a great resource for helping with job applications. Undertaking 
 
 If your application has any written supplements, you can use ChatGPT to help you write those [essays or personal statements](https://www.zdnet.com/article/how-to-use-chatgpt-to-write-an-essay/). You can also use ChatGPT to prep for your interviews by asking ChatGPT to provide you mock interview questions, background on the company, or questions that you can ask. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you use ChatGPT for schoolwork?
 
 ChatGPT can be an excellent resource in assisting students with their work. A popular misconception is that ChatGPT and other AI resources will do students' work for them. However, it can be used as a personal tutor or editor, giving students assistance outside of the classroom. 
@@ -131,6 +138,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What does ChatGPT stand for?
 
@@ -150,6 +164,13 @@ Since OpenAI discontinued DALL-E 2 in February 2024, the only way to access its 
 
 Microsoft's Copilot offers free image generation, also powered by DALL-E 3, in its chatbot. This is a great alternative if you don't want to pay for ChatGPT Plus but want high-quality image outputs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does ChatGPT work?
 
 ChatGPT runs on a large language model (LLM) architecture created by OpenAI called the [Generative Pre-trained Transformer](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/) (GPT). Since its launch, the free version of ChatGPT ran on a fine-tuned model in the GPT-3.5 series until May 2024, when OpenAI upgraded the model to GPT-4o. Now, the free version runs on GPT-4o mini, with limited access to GPT-4o. 
@@ -160,6 +181,13 @@ With a subscription to [ChatGPT Plus](https://www.zdnet.com/article/how-to-subsc
 
 [Generative AI models](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) of this type are trained on vast amounts of information from the internet, including websites, books, news articles, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who owns ChatGPT currently?
 
 OpenAI launched ChatGPT on November 30, 2022\. OpenAI has also developed [DALL-E 2](https://www.zdnet.com/article/openais-dall-e-2-may-mean-we-never-need-stock-photos-again/) and [DALL-E 3](https://www.google.com/search?q=dalle-3+zdnet&rlz=1C5GCCM%5Fen&oq=dalle-3+zdnet&gs%5Flcrp=EgZjaHJvbWUqCQgAEEUYOxigATIJCAAQRRg7GKABMgYIARBFGEAyBggCEEUYQDIGCAMQRRhAMgYIBBBFGEDSAQgzMDA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8), popular [AI image generators](https://www.zdnet.com/article/best-ai-art-generator/), and Whisper, an automatic speech recognition system. 
@@ -167,6 +195,13 @@ OpenAI launched ChatGPT on November 30, 2022\. OpenAI has also developed [DALL-E
 **Also: [OpenAI inks deal with ride-sharing operator to develop AI tools](https://www.zdnet.com/article/openai-inks-deal-with-ride-sharing-operator-to-develop-ai-tools/)**
 
 As a result, OpenAI owns ChatGPT. Microsoft is a major investor in OpenAI thanks to [multiyear, multi-billion dollar](https://www.zdnet.com/article/microsoft-just-made-a-huge-investment-in-chatgpt-maker-openai-heres-why/) investments. Elon Musk was an investor when OpenAI was first founded in 2015 but has since completely severed ties with the startup and created his own [AI chatbot, Grok](https://www.zdnet.com/article/i-tried-xs-anti-woke-grok-ai-chatbot-the-results-were-the-opposite-of-what-i-expected/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT better than a search engine?
 
@@ -191,6 +226,13 @@ If you are looking for a platform that can explain complex topics in an easy-to-
 **Also: [You wanted to try OpenAI's SearchGPT? It's time to look for AI alternatives](https://www.zdnet.com/article/you-wanted-to-try-openais-searchgpt-its-time-to-look-for-ai-alternatives/)**
 
 Upon launching the prototype, users were given a waitlist to sign up for. However, shortly after, [OpenAI closed its waitlist.](https://www.zdnet.com/article/you-wanted-to-try-openais-searchgpt-its-time-to-look-for-ai-alternatives/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are ChatGPT's limitations?
 
@@ -217,6 +259,13 @@ AI systems like ChatGPT can and do reject [inappropriate requests](https://www.z
 These submissions include questions that violate someone's rights, are offensive, are discriminatory, or involve illegal activities. The ChatGPT model can also challenge incorrect premises, answer follow-up questions, and even admit mistakes when you point them out.
 
 These guardrails are important. AI models can generate advanced, realistic content that can be exploited by bad actors for harm, such as spreading misinformation about [public figures](https://www.zdnet.com/article/microsoft-adds-new-designer-protections-following-taylor-swift-deepfake-debacle/) and [influencing elections](https://www.zdnet.com/article/how-openai-plans-to-help-protect-elections-from-ai-generated-mischief/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does ChatGPT plagiarize?
 
@@ -276,6 +325,13 @@ Neither company disclosed the investment value, but unnamed sources told [Bloomb
 
 Microsoft has also used its OpenAI partnership to revamp its Bing search engine and improve its browser. On February 7, 2023, [Microsoft unveiled a new Bing tool](https://www.zdnet.com/article/microsoft-taps-chatgpt-to-improve-bing-and-the-edge-browser/), now known as Copilot, that runs on OpenAI's GPT-4, customized specifically for search.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Copilot compare to ChatGPT?
 
 Copilot uses OpenAI's GPT-4, which means that since its launch, it has been more efficient and capable than the standard, free version of ChatGPT, which was powered by GPT 3.5 at the time. At the time, Copilot boasted several other features over ChatGPT, such as access to the internet, knowledge of current information, and footnotes.
@@ -317,11 +373,23 @@ At Apple's [Worldwide Developer's Conference](https://www.zdnet.com/article/appl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-beyond-likes-and-shares-the-concealed-factors-of-viewers/"><u>2024 Approved Beyond Likes & Shares The Concealed Factors of Viewers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncovering-the-invisible-how-to-inspect-facebooks-data-trails/"><u>2024 Approved Uncovering the Invisible How to Inspect Facebook's Data Trails</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-services-virtual-private-servers-cloud-solutions-and-shared-hosting/"><u>Comprehensive Analysis of Hostinger's Services: Virtual Private Servers, Cloud Solutions & Shared Hosting</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y27s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y27s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-anycub-(datetime)kobra-3-revolutionizing-3d-printing-with-multicolor-capabilities/"><u>Review of Anycub <DateTime>Kobra 3 - Revolutionizing 3D Printing with Multicolor Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub - The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-your-advapi32dll-file-missing-dilemma/"><u>Ultimate Guide: Solving Your 'Advapi32.dll File Missing' Dilemma</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-ssd-potential-fresh-methods-in-windows-environment/"><u>Unlock SSD Potential: Fresh Methods in Windows Environment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-toms-authoritative-hardware-reviews/"><u>Unlocking Performance Secrets: Tom's Authoritative Hardware Reviews</u></a></li>
+</ul></div>
+

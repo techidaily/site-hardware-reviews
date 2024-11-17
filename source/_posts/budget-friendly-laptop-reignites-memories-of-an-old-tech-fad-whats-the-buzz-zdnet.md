@@ -1,7 +1,7 @@
 ---
 title: Budget-Friendly Laptop Reignites Memories of an Old Tech Fad – What's the Buzz? | ZDNet
-date: 2024-11-01T13:50:37.373Z
-updated: 2024-11-07T03:48:21.493Z
+date: 2024-11-12T19:26:37.220Z
+updated: 2024-11-17T17:51:17.208Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ This product is still on Kickstarter. I don't usually review products on Kicksta
 [ZDNET RECOMMENDS CrowView Note If you've always wanted to use your phone with a larger screen, a full keyboard, and a trackpad, the CrowView Note simplifies this task. View at Kickstarter](https://www.kickstarter.com/projects/elecrow/crowview-note-empowering-your-device-as-a-laptop/pledge/new?clicked%5Freward=false)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The specs
@@ -71,10 +71,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My experience
@@ -119,10 +119,10 @@ The best thing about using the CrowView Note is that I don't have to worry about
 Is the CrowView Note for everyone? No. If, however, you regularly make use of single-board computers (such as the Raspberry Pi), have a mini PC that's not in use, or a phone/table that supports full-featured USB-C, this handy device is a real gem. At $140, it's certainly a lot cheaper than purchasing a monitor, a keyboard, and a mouse just for those devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -161,22 +161,20 @@ This could be $140 well spent if you're looking to make using certain devices co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-ghostly-glance-at-fb-sequences/"><u>[New] 2024 Approved Ghostly Glance at Fb Sequences</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-party-pulse-perfect-dj-content-for-events/"><u>[New] In 2024, Party Pulse Perfect DJ Content for Events</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-spotting-absent-communications-on-chatface/"><u>[Updated] Spotting Absent Communications on Chatface</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/are-feedbacks-on-items-monetized-in-videos-for-2024/"><u>Are Feedbacks on Items Monetized in Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/become-an-instagram-broadcast-pro-learning-through-obs-for-2024/"><u>Become an Instagram Broadcast Pro Learning Through OBS for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-online-presence-with-our-high-tech-seo-strategies/"><u>Elevate Online Presence With Our High-Tech SEO Strategies</u></a></li>
-<li><a href="https://win-dash.techidaily.com/experience-crystal-clear-audio-reviving-your-logitech-g4-cufflink-mic/"><u>Experience Crystal Clear Audio: Reviving Your Logitech G4 Cufflink Mic</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-the-spectacular-display-dynamics-of-the-oled-gaming-monitor-gigabyte-aorus-co49dq-with-impressive-colors-and-contrasts/"><u>Expert Review: The Spectacular Display Dynamics of the OLED Gaming Monitor - Gigabyte Aorus CO49DQ with Impressive Colors & Contrasts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-note-30-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Note 30 Phone Pattern Lock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-logitech-g515-lightspeed-tkl-budget-friendly-and-sleek-design/"><u>In-Depth Analysis of the Logitech G515 Lightspeed TKL - Budget-Friendly and Sleek Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-highpoint-rocket-1608a-drive-upgrade-add-in-for-boosted-speed-and-capacity/"><u>In-Depth Look at the HighPoint Rocket 1608A Drive Upgrade Add-In for Boosted Speed and Capacity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/online-and-offline-freebies-in-text-animation/"><u>Online & Offline Freebies in Text Animation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-budding-gardeners-handbook-to-sustainable-veggie-gardening-from-seedling-to-harvest/"><u>The Budding Gardener's Handbook to Sustainable Veggie Gardening From Seedling to Harvest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-in-speed-reviewing-the-unleashed-potential-of-crucials-overclocked-ddr5-6000-16gb-ram-modules/"><u>The Game Changer in Speed: Reviewing the Unleashed Potential of Crucial's Overclocked DDR5-6000 16GB RAM Modules</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-choices-by-toms-hardware/"><u>The Ultimate Guide to Hardware - Choices by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa32ucxr-mini-led-monitor-test-drive-exceptional-color-fidelity-for-professionals/"><u>Asus ProArt PA32UCXR Mini LED Monitor Test Drive: Exceptional Color Fidelity for Professionals</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-t2x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo T2x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-managed-servers-vps-cloud-and-sharing-options/"><u>Comprehensive Analysis of Hostinger's Managed Servers: VPS, Cloud & Sharing Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-dual-edges-of-microsofts-flagship-tablet-sleek-design-meets-mediocre-ai-integration/"><u>Exploring the Dual Edges of Microsoft's Flagship Tablet: Sleek Design Meets Mediocre AI Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-accelerate-windows-11-closing-times-for-a-smoother-experience/"><u>How to Accelerate Windows 11 Closing Times for a Smoother Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-xr-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone XR With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-in-visual-communication-a-guide-to-gif-creation/"><u>In 2024, Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-a2plus-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi A2+ Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-raspberry-pi-cm4-reviewers-guide-the-ultimate-industrial-companion/"><u>In-Depth Raspberry Pi CM4 Reviewer's Guide: The Ultimate Industrial Companion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-electronics-with-toms-hardware-guides/"><u>Navigating New Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-warzone-pc-server-connection-errors-and-starting-matches/"><u>Resolving Warzone PC Server Connection Errors and Starting Matches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simultaneous-spotify-sessions-can-you-and-your-buddy-listen-at-once/"><u>Simultaneous Spotify Sessions: Can You and Your Buddy Listen at Once?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-public-hearings-allow-stakeholders-and-residents-to-voice-concerns-or-support-potentially-influencing-modifications-to-the-division-plan-for-better18/"><u>Solution: Public Hearings Allow Stakeholders and Residents to Voice Concerns or Support, Potentially Influencing Modifications to the Division Plan for Better Alignment with Community Interests.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram-for-2024/"><u>The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-hardware/"><u>Tom's Tech Review: Expert Insights Into Hardware</u></a></li>
 </ul></div>
 

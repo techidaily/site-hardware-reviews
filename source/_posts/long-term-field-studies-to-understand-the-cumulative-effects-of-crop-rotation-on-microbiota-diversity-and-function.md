@@ -1,7 +1,7 @@
 ---
 title: Long-Term Field Studies to Understand the Cumulative Effects of Crop Rotation on Microbiota Diversity and Function
-date: 2024-11-06T03:46:20.821Z
-updated: 2024-11-06T21:27:42.905Z
+date: 2024-11-15T21:15:24.724Z
+updated: 2024-11-17T18:20:23.640Z
 tags:
   - laptops
 categories:
@@ -66,10 +66,10 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +83,10 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +118,10 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +175,10 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,20 +226,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/bold-transformation-of-the-worlds-premier-risc-v-laptop-deepcomputing-overhaul-introduces-eight-faster-cores-and-innovative-artificnial-intelligence-capabil35/"><u>Bold Transformation of the World's Premier RISC-V Laptop: DeepComputing Overhaul Introduces Eight Faster Cores & Innovative Artificnial Intelligence Capabilities for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-yet-commanding-discover-the-high-performance-features-of-acers-predator-helios-neo-14/"><u>Compact Yet Commanding: Discover the High-Performance Features of Acer's Predator Helios Neo 14</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209509763-corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-core-i5-12450h-laptops-with-twin-displays-land-at-710-on-aliexpress-physical-keyboards-not-included/"><u>Cutting-Edge Core I5-12450H Laptops with Twin Displays Land at $710 on AliExpress - Physical Keyboards Not Included!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-high-performance-systems-with-toms-gear-breakdowns/"><u>Delving Into High-Performance Systems with Tom's Gear Breakdowns</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-14-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-list-of-leading-sites-for-buying-youtube-tones/"><u>In 2024, List of Leading Sites for Buying YouTube Tones</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premier-gps-devices-for-modern-cars/"><u>Premier GPS Devices for Modern Cars</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solution-for-fixing-error-0x887a0006-a-comprehensive-walkthrough/"><u>Quick Solution for Fixing Error 0X887A0006: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-screen-recording-hack-for-instagram-stories/"><u>The Ultimate Screen Recording Hack for Instagram Stories</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-best-fast-photo-viewer-for-windows-10-for-2024/"><u>Top Best Fast Photo Viewer for Windows 10 for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-hp-omnibook-x-powerful-efficiency-and-a-remarkable-16-hour-battery-life-achievement/"><u>Unveiling the HP OmniBook X: Powerful Efficiency and a Remarkable 16-Hour Battery Life Achievement</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-in-depth-analysis-by-toms-hardware-experts/"><u>Unveiling the Latest Gadgets: In-Depth Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-reviews-and-insights-with-toms-hardware/"><u>Unveiling Top Tech Reviews & Insights with Tom's Hardware</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-seamless-imovie-files-to-vimeo-integration-tips/"><u>[New] 2024 Approved Seamless iMovie Files to Vimeo Integration Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-become-an-fcp-virtuoso-with-this-guide/"><u>[New] Become an FCP Virtuoso with This Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-major-6-social-media-venues-optimized-for-company-growth/"><u>[New] Major 6 Social Media Venues Optimized for Company Growth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-high-impact-content-masterful-strategies-for-more-views/"><u>[Updated] Unlocking High-Impact Content Masterful Strategies for More Views</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmarking-akasa-gecko-blower-cooler-efficacy-a-definitive-guide-to-superior-ssd-thermal-management/"><u>Benchmarking Akasa Gecko Blower Cooler Efficacy: A Definitive Guide to Superior SSD Thermal Management</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/beyond-imagination-exploring-ar-worlds-for-2024/"><u>Beyond Imagination Exploring AR Worlds for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effective-strategies-for-protecting-electronics-from-scorching-heat/"><u>Effective Strategies for Protecting Electronics From Scorching Heat</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ensuring-total-privacy-methods-to-completely-erase-your-iphone-data-permanently-with-the-help-of-stellar/"><u>Ensuring Total Privacy: Methods to Completely Erase Your iPhone Data Permanently with the Help of Stellar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-toms-hardware-your-ultimate-resource/"><u>Exploring Tech with Tom's Hardware - Your Ultimate Resource</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-insightful-hardware-analysis-and-tips/"><u>Mastering Gadgets with Tom: Insightful Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-world-toms-comprehensive-hardware-analysis/"><u>Navigating the Digital World: Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-guides/"><u>Navigating the World of Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rode-streamer-pro-x-is-it-the-ultimate-streaming-gear/"><u>Rode Streamer Pro X: Is It the Ultimate Streaming Gear?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-insights-from-the-experts/"><u>Tom's Computing: Insights From the Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guide/"><u>Tom's Tech Insights: Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-computers-at-toms-hardware-sanctuary/"><u>Unlocking the Secrets of Computers at Tom's Hardware Sanctuary</u></a></li>
 </ul></div>
 

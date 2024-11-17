@@ -1,7 +1,7 @@
 ---
 title: "ION Shark Automatic Vacuum AV750 Tested & Reviewed: Strong Cleaning Power Vs. Navigation Issues - Insights for Homeowners"
-date: 2024-09-18 13:55:47
-updated: 2024-09-20 12:37:16
+date: 2024-11-10T18:27:52.926Z
+updated: 2024-11-17T20:46:47.802Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ow-many-viewers-to-target-for-a-youtube-earning-journey/"><u>[New] How Many Viewers to Target for a YouTube Earning Journey?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-why-filmora-captivates-its-top-ten-creative-capabilities/"><u>[New] Why Filmora Captivates Its Top Ten Creative Capabilities</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2023s-samsung-bd-j5900-a-detailed-look/"><u>2023'S Samsung BD-J5900 A Detailed Look</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-3d-text-design-in-ps/"><u>2024 Approved The Ultimate Guide to 3D Text Design in PS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-cooler-master-ion-360-all-in-one-liquid-cooler-progress-and-setbacks/"><u>Comprehensive Analysis of the Cooler Master ION 360 All-In-One Liquid Cooler: Progress and Setbacks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-asus-rog-azoth-extreme-at-just-500-reviews-inside/"><u>Expert Analysis on Asus ROG Azoth Extreme at Just $500 - Reviews Inside!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fast-and-powerful-how-mu-stacks-up-against-raspberry-pi-4-in-speed-though-costs-more/"><u>Fast and Powerful: How Mu Stacks Up Against Raspberry Pi 4 in Speed, Though Costs More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/fx360-pro-by-id-cooling-top-value-cooling-solution-under-70/"><u>FX360 Pro by ID-Cooling - Top Value Cooling Solution Under $70</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-farm-frontier-the-best-seed-to-sow-in-gaming/"><u>In 2024, Farm Frontier The Best Seed to Sow in Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-unbeatable-corsair-1tb-m2-slim-e2-t-reviewed/"><u>In-Depth Analysis of the Unbeatable Corsair 1TB M.2 Slim (E2# T) Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-insights-with-toms-pc-hub/"><u>Mastering Hardware Insights with Tom's PC Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-space-with-tips-from-toms-hardware-hub/"><u>Mastering Your Digital Space with Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-the-missing-mingwm10dll-file-warning/"><u>Solutions for Resolving the 'Missing Mingwm10.dll File' Warning</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-top-picks-in-hardware-from-toms-authoritative-reviews/"><u>Stay Ahead of the Curve: Top Picks in Hardware From Tom's Authoritative Reviews</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-quartet-for-digital-marketing-facebook-twitter-instagram-youtube/"><u>The Quintessential Social Media Quartet for Digital Marketing: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-dev-error-5573-in-call-of-duty-vanguard/"><u>Troubleshooting and Fixing Dev Error 5573 in Call of Duty: Vanguard</u></a></li>
+</ul></div>
+

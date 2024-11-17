@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Roborock S8 Pro Ultra: The Versatile Vacuum Reviewed for Everything It Can Do | SmartHomeReviews"
-date: 2024-09-17 20:19:29
-updated: 2024-09-20 12:50:45
+date: 2024-11-14T18:54:29.434Z
+updated: 2024-11-17T16:59:19.030Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,33 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/lear-screen-clear-content-how-to-disable-youtube-channels-efficiently/"><u>[New] Clear Screen, Clear Content How to Disable YouTube Channels Efficiently</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-android-gb-advance-emulator-list/"><u>[New] In 2024, Essential Android GB Advance Emulator List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-masterful-digital-brushstrokes-essential-top-10-android-graphics-apps/"><u>[Updated] 2024 Approved Masterful Digital Brushstrokes Essential Top 10 Android Graphics Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-elevate-your-gaming-experience-nintendo-switch-and-steam-synergy/"><u>[Updated] Elevate Your Gaming Experience Nintendo Switch and Steam Synergy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-breaking-down-whatsapps-voice-call-features/"><u>[Updated] In 2024, Breaking Down WhatsApp's Voice Call Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-analysis-unveiling-quiet-durability/"><u>Asus TUF Gaming A14 Laptop Analysis: Unveiling Quiet Durability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-the-keychron-k2-he-where-classic-elegance-meets-modern-tech-innovation/"><u>Comprehensive Review: The Keychron K2 HE, Where Classic Elegance Meets Modern Tech Innovation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-sleek-sony-lx310bt-bluetooth-player/"><u>Discover the Sleek Sony LX310BT Bluetooth Player</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-youtube-visibility-with-tubebuddy/"><u>Enhancing YouTube Visibility with TubeBuddy</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/essential-steps-for-crafting-a-bootable-windows-11-pro-usb-stick/"><u>Essential Steps for Crafting a Bootable Windows 11 Pro USB Stick</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/local-gardening-events/"><u>Local Gardening Events</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-in-depth-hardware-analysis-by-toms-experts/"><u>Mastering Technology Choices: In-Depth Hardware Analysis by Tom’s Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-news-apples-ai-integration-postponed-to-october-sources-confirm-insights-from-zdnet/"><u>Tech News: Apple's AI Integration Postponed To October, Sources Confirm - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-is-now-a-deep-dive-into-lian-li-hydroshift-lcd-360s-casing-innovations/"><u>The Future Is Now: A Deep Dive Into Lian Li Hydroshift LCD 360S Casing Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Top Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-devices-on-toms-computer-corner/"><u>Unveiling New Devices on Tom's Computer Corner</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vanguard-deployment-alert-assessing-if-your-processor-meets-the-essential-criteria/"><u>Vanguard Deployment Alert: Assessing if Your Processor Meets the Essential Criteria</u></a></li>
+</ul></div>
+

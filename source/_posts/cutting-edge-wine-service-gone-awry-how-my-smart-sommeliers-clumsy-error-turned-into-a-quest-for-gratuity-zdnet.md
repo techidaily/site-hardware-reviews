@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Wine Service Gone Awry: How My Smart Sommelier's Clumsy Error Turned Into a Quest for Gratuity | ZDNET"
-date: 2024-09-19 14:23:45
-updated: 2024-09-20 10:24:17
+date: 2024-11-15T17:30:35.767Z
+updated: 2024-11-17T20:21:05.553Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,27 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-elevating-video-appeal-for-profiles/"><u>[New] Elevating Video Appeal for Profiles</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-whatsapps-sound-transfers/"><u>[New] Exploring WhatsApp's Sound Transfers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-fiendish-freshman-filmmaker/"><u>[New] In 2024, Fiendish Freshman Filmmaker</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-echo-chambers-hits-that-amplify-on-fb-for-2024/"><u>[Updated] The Art of Echo Chambers Hits that Amplify on FB for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/community-gardens-and-cooperatives/"><u>Community Gardens and Cooperatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expand-your-workspace-utilize-dual-monitors-on-your-m3-macbook-pro-the-same-power-as-m3-macbook-air-zdnet/"><u>Expand Your Workspace: Utilize Dual Monitors on Your M3 MacBook Pro – The Same Power as M3 MacBook Air! [ZDNet]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-gadget-hub-unlocking-the-best-in-technology/"><u>Expert Reviews by Tom’s Gadget Hub - Unlocking the Best in Technology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-13-mini-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 13 mini to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-philips-evonia-49m2c8900-monitor-with-quantum-dot-oled-technology-for-gaming-excellence-240hz/"><u>In-Depth Analysis: Philips Evonia 49M2C8900 Monitor with Quantum Dot OLED Technology for Gaming Excellence (240Hz)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-6tb-capacity-and-sturdy-design-of-my-passport-by-western-digital/"><u>In-Depth Look at the 6TB Capacity and Sturdy Design of My Passport by Western Digital</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sabrents-m2-2242-nano-1tb-ssd-tested-and-analyzed-is-it-the-ideal-baseline-drive-for-your-system/"><u>Sabrent's M.2 2242 Nano 1TB SSD Tested & Analyzed – Is It The Ideal Baseline Drive For Your System?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-right-click-function-on-a-mouse-in-windows-11/"><u>Troubleshooting Guide: Fixing the Right-Click Function on a Mouse in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-sabrent-rocket-nano-a-comprehensive-review-of-the-m2-2242-1tb-ssd-benchmark-king/"><u>Unboxing the Sabrent Rocket Nano: A Comprehensive Review of the M.2 2242 1TB SSD Benchmark King</u></a></li>
+</ul></div>
+

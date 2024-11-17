@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Groundbreaking Announcements at the Surface & Artificial Intelligence Event Covered : An Overview"
-date: 2024-10-31T01:51:23.097Z
-updated: 2024-11-07T08:24:28.261Z
+date: 2024-11-11T21:22:58.028Z
+updated: 2024-11-17T20:06:43.029Z
 tags:
   - laptops
 categories:
@@ -65,10 +65,10 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -80,16 +80,10 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -142,19 +136,15 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-top-12-affordable-high-quality-video-apps-recommended-for-pc-and-android-devices/"><u>[Updated] Top 12 Affordable, High-Quality Video Apps Recommended for PC & Android Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/audio-mix-mastery-the-essence-of-crossfade-for-2024/"><u>Audio Mix Mastery The Essence of Crossfade for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/best-free-voice-changer-for-valorant-you-should-have-a-try/"><u>Best Free Voice Changer for Valorant You Should Have a Try</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatting-to-the-future-gpt-and-bing-in-ai-dialogue-duel/"><u>Chatting to the Future: GPT & Bing in AI Dialogue Duel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964489043-enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964487791-get-the-pro-level-logitech-g502-hero-at-an-amazing-price-only-35-experience-ultra-high-definition-controls-and-25k-dpi-sensitivity/"><u>Get the Pro-Level Logitech G502 Hero at an Amazing Price - Only $35! Experience Ultra-High Definition Controls and 25K DPI Sensitivity.</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a59-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A59 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-made-simple-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Made Simple with ManyCam – Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964486834-special-memorial-day-deal-alert-high-quality-full-size-roccat-pyro-mechanical-keyboard-just-34-awaits-you/"><u>Special Memorial Day Deal Alert: High-Quality, Full-Size Roccat Pyro Mechanical Keyboard - Just $34 Awaits You</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-reviews-the-ultimate-guide/"><u>Tom's Computer Reviews: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-analysis-of-modern-electronics/"><u>Tom's Tech Reviews: Comprehensive Analysis of Modern Electronics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-uncovering-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Uncovering the Latest in Computer Hardware</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-507-unique-and-creative-instagram-post-texts/"><u>Top 507 Unique and Creative Instagram Post Texts</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-swift-strategies-for-instagram-reel-success/"><u>[New] In 2024, Swift Strategies for Instagram Reel Success</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-reimagine-your-youtube-approach-with-tubebuddy/"><u>[Updated] In 2024, Reimagine Your YouTube Approach with TubeBuddy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-and-insights-from-techmastertom/"><u>Detailed Analysis and Insights From TechMasterTom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-innovative-hardware-with-tom-expert-insights-and-evaluations/"><u>Discover Innovative Hardware with Tom - Expert Insights and Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-microsoft-store-from-win11-three-methods/"><u>Eradicating Microsoft Store From Win11: Three Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 14 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-not-found-pages-troubleshooting-and-fixing-a-404-mistake/"><u>Navigating 'Not Found' Pages: Troubleshooting & Fixing a 404 Mistake</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revamping-the-dell-smartbus-controller-essential-firmware-update-guide/"><u>Revamping the Dell SmartBus Controller: Essential Firmware Update Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Major Breakthroughs of CES 2023'S Second Day Coverage
-date: 2024-11-03T22:14:40.679Z
-updated: 2024-11-06T22:56:09.620Z
+date: 2024-11-12T21:28:25.698Z
+updated: 2024-11-17T20:05:06.657Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,13 @@ In addition to a new line of [eco-friendly laptops for workers and students](htt
 
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The year of the smart toilet sensor
 
 Withings
@@ -57,10 +64,10 @@ Post-pandemic life has seen a surge in interest in personal health tech, and thi
 Learn more about the new [smart toilet sensors here](https://www.zdnet.com/home-and-office/smart-home/ces-2023-sees-the-launch-of-two-smart-toilet-sensors/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MSI drops new laptops for gamers and creatives
@@ -69,6 +76,19 @@ MSI
 
 Fans of the [MSI gaming laptop family](https://us.msi.com/), rejoice -- new models of fan favorites like the Stealth, Pulse, Raider, and Vector laptops were announced this morning. You should be able to preorder these gaming powerhouses shortly.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Roku and Hisense offer new models and upgrades
 
 Roku
@@ -76,13 +96,6 @@ Roku
 While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-hisense-unveils-new-u6k-u7k-and-u8k-tvs/) with ULED X technology, Roku announced that it's entering the smart TV game with a new line of Roku panels. 
 
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
 
@@ -102,6 +115,13 @@ While HP dropped new Dragonfly Pro chromebooks and laptops, it also debuted a se
 
 Read about [new HP laptops are coming to shoppers' carts here](https://www.zdnet.com/article/laptops-chromebooks-all-in-one-pcs-and-more-take-a-look-at-hps-hybrid-focused-device-portfolio/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Track your feathered friends with the Bird Buddy smart feeder
 
 Bird Buddy
@@ -110,13 +130,6 @@ You're used to indoor appliances with smart features, but now with the Bird Budd
 
 Read more about the [Bird Buddy smart feeders featured this year](https://www.zdnet.com/home-and-office/yard-outdoors/ces-2023-this-new-smart-bird-feeder-can-capture-up-close-images-of-hummingbirds/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## HyperX debuts new gaming mice
 
 HyperX
@@ -124,13 +137,6 @@ HyperX
 Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Haste 2 gaming mouse (wired and wireless versions), shipping in March in stores and online. There's also the HyperX Clutch Gladiate Xbox Controller, available in April, and a new line of 3D-printed accessories, starting with a [Cozy Cat keycap](https://www.zdnet.com/home-and-office/home-entertainment/hyperx-launches-new-line-of-3d-printed-keycaps-headphone-backplates-and-more/). 
 
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
 
@@ -178,18 +184,22 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-podcast-pioneers-effortless-livestream-tips/"><u>[New] Podcast Pioneers Effortless Livestream Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/tudy-with-stars-the-finest-historical-channels-for-students-and-enthusiasts/"><u>[New] Study with Stars The Finest Historical Channels for Students & Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-amplify-sales-discover-the-leading-15-facebook-monitoring-tools-for-2024/"><u>[Updated] Amplify Sales Discover the Leading 15 Facebook Monitoring Tools for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-companions-choosing-blu-ray-software-freepaid-on-pcsmacs/"><u>[Updated] Best Companions Choosing Blu-Ray Software (Free/Paid) on PCs/Macs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-low-cost-pc-monitoring-solutions-reviewed-and-compared/"><u>2024 Approved Low-Cost PC Monitoring Solutions Reviewed & Compared</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smart-pricing-a-comprehensive-cloud-storage-analysis/"><u>2024 Approved Smart Pricing A Comprehensive Cloud Storage Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/deciphering-the-function-of-an-hdmi-arc-inputoutput-in-modern-televisions/"><u>Deciphering the Function of an HDMI-ARC Input/Output in Modern Televisions</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-switch-off-cortana-functionality/"><u>Guide to Switch Off Cortana Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-recommended-foldable-smartphones/"><u>Top Recommended Foldable Smartphones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/"><u>Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-the-5g-uc-indicator-in-mobile-devices/"><u>Understanding the '5G UC' Indicator in Mobile Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/"><u>Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-are-there-no-wps-buttons-anymore-on-android-phones-a-comprehensive-guide/"><u>Why Are There No WPS Buttons Anymore on Android Phones: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>[New] 2024 Approved Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>[New] In 2024, The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tonal-trails-the-journey-of-audio-blending/"><u>[New] Tonal Trails The Journey of Audio Blending</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-5-trimming-titles-tailored-to-your-youtube-needs-for-2024/"><u>[New] Top 5 Trimming Titles Tailored to Your YouTube Needs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-showdowns-and-stunts-the-best-of-snowboard-cross/"><u>[Updated] Showdowns and Stunts The Best of Snowboard Cross</u></a></li>
+<li><a href="https://win-info.techidaily.com/ensename-como-activar-el-almacenamiento-en-nube-automatizado-mediante-onedrive-en-mi-sistema-windows-nova-version-11/"><u>Enséñame Cómo Activar El Almacenamiento en Nube Automatizado Mediante OneDrive en Mi Sistema Windows Nova: Versión 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-free-mpeg-video-stitching-software/"><u>New 2024 Approved The Best Free MPEG Video Stitching Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powerbook-520c-back-from-history-now-features-a-refined-ipad-touchscreen-and-the-heart-of-a-201n5-core-i5-macbook-pro/"><u>PowerBook 520C Back From History: Now Features a Refined iPad Touchscreen & the Heart of a 201N5 Core I5 MacBook Pro!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revisit-the-classics-enhancing-games-with-retroarchs-shaders/"><u>Revisit the Classics: Enhancing Games with RetroArch’s Shaders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/score-exclusive-savings-cut-700-from-your-price-tag-for-this-beastly-rtx-4090-gaming-laptop-by-alienware/"><u>Score Exclusive Savings: Cut $700 From Your Price Tag for This Beastly, RTX 4090 Gaming Laptop by Alienware!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-dark-side-of-progress-how-windows-firmware-updates-are-plaguing-hp-bricks-probooks-with-display-problems/"><u>The Dark Side of Progress: How Windows Firmware Updates Are Plaguing HP Bricks ProBooks with Display Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-hidden-downside-bios-updates-via-windows-pushes-spark-black-screen-troubles-for-hp-bricks-probooks/"><u>The Hidden Downside: BIOS Updates via Windows Pushes Spark Black Screen Troubles for HP Bricks ProBooks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-components-wisdom-from-toms-hardware/"><u>The Ultimate Guide to PC Components - Wisdom From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-cutting-edge-hardware/"><u>Tom's Tech Review: Expert Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-gadget-analysis/"><u>Tom's Tech Review: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-tips-mastering-music-on-instagram-for-2024/"><u>Top Tips Mastering Music on Instagram for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-price-on-new-asus-tuf-gaming-a15-memorial-day-special-at-only-658/"><u>Unbeatable Price on New Asus TUF Gaming A15 - Memorial Day Special at Only $658</u></a></li>
 </ul></div>
 

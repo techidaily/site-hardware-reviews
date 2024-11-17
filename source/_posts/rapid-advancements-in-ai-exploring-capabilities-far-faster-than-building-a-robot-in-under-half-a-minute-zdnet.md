@@ -1,7 +1,7 @@
 ---
 title: "Rapid Advancements in AI: Exploring Capabilities Far Faster Than Building a Robot in Under Half a Minute | ZDNET"
-date: 2024-09-18 18:42:45
-updated: 2024-09-20 11:29:31
+date: 2024-11-14T16:32:26.764Z
+updated: 2024-11-17T20:40:53.651Z
 tags:
   - robotics
 categories:
@@ -70,11 +70,40 @@ The cordless vacuum's nozzle also intelligently detects dirt and debris in both 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-beat-makers-paradise-downloading-premium-dj-visuals/"><u>[New] 2024 Approved Beat Makers' Paradise Downloading Premium DJ Visuals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-simple-steps-for-looped-iphone-videos/"><u>[Updated] In 2024, Simple Steps for Looped iPhone Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-personalized-gift-boxes-unlocked-the-best-online-shopping-spots/"><u>2024 Approved Personalized Gift Boxes Unlocked The Best Online Shopping Spots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computer-hardware-from-toms-resource-hub/"><u>Expert Insights Into Computer Hardware From Tom's Resource Hub</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-picks-for-thinnest-and-lightest-laptops-of-2024-reviewed-zdnet/"><u>Expert Picks for Thinnest & Lightest Laptops of 2024 Reviewed | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-depth-analysis-and-testing-of-the-lightning-fast-logiteche-g-pro-x-2-keyboard-perfect-for-hardcore-players/"><u>Game Changer: In-Depth Analysis and Testing of the Lightning-Fast Logiteche G Pro X 2 Keyboard - Perfect for Hardcore Players</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breezy-setup-for-podcast-broadcasts/"><u>In 2024, Breezy Setup for Podcast Broadcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-hardware-with-insights-from-toms-hub/"><u>Navigating High-Tech Hardware with Insights From Tom's Hub</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-diy-tricks-for-professional-quality-homemade-films/"><u>Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv0-user-how-does-the-sovol-sv08-pay-tribute-to-its-voron-heritage/"><u>Sovol SV0# User: How Does the Sovol SV08 Pay Tribute to Its Voron Heritage?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210194613-9781644113882-the-book-of-stones-4th-ed/"><u>The Book of Stones (4th ed.) | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-choosing-the-best-free-dvd-to-mp3-transcoder-in-202-celebrating-windows-and-mac-support/"><u>The Ultimate Guide to Choosing the Best Free DVD-to-MP3 Transcoder in 202 Celebrating Windows and Mac Support</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-tech-reviews/"><u>Tom's Computer Components | In-Depth Tech Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-comprehensive-hardware-reviews/"><u>Tom's Tech Advisor: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-ringtone-choices-essential-downloads-guide/"><u>Top Ringtone Choices Essential Downloads Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-a-dive-into-toms-hardware-analyses/"><u>Unveiling Cutting-Edge Gadgets - A Dive Into Tom's Hardware Analyses</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

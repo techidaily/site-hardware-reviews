@@ -1,7 +1,7 @@
 ---
 title: How a Week on a Split Ergo Keyboard Revolutionized My Work Setup and Ruined Me for Old Tech | ZDNET
-date: 2024-11-03T09:44:02.640Z
-updated: 2024-11-06T19:27:44.511Z
+date: 2024-11-12T16:08:46.986Z
+updated: 2024-11-17T18:47:26.689Z
 tags:
   - laptops
 categories:
@@ -107,10 +107,10 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,20 +149,21 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-when-youre-not-who-you-think-during-a-facebook-call/"><u>[New] In 2024, When You're Not Who You Think During a Facebook Call</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-prophotomaster-the-ai-enhanced-editing-edge/"><u>[Updated] In 2024, ProPhotoMaster The AI-Enhanced Editing Edge</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-name-selection-for-distinctive-youtube-channels-for-2024/"><u>[Updated] Mastering Name Selection for Distinctive YouTube Channels for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-spectrum-savvy-the-filmmakers-guide-to-color/"><u>[Updated] Spectrum Savvy The Filmmaker's Guide to Color</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/artificial-intelligence-boosting-computer-performance-next-gen-spec-leap/"><u>Artificial Intelligence Boosting Computer Performance: Next-Gen Spec Leap</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-bargains-on-technology-featuring-amazon-firestick-anker-portable-charger-and-dji-quadcopter-among-others/"><u>Best Bargains on Technology: Featuring Amazon Firestick, Anker Portable Charger & DJI Quadcopter Among Others</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/boosting-typing-speed-and-comfort-why-i-prefer-placing-my-hand-in-the-keyboard-middle/"><u>Boosting Typing Speed and Comfort: Why I Prefer Placing My Hand in the Keyboard Middle</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/can-other-brands-successfully-implement-apples-modular-design-strategy/"><u>Can Other Brands Successfully Implement Apple's Modular Design Strategy?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/creating-your-own-diy-bluetooth-enabled-smart-speaker-with-raspberry-pi/"><u>Creating Your Own DIY Bluetooth-Enabled Smart Speaker with Raspberry Pi</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-your-viewing-experience-facebook-and-roku-synergy/"><u>In 2024, Enhancing Your Viewing Experience Facebook & Roku Synergy</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/iphone-audio-the-complete-guide-to-effortless-recording-for-2024/"><u>IPhone Audio The Complete Guide to Effortless Recording for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/livegaze-app-reviews-and-ratings/"><u>LiveGaze App Reviews & Ratings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/steps-for-enabling-hdcd-ripping-in-handbrake-using-libdvdcss-on-macos-and-windows-11/"><u>Steps for Enabling HDCD Ripping in Handbrake Using Libdvdcss on macOS & Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-by-step-process-to-embrace-cc-copyrights/"><u>[New] Step-by-Step Process to Embrace CC Copyrights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-modern-readers-pathway-to-capturing-internet-television-for-2024/"><u>[New] The Modern Reader's Pathway to Capturing Internet Television for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-the-basics-of-streaming-via-discord/"><u>[Updated] Discovering the Basics of Streaming via Discord</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-excellence-youtube-naming-masterclass-for-2024/"><u>Branding Excellence YouTube Naming Masterclass for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-recommended-5-ps1-game-simulators-on-your-pc/"><u>In 2024, Expert-Recommended 5 PS1 Game Simulators on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-c65-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco C65 Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-wisdom-from-toms-hardware-experts/"><u>Navigating the World of Gadgets – Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/qualcomms-game-changing-snapdragon-processors-in-dell-xps-13-plus-achieving-twice-the-battery-life-at-half-the-price-of-intel-options/"><u>Qualcomm's Game-Changing Snapdragon Processors in Dell XPS 13 Plus: Achieving Twice the Battery Life at Half the Price of Intel Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/razer-blade-18-premium-laptop-for-professionals-featuring-nvidias-geforce-rtx-4090-graphics-card-priced-at-4799/"><u>Razer Blade 18: Premium Laptop for Professionals Featuring Nvidia's GeForce RTX 4090 Graphics Card, Priced at $4,799</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revamped-tech-blueprint-superior-laptop-performance-boost-with-intel-core-ultra-and-new-generation-ryzen-cpus/"><u>Revamped Tech Blueprint: Superior Laptop Performance Boost with Intel Core Ultra & New Generation Ryzen CPUs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-is-arm-based-mediatek-gears-up-to-power-windows-laptops-post-qualcomm-pact/"><u>The Future Is ARM-Based: MediaTek Gears Up to Power Windows Laptops Post Qualcomm Pact</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-in-depth-reviews-and-analysis/"><u>Tom's Computing: In-Depth Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
 </ul></div>
 

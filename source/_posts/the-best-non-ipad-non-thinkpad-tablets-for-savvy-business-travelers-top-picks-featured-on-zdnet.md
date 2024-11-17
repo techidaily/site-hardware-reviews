@@ -1,7 +1,7 @@
 ---
 title: "The Best Non-iPad, Non-ThinkPad Tablets for Savvy Business Travelers: Top Picks Featured on ZDNet"
-date: 2024-11-02T03:25:16.542Z
-updated: 2024-11-07T06:11:51.669Z
+date: 2024-11-14T19:27:53.571Z
+updated: 2024-11-17T17:43:06.315Z
 tags:
   - laptops
 categories:
@@ -79,16 +79,10 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -127,17 +121,22 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-strategies-mastering-your-laptops-screen-recording/"><u>[New] In 2024, Top Strategies Mastering Your Laptop's Screen Recording</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-hidden-facets-of-instagram-story-consumption/"><u>[Updated] In 2024, The Hidden Facets of Instagram Story Consumption</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-craft-captivating-content-with-30-video-ideas/"><u>2024 Approved Craft Captivating Content with 30 Video Ideas</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-streamline-your-tiktok-experience-4-desktop-broadcast-strategies/"><u>2024 Approved Streamline Your TikTok Experience 4 Desktop Broadcast Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/buying-guide-choosing-the-perfect-portable-laptop-monitor-now/"><u>Buying Guide: Choosing the Perfect Portable Laptop Monitor Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/can-low-cost-wireless-hdmi-dongles-deliver-quality-performance-in-gaming-cinema-and-slideshows/"><u>Can Low-Cost Wireless HDMI Dongles Deliver Quality Performance in Gaming, Cinema, and Slideshows?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/choosing-the-perfect-keyboard-companer-for-your-new-steam-deck-a-comprehensive-guide/"><u>Choosing the Perfect Keyboard Companer for Your New Steam Deck: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/embrace-the-power-why-intel-gpus-demand-your-attention-now/"><u>Embrace the Power: Why Intel GPUs Demand Your Attention Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/embracing-the-past-my-reasons-for-favoring-vintage-video-games-over-contemporary-titles/"><u>Embracing the Past: My Reasons for Favoring Vintage Video Games over Contemporary Titles</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-stutter-ultimate-tips-for-smooth-gameplay-in-call-of-duty-vanguard-without-costs/"><u>Fixing Stutter: Ultimate Tips for Smooth Gameplay in Call of Duty: Vanguard Without Costs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-14-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 14 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/understanding-snapchats-emojis-more-than-just-fun/"><u>Understanding Snapchat's Emojis More Than Just Fun</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-essential-history-vids-student-edition-of-top-10-lists/"><u>[Updated] 2024 Approved Essential History Vids Student Edition of Top 10 Lists</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pixel-perfect-portfolits-the-leading-websites-for-photo-framing/"><u>[Updated] 2024 Approved Pixel-Perfect Portfolits The Leading Websites for Photo Framing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-echoes-of-the-past-iphone-x-portraiture/"><u>[Updated] Echoes of the Past IPhone X Portraiture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-news-to-closure-a-producers-primer/"><u>[Updated] News to Closure A Producer’s Primer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-level-mac-audio-logging-tools-uncover-the-top-5/"><u>[Updated] Pro-Level Mac Audio Logging Tools Uncover the Top 5</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-reviving-airtunes-fixing-disrupted-transfer-between-iphone-ipad-and-mac/"><u>[Updated] Reviving Airtunes Fixing Disrupted Transfer Between iPhone, iPad & Mac</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/300-savings-available-now-hp-omen-transcend-laptop-featuring-rtx-graphics-and-stunning-oled-screen/"><u>$300 Savings Available Now: HP Omen Transcend Laptop Featuring RTX Graphics and Stunning OLED Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-with-dual-intel-powered-screens-begin-at-a-budget-of-899/"><u>Acemagic X1 with Dual Intel-Powered Screens — Begin at a Budget of $899</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-breakdown-navigating-the-world-of-gadgets-on-toms-digital-platform/"><u>Advanced Tech Breakdown: Navigating the World of Gadgets on Tom's Digital Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/copilotplus-showcases-cutting-edge-snapdragon-notebooks-join-our-live-testing-event/"><u>Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-insights-from-toms-comprehensive-equipment-reviews/"><u>Cutting-Edge Tech Insights From Tom's Comprehensive Equipment Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862737205-experience-top-tier-performance-with-the-discounted-dell-16-inch-g16-laptop-only-949/"><u>Experience Top-Tier Performance with the Discounted Dell 16-Inch G16 Laptop - Only $949</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-essential-fixes-to-tackle-fb-story-load-failures/"><u>In 2024, Essential Fixes to Tackle Fb Story Load Failures</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862654706-unbeatable-deal-m3-macbook-air-with-16gb-ram-and-13-display-at-just-1149/"><u>Unbeatable Deal: M3 MacBook Air with 16GB RAM & 13 Display at Just $1,149</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-through-toms-hardware-guides/"><u>Unveiling the Latest in Technology Through Tom's Hardware Guides</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Technological Innovations & Electronic Breakthroughs: 2022 Edition - Featuring Expert Picks From ZDNet"
-date: 2024-11-03T02:22:40.007Z
-updated: 2024-11-07T09:15:49.300Z
+date: 2024-11-14T17:34:56.583Z
+updated: 2024-11-17T18:11:53.912Z
 tags:
   - laptops
 categories:
@@ -49,10 +49,10 @@ Show less
 ## Nothing Phone 1
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best innovative smartphone of 2022
@@ -107,13 +107,6 @@ Show less
 
 ## Apple Watch Ultra
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best smartwatch of 2022
 
 **Tech specs: Display:** 49mm 410x502 LTPO OLED sapphire glass touchscreen | **Storage:** 32GB | **Durability:** IP6X dust resistance and 100 meters of water resistance | **Connectivity:** LTE, WiFi, Bluetooth, ANT+, multi-band and dual frequency GNSS | **Sensors:** Optical HR, barometer, compass, altimeter, Pulse Ox, skin and water temperature, depth gauge | **Battery:** Up to 36 hours
@@ -134,21 +127,7 @@ Show less
 
 [View now at Oura Ring](https://ouraring.sjv.io/c/159047/1408413/16760?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fouraring.com%2Fproduct%2Fhorizon-silver&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Oura Ring Gen 3 Horizon
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best wearable of 2022
 
@@ -173,13 +152,6 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B7Y1ZC9L%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ced803e88-1e73-4204-a0c8-900baf385a03%7Cdtp&dtb=1)
 
 ## Samsung Galaxy Tab S8 Plus
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best tablet of 2022
 
@@ -231,6 +203,13 @@ Processor tested  Apple M2 8‑core
 
 Graphics tested  Apple M2 8‑core
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple MacBook Air M2
 
 ### Best laptop of 2022
@@ -252,6 +231,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F404600225&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09SBL34C4%2Fref%3Dasc%5Fdf%5FB09SBL34C41728558000000%3Fcreative%3D395261%26creativeASIN%3DB09SBL34C4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ced803e88-1e73-4204-a0c8-900baf385a03%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Samsung Neo QLED 8K QN800B TV
 
@@ -316,10 +302,16 @@ Show less
 [View now at Wooting](https://next.wooting.io/configurator/wooting-60he#config)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Wooting 60HE Gaming Keyboard
@@ -346,13 +338,6 @@ Show less
 
 ## Drop + EPOS PC38X Gaming Headset
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best gaming headset of 2022
 
 **Tech specs: Form factor:** Open-backed, over-ear | **Drivers:** Dynamic, open | **Frequency response:** 10Hz-30,000Hz | **Impedance:** 28-ohm | **Microphone type:** Noise-cancelling, bi-directional electret condenser | **Connectors:** Interchangeable 2.5 m PC cable with 3.5 mm microphone and headphone connectors and 1.5 m console cable with 1 x 3.5 mm TRRS connector | **Weight:** 10.2 ounces
@@ -372,6 +357,13 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ced803e88-1e73-4204-a0c8-900baf385a03%7Cdtp&dtb=1)
 
 ## Logitech MX Master 3S
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best wireless mouse of 2022
 
@@ -393,7 +385,21 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFITURE-Compact-Workout-Real-Time-Feedback%2Fdp%2FB0BLSQB6YS%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ced803e88-1e73-4204-a0c8-900baf385a03%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fiture Mini
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best smart workout of 2022
 
@@ -416,6 +422,13 @@ Show less
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot%2Froomba-j7-j7plus%2Fpcmcat1633095696173.c%3Fid%3Dpcmcat1633095696173&publisher_slug=itechdaily19598&exclusive=1)
 
 ## Roomba j7+
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best robot vacuum of 2022
 
@@ -450,13 +463,6 @@ While we think the above devices are the best of the best, we do have some honor
 ## How did we choose these best tech products of 2022?
 
 We asked ZDNET writers and editors what their favorite products they reviewed/purchased were in 2022 to compile this list. We also considered new and groundbreaking products that gained popularity over the year, as well as technology that is bringing something new to the sector. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Were all these products released in 2022?
 
@@ -502,20 +508,20 @@ And ambient computing-the technology we see in smart home devices-is getting bet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-supreme-creation-studio-test/"><u>[New] Supreme Creation Studio Test</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-10-games-like-gta-v/"><u>[New] Top 10 Games Like GTA V</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exclusive-list-of-affordable-video-conferencing-apps-a-business-and-education-edition/"><u>[Updated] 2024 Approved Exclusive List of Affordable Video Conferencing Apps A Business & Education Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-highlight-harmony-the-top-business-tactics-for-insta-for-2024/"><u>[Updated] Highlight Harmony The Top Business Tactics for Insta for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-craft-your-facebook-profile-video/"><u>[Updated] In 2024, Craft Your Facebook Profile Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>[Updated] Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-nubia-red-magic-8s-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Nubia Red Magic 8S Pro?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/leading-internet-mp3-editing-solution/"><u>Leading Internet MP3 Editing Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tablet-enthusiasts-rejoice-new-split-keyboard-functionality-debuts-on-gboard/"><u>Tablet Enthusiasts Rejoice: New Split Keyboard Functionality Debuts on Gboard!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-call-of-the-hour-developing-a-premier-google-powered-weather-tool/"><u>The Call of the Hour: Developing a Premier Google-Powered Weather Tool!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-10-diy-electronics-add-ons-create-them-with-your-own-3d-printer/"><u>Top 10 DIY Electronics Add-Ons: Create Them with Your Own 3D Printer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-5-frequent-issues-with-android-devices-solutions-and-troubleshooting-tips/"><u>Top 5 Frequent Issues with Android Devices: Solutions & Troubleshooting Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-durable-case-options-for-your-samsung-z-flip-5-smartphone/"><u>Ultimate Selection of Durable Case Options for Your Samsung Z Flip 5 Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-rooting-in-android-devices-benefits-and-risks-is-it-worth-considering/"><u>Understanding Rooting in Android Devices: Benefits & Risks – Is It Worth Considering?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-chroma-control-made-simple-with-these-11-expert-tips/"><u>[New] In 2024, Chroma Control Made Simple with These 11 Expert Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-androids-enhanced-vr-video-viewing-in-the-modern-age/"><u>[Updated] In 2024, Android's Enhanced VR Video Viewing in the Modern Age</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-conveniently-remove-downloaded-youtube-media-for-lightweight-devices/"><u>2024 Approved Conveniently Remove Downloaded YouTube Media for Lightweight Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-initiate-memelore-creation-on-giphy/"><u>2024 Approved Initiate Memelore Creation on Giphy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reimagined-review-sonys-s6700-overhaul/"><u>2024 Approved Reimagined Review Sony's S6700 Overhaul</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/accelerate-your-retro-play-with-best-ps2-android-emulators/"><u>Accelerate Your Retro Play with Best Ps2 Android Emulators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-the-pioneers-at-toms-hardware/"><u>Advanced Computing Tips From the Pioneers at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862838482-amazons-game-changer-34qhd-lg-ultragear-monitor-with-elite-g-sync-now-at-unbeatable-price-of-549/"><u>Amazon's Game Changer: 34QHD LG Ultragear Monitor with Elite G-Sync, Now at Unbeatable Price of $549!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/chuckling-chords-crafting-top-tier-meme-content/"><u>Chuckling Chords Crafting Top-Tier Meme Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/conference-call-to-youtube-stream-how-to-broadcast-google-meet-for-2024/"><u>From Conference Call to YouTube Stream - How To Broadcast Google Meet for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mold-your-own-online-giggle-piece/"><u>In 2024, Mold Your Own Online Giggle Piece</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862841548-level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/"><u>Level Up Your Game with Our Top-Pick Dell S3222DGM Gaming Display Now at an All-Time Low - Grab It for $229!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862838906-score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862820475-score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862835548-upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%!</u></a></li>
 </ul></div>
 

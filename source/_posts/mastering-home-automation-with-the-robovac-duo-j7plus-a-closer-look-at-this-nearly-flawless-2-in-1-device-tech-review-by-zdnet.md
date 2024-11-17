@@ -1,7 +1,7 @@
 ---
 title: Mastering Home Automation with the RoboVac Duo J7+ - A Closer Look at This Nearly Flawless 2-in-1 Device | Tech Review by ZDNet
-date: 2024-09-19 14:16:40
-updated: 2024-09-20 12:23:35
+date: 2024-11-11T17:01:35.013Z
+updated: 2024-11-17T18:49:18.586Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,13 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +133,29 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-ideas-in-images-top-20-photos-to-fire-up-creativity/"><u>[New] Ideas in Images Top 20 Photos to Fire Up Creativity</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ideal-websites-for-extracting-text-visual-upgrades/"><u>[Updated] Ideal Websites for Extracting Text Visual Upgrades</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/2024s-ultimate-selection-complimentary-software-guides-for-effortless-videa-strih-free-and-web-based/"><u>2024'S Ultimate Selection: Complimentary Software Guides for Effortless Videa Střih [Free & Web-Based]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138592306-9781452568027-artful-grief/"><u>Artful Grief | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-spark-10-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Spark 10 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/convert-mov-files-to-mp4-for-free-easy-tools-compatible-with-all-platforms-including-mac-and-windows-11/"><u>Convert MOV Files to MP4 for Free: Easy Tools Compatible with All Platforms Including Mac & Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-tips-para-fijar-clips-de-video-en-dispositivos-windows-mac-android-e-iphone/"><u>Easy Tips Para Fijar Clips De Video en Dispositivos Windows, Mac, Android E iPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-superior-performance-with-the-id-cooling-frozn-a620-pro-se-exceptional-value-for-gamers/"><u>Experience Superior Performance with the ID-Cooling Frozn A620 Pro SE: Exceptional Value for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-knowledge-with-toms-hardware-expertise/"><u>Master Your PC Knowledge With Tom’s Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-tom-in-depth-product-breakdowns/"><u>Mastering Hardware with Tom: In-Depth Product Breakdowns</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-electronics-tips-from-toms-hardware-hub/"><u>Mastering Your Electronics - Tips From Tom's Hardware Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-realm-of-mobile-gaming-with-google-play-games-on-windows/"><u>Navigate the Realm of Mobile Gaming with Google Play Games on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-at-toms-components-and-systems/"><u>Pioneering Reviews at Tom's Components and Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reliable-hardware-evaluations-from-toms-trusted-source/"><u>Reliable Hardware Evaluations From Tom's Trusted Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide-on-latest-gadgets/"><u>Tom's Tech Review: Comprehensive Guide on Latest Gadgets</u></a></li>
+</ul></div>
+

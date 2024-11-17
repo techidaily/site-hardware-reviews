@@ -1,7 +1,7 @@
 ---
 title: "Chromebook Tutorial: Optimizing Your Browser with Specific DNS Servers, Explained Experts"
-date: 2024-11-04T08:16:03.042Z
-updated: 2024-11-07T14:46:35.386Z
+date: 2024-11-10T16:59:16.299Z
+updated: 2024-11-17T16:56:43.333Z
 tags:
   - laptops
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **What you'll need:** The only thing you'll need for this is a Chromebook with an updated version of Chrome OS. Make sure to always keep your operating system up-to-date, so you always have the latest features and (more importantly) the latest security and bug fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Settings
@@ -60,10 +60,10 @@ Screenshot by Jack Wallen/ZDNET
 **Also: [How to connect to a network share from your Chromebook](https://www.zdnet.com/home-and-office/work-life/how-to-connect-to-a-network-share-from-your-chromebook/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable automatic IP address configuration
@@ -75,10 +75,10 @@ By default, Chrome OS uses DHCP to acquire IP addresses. To use a specific DNS s
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change the Name Servers
@@ -125,24 +125,19 @@ And that's all you need to do to give your Chromebook a speed and security boost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-immerse-in-innovation-the-ultimate-vr-gear-guide-for-2024/"><u>[New] Immerse in Innovation - The Ultimate VR Gear Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-high-quality-android-videos-top-10-apps/"><u>[Updated] Explore High-Quality Android Videos Top 10 Apps</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-go-backwards-a-step-by-step-for-reversing-youtube-videos/"><u>[Updated] In 2024, Go Backwards A Step-by-Step for Reversing YouTube Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-simplify-live-streaming-and-archiving-with-vlc-webcam-integration/"><u>[Updated] In 2024, Simplify Live Streaming and Archiving with VLC Webcam Integration</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-reimagined-realities-augmented-wisdom-for-todays-world/"><u>[Updated] Reimagined Realities Augmented Wisdom for Today's World</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-solutions-for-startech-driver-failures-on-various-versions-of-windows/"><u>Expert Solutions for StarTech Driver Failures on Various Versions of Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-hot-40-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Hot 40 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-world-in-depth-reviews-and-news-from-toms-electronics-hub/"><u>Mastering Your Tech World - In-Depth Reviews and News From Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/microsofts-flagship-tablet-reviewed-the-surface-pro-amazes-in-style-but-its-ai-offerings-leave-room-for-improvement/"><u>Microsoft's Flagship Tablet Reviewed: The Surface Pro Amazes in Style, but Its AI Offerings Leave Room for Improvement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-performance-pcs-toms-hardware-analysis/"><u>Navigate Through High-Performance PCs: Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-the-ultimate-guide-by-tom/"><u>Navigating Gadgets: The Ultimate Guide by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-generation-processor-powerhouse-the-asus-zenbook-s-and-tuf-a14-unite-intel-and-amd-technologies-in-style/"><u>Next-Generation Processor Powerhouse: The Asus ZenBook S & TUF A14 Unite Intel & AMD Technologies in Style</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/quickly-amplify-your-tiktok-audience-essential-techniques/"><u>Quickly Amplify Your TikTok Audience - Essential Techniques</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolved-issues-with-your-hardware-detected-by-windows-now-corrected/"><u>Resolved: Issues with Your Hardware Detected by Windows, Now Corrected</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210521449-9781685703394-something-to-ponder/"><u>Something to Ponder | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-essentials-your-ultimate-guide/"><u>Tom's Computer Essentials: Your Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-reviews-and-insights/"><u>Tom's Tech Hub: In-Depth Reviews and Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-guide-to-the-latest-in-hardware/"><u>Tom's Tech Hub: Your Guide to the Latest in Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides-for-top-hardware-picks/"><u>Tom's Tech Insights: Expert Reviews & Guides for Top Hardware Picks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-obs-live-video-to-insta-platform/"><u>[New] 2024 Approved OBS Live Video to Insta Platform</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-blueprint-for-youtube-educational-video-success-stories-for-2024/"><u>[New] The Blueprint for YouTube Educational Video Success Stories for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-essentials-for-enhanced-uav-functionality/"><u>[Updated] Top Essentials for Enhanced UAV Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-computer-gear-with-tom-your-ultimate-guide-on-toms-hardware/"><u>Explore Computer Gear with Tom - Your Ultimate Guide on Tom's Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-scroll-feature-on-your-laptops-touchpad-windows-10/"><u>How to Repair Unresponsive Scroll Feature on Your Laptop's Touchpad (Windows 10)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-phony-friend-requests-online/"><u>Identifying Inauthentic Connections: A Guide to Recognizing Phony Friend Requests Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-logitech-webcam-c270-driver-download-guide-for-the-newest-windows-operating-system-windows-11/"><u>Installing Logitech Webcam C270: Driver Download Guide for the Newest Windows Operating System (Windows 11)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-digital-frontiers-with-toms-hardware-insights/"><u>Navigating Digital Frontiers with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-updated-on-computer-components-toms-tech-resource/"><u>Stay Updated on Computer Components - Tom's Tech Resource</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/struggling-with-cobian-backup-and-network-drives-discover-a-simpler-solution-today/"><u>Struggling with Cobian Backup and Network Drives? Discover a Simpler Solution Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/surface-pro-review-microsofts-flagship-shines-visually-but-falls-short-in-artificial-intelligence-features-with-copilotplus/"><u>Surface Pro Review: Microsoft's Flagship Shines Visually but Falls Short in Artificial Intelligence Features with Copilot+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/targeted-online-advertising/"><u>Targeted Online Advertising</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-by-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights by Tom's Hardware</u></a></li>
 </ul></div>
 

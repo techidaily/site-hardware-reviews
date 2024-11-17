@@ -1,7 +1,7 @@
 ---
 title: What's Coming This October From Apple? Explore Top Specs on M4 Mac Mini, Enhanced iPad Lineup & Evolution of Apple AI
-date: 2024-11-02T08:03:58.644Z
-updated: 2024-11-07T05:07:14.287Z
+date: 2024-11-12T20:50:41.609Z
+updated: 2024-11-17T16:43:38.290Z
 tags:
   - laptops
 categories:
@@ -41,10 +41,10 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +60,10 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,10 +77,10 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -123,19 +123,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtubing-101-the-right-devices/"><u>[Updated] 2024 Approved Youtubing 101 The Right Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-streamsurf-skimming-above-dacast/"><u>2024 Approved StreamSurf Skimming Above DaCast</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-advanced-screen-tech-samsung-revamps-odyssey-and-launches-ai-smart-supported-viewflex-series/"><u>Experience Advanced Screen Tech: Samsung Revamps Odyssey & Launches AI Smart Supported ViewFlex Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-rich-colors-on-a-budget-high-definition-dell-ips-gaming-screen-at-only-199-available-now/"><u>Experience Rich Colors on a Budget: High-Definition Dell IPS Gaming Screen at Only $199 Available Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-clarity-and-speed-with-tcls-newest-innovation-a-4k-monitor-at-1000hz/"><u>Experience Unmatched Clarity & Speed with TCL's Newest Innovation - A 4K Monitor at 1,000Hz</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915265207-fix-slow-network-issues-with-these-simple-dns-flush-steps-for-windows-users/"><u>Fix Slow Network Issues with These Simple DNS Flush Steps for Windows Users!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-narzo-n53-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme Narzo N53 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/navigating-mac-screenshot-file-type-changes/"><u>Navigating Mac Screenshot File Type Changes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-ntldr-is-missing-error-on-your-pc/"><u>Step-by-Step Guide: Resolving the 'NTLDR Is Missing' Error on Your PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-easy-way-capture-your-minecraft-moments-with-these-simple-mac-tips-for-2024/"><u>The Easy Way Capture Your Minecraft Moments with These Simple Mac Tips for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensive-review-lg-27ud88-w-oled-4k-hdr-tv/"><u>2024 Approved Comprehensive Review LG 27UD88-W OLED 4K HDR TV</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-launching-google-meet-on-youtube/"><u>2024 Approved Step-by-Step Launching Google Meet on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-vcs-vision-recorder-check-detailed-scrutiny/"><u>2024 Approved VCS Vision Recorder Check Detailed Scrutiny</u></a></li>
+<li><a href="https://extra-information.techidaily.com/auditory-adaptability-for-ace-gamers-for-2024/"><u>Auditory Adaptability for Ace Gamers for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-top-gear-ratings-a-comprehensive-guide-by-toms-electronics-expertise/"><u>Discovering Top Gear Ratings - A Comprehensive Guide by Tom's Electronics Expertise</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/expedite-channel-growth-surpass-the-10k-view-threshold-now-in-2024/"><u>Expedite Channel Growth Surpass the 10K View Threshold Now, In 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-efficient-storage-with-teamgroups-new-lpddr5x-camm2-memory-units-your-third-choice-for-the-latest-compact-ram-standard-and-intelligent-bran24/"><u>Experience Ultra-Efficient Storage with TeamGroup's New LPDDR5X CAMM2 Memory Units – Your Third Choice for the Latest Compact RAM Standard and Intelligent Branding</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/industry-approved-128gb-memory-upgrade-the-revolutionary-ram-sticks-that-comply-with-the-newly-adopted-camm2-standard/"><u>Industry-Approved 128GB Memory Upgrade: The Revolutionary RAM Sticks that Comply with the Newly Adopted CAMM2 Standard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-nvidia-gpus-empowered-by-microns-production-of-ultra-fast-24gb-hbm3e-ai-memory-chips-set-for-release-in-q2/"><u>Next-Gen Nvidia GPUs Empowered by Micron's Production of Ultra-Fast 24GB HBM3E AI Memory Chips, Set for Release in Q2</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sk-hynix-triumphs-as-ai-revolution-surge-bolsters-its-control-to-35-of-the-global-dram-market/"><u>SK Hynix Triumphs as AI Revolution Surge Bolsters Its Control to 35% of the Global DRAM Market</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-3d-video-makers-free-paid-and-everything-in-between/"><u>The Ultimate Guide to 3D Video Makers Free, Paid, and Everything in Between</u></a></li>
 </ul></div>
 

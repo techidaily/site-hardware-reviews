@@ -1,7 +1,7 @@
 ---
 title: Experts' Choice for Ultimate Home Automation Tools - Detailed Analysis and Ratings | ZDNET
-date: 2024-09-19 20:14:45
-updated: 2024-09-20 11:16:37
+date: 2024-11-16T19:40:57.912Z
+updated: 2024-11-17T18:48:53.018Z
 tags:
   - robotics
 categories:
@@ -85,6 +85,19 @@ Screenshot by Jack Wallen/ZDNET
 
 With the app, I've scheduled a daily vacuum and a Freo job on Wednesdays and Saturdays. What is a Freo job? Simply put, it's when the robot mops and vacuums simultaneously. You might think that would be a recipe for disaster, but it works surprisingly well. In fact, the Freo job works better than running them separately. 
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The caveats
 
 As with any piece of technology, not everything is perfect. For instance, we've had trouble getting the Narwal Freo to work properly on the second floor. From the app, you can set it to map another floor or room. When I tried that, I found the robot in continual repositioning mode (as if it didn't know it wasn't on the first floor). 
@@ -126,11 +139,31 @@ Just don't expect your cats or dogs to be happy with your decision.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-choosing-the-best-a-dive-into-obs-and-twitch-streaming/"><u>[New] Choosing the Best A Dive Into OBS & Twitch Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-effortless-gameplay-capture-a-compreayers-approach-to-xbox-recording/"><u>[New] Effortless Gameplay Capture A Compreayer's Approach to Xbox Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-assess-the-influence-of-community-input-on-planning-decisions/"><u>Approach: Assess the Influence of Community Input on Planning Decisions.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deciphering-computing-power-insightful-reviews-from-toms-hardware-hub/"><u>Deciphering Computing Power: Insightful Reviews From Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-microsoft-owned-search-engine-a-comprehensive-guide-to-understanding-bing/"><u>Exploring the Microsoft-Owned Search Engine: A Comprehensive Guide to Understanding Bing</u></a></li>
+<li><a href="https://win-news.techidaily.com/guide-complet-la-creation-defficaces-routines-de-backup-pour-les-utilisateurs-francophones/"><u>Guide Complet: La Création D'Efficaces Routines De Backup Pour Les Utilisateurs Francophones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-video-file-limits-in-64128gb/"><u>In 2024, Exploring Video File Limits in 64/128GB</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a14-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy A14 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mobile-editing-hacks-select-top-10-short-form-apps/"><u>In 2024, Mobile Editing Hacks Select Top 10 Short Form Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-hardware-world-with-toms-pc-and-component-guide/"><u>Navigating the Hardware World with Tom's PC & Component Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-analysis-with-toms-hardware-chronicles/"><u>Pioneering Computer Analysis with Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-portability-with-the-asrock-z790i-lightning-wi-fi-card-an-in-depth-review/"><u>Revolutionizing Portability with the ASRock Z790I Lightning Wi-Fi Card: An In-Depth Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-desk-mats-of-2024/"><u>The Best Desk Mats of 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lowdown-on-sabrents-rocket-nano-an-in-depth-examination-of-the-1tb-m2-222-gen3-x4-ssd/"><u>The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-expert-insights-on-latest-hardware/"><u>Tom's Tech Gear: Expert Insights on Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-hardware-at-toms-reviews/"><u>Unveiling Top-Notch Hardware at Tom's Reviews</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
+</ul></div>
+

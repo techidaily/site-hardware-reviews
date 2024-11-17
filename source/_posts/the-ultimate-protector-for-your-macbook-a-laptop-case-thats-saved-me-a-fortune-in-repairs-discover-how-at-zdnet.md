@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Protector for Your MacBook? A Laptop Case That's Saved Me a Fortune in Repairs - Discover How at ZDNET
-date: 2024-11-02T10:58:10.041Z
-updated: 2024-11-06T17:03:32.051Z
+date: 2024-11-13T19:01:12.710Z
+updated: 2024-11-17T18:37:21.745Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,13 @@ Kayla Solino/ZDNET
 * [Samsung Galaxy Watch6 smartwatch (40mm)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-watch6-aluminum-smartwatch-40mm-bt-graphite%2F6546704.p%3FskuId%3D6546704&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $240 (save $60)
 * [Samsung Q-series soundbar w/Q-Symphony](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-q-series-3-1-2-ch-dolby-atmos-soundbar-w-q-symphony-titan-black%2F6535893.p%3FskuId%3D6535893&publisher_slug=itechdaily19598&exclusive=1): $480 (save $120)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Best Buy headphone deals
 
 Jada Jones/ZDNET
@@ -70,10 +77,10 @@ Roku
 * [LG 77-inch C3 Series OLED evo 4K UHD Smart webOS TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-77-class-c3-series-oled-evo-4k-uhd-smart-webos-tv%2F6535930.p%3FskuId%3D6535930&publisher_slug=itechdaily19598&exclusive=1): $2300 (save $200)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Best Buy tablet, laptop deals
@@ -88,19 +95,6 @@ Sabrina Ortiz/ZDNET
 * [HP OMEN 16.1-inch Full HD gaming laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omen-16-1-165hz-full-hd-gaming-laptop-intel-core-i7-16gb-ddr5-memory-nvidia-geforce-rtx-4060-1tb-ssd-shadow-black%2F6571057.p%3FskuId%3D6571057&publisher_slug=itechdaily19598&exclusive=1): $1100 (save $200)
 * [Apple MacBook Air 13.6-inch laptop (M2 chip, 8GB RAM, 256GB)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-6-laptop-apple-m2-chip-8gb-memory-256gb-ssd-starlight%2F6509648.p%3FskuId%3D6509648&publisher%5Fslug=zdnet&article%5Fname=the%20best%20best%20buy%20deals%20of%20june%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fbest-buy-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $849 (save $150)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Best Buy robot vacuum deals
 
 Maria Diaz/ZDNET
@@ -110,13 +104,6 @@ Maria Diaz/ZDNET
 * [iRobot Roomba Combo j5+](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-combo-j5-self-emptying-vacuum-and-mop-graphite%2F6553419.p%3FskuId%3D6553419&publisher_slug=itechdaily19598&exclusive=1): $450 (save $280)
 * [iRobot Roomba j9+ self-emptying robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-j9-self-emptying-robot-vacuum-ruby-bronze%2F6553417.p%3FskuId%3D6553417&publisher_slug=itechdaily19598&exclusive=1): $599 (save $300)
 * [iRobot Roomba Vac Essential robot vacuum](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Firobot-roomba-vac-essential-robot-vacuum-q0120-black%2F6577016.p%3FskuId%3D6577016&publisher_slug=itechdaily19598&exclusive=1): $180 (save $70)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Best Buy deals?
 
@@ -130,10 +117,10 @@ We chose our favorite Best Buy deals based on the following factors:
 * **Customer reviews**: While we considered the best Best Buy deals, we took a look at customer reviews and ratings to recommend the best deals and devices.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -143,6 +130,13 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 ## What was Best Buy called originally?
 
 Founded in 1966, Best Buy used to be known as Sound of Music. However, after diversifying out from audio products, the company changed its name to Best Buy in 1983\. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How popular is Best Buy's Geek Squad?
 
@@ -202,21 +196,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-best-video-grabbers-for-win11/"><u>[New] In 2024, Exploring Best Video Grabbers for Win11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtube-monetization-with-500-subscribers/"><u>[Updated] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>2024 Approved Elevate with IG Stories Constructing an Impactful Marketing Strategy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-computing-with-toms-hardware-guides/"><u>Exploring Advanced Computing with Tom's Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-vector-graphics-101-overview-of-varieties-and-tools/"><u>In 2024, Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-and-testing-results-for-the-msi-mpg-a650gf-power-unit/"><u>In-Depth Evaluation & Testing Results for the MSI MPG A650GF Power Unit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-expertise-a-guide-to-cutting-edge-technology-choices/"><u>Inside Tom's Gadget Expertise: A Guide to Cutting-Edge Technology Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-insights/"><u>Navigating the Digital Landscape with Tom's Hardware Insights</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-integration-of-flipbooks-into-your-website-discover-how-with-flipbuilder/"><u>Seamless Integration of Flipbooks Into Your Website: Discover How with FlipBuilder</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/the-future-of-entertainment-is-here-ranking-the-premiere-av-mixers/"><u>The Future of Entertainment Is Here Ranking the Premiere AV Mixers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-cutting-edge-reviews-and-advice/"><u>Tom's Tech Insights: Cutting-Edge Reviews and Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-pc-building/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and PC Building</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-keyboards-comprehensive-testing-and-reviews-by-tech-experts-selection/"><u>Top-Rated Keyboards : Comprehensive Testing & Reviews by Tech Experts Selection</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/using-calibre-a-step-by-step-guide-to-transferring-e-books-between-your-ereader-and-laptop/"><u>Using Calibre: A Step-by-Step Guide to Transferring E-Books Between Your eReader and Laptop</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-is-broadcasting-facebook-videos-a-reality-yet/"><u>[New] 2024 Approved Is Broadcasting Facebook Videos a Reality Yet?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-virtual-safari-androids-ultimate-animals-game-list/"><u>[New] In 2024, Virtual Safari Android's Ultimate Animals Game List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovations-in-office-layout-for-enhanced-productivity/"><u>[New] Innovations in Office Layout for Enhanced Productivity</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-youtubes-intricate-view-count-mechanics/"><u>Decoding YouTube's Intricate View Count Mechanics</u></a></li>
+<li><a href="https://fox-search.techidaily.com/effective-communication-techniques-within-the-add-protocol-network/"><u>Effective Communication Techniques Within the Add Protocol Network</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862778136-elevate-your-gameplay-with-a-crystal-clear-innocn-27-240hz-gaming-monitor-limited-offer-only-1amonth/"><u>Elevate Your Gameplay with a Crystal-Clear Innocn 27 240Hz Gaming Monitor - Limited Offer: Only $1Amonth!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862840211-experience-crystal-clear-gaming-with-the-newly-discounted-samsung-odyssey-ark-now-cheaper-than-ever/"><u>Experience Crystal Clear Gaming with the Newly Discounted Samsung Odyssey Ark - Now Cheaper Than Ever.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-top-iphone-filming-software-catalog/"><u>In 2024, Top iPhone Filming Software Catalog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862799080-revolutionary-tech-unveiled-the-new-modos-paper-monitor-offers-an-open-source-solution-to-high-res-and-low-latency-needs/"><u>Revolutionary Tech Unveiled: The New Modos Paper Monitor Offers an Open-Source Solution to High Res and Low Latency Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862809061-score-big-savings-with-asus-tuf-34-curved-gaming-monitor-at-an-unbeatable-price-on-amazon/"><u>Score Big Savings with ASUS TUF 34 Curved Gaming Monitor at an Unbeatable Price on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862752577-snag-a-colossal-lg-ultragear-wqhd-curved-monitor-39-steal-it-at-amazon-for-only-999/"><u>Snag a Colossal LG Ultragear WQHD Curved Monitor (39) - Steal It at Amazon for Only $999!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862812641-steal-the-show-with-the-low-cost-240hz-acer-nitro-gaming-monitor-just-pay-a-sweet-159/"><u>Steal the Show with the Low-Cost 240Hz Acer Nitro Gaming Monitor – Just Pay a Sweet $159</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-computer-problems-in-cs2-avoid-lag-increase-frames-per-second/"><u>Troubleshooting Computer Problems in CS2 - Avoid Lag, Increase Frames per Second</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862822436-unlock-crystal-clear-viewing-with-the-built-in-webcam-and-powerful-display-of-samsungs-pixel-dense-viewfinity-s9-now-only-899-save-up-to-44-today/"><u>Unlock Crystal Clear Viewing with the Built-In Webcam & Powerful Display of Samsung's Pixel-Dense ViewFinity S9 - Now Only $899, Save Up to 44% Today!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-videopad-video-editing-software-a-comprehensive-review-and-guide/"><u>Updated In 2024, Videopad Video Editing Software A Comprehensive Review and Guide</u></a></li>
 </ul></div>
 
