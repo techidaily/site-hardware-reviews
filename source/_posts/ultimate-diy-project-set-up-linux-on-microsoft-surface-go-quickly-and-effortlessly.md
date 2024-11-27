@@ -1,7 +1,7 @@
 ---
 title: "Ultimate DIY Project: Set Up Linux on Microsoft Surface Go Quickly & Effortlessly!"
-date: 2024-09-19 10:29:26
-updated: 2024-09-20 12:46:27
+date: 2024-11-25T16:05:29.486Z
+updated: 2024-11-27T18:00:43.142Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,26 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-make-any-tiktok-song-a-perfect-fit-for-your-mobile-device/"><u>[New] 2024 Approved Make Any TikTok Song a Perfect Fit for Your Mobile Device</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-tv-with-youtube-video-loops/"><u>[New] Streamline Your TV with YouTube Video Loops</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-zte-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On ZTE</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/5-myths-about-language-learning-you-should-definitely-learn-about/"><u>5 Myths About Language Learning You Should Definitely Learn About</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-f04-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy F04 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-in-computing-with-toms-hardware-analysis/"><u>Navigate the Latest in Computing with Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nextgen-gear-insights-deciphering-todays-cutting-edge-hardware-choices/"><u>NextGen Gear Insights: Deciphering Today's Cutting-Edge Hardware Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-system-expert-advice-from-the-tech-vault-of-toms-hardware/"><u>Optimize Your System: Expert Advice From the Tech Vault of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-with-toms-tech-analysis/"><u>Pioneering Hardware Discussions with Tom's Tech Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/portable-powerhouse-a-comprehensive-eyoyo-em105-105-screen-value-assessment/"><u>Portable Powerhouse: A Comprehensive EYOYO EM105 10.5” Screen Value Assessment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-audio-transformation-apps-for-next-level-vtuber-performance-for-2024/"><u>Top 10 Audio Transformation Apps for Next-Level VTuber Performance for 2024</u></a></li>
+</ul></div>
+

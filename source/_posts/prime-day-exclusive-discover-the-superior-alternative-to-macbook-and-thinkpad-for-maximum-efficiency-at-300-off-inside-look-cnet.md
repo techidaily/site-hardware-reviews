@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Exclusive: Discover the Superior Alternative to MacBook & ThinkPad for Maximum Efficiency at $300 Off (Inside Look) | CNET"
-date: 2024-11-14T21:25:35.392Z
-updated: 2024-11-17T16:07:48.900Z
+date: 2024-11-21T16:44:54.638Z
+updated: 2024-11-27T17:25:03.105Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event is here, and with its arrival, many laptops are seeing big discounts across the board. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C813a4068-bc1e-4f76-b015-0b309b6e2810%7Cdtp&dtb=1) is seeing a $300 discount, dropping from $1,300 to $1,000\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -29,10 +33,7 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,10 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,24 +146,24 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-practices-in-choosing-the-perfect-format-for-youtube-videos-for-2024/"><u>[Updated] Best Practices in Choosing the Perfect Format for YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-audio-techniques-capturing-clear-sound/"><u>[Updated] Essential Audio Techniques Capturing Clear Sound</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-revolutionary-tools-for-downloading-facebook-content-on-firefox-updated/"><u>[Updated] In 2024, Revolutionary Tools for Downloading Facebook Content on Firefox, Updated</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortlessly-create-engaging-youtube-thumbnails/"><u>2024 Approved Effortlessly Create Engaging YouTube Thumbnails</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Blacklist Removal Tips and Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rt-ax57-go-wi-fi-6-mini-router-evaluation-the-ideal-travelers-internet-solution/"><u>Asus RT-AX57 Go Wi-Fi 6 Mini Router Evaluation: The Ideal Traveler's Internet Solution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/chronic-headaches-with-neurological-deficits-can-be-associated-with-tumors-strokes-or-demyelinating-diseases-like-multiple-sclerosis/"><u>Chronic Headaches with Neurological Deficits Can Be Associated with Tumors, Strokes, or Demyelinating Diseases Like Multiple Sclerosis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-best-graphics-performance-download-and-install-updated-nvidia-gtx-1650-super-drivers-for-windows-1110/"><u>Get the Best Graphics Performance: Download & Install Updated NVIDIA GTX 1650 Super Drivers for Windows 11/10</u></a></li>
-<li><a href="https://fox-http.techidaily.com/giggle-guild-undead-humor-bots-for-2024/"><u>Giggle Guild Undead Humor Bots for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-computing-by-toms-hardware-experts/"><u>In-Depth Analysis of Cutting-Edge Computing by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-asus-tuf-a14-gaming-notebooks-steady-performance/"><u>In-Depth Look at the Asus TUF A14 Gaming Notebook's Steady Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-choices-with-toms-detailed-hardware-analysis/"><u>Mastering Electronics Choices with Tom's Detailed Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-ultimate-resource-by-toms-hardware/"><u>Mastering Technology: The Ultimate Resource by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/t-force-vulcan-c30-from-teamgroup-unveiling-its-eco-friendly-ddr5-6000-prowess-in-a-detailed-review/"><u>T-Force Vulcan C30 From TeamGroup: Unveiling Its Eco-Friendly DDR5-6000 Prowess in a Detailed Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-pc-performance-to-the-next-level-with-crucials-pro-overclocking-ddr5-c36-ram-2x16gb-detailed-insights-and-benchmarks/"><u>Taking PC Performance to the Next Level with Crucial's Pro Overclocking DDR5 C36 RAM (2X16GB) - Detailed Insights & Benchmarks</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-ranking-of-highest-quality-wireless-range-boosters-for-the-year-2024/"><u>The Definitive Ranking of Highest Quality Wireless Range Boosters for the Year 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-features-a-thorough-review-of-the-6tb-western-digital-my-passport/"><u>Unpacking the Features: A Thorough Review of the 6TB Western Digital My Passport</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/win1120247/"><u>Win11上最佳图片阅读器选择2024年7月：专家推荐</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-quick-steps-to-quality-content-via-studio-editor/"><u>[Updated] Quick Steps to Quality Content via Studio Editor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-flawlessimage-advanced-bg-eraser-app/"><u>2024 Approved FlawlessImage Advanced BG Eraser App</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-download-velocity-a-comprehensive-guide-for-improving-origin-speed/"><u>Boosting Download Velocity: A Comprehensive Guide for Improving Origin Speed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tags-that-will-elevate-your-instagram-game-today/"><u>Essential #tags That Will Elevate Your Instagram Game Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-addressing-challenges-in-directx-visual-processing-unit-creation-failures/"><u>Solution Guide: Addressing Challenges in DirectX Visual Processing Unit Creation Failures</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Sony </u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-8-effective-uses-of-auto-gpt-boost-your-productivity/"><u>Top 8 Effective Uses of Auto-GPT: Boost Your Productivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-printers-a-comprehensive-guide/"><u>Top Rated Laptop Printers : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-nomad-65w-power-adapter-perfect-edition-companion-for-apple-watch-owners/"><u>Ultimate Guide to the Nomad 65W Power Adapter: Perfect Edition Companion for Apple Watch Owners</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-nomad-stand-one-max-opulent-triple-duty-mobile-charger-and-phone-holder-unveiled/"><u>Ultimate Guide to the Nomad Stand One Max: Opulent Triple Duty Mobile Charger and Phone Holder Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-ecovacs-deal-alert-top-of-the-line-deebots-and-winbots-now-at-50-off-for-a-limited-time-on-prime-day/"><u>Unbeatable ECOVACS Deal Alert: Top-of-the-Line Deebots and Winbots Now at 50% Off for a Limited Time on Prime Day!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unexpected-lithium-aa-battery-drainage-causes-and-proactive-solutions/"><u>Unexpected Lithium-AA Battery Drainage: Causes and Proactive Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-creativity-with-the-lenovo-chromebox-micro-the-perfect-device-for-hobbyists-and-makers/"><u>Unleash Creativity with the Lenovo Chromebox Micro – The Perfect Device for Hobbyists & Makers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-alienwares-new-high-def-and-ultra-hd-gaming-display/"><u>Unveiling Alienware's New High-Def and Ultra HD Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-invest-in-luxury-understanding-costs-of-the-new-model-g-two-section-charcoal-griller/"><u>Why Invest in Luxury? Understanding Costs of the New Model G Two-Section Charcoal Griller</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-paddle-controllers-enhance-my-gaming-experience-an-insider-look/"><u>Why Paddle Controllers Enhance My Gaming Experience - An Insider Look</u></a></li>
 </ul></div>
 

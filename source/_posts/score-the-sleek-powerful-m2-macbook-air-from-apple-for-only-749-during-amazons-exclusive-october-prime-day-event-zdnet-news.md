@@ -1,7 +1,7 @@
 ---
 title: Score the Sleek, Powerful M2 MacBook Air From Apple for Only $749 During Amazon's Exclusive October Prime Day Event | ZDNET News
-date: 2024-11-15T18:38:20.680Z
-updated: 2024-11-17T21:14:20.472Z
+date: 2024-11-26T18:00:27.632Z
+updated: 2024-11-27T18:43:45.804Z
 tags:
   - laptops
 categories:
@@ -43,6 +43,10 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 
 Most people don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3CDZLTB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc1527c9-6664-42bd-b8e6-6b00cf6a51ae%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -77,37 +81,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-seamless-streaming-screen-record-and-upload-from-macpc/"><u>[New] In 2024, Seamless Streaming Screen Record & Upload From Mac/PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-samsung-m2020-drives-now-free-and-fast-download/"><u>Get Your Samsung M2020 Drives Now - Free and Fast Download</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y78plus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y78+?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-meme-mastery-top-ten-template-treasures/"><u>In 2024, Meme Mastery Top Ten Template Treasures</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-list-complimentary-3d-text-psds/"><u>In 2024, The Ultimate List Complimentary 3D Text PSDs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-with-tom-the-ultimate-gadget-guide/"><u>In-Depth Hardware Analysis with Tom - The Ultimate Gadget Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadget-hub-a-deep-dive-into-latest-hardware-technology-and-reviews/"><u>Inside Tom's Gadget Hub: A Deep Dive Into Latest Hardware Technology & Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-samsungs-game-changing-32gb-ddr5-ic-technology-for-next-gen-1tb-memory-devices/"><u>Introducing Samsung's Game-Changing 32GB DDR5 IC Technology for Next-Gen 1TB Memory Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgetry-with-tom-in-depth-reviews-and-tips-on-pc-components/"><u>Navigating Gadgetry with Tom: In-Depth Reviews and Tips on PC Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-technology-insights/"><u>Navigating the World of Computing with Tom's Technology Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/optimize-your-pc-crucial-ddr5-ram-updates-for-gigabyte-motherboards/"><u>Optimize Your PC: Crucial DDR5 RAM Updates for Gigabyte Motherboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-energy-efficiency-the-complete-guide-to-the-teamgroup-t-force-vulcan-ddr5-c30-memory-kit-at-6000mhz-an-in-depth-product-examination/"><u>Revolutionizing Energy Efficiency: The Complete Guide to the TeamGroup T-Force Vulcan DDR5 C30 Memory Kit at 6000MHz – An In-Depth Product Examination</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsungs-revolutionary-107gbps-lpddr5x-ultra-fast-mobile-memory-designed-for-advanced-ai-workloads/"><u>Samsung's Revolutionary 10.7Gbps LPDDR5X: Ultra-Fast Mobile Memory Designed for Advanced AI Workloads</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-eliminating-suggested-users-from-your-instagram-feed/"><u>Step-by-Step Guide: Eliminating 'Suggested Users' From Your Instagram Feed</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/strategic-intellectual-property-revival-tactics-with-massmail-software/"><u>Strategic Intellectual Property Revival Tactics with MassMail Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-and-equipment/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components and Equipment</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/top-5-simple-solutions-stop-excel-from-auto-opening-and-closing/"><u>Top 5 Simple Solutions: Stop Excel From Auto-Opening & Closing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-smooth-transitions-made-easy-2-methods-for-fading-audio-in-final-cut-pro/"><u>Updated In 2024, Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-your-browsing-journey-top-2023-web-recorder-software/"><u>[New] Capturing Your Browsing Journey Top 2023 Web Recorder Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-vcs-vidcapture-review-full-examination/"><u>[Updated] In 2024, VCS VidCapture Review Full Examination</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-picture-sequence-architect/"><u>2024 Approved Ultimate Picture Sequence Architect</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-zte-nubia-z60-ultra-frp-bypass-by-drfone-android/"><u>About ZTE Nubia Z60 Ultra FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compare-and-contrast-the-lofree-edge-a-detailed-analysis-thin-design-lightweight-build-at-higher-pricing-against-the-apple-magic-keyboard/"><u>Compare and Contrast: The Lofree Edge - A Detailed Analysis, Thin Design, Lightweight Build at Higher Pricing Against the Apple Magic Keyboard</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-use-zoom-video-filters-to-make-a-high-quality-video-call-for-2024/"><u>How to Use Zoom Video Filters to Make a High-Quality Video Call for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-apps-for-effective-mac-sniping/"><u>In 2024, Essential Apps for Effective Mac Sniping</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-assessing-the-kingston-furys-ddr5-6000-at-60gbs-a-reliable-performer-for-gamers-and-professionals/"><u>In-Depth Analysis: Assessing the Kingston Fury's DDR5-6000 at 60GB/S, a Reliable Performer for Gamers and Professionals</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/modify-aspect-ratio-on-windows-monitors/"><u>Modify Aspect Ratio on Windows Monitors</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oxford-3000-reimagined-for-word-mastery/"><u>Oxford 3000 Reimagined for Word Mastery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-alluring-special-edition-a-look-at-keychron-k2-hes-retro-charm/"><u>The Alluring Special Edition: A Look at Keychron K2 HE's Retro Charm</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-compre-writters-manual-for-great-documentary-storytelling-for-2024/"><u>The Compre Writter's Manual for Great Documentary Storytelling for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-hardware/"><u>Tom's Tech: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncover-the-latest-in-gadgets-with-toms-equipment-guide/"><u>Uncover the Latest in Gadgets with Tom's Equipment Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-tech-insights-with-tom-a-comprehensive-hardware-overview/"><u>Uncovering Tech Insights with Tom - A Comprehensive Hardware Overview</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-specs-a-deep-dive-into-toms-hardware-analysis/"><u>Unraveling the Specs: A Deep Dive Into Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-gear-with-tom-a-comprehensive-guide/"><u>Unveiling the Latest in Computer Gear with Tom - A Comprehensive Guide</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

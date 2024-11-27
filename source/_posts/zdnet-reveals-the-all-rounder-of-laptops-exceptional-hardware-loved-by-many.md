@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reveals the All-Rounder of Laptops: Exceptional Hardware, Loved by Many"
-date: 2024-11-12T16:11:48.309Z
-updated: 2024-11-17T17:34:23.454Z
+date: 2024-11-25T17:51:44.768Z
+updated: 2024-11-27T18:28:09.893Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-16-inch-Lightweight-Laptop-Intel%2Fdp%2FB0CTD1BSZV%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc95a210-3d6f-4b02-907d-f19a176b2c1a%7Cdtp&dtb=1) is seeing a 12% discount over on Amazon. You can purchase an ultra-lightweight laptop with one of the best high-resolution displays out there for $1,839.
@@ -29,10 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -100,10 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,22 +148,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-cutting-edge-introduction-editors-for-all-your-tech/"><u>[New] Cutting-Edge Introduction Editors for All Your Tech</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>[Updated] 2024 Approved Mastering the Art of Memetics A 9GAG Creator's Manual</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-and-insights-from-techmastertom/"><u>Detailed Analysis and Insights From TechMasterTom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-innovative-hardware-with-tom-expert-insights-and-evaluations/"><u>Discover Innovative Hardware with Tom - Expert Insights and Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-deal-alert-samsungs-cutting-edge-odyssey-g9-monitor-drops-to-record-lows/"><u>Exclusive Deal Alert: Samsung's Cutting-Edge Odyssey G9 Monitor Drops to Record Lows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-computing-equipment-toms-hardware-wisdom/"><u>Expert Guidance on Computing Equipment - Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-toms-hardware-products/"><u>Expert Insights on Tom's Hardware Products</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-world-of-computers-with-toms-hardware-insights/"><u>Explore the World of Computers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone 12?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-years-best-fb-film-grabs-ranked-8-of-eight/"><u>In 2024, Year's Best FB Film Grabs Ranked #8 of Eight</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-a-broken-spacebar-under-windows-11/"><u>Solving the Issue of a Broken Spacebar Under Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-image-editing-efficiently-removing-backdrops/"><u>The Art of Image Editing: Efficiently Removing Backdrops</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-verdict-on-thermaltake-massive-laptop-pad-advanced-cooling-with-an-upmarket-price-tag/"><u>The Ultimate Verdict on Thermaltake Massive Laptop Pad: Advanced Cooling with an Upmarket Price Tag</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-features-of-gaomon-pd1560-stylus-tablet-a-complete-guide/"><u>Unveiling the Features of Gaomon PD1560 Stylus Tablet - A Complete Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-the-most-common-misconceptions-about-ai-chatbots/"><u>Unveiling the Truth: The Most Common Misconceptions About AI Chatbots</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-flarex-media-player-pro-versatile-music-app/"><u>[New] 2024 Approved FlareX Media Player Pro Versatile Music App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-how-to-enrich-your-film-with-alternative-imagery/"><u>[New] In 2024, How to Enrich Your Film with Alternative Imagery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-building-a-solid-foundation-windows-10s-video-creation-basics/"><u>[Updated] Building a Solid Foundation Windows 10'S Video Creation Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fine-tune-youtube-video-pacing-desktopmobile-for-2024/"><u>[Updated] Fine-Tune YouTube Video Pacing - Desktop/Mobile for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-expert-conversion-tools-for-video-content/"><u>[Updated] In 2024, Expert Conversion Tools for Video Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-index-of-windows-blue-screen-error-codes-explained/"><u>Comprehensive Index of Windows Blue Screen Error Codes Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-free-screen-recording-apps-reviewed-and-ranked/"><u>In 2024, Best Free Screen Recording Apps Reviewed & Ranked</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-navigating-features-on-the-blink-4-camera-outdoor-security-setup/"><u>In-Depth Review: Navigating Features on the Blink 4-Camera Outdoor Security Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-world-in-depth-reviews-and-news-from-toms-electronics-hub/"><u>Mastering Your Tech World - In-Depth Reviews and News From Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsofts-flagship-tablet-reviewed-the-surface-pro-amazes-in-style-but-its-ai-offerings-leave-room-for-improvement/"><u>Microsoft's Flagship Tablet Reviewed: The Surface Pro Amazes in Style, but Its AI Offerings Leave Room for Improvement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-performance-pcs-toms-hardware-analysis/"><u>Navigate Through High-Performance PCs: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-the-ultimate-guide-by-tom/"><u>Navigating Gadgets: The Ultimate Guide by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-generation-processor-powerhouse-the-asus-zenbook-s-and-tuf-a14-unite-intel-and-amd-technologies-in-style/"><u>Next-Generation Processor Powerhouse: The Asus ZenBook S & TUF A14 Unite Intel & AMD Technologies in Style</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-essentials-your-ultimate-guide/"><u>Tom's Computer Essentials: Your Ultimate Guide</u></a></li>
 </ul></div>
 

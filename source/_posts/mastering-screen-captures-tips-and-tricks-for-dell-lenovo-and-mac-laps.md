@@ -1,7 +1,7 @@
 ---
 title: "Mastering Screen Captures: Tips & Tricks for Dell, Lenovo, and Mac Laps"
-date: 2024-11-12T19:38:31.401Z
-updated: 2024-11-17T19:48:35.104Z
+date: 2024-11-23T17:50:15.294Z
+updated: 2024-11-27T16:04:14.717Z
 tags:
   - laptops
 categories:
@@ -28,34 +28,12 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
@@ -65,10 +43,7 @@ While the process for taking a screenshot on every laptop varies somewhat, the b
 ### **Option 1: The old fashioned way**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
@@ -80,6 +55,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -93,14 +72,11 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-### **Option 2: The Snipping Tool and Win+Shift+S**
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -119,10 +95,7 @@ Michael Gariffo/ZDNET
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
@@ -184,20 +157,18 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-charting-the-undisclosed-territories-of-youtube-videos/"><u>[New] 2024 Approved Charting the Undisclosed Territories of YouTube Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cutting-edge-zooid-formulation-tools/"><u>[New] 2024 Approved Cutting-Edge Zooid Formulation Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-visioncaptor-new-era-of-screen-recorders-unveiled/"><u>[Updated] In 2024, 'VisionCaptor' New Era of Screen Recorders Unveiled</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quick-guide-to-planning-google-meet-sessions/"><u>2024 Approved Quick Guide to Planning Google Meet Sessions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964489740-cable-matters-unveils-revolutionary-23-thunderbolt-5-with-120gbps-and-240w-power-shop-the-worlds-first-superfast-charger-now/"><u>Cable Matters Unveils Revolutionary $23 Thunderbolt 5 with 120Gbps & 240W Power: Shop the World's First Superfast Charger Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-insights-a-deep-dive-into-technology-trends/"><u>Exploring Gadgets with Tom's Hardware Insights: A Deep Dive Into Technology Trends</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-comprehensive-reviews-and-insights/"><u>Exploring Tom's Hardware: Comprehensive Reviews & Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/get-directx-installed-in-a-flash-compatible-with-windows-11-and-10/"><u>Get DirectX Installed in a Flash: Compatible with Windows 11 and 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/miniaturized-x-ray-chip-technology-seeing-beyond-obstacles-with-cell-phone-integration-expert-insights/"><u>Miniaturized X-Ray Chip Technology: Seeing Beyond Obstacles with Cell Phone Integration - Expert Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-viewing-experience-with-custom-speeds-in-netflix/"><u>Tailoring Viewing Experience with Custom Speeds in Netflix</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-components-overview-expert-insights-on-hardware-choices/"><u>Tom's Components Overview: Expert Insights on Hardware Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews-by-toms-hardware/"><u>Tom's Tech Insights: In-Depth Guides and Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-the-potential-of-zoom-meetings/"><u>Unlocking the Potential of Zoom Meetings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-sifives-revolutionary-256-core-risc-v-processor-the-power-of-the-p870-d-series/"><u>Unveiling SiFive's Revolutionary 256-Core RISC-V Processor: The Power of the P870-D Series</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-revive-lost-media-icons-on-facebook-users/"><u>[New] Revive Lost Media Icons on Facebook Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-vanguards-choice-top-7-fps-wonders/"><u>[New] Vanguard's Choice Top 7 FPS Wonders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-of-rode-streamer-x-is-it-worth-transforming-your-filmmaking-experience/"><u>A Comprehensive Review of Rode Streamer X: Is It Worth Transforming Your Filmmaking Experience?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-in-depth-analysis-of-latest-hardware-gadgets/"><u>Expert Reviews by Tom: In-Depth Analysis of Latest Hardware Gadgets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-venu-uncovered-innovative-features-for-constant-fitness-and-wellbeing-tracking/"><u>Garmin Venu Uncovered: Innovative Features for Constant Fitness and Wellbeing Tracking</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-meizu-21-is-unlocked-by-drfone-android/"><u>How To Check if Your Meizu 21 Is Unlocked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-magic-v2-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor Magic V2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/launching-a-vlog-essential-equipmentapps-for-2024/"><u>Launching a Vlog Essential Equipment/Apps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-deep-dives-into-tech-by-tom/"><u>Mastering Electronics: Deep Dives Into Tech by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-all-things-hardware-by-tom/"><u>The Ultimate Resource for All Things Hardware by Tom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-popularity-essential-hashes-for-viral-short-form-content/"><u>Unleash Popularity Essential Hashes for Viral Short Form Content</u></a></li>
 </ul></div>
 

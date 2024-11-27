@@ -1,7 +1,7 @@
 ---
 title: $550 Less! Discover the Recent Sale on Popular MSI Gaming Notebooks | ZDNet
-date: 2024-11-15T21:44:30.142Z
-updated: 2024-11-17T17:05:03.667Z
+date: 2024-11-26T16:27:57.910Z
+updated: 2024-11-27T16:34:56.251Z
 tags:
   - laptops
 categories:
@@ -101,10 +101,7 @@ Kyle Kucharski/ZDNET
 * [HP Envy 16" Ultra XGA Touchscreen Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-16-wide-ultra-xga-touch-screen-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-4060-1tb-ssd-natural-silver%2F6572058.p&publisher_slug=itechdaily19598&exclusive=1) for $1,100 (save $400)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Labor Day Chromebook deals
@@ -115,6 +112,10 @@ Kyle Kucharski/ZDNET
 * [Lenovo IdeaPad 3i 15" Chromebook Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-ideapad-3i-chromebook-laptop-15-fhd-touch-screen-pentium-silver-n6000-8gb-memory-128gb-ssd-arctic-grey%2F6567669.p%3FskuId%3D6567669&publisher_slug=itechdaily19598&exclusive=1) for $279 (save $150)
 * [HP 14" Chromebook Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-14-chromebook-laptop-intel-celeron-4gb-memory-64gb-emmc-modern-gray%2F6513217.p%3FskuId%3D6513217&publisher_slug=itechdaily19598&exclusive=1) for $149 (save $150)
 * [Acer Chromebook Plus 515 Laptop with Google AI 15.6"](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-plus-515-laptop-with-google-ai-15-6-fhd-display-intel-i3-1215u-8gb-lpddr5x-128gb-ufs-wi-fi-6e-steel-gray%2F6551627.p%3FskuId%3D6551627&publisher_slug=itechdaily19598&exclusive=1) for $279 (save $120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Labor Day MacBook deals
 
@@ -134,10 +135,7 @@ Lenovo
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When do Labor Day sales begin in 2024?
@@ -145,32 +143,20 @@ Lenovo
 Labor Day is Monday, September 2nd, 2024, but many products will go on sale before that date. However, we can't guarantee that these laptops will stay at their sales prices after the holiday has passed. 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are laptops really cheaper during Labor Day sales?
 
 Absolutely. Some of the markdowns on these laptops are the lowest we've ever seen. Labor Day holds a unique position in the calendar year because it's after all the product launches of the first half of the year, yet before the huge ramp-up in sales for the holidays. 
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is the cheapest time of year to buy a laptop?
 
 Labor Day and back-to-school season are typically some of the best times a year to find laptop deals, so if you see a good one, we'd recommend jumping on it. However, if you can wait another few months, Black Friday is sure to see some of the best laptop deals of the year as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the best 2-in-1 laptop for Labor Day?
 
@@ -181,13 +167,6 @@ There are a few excellent 2-in-1 laptops on sale for Labor Day, including one of
 ZDNET only writes about laptops that we actually think are good deals. We've gone hands-on with quite a few of these exact products this year, and if we haven't, we're at least familiar with the line of laptops they come from and their predecessors. Typically, we look for deals that are at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -223,18 +202,14 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-easy-routines-keeping-a-transcript-of-google-voice-calls-for-2024/"><u>[New] Easy Routines Keeping a Transcript of Google Voice Calls for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweet-to-facebook-video-sharing-a-2023-perspective-for-2024/"><u>[New] Tweet-to-Facebook Video Sharing A 2023 Perspective for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/advanced-screen-recording-methods-on-dell-laptops-for-2024/"><u>Advanced Screen Recording Methods on Dell Laptops for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-12-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 12 Pro Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computing-from-tomntech-space/"><u>Expert Advice on Computing From Tom'nTech Space</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/from-ground-to-sky-discovering-mavic-pro-wonders/"><u>From Ground to Sky - Discovering Mavic Pro Wonders</u></a></li>
-<li><a href="https://win-studio.techidaily.com/guide-pratique-comment-achat-des-images-ios-a-votre-ordinateur-sous-windows-11-ou-10/"><u>Guide Pratique : Comment Achat Des Images iOS À Votre Ordinateur Sous Windows 11 Ou 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/illuminating-your-photos-with-iphones-hdr-capabilities/"><u>Illuminating Your Photos with iPhone’s HDR Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/logitecs-g515-lightspeed-tkl-showcase-high-quality-economic-price-tag-for-gamers-and-typists-alike/"><u>Logitec's G515 Lightspeed TKL Showcase - High Quality, Economic Price Tag for Gamers and Typists Alike</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-motorola-moto-g-stylus-2023-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Motorola Moto G Stylus (2023) has been deleted.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-hardware-by-toms-team/"><u>The Ultimate Guide to Computer Hardware by Tom's Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-on-computing/"><u>Tom's Tech Reviews: Expert Insights on Computing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-vind-sl125-when-style-overshadows-subpar-effectiveness-in-our-detailed-review/"><u>Valkyrie Vind SL125 - When Style Overshadows Subpar Effectiveness in Our Detailed Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-text-overlays-for-engaging-visual-posts/"><u>[New] In 2024, Leveraging Text Overlays for Engaging Visual Posts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-guide-utilizing-vimeo-record-for-screen-and-webcam-capture-for-2024/"><u>[Updated] Essential Guide Utilizing Vimeo Record for Screen & Webcam Capture for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-leading-e-learning-titling-toolkit/"><u>[Updated] In 2024, Leading E-Learning Titling Toolkit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-masterful-tips-from-toms-experts-in-hardware/"><u>Decoding Technology: Masterful Tips From Tom’s Experts in Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-hardware-guides/"><u>Exploring the Latest in Technology with Tom's Hardware Guides</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-discover-the-quintet-of-premium-4k-panels-for-colors/"><u>In 2024, Discover the Quintet of Premium 4K Panels for Colors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-frame-rate-issues-and-lags-for-a-smooth-gameplay-experience-on-resident-evil-village-pc/"><u>Resolving Frame Rate Issues & Lags for a Smooth Gameplay Experience on Resident Evil Village (PC)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-electronics-toms-hardware-insights/"><u>The Ultimate Resource on Electronics - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets</u></a></li>
 </ul></div>
 

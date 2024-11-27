@@ -1,7 +1,7 @@
 ---
 title: Are Microsoft's Surface Devices Redefining AI Computing? The Implications for Apple & Beyond | ZDNet Insights
-date: 2024-11-11T18:38:57.616Z
-updated: 2024-11-17T16:24:14.037Z
+date: 2024-11-20T17:48:47.411Z
+updated: 2024-11-27T18:49:41.855Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ While the chips promise a notable leap in power and efficiency, the spotlight no
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fast, but an iterative advancement
 
 The new chips represent a commendable iterative achievement for Apple, particularly in enhancing silicon capabilities through increasing transistor count and lowering power requirements. But let's face it, the M2 and even the M1 were impressive, and most consumers and business users are still unable to utilize all of the performance of those chips. 
@@ -39,10 +43,7 @@ Jason Hiner/ZDNET
 There's no actual new functionality in these chips; it's like comparing a Lamborghini (or a Tesla Model S "Plaid") from a few years ago with 600HP to one with 1000HP. Impressive performance boost, yes, but what's the actual impact for the average end-user? We can still only legally drive 65 mph/105 kph on most crowded highways in North America -- we need the application autobahn to fully take advantage of them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPU optimization and AI improvements, but where are the apps?
@@ -54,10 +55,7 @@ The enhancements in GPU optimization and improved and increased AI cores in the 
 In the long term, these improvements will also likely trickle down into the [Vision Pro headset](https://www.zdnet.com/article/i-tried-apple-vision-pro-and-its-far-ahead-of-where-i-expected/) and, potentially, [iPad Pro](https://www.zdnet.com/article/ipad-pro-2022-review/). However, where do the apps take advantage of these on the consumer side? Yes, some Pro apps and some 3D games can today, but that's a relatively small part of Apple's target market today. And let's face it, the PC is still the gaming king, for now.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Generative AI question
@@ -75,10 +73,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't discount the low-end Macbook as an industry disruptor
@@ -92,10 +87,7 @@ I know of many professionals who aren't content creation types who spend a lot o
 We should also consider what impact the lower-end M3 systems are going to have on an already weakened Wintel market. Firstly, any M1 and M2 Mac machines already in the retail channel that were already very competitive with the Intel machines being offered by other manufacturers will drop in price significantly and will apply even more pressure, additionally decimating Intel's relevancy in many market segments.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## This is ultimately an Intel-killing play
@@ -140,14 +132,16 @@ The M3 chips aren't merely a product release; they are Apple's bold statement of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/1-essential-guidelines-for-securely-moving-your-tower-computer/"><u>1. Essential Guidelines for Securely Moving Your Tower Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/5-best-enlarged-mouse-pads-elite-ratings-and-reviews/"><u>5 Best Enlarged Mouse Pads - Elite Ratings and Reviews</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-bloodborne-overview-journeying-through-the-shadowy-universe/"><u>Comprehensive Bloodborne Overview: Journeying Through the Shadowy Universe</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-repairing-incomplete-or-damaged-registry-issues-causing-dvdcd-rom-errors-on-windows-10/"><u>Comprehensive Guide: Repairing Incomplete or Damaged Registry Issues Causing DVD/CD-ROM Errors on Windows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-c210-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stylish-and-efficient-ride-comprehensive-swagtron-swagger-electric-scooter-assessment/"><u>Stylish and Efficient Ride: Comprehensive Swagtron Swagger Electric Scooter Assessment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-alienwares-new-high-def-and-ultra-hd-gaming-display/"><u>Unveiling Alienware's New High-Def and Ultra HD Gaming Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-invest-in-luxury-understanding-costs-of-the-new-model-g-two-section-charcoal-griller/"><u>Why Invest in Luxury? Understanding Costs of the New Model G Two-Section Charcoal Griller</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-paddle-controllers-enhance-my-gaming-experience-an-insider-look/"><u>Why Paddle Controllers Enhance My Gaming Experience - An Insider Look</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-navigating-advanced-color-grading-techniques-using-luts/"><u>[New] Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-a-filmora-discount-code-or-promo-coupon-code-here-are-5-trusted-and-genuine-solutions-to-get-a-discount-on-your-filmora-subscription-for/"><u>Are You Looking for a Filmora Discount Code or Promo Coupon Code? Here Are 5 Trusted and Genuine Solutions to Get a Discount on Your Filmora Subscription for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/choosing-the-clearer-display-ultrawide-vs-uhd-4k-explored-for-2024/"><u>Choosing the Clearer Display UltraWide vs UHD 4K Explored for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-mov-videos-to-mp3-files-for-free-seamless-audio-extraction-using-movavis-web-converter/"><u>Convert MOV Videos to MP3 Files for Free: Seamless Audio Extraction Using Movavi's Web Converter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-tomhardwareexperts-mastering-tech-and-gadget-performance/"><u>Expert Advice From TomHardwareExperts: Mastering Tech and Gadget Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-bluehost-thorough-testing-of-cloud-virtual-private-server-vps-and-shared-hosting-services/"><u>Expert Insights on Bluehost: Thorough Testing of Cloud, Virtual Private Server (VPS), and Shared Hosting Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-video-guide-to-hairstyles/"><u>In 2024, Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-tom-your-trusted-guide/"><u>In-Depth Hardware Analysis by Tom - Your Trusted Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-asus-rog-ally-x-a-revolutionary-gaming-laptop-for-gamers-on-the-move/"><u>The Ultimate Guide to the Asus ROG Ally X - A Revolutionary Gaming Laptop for Gamers on the Move</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components-and-gadgets/"><u>Tom's Tech Review: Expert Insights on Computer Components and Gadgets</u></a></li>
 </ul></div>
 

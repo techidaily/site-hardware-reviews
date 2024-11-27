@@ -1,7 +1,7 @@
 ---
 title: "Laptop Evaluation Techniques Used : A Comprehensive Guide"
-date: 2024-11-11T19:19:42.053Z
-updated: 2024-11-17T21:29:03.994Z
+date: 2024-11-23T18:01:20.567Z
+updated: 2024-11-27T16:07:06.887Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Our core testing philosophy is simple: while it's imperative to gather data, num
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How we test laptops in 2024
 
 Kyle Kucharski/ZDNET
@@ -35,10 +39,7 @@ You only get one first impression, and when we get a new laptop to review, we al
 We give all the devices we test equal footing by starting with the most recent updates to the device's operating system, as well as all relevant drivers for the GPU, BIOS, and hardware. It can be easy to skip over these updates, but you don't need me to tell you that not updating your computer can result in some bizarre behavior. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The core components of a laptop
@@ -54,10 +55,7 @@ These are the most important core system metrics we look at during the testing p
 * **Physical form factor:** Finally, the laptop's overall appearance and physical form factor encompasses its weight, thickness, how the keyboard and trackpad feel, and whether or not it has a display that can be folded back to form a tablet or touchscreen.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What makes a laptop ZDNET Recommended?
@@ -70,10 +68,7 @@ Obviously, more factors go into a laptop's final review other than being simply 
 * **Excellence:** A highly recommended laptop should punch above its weight in multiple areas. We want to highlight laptops that don't just meet the bar but exceed it, either in design, battery life, display, performance, or value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Benchmarking and system data
@@ -99,10 +94,7 @@ Finally, depending on any niche use cases, we can test the laptop's performance 
 In these scenarios, we pay close attention to the performance of the laptop's GPU, how the display handles rendering tasks, and performance while multitasking while running select performance testing software. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptop batteries
@@ -173,19 +165,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-a-compreited-list-of-top-5-iphone-apps-revolutionizing-podcasts/"><u>[New] 2024 Approved A Compreited List of Top 5 iPhone Apps Revolutionizing Podcasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-auditory-aesthetics-weaving-melodies-into-your-feed/"><u>[Updated] 2024 Approved Auditory Aesthetics Weaving Melodies Into Your Feed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laughter-logic-lab/"><u>2024 Approved Laughter Logic Lab</u></a></li>
-<li><a href="https://techtrends.techidaily.com/capture-and-share-your-adventures-how-to-record-gameplay-on-sonys-console/"><u>Capture and Share Your Adventures: How to Record Gameplay on Sony's Console</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-utilizing-the-dig-command-on-a-linux-system/"><u>Effective Techniques for Utilizing the 'Dig' Command on a Linux System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-new-gadgets-with-toms-computing-hub/"><u>Expert Insights Into New Gadgets with Tom's Computing Hub</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nubia-red-magic-9-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nubia Red Magic 9 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-crafting-cinematic-images-on-iphone-8-advanced-techniques/"><u>In 2024, Crafting Cinematic Images on iPhone 8 Advanced Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-nzxt-h6-flow-rgb-case-assessment-stylish-and-unique/"><u>In-Depth NZXT H6 Flow RGB Case Assessment: Stylish and Unique</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-inwin-f5-gaming-rig-seamless-mobo-connectors-and-stylish-natural-front-panels-exposed/"><u>Inside the InWin F5 Gaming Rig: Seamless Mobo Connectors & Stylish Natural Front Panels Exposed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-be-quiets-new-no-compromises-series-the-durable-and-sleek-base-701-pc-case/"><u>Introducing Be Quiet's New 'No Compromises' Series: The Durable and Sleek Base 701 PC Case</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-clear-windows-10-displays/"><u>Restoring Clear Windows 10 Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-big-on-your-dream-rig-the-stylish-fractal-design-north-case-at-just-119/"><u>Save Big on Your Dream Rig: The Stylish Fractal Design North Case at Just $119!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-stuttering-issues-in-age-of-empires-iv/"><u>Ultimate Guide: Resolving Stuttering Issues in Age of Empires IV</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-transferring-facebook-videos-directly-to-whatsapp/"><u>[Updated] 2024 Approved Transferring Facebook Videos Directly to WhatsApp</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-the-ultimate-asus-rog-azoth-extreme-review-at-half-a-grand/"><u>Affordable Powerhouse: The Ultimate Asus ROG Azoth Extreme Review at Half-a-Grand</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/conquering-complex-codes-stellar-hits-major-milestone-in-data-retrieval/"><u>Conquering Complex Codes: Stellar Hits Major Milestone in Data Retrieval</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crafting-compelling-podcast-titles-for-max-impact-for-2024/"><u>Crafting Compelling Podcast Titles for Max Impact for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-highpoint-rocket-1608a-usb-expansion-card-enhanced-storage-and-performance/"><u>Expert Analysis of HighPoint Rocket 1608A USB Expansion Card - Enhanced Storage and Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-nord-ce-3-lite-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus Nord CE 3 Lite 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/now-available-8-groundbreaking-ai-assistants-for-you/"><u>Now Available: 8 Groundbreaking AI Assistants for You</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/shooter-showdown-the-ultimate-battle-for-game-supremacy/"><u>Shooter Showdown The Ultimate Battle for Game Supremacy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-oled-gaming-display-a-thorough-review-of-gigabyeet-aorus-fo32u2p-with-exceptional-speed-and-style-for-serious-gamers/"><u>The Ultimate 4K OLED Gaming Display - A Thorough Review of Gigabyeet Aorus FO32U2P with Exceptional Speed & Style for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-exploring-in-depth-computer-hardware-insights/"><u>Tom's Tech Hub: Exploring In-Depth Computer Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-animation-tools-and-techniques-for-efficient-gif-making-for-2024/"><u>YouTube Video Animation Tools and Techniques for Efficient Gif Making for 2024</u></a></li>
 </ul></div>
 

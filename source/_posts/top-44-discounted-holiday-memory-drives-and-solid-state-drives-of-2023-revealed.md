@@ -1,7 +1,7 @@
 ---
 title: Top 44 Discounted Holiday Memory Drives & Solid State Drives of 2023 - Revealed
-date: 2024-11-12T16:31:48.544Z
-updated: 2024-11-17T18:37:49.653Z
+date: 2024-11-21T17:43:06.564Z
+updated: 2024-11-27T16:17:17.582Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday storage and SSD deals
 
 * [Kingston Fury Renegade 4TB SSD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKingston-Renegade-Internal-SFYRDK-4000G%2Fdp%2FB0BJL8DWW3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C74382757-e7f6-4c91-aed4-ab1de073c773%7Cdtp&dtb=1) for $375 (save $260 at Amazon)
@@ -36,6 +40,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [SanDisk Ultra Fit 256GB flash drive](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1384375-REG%2Fsandisk%5Fsdcz430%5F256g%5Fa46%5Fultra%5Ffit%5Fusb%5F3%5F1.html): $20 (save $61 at B&H Photo)
 * [LaCie 2TB rugged external SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1503994-REG%2Flacie%5Fsthr2000800%5F2tb%5Frugged%5Fssd%5Fusb%5Fc.html): $210 (save $290 at B&H Photo)
 * [WD My Passport 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1624288-REG%2Fwd%5Fwdbagf0040bgy%5Fwesn%5F4tb%5Fmy%5Fpassport%5Fssd.html): $250 (save $430 at B&H Photo)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday flash drive deals
 
@@ -53,13 +61,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Sony 256GB Tough Series SDXC](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1736000-REG%2Fsony%5Fsfg256t%5Ft1%5F256gb%5Fsf%5Fg%5Ftough%5Fseries.html): $298 (save $100 at B&H Photo)
 * [SanDisk 256GB microSD for Nintendo Switch](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsandisk-256gb-microsdxc%252Fp%252FN82E16820173622): $33 (save $17 at Newegg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday storage and SSD deals at Best Buy
 
 * [WD My Passport 2TB](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-my-passport-2tb-external-usb-type-c-portable-ssd-space-gray%2F6427611.p%3FskuId%3D6427611&publisher_slug=itechdaily19598&exclusive=1): $130 (save $150)
@@ -73,10 +74,7 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Seagate 2TB expansion card for Xbox Series X|S](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fseagate-2tb-storage-expansion-card-for-xbox-series-xs-internal-nvme-ssd-black%2F6477864.p%3FskuId%3D6477864&publisher_slug=itechdaily19598&exclusive=1): $280 (save $120)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at B&H Photo
@@ -102,34 +100,22 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Corsair MP600 Pro XT Hydro Edition M.2 4TB](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fcorsair-4tb-mp600-pro-xt-hydro-x-edition%252Fp%252FN82E16820236814): $289 (save $146)
 * [KingSpec 4TB 3D NAND SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fkingspec-4tb-2-5-sata%252Fp%252F0D9-000D-00159): $140 (save $130)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best SSD?
 
 My pick for the [best SSD](https://www.zdnet.com/article/best-ssd/) is the WD My Passport for its affordability, even at higher capacities, 256-bit AES encryption, compatibility with both Windows and macOS devices, and variety of capacities. It also features a drop and shock resistant chassis to help prevent data loss and corruption due to accidents. You can even set up a password to access the drive itself or specific folders and files to help prevent unauthorized use of your SSD. 
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals right now?
@@ -200,24 +186,16 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-enhancing-ps5-10-powerful-external-drives-for-2024/"><u>[New] Enhancing PS5 10 Powerful External Drives for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-secrets-to-excellent-1080p-content-on-fb/"><u>[New] Secrets to Excellent 1080P Content on FB</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-a-chorus-of-images-and-sound-on-instagram/"><u>[Updated] 2024 Approved Crafting a Chorus of Images & Sound on Instagram</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-7-tips-to-make-your-tasty-cooking-videos-for-2024/"><u>[Updated] 7 Tips to Make Your Tasty Cooking Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-glow-innovations-outshining-videos-through-design/"><u>2024 Approved Glow Innovations Outshining Videos Through Design</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-tech-fixes-for-your-fire-sticks-unresponsive-remote-control-woes/"><u>DIY Tech Fixes for Your Fire Stick's Unresponsive Remote Control Woes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-6s-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 6s Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/first-glance-at-the-sonos-roam-2-opening-exploration-and-early-reactions/"><u>First Glance at the Sonos Roam 2: Opening, Exploration, and Early Reactions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-qualcomms-snapdragon-x-challenges-the-dominance-of-apple-silicon-in-processor-performance/"><u>How Qualcomm's Snapdragon X Challenges the Dominance of Apple Silicon in Processor Performance</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape/"><u>In 2024, Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>In 2024, Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-chipolo-one-trustworthy-and-effective-bluetooth-monitoring-gadget/"><u>In-Depth Review of the Chipolo One: Trustworthy and Effective Bluetooth Monitoring Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-amd-ryzen-9000-lineup-high-performance-cpus-now-ready-for-purchase/"><u>Introducing AMD Ryzen 9000 Lineup: High-Performance CPUs Now Ready for Purchase!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/is-spotify-poised-to-take-over-in-vehicle-entertainment-systems/"><u>Is Spotify Poised to Take Over in Vehicle Entertainment Systems?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/learning-from-errors-improving-your-smart-home-setups-with-these-common-blunders/"><u>Learning From Errors: Improving Your Smart Home Setups with These Common Blunders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pop-up-logitech-casa-desk-performance-analysis-topnotch-keyboard-and-trackpad-with-subpar-casing/"><u>Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard & Trackpad with Subpar Casing</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revamping-the-amd-ryzen-5000-series-the-allyn-x-review-and-future-desires/"><u>Revamping the AMD Ryzen 5000 Series: The Allyn X Review & Future Desires</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-cherry-xtrfy-k5v2-keyboard-innovative-red-switches-shine/"><u>Review of Cherry XTRFY K5V2 Keyboard: Innovative Red Switches Shine</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-art-of-selecting-the-ultimate-facebook-pic/"><u>The Art of Selecting the Ultimate Facebook Pic</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-instant-record-and-commentary-assistive-software/"><u>[New] In 2024, Instant Record & Commentary Assistive Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-comprehensive-guide-to-acquiring-instagram-ringtones-and-creating-noteworthy-chimes/"><u>[Updated] The Comprehensive Guide to Acquiring Instagram Ringtones & Creating Noteworthy Chimes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676604-adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-mod-to-avi-conversion-no-cost-use-moveavis-online-tool/"><u>Easy MOD to AVI Conversion - No Cost, Use MoveAVi's Online Tool!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-magic-5-lite-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Magic 5 Lite Is Unlocked</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-ssd-lifespan-with-akasa-gecko-a-thorough-review-of-this-superior-blower-heatsink-technology/"><u>Maximizing SSD Lifespan with Akasa Gecko: A Thorough Review of This Superior Blower Heatsink Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-sky-advanced-drone-footage-editing-for-2024/"><u>Navigating the Sky Advanced Drone Footage Editing for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-critique-ensuring-a-protected-experience/"><u>NZXT H7 Flow Critique: Ensuring a Protected Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-analysis-by-tom-mastering-your-tech-choices/"><u>Pioneering Hardware Analysis by Tom - Mastering Your Tech Choices</u></a></li>
 </ul></div>
 

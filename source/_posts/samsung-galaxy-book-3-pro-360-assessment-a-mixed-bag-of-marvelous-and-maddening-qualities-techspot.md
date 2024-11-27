@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Book 3 Pro 360 Assessment: A Mixed Bag of Marvelous & Maddening Qualities | TechSpot"
-date: 2024-11-10T20:33:39.356Z
-updated: 2024-11-17T19:55:37.924Z
+date: 2024-11-22T16:58:52.628Z
+updated: 2024-11-27T16:30:19.236Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,10 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Display     | 16-inch 3K AMOLED (2,880 x 1,800, 16:10) with 120Hz                                |
@@ -62,13 +66,6 @@ I've been testing the base [$2,200 variant](https://shop-links.co/link/?url=http
 | Price       | [Starting at $2,200](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F) |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Textbook design, period.
 
@@ -86,6 +83,10 @@ Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and g
 
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Live by the display…
 
 Believe it or not, I still consider the Galaxy Book 3 Ultra's display to be one of its key selling points. You're looking at a 16-inch, 120Hz, 3K, AMOLED display, with [most of its tech carried over](https://www.zdnet.com/article/samsung-display-brings-advanced-smartphone-oled-touch-tech-to-notebooks/) from the sharp, great-looking panels from Samsung's high-end smartphones. The colors on the laptop are, to say the least, punchy, visually distinctive, and plenty bright for most environments. Gaming and multimedia consumption are an absolute treat on the Galaxy Book.
@@ -97,13 +98,6 @@ For content creation and multitasking, the wider 16:10 dimension here is ideal. 
 The thin bezels make the 16-inch display a little more manageable.
 
 June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best use of space?
 
@@ -118,13 +112,6 @@ The keys have a decent amount of travel and are evenly spaced throughout the cha
 June Wan/ZDNET
 
 Another thing that I don't love is the trackpad. While massive, the new trackpad is not only off-centered but doesn't register presses on the upper half of it. As a result, there were plenty of times when the laptop would register a double tap as a single tap and vice versa. Keep in mind that I was coming from the MacBook Pro and have been absolutely spoiled by its Force Touch trackpad.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A dedicated graphics card matters
 
@@ -142,6 +129,10 @@ With a discrete GPU, the Galaxy Book absolutely breezes through my usual photo a
 
 On a standard workday, I averaged about six and a half hours of usage per charge, which is not bad but not great either. On days that involved more video editing, downloading files, and a bit of gaming (because that's what you do when you have a dedicated GPU in a laptop), I watched as the battery percentage dropped 20% every hour.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The benchmark results are in...
 
 For those who live by benchmarks, here's how the Galaxy Book 3 Ultra fared in Geekbench 6 and Cinebench R23 tests compared to 16-inch MacBook Pros (M1 Pro and M2 Max).
@@ -153,10 +144,7 @@ By the numbers, the Galaxy Book 3 Ultra is neck and neck with Apple's older [M1 
 While your Twitter feed isn't going to load any faster because one laptop scored higher than the other, we're looking at seconds (or even minutes) of faster speeds when it comes to graphics-intensive applications like exporting 4K videos and loading AAA games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An ecosystem of its own
@@ -180,6 +168,10 @@ Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/lin
 For content creators and professional users, especially if you already own a [Samsung smartphone](https://www.zdnet.com/article/best-samsung-phone/) or tablet, I could see the Ultra laptop being worth the splurge. It's also one of the few non-gaming laptops that I'd genuinely recommend for those who play.
 
 But at a starting price of $2,200, there are plenty of other, more affordable yet just as powerful laptops that you should be considering, including the [last-gen MacBook Pro (M1 Pro)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C07697e1f-c06e-4c15-b2ea-0f8024c04589%7Cdtp&dtb=1). I'd also look elsewhere if you rely heavily on an SD card for file transferring. In my case, I'm always taking pictures and videos with a mirrorless camera, and being able to move my files locally, with no fear of wonky wireless connections getting in the way, is a must.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -227,18 +219,18 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ultimate-5-aquatic-filter-add-ons-for-gopro/"><u>[New] In 2024, Ultimate 5 Aquatic Filter Add-Ons for GoPro</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/aster-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>[New] Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-youtube-potential-editing-after-the-upload-process/"><u>[Updated] Unlocking YouTube Potential Editing After the Upload Process</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-freebox-your-map-to-fantastic-costless-tiktok-bgs/"><u>2024 Approved FREEBOX Your Map to Fantastic, Costless TikTok BGs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/cambia-tus-videos-webm-al-formato-m4v-con-facilidad-y-gratis-usando-el-servicio-en-linea-movavi/"><u>Cambia Tus Videos Webm Al Formato M4v Con Facilidad Y GRATIS Usando El Servicio en Línea Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-essential-devices-to-enhance-your-experience-of-pet-care-and-management/"><u>Discover Essential Devices to Enhance Your Experience of Pet Care & Management</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-googles-cutting-edge-gadget-combines-streaming-capabilities-with-a-centralized-smart-home-control-center/"><u>Discover Google's Cutting-Edge Gadget: Combines Streaming Capabilities with a Centralized Smart Home Control Center</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevated-intact-hormones-with-suppressed-metanephrines-can-indicate-a-non-catecholamine-secreting-tumor-like-an-acth-producing-adenoma/"><u>Elevated Intact Hormones with Suppressed Metanephrines Can Indicate a Non-Catecholamine-Secreting Tumor Like an ACTH-Producing Adenoma.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/embracing-imperfections-how-much-i-adore-my-samsung-frame-despite-its-shortcomings/"><u>Embracing Imperfections: How Much I Adore My Samsung Frame Despite Its Shortcomings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhancements-coming-to-your-google-assistant-hub-whats-new-with-the-google-home-app/"><u>Enhancements Coming to Your Google Assistant Hub: What's New with the Google Home App</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guia-completa-maximizando-el-espacio-libre-en-su-unidad-de-almacenamiento-digital/"><u>Guía Completa: Maximizando El Espacio Libre en Su Unidad De Almacenamiento Digital</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Phone Without Password?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-11-compatibility-resolving-origin-not-working-problems/"><u>Windows 11 Compatibility: Resolving Origin Not Working Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-right-path-to-precise-speech-to-text-with-google-app/"><u>[New] 2024 Approved The Right Path to Precise Speech-to-Text with Google App</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-incorruptible-approach-to-disabling-youtubes-mini-videos/"><u>[Updated] Incorruptible Approach to Disabling YouTube’s Mini Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-free-content-with-these-top-7-tools-for-instagram-video-editing/"><u>[Updated] Unlock Free Content with These Top 7 Tools for Instagram Video Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-gain-traction-with-effective-video-descriptions-and-tagging/"><u>2024 Approved Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-stock-pictures-tales-and-internet-fame/"><u>2024 Approved Leading Stock Pictures' Tales and Internet Fame</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-brilliance-with-viewsonics-oled-gaming-display-xg272-2k-240-hz-reviewed/"><u>Experience Brilliance with ViewSonic's OLED Gaming Display: XG272-2K, 240 Hz Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Exploring Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100i-power-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100i Power 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-superior-speed-on-a-budget-with-the-hatdrive-nano-for-your-raspberry-pi-projects/"><u>Get Superior Speed on a Budget with the HatDrive! Nano for Your Raspberry Pi Projects</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-htc-u23-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From HTC U23 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers23/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-essence-of-earnings-a-3-step-expedient-to-measure-your-youtube-profitability/"><u>The Essence of Earnings A 3-Step Expedient to Measure Your YouTube Profitability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-hardware-with-tom/"><u>Understanding Hardware with Tom</u></a></li>
 </ul></div>
 

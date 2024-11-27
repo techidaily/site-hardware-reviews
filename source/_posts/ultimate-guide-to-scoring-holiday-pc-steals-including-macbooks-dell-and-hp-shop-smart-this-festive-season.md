@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Scoring Holiday PC Steals Including MacBooks, Dell & HP - Shop Smart This Festive Season!
-date: 2024-11-15T19:52:32.636Z
-updated: 2024-11-17T21:23:39.680Z
+date: 2024-11-23T17:15:33.454Z
+updated: 2024-11-27T17:30:29.754Z
 tags:
   - laptops
 categories:
@@ -37,19 +37,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [LaCie 2TB rugged external SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1503994-REG%2Flacie%5Fsthr2000800%5F2tb%5Frugged%5Fssd%5Fusb%5Fc.html): $210 (save $290 at B&H Photo)
 * [WD My Passport 4TB portable SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1624288-REG%2Fwd%5Fwdbagf0040bgy%5Fwesn%5F4tb%5Fmy%5Fpassport%5Fssd.html): $250 (save $430 at B&H Photo)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday flash drive deals
 
 * [PNY Duo Link 128GB iOS flash drive](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fpny-duo-link-128gb-usb-3-0-otg-flash-drive-for-ios-devices-and-computers-gray%2F6033400.p%3FskuId%3D6033400&publisher_slug=itechdaily19598&exclusive=1): $38 (save $42 at Best Buy)
@@ -59,10 +46,7 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [Corsair Survivor Stealth 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Flash-Survivor-Stealth-256GB%2Fdp%2FB00YHL1RJG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8b374681-1263-4883-912d-10353e26bc7d%7Cdtp&dtb=1): $55 (save $29 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday SD card deals
@@ -72,13 +56,6 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [SanDisk Extreme 1TB microSDXC and adapter](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1692704-REG%2Fsandisk%5Fsdsqxav%5F1t00%5Fan6ma%5F1tb%5Fextreme%5Fuhs%5Fi%5Fmicrosd.html): $90 (save $160 at B&H Photo)
 * [Sony 256GB Tough Series SDXC](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1736000-REG%2Fsony%5Fsfg256t%5Ft1%5F256gb%5Fsf%5Fg%5Ftough%5Fseries.html): $298 (save $100 at B&H Photo)
 * [SanDisk 256GB microSD for Nintendo Switch](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsandisk-256gb-microsdxc%252Fp%252FN82E16820173622): $33 (save $17 at Newegg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at Best Buy
 
@@ -91,6 +68,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD Red Pro 18TB SATA HDD](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-red-pro-18tb-internal-sata-nas-hard-drive-for-desktops%2F6523108.p%3FskuId%3D6523108&publisher_slug=itechdaily19598&exclusive=1): $350 (save $170)
 * [WD Black P40 2TB Game Drive](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-black-p40-game-drive-for-pc-ps4-ps5-and-xbox-2tb-external-usb-3-2-gen-2x2-portable-ssd-black%2F6512127.p%3FskuId%3D6512127&publisher_slug=itechdaily19598&exclusive=1): $160 (save $170)
 * [Seagate 2TB expansion card for Xbox Series X|S](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fseagate-2tb-storage-expansion-card-for-xbox-series-xs-internal-nvme-ssd-black%2F6477864.p%3FskuId%3D6477864&publisher_slug=itechdaily19598&exclusive=1): $280 (save $120)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday storage and SSD deals at B&H Photo
 
@@ -106,6 +87,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [WD Black SN770 2TB](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1702060-REG%2Fwd%5Fwdbbdl0020bnc%5Fwrsn%5F2tb%5Fwd%5Fblack%5Fsn770%5Fnvme.html): $118 (save $152)
 * [Crucial T700 4TB SSD](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1766243-REG%2Fcrucial%5Fct4000t700ssd3%5Ft700%5Fgen5%5Fnvme%5Fm%5F2.html): $450 (save $150)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday storage and SSD deals at Newegg
 
 * [Samsung T7 2TB portable SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fsamsung-t7-2tb%252Fp%252FN82E16820147762): $150 (save $60)
@@ -116,16 +101,7 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 * [KingSpec 4TB 3D NAND SSD](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fkingspec-4tb-2-5-sata%252Fp%252F0D9-000D-00159): $140 (save $130)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -133,6 +109,10 @@ Whether you're looking for a new SSD as a gift for someone on your list or want 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best SSD?
 
@@ -206,20 +186,24 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/harting-earnings-from-youtube-adsense-what-you-can-expect-per-1000-views-for-2024/"><u>[New] Charting Earnings From YouTube AdSense What You Can Expect per 1,000 Views for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-blurring-images-with-your-iphone/"><u>[New] The Essential Guide to Blurring Images with Your iPhone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>[Updated] In 2024, Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-distribute-your-videos-a-vimeo-guide/"><u>2024 Approved Distribute Your Videos A Vimeo Guide</u></a></li>
-<li><a href="https://win-community.techidaily.com/5a6m5lqg54q25owl44gn44gu5lplusu5b6p54k55rai5asxic0g5yplusw44kk5rai44gx5lin5yplusvpw/"><u>完了状態での修復点消失 - 取り消し不可?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/certified-msi-z890-and-b86-motherboard-lineup-supporting-the-new-intel-arrow-lake-s-processor-exclusive-preview-before-computex-2024/"><u>Certified MSI Z890 & B86) Motherboard Lineup Supporting the New Intel Arrow Lake-S Processor - Exclusive Preview Before Computex 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-tech-knowledge-at-your-fingertips-toms-hardware-corner/"><u>Comprehensive Tech Knowledge at Your Fingertips - Tom's Hardware Corner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-costs-sapphires-latest-pcie-gen-4-mini-itx-am5-board-arrives-in-the-chinese-market/"><u>Cutting Costs: Sapphire's Latest PCIe Gen 4 Mini ITX AM5 Board Arrives in the Chinese Market</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computers-and-accessories-curated-by-toms-hardware/"><u>Cutting-Edge Computers and Accessories Curated by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/easy-diy-motherboard-selection-for-hassle-free-pc-construction/"><u>Easy DIY Motherboard Selection for Hassle-Free PC Construction</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-guide-to-tech-choices/"><u>Expert Analysis of Hardware by Tom - Your Guide to Tech Choices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/frame-it-right-vertical-video-mastery-with-final-cut-pro-x-for-2024/"><u>Frame It Right Vertical Video Mastery with Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-continuously-crashing-on-your-computer/"><u>How to Stop Age of Wonders: Planetfall From Continuously Crashing on Your Computer</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-propel-content-to-prominence-leverage-tubebuddys-power/"><u>In 2024, Propel Content to Prominence Leverage TubeBuddy's Power</u></a></li>
-<li><a href="https://video-capture.techidaily.com/stress-free-guide-simple-tactics-for-adding-soundtracks-on-facebook/"><u>Stress-Free Guide: Simple Tactics for Adding Soundtracks on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-a-comprehensive-guide-to-using-chrome-pip-across-devices-for-2024/"><u>[New] A Comprehensive Guide to Using Chrome PIP Across Devices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-no-trouble-recorder-for-win10-desktop/"><u>[Updated] 2024 Approved No-Trouble Recorder for Win10 Desktop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-innovative-methods-for-shuffling-yt-playlists/"><u>[Updated] Innovative Methods for Shuffling YT Playlists</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quick-guide-to-mac-screen-taking-techniques/"><u>2024 Approved Quick Guide to MAC Screen Taking Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-techniques-to-captivate-viewers-with-facebook-covers/"><u>2024 Approved Top Techniques to Captivate Viewers with Facebook Covers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288252447-mp4wma/"><u>無料でMP4動画の音声を取り出してWMAに変換する方法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-proart-pa32ucxr-mini-led-monitor-test-drive-exceptional-color-fidelity-for-professionals/"><u>Asus ProArt PA32UCXR Mini LED Monitor Test Drive: Exceptional Color Fidelity for Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/collaborations-with-urban-gardening-influencers/"><u>Collaborations with Urban Gardening Influencers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-on-toms-hardware-insights/"><u>Discover the Latest in Tech on Tom's Hardware Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-oppo-find-x7-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Oppo Find X7</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-these-exceptional-alternates-to-chatgpt-our-picks/"><u>Explore These Exceptional Alternates to ChatGPT: Our Picks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nuphy-halo75-v2-review-top-performance-at-a-wallet-friendly-price-for-gamers/"><u>Nuphy Halo75 V2 Review: Top Performance at a Wallet-Friendly Price for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-escape-from-tarkov-server-disconnect/"><u>Resolving the Issue: Escape From Tarkov Server Disconnect</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-hidden-gem-in-gaming-displays-an-in-depth-evaluation-of-the-pixio-px277-oled-max/"><u>The Hidden Gem in Gaming Displays: An In-Depth Evaluation of the Pixio PX277 OLED MAX</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-according-to-tom/"><u>The Ultimate Guide to High-Performance Hardware According to Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-insights-into-your-electronics/"><u>Tom's Tech Hub: Comprehensive Insights Into Your Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-detailed-reviews-and-gadget-analysis/"><u>Tom's Tech Hub: Detailed Reviews and Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-guides/"><u>Tom's Tech Reviews: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleash-productivity-with-w11s-quick-actions/"><u>Unleash Productivity with W11's Quick Actions</u></a></li>
 </ul></div>
 

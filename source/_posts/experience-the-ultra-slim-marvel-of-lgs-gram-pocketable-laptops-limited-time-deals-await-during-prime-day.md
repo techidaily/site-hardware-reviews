@@ -1,7 +1,7 @@
 ---
 title: Experience the Ultra-Slim Marvel of LG's Gram Pocketable Laptops - Limited Time Deals Await During Prime Day!
-date: 2024-11-12T20:42:06.551Z
-updated: 2024-11-17T16:00:15.144Z
+date: 2024-11-22T16:53:48.687Z
+updated: 2024-11-27T18:23:42.093Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,22 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-celebrated-colours-top-instagram-filters/"><u>[New] 2024 Approved Celebrated Colours Top Instagram Filters</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>[New] 2024 Approved How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unveiling-the-power-of-effective-screencasts-in-digital-content-for-2024/"><u>[New] Unveiling the Power of Effective Screencasts in Digital Content for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lore-masters-collective-essential-eight/"><u>[Updated] Lore Masters Collective - Essential Eight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-asus-rog-nuc-tier-review-unmatched-performance-within-compact-design/"><u>Comprehensive Guide to the Asus ROG NUC Tier Review: Unmatched Performance Within Compact Design</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-through-toms-specialized-lens/"><u>Mastering Gadgets and Components Through Tom's Specialized Lens</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-safe-bet-of-computing-an-insight-into-nzxts-h7-flow-case/"><u>The Safe Bet of Computing: An Insight Into NZXT's H7 Flow Case</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-poco-m6-pro-4g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Poco M6 Pro 4G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gear-guidance-your-go-to-source-for-computer-insights/"><u>Tom's Gear Guidance: Your Go-To Source for Computer Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[New] Becoming a Metaverse Veteran Top 7 Gadgets for the Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-and-compositing-for-youtube-videos-using-premiere-pro/"><u>[Updated] 2024 Approved Cutting and Compositing for YouTube Videos Using Premiere Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-instruction-loading-windows-movie-maker-60/"><u>2024 Approved Step-by-Step Instruction Loading Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-approach-to-fixing-kernel-memory-page-errors/"><u>A Comprehensive Approach to Fixing Kernel Memory Page Errors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/chinese-memory-tech-firm-targets-195bplus-valuation-through-strategic-financing-as-it-delays-public-offering/"><u>Chinese Memory Tech Firm Targets $19.5B+ Valuation Through Strategic Financing as It Delays Public Offering</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-electronics-hub-in-depth-hardware-analysis-and-tips/"><u>Expert Insights From Tom's Electronics Hub - In-Depth Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-remedies-for-chromes-unresolved-domain-error-errnamenotfound/"><u>Immediate Remedies for Chrome's Unresolved Domain Error (ERR_NAME_NOT_FOUND)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/impending-price-surges-for-essential-computer-components-how-industry-wide-output-limits-affect-dram-and-nand-costs/"><u>Impending Price Surges for Essential Computer Components: How Industry-Wide Output Limits Affect DRAM and NAND Costs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphones-wi-fi-charge-woes-discover-7-effective-fixes/"><u>IPhone's Wi-Fi Charge Woes? Discover 7 Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-get-your-fallout-3-running-smoothly-again-updated-guide/"><u>Step-by-Step Fixes to Get Your Fallout 3 Running Smoothly Again - Updated Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-transferring-videos-to-your-android-device/"><u>Step-by-Step Guide: Transferring Videos to Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tom-hardware-hub-expert-guides-on-technology-and-gadgets/"><u>Tom Hardware Hub: Expert Guides on Technology and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/update-gigabytes-bios-protecting-and-fixing-ddr5-memory-issues/"><u>Update Gigabyte's BIOS: Protecting and Fixing DDR5 Memory Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a79-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A79 5G? Here is How | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

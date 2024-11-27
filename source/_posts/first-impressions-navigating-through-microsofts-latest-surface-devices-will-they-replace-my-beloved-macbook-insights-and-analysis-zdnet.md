@@ -1,7 +1,7 @@
 ---
 title: "First Impressions: Navigating Through Microsoft's Latest Surface Devices - Will They Replace My Beloved MacBook? Insights & Analysis | ZDNET"
-date: 2024-11-13T16:26:16.060Z
-updated: 2024-11-17T17:05:06.172Z
+date: 2024-11-26T18:16:59.390Z
+updated: 2024-11-27T17:43:45.087Z
 tags:
   - laptops
 categories:
@@ -38,16 +38,7 @@ Here's everything that the company announced during its October event.
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
@@ -67,10 +58,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -92,16 +80,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -118,6 +97,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Presenter+ and Audio Dock
 
 The Microsoft Presenter+.
@@ -131,16 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -189,20 +163,24 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-androids-best-free-mp3-extraction-tools/"><u>[Updated] Android's Best Free MP3 Extraction Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-spark-interest-with-unique-channel-names/"><u>[Updated] How to Spark Interest With Unique Channel Names</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-top-10-undiscovered-memelists-on-facebook/"><u>[Updated] Top 10 Undiscovered Memelists on Facebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-using-w11s-auto-hdr/"><u>A Comprehensive Guide to Using W11's Auto HDR</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-v27-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo V27?</u></a></li>
-<li><a href="https://games-able.techidaily.com/empower-your-gaming-experience-with-the-pcs-mousekeyboard-shared-via-steam-deck-and-barriers/"><u>Empower Your Gaming Experience with the PC's Mouse/Keyboard Shared via Steam Deck and Barriers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-12plus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme 12+ 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-review/"><u>Navigating the World of Gadgets with Tom's Hardware Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-level-speeds-with-phisons-revolutionary-e29t-pcie-40-ssd-controller-revealed-at-the-2024-flash-memory-summit-fms/"><u>Next-Level Speeds with Phison's Revolutionary E29T PCIe 4.0 SSD Controller Revealed at the 2024 Flash Memory Summit (FMS)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-big-on-storage-top-rated-ssd-and-hard-drive-specials-for-this-year/"><u>Save Big on Storage: Top Rated SSD & Hard Drive Specials for This Year</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/teamgroups-extreme-ssd-cooling-system-a-120mm-radiator-for-low-powered-m2-drives/"><u>TeamGroup's Extreme SSD Cooling System: A 120Mm Radiator for Low-Powered M.2 Drives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-guide-by-tom-expert-advice-on-computers-electronics-and-more/"><u>The Comprehensive Guide by Tom: Expert Advice on Computers, Electronics & More</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-tech-expert-reviews-and-insights/"><u>Tom's Computer Tech: Expert Reviews and Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-electronics-expertise/"><u>Tom's Electronics Expertise</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevating-gameplay-increasing-ram-in-minecraft/"><u>[New] 2024 Approved Elevating Gameplay Increasing RAM in Minecraft</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-the-secrets-to-youtube-comment-insight-for-2024/"><u>[New] Unveiling the Secrets to YouTube Comment Insight for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-crafting-attention-grabbing-facebook-giveaways/"><u>[Updated] 2024 Approved Crafting Attention-Grabbing Facebook Giveaways</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expertise-on-crafting-premium-webcam-footage/"><u>[Updated] Expertise on Crafting Premium Webcam Footage</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341716627-approach/"><u>Approach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-advanced-computer-components-with-toms-technology-hub/"><u>Discover Advanced Computer Components with Tom's Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-testing-the-responsiveness-and-comfort-of-cleveturas-clvx-1-wireless-keyboard-design/"><u>In-Depth Review: Testing the Responsiveness and Comfort of Clevetura's CLVX 1 Wireless Keyboard Design</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873805-9781931679145-living-with-enlightenment/"><u>Living With Enlightenment | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/patriot-viper-vp4300-lite-4tb-ssd-analysis-big-storage-meets-affordable-pricing/"><u>Patriot Viper VP4300 Lite 4TB SSD Analysis - Big Storage Meets Affordable Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pi52-icetower-plus-revolutionizes-raspberry-pi-5-cooling-efficiency-in-our-in-depth-review/"><u>Pi52 IceTower Plus Revolutionizes Raspberry Pi 5 Cooling Efficiency in Our In-Depth Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/proven-tactic-combining-gopro-footage-in-seamless-virtual-reality-experience/"><u>Proven Tactic Combining GoPro Footage in Seamless Virtual Reality Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-setting-up-airplay-technology-for-hdtv-viewing-experience/"><u>Step-by-Step Tutorial: Setting Up AirPlay Technology for HDTV Viewing Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-20-mobiles-transforming-dji-aerial-video-art-for-2024/"><u>Top 20 Mobiles Transforming DJi Aerial Video Art for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-free-software-selection-8-advanced-low-cost-3d-vids-plugins-for-2024/"><u>Top Free Software Selection 8 Advanced, Low-Cost 3D Vids Plugins for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/top-tier-amd-hd-audio-for-windows/"><u>Top-Tier AMD HD Audio for Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gameplay-experience-unleashed-in-depth-review-of-the-philips-49m2c8900-240hz-qd-oled-display/"><u>Ultimate Gameplay Experience Unleashed: In-Depth Review of the Philips 49M2C8900 - 240Hz QD-OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-and-reviews-at-toms-hardware/"><u>Unveiling Innovations and Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-expert-review-on-the-id-cooling-frozn-a62ebit-pro-series-for-enthusiasts/"><u>Unveiling the Power: Expert Review on the ID-Cooling Frozn A62ebit - Pro Series for Enthusiasts</u></a></li>
 </ul></div>
 

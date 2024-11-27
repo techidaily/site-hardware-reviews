@@ -1,7 +1,7 @@
 ---
 title: Exceptional Screen Experience Awaits in This Featherlight Notebook, Now Discounted – Don’t Wait to Buy! | CNET Reviews
-date: 2024-11-12T21:07:21.639Z
-updated: 2024-11-17T20:02:29.184Z
+date: 2024-11-24T18:55:39.483Z
+updated: 2024-11-27T18:02:56.708Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Cesar Cadenas/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day sales event has officially kicked off, and the two configurations of LG's Gram Pro 17 are seeing huge discounts. The model with the Intel Arc GPU has had its price tag cut by $500, going from $2,200 to $1,700, while the Nvidia RYX 3050 version has gone down by around $300\. The latter now costs $2,196 instead of $2,500.
@@ -29,10 +33,7 @@ Amazon's October Prime Day sales event has officially kicked off, and the two co
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -84,10 +85,7 @@ The other part of this keyboard I'm not a fan of is its shallow design. The keys
 If you're someone that doesn't do a lot of typing, and are looking for an ultra-portable laptop with a stunning display, this laptop could fit that ticket nicely. It's seemingly designed to look cool, go wherever you go, and bring a solid suite of hardware with it. Video creators that do a lot of in-the-field video editing, for example might love having this amount of processing power in such a lightweight package. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -130,24 +128,24 @@ For similar options, check out our [Best Laptops for Graphics Designers](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/"><u>[New] Authoritative Picks Top 10 Apps to Watch Football Games Anytime, Anywhere</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-finding-purpose-in-film-our-selection-of-top-motivational-titles/"><u>[Updated] In 2024, Finding Purpose in Film Our Selection of Top Motivational Titles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guides-by-tom-the-definitive-source/"><u>Advanced Hardware Guides by Tom - The Definitive Source</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-gaming-display-for-only-249-on-amazon/"><u>Affordable 34 Curved ASUS TUF Gaming Display for Only $249 on Amazon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aocs-new-premium-ultrawide-monitor-240hz-oled-technology-at-just-1399/"><u>AOC's New Premium Ultrawide Monitor - 240Hz OLED Technology at Just $1,399!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-unveils-innovative-duo-of-27-1440p-ips-displays-feature-extra-built-in-wireless-antenna/"><u>ASROCK Unveils Innovative Duo of 27 1440P IPS Displays: Feature Extra - Built-In Wireless Antenna</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-crafting-your-perfect-diet-chart-for-optimal-health/"><u>ChatGPT's Role in Crafting Your Perfect Diet Chart for Optimal Health</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862840211-experience-crystal-clear-gaming-with-the-newly-discounted-samsung-odyssey-ark-now-cheaper-than-ever/"><u>Experience Crystal Clear Gaming with the Newly Discounted Samsung Odyssey Ark - Now Cheaper Than Ever.</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-c67-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme C67 5G</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862799080-revolutionary-tech-unveiled-the-new-modos-paper-monitor-offers-an-open-source-solution-to-high-res-and-low-latency-needs/"><u>Revolutionary Tech Unveiled: The New Modos Paper Monitor Offers an Open-Source Solution to High Res and Low Latency Needs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862809061-score-big-savings-with-asus-tuf-34-curved-gaming-monitor-at-an-unbeatable-price-on-amazon/"><u>Score Big Savings with ASUS TUF 34 Curved Gaming Monitor at an Unbeatable Price on Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862812641-steal-the-show-with-the-low-cost-240hz-acer-nitro-gaming-monitor-just-pay-a-sweet-159/"><u>Steal the Show with the Low-Cost 240Hz Acer Nitro Gaming Monitor – Just Pay a Sweet $159</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-ranking-camcorder-utilities-for-enhanced-googleplus-experience-explore-manycam-options/"><u>Top-Ranking Camcorder Utilities for Enhanced Google+ Experience: Explore ManyCam Options</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/uninterrupted-wellbeing-with-the-fitbit-inspire-hr-an-essential-review-for-continuous-health-management/"><u>Uninterrupted Wellbeing with the Fitbit Inspire HR - An Essential Review for Continuous Health Management</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862822436-unlock-crystal-clear-viewing-with-the-built-in-webcam-and-powerful-display-of-samsungs-pixel-dense-viewfinity-s9-now-only-899-save-up-to-44-today/"><u>Unlock Crystal Clear Viewing with the Built-In Webcam & Powerful Display of Samsung's Pixel-Dense ViewFinity S9 - Now Only $899, Save Up to 44% Today!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unraveling-instagrams-complex-world-of-data-a-beginner-to-pro-guide/"><u>Unraveling Instagram's Complex World of Data A Beginner to Pro Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-winter-olympics-2022-highlights/"><u>[New] Winter Olympics 2022 Highlights</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-harmonizing-music-migration-from-one-service-to-another/"><u>[Updated] 2024 Approved Harmonizing Music Migration From One Service to Another</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-livestreaming-to-facebook-from-iphonestablets/"><u>[Updated] In 2024, Step-by-Step Livestreaming to Facebook From iPhones/Tablets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-expert-online-workshop-title-author/"><u>2024 Approved Expert Online Workshop Title Author</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-cutting-edge-laptop-performance-the-1100-honor-magicbook-art-n14-with-meteor-lake-cpu-and-removable-camera/"><u>Experience Cutting-Edge Laptop Performance: The $1,100 Honor MagicBook Art N14 with Meteor Lake CPU & Removable Camera</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-elite-performance-the-new-razer-blade-18-features-i9-14900hx-processor-and-rtx-cu4090-for-4799/"><u>Experience Elite Performance - The New Razer Blade 18 Features I9-14900HX Processor and RTX Cu4090 for $4,799</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-toms-computing-equipment/"><u>Expert Insights on Tom's Computing Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-strengths-of-the-asus-tuf-a14-gaming-laptop-steadfastness-meets-efficiency/"><u>Exploring the Strengths of the Asus TUF A14 Gaming Laptop - Steadfastness Meets Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-gadgets-with-toms-hardware-insights/"><u>Exploring the World of Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-notebooks-on-a-budget-under-1000/"><u>High Performance Gaming Notebooks on a Budget Under $1000</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6s-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 6s 3 Ways To Unlock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/huge-sale-alert-get-the-2023-razer-blade-15-for-just-1000-off-record-low-pricing/"><u>Huge Sale Alert: Get the 2023 Razer Blade 15 for Just $1,000 Off - Record-Low Pricing!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-accelerate-your-fb-video-game-the-top-apps-and-plugins-guide/"><u>In 2024, Accelerate Your FB Video Game The Top Apps & Plugins Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-technology-toms-comprehensive-hardware-analysis/"><u>Inside Look at Technology: Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-game-with-expert-advice-from-toms-hardware-zone/"><u>Master Your Tech Game with Expert Advice From Tom's Hardware Zone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-constant-pc-crashing-discover-proven-solutions-for-a-smoother-run/"><u>Say Goodbye to Constant PC Crashing - Discover Proven Solutions for a Smoother Run</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tips-for-successful-youtube-audios/"><u>Tips for Successful Youtube Audios</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-x100-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo X100 Pro? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

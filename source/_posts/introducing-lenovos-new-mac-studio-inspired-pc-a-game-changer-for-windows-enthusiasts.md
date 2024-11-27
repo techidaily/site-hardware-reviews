@@ -1,7 +1,7 @@
 ---
 title: "Introducing Lenovo's New 'Mac Studio'-Inspired PC: A Game-Changer for Windows Enthusiasts"
-date: 2024-11-14T20:52:21.499Z
-updated: 2024-11-17T20:31:29.611Z
+date: 2024-11-23T18:26:20.115Z
+updated: 2024-11-27T17:21:12.915Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 **Also: [CES 2024: What's Next in Tech](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/)**
 
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -81,28 +85,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions-for-2024/"><u>[New] Comprehensive Approach to Integrating Whiteboards in Zoom Sessions for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-how-to-edit-audio-on-youtube/"><u>[Updated] In 2024, How to Edit Audio on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-screencapture-unveiled-the-ultimate-review-of-camstudio-for-2024/"><u>[Updated] ScreenCapture Unveiled The Ultimate Review of CamStudio for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pi-speed-with-a-high-performance-low-cost-m2-hatplus-reveal/"><u>Boost Your Raspberry Pi Speed with a High-Performance, Low-Cost M.2 HAT+ Reveal</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-lexars-top-performing-ssd-models-sl500-vs-professional-sl600-with-speeds-up-to-20-gbs/"><u>Comprehensive Analysis of Lexar's Top-Performing SSD Models: SL500 Vs. Professional SL600 with Speeds up to 20 GB/S</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/estrategias-esenciales-para-la-duplicacion-del-sistema-operativo-y-movilizacion-de-datos/"><u>Estrategias Esenciales Para La Duplicación Del Sistema Operativo Y Movilización De Datos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-hardware-guides/"><u>Exploring Electronics with Tom's Hardware Guides</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-safely-transfer-your-data-from-hard-drive-to-ssd-with-secure-boot-enabled-on-windows-10/"><u>How to Safely Transfer Your Data From Hard Drive to SSD with Secure Boot Enabled on Windows 10</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-best-5-youtube-video-editor-alternatives/"><u>In 2024, Best 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 11 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-beyerdynamic-mmx-300-pro-superior-acoustics-meets-fundamental-design/"><u>In-Depth Analysis of the Beyerdynamic MMX 300 Pro: Superior Acoustics Meets Fundamental Design</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-hardware-with-tom-insights-and-reviews-by-toms-gear/"><u>Navigating Hardware with Tom: Insights & Reviews by Tom's Gear</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/1715701107601-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>Pinnacle Playtime The Greatest Action-Adventure Game Lineup Ever!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-acer-predator-orion-n5010-premium-gaming-laptop-at-a-bargain-price/"><u>The Ultimate Guide to the Acer Predator Orion N5010: Premium Gaming Laptop at a Bargain Price</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-combo-exclusive-afx-design-tools/"><u>[New] Premium Combo Exclusive AFX Design Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-youtubes-privacy-controls-for-video-accessibility/"><u>[Updated] 2024 Approved Navigating YouTube's Privacy Controls for Video Accessibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-audio-harvesters-in-learning-spaces/"><u>[Updated] Ultimate Audio Harvesters in Learning Spaces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-hdplex-atx-power-supply-fits-in-the-palm-of-your-hand/"><u>Compact HDPLex ATX Power Supply Fits in the Palm of Your Hand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-gigabyte-ud750gm-psu-performance-test/"><u>Comprehensive Evaluation: Gigabyte UD750GM PSU Performance Test</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-computer-hardware-by-toms-expertise/"><u>Comprehensive Guide to Computer Hardware by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-insights-seasonic-prime-tx-1600-psu-assessment/"><u>Comprehensive Testing Insights: Seasonic Prime TX-1600 PSU Assessment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-premium-nzxt-c1email-protected-power-unit-unveiling-its-capabilities/"><u>Expert Analysis of the Premium NZXT C1([email Protected]) Power Unit: Unveiling Its Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Exploring Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-distinguished-makers-elite-instagram-highlight-constructors/"><u>In 2024, Distinguished Makers Elite Instagram Highlight Constructors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-fundamentals-of-quality-streaming-how-to-do-it-right-with-wirecast-and-youtube/"><u>In 2024, The Fundamentals of Quality Streaming How to Do It Right with WireCast and Youtube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-unleash-creativity-exquisite-text-effects-for-adobes-affects/"><u>In 2024, Unleash Creativity Exquisite Text Effects For Adobe's Affects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-assessment-of-the-corsair-tx5-problems/"><u>In-Depth Assessment of the Corsair TX5# Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/launch-of-seasonic-psu-models-featuring-advanced-12vhpwr-connectors-starting-from-230/"><u>Launch of Seasonic PSU Models Featuring Advanced 12VHPWR Connectors Starting From $230</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/speed-capture-faceoff-gopro-hero-4-challenges-ghost-s-for-2024/"><u>Speed Capture Faceoff GoPro Hero 4 Challenges Ghost-S for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toshiba-bluetooth-driver-download-improve-connectivity-instantly/"><u>Toshiba Bluetooth Driver Download - Improve Connectivity Instantly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-chatgpt-ios-app-top-9-solutions-when-faced-with-non-functionality/"><u>Troubleshooting the ChatGPT iOS App: Top 9 Solutions When Faced with Non-Functionality</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

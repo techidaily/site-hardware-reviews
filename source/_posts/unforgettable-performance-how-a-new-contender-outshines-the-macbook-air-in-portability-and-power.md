@@ -1,7 +1,7 @@
 ---
 title: Unforgettable Performance - How a New Contender Outshines the MacBook Air in Portability and Power
-date: 2024-11-12T21:42:19.828Z
-updated: 2024-11-17T20:40:21.111Z
+date: 2024-11-21T17:04:31.956Z
+updated: 2024-11-27T17:17:44.908Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. The numbers don't lie
 
 LG Gram Pro 16 2-in-1 (left) and the 15-inch Apple MacBook Air (right).
@@ -43,10 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -60,10 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -77,10 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,24 +114,21 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-melodic-medley-choosing-the-best-ringtone-websites-for-2024/"><u>[Updated] Melodic Medley Choosing the Best Ringtone Websites for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-8-webcam-filters-to-elevate-your-streaming/"><u>[Updated] Top 8 Webcam Filters to Elevate Your Streaming</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-step-by-step-journey-for-vanishing-from-facebooks-world/"><u>A Step-by-Step Journey for Vanishing From Facebook's World</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-specs-advanced-insights-from-toms-hardware-diaries/"><u>Decoding Tech Specs: Advanced Insights From Tom's Hardware Diaries</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/elevate-your-sound-10-best-professional-audio-editing-programs/"><u>Elevate Your Sound 10 Best Professional Audio Editing Programs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-advanced-video-quality-with-apple-music-for-2024/"><u>Explore Advanced Video Quality with Apple Music for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-lg-bp350-monitors-unique-features-for-2024/"><u>Exploring the LG BP350 Monitor's Unique Features for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/how-to-block-youtube-channels-on-computer-and-mobile-phones/"><u>How to Block YouTube Channels on Computer and Mobile Phones</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-clevetura-clvx-1-bluetooth-keyboard-with-pressure-sensitive-buttons/"><u>In-Depth Analysis of the Clevetura CLVX 1 Bluetooth Keyboard with Pressure-Sensitive Buttons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computing-and-more-at-toms-tech-hub/"><u>Inside the World of Computing and More at Tom’s Tech Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/precision-pc-analysis-with-toms-hardware-experts/"><u>Precision PC Analysis with Tom's Hardware Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-a-subdivision-plat-records-new-lot-boundaries-and-relevant-details-for-official-use-providing-a-legally-binding-representation-of-the-divided-prope8/"><u>Solution: A Subdivision Plat Records New Lot Boundaries and Relevant Details for Official Use, Providing a Legally Binding Representation of the Divided Property.</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-reclaim-lost-files-in-windows-environment/"><u>Strategies to Reclaim Lost Files in Windows Environment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341731936-the-future-of-resin-3d-printing-with-elegoos-saturn-4-ultra-a-detailed-review-exploring-its-technological-advancements/"><u>The Future of Resin 3D Printing with Elegoo's Saturn 4 Ultra - A Detailed Review Exploring Its Technological Advancements.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-hardware-hub-dive-into-toms-tech-reviews-today/"><u>Ultimate Hardware Hub: Dive Into Tom's Tech Reviews Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-white-hued-maxsun-terminator-z790m-d5-ice-a-review-on-its-five-flexible-m2-ports/"><u>Unveiling the Power of the White-Hued Maxsun Terminator Z790M D5 Ice – A Review on Its Five Flexible M.2 Ports</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-truth-about-bluehost-a-comparative-look-at-their-cloud-vps-and-shared-solutions/"><u>Unveiling the Truth About Bluehost: A Comparative Look at Their Cloud, VPS & Shared Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-instagram-leadership/"><u>[New] Step-by-Step Guide to Instagram Leadership</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-how-to-fix-intel-me-driver-issues/"><u>[Solved] How to Fix Intel ME Driver Issues?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-make-youtube-video-for-2024/"><u>[Updated] How to Make YouTube Video for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-audio-precision-with-mac-assistance/"><u>2024 Approved Audio Precision with Mac Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-sweet-symphony-blending-ingredients-correctly/"><u>A Sweet Symphony: Blending Ingredients Correctly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-virtual-realities-shortcomings/"><u>Exploring Virtual Realities' Shortcomings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-7-plus-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-file-management-on-android-a-comprehensive-guide/"><u>Mastering File Management on Android: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-security-a-comprehensive-tutorial-on-utilizing-googles-password-manager-for-android-devices/"><u>Mastering Mobile Security: A Comprehensive Tutorial on Utilizing Google's Password Manager for Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/one-finger-technique-revealed-expanding-your-view-on-google-maps-made-easy/"><u>One-Finger Technique Revealed: Expanding Your View on Google Maps Made Easy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimal-android-launcher-experience-on-large-smartphones-why-niagara-excels/"><u>Optimal Android Launcher Experience on Large Smartphones: Why Niagara Excels</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-meizu-21-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Meizu 21</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-android-15-update-how-it-drastically-improves-your-smartphones-battery-efficiency/"><u>Revolutionary Android 15 Update: How It Drastically Improves Your Smartphone's Battery Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/secure-your-digital-footprint-how-to-safeguard-against-data-leaks-in-mobile-applications/"><u>Secure Your Digital Footprint: How to Safeguard Against Data Leaks in Mobile Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-disabling-incoming-text-notifications-on-android-phones/"><u>Step-by-Step Tutorial: Disabling Incoming Text Notifications on Android Phones</u></a></li>
+<li><a href="https://win-docs.techidaily.com/the-ultimate-guide-to-crafting-strong-and-easy-to-remember-secure-passwords-3-proven-techniques/"><u>The Ultimate Guide to Crafting Strong & Easy-to-Remember Secure Passwords: 3 Proven Techniques</u></a></li>
 </ul></div>
 

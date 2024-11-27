@@ -1,7 +1,7 @@
 ---
 title: "Asus Unveils a Modest Marvel: The Ultimate Laptop with Surprising Capabilities for Creatives | ZDNet"
-date: 2024-11-15T17:32:42.519Z
-updated: 2024-11-17T16:53:46.617Z
+date: 2024-11-23T17:45:04.340Z
+updated: 2024-11-27T18:50:49.605Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,14 +112,19 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-to-choosing-a-screen-recorder-tool-for-2024/"><u>[Updated] Ultimate Guide to Choosing a Screen Recorder Tool for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-artificial-intelligence-starter-pack-an-in-depth-analysis/"><u>Exploring the Raspberry Pi Artificial Intelligence Starter Pack: An In-Depth Analysis</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-latest-techniques-in-iphoneipad-screenshotting-2023-edition/"><u>In 2024, Latest Techniques in iPhone/iPad Screenshotting - 2023 Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/kioxia-unveils-breakthrough-solid-state-drives-with-ultra-fast-optical-link-capable-of-transmitting-data-beyond-40-meters-away-from-cpus/"><u>Kioxia Unveils Breakthrough Solid State Drives with Ultra-Fast Optical Link Capable of Transmitting Data Beyond 40 Meters Away From CPUs</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-cannot-reach-live-configuration-servers-expert-tips-and-strategies/"><u>Overcoming 'Cannot Reach Live Configuration Servers': Expert Tips and Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-projects-with-waveshares-new-iot-board-seamlessly-integrates-with-raspberry-pi-zero-includes-4glte-connectivity-and-customized-micropytho34/"><u>Revolutionize Your Projects with Waveshare's New IoT Board: Seamlessly Integrates with Raspberry Pi Zero, Includes 4G/LTE Connectivity & Customized MicroPython Environment</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-guide-to-the-powerful-apc-back-ups-pro-1500va-robust-energy-capacity-numerous-connectors-and-hot-swap-technology/"><u>The Definitive Guide to the Powerful APC Back-UPS Pro 1500Va – Robust Energy Capacity, Numerous Connectors and Hot-Swap Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-unveiling-the-latest-tech-trends/"><u>Tom's Computer Components: Unveiling the Latest Tech Trends</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-engaging-audiences-with-facebooks-virtual-reality-content/"><u>[Updated] 2024 Approved Engaging Audiences with Facebook's Virtual Reality Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-chromatic-brilliance-for-video-enthusiasts-for-2024/"><u>[Updated] Chromatic Brilliance for Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-scheduling-techniques-for-effective-google-meeting-for-2024/"><u>[Updated] Efficient Scheduling Techniques for Effective Google Meeting for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-specs-advanced-insights-from-toms-hardware-diaries/"><u>Decoding Tech Specs: Advanced Insights From Tom's Hardware Diaries</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y27s-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y27s? Try These Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-look-at-how-smart-and-well-designed-is-the-new-samsung-galaxy-watch/"><u>Inside Look at How Smart and Well-Designed Is the New Samsung Galaxy Watch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computing-and-more-at-toms-tech-hub/"><u>Inside the World of Computing and More at Tom’s Tech Hub</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/one-device-live-broadcast-mastery-easy-steps-to-success-for-2024/"><u>One-Device LIVE Broadcast Mastery Easy Steps to Success for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-teams-changing-vrs-course-for-2024/"><u>Pioneering Teams Changing VR's Course for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-pc-analysis-with-toms-hardware-experts/"><u>Precision PC Analysis with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-a-subdivision-plat-records-new-lot-boundaries-and-relevant-details-for-official-use-providing-a-legally-binding-representation-of-the-divided-prope8/"><u>Solution: A Subdivision Plat Records New Lot Boundaries and Relevant Details for Official Use, Providing a Legally Binding Representation of the Divided Property.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-benefits-why-switch-from-chatgpt-to-claude-3/"><u>Top 4 Benefits: Why Switch From ChatGPT to Claude 3?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-hardware-hub-dive-into-toms-tech-reviews-today/"><u>Ultimate Hardware Hub: Dive Into Tom's Tech Reviews Today</u></a></li>
 </ul></div>
 

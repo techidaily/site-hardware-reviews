@@ -1,7 +1,7 @@
 ---
 title: Score Big Savings! Dive Into the Game with a $600 Off Asus Rog Strix G15 Deal | ZDNET
-date: 2024-11-11T21:17:07.835Z
-updated: 2024-11-17T19:55:44.833Z
+date: 2024-11-25T16:13:19.417Z
+updated: 2024-11-27T18:49:16.411Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ With a truly impressive amount of storage space, you'll get read and write speed
 **Read more:** **[SSD vs. HDD: What's the difference, and which should you buy?](https://www.zdnet.com/article/ssd-vs-hdd-whats-the-difference-and-which-should-you-buy/)** 
 
 Along with great read and write speeds and more reliable data transfers, the [Samsung T5 Evo](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Portable-External-MU-PH8T0S-AM%2Fdp%2FB0CMDGGJTZ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf8ac1bbe-1669-45fa-9f4a-7a9c07c8012b%7Cdtp&dtb=1) also features 256-bit AES encryption to keep your personal data and sensitive information safe from unauthorized access. Its outer casing is drop- and shock-resistant and can withstand falls up to six feet, making it perfect for on-location photographers and other mobile professionals who need a tough storage drive for offloading raw photos from camera storage or transferring important projects and documents between their home office and mobile work location. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -61,28 +65,14 @@ While the Amazon listing for the Samsung T5 Evo portable SSD does not have a cou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-archive-mastery-tips-and-tricks/"><u>[New] 2024 Approved Twitter Archive Mastery Tips & Tricks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/come-creare-una-perfetta-riproduzione-in-hd-di-dvd-su-un-macbook-con-os-big-sur/"><u>Come Creare Una Perfetta Riproduzione in HD Di DVD Su Un MacBook Con OS Big Sur</u></a></li>
-<li><a href="https://win-community.techidaily.com/comprehensive-guide-on-expected-duration-of-digital-information-restoration/"><u>Comprehensive Guide on Expected Duration of Digital Information Restoration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-methods-for-installing-latest-drivers-on-dell-xps-15-running-windows-os/"><u>Easy Methods for Installing Latest Drivers on Dell XPS # 15 Running Windows OS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-hardware-hub/"><u>Expert Reviews by Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-brightness-rich-colors-comprehensive-review-of-the-viewsonic-xg272-2k-240-hz-gaming-display/"><u>High Brightness, Rich Colors - Comprehensive Review of the ViewSonic XG272-2k 240 Hz Gaming Display</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-celebrity-evanescent-video-review/"><u>In 2024, Celebrity Evanescent Video Review</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-icy-performance-and-expensive-price-tag-of-the-gigabyte-b650-aorus-elite-ax-motherboard-with-ample-usb-ports/"><u>In-Depth Review: Icy Performance and Expensive Price Tag of the Gigabyte B650 Aorus Elite AX Motherboard with Ample USB Ports</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-toms-digital-landscape-expert-reviews-on-gadgets-and-components/"><u>Navigating Tom's Digital Landscape: Expert Reviews on Gadgets & Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341755543-postoperative-monitoring-for-signs-of-infection-or-inflammation-is-crucial-after-ocular-trauma-treatment/"><u>Postoperative Monitoring for Signs of Infection or Inflammation Is Crucial After Ocular Trauma Treatment.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-home-computing-the-brainiac-review-of-raspberry-pi-ai-modules/"><u>Revolutionizing Home Computing: The Brainiac Review of Raspberry Pi AI Modules</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-comprehensive-tech-guides-and-gadget-reviews/"><u>Tom's Hardware: Comprehensive Tech Guides and Gadget Reviews</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-itel-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Itel Phones</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-image-to-video-conversion-made-easy-10-best-online-solutions/"><u>Updated In 2024, Image to Video Conversion Made Easy 10 Best Online Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-audioarchive-compiler-download-playback-and-test/"><u>[New] In 2024, AudioArchive Compiler Download, Playback & Test</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses/"><u>2024 Approved Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-airpods-on-macbook-air-made-simple-the-ultimate-tutorial/"><u>Connecting AirPods on MacBook Air Made Simple - The Ultimate Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cytron-edu-pico-kit-embracing-failure-as-a-pathway-to-success/"><u>Cytron Edu Pico Kit: Embracing Failure as a Pathway to Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanded-raspberry-pi-connect-enhances-ssh-capabilities-and-welcomes-legacy-model-compatibility/"><u>Expanded Raspberry Pi Connect Enhances SSH Capabilities and Welcomes Legacy Model Compatibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-the-raspberry-pi-revolutionizes-your-classic-sony-tape-recorder-with-seamless-wireless-audio-streaming/"><u>How the Raspberry Pi Revolutionizes Your Classic Sony Tape Recorder with Seamless Wireless Audio Streaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-computer-hardware-at-toms-review-sites/"><u>In-Depth Analysis of Computer Hardware at Tom's Review Sites</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/motherboard-decision-making-simplified-7-factors-you-cant-ignore/"><u>Motherboard Decision-Making Simplified: 7 Factors You Can't Ignore</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seeking-visual-vintage-free-art-archives-online-for-2024/"><u>Seeking Visual Vintage Free Art Archives Online for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

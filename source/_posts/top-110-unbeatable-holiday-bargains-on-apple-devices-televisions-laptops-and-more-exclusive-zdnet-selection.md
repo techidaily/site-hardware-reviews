@@ -1,7 +1,7 @@
 ---
 title: Top 110 Unbeatable Holiday Bargains on Apple Devices, Televisions, Laptops & More – Exclusive ZDNet Selection
-date: 2024-11-15T21:16:33.897Z
-updated: 2024-11-17T19:12:33.949Z
+date: 2024-11-25T18:52:49.815Z
+updated: 2024-11-27T16:15:51.708Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday laptop deals
 
 * [Samsung Galaxy Book3 360 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book3-360-2-in-1-15-6-fhd-amoled-touch-screen-laptop-intel-13th-gen-evo-core-i7-1360p-16gb-memory-1tb-ssd-graphite%2F6531070.p%3FskuId%3D6531070&publisher_slug=itechdaily19598&exclusive=1): $950 (save $600 at Best Buy)
@@ -34,6 +38,10 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 * [Asus ZenBook Pro Duo 15 OLED 4K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZW-AB76T%2Fdp%2FB09TPTNZLG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $1689 (save $811 at Amazon)
 * [LG Gram 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-gram-17-laptop-wqxga-intel-13th-gen-core-i7-with-16gb-memory-nvidia-geforce-rtx-3050-1tb-ssd-black%2F6540475.p%3FskuId%3D6540475&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $700 at Best Buy)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top Amazon holiday laptop deals
 
 MSI/ZDNET
@@ -43,6 +51,10 @@ MSI/ZDNET
 * [Apple MacBook Air 13 M1 (2020)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $750 (save $250)
 * [Acer Swift Go](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLaptop-1920x1200-Display-i7-1355U-SFG14-71T-72QV%2Fdp%2FB0BTQWR77M%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $650 (save $250)
 * [Lenovo IdeaPad 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Processor-i5-1035G7-Accessories%2Fdp%2FB0CNGV8C34%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1): $350 (save $350)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top Best Buy holiday laptop deals
 
@@ -59,13 +71,6 @@ Dell/ZDNET
 * [HP Envy 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-2-in-1-15-6-full-hd-touch-screen-laptop-amd-ryzen-7-7730u-16gb-memory-512gb-ssd-nightfall-black%2F6535746.p%3FskuId%3D6535746&publisher_slug=itechdaily19598&exclusive=1): $600 (save $450)
 * [Lenovo Slim 3 Chromebook](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-slim-3-chromebook-14-fhd-touch-screen-laptop-mediatek-kompanio-520-4gb-memory-64gb-emmc-abyss-blue%2F6531742.p%3FskuId%3D6531742&publisher_slug=itechdaily19598&exclusive=1): $149 (save $170)
 * [Asus Zenbook 14X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14x-14-5-2-8k-oled-touch-laptop-intel-evo-platform-i7-13700h-16gb-memory-512gb-ssd-inkwell-gray%2F6543526.p%3FskuId%3D6543526&publisher_slug=itechdaily19598&exclusive=1): $700 (save $300)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top Walmart holiday laptop deals
 
@@ -91,10 +96,7 @@ Best Buy/ZDNET
 * [Microsoft Surface Laptop 5](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1729196-REG%2Fmicrosoft%5Frkl%5F00001%5F15%5Fsurface%5Flaptop%5F4.html): $1899 (save $400)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More holiday laptop deals
@@ -132,35 +134,19 @@ The Lenovo Yoga 7 is a 2-in-1 laptop, which means you can use it either as a tab
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-i7-12700H-Fingerprint-Long-Lasting-Win11Pro%2Fdp%2FB0D666LJLD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C15aec2d9-77d0-4d20-a5e1-8b29d55767a1%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best laptop?
 
 If you're in the market for a new laptop and want the best of the best, you should check out our number one pick for the [best laptop of 2023](https://www.zdnet.com/article/best-laptop/): the MacBook Pro 16 M2 Max. It features the new M2 Max chipset from Apple for enhanced performance, multitasking, and graphics capabilities. It also gives you a 22-hour battery life for all-day work or play. You can configure the MacBook Pro 12 M2 Max with up to 96GB of RAM and with up to 8TB of storage. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday 2023 deals?
 
@@ -227,17 +213,24 @@ If you're in the market for a new laptop and want the best of the best, you shou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-effective-strategies-for-podcast-on-insta-story-and-posts/"><u>[New] 2024 Approved Effective Strategies for Podcast on Insta Story & Posts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-3-3300x-outperforms-intel-core-i7-7700k-detailed-geekbench-comparisons/"><u>AMD Ryzen 3 3300X Outperforms Intel Core I7-7700K: Detailed Geekbench Comparisons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-news-intel-alleged-to-halt-production-of-thunder-bay-hybrid-chip/"><u>Breaking News: Intel Alleged to Halt Production of Thunder Bay Hybrid Chip</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversione-gratuita-video-mov-a-formato-e3g-con-movavi-fai-online/"><u>Conversione Gratuita Video MOV a Formato E3g Con Movavi - Fai Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/efficiently-capturing-footage-for-ideal-snaps-via-mac-for-2024/"><u>Efficiently Capturing Footage for Ideal Snaps via Mac for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964465096-galax-unveils-advanced-overclocking-motherboards-equipped-with-ddr5-memory-and-enhanced-voltage-regulation-systems/"><u>Galax Unveils Advanced Overclocking Motherboards - Equipped with DDR5 Memory and Enhanced Voltage Regulation Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unlock-your-potential-for-green-screen-excellence-in-kinemaster/"><u>In 2024, Unlock Your Potential for Green Screen Excellence in Kinemaster</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/porating-cards-and-annotations-in-youtube-content-for-2024/"><u>Incorporating Cards and Annotations in YouTube Content for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-gamers-guide-tackling-darkest-dungeon-2s-recurring-stability-problems-on-windows/"><u>PC Gamers' Guide: Tackling Darkest Dungeon 2'S Recurring Stability Problems on Windows</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/senior-synapses-the-power-of-polyglots-abilities/"><u>Senior Synapses: The Power of Polyglots' Abilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tailor-made-ddr5-racks-from-team-group-boost-your-systems-speed-and-stability/"><u>Tailor-Made DDR5 Racks From Team Group: Boost Your System's Speed and Stability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guides-and-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides and Insights on Latest Hardware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-game-film-mastery-using-fbx-recorder/"><u>[New] 2024 Approved In-Game Film Mastery Using FBX Recorder</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-discovering-the-perfect-shape-tailoring-aspect-ratios-in-videos/"><u>2024 Approved Discovering the Perfect Shape Tailoring Aspect Ratios in Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-affordable-and-speedy-raspberry-pi-m2-hatplus/"><u>Comprehensive Guide to the Affordable & Speedy Raspberry Pi M.2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-the-akasa-geckos-blower-cooler-designed-for-your-solid-state-drive/"><u>Comprehensive Testing of the Akasa Gecko's Blower Cooler Designed for Your Solid State Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-electronics-with-toms-gear-advice/"><u>Expert Insights on Electronics with Tom's Gear Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-tech-hub/"><u>Exploring the Latest Gadgets with Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-fidelity-and-unmatched-clarity-a-comprehensive-look-at-dough-spectrums-oled-monitor-for-gamers/"><u>High Fidelity and Unmatched Clarity: A Comprehensive Look at Dough Spectrum's OLED Monitor for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-world-of-high-performance-technology-and-innovation/"><u>Inside Tom's World of High-Performance Technology and Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insightful-interaction-how-chatgpt-revolutionizes-data-analysis/"><u>Insightful Interaction: How ChatGPT Revolutionizes Data Analysis</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-efficiency-transforming-your-day-with-the-power-of-strategic-time-management/"><u>Mastering Efficiency: Transforming Your Day with the Power of Strategic Time Management</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-pulsing-monitor-glitches/"><u>Preventing Pulsing Monitor Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-connectivity-with-netgears-nighthawk-ax8-a-detailed-assessment-of-a-superior-wi-fi-6-mesh-extender/"><u>Revolutionize Connectivity with Netgear's Nighthawk AX8 - A Detailed Assessment of a Superior Wi-Fi 6 Mesh Extender</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-perfect-close-up-cinematic-shots/"><u>Step-by-Step Guide to Perfect Close-Up Cinematic Shots</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-best-of-the-best-in-drone-technology-why-professionals-choose-dji-mavic-2-pro/"><u>The Best of the Best in Drone Technology: Why Professionals Choose DJI Mavic 2 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-up-to-date-tech-insights-from-toms-hardware/"><u>The Definitive Guide to Up-to-Date Tech: Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-guide-by-toms-hardware-team/"><u>Unveiling Cutting-Edge Gadgets - The Guide by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-toms-hardware-reviews/"><u>Unveiling New Gadgets with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/voice-changers-for-vtubers-two-best-app-recommended/"><u>Voice Changers for Vtubers Two Best App Recommended</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
 

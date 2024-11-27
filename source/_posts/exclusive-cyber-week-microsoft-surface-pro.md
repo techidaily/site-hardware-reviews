@@ -1,7 +1,7 @@
 ---
 title: Exclusive Cyber Week Microsoft Surface Pro
-date: 2024-11-15T16:59:31.078Z
-updated: 2024-11-17T17:48:30.356Z
+date: 2024-11-22T18:43:37.584Z
+updated: 2024-11-27T18:08:08.270Z
 tags:
   - laptops
 categories:
@@ -44,6 +44,10 @@ That said, I've been testing the 12th Gen Intel model (i7, 16GB RAM, 256GB), and
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | Processor        | 12th Gen Intel Core i5/i7 or Microsoft SQ3 (based on Qualcomm)                                     |
@@ -61,10 +65,7 @@ That said, I've been testing the 12th Gen Intel model (i7, 16GB RAM, 256GB), and
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If it ain't broke...
@@ -104,10 +105,7 @@ My main call out here is the difference in USB-C technology. If you're planning 
 **Review: [Microsoft Surface Pro 8 for Business](https://www.zdnet.com/article/microsoft-surface-pro-8-for-business-review/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance: Intel or Arm?
@@ -137,10 +135,7 @@ With the Arm-based model, the Surface Pro 9 gets a Neural Processing Unit (NPU) 
 **Also: [The best webcams for work and play](https://www.zdnet.com/article/best-webcam/)**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life
@@ -149,18 +144,15 @@ Again, Microsoft only sent me the 12th Gen Intel variant to review so I can only
 
 [Buy the Microsoft Surface Pro 9 $919 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1458165054&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 By now you may be wondering, "Is there anything wrong with the [Surface Pro 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Lightweight-Processor-Multi-Tasking%2Fdp%2FB0B9PXN3CT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a0293ad-0b24-4500-84fe-bdb73d62158c%7Cdtp&dtb=1)?" And to that, I say, "No, and yes." My quibble with the newest flagship two-in-one is that, at a time when competitors like [Lenovo](https://www.zdnet.com/article/lenovo-ifa-announcements/) and [Asus](https://www.zdnet.com/article/asus-zenbook-pro-14-duo-oled-ux8402-review/) are redefining the PC experience, Microsoft -- the Windows maker -- is hardly trying to reinvent the wheel, building for comfort instead. 
 
 That's not to say that the Surface Pro 9 is a bad product; it'll most definitely earn a spot in our [year-end rankings](https://www.zdnet.com/article/best-2-in-1-laptop/). I'm just finding it harder and harder to justify the tablet-laptop hybrid, especially when you factor in the cost of the [$279 keyboard and Slim Pen 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Signature-Keyboard-Slim%2Fdp%2FB09DK21NK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4a0293ad-0b24-4500-84fe-bdb73d62158c%7Cdtp&dtb=1) bundle, and the fact that most users eyeing this particular model will probably opt for, at least, 256GB of storage. That puts the [Surface Pro 9](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=24542&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fstore%2Fconfigure%2FSurface-Pro-9%2F93VKD8NP4FVK) firmly in the $1,400 territory, where Apple's [M1 and M2-powered laptops dominate](https://www.zdnet.com/article/apple-macbook-air-m2-2022-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -200,20 +192,24 @@ That's not to say that the Surface Pro 9 is a bad product; it'll most definitely
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-elevate-your-media-management-with-best-videographers-on-vimeo-for-2024/"><u>[New] Elevate Your Media Management with Best Videographers on Vimeo for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-2023-edition-of-effortless-instagram-filter-usage-unveiled/"><u>[New] The 2023 Edition of Effortless Instagram Filter Usage Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-easy-setup-routines-to-preserve-gotomeeting-discussions/"><u>[Updated] In 2024, Easy Setup Routines to Preserve GoToMeeting Discussions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-performance-of-levelplay-combat-air-ca4-cpu-cooler-unmatched-quietness-and-reliability/"><u>Evaluating the Performance of Levelplay Combat Air CA4 CPU Cooler: Unmatched Quietness & Reliability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-by-toms-electronics-hub/"><u>Expert Analysis on Gadgets by Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-top-notch-equipment-with-toms-hardware-insights/"><u>Exploring Top-Notch Equipment with Tom's Hardware Insights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-projecting-yourself-to-the-world-with-insta-captions/"><u>In 2024, Projecting Yourself to the World with Insta Captions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>In 2024, The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-enjoying-virtual-realms-on-your-ipad-pro/"><u>In 2024, Tips for Enjoying Virtual Realms on Your iPad Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-at-tomer-gadget-central-your-source-for-cutting-edge-devices/"><u>Mastering Tech Trends at Tom'er Gadget Central: Your Source for Cutting-Edge Devices</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/sichere-protokollierung-und-wiederherstellung-von-anderungen-aomei-cyberbackup-losung/"><u>Sichere Protokollierung Und Wiederherstellung Von Änderungen – AOMEI CyberBackup Lösung</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-asus-rog-phone-8-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-apart-the-mini-yet-powerful-in-depth-analysis-of-asus-rog-nuc-970-pc/"><u>Taking Apart The Mini Yet Powerful: In-Depth Analysis Of Asus ROG NUC 970 PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-perfect-watchlist-for-how-to-train-your-dragon-trilogy-in-order/"><u>The Perfect Watchlist for How to Train Your Dragon Trilogy - In Order!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-pros-and-cons-of-pimoronis-dual-layered-nvme-ssd-the-complete-breakdown/"><u>Unveiling the Pros and Cons of Pimoroni's Dual-Layered NVMe SSD: The Complete Breakdown</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>[New] 2024 Approved 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-invaluable-slide-show-tools-for-business-executives/"><u>[New] Invaluable Slide Show Tools for Business Executives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tech-analysis-elite-parrot-ar-drone-20/"><u>[New] Tech Analysis Elite Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-free-unique-audio-selections-for-video-conclusions/"><u>[Updated] 2024 Approved Free, Unique Audio Selections for Video Conclusions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-personalized-typing-with-xyza-tiny-keyboard-v20-new-features-include-triple-tailored-keys-and-adjustable-dial-for-enhanced-usability/"><u>Experience Personalized Typing with XYZA Tiny Keyboard v2.0 – New Features Include Triple-Tailored Keys and Adjustable Dial for Enhanced Usability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-insights-by-tom-your-trusted-source/"><u>Expert Hardware Insights by Tom - Your Trusted Source</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-gear-with-tom-in-depth-reviews-and-insights-on-hardware/"><u>Exploring PC Gear with Tom: In-Depth Reviews & Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-and-reviews-your-guide-to-the-latest-gadgets/"><u>Exploring Tom's Tech Insights & Reviews - Your Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-f23-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo F23 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-electronics-guide/"><u>In-Depth Gadget Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-gadget-guide/"><u>Navigating the World of Technology with Tom's Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487420-score-unbeatable-deal-grab-your-steelseries-arctis-nova-pro-wireless-for-just-64-top-choice-in-gaming-headsets/"><u>Score Unbeatable Deal: Grab Your SteelSeries Arctis Nova Pro Wireless for Just $64 - Top Choice in Gaming Headsets!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-capturing-images-with-your-playstation-4/"><u>Step-by-Step Guide: Capturing Images with Your PlayStation 4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-insights-in-depth-hardware-evaluation-and-comparison/"><u>Tom's Computer Insights: In-Depth Hardware Evaluation and Comparison</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-gmail-substitutes-to-try/"><u>Top 8 Gmail Substitutes to Try</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-1011-anpassen-effizientes-verschlusseln-von-inhalten-zur-datensicherheit-aktivieren/"><u>Windows 10/11 Anpassen: Effizientes Verschlüsseln Von Inhalten Zur Datensicherheit Aktivieren</u></a></li>
 </ul></div>
 

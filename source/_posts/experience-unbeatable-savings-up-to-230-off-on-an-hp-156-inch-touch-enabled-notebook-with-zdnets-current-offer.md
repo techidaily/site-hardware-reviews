@@ -1,7 +1,7 @@
 ---
 title: "Experience Unbeatable Savings: Up to $230 Off on an HP 15.6 Inch Touch-Enabled Notebook with ZDNET's Current Offer!"
-date: 2024-11-12T17:27:23.619Z
-updated: 2024-11-17T18:23:10.272Z
+date: 2024-11-21T16:21:30.370Z
+updated: 2024-11-27T16:09:29.885Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 GPU and a screen capable of a 144Hz refre
 **Also: [Best laptops under $1,000](https://www.zdnet.com/article/best-laptop-under-1000/)**
 
 With 8GB of RAM, a 512GB SSD, and a 12th-gen Intel Core i5 processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,25 +63,19 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-captivate-with-these-14-astonishing-text-animations/"><u>[New] Captivate with These 14 Astonishing Text Animations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rom-hobbies-to-hearts-youtubes-path-to-fame-for-2024/"><u>[New] From Hobbies to Hearts YouTube's Path to Fame for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outubes-favorite-spotlight-equipment-17/"><u>[New] YouTube's Favorite Spotlight Equipment #17</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-techniques-for-efficient-iphone-7-recording/"><u>[Updated] 2024 Approved Essential Techniques for Efficient iPhone 7 Recording</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-diving-into-video-quality-dslr-vs-mirrorless-cameras/"><u>[Updated] Diving Into Video Quality DSLR vs Mirrorless Cameras</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-guide-for-adding-friends-as-pins-on-snapchat-for-2024/"><u>[Updated] How-To Guide for Adding Friends as Pins on Snapchat for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bluehost-hosting-services-breakdown-testing-the-waters-of-cloud-vps-and-shared-plans/"><u>Bluehost Hosting Services Breakdown: Testing the Waters of Cloud, VPS, and Shared Plans</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-reducing-windows-10s-memory-overuse-problem/"><u>Effective Solutions for Reducing Windows 10'S Memory Overuse Problem</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-ultimate-sound-of-turtle-beachs-atlas-air-headphones-comfort-meets-acoustic-excellence/"><u>Experience the Ultimate Sound of Turtle Beach's Atlas Air Headphones – Comfort Meets Acoustic Excellence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-unparalleled-precision-meets-dynamic-180hz-gameplay/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS: Unparalleled Precision Meets Dynamic 180Hz Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-assessment-of-the-apple-iphone-12-pro-max-why-more-is-often-merrier/"><u>In-Depth Assessment of the Apple iPhone 12 Pro Max: Why More Is Often Merrier</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximizing-ssd-lifespan-with-akasa-gecko-a-thorough-review-of-this-superior-blower-heatsink-technology/"><u>Maximizing SSD Lifespan with Akasa Gecko: A Thorough Review of This Superior Blower Heatsink Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-problem-of-buzzing-sounds-from-your-earbuds-a-step-by-step-guide/"><u>Solving the Problem of Buzzing Sounds From Your Earbuds: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-increasing-engagement-on-instagram-videos/"><u>[New] Increasing Engagement on Instagram Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725285888063-dvd/"><u>手ブレーカーガイド：DVD/動画からの高画質変換・設定方法</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-the-past-my-reasons-for-favoring-vintage-video-games-over-contemporary-titles/"><u>Embracing the Past: My Reasons for Favoring Vintage Video Games over Contemporary Titles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-smart-homes-ahead-how-three-key-missteps-led-to-superior-automation-scenarios/"><u>Enhanced Smart Homes Ahead: How Three Key Missteps Led to Superior Automation Scenarios</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enjoy-steam-gameplay-anywhere-with-stream-remote-play-no-need-for-a-dedicated-steam-link/"><u>Enjoy Steam Gameplay Anywhere with Stream Remote Play - No Need for a Dedicated Steam Link!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-offers-on-electronics-save-big-on-items-like-the-apple-pencil-and-amazon-fire-hd-10/"><u>Exclusive Offers on Electronics: Save Big on Items Like the Apple Pencil & Amazon Fire HD 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-future-of-vacuuming-with-yeedis-newly-released-m12-proplus-robovac-in-the-us-market/"><u>Experience the Future of Vacuuming with Yeedi's Newly Released M12 Pro+ Robovac in the US Market</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966463540-get-your-zebra-gk420d-driver-now-fast-and-simple-download/"><u>Get Your ZEBRA GK420D Driver Now - Fast & Simple Download!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-motorola-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Motorola Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-the-process-of-clearing-up-browsers-watched-videos/"><u>In 2024, Navigating the Process of Clearing Up Browser's Watched Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-s23-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel S23 Location | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-the-ultimate-guide-to-using-split-screen-on-macbook-air-devices/"><u>Maximizing Productivity: The Ultimate Guide to Using Split Screen on MacBook Air Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-stop-dread-hunger-from-continuously-crashing-on-pcs/"><u>Resolved: How to Stop 'Dread Hunger' From Continuously Crashing on PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sony-playstation-5-insights-exploring-features-past-raw-might/"><u>Sony PlayStation 5 Insights: Exploring Features Past Raw Might</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

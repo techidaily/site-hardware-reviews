@@ -1,7 +1,7 @@
 ---
 title: "Best Deal Alert: Score the HP Victus 15 Gaming Laptop at Only $515 During Prime Day Sale – Shop Now!"
-date: 2024-11-12T21:05:26.709Z
-updated: 2024-11-17T21:06:03.761Z
+date: 2024-11-25T17:43:27.934Z
+updated: 2024-11-27T16:51:04.708Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,29 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[New] In 2024, Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-youtube-video-illumination-techniques/"><u>[Updated] In 2024, Mastering YouTube Video Illumination Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ensure-flawless-slack-conversations-best-10-free-recorder-apps/"><u>2024 Approved Ensure Flawless Slack Conversations Best 10 Free Recorder Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/accelerated-energy-production-a-thorough-review-of-the-unusual-delta-shaped-flsun-s1/"><u>Accelerated Energy Production: A Thorough Review of the Unusual Delta Shaped FLSun S1</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-b760-m2-pcie-gen4-motherboard-budget-friendly-performance/"><u>ASRock B760 M.2 PCIe Gen4 Motherboard - Budget-Friendly Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-lofree-edge-featherweight-bright-future-premium-price-vs-apple-magic-board/"><u>Evaluating the Lofree Edge: Featherweight, Bright Future, Premium Price vs Apple Magic Board</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-advice-for-seamlessly-entering-fullscreen-mode/"><u>Expert Advice for Seamlessly Entering Fullscreen Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/from-basics-to-advanced-toms-comprehensive-hardware-journey/"><u>From Basics to Advanced: Tom’s Comprehensive Hardware Journey</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-keychron-k2-hes-classic-modern-twist/"><u>In-Depth Review of Keychron K2 HE's Classic Modern Twist</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-computing-a-deep-dive-into-toms-hardware-world/"><u>Mastering Modern Computing: A Deep Dive Into Tom's Hardware World</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/por-que-and-por-que-understanding-the-contrast/"><u>Por Qué and Por Que: Understanding the Contrast</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-highpoints-rocket-1608a-add-in-card-revolutionary-drive-capacity-and-performance-upgrade/"><u>The Ultimate Guide to HighPoint's Rocket 1608A Add-In Card – Revolutionary Drive Capacity & Performance Upgrade</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unraveling-the-best-mac-mp4-software-a-comprehensive-guide-for-2024/"><u>Unraveling the Best Mac MP4 Software A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-5-critical-motivations-for-corporate-anti-chatgpt-policies/"><u>Unveiling 5 Critical Motivations for Corporate Anti-ChatGPT Policies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ling-secret-youtube-clips-a-step-by-step-guide-for-2024/"><u>Unveiling Secret YouTube Clips A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potency-of-akasa-geckos-ssd-cooler-an-elite-blower-heatsink-for-optimal-drive-performance/"><u>Unveiling the Potency of Akasa Gecko's SSD Cooler: An Elite Blower Heatsink for Optimal Drive Performance</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dive-into-vlogging-your-first-set-of-tools-for-2024/"><u>[Updated] Dive Into Vlogging Your First Set of Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-top-10-premium-android-and-pc-compatible-video-editors-for-2024/"><u>[Updated] Top 10 Premium Android & PC-Compatible Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-reset-and-regain-navigating-the-2023-fb-hack-scenario/"><u>2024 Approved Reset & Regain Navigating the 2023 FB Hack Scenario</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95683232-9781440504259-365-ways-to-live-the-law-of-attraction/"><u>365 Ways to Live the Law of Attraction | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-vivo-v30-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo V30 Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-z-flip-5-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy Z Flip 5 FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionizing-readers-habits-with-the-high-quality-kobo-forma-tablet/"><u>Revolutionizing Readers' Habits with the High-Quality Kobo Forma Tablet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-throwing-epic-intros-with-imovie/"><u>Step-by-Step Throwing Epic Intros with iMovie</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-extracting-compressed-folders-on-android-phones-and-tablets/"><u>Step-by-Step Tutorial: Extracting Compressed Folders on Android Phones and Tablets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-a-risk-with-android-15-beta-heres-your-step-by-step-trial-and-uninstallation-process/"><u>Taking a Risk with Android 15 Beta? Here's Your Step-by-Step Trial and Uninstallation Process.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-cooking-apps-for-android-devices-find-your-perfect-match/"><u>Top Rated Cooking Apps for Android Devices: Find Your Perfect Match</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-android-lockscreen-into-an-iphone-inspired-display/"><u>Transform Your Android Lockscreen Into an iPhone-Inspired Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-web-surfing-experience-easily-changing-to-a-new-browser-on-android-phones-and-tablets/"><u>Transform Your Web Surfing Experience: Easily Changing to a New Browser on Android Phones and Tablets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-inputs-how-to-fix-input-not-recognized-on-your-screen/"><u>Troubleshooting Unsupported Inputs: How to Fix 'Input Not Recognized' On Your Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubleshooting-play-store-connectivity-issues-on-your-amazon-fire-device/"><u>Troubleshooting: Play Store Connectivity Issues on Your Amazon Fire Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-disabling-mobile-data-usage-for-specific-apps-on-android-devices/"><u>Ultimate Guide: Disabling Mobile Data Usage for Specific Apps on Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-apk-files-are-they-secure-for-downloads/"><u>Understanding APK Files: Are They Secure for Downloads?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

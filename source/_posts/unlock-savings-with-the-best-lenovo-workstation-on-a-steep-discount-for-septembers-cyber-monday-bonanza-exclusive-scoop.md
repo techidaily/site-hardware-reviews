@@ -1,7 +1,7 @@
 ---
 title: Unlock Savings with the Best Lenovo Workstation on a Steep Discount for September's Cyber Monday Bonanza Exclusive Scoop
-date: 2024-11-11T17:48:30.538Z
-updated: 2024-11-17T19:11:03.678Z
+date: 2024-11-22T17:19:24.749Z
+updated: 2024-11-27T18:15:45.898Z
 tags:
   - laptops
 categories:
@@ -41,6 +41,10 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8c2efc8-16b6-4af0-9981-a5b640401ae3%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8c2efc8-16b6-4af0-9981-a5b640401ae3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at ZDNET.com. 
@@ -75,25 +79,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enrich-your-tweeting-experience-the-ultimate-toolkit-review/"><u>[New] 2024 Approved Enrich Your Tweeting Experience The Ultimate Toolkit Review</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-hues-harmonized-implementing-color-strategies-for-2024/"><u>[Updated] Hues Harmonized Implementing Color Strategies for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boost-engagement-with-smart-video-cropping-and-exporting/"><u>[Updated] In 2024, Boost Engagement with Smart Video Cropping & Exporting</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-becoming-a-pro-with-obs-gaming-recordings/"><u>2024 Approved Becoming a Pro with OBS Gaming Recordings</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-c53-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme C53 Unlock Without Password</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/building-and-choosing-hardware-wisely-insights-from-toms-computer-chronicles/"><u>Building and Choosing Hardware Wisely: Insights From Tom's Computer Chronicles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-mechanical-switches-with-the-logitech-g515-lightspeed-tkl-review/"><u>Discover the Best Value in Mechanical Switches with the Logitech G515 Lightspeed TKL Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-ultra-fast-ddr5-6000-16gb-crucial-ram-overclocked-review/"><u>Expert Insight on Ultra-Fast DDR5-6000 16GB Crucial RAM Overclocked Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-asus-proart-pa32ucxr-the-epitome-of-precision-in-workstation-displays/"><u>Expert Review of the Asus ProArt PA32UCXR: The Epitome of Precision in Workstation Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-pc-powerful-strategies-to-curtail-steams-memory-usage/"><u>Keep Your PC Powerful: Strategies to Curtail Steam's Memory Usage</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-file-naming-powertoys-batch-renamer-tool/"><u>Quick File Naming: PowerToys Batch Renamer Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-the-turtle-beach-atlas-air-superior-audio-for-every-listener/"><u>The Definitive Guide to the Turtle Beach ATLAS Air – Superior Audio for Every Listener</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-toms-hardware-guide/"><u>Unveiling the Latest in Computer Components - Tom's Hardware Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-iphone-plus-android-tutorial-screen-recording-google-meets/"><u>[New] 2024 Approved IPhone + Android Tutorial Screen Recording Google Meets</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-detailed-guide-to-using-firefoxs-picture-in-picture-mode/"><u>[Updated] 2024 Approved Detailed Guide to Using Firefox's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-revolutionize-your-social-network-creating-captivating-facebook-slides/"><u>[Updated] 2024 Approved Revolutionize Your Social Network Creating Captivating Facebook Slides</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-video-hub-usability-and-quality-audit-for-2024/"><u>[Updated] Video Hub Usability & Quality Audit for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-final-cuts-vertical-voyage-editing-for-the-modern-instagram-reader/"><u>2024 Approved Final Cut's Vertical Voyage Editing for the Modern Instagram Reader</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/audio-selection-tips-for-impactful-unboxing-clips-for-2024/"><u>Audio Selection Tips for Impactful Unboxing Clips for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-meets-artificial-intelligence-comprehensive-insights-into-the-brainiac-learning-setup/"><u>Raspberry Pi Meets Artificial Intelligence: Comprehensive Insights Into the 'Brainiac' Learning Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rigorous-testing-of-sabrent-rocket-nano-2242-a-1tb-ssd-review-for-m2-needs/"><u>Rigorous Testing of Sabrent Rocket Nano 2242: A 1TB SSD Review for M.2 Needs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-newest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of Newest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-potential-a-comprehensive-review-of-the-gskill-trident-z5-rgb-for-advanced-ddr5-dual-dimm-systems/"><u>Unlocking Potential: A Comprehensive Review of the G.SKILL Trident Z5 RGB for Advanced DDR5 Dual-DIMM Systems</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

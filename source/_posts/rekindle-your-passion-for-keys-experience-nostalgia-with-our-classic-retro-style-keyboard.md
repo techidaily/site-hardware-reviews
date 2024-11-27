@@ -1,7 +1,7 @@
 ---
 title: "Rekindle Your Passion for Keys: Experience Nostalgia with Our Classic Retro-Style Keyboard"
-date: 2024-11-13T20:13:50.855Z
-updated: 2024-11-17T17:16:16.695Z
+date: 2024-11-20T17:43:28.793Z
+updated: 2024-11-27T17:41:23.433Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-16-inch-Lightweight-Laptop-Intel%2Fdp%2FB0CTD1BSZV%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C78827e2a-9278-4df0-9661-27254e2bfab3%7Cdtp&dtb=1) is seeing a 12% discount over on Amazon. You can purchase an ultra-lightweight laptop with one of the best high-resolution displays out there for $1,839.
@@ -29,10 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -100,10 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,18 +148,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-luminous-lore-of-video-production-expert-insights/"><u>[Updated] 2024 Approved Luminous Lore of Video Production Expert Insights</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-cut-the-clutter-advanced-techniques-with-youtube-studio-editor/"><u>[Updated] In 2024, Cut the Clutter Advanced Techniques with YouTube Studio Editor</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-fun-frenzy-youtube-writers-of-joyful-entertainment/"><u>2024 Approved Fun Frenzy YouTube’ Writers of Joyful Entertainment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-powerful-narratives-with-these-30-video-plans/"><u>In 2024, Crafting Powerful Narratives with These 30 Video Plans</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-5-video-editors-outside-youtube-realm/"><u>Leading 5 Video Editors Outside YouTube Realm</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gameplay-with-acers-new-lineup-high-performance-oled-monitors-and-the-exceptional-480hz-predator-x27u-f3/"><u>Revolutionize Your Gameplay with Acer's New Lineup: High-Performance OLED Monitors and the Exceptional 480Hz Predator X27U F3</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-setup-the-premium-24-curved-display-by-sceptre-now-available-for-just-79/"><u>Revolutionize Your Gaming Setup: The Premium, 24 Curved Display by Sceptre Now Available for Just $79!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rumor-alert-the-anticipated-android-16-get-insights-into-pricing-launch-dates-and-expert-speculations/"><u>Rumor Alert! The Anticipated Android 16: Get Insights Into Pricing, Launch Dates & Expert Speculations</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-compatibility-problem-with-uhbr-certified-cables-and-displayport-21-affecting-nvidias-rtx-40-series-choices/"><u>The Compatibility Problem with UHBR-Certified Cables and DisplayPort 2.1 Affecting NVIDIA's RTX 40-Series Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-assessment-of-the-pixio-px277-oled-monitor-for-gamers-a-hidden-treasure-revealed/"><u>The Ultimate Assessment of the Pixio PX277 OLED Monitor for Gamers: A Hidden Treasure Revealed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-hardware-by-toms-tech-experts/"><u>The Ultimate Guide to Hardware by Tom’s Tech Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-discord-game-status-in-windows/"><u>Troubleshooting Unresponsive Discord Game Status in Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-windowsmac-guide-to-opening-srt-audio-cues/"><u>[New] 2024 Approved Windows/Mac Guide to Opening SRT Audio Cues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-magix-media-editor/"><u>[New] Exploring MAGIX Media Editor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-best-5-quick-filming-diy-hacks-to-try-at-home/"><u>2024 Approved Best 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bold-transformation-of-the-worlds-premier-risc-v-laptop-deepcomputing-overhaul-introduces-eight-faster-cores-and-innovative-artificnial-intelligence-capabil35/"><u>Bold Transformation of the World's Premier RISC-V Laptop: DeepComputing Overhaul Introduces Eight Faster Cores & Innovative Artificnial Intelligence Capabilities for Enhanced Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-yet-commanding-discover-the-high-performance-features-of-acers-predator-helios-neo-14/"><u>Compact Yet Commanding: Discover the High-Performance Features of Acer's Predator Helios Neo 14</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-impactful-youtube-thumbnails-and-ads/"><u>Creating Impactful YouTube Thumbnails & Ads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-core-i5-12450h-laptops-with-twin-displays-land-at-710-on-aliexpress-physical-keyboards-not-included/"><u>Cutting-Edge Core I5-12450H Laptops with Twin Displays Land at $710 on AliExpress - Physical Keyboards Not Included!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-snip-save-and-share-high-quality-tamil-ringtones-easily/"><u>How to Snip, Save and Share High-Quality Tamil Ringtones Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997234857-la-noire-game-makes-its-long-awaited-debut-on-personal-computers-issues-resolved/"><u>LA Noire Game Makes Its Long-Awaited Debut on Personal Computers – Issues Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011978657-pathfinder-wrath-of-the-righteous-not-launching-heres-how-you-can-fix-it/"><u>Pathfinder: Wrath of the Righteous Not Launching? Here's How You Can Fix It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-roadmap-for-youtube-streaming-titans-in-gaming-for-2024/"><u>The Roadmap for YouTube Streaming Titans in Gaming for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-hp-omnibook-x-powerful-efficiency-and-a-remarkable-16-hour-battery-life-achievement/"><u>Unveiling the HP OmniBook X: Powerful Efficiency and a Remarkable 16-Hour Battery Life Achievement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-reviews-and-insights-with-toms-hardware/"><u>Unveiling Top Tech Reviews & Insights with Tom's Hardware</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S23+? | Dr.fone</u></a></li>
 </ul></div>
 

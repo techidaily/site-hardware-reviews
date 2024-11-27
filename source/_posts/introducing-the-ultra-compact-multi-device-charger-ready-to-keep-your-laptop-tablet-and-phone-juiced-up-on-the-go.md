@@ -1,7 +1,7 @@
 ---
 title: "Introducing the Ultra-Compact Multi-Device Charger: Ready to Keep Your Laptop, Tablet & Phone Juiced Up on the Go"
-date: 2024-11-11T20:03:30.114Z
-updated: 2024-11-17T20:16:25.236Z
+date: 2024-11-24T16:45:06.550Z
+updated: 2024-11-27T17:24:43.708Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-16-inch-Lightweight-Laptop-Intel%2Fdp%2FB0CTD1BSZV%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc95a210-3d6f-4b02-907d-f19a176b2c1a%7Cdtp&dtb=1) is seeing a 12% discount over on Amazon. You can purchase an ultra-lightweight laptop with one of the best high-resolution displays out there for $1,839.
@@ -29,16 +33,7 @@ Ahead of the Prime Big Deal Days sale, the [LG Gram Pro 16 2-in-1](https://buy.g
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,10 +101,7 @@ For most users, this is not much of an issue, but during exceptionally heavy loa
 Finally, the battery life on this machine was about what you'd expect from a 2-in-1 with an OLED screen. This is a laptop that can last a full day of work, but only barely. Depending on how hard you're pushing it, expect to see 7-8 hours on a single charge. I got around that during my testing. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -119,10 +111,7 @@ In a market of dozens of 2-in-1 laptops that were released this year, the [LG Gr
 If you're looking for more budget-friendly options, the [Acer Swift Edge 16](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-swift-edge-16-16-3-2k-120hz-oled-laptop-amd-ryzen-7-7840u-with-16gb-lpddr5-memory-1tb-pcie-gen-4-ssd-olivine-black%2F6546242.p&publisher_slug=itechdaily19598&exclusive=1) features the same sized OLED screen and weighs slightly more at 2.73 pounds, but will only cost you $1,300.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -159,18 +148,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>[New] Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-powerful-language-in-marketing-the-20-must-know-phrases/"><u>[Updated] Powerful Language in Marketing - The 20 Must-Know Phrases</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-meme-maniacs-twitters-funniest-video-threads-roundup/"><u>2024 Approved Meme Maniacs Twitter's Funniest Video Threads Roundup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/community-engagement/"><u>Community Engagement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-clevetura-clvx-1-wireless-keyboard-analysis-tactile-feedback-evaluation/"><u>Comprehensive Clevetura CLVX 1 Wireless Keyboard Analysis - Tactile Feedback Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-highpoint-rocket-1608a-addon-board-for-drives-boosting-capacity-and-drive-performance/"><u>Expert Review: HighPoint Rocket 1608A Addon Board for Drives – Boosting Capacity & Drive Performance</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-8-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-your-tech-journey-with-precision-on-tomgearguide-comprehensive-hardware-insights/"><u>Navigate Your Tech Journey with Precision on TomGearGuide – Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-hostgators-offerings-an-authoritative-review-of-their-vps-and-shared-hosting-solutions/"><u>Navigating HostGator's Offerings: An Authoritative Review of Their VPS and Shared Hosting Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fix-how-to-update-synaptics-ps2-touchpad-drivers-instantly/"><u>Quick Fix: How to Update Synaptics PS/2 Touchpad Drivers Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/say-goodbye-to-frustrating-response-rates-correcting-your-windows-11-keyboards-sluggishness/"><u>Say Goodbye to Frustrating Response Rates: Correcting Your Windows 11 Keyboard's Sluggishness</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-setting-up-custom-filters-in-gmail/"><u>Step-by-Step Tutorial on Setting Up Custom Filters in Gmail</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-professional-insights-on-dough-spectrums-27-black-oled-monitor-for-gamers/"><u>Unveiling Professional Insights on Dough Spectrum's 27 Black OLED Monitor for Gamers</u></a></li>
+<li><a href="https://fox-within.techidaily.com/comprehensive-guide-to-restoring-your-samsung-portable-ssd-t5-to-factory-settings-with-safe-data-retrieval-techniques/"><u>Comprehensive Guide to Restoring Your Samsung Portable SSD T5 to Factory Settings with Safe Data Retrieval Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-methods-for-relocating-apps-onto-external-sd-cards-on-your-android-device/"><u>Easy Methods for Relocating Apps Onto External SD Cards on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effective-ways-to-prevent-unexpected-shutdowns-on-your-android-device/"><u>Effective Ways to Prevent Unexpected Shutdowns on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effortlessly-cutting-and-pasting-content-in-android-text-hyperlinks-and-visual-media-tips/"><u>Effortlessly Cutting & Pasting Content in Android: Text, Hyperlinks & Visual Media Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancing-sleep-with-android-bedtime-functionality-personal-experience-and-tips/"><u>Enhancing Sleep with Android Bedtime Functionality: Personal Experience and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-guide-calculating-necessary-internal-storage-for-optimal-performance-on-android-smartphones/"><u>Essential Guide: Calculating Necessary Internal Storage for Optimal Performance on Android Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exciting-tech-alert-the-release-date-for-nothing-phone-2-set-for-july-11th-revealed/"><u>Exciting Tech Alert: The Release Date for Nothing Phone 2 Set for July 11Th Revealed!</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guia-de-solucion-al-problema-irqlnotlessorequal-en-la-version-11-de-windows-pasos-detallados-para-usuarios-tecnicos-y-no-tecnicos/"><u>Guía De Solución Al Problema IRQL_NOT_LESS_OR_EQUAL en La Versión 11 De Windows: Pasos Detallados Para Usuarios Técnicos Y No Técnicos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-how-to-input-critical-emergency-health-information-into-your-android-smartphone/"><u>Guide: How to Input Critical Emergency Health Information Into Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-amazon-fire-tablets-unresponsive-play-store/"><u>How to Fix Amazon Fire Tablet's Unresponsive Play Store</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-lenovo-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Lenovo Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategic-timing-for-virality-in-video-content-sharing/"><u>In 2024, Strategic Timing for Virality in Video Content Sharing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95918160-9781683255611-los-misterios-de-la-masoneria-historia-jerarquia-simbologia-secretos-masones-ilustres/"><u>Los misterios de la masonería. Historia, jerarquía, simbología, secretos, masones ilustres | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/no-errors-post-setup-nvidias-smooth-operations/"><u>No Errors Post-Setup: Nvidia's Smooth Operations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-issue-on-a-paired-bluetooth-gadget-here-are-the-solutions/"><u>No Sound Issue on a Paired Bluetooth Gadget? Here Are the Solutions.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-c51-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-strategy-for-sound-graph-segregation/"><u>Understanding Windows' Strategy for Sound Graph Segregation</u></a></li>
 </ul></div>
 

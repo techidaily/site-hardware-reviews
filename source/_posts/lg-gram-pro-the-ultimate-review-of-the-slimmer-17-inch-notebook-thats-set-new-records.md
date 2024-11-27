@@ -1,7 +1,7 @@
 ---
 title: "LG Gram Pro: The Ultimate Review of the Slimmer 17-Inch Notebook That's Set New Records"
-date: 2024-11-12T19:56:34.003Z
-updated: 2024-11-17T21:43:53.100Z
+date: 2024-11-26T16:46:32.160Z
+updated: 2024-11-27T17:52:59.388Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ After months of [speculation](https://www.zdnet.com/article/microsofts-october-1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [How to use Android's emergency satellite texting if you lose cell signal](https://www.zdnet.com/article/how-to-use-androids-emergency-satellite-texting-if-you-lose-cell-signal/)
@@ -36,13 +40,6 @@ On the surface, Microsoft has kept its fall lineup of products nearly indistingu
 Here's everything that the company announced during its October event.
 
 **Also: [How did Microsoft manage to get it right with Surface?](https://www.zdnet.com/article/how-did-microsoft-manage-to-get-it-right-with-surface/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Surface Laptop 5 gets a splash of color
 
@@ -61,10 +58,7 @@ What's different about the new Surface Laptop starts with the 12th-generation In
 The Surface Laptop 5 will be available in select markets beginning on Oct. 25 with a [starting price of $999](https://www.microsoft.com/en-us/store/configure/Surface-Laptop-5/8XN49V61S1BN?) for the i5, 8GB of RAM, and 256GB model. The laptop will be available in classic Platinum, Black, and Sandstone colorways, as well as a new leafy "Sage" option. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Goodbye Surface Pro X, hello Surface Pro 9
@@ -86,10 +80,7 @@ Not-so-big news: The rest is a standard Surface Pro affair; 2-in-1 design with a
 As far as pricing goes, the Intel-based Surface Pro 9 starts at [$999](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (i5, 8GB RAM, 128GB), and the ARM-based model starts at [$1,299](https://www.microsoft.com/en-us/store/configure/Surface-Pro-9/93VKD8NP4FVK?) (SQ3, 8GB RAM, 128GB). The former comes in Platinum, Graphite, Forest, and Sapphire, while the latter only comes in Platinum. Preorders start today. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The aptly-named Surface Studio 2+
@@ -106,6 +97,10 @@ For all the performance gains that you're getting, Microsoft is making you pay t
 
 [Buy the Surface Studio 2+ View now at Microsoft](https://www.microsoft.com/en-us/store/configure/Surface-Studio-2/8VLFQC3597K4?)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Presenter+ and Audio Dock
 
 The Microsoft Presenter+.
@@ -119,10 +114,7 @@ Releasing alongside the new Surface products are the Microsoft Presenter+ and Mi
 The Microsoft Audio Dock is both a docking station with four ports (HDMI, 2x USB-C, and USB-A) and a speaker for audio input and output. For $249, which is not cheap for either of its two functions, Microsoft promises "premium sound" and noise-reducing microphones that will help you "be heard clearly in your next online meeting."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Designer takes on Canva
@@ -171,16 +163,18 @@ Microsoft officials say that Designer is targeted at consumers more than anyone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-audio-enabled-mac-video-recorder/"><u>[New] 2024 Approved Audio-Enabled Mac Video Recorder</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ngage-and-captivate-viewers-ultimate-tips-for-cutting-edge-youtube-edits/"><u>[New] Engage and Captivate Viewers Ultimate Tips for Cutting-Edge Youtube Edits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-on-the-move-high-performance-free-online-tempo-tracking-tools/"><u>2024 Approved On-the-Move High-Performance, Free Online Tempo Tracking Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/avoiding-common-pitfalls-top-6-microsoft-excel-errors-and-prevention-strategies/"><u>Avoiding Common Pitfalls: Top 6 Microsoft Excel Errors and Prevention Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-and-performance-of-western-digitals-new-4tb-wd-blue-sn5000-ssd/"><u>Exploring the Features and Performance of Western Digital's New 4TB WD Blue SN5000 SSD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-nzxt-h7-flow-case-a-cautious-approach-to-performance/"><u>Exploring the NZXT H7 Flow Case: A Cautious Approach to Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lofree-edge-assessment-slim-design-and-higher-cost-compared-with-apples-magic-keyboard/"><u>Lofree Edge Assessment: Slim Design & Higher Cost - Compared with Apple's Magic Keyboard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-daily-living-with-ai-the-chatgpt-guide/"><u>Optimizing Daily Living with AI: The ChatGPT Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/speedy-fb-uploads-how-to-get-there-fastest-for-2024/"><u>Speedy FB Uploads How to Get There Fastest for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341752525-toms-tech-hub-in-depth-reviews-and-tips-explore-more-with-us/"><u>Tom's Tech Hub: In-Depth Reviews & Tips - Explore More with Us</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-powerhouse-in-depth-look-at-hps-new-snapdragon-chip-in-omnibook-x/"><u>Unboxing the Powerhouse: In-Depth Look at HP's New Snapdragon Chip in OmniBook X</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-premium-8-cam-enhancers-for-clear-broadcasting/"><u>[Updated] 2024 Approved Premium 8 Cam Enhancers for Clear Broadcasting</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-convert-vimeo-hd-mp4-format-guide-for-2024/"><u>[Updated] Convert Vimeo HD MP4 Format Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beef-up-your-cgi-with-these-8-online-repositories-of-free-green-screens-and-clips/"><u>[Updated] In 2024, Beef up Your CGI with These 8 Online Repositories of FREE Green Screens and Clips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-explore-our-list-of-10-superior-phone-based-video-chat-apps/"><u>2024 Approved Explore Our List of 10 Superior Phone-Based Video Chat Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/blueprints-for-success-top-10-insights-into-instagram-video-marketing/"><u>Blueprints for Success Top 10 Insights Into Instagram Video Marketing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsairs-revolutionary-rmx-series-psu-units-with-innovative-side-mounted-modularity/"><u>Corsair's Revolutionary RMx Series: PSU Units with Innovative Side-Mounted Modularity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-worlds-smallest-atx-3n-psu-from-enermax-the-ultimate-choice-for-space-saving-rear-connector-enhanced-computer-builds/"><u>Discover the World’s Smallest ATX 3.n PSU From Enermax – The Ultimate Choice for Space-Saving, Rear-Connector Enhanced Computer Builds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficiency-and-performance/"><u>Efficiency and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-evaluating-performance-and-reliability-of-thermaltakes-1350w-toughpower-gf3-power-supply-unit/"><u>Expert Insights: Evaluating Performance and Reliability of Thermaltake's 1350W Toughpower GF3 Power Supply Unit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964495768-power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149</u></a></li>
 </ul></div>
 

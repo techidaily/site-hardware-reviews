@@ -1,7 +1,7 @@
 ---
 title: Microsoft Implements Quick Solution to Address Surface Pro Camera Malfunction – Insights Revealed by ZDNet
-date: 2024-11-16T19:58:25.265Z
-updated: 2024-11-17T19:59:44.869Z
+date: 2024-11-25T17:53:48.104Z
+updated: 2024-11-27T17:54:49.535Z
 tags:
   - laptops
 categories:
@@ -48,19 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -84,10 +71,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -105,6 +89,10 @@ I already had the combo kit, so that's what I've been using during my testing.
 Regardless of which keyboard you pick up, all of them have a slot for a Surface Slim Pen 2 above the keyboard. When it's folded up, the pen rests against the Pro 8's bottom bezel. It wirelessly charges the pen, so it's constantly ready for use. 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
 
@@ -150,10 +138,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -168,13 +153,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -187,7 +165,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -226,22 +212,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-how-do-green-screens-work-a-complete-beginners-guide-for-2024/"><u>[New] How Do Green Screens Work? [A Complete Beginner's Guide] for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screencast-insights-101-key-concepts-for-video-creators/"><u>[Updated] 2024 Approved Screencast Insights 101 Key Concepts for Video Creators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-verdict-on-using-itop-for-screen-capture/"><u>[Updated] 2024 Approved The Verdict on Using ITop for Screen Capture?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-5-easy-ways-to-multiply-your-youtube-follower-base-for-2024/"><u>[Updated] 5 Easy Ways to Multiply Your YouTube Follower Base for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevating-visual-storytelling-expert-techniques-for-instagram-video-edits/"><u>2024 Approved Elevating Visual Storytelling Expert Techniques for Instagram Video Edits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-classroom-talks-on-a-mac/"><u>Capturing Classroom Talks on a Mac</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-resource-hardware-breakdown-and-reviews/"><u>Exploring Technology with Tom's Resource: Hardware Breakdown and Reviews</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-top-30-trending-tiktok-anime-inspirations/"><u>In 2024, Top 30 Trending TikTok Anime Inspirations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-innovative-yeswebuild-campaign-a-fresh-take-on-pc-creation/"><u>Introducing MSI's Innovative '#YesWeBuild' Campaign - A Fresh Take on PC Creation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-toms-expertise-the-definitive-tech-resource/"><u>Mastering Hardware with Tom's Expertise - The Definitive Tech Resource</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/microsoft-unveils-windows-support-for-qualcomms-new-arm-based-snapdragon-developer-platform/"><u>Microsoft Unveils Windows Support for Qualcomm's New ARM-Based Snapdragon Developer Platform</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-hardware-with-tom-your-ultimate-guide/"><u>Navigating Computer Hardware with Tom: Your Ultimate Guide</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-step-by-step-guide-to-mastering-voice-change-with-voice-changer-plus-on-your-iphone/"><u>New In 2024, The Step-by-Step Guide to Mastering Voice Change with Voice Changer Plus on Your iPhone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide-to-tech-innovations/"><u>Tom's Computer Review: The Ultimate Guide to Tech Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-analysis-in-depth-evaluation-of-latest-electronics-and-specs/"><u>Tom's Gadget Analysis: In-Depth Evaluation of Latest Electronics and Specs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-t17239718716137/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-automatic-youtube-playback-made-simple-for-social-networking-sites-like-facebook/"><u>2024 Approved Automatic YouTube Playback Made Simple for Social Networking Sites Like Facebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeat-lag-and-enjoy-seamless-battles-essential-fixes-for-chivalry-2s-ping-issues-latest-insights/"><u>Defeat Lag and Enjoy Seamless Battles: Essential Fixes for Chivalry 2'S Ping Issues [Latest Insights]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-toms-hardware-your-ultimate-guide/"><u>Discovering Tom's Hardware: Your Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/frustration-in-games-galore-the-ultimate-list/"><u>Frustration in Games Galore: The Ultimate List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-updated-amd-radeon-hd-6950-graphics-card-drivers-on-windows-1011-free-downloads/"><u>Get Updated AMD Radeon HD 6950 Graphics Card Drivers on Windows 10/11 - Free Downloads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-unleashed-detailed-analysis-of-the-asus-rog-swift-pg34wcdm-monitors-stunning-240hz-oled-screen-and-superior-graphics-fidelity/"><u>High-Performance Gaming Unleashed: Detailed Analysis of the Asus ROG Swift PG34WCDM Monitor's Stunning 240Hz OLED Screen and Superior Graphics Fidelity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x9b-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor X9b?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-master-the-art-of-fb-video-ads-with-a-complimentary-kit/"><u>In 2024, Master the Art of FB Video Ads with a Complimentary Kit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-rating-the-id-cooling-frozn-a620-pro-se/"><u>In-Depth Analysis and Rating: The ID-Cooling Frozn A620 PRO SE</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-discover-top-picks-at-toms-hardware-hub/"><u>Mastering Your Devices? Discover Top Picks at Tom's Hardware Hub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-a-must-have-for-your-tech-collection/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - A Must-Have for Your Tech Collection !</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixel-perfect-gaming-display/"><u>Pixel-Perfect Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-insights-on-top-notch-electronic-devices/"><u>Tom’s Insights on Top-Notch Electronic Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-definitive-guide/"><u>Tom's Tech Reviews: The Definitive Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-still-to-stunning-8-best-animated-photo-makers/"><u>Updated From Still to Stunning 8 Best Animated Photo Makers</u></a></li>
 </ul></div>
 

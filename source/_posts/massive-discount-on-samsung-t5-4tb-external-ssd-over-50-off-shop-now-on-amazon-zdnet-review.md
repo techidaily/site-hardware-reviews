@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount on Samsung T5 4TB External SSD: Over 50%% Off - Shop Now on Amazon (ZDNet Review)"
-date: 2024-09-19 21:43:17
-updated: 2024-09-20 11:39:32
+date: 2024-11-24T16:33:01.384Z
+updated: 2024-11-27T16:39:05.793Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-capturing-footage-from-above-drone-filming-tips/"><u>[New] 2024 Approved Capturing Footage From Above Drone Filming Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-text-effects-in-adobe-after-effects/"><u>2024 Approved Masterful Text Effects in Adobe After Effects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-g16-gaming-laptop-now-just-949-powerhouse-performance-on-sale/"><u>Dell G16 Gaming Laptop: Now Just $949 - Powerhouse Performance on Sale</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-asus-ryzen-ai-laptops-rzne-ai-9-hx-370-and-rzne-ai-9-365-unveiling-on-july-17-for-tuf-gaming-rog-zephyrus-zenbook-and-proart/"><u>Discover the Latest Asus Ryzen AI Laptops: RZne AI 9 HX 370 & RZne AI 9 365 - Unveiling on July 17 for TUF Gaming, ROG Zephyrus, Zenbook, and ProArt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-next-level-of-personalization-in-gaming-laptops-asus-enhances-the-zephyrus-g14-with-an-e-paper-screen-hinge-display/"><u>Discover the Next Level of Personalization in Gaming Laptops: Asus Enhances the Zephyrus G14 with an E-Paper Screen Hinge Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-duo-microsofts-enhanced-surface-and-surface-pro-with-cutting-edge-copilotplus-assistance/"><u>Discover the Power Duo: Microsoft's Enhanced Surface & Surface Pro with Cutting-Edge Copilot+ Assistance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nubia-z50-ultra-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nubia Z50 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-linux-gaming-with-tuxedos-sirius-gen2-featuring-all-amd-processing-and-stunning-165hz-ips-display-starting-at-1699/"><u>Experience Next-Level Linux Gaming with Tuxedo's Sirius Gen2 - Featuring All-AMD Processing & Stunning 165Hz IPS Display Starting at €1,699</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-advanced-gadgets-with-toms-hardware-experts-dive-into-cutting-edge-technology/"><u>Explore Advanced Gadgets with Tom's Hardware Experts - Dive Into Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-perfect-game-ready-laptop-without-breaking-your-bank-best-choices-under-1k/"><u>Find the Perfect Game-Ready Laptop Without Breaking Your Bank: Best Choices Under $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-laptop-woes-to-perfect-setup-enthusiast-replaces-faulty-keyboard-and-adds-titanium-protection-plus-mechanical-typing-pleasure/"><u>From Lenovo Laptop Woes to Perfect Setup: Enthusiast Replaces Faulty Keyboard & Adds Titanium Protection + Mechanical Typing Pleasure</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-to-launching-an-inclusive-and-engaging-fb-donation-drive-for-2024/"><u>Guide to Launching an Inclusive and Engaging FB Donation Drive for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-13t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 13T Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-8-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 8?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/is-magic-call-voice-changer-app-working-get-alternatives-here-for-2024/"><u>Is Magic Call – Voice Changer App Working? Get Alternatives Here for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-guide-securing-your-data-with-file-encryption-on-windows-server/"><u>Step-by-Step Guide: Securing Your Data with File Encryption on Windows Server</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-virtual-meetings-achieving-crystal-clear-visuals-by-blurring-the-background-on-google-meet/"><u>Transform Your Virtual Meetings: Achieving Crystal Clear Visuals by Blurring the Background on Google Meet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-benefits-mobvoi-ticwatch-pro-3-review-focusing-on-dual-display-functionality-for-improved-endurance/"><u>Unveiling the Benefits: Mobvoi TicWatch Pro 3 Review Focusing on Dual Display Functionality for Improved Endurance</u></a></li>
+</ul></div>
+

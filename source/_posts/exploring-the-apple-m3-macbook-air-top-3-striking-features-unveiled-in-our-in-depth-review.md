@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Apple M3 MacBook Air: Top 3 Striking Features Unveiled in Our In-Depth Review"
-date: 2024-11-16T18:01:03.322Z
-updated: 2024-11-17T18:58:40.660Z
+date: 2024-11-26T17:23:27.854Z
+updated: 2024-11-27T17:50:11.797Z
 tags:
   - laptops
 categories:
@@ -32,6 +32,10 @@ You'll hear and see more about these branded laptops over the coming weeks, mont
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. More seamless on-device AI features
 
 Kerry Wan/ZDNET
@@ -47,10 +51,7 @@ Having a dedicated Copilot key certainly adds to this burdenless experience. As 
 Perhaps the most important aspect of these new Copilot+ AI features is that they operate [on-device](https://www.zdnet.com/article/5-top-mobile-trends-in-2024-on-device-ai-the-new-smartphone-and-more/#:~:text=to%20take%20shape.-,1.%20On%2Ddevice%20AI%20puts%20the%20%27smart%27%20in%20smartphone,-The%20new%20Samsung) \-- based on local data, providing more private, secure, and faster processing capabilities. To everyday users, this may not be as significant. If, however, keeping your personal data protected (and away from any [remote cloud servers](https://www.zdnet.com/article/ai-is-changing-cybersecurity-and-businesses-must-wake-up-to-the-threat/)) is a priority, you'll feel a little better using the AI features on these new Copilot+ PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Windows Hello feels faster than ever
@@ -66,10 +67,7 @@ Comparing my M3 MacBook Air with the Surface Laptop is not exactly an apples-to-
 The best part is that Windows Hello automatically triggers when I lift the laptop lid open, and it's able to scan my face even in dimmer environments thanks to the IR camera.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Touchscreen support
@@ -85,10 +83,7 @@ For example, the new Cocreator tool in Paint requires you to both write a prompt
 While I've always found touchscreen functionality to be more beneficial on larger screens, using the smaller [13.8-inch Surface Laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Touchscreen-Snapdragon-Sapphire%2Fdp%2FB0CXKYTQS2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdce94952-9462-4f8b-a8a9-5180b078bf69%7Cdtp&dtb=1) feels more like a 2-in-1 tablet. When my typing space is confined, like on a bus, plane, or crowded café, being able to simply reach over and tap, swipe, and drag elements on the screen is very helpful and intuitive. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Benchmarks (for now)
@@ -130,18 +125,18 @@ For the following benchmark tests, the higher the score, the better.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-revolutionizing-image-quality-with-advanced-exposure-controls/"><u>[New] Revolutionizing Image Quality with Advanced Exposure Controls</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-resource-for-creating-professional-impactful-videodumps/"><u>[New] The Ultimate Resource for Creating Professional, Impactful Videodumps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-efficient-ways-to-download-and-store-youtube-like-tweet-videos-for-2024/"><u>[Updated] Efficient Ways to Download and Store YouTube-Like Tweet Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-approaches-for-effective-use-of-streamlabs-obs/"><u>[Updated] Innovative Approaches for Effective Use of Streamlabs OBS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-proven-ways-to-cash-in-instagrams-leading-revenue-methods/"><u>2024 Approved Proven Ways to Cash In Instagram's Leading Revenue Methods</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamlessly-install-new-sounds-card-drivers-begin-now/"><u>Seamlessly Install New Sounds Card Drivers - Begin Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-buying-guides/"><u>Tom's Tech Insights: Expert Reviews & Buying Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-guides/"><u>Tom's Tech Reviews - In-Depth Analysis & Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transforming-your-kindle-into-an-e-ink-display-a-step-by-step-guide/"><u>Transforming Your Kindle Into an E-Ink Display: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-showdown-of-the-gigabyte-aorus-co49dq-oled-display-immersive-colors-and-deep-blacks-unleashed/"><u>Ultimate Showdown of the Gigabyte Aorus CO49DQ OLED Display: Immersive Colors & Deep Blacks Unleashed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-efficient-expeditions-to-extinct-reddit-threads/"><u>[New] 2024 Approved Efficient Expeditions to Extinct Reddit Threads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-quick-windows-gallery-app-for-2024/"><u>[New] Best Quick Windows Gallery App for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-facebook-messenger-video-downloaders/"><u>[New] In 2024, Facebook Messenger Video Downloaders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-record-gameplay-using-fbx-game-recorder/"><u>[Updated] How To Record Gameplay Using FBX Game Recorder</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-samsung-galaxy-f15-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Samsung Galaxy F15 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-hybrid-card-glitch-on-windows-11-os/"><u>Fixing Hybrid Card Glitch on Windows 11 OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-chromebook-video-editors-secret-running-windows-and-mac-apps-with-ease/"><u>New The Chromebook Video Editors Secret Running Windows and Mac Apps with Ease</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-elite-selection-premium-notebooks-and-high-performance-laptops/"><u>The Elite Selection: Premium Notebooks & High-Performance Laptops</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-hardware-t17238628794254/"><u>Tom's Tech Insights: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-game-changing-risc-v-dev-laptop-engineers-dream-at-an-unbeatable-price-of-around-300-from-china/"><u>Unveiling the Game-Changing RISC-V Dev Laptop: Engineers' Dream at an Unbeatable Price of Around $300 From China</u></a></li>
 </ul></div>
 

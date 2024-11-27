@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of 2023'S Most Popular Mechanical Keyboards Reviewed
-date: 2024-11-15T21:51:29.218Z
-updated: 2024-11-17T18:25:31.025Z
+date: 2024-11-22T16:50:52.005Z
+updated: 2024-11-27T18:32:05.410Z
 tags:
   - laptops
 categories:
@@ -76,6 +76,10 @@ Cons
 * Lacks wrist rest
 * On the louder side
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cooler Master CK552
 
 ### Best budget mechanical keyboard
@@ -106,13 +110,6 @@ Cons
 * Easily detachable feet
 
 ## NuPhy Air75
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best mechanical keyboard for laptops
 
@@ -145,14 +142,11 @@ Cons
 * Mediocre battery
 * Lacks a wrist rest
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Razer BlackWidow V3 Mini Hyperspeed
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best 65 percent mechanical keyboard
 
@@ -181,27 +175,7 @@ Cons
 * Pricey
 * Wobbly keys
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SteelSeries Apex Pro
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best mechanical keyboard for gaming
 
@@ -219,6 +193,10 @@ Aside from gaming, the Apex Pro is also great for typing and navigation. [Alvin 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best mechanical keyboard?
 
 Users love the Razer Pro Type Ultra for its excellent performance. It may not be the most affordable on our list of best mechanical keyboards. However, with 104 keys, it is a full-sized model that is larger than some of the others. 
@@ -232,6 +210,10 @@ To see how it compares, here is an overview of the best mechanical keyboards.
 | NuPhy Air75                         | $130     | Compact   | 84                 |
 | Razer BlackWidow V3 Mini Hyperspeed | $90      | Compact   | 68                 |
 | SteelSeries Apex Pro                | $192     | Full size | 104                |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did I choose these best mechanical keyboards?
 
@@ -250,6 +232,10 @@ When comparing the best mechanical keyboards and talking to users, I took severa
 
 Many different companies manufacture mechanical keyboards but not all of them may offer the best quality or features to do the job. In my search, I found that the best mechanical keyboards come from companies like Razer, NuPhy, and SteelSeries, but you are likely to find many others in your search. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is a mechanical keyboard worth it?
 
 Experts and users agree -- a mechanical keyboard can be a fantastic addition to your setup, especially if you want a great "feel" for typing and gaming. They're also a great option if you want fast button press-to-screen response, custom key-stroke capabilities, durability, and long-lasting battery. 
@@ -257,13 +243,6 @@ Experts and users agree -- a mechanical keyboard can be a fantastic addition to 
 ## How much do mechanical keyboards cost?
 
 It is possible to spend less than $100 when searching for the best mechanical keyboard, but it all depends on what you are looking for in a keyboard. The best mechanical keyboards range in cost from $80 to nearly $200, depending on factors like the keyboard size and manufacturer that you choose. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which key switch is right for you?
 
@@ -278,13 +257,6 @@ It's worth noting that all of the above statements apply most aptly to the stand
 
 Ideally, if you're ever considering a new switch, try to buy one, or just a few, to test the feel before you commit to enough for a full board. The same goes for any pre-made boards with pre-installed switches you can try before you buy as well.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is wireless connectivity OK for gaming?
 
 This is a more nuanced subject than it might seem at first. Wireless keyboards that rely on Bluetooth (as well as other peripherals that rely on it) can suffer from latency. This means any command entered on them will be delayed, usually by about 0.2 seconds or less. Wired keyboards don't suffer from this delay, meaning that commands are registered almost instantly. 
@@ -292,6 +264,10 @@ This is a more nuanced subject than it might seem at first. Wireless keyboards t
 In an ideal world, any keypress during a game will be instantly recognized to give the player the minimal amount of delay before that life-saving jump or vital crouch is registered. While Bluetooth might get you close enough to instant for more casual games, I wouldn't recommend it for competitive shooter games and high-pressure MMORPGs. Thankfully, many wireless keyboards also offer a wired mode for just this reason. 
 
 The only exception I'd make for using a wireless gaming keyboard is if the board in question used 2.4GHz wireless, like some options from Logitech. These dongle-based wireless connections offer far lower latency, and can be just as ideal for gaming as high-end wireless mice have become. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What parts of a mechanical keyboard can you modify?
 
@@ -311,6 +287,10 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus ROG Azoth
 
 ### Best mechanical keyboard splurge
@@ -328,10 +308,7 @@ Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-key
 ## Corsair K100
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best mechanical keyboard features
@@ -346,14 +323,11 @@ Show less
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Kinesis Freestyle Edge RGB Split Gaming Keyboard
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best ergonomic mechanical keyboard
 
@@ -403,18 +377,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/aster-video-editing-on-a-shoestring-budget-top-9-picks-for-2024/"><u>[New] Master Video Editing on a Shoestring Budget - Top 9 Picks for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-expand-horizons-freshest-wins11-apps-and-games/"><u>2024 Approved Expand Horizons Freshest Wins11 Apps & Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/"><u>2024 Approved Streamline Multitasking Switch Between PIP and Normal Screen Mode (iOS)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-troubleshooting-your-facebook-stories-wont-load-properly/"><u>2024 Approved Troubleshooting Your Facebook Stories Won't Load Properly</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweeting-visuals-integrating-youtube-and-snapchat/"><u>2024 Approved Tweeting Visuals Integrating YouTube and Snapchat</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg3/"><u>Asus ROG Swift PG3</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-asus-rog-nuc-970-ultraportable-desktop-with-robust-performance/"><u>Comprehensive Review of the Asus ROG NUC 970 - Ultraportable Desktop with Robust Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hostgator-review-comparative-study-on-vps-and-shared-hosting-solutions/"><u>HostGator Review: Comparative Study on VPS and Shared Hosting Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-details-below-can-help-you-make-color-correction-simply-in-final-cut-pro/"><u>New 2024 Approved The Details Below Can Help You Make Color Correction Simply in Final Cut Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fixes-to-resolve-the-lack-of-audio-in-your-chrome-browser/"><u>The Ultimate Fixes to Resolve the Lack of Audio in Your Chrome Browser</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights - Your Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech: The Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-avoiding-poverty-earning-in-beauty-media-for-2024/"><u>[Updated] Avoiding Poverty Earning in Beauty Media for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-top-iphones-video-editors-face-off-cameo-vs-filmorago/"><u>2024 Approved Top iPhones' Video Editors Face-Off Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unpacked-strategies-for-optimal-viewing-of-live-videos/"><u>2024 Approved Unpacked Strategies for Optimal Viewing of Live Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-vivid-high-speed-gameplay-on-the-viewsonic-xg272-2k-oled-monitor-in-depth-review/"><u>A Closer Look at the Vivid, High-Speed Gameplay on the ViewSonic XG272-2K OLED Monitor - In Depth Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/charting-the-past-the-inception-of-ai/"><u>Charting the Past: The Inception of AI</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/correct-fb-chat-display-revealed-as-yourself/"><u>Correct FB Chat Display Revealed as Yourself</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ient-tricks-to-scramble-youtube-playlists-pcphonetv-for-2024/"><u>Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV) for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-precision-and-comfort-in-depth-look-at-the-keychron-q1-he-the-long-awaited-wireless-mx-version/"><u>Experience Unmatched Precision and Comfort - In-Depth Look at the Keychron Q1 HE, The Long-Awaited Wireless MX Version</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-in-depth-hardware-analysis/"><u>Exploring Tech with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-best-meme-photo-editor/"><u>In 2024, Best Meme Photo Editor</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-performance-insights-from-toms-computer-chronicles/"><u>Pioneering PC Performance: Insights From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-razr-40-ultra-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Razr 40 Ultra Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

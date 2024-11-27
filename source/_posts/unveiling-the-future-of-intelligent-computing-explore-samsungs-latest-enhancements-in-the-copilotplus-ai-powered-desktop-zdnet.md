@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of Intelligent Computing: Explore Samsung's Latest Enhancements in the Copilot+ AI-Powered Desktop | ZDNet"
-date: 2024-11-15T20:34:31.124Z
-updated: 2024-11-17T17:25:43.444Z
+date: 2024-11-22T17:05:03.881Z
+updated: 2024-11-27T18:45:35.665Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the deal?
 
 Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-edge%2Fbuy%2Fgalaxy-book4-edge-14-qualcomm-snapdragon-x-elite-512gb-sapphire-blue-np940xma-kb1us&publisher_slug=itechdaily19598&exclusive=1) or earn up to $500 off with an eligible device trade-in (promo price starting from $950) as part of the [Discover Samsung Fall Sale](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fdiscover-samsung-event%2F&publisher_slug=itechdaily19598&exclusive=1). 
@@ -27,10 +31,7 @@ Save $450 on a [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=http
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -118,10 +119,7 @@ Lastly, the battery on the Edge is indeed impressive. [I recently tested HP's Om
 During the standard ZDNET benchmark testing of running a 4K YouTube livestream streamed over Wi-Fi at 50% brightness, I got over 13 hours of playback, way more than what is considered "good" for a laptop, and more than enough for a few days worth of standard work. Even better, while this laptop is idle, its battery life decay drops to a trickle.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,10 +129,7 @@ The [Samsung Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fw
 If neither of these apply to you, the Galaxy Book 4 Edge is still a phenomenal choice for its sheer star power and impressive performance alone. However, if you're on the fence about the price but still want a Copilot+ PC, you might consider the [Microsoft Surface Pro](https://www.zdnet.com/article/i-went-hands-on-with-microsofts-surface-pro-and-laptop-and-im-ready-to-ditch-my-macbook/) or the [Asus Vivobook S15](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/) \-- both are Snapdragon laptops with OLED displays available for quite a bit less.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -171,24 +166,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-creating-characters-in-the-metaverse-an-easy-methodology/"><u>[New] 2024 Approved Creating Characters in the Metaverse An Easy Methodology</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[New] 2024 Approved Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-optimizing-personal-video-experience-building-an-organized-watch-later-list/"><u>[New] In 2024, Optimizing Personal Video Experience Building an Organized 'Watch Later' List</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-tricks-to-faster-and-smoother-instagram-media/"><u>[New] In 2024, Tricks to Faster and Smoother Instagram Media</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-flavor-forge-30-epicurean-titles-that-resonate/"><u>[Updated] 2024 Approved Flavor Forge 30 Epicurean Titles That Resonate</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-get-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>2024 Approved Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-htc-u23-pro-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does HTC U23 Pro support MKV video files?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-deal-on-new-ipad-pros-save-up-to-700-this-labor-day-with-our-comprehensive-guide/"><u>Exclusive Deal on New iPad Pros! Save up to $700 This Labor Day with Our Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-using-zoom-features-in-gmail-emails/"><u>In 2024, The Ultimate Guide to Using Zoom Features in Gmail Emails</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/laptop-and-desktop-reimagined-with-the-introduction-of-amds-revolutionary-zen/"><u>Laptop and Desktop Reimagined with the Introduction of AMD's Revolutionary Zen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/lenovo-and-asus-team-up-with-meta-for-cutting-edge-horizon-os-vr-gear/"><u>Lenovo & Asus Team Up with Meta for Cutting-Edge Horizon OS VR Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-the-autonomous-smartdesk-a-balancing-act-between-ease-of-assembly-and-functionality/"><u>Review of the Autonomous SmartDesk: A Balancing Act Between Ease of Assembly and Functionality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revitalize-your-typing-experience-creative-combinations-of-keycap-sets/"><u>Revitalize Your Typing Experience: Creative Combinations of Keycap Sets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-typing-experience-with-keychron-q1-hes-magnetic-mechanism/"><u>Revolutionizing Typing Experience with Keychron Q1 HE's Magnetic Mechanism</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/section-2b-five-factes-to-remember/"><u>Section 2B: Five Factes to Remember</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/struggling-with-weak-wifi-signal-try-this-essential-checklist-before-upgrading-your-router/"><u>Struggling with Weak Wifi Signal? Try This Essential Checklist Before Upgrading Your Router</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/unlock-the-full-potential-of-your-mac-with-this-ultimate-guide-to-setting-up-and-mastering-hot-corners-zdnet/"><u>Unlock the Full Potential of Your Mac with This Ultimate Guide to Setting Up and Mastering Hot Corners | ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-optimize-your-playstation-10-best-ssds-hdds/"><u>[New] 2024 Approved Optimize Your PlayStation 10 Best SSDs, HDDs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-by-step-guide-to-snapchats-captivating-boomers/"><u>[New] 2024 Approved Step-By-Step Guide to Snapchat's Captivating Boomers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-full-ps4-capture-tutorial-using-obs/"><u>[New] In 2024, Full PS4 Capture Tutorial Using OBS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-integrating-secure-recording-in-your-workflow-for-2024/"><u>[New] Integrating Secure Recording in Your Workflow for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-mastering-in-game-audio-capture-in-overwatch/"><u>2024 Approved Mastering In-Game Audio Capture in Overwatch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-and-examination-of-the-groundbreaking-4tb-wd-blue-sn50e-drive-by-western-digital/"><u>Breakdown and Examination of the Groundbreaking 4TB WD Blue SN50e Drive by Western Digital</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-gratuita-de-archivos-wmv-a-ogv-guia-del-usuario-para-vlc-media-player/"><u>Conversión Gratuita De Archivos WMV a OGV: Guía Del Usuario Para VLC Media Player.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/lexis-audio-editor-demystified-top-reviews-key-features-and-educational-guides/"><u>Lexis Audio Editor Demystified Top Reviews, Key Features, and Educational Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-tips-and-tricks-by-toms-hardware/"><u>Navigate the Tech World: Tips & Tricks by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reviewing-the-unihertz-atom-xl-unveiling-the-strength-and-efficiency-of-this-tiny-tech-marvel/"><u>Reviewing the Unihertz Atom XL: Unveiling the Strength and Efficiency of This Tiny Tech Marvel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Find X7 | Dr.fone</u></a></li>
 </ul></div>
 

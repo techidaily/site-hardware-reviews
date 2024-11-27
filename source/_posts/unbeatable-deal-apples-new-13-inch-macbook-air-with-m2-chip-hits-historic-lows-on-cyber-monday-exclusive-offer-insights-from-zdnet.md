@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Deal: Apple's New 13-Inch MacBook Air with M2 Chip Hits Historic Lows on Cyber Monday - Exclusive Offer Insights From ZDNet"
-date: 2024-11-15T21:41:53.690Z
-updated: 2024-11-17T17:44:53.632Z
+date: 2024-11-23T17:06:56.366Z
+updated: 2024-11-27T18:43:03.917Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ During Amazon's Prime Early Access Sale -- otherwise known as 'Prime Day 2' -- t
 [![Apple Macbook Air | M1 2020 (save $200)](https://www.zdnet.com/a/img/resize/4e2d1af1a36bba35a744ceb3abdd99e04415b708/2021/08/25/96fc3e1c-9e32-405c-9e28-f7f819a45625/m1-macbook-air.jpg?auto=webp&fit=crop&height=172.5&width=294) Apple Macbook Air | M1 2020 (save $200) $799 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5KWB9H%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cafe8be21-9ac1-4445-aad8-e9d96d91f4d5%7Cdtp&dtb=1)
 
 Had the pandemic not forced me to stay home, I probably would've snagged the MacBook Air M1 two years ago. It was one of the first devices to feature Apple's M1 chipset, and [benchmark tests proved](https://www.zdnet.com/article/apple-m1-speed-tests-new-arm-macbook-air-blows-away-intel-based-macbook-pro/) that the lightweight MacBook could throw down against heavyweight, Intel-based computers -- including Apple's own MacBook Pro. For such a huge gap in performance, speed, and efficiency, it was hard to believe that Apple was selling the laptop for just $999\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -63,26 +67,15 @@ At $799, the [MacBook Air M1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FUR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-professional-ppt-video-content/"><u>[New] 2024 Approved Crafting Professional PPT Video Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-navigating-through-the-codec-complexity-av1-vs-vp9/"><u>[New] 2024 Approved Navigating Through the Codec Complexity AV1 Vs. VP9</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-building-captivating-instagram-feed-layouts/"><u>[New] In 2024, Building Captivating Instagram Feed Layouts</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-transform-every-moment-top-ideas-for-enriching-life-through-podcasts/"><u>2024 Approved Transform Every Moment Top Ideas for Enriching Life Through Podcasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-precision-with-the-new-logitech-g515-lightspeed-tkl-a-low-profile-mechanical-keyboard-review/"><u>Affordable Precision with the New Logitech G515 Lightspeed TKL: A Low Profile Mechanical Keyboard Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-netgear-orbi/"><u>Budget-Friendly Netgear Orbi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/deciphering-0xc0000185-error-code-tips-to-restore-your-computers-stability/"><u>Deciphering 0xC0000185 Error Code - Tips to Restore Your Computer's Stability</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-enterprise-videos-with-movavi-professional-editing-software-for-sale/"><u>Enhance Your Enterprise Videos with Movavi: Professional Editing Software for Sale</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-new-technology-with-toms-hardware-insights/"><u>Navigate Through New Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/substance-related-behaviors-leading-to-increased-exposure/"><u>Substance-Related Behaviors Leading to Increased Exposure</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-hardware-analysis/"><u>Tom's Tech Reviews: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-and-testing-the-gigabyte-g6x-adequate-for-play-yet-lacking-in-impressive-features/"><u>Unboxing & Testing the Gigabyte G6X: Adequate for Play, Yet Lacking in Impressive Features</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6s-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6s Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11s-guide-to-stable-background-fixes/"><u>Win11's Guide to Stable Background Fixes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-boosting-your-content-a-guide-to-instagram-video-fame/"><u>[New] 2024 Approved Boosting Your Content A Guide to Instagram Video Fame</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-become-a-pro-at-tweeting-live-video-responses/"><u>[Updated] Become a Pro at Tweeting Live Video Responses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-meets-content-creation/"><u>Artificial Intelligence Meets Content Creation</u></a></li>
+<li><a href="https://article-files.techidaily.com/explore-aspect-ratios-for-stunning-video-outputs/"><u>Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-14-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 14 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/innovation-in-action-reviewing-vidmas-new-screen-recording-features/"><u>Innovation in Action? Reviewing Vidma's New Screen Recording Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-jmgo-n1s-laser-projector-excellent-imaging-with-an-exceptional-designed-stand/"><u>Review of JMGO N1S Laser Projector - Excellent Imaging with an Exceptional Designed Stand</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rising-cost-of-hard-drives-discover-affordable-options-and-secrets/"><u>Rising Cost of Hard Drives? Discover Affordable Options and Secrets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-discovery-sale-unbeatable-deal-on-the-top-ultrawide-displays-save-600-now/"><u>Samsung Discovery Sale: Unbeatable Deal on the Top Ultrawide Displays - Save $600 Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/satechi-dual-purpose-qi2-charger-unveiled-compact-and-versatile-wireless-power-solution-for-modern-gadgets/"><u>Satechi Dual-Purpose Qi2 Charger Unveiled: Compact and Versatile Wireless Power Solution for Modern Gadgets</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

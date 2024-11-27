@@ -1,7 +1,7 @@
 ---
 title: "Day Two Highlights of CES 2023: Top Innovations Unveiled - Insights"
-date: 2024-11-10T19:32:38.494Z
-updated: 2024-11-17T20:21:56.035Z
+date: 2024-11-21T17:07:03.652Z
+updated: 2024-11-27T18:15:49.746Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Whether you've been busy with the kids or catching up with the daily news on you
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We've been on the ground for the second day of the [largest tech conference in the US](https://www.zdnet.com/article/zdnets-guide-to-ces-what-is-it-and-who-can-attend/), bringing you the best of the announcements. 
 
 While hundreds of companies are stationed in Las Vegas announcing new and innovative products, we've rounded up the biggest announcements on Day 2 below.
@@ -34,18 +38,15 @@ And, if you're still waiting to hear from some major companies, keep checking ba
 
 ![LG 97-inch M3 OLED smart webOS TV](https://www.zdnet.com/a/img/resize/506f09c228df659cacc5d524977b1b805c7b4dca/2023/01/03/6f43e8d1-cf31-43f8-b6cd-25bc58e9cb75/97m3-image-4.jpg?auto=webp&fit=crop&height=360&width=640)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 LG
 
 While LG unveiled its [new line of C, G, and Z OLED models](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/), it also launched a surprise wireless plug-and-play 97-inch TV. It comes with Zero Connect and One Wall Design for a flush wall experience – no wires needed.
 
 Read our [first look at the M3 OLED TV here](https://www.zdnet.com/home-and-office/home-entertainment/lg-97-inch-oled-tv-m3-ces-2023/).
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Asus debuts all-new laptops across the board
 
@@ -56,10 +57,7 @@ In addition to a new line of [eco-friendly laptops for workers and students](htt
 Check the [high-end specs of the Vibe CX34 Chromebook here](https://www.zdnet.com/article/asus-new-vibe-cx34-gaming-chromebook-brings-some-high-end-specs/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The year of the smart toilet sensor
@@ -85,10 +83,7 @@ While [Hisense upgraded its U8 line's picture](https://www.zdnet.com/home-and-of
 Read more about [Roku making its own TVs](https://www.zdnet.com/home-and-office/home-entertainment/ces-2023-roku-to-begin-offering-its-own-tv-builds-this-year/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung adds new security software with Knox Matrix
@@ -126,10 +121,7 @@ Gamers can also pick up a new gaming mouse thanks to the announced Pulsefire Has
 Get the details on the [Pulsefire Haste 2 and Clutch Gladiate Xbox controller](https://www.zdnet.com/home-and-office/home-entertainment/hyperxs-ces-2023-lineup-includes-haste-2-mice-clutch-gladiate-xbox-controller/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AMD announces Ryzen 7040 series
@@ -178,15 +170,20 @@ If you want the best of the news, you can see the highlights of [Day 1 of CES 20
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-crafting-the-core-plotline-for-2024/"><u>[New] Crafting the Core Plotline for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-mastering-real-time-broadcasting-a-beginners-guide-for-2024/"><u>[New] Mastering Real-Time Broadcasting A Beginner's Guide for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-with-snap-zoom-guide/"><u>[Updated] In 2024, Capturing with Snap Zoom Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-the-best-solar-lantern-for-adventurous-outdoor-excursions-and-sudden-energy-losses/"><u>Essential Guide: The Best Solar Lantern for Adventurous Outdoor Excursions & Sudden Energy Losses</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-top-7-inquiries-for-purchasing-your-next-smart-home-gadget/"><u>Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-insight-the-high-end-price-tag-on-the-latest-model-g-electric-dual-zone-bbq/"><u>Exclusive Insight: The High-End Price Tag on the Latest Model G Electric Dual-Zone BBQ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/finding-your-apps-executable-a-fast-guide-to-finding-exe-files-in-windows-10/"><u>Finding Your App’s Executable: A Fast Guide to Finding EXE Files in Windows 10</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-reno-9a-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 9A Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/resilience-triumphant-mastering-the-art-of-effective-recovery/"><u>Resilience Triumphant: Mastering the Art of Effective Recovery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iscovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras-for-2024/"><u>[New] Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-connecting-with-real-time-tiktoks-practical-guide/"><u>[New] In 2024, Connecting with Real-Time TikToks Practical Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-find-your-ideal-photo-editor-top-15-free-budget-apps-reviewed-for-2024/"><u>[Updated] Find Your Ideal Photo Editor Top #15 Free, Budget Apps Reviewed for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-frames-with-top-rated-tools-24/"><u>[Updated] Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-standard-rgb-versus-srgb-standards-for-2024/"><u>[Updated] Standard Rgb Versus Srgb Standards for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-sites-to-access-multipurpose-text-effects/"><u>Essential Sites to Access Multipurpose Text Effects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-testing-the-nzxt-c1500-platinum-unit/"><u>Expert Analysis: Testing the NZXT C1500 Platinum Unit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-system-requirements-guide-for-the-latest-mac-os-release/"><u>In 2024, System Requirements Guide for the Latest Mac OS Release</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/lattepandas-mu-board-review-outpacing-the-raspberry-pi-5-but-with-a-steeper-cost/"><u>LattePanda's Mu Board Review: Outpacing the Raspberry Pi 5 but with a Steeper Cost</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-5-best-online-tone-generators-free-and-simple/"><u>New 5 Best Online Tone Generators Free & Simple</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reaching-new-heights-a-comprehensive-review-of-crucial-pro-6000-series-ddr5-memory-for-advanced-system-tuning-and-performance-optimization/"><u>Reaching New Heights: A Comprehensive Review of Crucial Pro 6000 Series DDR5 Memory for Advanced System Tuning and Performance Optimization</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-potential-of-qhd-gaming-with-asus-rog-strix-xg27acs-a-review-on-its-precision-and-adaptive-performance-at-180hz/"><u>Unlocking the Potential of QHD Gaming with Asus ROG Strix XG27ACS – A Review on Its Precision and Adaptive Performance at 180Hz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-electronics-analysis/"><u>Unveiling the Latest Gadgets with Tom's Electronics Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-parts-and-systems-the-toms-hardware-review/"><u>Unveiling the Latest in PC Parts and Systems: The Tom's Hardware Review</u></a></li>
 </ul></div>
 

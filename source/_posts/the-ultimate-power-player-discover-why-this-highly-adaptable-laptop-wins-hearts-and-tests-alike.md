@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Power Player: Discover Why This Highly Adaptable Laptop Wins Hearts and Tests Alike!"
-date: 2024-11-16T20:16:15.934Z
-updated: 2024-11-17T16:19:57.093Z
+date: 2024-11-22T18:42:03.751Z
+updated: 2024-11-27T16:53:44.774Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Kyle Kucharski/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the Amazon Prime Day deal?
 
 Amazon's October Prime Day event is here, and with its arrival, many laptops are seeing big discounts across the board. The [Asus Vivobook S 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Snapdragon-X1E-78-100-Processor-S5507QAD-PS96%2Fdp%2FB0CWJY4YWF%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8a6b558-ecd6-4bf9-afc8-3c4fae8fdc99%7Cdtp&dtb=1) is seeing a $300 discount, dropping from $1,300 to $1,000\. It's the first Asus Copilot Plus PC and comes highly recommended for its performance.
@@ -29,10 +33,7 @@ Amazon's October Prime Day event is here, and with its arrival, many laptops are
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -106,10 +107,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -148,24 +146,14 @@ All things considered, the [sale price of $1,099](https://www.awin1.com/awclick.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-how-does-imovie-set-dimensions/"><u>[New] In 2024, How Does iMovie Set Dimensions?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-capture-the-essence-of-movement-in-iphone-photography/"><u>[Updated] In 2024, Capture the Essence of Movement in iPhone Photography</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-test-mycam-cams-features-analyzed/"><u>[Updated] The Ultimate Test MyCam Cam's Features Analyzed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-enhancing-productivity-the-benefits-of-using-a-dual-monitor-setup-over-a-single-ultrawide/"><u>1. Enhancing Productivity: The Benefits of Using a Dual-Monitor Setup Over a Single UltraWide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-to-video-editing-leveraging-power-of-movies-maker-on-windows-8/"><u>2024 Approved Expert Guide to Video Editing Leveraging Power of Movies Maker on Windows 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-science-of-writing-gripping-documentaries/"><u>2024 Approved The Science of Writing Gripping Documentaries</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/artificial-intelligence-boosting-computer-performance-next-gen-spec-leap/"><u>Artificial Intelligence Boosting Computer Performance: Next-Gen Spec Leap</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-free-live-streaming-software-and-app-for-all-platforms-2023-list-for-2024/"><u>Best Free Live Streaming Software and App for All Platforms [2023 List] for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-pixel-perfection-top-tools-for-preserving-tweets-videos/"><u>In 2024, Pixel Perfection Top Tools for Preserving Tweets' Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Prevention & Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/understanding-wi-fi-7-features-and-benefits-is-it-worth-the-upgrade/"><u>Understanding Wi-Fi 7: Features & Benefits - Is It Worth the Upgrade?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-origins-of-enigmatic-tech-phrases-demonstrations-and-digital-eulogy/"><u>Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-the-classic-clamshell-computer-design-remains-forever-popular/"><u>Why the Classic Clamshell Computer Design Remains Forever Popular</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
-<li><a href="https://techidaily.com/will-moto-g34-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Moto G34 5G play AVCHD mts files?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success/"><u>[New] In 2024, Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-understanding-the-price-tag-on-youtube-promo/"><u>[Updated] 2024 Approved Understanding the Price Tag on Youtube Promo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-ipados-paint-the-creme-de-la-creation-apps/"><u>2024 Approved IPadOS Paint The Crème De La Création Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photoshop-curves-decoded-a-beginners-guide/"><u>2024 Approved Photoshop Curves Decoded A Beginner's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-features-in-depth-review-of-the-white-microatx-maxsun-terminator-z790m-d5-ice-motherboard-equipped-with-5-m2-slots/"><u>Breaking Down the Features: In-Depth Review of the White MicroATX Maxsun Terminator Z790M D5 Ice Motherboard, Equipped With 5 M.2 Slots</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-sabrent-rocket-nano-2242-1tb-your-standard-bearer-for-m2-2242-storage-solutions/"><u>Comprehensive Review of the Sabrent Rocket Nano 2242 1TB - Your Standard-Bearer for M.2 2242 Storage Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-6s-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 6s 3 Ways To Unlock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-wisdom-from-toms-hardware-insights/"><u>Mastering the Tech World: Wisdom From Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-asrock-pg27qft2a-a-comprehensive-180hz-monitor-performance-and-cost-assessment/"><u>The ASRock PG27QFT2A: A Comprehensive 180Hz Monitor Performance and Cost Assessment</u></a></li>
 </ul></div>
 

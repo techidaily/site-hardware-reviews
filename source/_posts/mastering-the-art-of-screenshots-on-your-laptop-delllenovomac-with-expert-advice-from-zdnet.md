@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Screenshots on Your Laptop (Dell/Lenovo/Mac) with Expert Advice From ZDNET
-date: 2024-11-15T17:47:00.474Z
-updated: 2024-11-17T19:59:11.135Z
+date: 2024-11-21T18:22:37.901Z
+updated: 2024-11-27T17:24:59.514Z
 tags:
   - laptops
 categories:
@@ -24,9 +24,17 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [![kensington1.png](https://www.zdnet.com/a/img/resize/0992098737f1316ff5d273dc0763201a188c4809/2020/08/17/885d699c-f040-44eb-b7a3-708fb395d304/kensington1.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) Best laptop docking stations: Your essential accessory for working from home There's never been a better time to upgrade your work-from-home setup with a docking station that transforms your laptop into a more comfortable working environment. Here's what you should look for.  Read now](https://www.zdnet.com/article/best-laptop-docking-station/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Except for the fact that you're usually very limited as to the ports you have available.
 
@@ -43,16 +51,7 @@ For the past few weeks, I've been using the [Sandberg USB-C All-in-1 docking sta
 [Sandberg USB-C All-in-1 docking station $252 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSandberg-USB-C-Docking-Station-Other%2Fdp%2FB07CY1LPZH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7f67ff1e-2558-4101-a475-e95656a72a3c%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sandberg USB-C All-in-1 docking station specs
@@ -146,19 +145,18 @@ The [Sandberg USB-C All-in-1 docking station](https://buy.geni.us/Proxy.ashx?TSI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-xbox-one-screen-recording-easy-steps-for-gamers/"><u>[New] 2024 Approved Xbox One Screen Recording Easy Steps for Gamers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-unseen-factors-in-determining-a-videos-view-count-on-youtube/"><u>[New] The Unseen Factors in Determining a Video’s View Count on YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-transforming-traditional-markets-with-virtual-engineering-for-2024/"><u>[New] Transforming Traditional Markets with Virtual Engineering for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] In 2024, Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-viral-visionaries-most-favored-instagram-filters/"><u>[Updated] Viral Visionaries Most Favored Instagram Filters</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-services-virtual-private-servers-cloud-solutions-and-shared-hosting/"><u>Comprehensive Analysis of Hostinger's Services: Virtual Private Servers, Cloud Solutions & Shared Hosting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-future-of-computing-on-toms-hardware-showcase/"><u>Discover the Future of Computing on Tom's Hardware Showcase</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-toms-authoritative-guide-to-computer-components/"><u>Navigating the Tech Maze: Tom's Authoritative Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/poor-line-care/"><u>Poor Line Care</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-the-frostpunk-game-freeze-problem-a-step-by-step-guide/"><u>Resolving the Frostpunk Game Freeze Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-anycub-(datetime)kobra-3-revolutionizing-3d-printing-with-multicolor-capabilities/"><u>Review of Anycub <DateTime>Kobra 3 - Revolutionizing 3D Printing with Multicolor Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-dell-xps-13-9n45-blending-classic-appeal-with-cutting-edge-snapdragon-x-elite-processing/"><u>Review of Dell XPS 13 (9N45): Blending Classic Appeal with Cutting-Edge Snapdragon X Elite Processing</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/seasonal-dvd-merchandise-macxdvds-exclusive-holiday-affiliate-promotions-save-up-to-75/"><u>Seasonal DVD Merchandise: MacXDVD's Exclusive Holiday Affiliate Promotions, Save up to 75%</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-workflow-efficient-tools-for-screencast-creation/"><u>[New] 2024 Approved Streamlining Workflow Efficient Tools for Screencast Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-youtube-cards-and-annotations-in-2024/"><u>[New] How to Use YouTube Cards and Annotations, In 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/10-essential-google-chat-tools-every-user-needs-to-know/"><u>10 Essential Google Chat Tools Every User Needs to Know</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-f04-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy F04 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/automating-your-samsung-galaxy-mastering-the-power-of-modes-and-routines/"><u>Automating Your Samsung Galaxy: Mastering the Power of Modes & Routines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-others-replicate-apples-success-with-modular-accessory-technology/"><u>Can Others Replicate Apple's Success with Modular Accessory Technology?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-your-perfect-smartphone-a-comparison-between-samsung-galaxy-and-google-pixel/"><u>Choosing Your Perfect Smartphone: A Comparison Between Samsung Galaxy and Google Pixel</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-enabling-icloud-keychain-on-your-pc-a-step-by-step-tutorial/"><u>Guide: Enabling iCloud Keychain on Your PC - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guiding-through-printer-malfunction-fixes/"><u>Guiding Through Printer Malfunction Fixes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>In 2024, Upconversion Unveiled SDR to HDRI - A Complete Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/poweradd-pilot-pro2-unleashed-innovative-device-charger-tested-for-ultimate-power-efficiency/"><u>POWERADD Pilot Pro2 Unleashed: Innovative Device Charger Tested for Ultimate Power Efficiency</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-the-most-sought-after-miniature-mobile-devices-of-2024-unveiled/"><u>Ultimate Selection: The Most Sought-After Miniature Mobile Devices of 2024 Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-android-privacy-monitoring-app-access-to-your-clipboard/"><u>Unlocking the Secrets of Android Privacy: Monitoring App Access to Your Clipboard</u></a></li>
 </ul></div>
 

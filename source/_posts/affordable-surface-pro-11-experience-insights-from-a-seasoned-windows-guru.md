@@ -1,7 +1,7 @@
 ---
 title: "Affordable Surface Pro 11 Experience: Insights From a Seasoned Windows Guru"
-date: 2024-11-10T16:49:34.928Z
-updated: 2024-11-17T18:52:46.740Z
+date: 2024-11-25T18:46:13.468Z
+updated: 2024-11-27T18:29:01.870Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Ed Bott/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -45,10 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -62,6 +63,10 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -78,19 +83,6 @@ In real-world usage, the Surface Pro 11 battery lasts twice as long as an equiva
 Screenshot by Ed Bott/ZDNET
 
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
 
@@ -129,10 +121,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -156,10 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -206,24 +192,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-15-high-performing-instagram-content-extractors/"><u>[New] 15 High-Performing Instagram Content Extractors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-bridging-platforms-instagram-and-tik-tok-synergy-manual/"><u>[New] Bridging Platforms Instagram & Tik Tok Synergy Manual</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/treamline-your-videography-journey-choose-from-the-top-8-free-tools/"><u>[New] Streamline Your Videography Journey Choose From the Top 8 Free Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-vlc-recorder-functionality-check/"><u>[Updated] In 2024, VLC Recorder Functionality Check</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-novice-cinematographers-initial-work-analysis-and-replacements-for-2024/"><u>[Updated] Novice Cinematographer's Initial Work Analysis & Replacements for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-mastering-youtube-videos-your-comprehensive-tutorial/"><u>2024 Approved Mastering YouTube Videos Your Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/intro-magic-crafting-irresistible-podcast-openers-for-2024/"><u>Intro Magic Crafting Irresistible Podcast Openers for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-on-your-window-10-computer-easy-fixes-to-get-it-working-again/"><u>No Audio on Your Window 10 Computer? Easy Fixes to Get It Working Again</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-intel-drivers-integration-in-ws-11-and-earlier-versions/"><u>Streamline Intel Drivers Integration in WS 11 & Earlier Versions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-in-depth-reviews-and-latest-tech-news/"><u>Tom's Hardware: In-Depth Reviews & Latest Tech News</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-hardware-guides/"><u>Tom's Tech Insights: Expert Reviews & Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-into-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Insights Into the Latest Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Reviews: A Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-latest-computer-components/"><u>Tom's Tech Reviews: In-Depth Analysis of Latest Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-evaluations-and-guides/"><u>Tom's Tech Reviews: In-Depth Gadget Evaluations & Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-best-ssd-and-hdd-offers/"><u>Top Picks: Best SSD & HDD Offers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-notch-tech-insights-from-toms-review-hub/"><u>Top-Notch Tech Insights From Tom's Review Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-affordable-solid-state-drives-and-hard-disk-drives-in-202/"><u>Ultimate Guide to Affordable Solid State Drives & Hard Disk Drives in 202</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-gadgets-and-pc-builds-with-tom-hardware-insight/"><u>Unveiling the Best Gadgets and PC Builds with Tom Hardware Insight</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-tips-streamlined-processes-for-iphones-screening-for-2024/"><u>[New] Quick Tips Streamlined Processes for Iphone's Screening for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-audio-interface-for-podcasters-a-must-know-tip-for-your-podcasting-setup/"><u>2024 Approved The Ultimate Audio Interface for Podcasters A Must-Know Tip for Your Podcasting Setup</u></a></li>
+<li><a href="https://win-docs.techidaily.com/comment-resoudre-les-erreurs-lors-du-chargement-du-systeme-windows-11-guide-complet-pour-des-installations-en-douceur/"><u>Comment Résoudre Les Erreurs Lors Du Chargement Du Système Windows 11 ? Guide Complet Pour Des Installations en Douceur</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-cutting-edge-learning-with-the-brainiac-raspberry-pi-ai-kit-evaluation/"><u>Experience Cutting-Edge Learning with the 'Brainiac' Raspberry Pi AI Kit Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-breakdown-the-blend-of-excellent-sonic-qualities-and-simplicity-in-the-beyerdynamic-mmx-30e-pro-headphones/"><u>Expert Breakdown: The Blend of Excellent Sonic Qualities and Simplicity in the Beyerdynamic MMX 30E Pro Headphones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-a05s-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy A05s Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-organization-a-guide-to-efficiently-handling-multiple-dialogues/"><u>Mastering ChatGPT Organization: A Guide to Efficiently Handling Multiple Dialogues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-hardware-choices-with-expert-advice-from-toms-domain/"><u>Mastering Modern Hardware Choices with Expert Advice From Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-comparison-patriot-viper-vp4300-lite-4tb-ssd-high-capacity-meets-reasonable-pricing/"><u>The Ultimate Comparison: Patriot Viper VP4300 Lite 4TB SSD - High Capacity Meets Reasonable Pricing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-world-of-warcraft-wow-connection-delays/"><u>Troubleshooting World of Warcraft (WoW) Connection Delays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/western-digitals-latest-achievement-in-storage-an-intriguing-review-of-the-4tb-wd-blue-sn50n0-ssd/"><u>Western Digital's Latest Achievement in Storage: An Intriguing Review of the 4TB WD Blue SN50n0 SSD</u></a></li>
 </ul></div>
 

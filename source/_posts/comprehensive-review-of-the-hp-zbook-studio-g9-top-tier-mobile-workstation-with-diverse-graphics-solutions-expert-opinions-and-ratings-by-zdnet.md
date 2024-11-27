@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Review of the HP ZBook Studio G9: Top-Tier Mobile Workstation with Diverse Graphics Solutions | Expert Opinions and Ratings by ZDNet"
-date: 2024-11-12T20:15:35.907Z
-updated: 2024-11-17T20:59:55.383Z
+date: 2024-11-21T16:07:52.334Z
+updated: 2024-11-27T17:37:11.468Z
 tags:
   - laptops
 categories:
@@ -42,6 +42,10 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design
 
 You won't mistake the Toughbook G2 for anything other than a fully rugged tablet. Some 'business rugged' devices look fairly conventional, in the same way that some 4x4 vehicles look like regular cars, but this is the real deal: the 10.1-inch screen sits within wide bezels and the magnesium alloy chassis is further protected by tough plastic edging, with extra depth in the corners to provide more drop resistance. 
@@ -60,13 +64,6 @@ Although it's highly configurable, there are some fixtures on the Toughbook G2\.
 
 There are two cameras: 8MP rear-facing with autofocus and flash, and 2MP front-facing -- the latter with infrared support to enable [Windows Hello face authentication](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/windows-hello-face-authentication), plus a sliding privacy cover. The right side has a round-pin power input behind a sliding cover and a Kensington lock slot, while there's a keyboard/docking connector and a pair of external antenna connectors on the bottom. We'll talk about the modular elements in the next section. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Features
 
 The Toughbook G2 runs Windows 10 or 11 on Intel's 10th-generation [Core i5-10310U](https://ark.intel.com/content/www/us/en/ark/products/201892/intel-core-i510310u-processor-6m-cache-up-to-4-40-ghz.html) vPro processor with 16GB of RAM (32GB max) and 512GB of SSD storage (1TB max). Graphics are handled by the CPU-integrated Intel UHD Graphics module. 
@@ -84,10 +81,7 @@ That's not the end of the Toughbook G2's customisability -- far from it. Accesso
 You may rack up a hefty price tag in the process, but you should be able to fit out the Toughbook G2 for almost any challenging use case. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -108,6 +102,10 @@ Chart: ZDNET
 
 On the basis of these tests, a full day's work (\~8 hours) should be achievable with a moderate workload mix. Options include an extended 6300mAh/68Wh battery and a bridging battery to enable hot swapping.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## User experience
 
 The Toughbook G2 weighs around 1.2kg but is reasonably comfortable to hold and use for extended periods. The 1000-nit IPS panel is bright enough for outdoor working in sunlit conditions, and the screen isn't overly reflective. The touch options for finger, glove and stylus input are all effective. However, the 10.1-inch screen's 1920 by 1200 (224ppi) resolution means you might need to adjust the scaling in Display Settings for certain tasks, as text and other on-screen elements may be just too small for comfort.
@@ -119,10 +117,7 @@ The speakers, which flank the array of buttons beneath the screen, are nothing t
 [Panasonic Toughbook G2 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3DPanasonic%2BToughbook%2BG2%26crid%3D1DTYDBNAW5VO7%26sprefix%3Dpanasonic%2Btoughbook%2Bg2%2Caps%2C154%26ref%3Dnb%5Fsb%5Fnoss%5F1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5f222a86-c32c-4000-b89b-524a0fdd9449%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -170,10 +165,7 @@ The Toughbook G2's performance is well matched to the tasks it's likely to handl
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -217,19 +209,19 @@ The Toughbook G2's performance is well matched to the tasks it's likely to handl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/utting-edge-mobile-apps-for-stellar-intros/"><u>[New] Cutting-Edge Mobile Apps for Stellar Intros</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-spark-the-flame-top-10-motivational-films-for-you/"><u>[New] In 2024, Spark the Flame Top 10 Motivational Films for You</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-techniques-live-streaming-games-via-obs-for-2024/"><u>[New] Top Techniques Live-Streaming Games via OBS for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-humorous-vines-the-ultimate-10-list/"><u>[Updated] In 2024, Humorous Vines The Ultimate 10 List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-ios-leaders-the-10-ultimate-video-apps-to-know/"><u>[Updated] IOS Leaders The 10 Ultimate Video Apps to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/biodiversity/"><u>Biodiversity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-gear-analysis-by-tom-your-trusted-guide-in-technology/"><u>Expert Gear Analysis by Tom - Your Trusted Guide in Technology</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-c55-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco C55 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/imaging-techniques-like-oct-may-be-used-postoperatively-to-confirm-the-success-of-surgical-interventions-such-as-retinal-detachment-repair/"><u>Imaging Techniques Like OCT May Be Used Postoperatively to Confirm the Success of Surgical Interventions Such as Retinal Detachment Repair.</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-ae-text-preset-collection-the-best-of-both-worlds/"><u>In 2024, AE Text Preset Collection The Best of Both Worlds</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-raspberry-pi-compute-module-4s-unveiled-in-depth-analysis-for-tech-professionals/"><u>The Raspberry Pi Compute Module #4S Unveiled: In-Depth Analysis for Tech Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-modern-hardware-solutions-by-toms-experts/"><u>The Ultimate Resource for Modern Hardware Solutions by Tom's Experts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-drone-footage-showdown-dji-mavic-2-vs-gopro-hero6-black/"><u>[New] In 2024, Drone Footage Showdown DJi Mavic 2 Vs GoPro Hero6 Black</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-action-cams-that-keep-moving-steady/"><u>[New] Leading Action Cams That Keep Moving Steady</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-designing-striking-youtube-thumbnails-with-macos-for-2024/"><u>[Updated] Step-by-Step Designing Striking Youtube Thumbnails with macOS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-central-luts-in-post-production-filmmaking-revolution/"><u>2024 Approved Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-overcoming-handheld-vibration-secure-your-gopro-movies/"><u>2024 Approved Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-pixelpranks-mememakermarket/"><u>2024 Approved PixelPranks MemeMakerMarket</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-nzxt-c1500-platinum-high-performance-psu/"><u>Comprehensive Evaluation of the NZXT C1500 Platinum High-Performance PSU</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/illuminating-your-android-videos/"><u>Illuminating Your Android Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m54-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M54 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-newly-released-lenovo-yoga-pro-9i-slim-profile-and-high-quality-keys/"><u>In-Depth Analysis of the Newly Released Lenovo Yoga Pro 9I - Slim Profile & High-Quality Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-toms-equipment-advice-and-analysis/"><u>Navigating New Gadgets with Tom's Equipment Advice and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-hardware-advice-unveiling-secrets-on-toms-gear-insights/"><u>Ultimate Hardware Advice: Unveiling Secrets on Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341655665-why-youll-love-the-newly-launched-keychron-q1-he-the-ultimate-wireless-gaming-and-productivity-companion/"><u>Why You'll Love the Newly Launched Keychron Q1 HE - The Ultimate Wireless Gaming & Productivity Companion</u></a></li>
 </ul></div>
 

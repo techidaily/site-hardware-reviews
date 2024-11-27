@@ -1,7 +1,7 @@
 ---
 title: Score High-Quality Computing Gear at Steep Markdowns During HP Cyber Week - Save Up to 71%%
-date: 2024-11-14T20:51:31.051Z
-updated: 2024-11-17T17:15:11.122Z
+date: 2024-11-22T16:20:03.663Z
+updated: 2024-11-27T16:38:39.567Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ZDNET's key takeaways
 
 * The Baseus Blade HD portable power bank is available on [Amazon for $70](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf2143788-ca58-4ea3-a0c0-953db8525faf%7Cdtp&dtb=1) thanks to the nearly 38% off lightning deal, plus a 10% off coupon.
@@ -41,16 +45,7 @@ So what does HD stand for? High density. Put simply, Baseus used a different bat
 [ZDNET RECOMMENDS Baseus Blade HD The Baseus Blade HD is an upgraded version of the Blade, and makes use of silicon-carbon lithium polymer battery technology, making it 18% lighter and 20% smaller than the previous version. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf2143788-ca58-4ea3-a0c0-953db8525faf%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Baseus Blade HD tech specs
@@ -107,10 +102,7 @@ Recharge times are also very acceptable, at 1.2 hours when using the included US
 One thing that hasn't changed from the previous incarnation is that every surface of the Blade HD, just like the Blade before it, is a dust magnet, and will pick up and show every bit of dirt that gets on it. But the textured finish is nice in that the power bank isn't slippery like a lot of them are, so it's less likely to fall on the floor or into your laptop's keyboard!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -147,21 +139,24 @@ That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-boosting-skypes-performance-with-advanced-zoom-functionalities/"><u>[Updated] Boosting Skype's Performance with Advanced Zoom Functionalities</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-world-of-snapchat-for-professional-growth-for-2024/"><u>[Updated] Navigating the World of Snapchat for Professional Growth for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-electronic-innovations-top-reviews-for-hardcore-tech-enthusiasts/"><u>Exploring Tom's Electronic Innovations: Top Reviews for Hardcore Tech Enthusiasts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 7 Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keychron-q1-he-unveiled-the-long-awaited-perfect-blend-of-speed-and-portability-for-your-wireless-needs/"><u>Keychron Q1 HE Unveiled: The Long-Awaited Perfect Blend of Speed and Portability for Your Wireless Needs</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-of-repairing-steam-errors-on-windows-11/"><u>Master the Art of Repairing Steam Errors on Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-specs-tips-and-tricks-by-toms-system-experts/"><u>Navigating PC Specs: Tips and Tricks by Tom's System Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-lag-and-glitches-in-diablo-4-expert-tips-to-optimize-your-gaming-experience-across-devices/"><u>Overcome Lag & Glitches in Diablo 4: Expert Tips to Optimize Your Gaming Experience Across Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/reboot-classics-gaming-pcs-powered-by-atlasos/"><u>Reboot Classics: Gaming PCs Powered by AtlasOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-portability-with-the-asrock-z790i-lightning-wi-fi-card-an-in-depth-review/"><u>Revolutionizing Portability with the ASRock Z790I Lightning Wi-Fi Card: An In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341701667-seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-art-of-perfection-an-in-depth-evaluation-of-the-asus-rog-swift-pg32ucdp-oled-monitor/"><u>The Art of Perfection: An In-Depth Evaluation of the Asus ROG Swift PG32UCDP OLED Monitor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-remote-work-how-chatgpt-opens-doors-to-innovation/"><u>The Future of Remote Work: How ChatGPT Opens Doors to Innovation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-expert-insights-on-latest-hardware/"><u>Tom's Tech Gear: Expert Insights on Latest Hardware</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/unlocking-access-how-to-save-your-zoom-meeting-videos-from-a-shared-url/"><u>Unlocking Access: How to Save Your Zoom Meeting Videos From a Shared URL</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnet-review-iphone-14-fulfills-all-essential-requirements-a-detailed-look/"><u>ZDNet Review: IPhone 14 Fulfills All Essential Requirements - A Detailed Look</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturing-every-victory-pro-gaming-tips-for-w11-users/"><u>2024 Approved Capturing Every Victory Pro Gaming Tips for W11 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-an-expert-review-on-longevity-and-endurance-in-gaming-pcs/"><u>Asus TUF Gaming A14 Laptop: An Expert Review on Longevity & Endurance in Gaming PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmarking-the-best-a-review-of-lexars-premium-ssd-range-including-the-sl500-and-sl600-featuring-turbocharged-speeds-of-up-to-20-gbps/"><u>Benchmarking the Best: A Review of Lexar's Premium SSD Range Including the SL500 and SL600, Featuring Turbocharged Speeds of Up to 20 Gbps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-cooler-master-ion-360-all-in-one-liquid-cooling-system-progress-and-pitfalls/"><u>Comprehensive Analysis of the Cooler Master ION 360 All-In-One Liquid Cooling System: Progress and Pitfalls</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-dough-spectrum-black-oled-gaming-display-27-masterpiece/"><u>Expert Analysis of the Dough Spectrum Black OLED Gaming Display - 27 Masterpiece</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-logitech-g515-lightspeed-combining-low-profile-style-with-cost-effective-performance/"><u>Expert Insight on Logitech G515 Lightspeed: Combining Low Profile Style with Cost-Effective Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-6s-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 6s Plus?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-soundtracks-blending-beats-with-video-on-windows-11/"><u>In 2024, Crafting Soundtracks Blending Beats with Video on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-money-on-periscope-if-you-are-new-to-this-space/"><u>In 2024, How to Make Money on Periscope if You Are New to This Space</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-itel-p55t-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Itel P55T to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-layering-youtube-songs-onto-video-plays/"><u>In 2024, Layering YouTube Songs Onto Video Plays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-surface-pro-and-the-copilotplus-experience-gorgeous-hardware-yet-ai-innovations-leave-something-to-be-desired/"><u>Microsoft Surface Pro and the Copilot+ Experience: Gorgeous Hardware, Yet AI Innovations Leave Something to Be Desired</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-tips-and-reviews-on-computer-hardware-by-tom/"><u>Navigating New Tech: Tips and Reviews on Computer Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preventive-measures-such-as-protective-eyewear-can-significantly-reduce-the-risk-of-ocular-trauma/"><u>Preventive Measures Such as Protective Eyewear Can Significantly Reduce the Risk of Ocular Trauma</u></a></li>
+<li><a href="https://games-able.techidaily.com/stellar-shaper-exploring-innovative-pc-brands/"><u>Stellar Shaper: Exploring Innovative PC Brands</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-initial-planning-phase-includes-a-detailed-survey-of-the-propertys-physical-features/"><u>The Initial Planning Phase Includes a Detailed Survey of the Property's Physical Features</u></a></li>
+<li><a href="https://solve-info.techidaily.com/the-story-behind-shenys-literary-journey-a-comprehensive-author-profile/"><u>The Story Behind Sheny's Literary Journey - A Comprehensive Author Profile</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-13-pro-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 13 Pro Location | Dr.fone</u></a></li>
 </ul></div>
 

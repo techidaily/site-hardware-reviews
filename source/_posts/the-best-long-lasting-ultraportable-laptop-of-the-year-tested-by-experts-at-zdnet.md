@@ -1,7 +1,7 @@
 ---
 title: The Best Long-Lasting Ultraportable Laptop of the Year Tested by Experts at ZDNet
-date: 2024-11-10T18:24:55.968Z
-updated: 2024-11-17T18:15:13.334Z
+date: 2024-11-22T16:32:50.781Z
+updated: 2024-11-27T18:59:10.224Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -75,10 +79,7 @@ Finally, let's talk about the design because I like what HP did with the laptop,
 HP's solution to this is packaging two docking stations with the Spectre, allowing users to expand their array of ports. With the docks, you can add extra USB inputs as well as an HDMI port. The good news is the charger still works through the docking station. Don't worry about feeling like you'll be forced to choose between connectivity or keeping the laptop. You can have both.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,20 +118,22 @@ Prices for the 2024 Spectre x360 start at $1,449.99 with multiple configurations
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-apps-for-3d-video-intros-on-social-platforms/"><u>[New] 2024 Approved Best Apps for 3D Video Intros on Social Platforms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-secure-recording-methods-for-sensitive-whatsapp-discussions/"><u>[Updated] In 2024, Secure Recording Methods for Sensitive WhatsApp Discussions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341717928-boost-your-raspberry-pis-storage-with-low-cost-high-speed-hatdrive-by-pineboards/"><u>Boost Your Raspberry Pi's Storage with Low-Cost, High-Speed HatDrive by Pineboards!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chagpt-for-smartphone-users-a-compreenasive-guide/"><u>ChaGPT for Smartphone Users: A Compreenasive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-the-assembly-process-for-sunfounders-pironmann-5-robot/"><u>Expert Analysis on the Assembly Process for SunFounder's Pironmann 5 Robot</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-analysis-at-toms-technology-hub/"><u>Expert Reviews & Analysis at Tom's Technology Hub</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/free-software-conversion-transforming-pdf-files-into-optimal-epub-format-for-enhanced-reading/"><u>Free Software Conversion: Transforming PDF Files Into Optimal ePUB Format for Enhanced Reading</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/importing-mkv-files-into-imovie-on-a-mac-a-step-by-step-guide/"><u>Importing MKV Files Into iMovie on a Mac: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-meizu-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Meizu Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-4tb-ssd-performance-vs-affordability/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite 4TB SSD - Performance Vs. Affordability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insightful-analysis-of-the-sunfounder-pironman-5-a-detailed-assessment-with-initial-setup-steps/"><u>Insightful Analysis of the Sunfounder Pironman 5: A Detailed Assessment with Initial Setup Steps</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/resolvez-lerreur-3f0-sur-le-ssd-dun-portable-hp-guide-complet/"><u>Résolvez L'Erreur '3F0' Sur Le SSD D'un Portable HP - Guide Complet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-public-hearings-allow-stakeholders-and-residents-to-voice-concerns-or-support-potentially-influencing-modifications-to-the-division-plan-for-better7/"><u>Solution: Public Hearings Allow Stakeholders and Residents to Voice Concerns or Support, Potentially Influencing Modifications to the Division Plan for Better Alignment with Community Interests</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-nuc-groovy-desktop-solution-compact-and-efficient/"><u>Unboxing the Asus ROG NUC Groovy Desktop Solution - Compact and Efficient</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k-for-2024/"><u>[New] Optimal Viewing Experience Selecting Between UltraWide and UHD 4K for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-blue-badge-on-facebook-your-pathway-unveiled-for-2024/"><u>[Updated] Blue Badge on Facebook Your Pathway Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-a-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide/"><u>[Updated] In 2024, A Streamlined System for Scrutinizing YouTube Subscriber Profits 3-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprerancial-ranking-top-8-srt-translation-websites/"><u>2024 Approved A Comprerancial Ranking Top 8 SRT Translation Websites</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat12/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-western-digital-my-passport-6tb-robust-and-compact/"><u>Comprehensive Evaluation of Western Digital My Passport (6TB): Robust & Compact</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/email-and-social-media-dominance-revolutionizing-statistics-with-massmails-content-distribution-strategy/"><u>Email & Social Media Dominance: Revolutionizing Statistics with MassMail's Content Distribution Strategy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-powerful-features-of-highpoints-rocket-1608a-usb-drives-card-ultimate-review/"><u>Evaluating the Powerful Features of HighPoint's Rocket 1608A USB Drives Card - Ultimate Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-the-pc-connectivity-of-sonys-wh-1000xm34-wireless-noise-canceling-headphones/"><u>How to Repair the PC Connectivity of Sony's WH-1000XM3/4 Wireless Noise-Canceling Headphones</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-180hz-titan-army-p27a2g-a-savvy-buyers-guide-for-gamers/"><u>In-Depth Analysis of the 180Hz Titan Army P27A2G - A Savvy Buyer's Guide for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-levelplays-combat-air-ca4-the-epitome-of-silent-and-efficient-cpu-cooling-solutions/"><u>In-Depth Review of Levelplay's Combat Air CA4 - The Epitome of Silent and Efficient CPU Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-of-digital-devices-with-toms-tech-wisdom/"><u>In-Depth Reviews of Digital Devices with Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insider-knowledge-on-gadgets-the-toms-hardware-edge/"><u>Insider Knowledge on Gadgets: The Tom's Hardware Edge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-hub-in-depth-gadget-analysis-and-advice/"><u>Tom's Hardware Hub: In-Depth Gadget Analysis & Advice</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-camera-to-computer-a-beginners-guide-to-editing-canon-videos/"><u>Updated In 2024, From Camera to Computer A Beginners Guide to Editing Canon Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-8-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone 8 Plus? How to Fix</u></a></li>
 </ul></div>
 

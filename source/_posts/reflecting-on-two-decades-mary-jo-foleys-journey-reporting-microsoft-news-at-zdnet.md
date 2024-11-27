@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on Two Decades: Mary Jo Foley's Journey Reporting Microsoft News at ZDNet"
-date: 2024-09-18 21:55:50
-updated: 2024-09-20 12:30:33
+date: 2024-11-22T18:22:15.625Z
+updated: 2024-11-27T16:53:08.997Z
 tags:
   - pc
 categories:
@@ -78,11 +78,31 @@ The company teamed up with Lecia Geosystems, Topcon, and Trimble to ensure that 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-instant-sharing-convert-tweets-to-snaps-users/"><u>[New] Instant Sharing Convert Tweets to Snaps Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>[New] Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/best-bang-for-your-buck-laptop-with-stunning-screen-quality-revealed/"><u>Best Bang for Your Buck Laptop with Stunning Screen Quality Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-or-professional-analyzing-the-benefits-of-youtube-converter-factories-which-is-right-for-you/"><u>Free or Professional? Analyzing the Benefits of YouTube Converter Factories - Which Is Right for You?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-itel-p40-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel P40 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-pc-components-through-toms-expert-analysis/"><u>Mastering Gadgets and PC Components Through Tom's Expert Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-components-through-toms-tech-blog/"><u>Mastering PC Components Through Tom's Tech Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-insights-at-toms-equipment-analysis-forum/"><u>Mastering Tech Insights at Tom's Equipment Analysis Forum</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-product-choices-with-toms-authoritative-hardware-guides/"><u>Mastering Tech Product Choices with Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-through-toms-comprehve-guide-to-hardware/"><u>Mastering Technology Through Tom's Comprehve Guide to Hardware</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-explained-essential-aspects-and-more/"><u>SRT Explained Essential Aspects and More</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-correcting-cod-mw2s-directx-errors/"><u>Step-by-Step Solution for Correcting COD MW2's DirectX Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-recover-lost-apple-calendar-events-on-an-iphone-device/"><u>Steps to Recover Lost Apple Calendar Events on an iPhone Device</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

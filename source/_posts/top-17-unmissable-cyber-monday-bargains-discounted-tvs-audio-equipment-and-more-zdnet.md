@@ -1,7 +1,7 @@
 ---
 title: Top 17 Unmissable Cyber Monday Bargains - Discounted TVs, Audio Equipment & More! | ZDNet
-date: 2024-11-13T21:01:03.826Z
-updated: 2024-11-17T19:17:50.201Z
+date: 2024-11-20T16:03:58.593Z
+updated: 2024-11-27T17:19:32.286Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,10 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C33d8b115-5353-48ee-93ba-d7db0255209a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at ZDNET.com. 
@@ -71,25 +75,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nlocking-your-creative-potential-style-and-niche/"><u>[New] Unlocking Your Creative Potential Style & Niche</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-visual-vibrancy-theory-turned-practice/"><u>[Updated] In 2024, Visual Vibrancy Theory-Turned-Practice</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-integrating-moving-images-into-non-paid-content-for-2024/"><u>[Updated] Integrating Moving Images Into Non-Paid Content for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-find-your-favorite-skype-ringtones-with-these-4-websites/"><u>2024 Approved Find Your Favorite Skype Ringtones with These 4 Websites</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-isolating-subject-with-affinity/"><u>2024 Approved Isolating Subject with Affinity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-why-teamgroups-t-force-dark-airflow-i-is-a-game-changer-for-nvme-ssd-overheating-issues/"><u>Comprehensive Review: Why TeamGroup's T-Force Dark AirFlow I Is a Game-Changer for NVMe SSD Overheating Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-vibrant-colors-with-the-philips-evonia-49m2c8900-qd-oled-monitor-ultimate-gamers-guide-and-testing/"><u>Experience Vibrant Colors with the Philips Evonia 49M2C8900 QD-OLED Monitor: Ultimate Gamers' Guide and Testing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-extents-of-vr-technology/"><u>Exploring the Extents of VR Technology</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guia-completa-herramientas-superiores-para-la-restauracion-y-recuperacion-de-un-ssd-adata/"><u>Guía Completa: Herramientas Superiores Para La Restauración Y Recuperación De Un SSD Adata</u></a></li>
-<li><a href="https://win-dash.techidaily.com/newly-released-thunderbolt-3-docking-station-software-update-for-lenovo-thinkpads/"><u>Newly Released Thunderbolt 3 Docking Station Software Update for Lenovo ThinkPads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seek-immediate-medical-attention-for-all-significant-eye-injuries-to-prevent-complications-such-as-glaucoma-or-retinal-detachment/"><u>Seek Immediate Medical Attention for All Significant Eye Injuries to Prevent Complications Such as Glaucoma or Retinal Detachment</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-voice-changes-without-financial-investment-for-2024/"><u>The Ultimate Guide to Voice Changes Without Financial Investment for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-how-to-stream-your-podcast-with-a-click/"><u>[New] In 2024, How to Stream Your Podcast with a Click</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-become-a-canvas-connoisseur-with-these-10-tips/"><u>[Updated] 2024 Approved Become a Canvas Connoisseur with These 10 Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/additional-paid-in-capital-apic-the-amount-paid-by-investors-above-the-par-value-for-shares-when-they-are-issued/"><u>Additional Paid-In Capital (APIC) = The Amount Paid by Investors Above the Par Value for Shares when They Are Issued.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341729304-approach-define-easements-and-discuss-their-implications-on-land-use/"><u>Approach: Define Easements and Discuss Their Implications on Land Use</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-performance-edge-of-asus-rog-rapture-pro-wifi-7-router-review-peak-capabilities-and-customizable-options/"><u>Decoding the Performance Edge of Asus ROG Rapture Pro WIFI 7 Router Review: Peak Capabilities & Customizable Options</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-dull-desk-jockey-to-dynamic-digital-explorer-the-metaverse-revolutionizing-career-paths-for-office-fatigue-zdnet/"><u>From Dull Desk Jockey to Dynamic Digital Explorer: The Metaverse Revolutionizing Career Paths for Office Fatigue | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gigabytes-high-end-motherboard-showdown-assessing-the-cold-efficiency-steep-price-and-abundant-usb-ports-on-the-b65-groovy-ice-aorus-elite-ax-board/"><u>Gigabyte's High-End Motherboard Showdown: Assessing the Cold Efficiency, Steep Price, and Abundant USB Ports on the B65 Groovy Ice Aorus Elite AX Board</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lg-27ud68-4k-freesync-monitor-review-for-2024/"><u>LG 27UD68 4K FreeSync Monitor Review for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-your-tech-journey-with-informed-picks-from-toms-hardware-pros/"><u>Navigate Your Tech Journey with Informed Picks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-communication-with-google-tv-viewing-and-managing-rings-from-aligned-apps/"><u>Seamless Communication with Google TV: Viewing and Managing Rings From Aligned Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smiles-to-text-where-to-find-amusing-tones-for-2024/"><u>Smiles to Text Where to Find Amusing Tones for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-look-at-the-latest-gadgets/"><u>Tom's Tech Review: In-Depth Look at the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341721275-western-digital-unveils-the-powerful-4tb-wd-blue-sn5000-a-mainstream-ssd-revolutionary-reviewed/"><u>Western Digital Unveils the Powerful 4TB WD Blue SN5000: A Mainstream SSD Revolutionary Reviewed!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-find-x6-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Find X6 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/windows-10-users-guide-unfreeze-chrome-and-enhance-browsing-stability-effortlessly/"><u>Windows 10 Users' Guide: Unfreeze Chrome and Enhance Browsing Stability Effortlessly</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

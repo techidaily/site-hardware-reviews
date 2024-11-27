@@ -1,7 +1,7 @@
 ---
 title: Top 39 Unbeatable Christmas Tech Bargains on Apples, Dells, HPs - Save Big This Season | ZDNet
-date: 2024-11-11T19:02:57.489Z
-updated: 2024-11-17T18:00:23.698Z
+date: 2024-11-20T18:10:52.771Z
+updated: 2024-11-27T16:44:58.313Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday laptop deals
 
 * [Samsung Galaxy Book3 360 2-in-1](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-book3-360-2-in-1-15-6-fhd-amoled-touch-screen-laptop-intel-13th-gen-evo-core-i7-1360p-16gb-memory-1tb-ssd-graphite%2F6531070.p%3FskuId%3D6531070&publisher_slug=itechdaily19598&exclusive=1): $950 (save $600 at Best Buy)
@@ -34,6 +38,10 @@ Here are the best holiday laptop deals we've found so far. We'll continue updati
 * [Asus ZenBook Pro Duo 15 OLED 4K](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-i7-12700H-ScreenPad-Celestial-UX582ZW-AB76T%2Fdp%2FB09TPTNZLG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $1689 (save $811 at Amazon)
 * [LG Gram 17](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flg-gram-17-laptop-wqxga-intel-13th-gen-core-i7-with-16gb-memory-nvidia-geforce-rtx-3050-1tb-ssd-black%2F6540475.p%3FskuId%3D6540475&publisher_slug=itechdaily19598&exclusive=1): $1300 (save $700 at Best Buy)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top Amazon holiday laptop deals
 
 MSI/ZDNET
@@ -43,19 +51,6 @@ MSI/ZDNET
 * [Apple MacBook Air 13 M1 (2020)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $750 (save $250)
 * [Acer Swift Go](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLaptop-1920x1200-Display-i7-1355U-SFG14-71T-72QV%2Fdp%2FB0BTQWR77M%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $650 (save $250)
 * [Lenovo IdeaPad 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-IdeaPad-Processor-i5-1035G7-Accessories%2Fdp%2FB0CNGV8C34%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1): $350 (save $350)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top Best Buy holiday laptop deals
 
@@ -74,16 +69,7 @@ Dell/ZDNET
 * [Asus Zenbook 14X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14x-14-5-2-8k-oled-touch-laptop-intel-evo-platform-i7-13700h-16gb-memory-512gb-ssd-inkwell-gray%2F6543526.p%3FskuId%3D6543526&publisher_slug=itechdaily19598&exclusive=1): $700 (save $300)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top Walmart holiday laptop deals
@@ -95,13 +81,6 @@ HP/ZDNET
 * [HP 15 laptop](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-15-15-6-FHD-Windows-11-Pro-Touchscreen-Business-Laptop-11th-Gen-Intel-4-core-i7-1165G7-32GB-RAM-2TB-PCIe-SSD-Iris-Xe-Graphic-Natural-Silver-w-Offi%2F5031672716&subId1=zd-__COM_CLICK_ID__-dtp): $873 (save $376)
 * [HP Envy x360 2-in-1](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-ENVY-x360-Convertible-15-6-FDH-Touch-Laptop-AMD-Ryzen-5-12GB-256GB-Windows-11-15-ey1077wm%2F1090379885%3Fathbdg%3DL1800&subId1=zd-__COM_CLICK_ID__-dtp): $449 (save $350)
 * [Lenovo IdeaPad Slim 5i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Slim-5i-Laptop-82XF002SUS-Intel-i7-1355U-16GB-RAM-1TB-SSD-16-0-Windows-11-Home-Intel-Iris-Xe-Graphics%2F3634632586%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $680 (save $270)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top B&H Photo holiday laptop deals
 
@@ -115,6 +94,10 @@ Best Buy/ZDNET
 * [LG UltraPC 15](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1767091-REG%2Flg%5F15u50q%5Fg%5Fapb5u1%5F15%5Fultra%5Flaptop%5Fi5%5F1240p.html): $799 (save $300)
 * [Asus Vivobook 16X](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1762299-REG%2Fasus%5Fk3605vv%5Fbb74%5F16%5Fvivobook%5Fnotebook%5Fi7%5F13700h.html): $929 (save $470)
 * [Microsoft Surface Laptop 5](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1729196-REG%2Fmicrosoft%5Frkl%5F00001%5F15%5Fsurface%5Flaptop%5F4.html): $1899 (save $400)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More holiday laptop deals
 
@@ -151,18 +134,15 @@ The Lenovo Yoga 7 is a 2-in-1 laptop, which means you can use it either as a tab
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-i7-12700H-Fingerprint-Long-Lasting-Win11Pro%2Fdp%2FB0D666LJLD%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca47b1172-8130-46ae-943e-7c98279973b1%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best laptop?
 
@@ -233,15 +213,18 @@ If you're in the market for a new laptop and want the best of the best, you shou
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-high-quality-recordings-with-these-5-windows-11-tips/"><u>[New] Achieve High-Quality Recordings with These 5 Windows 11 Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/directly-convert-facebook-videos-to-high-quality-mp3-for-2024/"><u>Directly Convert Facebook Videos to High-Quality MP3 for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-tech-trends-with-toms-hardware-expertise/"><u>Discover the Latest Tech Trends with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-motorola-moto-g04-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola Moto G04 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-gt-3-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme GT 3 Phone without Any Data Loss</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-newly-launched-geekworm-x1011-network-storage-device/"><u>In-Depth Look at the Newly Launched GeekWorm X1011 Network Storage Device</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/kids-financial-flight-a-10-year-olds-path-to-prosperity/"><u>Kaji Kid’s Financial Flight A 10-Year-Old’s Path to Prosperity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers4/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbelievable-offer-acquire-the-iconic-thordarth-vader-screen-with-powerful-2k-resolution-for-only-139-at-a-chinese-shop/"><u>Unbelievable Offer! Acquire the Iconic Thor/Darth Vader Screen with Powerful 2K Resolution for Only $139 at a Chinese Shop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-premium-gaming-performance-with-the-budget-friendly-acer-predator-orion-5000-reviewed/"><u>Unlocking Premium Gaming Performance with the Budget-Friendly Acer Predator Orion 5000 - Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-budget-friendly-video-recorder-sets-top-11-picks-for-2024/"><u>[Updated] Budget-Friendly Video Recorder Sets Top 11 Picks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-illustration-insights-elevating-text-in-three-dimensions/"><u>[Updated] Illustration Insights Elevating Text in Three Dimensions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-holistic-locomotion-scrutiny-report/"><u>2024 Approved Holistic Locomotion Scrutiny Report</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eight-effective-ways-to-fix-the-0x800f0922-update-issue-on-windows-11/"><u>Eight Effective Ways to Fix the '0X800F0922' Update Issue on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964489043-enhance-your-typing-experience-upgrade-to-a-luxurious-mx-palm-rest-by-logitech-at-only-11/"><u>Enhance Your Typing Experience: Upgrade to a Luxurious MX Palm Rest by Logitech at Only $11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-guide-comprehensive-hardware-evaluations/"><u>Expert Insights From Tom's Computer Guide: Comprehensive Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-first-access-8bitdos-retro-18-mechanical-keypad-preorders-launched-exclusive-nes-famicom-and-c64-versions-shipping-in-july/"><u>Get First Access: 8Bitdo's Retro 18 Mechanical Keypad Preorders Launched – Exclusive NES, Famicom & C64 Versions Shipping in July</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487791-get-the-pro-level-logitech-g502-hero-at-an-amazing-price-only-35-experience-ultra-high-definition-controls-and-25k-dpi-sensitivity/"><u>Get the Pro-Level Logitech G502 Hero at an Amazing Price - Only $35! Experience Ultra-High Definition Controls and 25K DPI Sensitivity.</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-tecno-camon-30-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Camon 30 Pro 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-x-fold-2-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo X Fold 2 to iPad | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-docooler-usb-20-12mp-digital-camera-worth-it-an-in-depth-review-and-comparison/"><u>Is The Docooler USB 2.0 12Mp Digital Camera Worth It? An In-Depth Review & Comparison</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964486834-special-memorial-day-deal-alert-high-quality-full-size-roccat-pyro-mechanical-keyboard-just-34-awaits-you/"><u>Special Memorial Day Deal Alert: High-Quality, Full-Size Roccat Pyro Mechanical Keyboard - Just $34 Awaits You</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

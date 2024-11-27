@@ -1,7 +1,7 @@
 ---
 title: "Best Value Gaming PCs Over 65: Exclusive Seasonal Discounts Featured by CNET"
-date: 2024-11-13T18:37:20.629Z
-updated: 2024-11-17T18:27:24.535Z
+date: 2024-11-24T16:37:51.537Z
+updated: 2024-11-27T17:50:52.776Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Dell/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -95,10 +99,7 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -108,10 +109,7 @@ In fact, one thing I noticed about the m18 R2 is that it never really felt hot t
 However, this is also quite a large laptop, so although it's portable, it isn't exactly carry-and-go, and it isn't a machine that you can leave unplugged for hours at a time. Pricing can easily rise toward the higher end too, but the cutting-edge technology solidifies the m18 R2 as something that will be near the top of the laptop market for a while. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -148,22 +146,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-passport-photo-generator-download-print-for-free/"><u>2024 Approved 10 Passport Photo Generator Download, Print for Free</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-steps-for-a-smooth-experience-with-the-windows-11-photos-app/"><u>2024 Approved Steps for a Smooth Experience with the Windows 11 Photos App</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/drive-more-see-clearer-5-upgraded-headlights/"><u>Drive More, See Clearer: 5 Upgraded Headlights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experts-weigh-in-on-the-2020-release-of-apples-budget-friendly-iphone-se-is-it-worth-your-consideration/"><u>Experts Weigh In on the 2020 Release of Apple's Budget-Friendly iPhone SE - Is It Worth Your Consideration?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-discoveries-at-toms-hardware-emporium/"><u>Exploring the World of Computing: Discoveries at Tom's Hardware Emporium</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/from-in-the-moment-to-lasting-images-how-to-save-from-snapchat-for-2024/"><u>From In-the-Moment to Lasting Images How to Save From Snapchat for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-chatgpts-role-in-enhancing-lifestyle-quality/"><u>Harnessing AI: ChatGPT's Role in Enhancing Lifestyle Quality</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-a59-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo A59 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-build-at-toms-hardware-solutions/"><u>Master Your PC Build at Tom's Hardware Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-technology-toms-authoritative-hardware-articles/"><u>Navigating Advanced Technology: Tom’s Authoritative Hardware Articles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341707040-solution-the-first-step-is-conducting-a-detailed-survey-to-understand-the-propertys-physical-features-and-constraints/"><u>Solution: The First Step Is Conducting a Detailed Survey to Understand the Property's Physical Features and Constraints.</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/step-by-step-guide-on-downloading-and-setting-up-pokemon-go-on-android-worldwide/"><u>Step-by-Step Guide on Downloading and Setting Up Pokémon GO on Android Worldwide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-review-showcase-unveiling-the-latest-in-hardware-technology/"><u>Tom's Review Showcase: Unveiling the Latest in Hardware Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-unveiling-the-latest-in-computer-components/"><u>Tom's Tech Hub: Unveiling the Latest in Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-gameplay-experience-on-the-vibrant-viewsonic-xg272-2k-oled-monitor-review/"><u>Top Rated Gameplay Experience on the Vibrant ViewSonic XG272-2K OLED Monitor Review</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/ultimate-guide-the-13-premier-recording-tools-for-your-pcs-webcam-on-windows/"><u>Ultimate Guide: The 13 Premier Recording Tools for Your PC's Webcam on Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/western-digital-my-passport-6tb-ssd-reviewed-big-capacity-in-a-small-package/"><u>Western Digital My Passport 6TB SSD Reviewed - Big Capacity in a Small Package</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-easier-ways-to-document-your-youtube-videos-for-2024/"><u>[New] Easier Ways to Document Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-coexistence-of-linktree-and-tiktok-biographies/"><u>2024 Approved Flawless Coexistence of Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-nuc-970-mini-pc-assessment-high-performance-powerhouse-in-a-small-form-factor/"><u>Asus ROG NUC 970 Mini PC Assessment: High-Performance Powerhouse in a Small Form Factor</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-note-30i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Note 30i Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-more-storage-on-a-budget-with-asrocks-m2-b760-motherboard-review/"><u>Get More Storage on a Budget with ASRock's M.2 B760 Motherboard Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-fixing-the-common-discord-cloudflare-issue-error-1105-explained/"><u>Guide: Fixing the Common Discord Cloudflare Issue - Error 1105 Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/high-fidelity-android-3d-player-for-2024/"><u>High-Fidelity Android 3D Player for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-the-new-streaming-landscape-with-youtube-premium/"><u>In 2024, Navigating the New Streaming Landscape with YouTube Premium</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-evaluating-bluehosts-offerings-in-cloud-vps-and-shared-hosting-environments/"><u>In-Depth Review: Evaluating Bluehost's Offerings in Cloud, VPS, and Shared Hosting Environments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-hp-omnibook-x-experience-a-comprehensive-dive-into-its-16-hour-battery-life-and-xpower-technology/"><u>Inside the HP OmniBook X Experience: A Comprehensive Dive Into Its 16-Hour Battery Life and XPower Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-at-toms-tech-hub/"><u>Navigating the World of PC Components at Tom's Tech Hub</u></a></li>
+<li><a href="https://win-docs.techidaily.com/the-ultimate-guide-to-crafting-strong-and-easy-to-remember-secure-passwords-3-proven-techniques/"><u>The Ultimate Guide to Crafting Strong & Easy-to-Remember Secure Passwords: 3 Proven Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-ig-coverage-toolkit-apple-and-android-included/"><u>The Ultimate IG Coverage Toolkit, Apple & Android Included</u></a></li>
 </ul></div>
 

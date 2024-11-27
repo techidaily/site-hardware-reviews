@@ -1,7 +1,7 @@
 ---
 title: "Battle of the Ultraportables: How LG's New Gram Pro Laptops Outshine Apple's MacBook Air in Performance, Battery Life & Design | ZDNet"
-date: 2024-11-16T19:13:41.797Z
-updated: 2024-11-17T20:11:47.363Z
+date: 2024-11-26T18:51:44.015Z
+updated: 2024-11-27T18:54:52.099Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. The numbers don't lie
 
 LG Gram Pro 16 2-in-1 (left) and the 15-inch Apple MacBook Air (right).
@@ -43,16 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -66,10 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -83,10 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -125,22 +114,22 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-integrate-captions-into-youtube-videos/"><u>[New] 2024 Approved How to Seamlessly Integrate Captions Into YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-capture-and-share-online-journeys-browsers-top-screen-recorders/"><u>[New] Capture and Share Online Journeys Browsers' Top Screen Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-instantpause-live-image-save-tips-for-2024/"><u>[New] InstantPause Live Image Save Tips for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perfecting-your-sims-4-live-action/"><u>[Updated] In 2024, Perfecting Your Sims 4 Live Action</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-learn-audio-recording-in-audacity-with-your-mac/"><u>[Updated] Learn Audio Recording in Audacity with Your Mac</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-ultimate-offline-voice-processor-for-2024/"><u>[Updated] Ultimate Offline Voice Processor for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat10/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bluehost-reviewed-a-guide-to-their-cloud-vps-and-shared-plans-examined/"><u>Bluehost Reviewed: A Guide to Their Cloud, VPS, and Shared Plans Examined</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/dynamic-instagram-collage-views-for-2024/"><u>Dynamic Instagram Collage Views for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-power-of-a-dual-band-7ghz-wifi-beast-with-asus-rt-be96u/"><u>Exploring the Power of a Dual-Band 7GHz WiFi Beast with ASUS RT-BE96U</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-shaping-imagery-the-most-innovative-vector-designers-ranked/"><u>In 2024, Shaping Imagery The Most Innovative Vector Designers Ranked</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-gameplay-how-the-high-speed-high-style-gigabyte-aorus-fo32u2p-240hz-oled-monitor-elevates-gaming-performance/"><u>Maximizing Your Gameplay: How the High-Speed, High-Style Gigabyte Aorus FO32U2P 240Hz OLED Monitor Elevates Gaming Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Computer Gear with Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-zoning-laws-ensure-that-the-divided-lots-are-used-appropriately-according-to-community-needs-and-environmental-considerations-maintaining-orderly-d11/"><u>Solution: Zoning Laws Ensure that the Divided Lots Are Used Appropriately According to Community Needs and Environmental Considerations, Maintaining Orderly Development Patterns.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722845817114-the-user-friendly-way-to-hide-subtitles-during-an-amazon-video-binge-session/"><u>The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g13/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-of-logitech-g-pro-x-2-with-lightspeed-technology-a-must-have-for-serious-gamers/"><u>Ultimate Review of Logitech G Pro X 2 with Lightspeed Technology: A Must-Have for Serious Gamers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-x-transcription-software-pc/"><u>[Updated] In 2024, X-Transcription Software PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nokia-c210-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/an-in-depth-look-at-nzxt-h7-flow-prioritizing-reliability-and-safety/"><u>An In-Depth Look at NZXT H7 Flow: Prioritizing Reliability and Safety</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-of-breed-exceptional-cardboard-vr-gaming-experienits-for-2024/"><u>Best of Breed Exceptional Cardboard VR Gaming Experienits for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-quality-audio-and-straightforward-features-in-the-beyerdynamic-mmx-30e-pro/"><u>Comprehensive Evaluation: Quality Audio & Straightforward Features in the Beyerdynamic MMX 30E Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-sunfounder-pironmann-5-in-depth-guide-and-step-by-step-setup/"><u>Evaluating the SunFounder Pironmann 5: In-Depth Guide and Step-by-Step Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.15/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-gadgets-with-toms-hardware-hub/"><u>Expert Insights on Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improving-your-homes-digital-tv-signal-using-interior-antennas/"><u>Improving Your Home's Digital TV Signal Using Interior Antennas</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maxsun-terminator-z790m-d5-ice-review-of-the-high-performance-white-atx-board-with-five-m2-connectors/"><u>Maxsun Terminator Z790M D5 Ice - Review of the High-Performance White ATX Board with Five M.2 Connectors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-effortless-video-rotation-a-beginners-guide/"><u>New In 2024, Effortless Video Rotation A Beginners Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/optimize-youtube-watch-experience-boostslow-down-feature-usage/"><u>Optimize YouTube Watch Experience Boost/Slow Down Feature Usage</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/smart-screening-vll-app-judgement-for-2024/"><u>Smart Screening VLL App Judgement for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-implementing-the-revolution-extension-within-kodis-open-scraper-framework/"><u>Step-by-Step Tutorial for Implementing the Revolution Extension Within Kodi's Open Scraper Framework</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-parents-manual-navigating-the-world-of-chatgpt-and-generative-ai/"><u>Ultimate Parent's Manual: Navigating the World of ChatGPT & Generative AI</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-building-with-toms-hardware-experts/"><u>Unveiling the Latest in PC Building with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-corsair-mp600-mini-is-your-go-to-choice-in-1tb-m2-drives-e7-t-reviewed/"><u>Why the Corsair MP600 Mini Is Your Go-To Choice in 1TB M.2 Drives (E#7 T) Reviewed</u></a></li>
 </ul></div>
 

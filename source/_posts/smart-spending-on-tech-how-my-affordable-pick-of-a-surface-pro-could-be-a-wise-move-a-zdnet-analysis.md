@@ -1,7 +1,7 @@
 ---
 title: "Smart Spending on Tech: How My Affordable Pick of a Surface Pro Could Be a Wise Move - A ZDNET Analysis"
-date: 2024-09-18 13:12:24
-updated: 2024-09-20 12:10:21
+date: 2024-11-23T17:55:51.204Z
+updated: 2024-11-27T17:10:30.246Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-explore-and-review-every-application-az-screenshotters-way-for-2024/"><u>[Updated] Explore & Review Every Application - AZ Screenshotter's Way for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-the-art-of-editing-on-sierra-with-1-5-tools/"><u>[Updated] Master the Art of Editing on Sierra with #1-#5 Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comical-content-for-apples-pixels/"><u>Comical Content for Apple's Pixels</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y17s-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y17s FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-pure-browsing-our-selections-of-7-top-android-adblockers/"><u>Enjoy Pure Browsing Our Selections of 7 Top Android AdBlockers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-gear-by-toms-electronics-hub/"><u>Expert Analysis on PC Gear by Tom's Electronics Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-performance-the-affordable-lenovo-legion-slim-pert-5-for-gamers-now-available-on-newegg-below-1k/"><u>Get the Powerhouse Performance: The Affordable Lenovo Legion Slim Pert-5 for Gamers Now Available on Newegg Below $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-asus-rog-strix-g16-2-now-a-steal-at-1164-on-amazon/"><u>Get Your Hands-On the Latest ASUS ROG Strix G16 2# - Now a Steal at $1,164 on Amazon</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-fixes-accelerating-your-slow-google-chrome-in-no-time/"><u>Instant Fixes: Accelerating Your Slow Google Chrome in No Time</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-upgraded-framework-for-power-packed-13-inch-devices-with-top-tier-intel-and-amd-processors/"><u>Introducing the Upgraded Framework for Power-Packed 13-Inch Devices with Top-Tier Intel and AMD Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-a-journey-through-toms-computing-world/"><u>Mastering Hardware Knowledge - A Journey Through Tom's Computing World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-reviews-with-toms-electronics-insights/"><u>Navigating Gadget Reviews with Tom’s Electronics Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfecting-the-art-of-screen-recording-with-step-by-step-instructions-from-adobe-captivate/"><u>Perfecting the Art of Screen Recording with Step-by-Step Instructions From Adobe Captivate</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/powerhouse-gaming-in-a-portable-package-acers-predator-helios-neo-14-fusion-of-speed-and-sleekness/"><u>Powerhouse Gaming in a Portable Package: Acer's Predator Helios Neo 14 Fusion of Speed and Sleekness</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrims-sse-struggles-a-guide-to-repair-windows-errors/"><u>Skyrim's SSE Struggles: A Guide to Repair Windows Errors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-guide-to-next-gen-tech-features-spotted-at-toms-gadgets-forum/"><u>The Comprehensive Guide to Next-Gen Tech: Features Spotted at Tom's Gadgets Forum</u></a></li>
+</ul></div>
+

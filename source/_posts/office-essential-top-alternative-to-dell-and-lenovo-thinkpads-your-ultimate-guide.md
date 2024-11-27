@@ -1,7 +1,7 @@
 ---
 title: "Office Essential: Top Alternative to Dell and Lenovo ThinkPads - Your Ultimate Guide"
-date: 2024-11-10T18:03:59.688Z
-updated: 2024-11-17T20:47:03.293Z
+date: 2024-11-24T17:53:09.189Z
+updated: 2024-11-27T18:36:29.120Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ We prioritized machines that scored well in durability, portability, and of cour
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf96a2647-48a5-4f5e-a08f-e6332b6f1289%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best laptop for college in 2024
 
 Show less 
@@ -40,13 +44,6 @@ Pros
 Cons 
 * Limited ports
 * Uninspiring speakers
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
 
@@ -83,10 +80,7 @@ Cons
 ## HP Dragonfly Pro Chromebook
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Chromebook for college
@@ -151,13 +145,6 @@ Cons
 
 ## Asus ROG Zephyrus G14
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best college laptop for gaming
 
 You know what they say about all work and no play. Let's face it, college is a grind, so it's nice to be able to unplug by plugging into your favorite game. Luckily, there are laptops that can do both, and the Asus ROG Zephyrus G14 gives you the best of both worlds. This is a sleek and lightweight laptop that you can bring to class, but it's also powerful enough to run all your favorite games in the off-hours. Also, the  offers student discounts on select laptops after signing up through a brief application form.
@@ -183,13 +170,14 @@ Cons
 * Expensive
 * Comes with multiple supporting parts
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo Yoga Book 9i
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best 2-in-1 convertible laptop for college
@@ -218,6 +206,10 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Asus ROG Zephyrus G14       | $1,600            | AMD Ryzen 9, GeForce RTX 4070        | 32GB, 1TB SSD               | 3.3              |
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which is the right laptop for college for you?
 
 The right college for laptop depends on first on what you want to get out of it, and second, what your budget looks like. The laptops on this list cover a broad range of prices, but I also included some common use-cases that applies to many users. 
@@ -231,10 +223,7 @@ The right college for laptop depends on first on what you want to get out of it,
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -253,6 +242,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing a laptop for college
 
 Different students are going to have different performance needs, and it's important to consider what exactly will be required in your courses before selecting a laptop. Students in media, design, animation, and production will likely need to opt for machines on the higher-end of hardware performance, while other students that will mainly be using their laptops for research and productivity apps may not need high-end GPUs or extensive memory. 
@@ -263,13 +256,6 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Price:** Cost is an important factor, especially for students. I included laptops that cover a wide range of price points, from the inexpensive [Acer Aspire Go 15](https://www.zdnet.com/article/i-replaced-my-desktop-with-a-299-laptop-for-a-week-and-was-pleasantly-surprised/) at just $300 to the pricier [Lenovo Yoga Book 9i](https://www.zdnet.com/article/i-tested-lenovos-dual-screen-laptop-and-it-improved-my-productivity-in-profound-ways/) that will run closer to $2,000\. Keep in mind that most computer manufacturers offer student discounts, and their buying links are included in each laptop's section on this page.
 * **Portability:** Carrying around a heavy laptop all day while on campus is a tough ask. That's why all five of these laptops were considered to be light enough to be carried around a full day at school, the heaviest of which (the Acer Aspire Go 15) is only 3.7 pounds.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
 
@@ -331,18 +317,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unlocking-stream-efficiency-obs-meets-zoom-for-2024/"><u>[New] Unlocking Stream Efficiency OBS Meets Zoom for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space/"><u>[Updated] Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/149-deal-on-acer-nitro-27/"><u>$149 Deal on Acer Nitro 27</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-top-podcasts-the-ultimate-22-rankings-revealed/"><u>Decoding Top Podcasts - The Ultimate '22 Rankings Revealed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862778136-elevate-your-gameplay-with-a-crystal-clear-innocn-27-240hz-gaming-monitor-limited-offer-only-1amonth/"><u>Elevate Your Gameplay with a Crystal-Clear Innocn 27 240Hz Gaming Monitor - Limited Offer: Only $1Amonth!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/excel-vs-chatgpt-top-3-unmatched-functions-only-excel-offers/"><u>Excel Vs. ChatGPT: Top 3 Unmatched Functions Only Excel Offers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-8-hd-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audiomastery-the-definitive-guide-to-choosing-the-best-voice-recorders/"><u>New AudioMastery The Definitive Guide to Choosing the Best Voice Recorders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862752577-snag-a-colossal-lg-ultragear-wqhd-curved-monitor-39-steal-it-at-amazon-for-only-999/"><u>Snag a Colossal LG Ultragear WQHD Curved Monitor (39) - Steal It at Amazon for Only $999!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultra-high-definition-graphics-unveiled-aocs-new-graphic-pro-series-u3-hits-the-pro-arena/"><u>Ultra-High Definition Graphics Unveiled: AOC's New Graphic Pro Series U3 Hits the Pro Arena</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-colors-on-screen-a-comprehensive-guide-to-asus-rog-swift-pg49wcd-monitor-review/"><u>Unveiling the Colors on Screen: A Comprehensive Guide to Asus ROG Swift PG49WCD Monitor Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-by-toms-experts/"><u>Unveiling the Latest in Computer Components by Tom's Experts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-top-28-youtube-music-splitters-for-easy-audio-extraction/"><u>[New] 2024 Approved Top 28 YouTube Music Splitters for Easy Audio Extraction</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conquer-youtube-searches-with-these-top-11-seo-strategies/"><u>[Updated] 2024 Approved Conquer YouTube Searches with These Top 11 SEO Strategies</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tailor-your-tiktok-voice-a-step-by-step-process/"><u>[Updated] Tailor Your TikTok Voice A Step-by-Step Process</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-newest-drivers-amd-rx-6700-xt-compatible-with-windows-11-10-and-7/"><u>Get Newest Drivers: AMD RX 6700 XT Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f25-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F25 Pro 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-tips-and-advice-from-toms-hardware-experts/"><u>Mastering Gadget Selection: Tips and Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-katana-156-gaming-laptop-powerhouse-performance-at-just-1199-featuring-nvidia-rtx-4070/"><u>MSI Katana 15.6 Gaming Laptop: Powerhouse Performance at Just $1,199 – Featuring NVIDIA RTX 4070</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-pros-and-cons-of-asus-rog-zephyrus-g16-an-in-depth-gamers-guide/"><u>Navigating the Pros and Cons of Asus ROG Zephyrus G16: An In-Depth Gamer's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-reviews-by-toms-hardware-team/"><u>Pioneering Computer Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sneak-peek-of-the-future-new-ai-integrated-dell-laptops-set-for-a-summer-release/"><u>Sneak Peek of the Future - New AI-Integrated Dell Laptops Set for a Summer Release</u></a></li>
 </ul></div>
 

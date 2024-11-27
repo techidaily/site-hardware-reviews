@@ -1,7 +1,7 @@
 ---
 title: "Beyond Microsoft and Lenovo: The Ideal Work Travel Companion Unveiled in the Latest ZDNet Testing | Best New Tablet for Professionals"
-date: 2024-11-13T17:27:23.824Z
-updated: 2024-11-17T16:03:23.368Z
+date: 2024-11-24T17:00:30.049Z
+updated: 2024-11-27T16:52:39.641Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ The ThinkPad X1 2-in-1 performs well in most cases, although it's not necessaril
 It also did well on the benchmark tests I ran, even outperforming the Intel Core i9-9880H. I'm very familiar with the Ultra 7, so I expected solid performance. Indeed, it is because of this familiarity that I was surprised to see this model's price. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,20 +112,24 @@ Additionally, keep in mind that adding options like an OLED screen and hardware 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-chorus-chronicles-new-speaker-insights/"><u>[New] In 2024, Chorus Chronicles New Speaker Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/acer-xf2-40-desktop-review-striking-the-perfect-balance-between-design-and-efficiency/"><u>Acer XF2-40 Desktop Review: Striking the Perfect Balance Between Design & Efficiency</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341676604-adherence-to-prescribed-medications-such-as-antibiotics-and-anti-inflammatory-eye-drops-is-essential-to-prevent-complications/"><u>Adherence to Prescribed Medications, Such as Antibiotics and Anti-Inflammatory Eye Drops, Is Essential to Prevent Complications.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-kingston-fury-ddr5-6000-c40-with-dual-channels-a-thorough-review-of-its-capable-execution/"><u>Comprehensive Kingston Fury DDR5-6000 C40 with Dual Channels: A Thorough Review of Its Capable Execution</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-retrieving-windows-that-have-slipped-off-your-monitors-edge/"><u>Expert Advice: Retrieving Windows That Have Slipped Off Your Monitor's Edge</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pop-8-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pop 8 To Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-nyts-strands-an-expert-tutorial-for-word-games-enthusiasts/"><u>Mastering NYT's 'Strands': An Expert Tutorial for Word Games Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-game-field-with-the-aorus-fo32u2p-an-oled-gaming-monitor-that-redefines-luxury-and-speed-at-240hz-and-4k-resolution/"><u>Mastering the Game Field with the Aorus FO32U2P - An OLED Gaming Monitor That Redefines Luxury and Speed at 240Hz & 4K Resolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-predictive-ai-techniques/"><u>Navigating the World of Predictive AI Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nzxt-h7-flow-critique-ensuring-a-protected-experience/"><u>NZXT H7 Flow Critique: Ensuring a Protected Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-analysis-by-tom-mastering-your-tech-choices/"><u>Pioneering Hardware Analysis by Tom - Mastering Your Tech Choices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-oppo-a1-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Oppo A1 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-guide-to-producing-quality-mobile-videos/"><u>[New] Step-by-Step Guide to Producing Quality Mobile Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-tiktoks-guest-entry-guide/"><u>[Updated] 2024 Approved Navigating TikTok's Guest Entry Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-frame-rate-considerations-for-high-quality-videos/"><u>[Updated] In 2024, Frame Rate Considerations for High-Quality Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-closer-look-at-the-decline-how-the-venerable-4-pin-molex-is-approaching-retirement-after-six-decades/"><u>A Closer Look at the Decline: How the Venerable 4-Pin Molex Is Approaching Retirement After Six Decades</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazing-savings-alert-how-the-yeedi-m12-proplus-dominates-over-rivals-exclusive-review/"><u>Amazing Savings Alert: How the Yeedi M12 Pro+ Dominates Over Rivals - Exclusive Review!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/are-budget-friendly-wireless-hdmi-converters-effective-for-enjoying-games-movies-and-presentations/"><u>Are Budget-Friendly Wireless HDMI Converters Effective for Enjoying Games, Movies, and Presentations?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/battle-for-streaming-supremacy-how-apple-tv-stacks-up-against-roku-amazon-fire-tv-and-google-tv/"><u>Battle for Streaming Supremacy: How Apple TV Stacks Up Against Roku, Amazon Fire TV & Google TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/buying-guide-choosing-the-perfect-portable-laptop-monitor-now/"><u>Buying Guide: Choosing the Perfect Portable Laptop Monitor Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-low-cost-wireless-hdmi-dongles-deliver-quality-performance-in-gaming-cinema-and-slideshows/"><u>Can Low-Cost Wireless HDMI Dongles Deliver Quality Performance in Gaming, Cinema, and Slideshows?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-the-perfect-keyboard-companer-for-your-new-steam-deck-a-comprehensive-guide/"><u>Choosing the Perfect Keyboard Companer for Your New Steam Deck: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-power-why-intel-gpus-demand-your-attention-now/"><u>Embrace the Power: Why Intel GPUs Demand Your Attention Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-resolve-iphones-refusal-of-creditdebit-cards-a-step-by-step-guide/"><u>How to Resolve iPhone's Refusal of Credit/Debit Cards – A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a18-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A18 to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V29 Phone without PIN</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-6-unparalleled-mac-apps-for-video-grabbing/"><u>In 2024, 6 Unparalleled Mac Apps for Video Grabbing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/is-av1-the-clear-winner-against-vp9/"><u>Is AV1 The Clear Winner Against VP9?</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-premiere-top-10-video-editing-software-alternatives-for-beginners-and-pros/"><u>New Beyond Premiere Top 10 Video Editing Software Alternatives for Beginners and Pros</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-your-phone-needs-more-than-one-usb-c-exploring-the-power-of-dual-ports-in-mobile-devices/"><u>Why Your Phone Needs More Than One USB-C: Exploring the Power of Dual Ports in Mobile Devices</u></a></li>
 </ul></div>
 

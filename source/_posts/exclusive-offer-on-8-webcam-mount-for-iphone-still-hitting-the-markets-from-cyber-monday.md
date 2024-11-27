@@ -1,7 +1,7 @@
 ---
 title: Exclusive Offer on $8 Webcam Mount for iPhone - Still Hitting the Markets From Cyber Monday
-date: 2024-11-14T18:01:56.246Z
-updated: 2024-11-17T20:01:34.421Z
+date: 2024-11-22T18:39:45.243Z
+updated: 2024-11-27T16:35:00.653Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 [Elephant Card iPhone Mount for $8 (save $2) $8 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0B93QFCP8%3Ft%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C55a82509-6e9b-4ee8-94dd-e251ac03841a%7Cdtp&dtb=1)
 
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -77,29 +81,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[New] 2024 Approved From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>[New] In 2024, DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-the-way-you-engage-early-on-in-listening/"><u>2024 Approved Revolutionizing the Way You Engage Early on in Listening</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-connectivity-how-to-fetch-and-update-usb-bluetooth-driver-software-on-windows-systems/"><u>Enhance Connectivity: How to Fetch and Update USB Bluetooth Driver Software on Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eye-strain-and-comfort/"><u>Eye Strain and Comfort</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/f-droid-vs-play-store-what-sets-them-apart-and-why-you-should-consider-the-alternative-app-repository/"><u>F-Droid Vs. Play Store: What Sets Them Apart and Why You Should Consider the Alternative App Repository</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/guide-setting-up-song-crossfading-feature-on-apple-music/"><u>Guide: Setting Up Song Crossfading Feature on Apple Music</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-fix-google-messages-when-it-continuously-fails/"><u>How to Fix Google Messages When It Continuously Fails</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-poco-m6-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Poco M6 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-x-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone X without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/live-coverage-of-the-google-pixel-6-launch-top-insights-and-predictions/"><u>Live Coverage of the Google Pixel 6 Launch – Top Insights & Predictions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/locating-and-understanding-your-android-smartphones-operating-instructions/"><u>Locating and Understanding Your Android Smartphone's Operating Instructions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-art-of-mobile-recording-tips-and-tricks-for-android-users/"><u>Mastering the Art of Mobile Recording: Tips and Tricks for Android Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mophies-compact-power-bank-features-convenient-ac-adapter-option/"><u>Mophie's Compact Power Bank Features Convenient AC Adapter Option</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/persistent-android-application-crashes-discover-9-reliable-solutions/"><u>Persistent Android Application Crashes? Discover 9 Reliable Solutions</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/phantom-a-guide-to-backward-video-capture-techniques/"><u>Phantom A Guide to Backward Video Capture Techniques</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-instructions-for-converting-your-favorite-youtube-content-to-mp4movwmv-on-windows-and-macos-systems/"><u>Step-by-Step Instructions for Converting Your Favorite YouTube Content to MP4/MOV/WMV on Windows and macOS Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ideal-interactive-interface-for-podcasters/"><u>[Updated] 2024 Approved Ideal Interactive Interface for Podcasters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-effective-techniques-for-creating-podcast-rss-feeds/"><u>[Updated] Effective Techniques for Creating Podcast RSS Feeds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-video-editor-works-on-m1-chip/"><u>[Updated] Video Editor Works on M1 Chip</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013654381-beat-saber-not-working-heres-how-you-can-stop-it-from-freezing-and-crashing/"><u>Beat Saber Not Working? Here's How You Can Stop It From Freezing and Crashing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-reviews-and-tips-from-toms-tech-blog/"><u>Comprehensive Hardware Reviews and Tips From Tom's Tech Blog</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dive-into-tamriel-explore-skyrim-the-ultimate-fantasy-rpg-experience-on-the-switch/"><u>Dive Into Tamriel - Explore Skyrim, The Ultimate Fantasy RPG Experience on the Switch</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-powerhouse-teamgroups-t-force-vulcan-ddr5-6000-c30-with-2x16gb-stands-out-comprehensive-review/"><u>Eco-Friendly Powerhouse: TeamGroup's T-Force Vulcan DDR5-6000 C30 with 2X16GB Stands Out - Comprehensive Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-sea-of-thieves-initialization-hitches/"><u>Expert Tips on Resolving Sea of Thieves Initialization Hitches</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-capturing-and-saving-instagrams-transient-media-for-2024/"><u>How-To Capturing and Saving Instagram's Transient Media for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-gigabyte-aorus-co49dq-oled-display-unrivaled-color-depth-and-contrast/"><u>In-Depth Analysis of the Gigabyte Aorus CO49DQ OLED Display - Unrivaled Color Depth & Contrast</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-a-journey-through-toms-hardware-hub/"><u>Mastering Technology Choices: A Journey Through Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-precision-toms-trusted-guide-to-computer-components/"><u>Navigating New Gadgets with Precision - Tom's Trusted Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lofree-edge-reviewed-lightweight-expensive-a-comparison-with-the-classic-apple-magic-keyboard/"><u>The Lofree Edge Reviewed: Lightweight, Expensive - A Comparison with the Classic Apple Magic Keyboard</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/whats-new-in-vr/"><u>What's New in VR?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

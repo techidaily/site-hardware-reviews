@@ -1,7 +1,7 @@
 ---
 title: Game On! Discover How You Can Elevate Your Gaming Experience for Less Than Half Price at Amazon, Featured and Reviewed by ZDNET
-date: 2024-11-16T19:35:49.758Z
-updated: 2024-11-17T21:05:45.504Z
+date: 2024-11-24T16:54:28.526Z
+updated: 2024-11-27T17:55:05.944Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Taylor Clemons/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET takeaways
 
@@ -71,10 +75,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -86,10 +87,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -126,22 +124,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers/"><u>[New] The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-understanding-instagrams-reels-vs-stories-format/"><u>[Updated] Understanding Instagram’s Reels vs Stories Format</u></a></li>
-<li><a href="https://fox-http.techidaily.com/a-closer-look-at-the-m1-pro-versus-m1-max-in-apple-devices/"><u>A Closer Look at the M1 Pro Versus M1 Max in Apple Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-tech-insights-navigating-the-world-of-modern-electronics-with-toms-experts/"><u>Advanced Tech Insights: Navigating the World of Modern Electronics with Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-gadgets-and-computer-components-on-toms-hardware/"><u>Discover Top-Tier Gadgets and Computer Components on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-latest-computer-components-toms-tech-hub/"><u>Expert Insights on Latest Computer Components - Tom's Tech Hub</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/gamers-guide-expert-advice-on-capturing-your-minecraft-adventures/"><u>Gamer's Guide Expert Advice on Capturing Your Minecraft Adventures</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-times-tail-in-snapchat-video-backtracking-guide/"><u>In 2024, Time's Tail in Snapchat Video Backtracking Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-c51-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme C51 Location | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-games-with-ease-the-comprehensive-review-of-bright-and-colorful-viewsonic-xg272-2k-240hz-gaming-display/"><u>Mastering Games with Ease: The Comprehensive Review of Bright and Colorful ViewSonic XG272-2K 240Hz Gaming Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computer-components-with-toms-hardware-advice/"><u>Navigate the World of Computer Components with Tom’s Hardware Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-diskspace-tools-for-windows-context-menu/"><u>Quick Access DiskSpace: Tools for Window's Context Menu</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-discord-setup-issues-easy-fixes-for-installation-failure/"><u>Resolve Your Discord Setup Issues: Easy Fixes for 'Installation Failure'</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computing-by-toms-tech-experts/"><u>The Ultimate Guide to Computing by Tom's Tech Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-hardware-insights/"><u>Tom's Tech Hub: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-5-troubleshooting-steps-for-microsoft-word-executable-issues/"><u>Top 5 Troubleshooting Steps for Microsoft Word Executable Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-value-review-of-patriots-vp4nano-sata-iii-vp4300-lite-4tb-ssd-balancing-cost-and-capacity/"><u>Unpacking the Value: Review of Patriot's VP4nano SATA III VP4300 Lite, 4TB SSD Balancing Cost and Capacity</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-stunning-celestinas-and-skies-online-directory/"><u>[Updated] Stunning Celestinas and Skies Online Directory</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unleash-creativity-with-these-10-ae-text-setups/"><u>2024 Approved Unleash Creativity with These 10 AE Text Setups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlocking-audio-potential-in-audacity-mac-edition/"><u>2024 Approved Unlocking Audio Potential in Audacity, Mac Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ace-overheating-with-52-pi-ice-tower-plus-in-depth-review-for-enhanced-performance-on-raspberry-pi-5/"><u>Ace Overheating with '52-Pi Ice Tower Plus': In-Depth Review for Enhanced Performance on Raspberry Pi 5</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/androids-ultimate-fix-for-frustratingly-slow-vids/"><u>Android's Ultimate Fix for Frustratingly Slow Vids</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-facilement-vos-fichiers-mod-en-fichiers-mp4-gratuits-avec-movavi/"><u>Convertissez Facilement Vos Fichiers MOD en Fichiers MP4 Gratuits Avec Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-asus-rt-ax57-go-top-choice-for-travelers-seeking-a-powerful-yet-portable-wi-fi-solution/"><u>Evaluating the Asus RT-AX57 Go: Top Choice for Travelers Seeking a Powerful Yet Portable Wi-Fi Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-pc-components-with-toms-gear-guide/"><u>Exploring Cutting-Edge PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-purchase-to-use-installing-vrecord-for-2024/"><u>From Purchase to Use Installing VRecord for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-revolutionary-lian-li-hydroshift-lcd-360s-case/"><u>In-Depth Analysis of the Revolutionary Lian Li Hydroshift LCD 360S Case</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-landscape-with-toms-hardware-expertise/"><u>Navigating the Digital Landscape with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneers-of-processors-a-journey-through-toms-hardware-world/"><u>Pioneers of Processors: A Journey Through Tom's Hardware World</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-electronics-reviews-and-tips-by-tech-maestro-toms-gear-insights/"><u>Precision Electronics Reviews & Tips by Tech Maestro - Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide-on-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide on Computer Hardware</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleash-your-artistic-side-using-bokeh-to-dazzle-insta-followers-for-2024/"><u>Unleash Your Artistic Side Using Bokeh to Dazzle Insta Followers for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-and-gizmos-with-toms-expertise-in-hardware/"><u>Unveiling Gadgets and Gizmos with Tom’s Expertise in Hardware</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-using-vn-editor-to-add-luts-for-video-editing/"><u>Updated In 2024, Using VN Editor To Add Luts for Video Editing</u></a></li>
 </ul></div>
 

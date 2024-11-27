@@ -1,7 +1,7 @@
 ---
 title: "Protect Yourself From 'Juice Jacking': FBI Alerts on Hacked Charging Stations Threatening Personal Data - Tips for Secure Usage"
-date: 2024-11-15T18:02:51.347Z
-updated: 2024-11-17T20:57:24.305Z
+date: 2024-11-21T18:38:52.945Z
+updated: 2024-11-27T16:22:54.196Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -73,10 +77,7 @@ To maintain performance and reduce heat, Asus has equipped the Vivobook S14 with
 Another thing to note is that the machine's battery life is just passable. I tested the laptop by running a non-stop YouTube video at 720p and 50% brightness until it died. The Vivobook S14 lasted about six hours before it went completely dark. So don't expect the laptop to last you through a full day of tasks without needing to charge it in between. I should mention that this test took place without Battery Saver. Having that feature turned on will extend the battery life, even if it's only by a little.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,18 +116,16 @@ You can purchase the Vivobook S14 off [Best Buy for $1,200](https://shop-links.c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ssential-tips-for-making-youtube-introductory-trailers/"><u>[New] Essential Tips for Making YouTube Introductory Trailers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-11x-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme 11X 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-hardware-review-blog/"><u>Expert Insights From Tom's Hardware Review Blog</u></a></li>
-<li><a href="https://common-error.techidaily.com/fallout-4-performance-optimized-how-to-overcome-lag-issues-tips-players/"><u>Fallout 4 Performance Optimized: How to Overcome Lag Issues (Tips Players)</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/festplattenentfernung-vereinfacht-prozedur-zur-schnellen-loschung-der-zweiten-speicherkarte/"><u>Festplattenentfernung Vereinfacht - Prozedur Zur Schnellen Löschung Der Zweiten Speicherkarte</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-syma-x8c-feature-analysis/"><u>In 2024, Syma X8C Feature Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-technology-secrets-at-toms-hardware-reviews/"><u>Navigating Through Technology Secrets at Tom's Hardware Reviews</u></a></li>
-<li><a href="https://common-error.techidaily.com/revamping-your-gaming-experience-tweaks-for-better-performance-on-windows-11/"><u>Revamping Your Gaming Experience: Tweaks for Better Performance on Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-electronics-by-toms-device-diary/"><u>The Ultimate Review of Electronics by Tom's Device Diary</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-exploring-the-latest-in-computer-components/"><u>Tom's Tech Review: Exploring the Latest in Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-with-toms-hardware-guides-and-tips/"><u>Unlocking Performance Secrets with Tom's Hardware Guides & Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-specs-a-deep-dive-into-toms-hardware-analysis/"><u>Unraveling the Specs: A Deep Dive Into Tom’s Hardware Analysis</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-11-compatible-drivers-how-to-download-and-update-your-logitech-c270/"><u>Windows 11 Compatible Drivers: How to Download and Update Your Logitech C270</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ideo-conversion-wizardry-from-youtube-to-igtv-for-2024/"><u>[New] Video Conversion Wizardry From Youtube to IGTV for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-video-gear-the-ultimate-stabilizers-selection/"><u>2024 Approved Pro Video Gear – The Ultimate Stabilizers Selection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-s23-fe-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy S23 FE to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-first-impressions-of-apple-vision-pro-after-a-month-all-your-top-concerns-addressed/"><u>Comprehensive First Impressions of Apple Vision Pro After a Month - All Your Top Concerns Addressed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-zte-axon-40-lite-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change ZTE Axon 40 Lite Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-10-indispensable-android-widgets-enhance-your-smartphone-experience/"><u>Top 10 Indispensable Android Widgets: Enhance Your Smartphone Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-13-ios-15-functions-inspired-by-android-unveiling-apples-adaptations/"><u>Top 13 iOS 15 Functions Inspired by Android: Unveiling Apple's Adaptations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-android-wearables-of-2024-the-ultimate-guide/"><u>Top-Rated Android Wearables of 2024: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tutorial-using-apples-facetime-app-effectively-on-android-phones-and-tablets/"><u>Ultimate Tutorial: Using Apple's FaceTime App Effectively on Android Phones and Tablets</u></a></li>
 </ul></div>
 

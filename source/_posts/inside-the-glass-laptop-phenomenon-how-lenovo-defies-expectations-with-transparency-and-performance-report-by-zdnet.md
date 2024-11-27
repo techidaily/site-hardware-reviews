@@ -1,7 +1,7 @@
 ---
 title: "Inside the Glass Laptop Phenomenon: How Lenovo Defies Expectations with Transparency and Performance - Report by ZDNet"
-date: 2024-11-13T19:08:08.406Z
-updated: 2024-11-17T17:47:21.829Z
+date: 2024-11-23T16:53:05.893Z
+updated: 2024-11-27T17:57:11.355Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ZDNET's key takeaways
 
 * The Baseus Blade HD portable power bank is available on [Amazon for $70](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7688ab37-91de-4646-964d-ad4c4d4a9b06%7Cdtp&dtb=1) thanks to the nearly 38% off lightning deal, plus a 10% off coupon.
@@ -41,10 +45,7 @@ So what does HD stand for? High density. Put simply, Baseus used a different bat
 [ZDNET RECOMMENDS Baseus Blade HD The Baseus Blade HD is an upgraded version of the Blade, and makes use of silicon-carbon lithium polymer battery technology, making it 18% lighter and 20% smaller than the previous version. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Charging-Portable-Charger-20000mAh%2Fdp%2FB0BZP6R4MH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7688ab37-91de-4646-964d-ad4c4d4a9b06%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Baseus Blade HD tech specs
@@ -101,10 +102,7 @@ Recharge times are also very acceptable, at 1.2 hours when using the included US
 One thing that hasn't changed from the previous incarnation is that every surface of the Blade HD, just like the Blade before it, is a dust magnet, and will pick up and show every bit of dirt that gets on it. But the textured finish is nice in that the power bank isn't slippery like a lot of them are, so it's less likely to fall on the floor or into your laptop's keyboard!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -141,16 +139,18 @@ That aside, the [Baseus Blade HD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-seamless-scenes-integrating-fade-inout-effects/"><u>[New] Seamless Scenes Integrating Fade In/Out Effects</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-decoding-skype-call-recordings-optimal-free-and-paid-methods-windowsmac-for-2024/"><u>[Updated] Decoding Skype Call Recordings Optimal Free and Paid Methods (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-systems-the-ultimate-guide-to-pc-hardware/"><u>Exploring Tom's Systems: The Ultimate Guide to PC Hardware</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-enhancing-your-adventures-through-immersive-gopro-time-lapse/"><u>In 2024, Enhancing Your Adventures Through Immersive GoPro Time Lapse</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-reviews-and-analysis-by-toms-hardware-experts/"><u>Innovative Tech Reviews and Analysis by Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-non-facebook-activities-exploration-for-2024/"><u>Navigating Non-Facebook Activities Exploration for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimized-say-goodbye-to-abrupt-disconnections-in-the-hyper-scape-universe-on-pc-platforms/"><u>Optimized: Say Goodbye to Abrupt Disconnections in the Hyper Scape Universe on PC Platforms</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reaching-new-heights-a-comprehensive-review-of-crucial-pro-6000-series-ddr5-memory-for-advanced-system-tuning-and-performance-optimization/"><u>Reaching New Heights: A Comprehensive Review of Crucial Pro 6000 Series DDR5 Memory for Advanced System Tuning and Performance Optimization</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-in-depth-computer-components-analysis/"><u>Tom's Tech Review: In-Depth Computer Components Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performance-analysis-the-6tb-version-of-the-western-digital-my-passport/"><u>Top-Performance Analysis: The 6TB Version of the Western Digital My Passport</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-camera-screen-to-insta-story-editing-high-aspect-video-with-fcpx/"><u>[New] 2024 Approved From Camera Screen to Insta Story Editing High Aspect Video with FCPX</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-visualvault-overview-in-depth-assessment/"><u>[Updated] In 2024, VisualVault Overview – In-Depth Assessment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>[Updated] Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-where-youtube-transforms-videos-into-art/"><u>[Updated] Understanding Where YouTube Transforms Videos Into Art</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-world-of-technology-with-toms-hardware/"><u>Discovering the World of Technology with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiasts-guide-to-the-budget-friendly-nuphy-halo75-v2-a-breakdown-of-its-features-and-benefits/"><u>Enthusiast's Guide to the Budget-Friendly Nuphy Halo75 V2 - A Breakdown of Its Features and Benefits</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-your-nvidia-rtx-t70-super-drivers-a-guide-for-windows-users/"><u>How to Install or Update Your Nvidia RTX T70 Super Drivers: A Guide for Windows Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-smart-8-hd-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Smart 8 HD to Another | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-fix-handling-not-found-avcodecdll-issues-efficiently/"><u>Mastering the Fix: Handling Not Found Avcodec.dll Issues Efficiently</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-computing-the-toms-equipment-guide-to-perfection/"><u>Navigating Modern Computing: The Tom's Equipment Guide to Perfection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-toms-equipment-your-trusted-source-for-computing-hardware/"><u>Navigating the World of Tom's Equipment: Your Trusted Source for Computing Hardware</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/step-by-step-guide-converting-rmvb-video-format-to-mp4/"><u>Step-by-Step Guide: Converting RMVB Video Format to MP4</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/zenith-in-gaming-computing-evaluating-the-stellar-performance-of-ryzen-5-9600x-and-ryzen-7-9700xs-new-era/"><u>Zenith in Gaming Computing: Evaluating the Stellar Performance of Ryzen 5 9600X and Ryzen 7 9700X's New Era</u></a></li>
 </ul></div>
 

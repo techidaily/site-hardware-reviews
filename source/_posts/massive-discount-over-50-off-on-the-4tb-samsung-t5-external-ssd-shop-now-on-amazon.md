@@ -1,7 +1,7 @@
 ---
 title: "Massive Discount: Over 50%% Off on the 4TB Samsung T5 External SSD – Shop Now on Amazon"
-date: 2024-09-17 11:34:13
-updated: 2024-09-20 10:58:25
+date: 2024-11-26T17:13:56.600Z
+updated: 2024-11-27T18:55:23.067Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,29 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unleash-the-potential-of-your-webcam-for-slideshows/"><u>[New] 2024 Approved Unleash the Potential of Your Webcam for Slideshows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-shedding-light-techniques-for-improving-youtube-video-quality-for-2024/"><u>[Updated] Shedding Light Techniques for Improving YouTube Video Quality for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/achieve-peak-efficiency-with-ideal-memory-settings-on-your-amd-ryzen-3000-processors-in-depth-review-from-toms-hardware/"><u>Achieve Peak Efficiency with Ideal Memory Settings on Your AMD Ryzen 3000 Processors - In-Depth Review From Tom's Hardware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-mic-not-working-heres-how-to-get-it-functioning-again/"><u>Astro A10 Mic Not Working? Here's How to Get It Functioning Again!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ddr5-pushes-past-limits-achieving-9058mhz-overclock-on-amds-ryzen-7000-series-using-new-firmware/"><u>DDR5 Pushes Past Limits: Achieving 9058MHz Overclock on AMD's Ryzen 7000 Series Using New Firmware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-digital-gadgets-by-tom-unveiling-the-best-tech-tools/"><u>Expert Insights on Digital Gadgets by Tom - Unveiling the Best Tech Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-asus-rog-phone-7-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Asus ROG Phone 7 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-brother-mfc-l2690dw-easy-download-and-installation-tips/"><u>Latest Drivers for Brother MFC-L2690dw - Easy Download and Installation Tips!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-troubleshooting-your-broken-computers-a-comprehensive-guide-using-chatgpt/"><u>Master Troubleshooting Your Broken Computers - A Comprehensive Guide Using ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-with-tom-comprehensive-gadget-analysis-and-advice/"><u>Mastering Tech with Tom: Comprehensive Gadget Analysis & Advice</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/milky-way-database-restoration-guide/"><u>Milky Way Database Restoration Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scripting-space-and-time-manipulation-for-movies/"><u>Scripting Space & Time Manipulation for Movies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-breakthrough-in-pc-performance-ddr5-memory-hit-9058mhz-with-ryzen-clockwork-latest-bios-update-secrets-revealed/"><u>Thrilling Breakthrough in PC Performance: DDR5 Memory Hit 9058MHz with Ryzen Clockwork - Latest BIOS Update Secrets Revealed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components-t17239718670261/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-30-best-slow-mo-camera-apps-for-smartphones-iosandroid/"><u>Top 30 Best Slow Mo Camera Apps for Smartphones iOS/Android</u></a></li>
+</ul></div>
+

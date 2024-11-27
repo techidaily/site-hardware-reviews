@@ -1,7 +1,7 @@
 ---
 title: "The Latest Enhancements in Lenovo's ThinkPad X1 Unveiled: Insights"
-date: 2024-11-12T18:39:16.316Z
-updated: 2024-11-17T20:08:30.589Z
+date: 2024-11-26T17:21:26.527Z
+updated: 2024-11-27T17:28:55.070Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -41,10 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,16 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -83,10 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,24 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-free-top-10-facebook-video-downloader-for-android/"><u>[New] 2024 Approved FREE Top 10 Facebook Video Downloader for Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-cameras-elevating-podcast-engagement/"><u>[New] Best Cameras Elevating Podcast Engagement</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-crafting-the-perfect-zoom-call-timeline-for-2024/"><u>[New] Crafting the Perfect Zoom Call Timeline for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-keeping-your-audience-engaged-in-a-revised-social-lands-ward/"><u>[Updated] In 2024, Keeping Your Audience Engaged in a Revised Social Lands Ward</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamline-your-workflow-with-hp-screen-recordings/"><u>[Updated] In 2024, Streamline Your Workflow with HP Screen Recordings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apex-spectrum-by-maingear-combining-customizable-rgb-lighting-with-advanced-liquid-cooling-features/"><u>Apex Spectrum by Maingear: Combining Customizable RGB Lighting with Advanced Liquid Cooling Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964468371-discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-a-guide-to-the-latest-in-computer-hardware/"><u>Exploring Tom's Tech Insights: A Guide to the Latest in Computer Hardware</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-dencodage-pour-les-meilleurs-encodeurs-mp4-en-2023-transformer-votre-contenu-video/"><u>Guide D'Encodage Pour Les Meilleurs Encodeurs MP4 en 2023 : Transformer Votre Contenu Vidéo</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssing-ambiance-with-thoughtful-lighting/"><u>Harnessing Ambiance with Thoughtful Lighting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-will-us-import-duties-impact-the-cost-of-electronic-components-and-personal-computers-unraveling-the-complexity/"><u>How Will US Import Duties Impact the Cost of Electronic Components & Personal Computers? Unraveling the Complexity</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>In 2024, How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-web-integration-adding-youtube-playlists-easily/"><u>In 2024, Web Integration Adding YouTube Playlists Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-qualcomm-snapdragon-development-board-bridging-microsoft-windows-and-arm-technology/"><u>Introducing the Qualcomm Snapdragon Development Board: Bridging Microsoft Windows and ARM Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-hot-40-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Hot 40? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/quiet-powerhouse-creation-the-journey-to-an-rgb-less-whisper-quiet-computer-insights-from-toms-hardware/"><u>Quiet Powerhouse Creation: The Journey to an RGB-Less, Whisper-Quiet Computer - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-workstation-essential-z790-motherboards-and-liquid-cpu-coolers-reviewed/"><u>Upgrade Your Workstation: Essential Z790 Motherboards and Liquid CPU Coolers Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/win-a-top-ranked-pc-building-contest-toms-hardware-exclusive/"><u>Win a Top-Ranked PC Building Contest: Tom's Hardware Exclusive</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>[New] In 2024, The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leverage-youtube-insights-for-sustainable-channel-development/"><u>[New] Leverage YouTube Insights for Sustainable Channel Development</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>[Updated] 2024 Approved Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-revolutionizing-remote-work-selecting-the-best-live-streamers/"><u>2024 Approved Revolutionizing Remote Work Selecting the Best Live Streamers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-camera-showdown-top-camcorders-reviewed/"><u>2024 Approved The Ultimate Camera Showdown Top Camcorders Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/efficient-workflow-screen-recording-techniques-in-os-x-via-keyboard-shortcuts/"><u>Efficient Workflow Screen Recording Techniques in OS X via Keyboard Shortcuts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-gear-and-updates-from-toms-pc-hardware-reviews/"><u>Essential Gear and Updates From Tom's PC Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-components-and-tech-insights/"><u>Exploring Tom's Computer Components & Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-equipment-testing-and-reviews-toms-hardware-insights/"><u>In-Depth Equipment Testing and Reviews - Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-lexars-high-speed-storage-exploring-the-sl500-and-sl600-with-over-20gbps-speeds/"><u>In-Depth Evaluation of Lexar's High-Speed Storage: Exploring the SL500 and SL600 with Over 20Gbps Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-world-expert-analysis-on-electronics-and-pc-components/"><u>Inside Tom’s Tech World: Expert Analysis on Electronics and PC Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-expertise-from-toms-hardware/"><u>Master Your Gadgets with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-a60s-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel A60s Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-at-toms-electronics-emporium/"><u>Mastering Modern Devices at Tom’s Electronics Emporium</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-workflow-on-mac-with-montereys-custom-focus-modes-to-minimize-distractions-zdnet/"><u>Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-components-at-tomtechhardware/"><u>Navigating the World of Gadgets and Components at TomTechHardware</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-tips-to-upgrade-your-rl-recording-equipment-for-2024/"><u>Ultimate Tips to Upgrade Your RL Recording Equipment for 2024</u></a></li>
 </ul></div>
 

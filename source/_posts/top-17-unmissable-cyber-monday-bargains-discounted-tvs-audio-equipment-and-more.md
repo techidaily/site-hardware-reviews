@@ -1,7 +1,7 @@
 ---
 title: Top 17 Unmissable Cyber Monday Bargains - Discounted TVs, Audio Equipment & More!
-date: 2024-11-16T19:01:45.061Z
-updated: 2024-11-17T19:12:10.005Z
+date: 2024-11-25T17:22:29.105Z
+updated: 2024-11-27T17:30:32.782Z
 tags:
   - laptops
 categories:
@@ -22,18 +22,15 @@ Black Friday and Cyber Monday just passed, but that doesn't mean you have to giv
 
 [![04-bf-cm.png](https://www.zdnet.com/a/img/resize/954e855aae296b0590d40ff6eba4167fd27f3d67/2022/11/29/2911e8eb-1a11-4aa3-8ff7-015c7e854046/04-bf-cm.png?auto=webp&fit=crop&frame=1&height=238.5&width=459) The best Black Friday and Cyber Monday tech deals still available If you missed out on this year's mega sale events, no problem. ZDNET is rounding up the best tech deals still available, right here.  Read now](https://www.zdnet.com/collection/cyber-monday/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Target has an expansive catalog of items on sale, but we only picked items that have at least a 20% discount since we know there's lots of gift-giving going on. We included all kinds of devices, from smartwatches to TVs and wireless headphones. So, if you're looking for a discount, we've got you covered. 
 
 If you're doing all or most of your holiday shopping at Target, it's important to know that the prices included in this list are how much you'll pay if you buy the item online, and prices will vary if you decide to buy an item in-store. Typically, buying online is cheaper, regardless of whether you then have it shipped or pick it up from the store. 
 
 If you're looking for all holiday deals, our experts searched other major retailers, like [Walmart](https://www.zdnet.com/article/walmart-early-cyber-monday-deals-november-27-2022/), [Costco](https://www.zdnet.com/home-and-office/costco-early-cyber-monday-deals-november-27-2022/), [Best Buy](https://www.zdnet.com/article/best-buy-early-cyber-monday-deals-november-27-2022/), [Amazon](https://www.zdnet.com/article/amazon-early-cyber-monday-deals-november-27-2022/), and [Newegg](https://www.zdnet.com/article/newegg-early-cyber-monday-deals-november-27-2022/) to help you find the [best Cyber Monday deals](https://www.zdnet.com/article/best-early-cyber-monday-deals-november-27-2022/) still available. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Best Target Cyber Monday deals**
 
@@ -72,16 +69,13 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 
 [View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Famazon-fire-tv-stick-with-4k-ultra-hd-streaming-media-player-and-alexa-voice-remote-2nd-generation%2F-%2FA-54188026%23lnk%3Dsametab&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Target Cyber Monday Smartwatch Deals**
 
 [Garmin Venu 2S Smartwatch for $300 (save $50) $300 at Garmin](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/707572/pn/010-02429-01)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Target Cyber Monday headphones deals**
 
@@ -92,13 +86,6 @@ Amazon's streaming media player includes 4K viewing, live and free TV channels, 
 [JBL Tune Wireless On-Ear Headphones for $30 (save $20) $25 at JBL](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.jbl.com/over-ear-headphones/TUNE510BT-.html?dwvar%5FTUNE510BT-%5Fcolor=White-AM-Current)
 
 [Bose QuietComfort 45 wireless bluetooth noise-cancelling headphones for $230 (save $100) $230 at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Fbose-quietcomfort-45-wireless-bluetooth-noise-cancelling-headphones%2F-%2FA-84692788%3Fpreselect%3D82797330%23lnk%3Dsametab&publisher%5Fslug=zdnet&article%5Fname=17%20best%20target%20cyber%20monday%20deals%20still%20available%20in%202022%3A%20tvs%2C%20headphones%2C%20speakers%20on%20sale&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Ftarget-best-holiday-deals-2022%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Target Cyber Monday streaming device deals**
 
@@ -126,13 +113,25 @@ For Target's Cyber Monday deals, we considered that people look for deals that a
 
 Scouring through deals means comparing prices across many retailers and finding the ones that make the most sense without compromising quality. Many of these products have been reviewed  experts to help you make an informed decision before you make a purchase.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Black Friday 2022?
 
 Black Friday is always the Friday following Thanksgiving Day. This year, Black Friday was on Nov. 25.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2022?
 
 Cyber Monday is the Monday after Thanksgiving and is when most online retailers have a holiday sale. This year, Cyber Monday was on Nov. 28.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals 2022?
 
@@ -141,6 +140,10 @@ ZDNET scoured holiday sales to find the best deals this year:
 * [The best holiday 2022 deals](https://www.zdnet.com/article/best-early-black-friday-deals-amazon-walmart-best-buy-and-more/)
 
 Our experts split out the best deals by retailer, brand, and category, which you can see below. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Holiday deals by retailer**
 
@@ -157,13 +160,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best holiday 2022 Samsung deals](https://www.zdnet.com/article/samsung-best-holiday-deals-2022/)
 * [The best holiday 2022 Dell deals](http://zdnet.com/article/dell-best-holiday-deals-2022/)
 * [The best holiday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-best-holiday-deals-2022/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Holiday deals by category**
 
@@ -190,13 +186,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
  Here are some of the cheapest deals we found:
 
 * [The best holiday 2022 deals under $30](https://www.zdnet.com/home-and-office/best-holiday-deals-under-30-2022/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Cyber Monday live blog deals still available**
 
@@ -246,24 +235,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-deciphering-the-superior-video-sharing-platform-tiktok-or-youtube-shorts/"><u>[Updated] Deciphering the Superior Video-Sharing Platform TikTok or YouTube Shorts?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-optimizing-online-team-discussions-for-2024/"><u>[Updated] Optimizing Online Team Discussions for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-spark-interest-with-style-mixing-tiktoks-genius-techniques-for-insta/"><u>[Updated] Spark Interest with Style Mixing TikTok's Genius Techniques for Insta</u></a></li>
-<li><a href="https://games-able.techidaily.com/amp-up-arcade-vibes-with-enlarged-frontend-frames/"><u>Amp Up Arcade Vibes with Enlarged Frontend Frames!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bringing-color-to-your-gameplay-viewsonics-240hz-xg272-oled-monitor-reviewed-in-detail/"><u>Bringing Color to Your Gameplay: ViewSonic's 240Hz XG272 OLED Monitor Reviewed in Detail</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-for-fixing-malfunctioning-kotion-each-g2000-microphone-units/"><u>DIY Solutions for Fixing Malfunctioning KOTION Each G2000 Microphone Units</u></a></li>
-<li><a href="https://win11.techidaily.com/dvdfire/"><u>DVDコンテンツをFireタブレットで表示する手順及び再生が不可能な場合の対策</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-motorola-moto-g-stylus-2023-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Moto G Stylus (2023) Phone that is Locked?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-insight-into-akasa-geckos-blower-cooler-performance-in-securing-enhanced-ssd-temperature-regulation/"><u>In-Depth Insight Into Akasa Gecko's Blower Cooler Performance in Securing Enhanced SSD Temperature Regulation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-6tb-capacity-and-sturdy-design-of-my-passport-by-western-digital/"><u>In-Depth Look at the 6TB Capacity and Sturdy Design of My Passport by Western Digital</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-hostinger-comparing-their-vps-cloud-compute-and-shared-server-services/"><u>In-Depth Review of Hostinger - Comparing Their VPS, Cloud Compute, and Shared Server Services</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-digital-workshop-a-closer-look-at-cutting-edge-hardware/"><u>Inside Tom's Digital Workshop: A Closer Look at Cutting-Edge Hardware</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726029780150-isodvd/"><u>ISO形式へ変換:コピーガード付DVD用の復元方法</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mlb-the-show-21-servers-back-online-play-ball/"><u>MLB The Show 21: Servers Back Online - Play Ball!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-authority/"><u>Navigating the World of Computer Hardware with Tom's Authority</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-cooler-master-ion-360-aio-cooling-solution-stepping-forward-yet-facing-backtrack-moments/"><u>The Cooler Master ION 360 AIO Cooling Solution - Stepping Forward, Yet Facing Backtrack Moments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-your-guide-to-the-latest-tech/"><u>Tom's Computer Review: Your Guide to the Latest Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-gadgets-reviewed/"><u>Tom's Tech Hub: Innovative Gadgets Reviewed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-create-time-lapse-video-with-canon-camera/"><u>[New] How to Create Time-Lapse Video with Canon Camera</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-roguelike-vs-roguelite-debates-and-history-explained-with-game-examples/"><u>[New] In 2024, Roguelike Vs. Roguelite Debates and History Explained With Game Examples</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-intersecting-realities-metaverse-and-multiverse-differences-for-2024/"><u>[Updated] Intersecting Realities Metaverse and Multiverse Differences for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-enhancing-productivity-the-benefits-of-using-a-dual-monitor-setup-over-a-single-ultrawide/"><u>1. Enhancing Productivity: The Benefits of Using a Dual-Monitor Setup Over a Single UltraWide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-unbeatable-savings-on-top-electronics-grab-your-apple-pencil-samsungs-galaxy-s24-stunning-4k-televisions-and-more/"><u>1. Unbeatable Savings on Top Electronics: Grab Your Apple Pencil, Samsung's Galaxy S24, Stunning 4K Televisions & More!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>2024 Approved Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apple-watch-update-enables-ring-pausing-during-workouts/"><u>Apple Watch Update Enables Ring Pausing During Workouts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/artificial-intelligence-boosting-computer-performance-next-gen-spec-leap/"><u>Artificial Intelligence Boosting Computer Performance: Next-Gen Spec Leap</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-bargains-on-technology-featuring-amazon-firestick-anker-portable-charger-and-dji-quadcopter-among-others/"><u>Best Bargains on Technology: Featuring Amazon Firestick, Anker Portable Charger & DJI Quadcopter Among Others</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonoss-outdoor-audio-triumph-a-compreran-report/"><u>Sonos's Outdoor Audio Triumph: A Compreran Report</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/x/"><u>ウィンX高解像度ビデオコンバーターデラックスの最新更新履歴:最新テクノロジーと改良</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Asus ROG Strix G15 - Exclusive Offer: Save $600 on Top-Tier Gaming Laptops | Zdnet"
-date: 2024-11-10T20:28:52.138Z
-updated: 2024-11-17T21:35:37.797Z
+date: 2024-11-23T18:29:20.681Z
+updated: 2024-11-27T18:20:37.415Z
 tags:
   - laptops
 categories:
@@ -39,13 +39,6 @@ Razer/ZDNET
 * [Gigabyte Aero 16 AMOLED 4K](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233528R): $1400 (save $2600 at Neweeg, **open box**)
 * [Gigabyte Aorus 17 XE4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834725189R): $1200 (save $1250, **open box**)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday gaming laptop deals at Amazon
 
 ASUS/ZDNET
@@ -53,13 +46,6 @@ ASUS/ZDNET
 * [Asus TUF A17](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Windows-FA707NV-ES74%2Fdp%2FB0C56T56WQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8ccbf531-1457-40b5-b300-e86285a0663d%7Cdtp&dtb=1): $1198 (save $300)
 * [Asus ROG Strix G16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BV7XQ9V9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8ccbf531-1457-40b5-b300-e86285a0663d%7Cdtp&dtb=1): $1700 (save $300)
 * [Asus ROG Strix Scar 15](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Display-GeForce-Keyboard-G533ZW-AS94Q%2Fdp%2FB0BDTVSXS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C8ccbf531-1457-40b5-b300-e86285a0663d%7Cdtp&dtb=1): $1450 (save $600)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best holiday gaming laptop deals at Best Buy
 
@@ -96,6 +82,10 @@ Lenovo/ZDNET
 * [MSI GE77 Raider](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-GE-Series-Raider-17-3-144-Hz-IPS-Intel-Core-i7-12th-Gen-12700H-2-30GHz-NVIDIA-GeForce-RTX-3060-Laptop-GPU-16-GB-DDR5-1-TB-NVMe-SSD-Windows-11-Hom%2F1476304999%3Fathbdg%3DL1700%26adsRedirect%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp): $1000 (save $599)
 * [XPG Xenia 15G](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FXPG-Xenia-15G-15-6-FHD-Gaming-Laptop-Intel-Core-i7-13700H-16-GB-DDR5-NVIDIA-GeForce-RTX-4060-1-TB-SSD-Windows-11-Home-Black-75260049%2F2130763084%3Fathbdg%3DL1700&subId1=zd-__COM_CLICK_ID__-dtp): $1149 (save $551)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday gaming laptop deals at Newegg
 
 * [MSI GP68 Vector](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fcore-black-msi-gp-series-vector-gp68-12vh-006-gaming%252Fp%252FN82E16834156475): $1599 (save $500)
@@ -124,10 +114,7 @@ Lenovo/ZDNET
 * [Corsair HS55 Surround wired](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FCORSAIR-HS55-Stereo-Gaming-Headset-Carbon-Multi-Platform-Compatible-Most-Devices-Including-PC-Mac-PS5-PS4-Xbox-Series-X-Nintendo-Switch-Mobile-Device%2F974565238&subId1=zd-__COM_CLICK_ID__-dtp): $39 (save $20 at Walmart)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday gaming monitor deals
@@ -147,10 +134,7 @@ Lenovo/ZDNET
 * [XCOM: Enemy Unknown](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16832205142): $7 (save $23 at Newegg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday gaming laptop deals?
@@ -158,6 +142,10 @@ Lenovo/ZDNET
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best gaming laptop?
 
@@ -168,10 +156,7 @@ ZDNET's Lena Borrelli chose the Razer Blade 17 as her top pick for the [best gam
 I chose the Asus TUF A15 (which happens to be on sale at several retailers) as the [best budget gaming laptop](https://www.zdnet.com/home-and-office/home-entertainment/best-budget-gaming-laptop/) for its wallet-friendly price as well as its 144Hz refresh rate to help provide smoother action during fast-paced gameplay or action-heavy cutscenes. The TUF A15 chassis is tested against MIL-STD-810G guidelines for water, dust, shock, and drop resistance, so you can take this laptop just about anywhere and not have to worry about spills or getting jostled on the subway.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much should a gaming laptop cost?
@@ -243,20 +228,18 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/haring-strategies-maximize-video-impact-from-youtube-to-facebook/"><u>[New] Sharing Strategies Maximize Video Impact From YouTube to Facebook</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>[Updated] In 2024, The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sleek-superior-substantial-reviewing-the-asus-mg28uq-4k-display/"><u>[Updated] Sleek, Superior, Substantial – Reviewing the ASUS MG28UQ 4K Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/assessing-the-lofree-edge-a-lightweight-thin-choice-comparatively-priced-against-the-apple-magic-keyboard/"><u>Assessing the Lofree Edge: A Lightweight, Thin Choice - Comparatively Priced Against the Apple Magic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-lenovos-latest-innovation-the-ultraportable-yoga-pro-surveying-its-sleek-build-and-satisfying-key-travel/"><u>Comprehensive Review of Lenovo's Latest Innovation – The Ultraportable Yoga Pro Surveying Its Sleek Build and Satisfying Key Travel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341755981-cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-and-buying-guides-for-all-things-electronics-toms-hardware/"><u>Expert Analysis & Buying Guides for All Things Electronics - Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-a-comprehensive-guide/"><u>Exploring Technology with Tom: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/hoofdlijfjes-om-een-vlugger-winodocs-map-making-process-in-windows-11-te-laten-oplossen/"><u>Hoofdlijfjes Om Een Vlugger Winodocs Map Making Process in Windows 11 Te Laten Oplossen</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/master-the-fix-effective-solutions-to-silent-hp-notebook-speakers/"><u>Master the Fix: Effective Solutions to Silent HP Notebook Speakers</u></a></li>
-<li><a href="https://win-top.techidaily.com/online-free-tool-transform-your-flv-videos-into-high-quality-avi-by-movavi/"><u>Online Free Tool: Transform Your FLV Videos Into High-Quality AVI by Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-flsun-s1-high-speed-performance-in-a-quirky-design/"><u>Review of FLSun S1: High-Speed Performance in a Quirky Design</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/triumph-of-david-how-the-desktop-sls-kickstarter-campaign-culminated-in-a-surprise-buyout/"><u>Triumph of David: How the Desktop SLS Kickstarter Campaign Culminated in a Surprise Buyout</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-screen-and-webcam-recording-made-easy-top-10-windows-10-software-for-2024/"><u>Updated Screen and Webcam Recording Made Easy Top 10 Windows 10 Software for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341743549-wirelessly-dominate-your-productivity-with-the-keychron-q1-he-the-wireless-version-youve-been-dreaming-of/"><u>Wirelessly Dominate Your Productivity with the Keychron Q1 HE - The Wireless Version You've Been Dreaming Of!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-xiaomi-unveils-next-level-screen-recording-for-photo-lovers-for-2024/"><u>[Updated] Xiaomi Unveils Next-Level Screen Recording for Photo Lovers for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s23-tactical-edition-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S23 Tactical Edition Activity | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unraveling-the-mystery-of-online-broadcast-archiving/"><u>2024 Approved Unraveling the Mystery of Online Broadcast Archiving</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-reviews-by-tom-your-trusted-source/"><u>Advanced Gadget Reviews by Tom: Your Trusted Source</u></a></li>
+<li><a href="https://win-net.techidaily.com/centralizzato-strategie-di-backup-con-aomei-guida-per-il-recupero-dei-dati/"><u>Centralizzato: Strategie Di Backup Con AOMEI - Guida per Il Recupero Dei Dati</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effiziente-methoden-zur-ubertragung-ihrer-festplattendaten-auf-ein-intel-solid-state-drive/"><u>Effiziente Methoden Zur Übertragung Ihrer Festplattendaten Auf Ein Intel Solid State Drive</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prioritize-savings-with-the-best-6-affordable-camera-brands/"><u>In 2024, Prioritize Savings with the Best 6 Affordable Camera Brands</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-toms-gear-guidance/"><u>Navigating Technology with Tom's Gear Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sustainable-tools-and-practices/"><u>Sustainable Tools and Practices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-economical-path-to-enhanced-speeds-in-depth-look-at-the-raspberry-pis-ms2-hatplus/"><u>The Economical Path to Enhanced Speeds: In-Depth Look at the Raspberry Pi's M.S2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-reviews-top-picks-and-expert-advice/"><u>Tom's Hardware Reviews - Top Picks & Expert Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x-flip-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X Flip Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

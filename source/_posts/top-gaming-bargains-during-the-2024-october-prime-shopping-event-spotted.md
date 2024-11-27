@@ -1,7 +1,7 @@
 ---
 title: Top Gaming Bargains During the 2024 October Prime Shopping Event – Spotted
-date: 2024-11-14T19:47:35.526Z
-updated: 2024-11-17T18:07:13.237Z
+date: 2024-11-24T16:47:10.438Z
+updated: 2024-11-27T16:49:27.389Z
 tags:
   - laptops
 categories:
@@ -149,6 +149,10 @@ ZDNET
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $195 (save $75 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3337219c-391d-4d53-a942-60b700172ac3%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Nintendo deals
 
 Nintendo/ZDNET
@@ -199,10 +203,7 @@ Lenovo
 * [Alienware m18 R2 for $3,200 (save $800 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-computer-laptops%2Falienware-m18-r2-gaming-laptop%2Fspd%2Falienware-m18-r2-laptop%2Fuseashctom18r204&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming laptop with an Nvidia GeForce RTX 4090 GPU, Intel Core i9-14900K CPU, 64GB of RAM, 4TB of storage, and an 18-inch QHD+ display.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming monitor deals
@@ -216,10 +217,7 @@ Samsung/ZDNET
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PC gaming accessories deals
@@ -228,13 +226,6 @@ Samsung/ZDNET
 * [WD EasyStore 20TB external HDD for $330 (save $119)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-easystore-20tb-external-usb-3-0-hard-drive-black%2F6500985.p%3FskuId%3D6500985&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An external traditional HDD with 20TB of storage for backing up your entire desktop, storing raw video and picture files, and downloading large game files.
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $160 (save $60 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-05-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
 
@@ -250,27 +241,21 @@ Samsung/ZDNET
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -337,22 +322,18 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-identifying-premium-hdr-camera-options/"><u>[New] Identifying Premium HDR Camera Options</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>[New] In 2024, Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-action-hunting-cameras-of-2023/"><u>[Updated] Best Action Hunting Cameras of 2023</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-influencers-secrets-top-10-video-editing-apps-for-ig-success/"><u>[Updated] In 2024, Influencers' Secrets Top 10 Video Editing Apps for IG Success</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-macs-best-capture-exploring-leading-screen-recording-software/"><u>[Updated] Mac's Best Capture Exploring Leading Screen Recording Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-diy-circuit-creation-cytron-maker-uno-rp2040-feedback/"><u>Affordable DIY Circuit Creation: Cytron Maker Uno RP2040 Feedback</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-the-asrock-z790i-lightning-wi-fi-board-performance-small-form-factor-big-impact/"><u>Breaking Down the ASRock Z790I Lightning Wi-Fi Board Performance: Small Form Factor, Big Impact</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-the-asus-rog-strix-xg27acs-a-qhd-180hz-display-reviewed-for-speed-and-precision/"><u>Elevate Your Gaming Experience with the Asus ROG Strix XG27ACS - A QHD 180Hz Display Reviewed for Speed and Precision</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oneplus-nord-3-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from OnePlus Nord 3 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-an-unwavering-fans-perspective/"><u>In-Depth Analysis of the Huawei P30 Pro: An Unwavering Fan's Perspective</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341695305-in-depth-review-of-the-rode-streamer-x-fulfill-your-live-broadcast-needs/"><u>In-Depth Review of the Rode Streamer X: Fulfill Your Live Broadcast Needs!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-with-toms-hardware-experts/"><u>Navigate the Tech World with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-advanced-hardware-by-toms-technological-reviewers/"><u>The Ultimate Guide to Advanced Hardware by Tom's Technological Reviewers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-swf-en-format-webm-gratuitement-sur-linternet-services-de-conversion-de-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier SWF en Format Webm Gratuitement Sur L'Internet - Services De Conversion De Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleashing-sonic-beauty-with-the-loud-and-lovely-blueant-soundblade-comprehensive-review/"><u>Unleashing Sonic Beauty with the Loud & Lovely BlueAnt Soundblade - Comprehensive Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-potential-with-default-plugins-in-chatgpt-uses-and-applications/"><u>Unlocking Potential with Default Plugins in ChatGPT: Uses and Applications</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uphere-c5c-plus-d6sec-top-performing-air-coolers-for-less-than-20-bucks/"><u>UpHere C5C + D6Sec - Top Performing Air Coolers for Less Than 20 Bucks?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-list-of-trending-instagram-hashtags-for-success-for-2024/"><u>[New] The Ultimate List of Trending Instagram Hashtags for Success for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-step-by-step-to-a-tailored-facebook-memory-reel/"><u>[Updated] In 2024, Step-by-Step to a Tailored Facebook Memory Reel</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-compatibility-drivers-for-lenovo-ideapad-y470/"><u>Essential Compatibility Drivers for Lenovo IdeaPad Y470</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-rid-of-that-irritating-blue-tint-on-your-television-a-guide-with-8-simple-solutions-for-crystal-clear-viewing/"><u>Get Rid of That Irritating Blue Tint on Your Television: A Guide with 8 Simple Solutions for Crystal Clear Viewing</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guide-complet-pour-la-securement-et-le-backup-sur-windows-home-server/"><u>Guide Complet Pour La Securement Et Le Backup Sur Windows Home Server</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-conversion-guide-transforming-asf-files-into-high-quality-mp3-audio/"><u>Seamless Conversion Guide: Transforming ASF Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-recommended-foldable-smartphones/"><u>Top Recommended Foldable Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-protective-covers-for-google-pixel-6-pro-2023-edition/"><u>Top-Rated Protective Covers for Google Pixel 6 Pro - 2023 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/"><u>Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-5g-uc-indicator-in-mobile-devices/"><u>Understanding the '5G UC' Indicator in Mobile Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-magic-6-lite-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Magic 6 Lite Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/"><u>Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-are-there-no-wps-buttons-anymore-on-android-phones-a-comprehensive-guide/"><u>Why Are There No WPS Buttons Anymore on Android Phones: A Comprehensive Guide</u></a></li>
 </ul></div>
 

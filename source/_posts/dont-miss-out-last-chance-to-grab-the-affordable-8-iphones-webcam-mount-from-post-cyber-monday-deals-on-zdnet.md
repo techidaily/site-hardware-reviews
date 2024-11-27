@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out: Last Chance to Grab the Affordable $8 iPhones Webcam Mount From Post-Cyber Monday Deals on ZDNET"
-date: 2024-11-12T21:20:54.875Z
-updated: 2024-11-17T19:45:54.512Z
+date: 2024-11-24T16:47:14.889Z
+updated: 2024-11-27T16:17:42.587Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ I've seen the likes of Belkin put out [quality iPhone mounts for this purpose](h
 [Elephant Card iPhone Mount for $8 (save $2) $8 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0B93QFCP8%3Ft%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C55a82509-6e9b-4ee8-94dd-e251ac03841a%7Cdtp&dtb=1)
 
 All that's needed to make Continuity Camera happen is a Mac computer running MacOS Ventura, an iPhone running on iOS 16, and a mount to keep the handset afloat. That's where the Elephant Card comes in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -77,31 +81,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-simplifying-your-visual-composition-remove-the-background/"><u>[New] Simplifying Your Visual Composition Remove the Background</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-10-best-drawing-apps-for-chromebook/"><u>[Updated] 10 Best Drawing Apps for Chromebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-speedy-unlimited-ai-powered-video-transcoder-featuring-nvidias-gpu-boost/"><u>1. Speedy Unlimited AI-Powered Video Transcoder Featuring Nvidia's GPU Boost</u></a></li>
-<li><a href="https://win-news.techidaily.com/access-bing-chats-latest-update-with-dark-mode-your-comprehensive-tutorial-on-switching-it-on-zdnet/"><u>Access Bing Chat's Latest Update with Dark Mode: Your Comprehensive Tutorial on Switching It On | ZDNET</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/advanced-monitoring-systems-like-fiber-optic-strain-sensors-are-increasingly-used-to-provide-detailed-feedback-on-tunnel-behavior-during-construction-allowi49/"><u>Advanced Monitoring Systems Like Fiber Optic Strain Sensors Are Increasingly Used to Provide Detailed Feedback on Tunnel Behavior During Construction, Allowing for Immediate Adjustments and Enhanced Safety Protocols.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/android-leads-in-notification-innovation-outshining-iphone-features/"><u>Android Leads in Notification Innovation, Outshining iPhone Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benefits-unveiled-discover-five-compelling-reasons-to-opt-for-a-samsung-galaxy-tab-rather-than-an-ipad/"><u>Benefits Unveiled: Discover Five Compelling Reasons to Opt for a Samsung Galaxy Tab Rather Than an iPad.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/conserve-battery-and-reduce-data-usage-with-googles-streamlined-lightweight-android-applications/"><u>Conserve Battery & Reduce Data Usage with Google's Streamlined Lightweight Android Applications</u></a></li>
-<li><a href="https://fox-making.techidaily.com/easy-techniques-for-instantly-whitening-image-backgrounds/"><u>Easy Techniques for Instantly Whitening Image Backgrounds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/efficient-energy-use-in-mobile-how-to-prevent-app-drain-with-androids-hidden-power-mode/"><u>Efficient Energy Use in Mobile: How to Prevent App Drain with Android's Hidden Power Mode</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/effortless-steps-removing-repeated-data-from-your-android-device/"><u>Effortless Steps: Removing Repeated Data From Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-performance-why-you-shouldnt-shut-down-apps-on-your-android-smartphone/"><u>Enhance Performance: Why You Shouldn't Shut Down Apps on Your Android Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-power-of-choice-comparing-samsung-and-apple-ecosystem-strengths-and-benefits/"><u>Evaluating the Power of Choice: Comparing Samsung and Apple Ecosystem Strengths & Benefits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exiting-androids-safe-mode-essential-tips-and-tricks/"><u>Exiting Android's Safe Mode: Essential Tips and Tricks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/facing-low-space-on-your-android-device-a-step-by-step-guide-to-monitoring-and-increasing-memory/"><u>Facing Low Space on Your Android Device? A Step-by-Step Guide to Monitoring & Increasing Memory</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s23-tactical-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S23 Tactical Edition to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-highlight-reel-masters-best-video-editing-tools-for-any-device/"><u>New Highlight Reel Masters Best Video Editing Tools for Any Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tackle-drivers-causing-print-queue-build-up-in-win10/"><u>Tackle Drivers Causing Print Queue Build-Up in Win10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-insights-into-vector-databases/"><u>Unlocking AI Potential: Insights Into Vector Databases</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-boost-your-brand-with-masterful-looped-videos-on-instagram/"><u>[Updated] 2024 Approved Boost Your Brand with Masterful Looped Videos on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-funimate-unraveled-your-path-to-mastery-for-2024/"><u>[Updated] Funimate Unraveled Your Path to Mastery for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-text-tools-and-after-effects/"><u>2024 Approved Superior Text Tools & After Effects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/blueant-soundblade-unveiled-audibly-impressive-and-visually-stunning-review/"><u>BlueAnt Soundblade Unveiled: Audibly Impressive and Visually Stunning Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-western-digital-wd-blue-sn50n0-a-game-changing-4tb-ssd/"><u>Comprehensive Analysis of the Western Digital WD Blue SN50n0 - A Game-Changing 4TB SSD</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-new-username-assignments-in-windows-11-edition/"><u>Conquering New UserName Assignments in Windows 11 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-out-clutter-the-picsart-bg-eraser-method-for-2024/"><u>Cutting Out Clutter The Picsart Bg Eraser Method for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-computer-reviews-by-toms-gear-hub/"><u>In-Depth Computer Reviews by Tom's Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-asuss-powerhouse-the-rog-rapture-gt-be9-pro-wifi-7-gigabit-router-a-balance-of-speed-and-flexibility/"><u>In-Depth Look at Asus's Powerhouse - The ROG Rapture GT-BE9# PRO WiFi 7 Gigabit Router: A Balance of Speed and Flexibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-wisdom-from-toms-workshop/"><u>Mastering Gadgets & Components - Wisdom From Tom's Workshop</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-sony-digital-camcorder-video-editing-tutorial-for-beginners/"><u>New In 2024, Sony Digital Camcorder Video Editing Tutorial for Beginners</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

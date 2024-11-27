@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Convenient 12-Port Thunderbolt Hub: Exclusive Power Option Revealed for Windows Enthusiasts - ZDNet"
-date: 2024-11-10T16:46:08.957Z
-updated: 2024-11-17T19:15:09.878Z
+date: 2024-11-26T17:41:58.840Z
+updated: 2024-11-27T16:26:39.591Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ZDNET's key takeaways
 
 * The Orico 12-in-1 Thunderbolt 4 Dock is available on [Amazon for $340](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb75087c-918c-494f-a2d9-bf67bb19405b%7Cdtp&dtb=1).
@@ -39,10 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbb75087c-918c-494f-a2d9-bf67bb19405b%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -109,10 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -151,18 +149,14 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-comprehensive-razer-video-feedback/"><u>[New] In 2024, Comprehensive Razer Video Feedback</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-shorts-earning-strategies-what-you-need-how-much-you-can-make/"><u>[Updated] In 2024, Youtube Shorts Earning Strategies What You Need, How Much You Can Make</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-circle-designers-toolkit/"><u>2024 Approved Circle Designer's Toolkit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/companion-planting/"><u>Companion Planting</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-a-captivated-audience-in-3-steps-for-2024/"><u>Crafting a Captivated Audience in 3 Steps for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-captivating-chronicles-a-guide-to-storytelling-schools-1-8-for-2024/"><u>Crafting Captivating Chronicles A Guide to Storytelling Schools (#1-#8) for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/damage-to-central-venous-lines/"><u>Damage to Central Venous Lines</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-x7-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find X7 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-precise-methods-for-creating-impactful-client-spots-on-film/"><u>In 2024, Precise Methods for Creating Impactful Client Spots on Film</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-hurdles-of-qualification-understanding-teredos-shortcomings/"><u>The Hurdles of Qualification: Understanding Teredo's Shortcomings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-pimoroni-nvme-base-duo-solid-state-drive/"><u>The Ultimate Guide to the Pimoroni NVMe Base Duo Solid State Drive</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/unlocking-the-treasure-of-subscribers-in-5-seconds-master-email-marketing-with-massmail-software-solutions/"><u>Unlocking the Treasure of Subscribers in 5 Seconds - Master Email Marketing with MassMail Software Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/viewsonic-xg272-2k-oled-monitor-at-a-glance-a-vibrant-and-high-speed-choice-for-gamers/"><u>ViewSonic XG272-2k OLED Monitor at a Glance - A Vibrant and High-Speed Choice for Gamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundwave-statements-on-whatsapp-snapshots/"><u>[New] Soundwave Statements on WhatsApp Snapshots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-complete-guide-to-mastering-games-with-kinemaster-android/"><u>2024 Approved The Complete Guide to Mastering Games with KineMaster Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-challenges-the-future-of-ai-security/"><u>Augmented Challenges: The Future of AI Security</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-oppo-by-fonelab-android-recover-music/"><u>How to recover old music from your Oppo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-fix-shaky-gopro-videos/"><u>In 2024, How to Fix Shaky GoPro Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-in-depth-hardware-analysis/"><u>Navigating the World of Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-cutting-edge-reviews-and-advice/"><u>Tom's Tech Insights: Cutting-Edge Reviews and Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-on-hardware-and-pc-building/"><u>Tom's Tech Insights: In-Depth Guides on Hardware and PC Building</u></a></li>
 </ul></div>
 

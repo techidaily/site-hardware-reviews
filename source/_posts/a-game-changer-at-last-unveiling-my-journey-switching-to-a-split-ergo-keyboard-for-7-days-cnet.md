@@ -1,7 +1,7 @@
 ---
 title: A Game-Changer at Last? Unveiling My Journey Switching to a Split Ergo Keyboard for 7 Days | CNET
-date: 2024-11-15T16:20:37.967Z
-updated: 2024-11-17T21:23:13.120Z
+date: 2024-11-20T19:01:52.999Z
+updated: 2024-11-27T16:41:29.992Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/80155af88523c332c941fe671488cc80343c6425d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -109,10 +113,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -151,20 +152,17 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-prime-youtube-personalities-and-their-stellar-subscriber-tally/"><u>[New] 2024 Approved Prime YouTube Personalities and Their Stellar Subscriber Tally</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-connecting-to-whatsapp-chats-from-a-mac-computer/"><u>Complete Tutorial: Connecting to WhatsApp Chats From a Mac Computer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-to-ram-overclocking-on-asus-rog-strix-x399-evo-how-fast-should-you-go/"><u>Essential Guide to RAM Overclocking on ASUS ROG Strix X399-EVO: How Fast Should You Go?</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-items-to-save-before-fresh-install-of-windows-10-a-comprehensive-checklist/"><u>Essential Items To Save Before Fresh Install of Windows 10: A Comprehensive Checklist</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-a-guide-by-toms-hardware-experts/"><u>Exploring the World of Computing with Tom - A Guide by Tom's Hardware Experts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-samsung-galaxy-s24-by-drfone-android/"><u>Full Guide to Unlock Your Samsung Galaxy S24</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-huawei-p60-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Huawei P60</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964462380-introducing-galaxs-new-high-performance-motherboards-with-ddr5-powerful-vrm-and-pmic-features/"><u>Introducing Galax's New High-Performance Motherboards with DDR5, Powerful VRM & PMIC Features!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/macbook-air-available-at-an-unbeatable-price-just-280-the-latest-deal-on-zdnet/"><u>MacBook Air Available at an Unbeatable Price: Just $280 - The Latest Deal on ZDNet!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-expert-insights-from-toms-electronics-hub/"><u>Navigating the Circuitry: Expert Insights From Tom's Electronics Hub</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/by-step-lyric-video-crafting-with-lyric-video-maker-for-2024/"><u>Step-by-Step Lyric Video Crafting with Lyric Video Maker for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-insights/"><u>Tom's Tech Reviews: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-gadget-insights-and-performance-analysis/"><u>Tom's Tech Reviews: Expert Gadget Insights and Performance Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-intels-core-i9-11900k-achieving-7ghz-overclock-with-advanced-ln2-techniques/"><u>Unleashing the Power of Intel's Core I9-11900K: Achieving 7GHz Overclock with Advanced LN2 Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-expert-choice-for-quick-vid-boosting/"><u>[New] Android's Expert Choice for Quick Vid Boosting</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-exploring-options-for-advanced-livestreaming-setups/"><u>[Updated] In 2024, Exploring Options for Advanced Livestreaming Setups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-zero-cost-movie-previews-download-youtube-cover-arts-easy/"><u>[Updated] Zero-Cost Movie Previews Download YouTube Cover Arts Easy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-seamless-integration-instagram-meets-tiktok/"><u>2024 Approved Seamless Integration Instagram Meets TikTok</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-solutions-exclusive-windows-systems-for-dsswitch-players/"><u>Cutting-Edge Solutions: Exclusive Windows Systems for DS/Switch Players</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y27-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y27 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/netgears-value-proposition-with-the-orbi-770-mesh-router-balancing-price-point-and-performance/"><u>Netgear's Value Proposition with the Orbi 770 Mesh Router - Balancing Price Point and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discoveries-the-world-of-toms-technology-insight/"><u>Pioneering Hardware Discoveries: The World of Tom's Technology Insight</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-a54-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy A54 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-magic5-ultimate-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor Magic5 Ultimate Users</u></a></li>
 </ul></div>
 

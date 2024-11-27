@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Choosing a Laptop for Graphic Artists: Expertly Assessed Models and Tips | TechRadar"
-date: 2024-11-11T21:30:39.961Z
-updated: 2024-11-17T20:25:06.820Z
+date: 2024-11-21T17:18:47.152Z
+updated: 2024-11-27T17:52:00.447Z
 tags:
   - laptops
 categories:
@@ -26,6 +26,10 @@ We prioritized machines that scored well in durability, portability, and of cour
 
 At ZDNET, we've [thoroughly tested the best laptops for college](https://www.zdnet.com/article/how-we-test-laptops/) to help you pick the right one, no matter what you're studying. Our pick for the best laptop for college overall goes to the [Apple MacBook Air M3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CX24JRLR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf96a2647-48a5-4f5e-a08f-e6332b6f1289%7Cdtp&dtb=1). In terms of portability, sleek form factor, and a solid battery life, the MacBook Air M3 is as light as it is powerful, and is future-proofed to last the duration of a multi-year degree program. It might not be the best pick for you, however, so we included other options that round out the spectrum of most common use cases. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best laptop for college in 2024
 
 Show less 
@@ -40,6 +44,10 @@ Pros
 Cons 
 * Limited ports
 * Uninspiring speakers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
 
@@ -74,6 +82,10 @@ Cons
 * No HDMI or USB-A ports
 
 ## HP Dragonfly Pro Chromebook
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Chromebook for college
 
@@ -135,21 +147,7 @@ Cons
 * Has a tendency to run warm
 * Bloatware
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Asus ROG Zephyrus G14
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best college laptop for gaming
 
@@ -177,10 +175,7 @@ Cons
 * Comes with multiple supporting parts
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo Yoga Book 9i
@@ -212,10 +207,7 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop for college for you?
@@ -229,6 +221,10 @@ The right college for laptop depends on first on what you want to get out of it,
 | Acer Aspire Go 15                   | An affordable laptop that can cover the basics, but don't need anything fancy.                        |
 | Asus ROG Zephyrus G14               | A laptop you can take to class, but can double as a gaming machine.                                   |
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -258,10 +254,7 @@ These are the factors that I weighed when selecting the best laptops for college
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which operating system should you choose: Windows, MacOS, Chrome OS, or Linux?
@@ -271,13 +264,6 @@ While every computing platform has its loyal supporters, most people end up usin
 **Also: [The best security keys you can buy: Expert tested](https://www.zdnet.com/article/best-security-key/)**
 
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
 
@@ -331,21 +317,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-champions-tech-the-ultimate-gaming-toolkit/"><u>[New] 2024 Approved Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-comprehensive-analysis-of-the-acer-predator-orion-egpu/"><u>Affordable Excellence: Comprehensive Analysis of the Acer Predator Orion eGPU</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-techniques-to-beat-a-lynel-in-the-legend-of-zelda-botw/"><u>Essential Techniques to Beat a Lynel in The Legend of Zelda: BOTW</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-sony-xperia-5-v-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/guide-effortlessly-recover-chosen-information-from-your-iphone/"><u>Guide: Effortlessly Recover Chosen Information From Your iPhone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-s23-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy S23 to Protect Your Individual Information</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-nokia-c210-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Nokia C210 to Another | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/if-you-or-someone-else-is-experiencing-auditory-hallucinations-it-can-be-helpful-to-seek-medical-advice-from-a-primary-care-provider-or-psychiatrist-who-can654/"><u>If You or Someone Else Is Experiencing Auditory Hallucinations, It Can Be Helpful to Seek Medical Advice From a Primary Care Provider or Psychiatrist Who Can Offer Appropriate Assessments and Guidance Based on the Individual Case.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-components-with-toms-guide/"><u>Inside the World of Components with Tom's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-mobile-gaming-on-windows-with-asus-rog-ally-x-an-insightful-revenue-at-an-elevated-price/"><u>Mastering Mobile Gaming on Windows with Asus ROG Ally X - An Insightful Revenue at an Elevated Price</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-latest-computer-hardware-trends-guided-by-toms-gear-review/"><u>Navigate the Latest Computer Hardware Trends – Guided by Tom's Gear Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-unveiling-the-best-in-hardware-technology/"><u>Pioneering Reviews by Tom: Unveiling the Best in Hardware Technology</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resident-evil-village-how-to-fix-persistent-mouse-problems/"><u>Resident Evil Village: How To Fix Persistent Mouse Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-desktop-not-accessible-issue-on-cwindowssystem32configsystemprofile/"><u>Resolving the 'Desktop Not Accessible' Issue on C: Windows System32 Config SystemProfile</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-savvy-consumers-discovering-quality-hardware-with-tom/"><u>The Ultimate Resource for Tech Savvy Consumers - Discovering Quality Hardware with Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-a-guide-to-toms-computer-components-and-systems/"><u>Unlocking Performance: A Guide to Tom's Computer Components and Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-cutting-edge-tutorial-for-enabling-automatic-voice-conversion-in-slides/"><u>[New] 2024 Approved Cutting Edge Tutorial for Enabling Automatic Voice Conversion in Slides</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screensnap-it-all-high-quality-netflix-on-mac/"><u>[New] ScreenSnap It All High-Quality Netflix on Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-role-of-analytics-in-achieving-igtv-viral-status-for-2024/"><u>[Updated] The Role of Analytics in Achieving IGTV Viral Status for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-burst-function-in-gopro-cameras/"><u>2024 Approved Unveiling Burst Function in GoPro Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-utilizing-edges-split-screen-feature-pip/"><u>2024 Approved Utilizing Edge's Split Screen Feature PIP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-asus-rog-phone-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Asus ROG Phone 8 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-influence-on-software-development-shaping-future-workflows/"><u>AI's Influence on Software Development: Shaping Future Workflows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-reviews-the-ultimate-guide/"><u>Exploring Tom's Computer Reviews: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-emporium-comprehensive-guides-and-reviews/"><u>Exploring Tom's Tech Emporium: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-reviews-top-picks-and-insights/"><u>Exploring Tom's Tech Reviews: Top Picks & Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fix-mobile-device-errors-fb-vids-not-loading/"><u>In 2024, Fix Mobile Device Errors FB Vids Not Loading</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-insights-by-tom-exploring-advanced-technology-hardware/"><u>Innovative Gadget Insights by Tom - Exploring Advanced Technology Hardware</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-a-comprehensive-selection-of-free-must-hear-game-sounds-for-2024/"><u>New A Comprehensive Selection of Free, Must-Hear Game Sounds for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-generation-hbm-manufacturing-set-to-launch-at-new-memory-fab-by-sk-hynix-in-indiana-a-387-billion-dollar-venture/"><u>Next Generation HBM Manufacturing Set to Launch at New Memory Fab by SK Hynix in Indiana - A 3.87 Billion Dollar Venture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroup-t-force-vulcan-alpha-ddr5-memory-c38-review-the-perfect-match-for-amd-ryzen-7000-series/"><u>TeamGroup T-Force Vulcan Alpha DDR5 Memory (C38) Review – The Perfect Match for AMD Ryzen 7000 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Gear: The Ultimate Guide to Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-analysis/"><u>Tom's Tech Insights: Comprehensive Reviews and Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/your-roadmap-to-seamless-cloud-gaming-with-xbox-game-pass-ultimate-everything-you-need-to-know/"><u>Your Roadmap to Seamless Cloud Gaming with Xbox Game Pass Ultimate - Everything You Need to Know</u></a></li>
 </ul></div>
 

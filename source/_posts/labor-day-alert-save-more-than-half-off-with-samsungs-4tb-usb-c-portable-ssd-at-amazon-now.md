@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Alert: Save More than Half Off with Samsung’s 4TB USB-C Portable SSD at Amazon Now!"
-date: 2024-09-19 15:29:43
-updated: 2024-09-20 10:24:12
+date: 2024-11-20T16:37:48.905Z
+updated: 2024-11-27T16:21:09.219Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,25 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-techniques-to-halt-live-streams-in-qt-player/"><u>[New] In 2024, Techniques to Halt Live Streams in QT Player</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-future-of-music-freedom-an-insightful-review-of-pazera-tools/"><u>[Updated] 2024 Approved The Future of Music Freedom An Insightful Review of Pazera Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-a-comprehensive-guide-to-vr-travel-adventures-for-2024/"><u>[Updated] A Comprehensive Guide to VR Travel Adventures for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-filmmakers-delight-filmoras-best-aspects-exposed/"><u>[Updated] Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-ally-x-tested-exceptional-handheld-pc-gaming-experience-comes-with-a-hefty-bill/"><u>Asus ROG Ally X Tested – Exceptional Handheld PC Gaming Experience Comes With a Hefty Bill</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-managed-servers-vps-cloud-and-sharing-options/"><u>Comprehensive Analysis of Hostinger's Managed Servers: VPS, Cloud & Sharing Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-technology-tips-at-toms-hardware-destination/"><u>Discover Cutting-Edge Technology Tips at Tom's Hardware Destination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/efficiently-clearing-up-disk-space-on-macos-a-comprehensive-guide-for-better-performance/"><u>Efficiently Clearing Up Disk Space on macOS: A Comprehensive Guide for Better Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-pova-5-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Pova 5 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-electronics-with-toms-hardware-guides/"><u>Navigating New Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solution-public-hearings-allow-stakeholders-and-residents-to-voice-concerns-or-support-potentially-influencing-modifications-to-the-division-plan-for-better18/"><u>Solution: Public Hearings Allow Stakeholders and Residents to Voice Concerns or Support, Potentially Influencing Modifications to the Division Plan for Better Alignment with Community Interests.</u></a></li>
+</ul></div>
+

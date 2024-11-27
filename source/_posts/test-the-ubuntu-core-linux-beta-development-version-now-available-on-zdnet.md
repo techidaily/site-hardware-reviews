@@ -1,7 +1,7 @@
 ---
 title: "Test the Ubuntu Core Linux Beta: Development Version Now Available on ZDNet"
-date: 2024-09-17 18:12:40
-updated: 2024-09-20 10:14:25
+date: 2024-11-22T17:56:17.839Z
+updated: 2024-11-27T17:04:44.236Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,27 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-watching-to-archiving-how-to-record-with-ease-netflix-and-macos-for-2024/"><u>[Updated] From Watching to Archiving How to Record with Ease, Netflix & MacOS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apex-athletes-snowspeedcross-22-recaps/"><u>2024 Approved Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>2024 Approved Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-cutting-edge-learning-with-the-brainiac-raspberry-pi-ai-kit-evaluation/"><u>Experience Cutting-Edge Learning with the 'Brainiac' Raspberry Pi AI Kit Evaluation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-breakdown-the-blend-of-excellent-sonic-qualities-and-simplicity-in-the-beyerdynamic-mmx-30e-pro-headphones/"><u>Expert Breakdown: The Blend of Excellent Sonic Qualities and Simplicity in the Beyerdynamic MMX 30E Pro Headphones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-logitech-c270-high-definition-webcam-on-windows-10-and-11/"><u>Installing Logitech C270 High Definition Webcam on Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-hardware-choices-with-expert-advice-from-toms-domain/"><u>Mastering Modern Hardware Choices with Expert Advice From Tom's Domain</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavimovvob/"><u>Movaviで簡単にフリーオンラインMOV/VOBコンバート - 家計簿</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pi52-icetower-plus-revolutionizes-raspberry-pi-5-cooling-efficiency-in-our-in-depth-review/"><u>Pi52 IceTower Plus Revolutionizes Raspberry Pi 5 Cooling Efficiency in Our In-Depth Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-expert-review-on-the-id-cooling-frozn-a62ebit-pro-series-for-enthusiasts/"><u>Unveiling the Power: Expert Review on the ID-Cooling Frozn A62ebit - Pro Series for Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/western-digitals-latest-achievement-in-storage-an-intriguing-review-of-the-4tb-wd-blue-sn50n0-ssd/"><u>Western Digital's Latest Achievement in Storage: An Intriguing Review of the 4TB WD Blue SN50n0 SSD</u></a></li>
+</ul></div>
+

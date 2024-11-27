@@ -1,7 +1,7 @@
 ---
 title: Windows Fans Rejoice! Lenovo Unveils a Competing Mac Studio, Promising Superior Features
-date: 2024-11-11T21:15:49.341Z
-updated: 2024-11-17T21:32:58.841Z
+date: 2024-11-20T18:10:15.411Z
+updated: 2024-11-27T17:42:50.240Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ At [CES 2024](https://www.zdnet.com/topic/ces-2024/), Lenovo plans to show off a
 **Also: [CES 2024: What's Next in Tech](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/)**
 
 Without question, the new PC resembles a [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-m2-ultra-review/), coming with a main desktop unit in the shape of a small box alongside a monitor. It houses all of the major components like a neural processing unit, or NPU for short. This utilizes [AI](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) to provide a third resource for the computer, improving its overall performance. It can even be upgraded, letting you modulate the device's performance however you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -81,29 +85,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-enhancing-storytelling-with-jump-cuts-technique/"><u>[New] Enhancing Storytelling with Jump Cuts Technique</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-pioneering-metaverse-brand-presence/"><u>[New] In 2024, Pioneering Metaverse Brand Presence</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-5-best-photo-video-maker-with-music-you-should-know-for-2024/"><u>[Updated] 5 Best Photo Video Maker With Music You Should Know for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/bridging-worlds-a-step-by-step-guide-to-connect-linux-wsl-with-your-windows-desktops/"><u>Bridging Worlds: A Step-by-Step Guide to Connect Linux (WSL) with Your Windows Desktops</u></a></li>
-<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-infinix-note-30-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Note 30 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-fixing-steelseries-arctis-1s-unresponsive-built-in-mic/"><u>Expert Tips for Fixing SteelSeries Arctis 1'S Unresponsive Built-In Mic</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/personalizing-the-macos-sonoma-menu-bar-a-step-by-step-guide-to-customization-and-organization/"><u>Personalizing the MacOS Sonoma Menu Bar: A Step-by-Step Guide to Customization & Organization</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-the-ultimate-bargain-279-32-dell-s322dmg-monitor-perfect-for-gamers-this-memorial-day/"><u>Score the Ultimate Bargain: $279 32” Dell S322DMG Monitor, Perfect for Gamers This Memorial Day!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/spectacular-gaming-screen-bargain-acer-nitro-34-curved-wqhd-monitor-for-just-200-on-newegg/"><u>Spectacular Gaming Screen Bargain – Acer Nitro 34 Curved WQHD Monitor for Just $200 on Newegg.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer & Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-cutting-edge-hardware-by-toms-technology-digest/"><u>Ultimate Guide to Cutting-Edge Hardware by Tom's Technology Digest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-exploring-the-finest-computer-screens/"><u>Ultimate Selection: Exploring the Finest Computer Screens</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-apple-iphone-se-2020-an-intelligent-choice-for-savvy-users/"><u>Unveiling the Apple iPhone SE (2020): An Intelligent Choice for Savvy Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-meme-marchers-the-path-to-viral-twitcinema/"><u>[New] Meme Marchers The Path to Viral TwitCinema</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-proven-sites-for-downloading-premier-pixel-tones/"><u>[New] Proven Sites for Downloading Premier Pixel Tones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-high-end-picture-sources-at-zero-cost/"><u>[Updated] Unveiling High-End Picture Sources at Zero Cost</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-from-script-to-splendor-animating-effects-unbound/"><u>2024 Approved From Script to Splendor Animating Effects Unbound</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-invisible-edits-ensuring-confidentiality-in-media/"><u>2024 Approved Invisible Edits Ensuring Confidentiality in Media</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmark-battles-is-the-samsung-book4-edge-outclassed-by-iphone-12-in-speed-and-efficiency/"><u>Benchmark Battles: Is the Samsung Book4 Edge Outclassed by iPhone 12 in Speed and Efficiency?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-buys-ryzen-ai-300-laptops-delayed-to-july-28th-explore-updated-availability-online/"><u>Best Buy's Ryzen AI 300 Laptops Delayed to July 28Th – Explore Updated Availability Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-with-toms-digital-world-your-guide-to-gadgets-and-components/"><u>Delving Into Hardware with Tom's Digital World: Your Guide to Gadgets and Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/digital-insights-with-toms-hardware-guides/"><u>Digital Insights with Tom's Hardware Guides</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-leap-in-computing-global-premiere-risc-v-laptop-receives-unprecedented-core-and-speed-enhancements-including-state-of-the-art-ai-features/"><u>Groundbreaking Leap in Computing: Global Premiere RISC-V Laptop Receives Unprecedented Core and Speed Enhancements, Including State-of-the-Art AI Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-record-and-save-voices-on-iphone-efficiently/"><u>How to Record & Save Voices on iPhone Efficiently</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-omnibook-ultra-14-the-future-of-laptop-innovation-with-integrated-amd-ryzen-ai-300-chipset-and-top-notch-thunderbolt-4-speed/"><u>HP's OmniBook Ultra 14: The Future of Laptop Innovation with Integrated AMD Ryzen AI 300 Chipset & Top-Notch Thunderbolt 4 Speed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme Narzo 60x 5G?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-13-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 13 You Should Try Out</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-toms-authoritative-take-on-tech-advanceby-tom/"><u>Mastering Equipment: Tom's Authoritative Take on Tech Advanceby Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-innovations-with-detailed-reviews-from-toms-domain/"><u>Mastering Modern Tech Innovations with Detailed Reviews From Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-and-gadgets-with-wisdom-from-toms-electronic-oasis/"><u>Mastering Your PC and Gadgets with Wisdom From Tom's Electronic Oasis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-basics-of-picture-in-picture-in-ff/"><u>The Basics of Picture-in-Picture in FF</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

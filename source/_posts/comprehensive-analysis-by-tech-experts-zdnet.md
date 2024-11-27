@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis by Tech Experts | ZDNet
-date: 2024-11-16T18:36:54.828Z
-updated: 2024-11-17T16:33:40.679Z
+date: 2024-11-20T17:57:52.455Z
+updated: 2024-11-27T16:19:31.156Z
 tags:
   - laptops
 categories:
@@ -28,13 +28,6 @@ Buckle up, because the future is here, and it's fast, furious, and absolutely el
 
 When you visit your favorite online retailer, you'll find numerous brands offering a wide variety of M.2 storage drives. So, which one should you choose? Don't worry: I've simplified the process by selecting the best M.2 SSDs for you. My top recommendation is still the [Crucial P2 1TB 3D M.2 SSD](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCrucial-500GB-NAND-NVMe-2400MB%2Fdp%2FB086BGWNY8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1fbfceb5-7cee-4997-a8d4-c88187191947%7Cdtp&dtb=1), a drive that makes it to the top of the list because of its affordable price, excellent performance, and high reliability.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best M.2 SSDs of 2024
 
 Show less 
@@ -49,14 +42,11 @@ Pros
 Cons 
 * Not the fastest drive by far
 
-## Crucial P2 1TB 3D M.2 SSD
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Crucial P2 1TB 3D M.2 SSD
 
 ### Best M.2 SSD overall
 
@@ -80,6 +70,10 @@ Pros
 
 Cons 
 * Expensive
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Series SSD
 
@@ -110,13 +104,14 @@ Cons
 * Can get quite hot in use
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WD\_BLACK 4TB SN850X Gaming M.2 SSD
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best gaming M.2 SSD
 
@@ -133,6 +128,10 @@ Show Expert Take Show less
 Show less 
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CSPQ4LZF%2Fref%3Dasc%5Fdf%5FB0CSPQ4LZF1727866800000%3Fcreative%3D395261%26creativeASIN%3DB0CSPQ4LZF%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1fbfceb5-7cee-4997-a8d4-c88187191947%7Cdtp&dtb=1)[View now at B&H Photo-Video](https://www.bhphotovideo.com/c/product/1817161-REG/pny%5Fm280cs3150hs%5F1tb%5Frb%5Fcs3150%5F1tb%5Fm%5F2%5Fnvme.html/BI/23252/KBID/28790/SID/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## PNY CS3150 1TB SSD with Dual Fan Black Heatsink
 
@@ -164,13 +163,6 @@ Cons
 * The price
 * Can get pretty hot in use
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung 990 Pro w/Heatsink SSD
 
 ### Most powerful M.2 SSD, perfect for the PS5
@@ -199,14 +191,11 @@ Pros
 Cons 
 * Need to be comfortable handling components to assemble it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Satechi USB-C Aluminum Tool-Free Enclosure for M.2 PCIE NVME and SATA SSD
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best DIY M.2 SSD
 
@@ -219,13 +208,6 @@ You buy the drive, pick the M.2 drive you need (if you're like me, you probably 
 I think this is a great alternative to buying a ready-made external drive. With this setup, if you ever need to replace or upgrade the drive, you can do it quickly and easily. 
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the best M.2 SSD storage?
 
@@ -245,10 +227,7 @@ Thankfully, there are numerous options that can offer a range of price points an
 \*MSRP at the time of writing. Please note that actual prices may vary depending on available sales, deals, discounts, and coupons.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the right M.2 storage drive for you?
@@ -264,6 +243,10 @@ Two things are going to add to the price of your M.2 purchase -- speed and capac
 | Samsung 990 PRO w/ Heatsink SSD                                           | A high performance drive with decent capacity and, and long life. If you want extreme reliability, this is the drive for you. It's also perfect for upgrading your PS5.          |
 | Satechi USB-C Aluminum Tool-Free Enclosure for M.2 PCIE NVME and SATA SSD | To build your own M.2 portable storage drive. A great way to make yourself a fast external storage drive.                                                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these M.2 SSD storage drives?
 
 I only recommend products that I've tested or used personally, and while there are many M.2 SSDs on the market, not every one is built the same. Here are some other factors I considered when testing and curating my top selections.
@@ -275,19 +258,6 @@ I only recommend products that I've tested or used personally, and while there a
 ## What is an M.2 SSD storage drive?
 
 M.2 is a type of solid-state drive (SSD) that is small and used for data storage. It connects directly to the motherboard of a computer, rather than using a traditional SATA III connection. This allows for faster data transfer speeds and improved performance compared to traditional SATA-based SSDs. 
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do you pronounce M.2?
 
@@ -318,6 +288,10 @@ Find the M.2 connector on your motherboard (consult your manual if you are unsur
 Insert the connector all the way into the slot, and then gently push it down flat to the motherboard, and finally affix it to the board using the retaining screw.
 
 Done!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative M.2 drives worth considering?
 
@@ -377,21 +351,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/njoy-endless-creativity-discover-the-best-in-cheap-online-video-downloading-for-2024/"><u>[New] Enjoy Endless Creativity Discover the Best in Cheap, Online Video Downloading for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-primer-on-aerial-robots-drone-dynamics-demystified/"><u>[New] In 2024, A Primer on Aerial Robots Drone Dynamics Demystified</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-quick-fixes-to-enhance-your-youtube-reach/"><u>[Updated] Quick-Fixes to Enhance Your YouTube Reach</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-gecata-watchers-complete-appraisal/"><u>2024 Approved GECATA Watcher's Complete Appraisal</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alien-fireteam-elite-ultimate-solution-for-persistent-pc-game-crashes/"><u>Alien Fireteam Elite - Ultimate Solution for Persistent PC Game Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/android-integration-in-windows-11-for-effective-multitasking/"><u>Android Integration in Windows 11 for Effective Multitasking</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-electronics-with-tom-an-authority-on-hardware/"><u>Deep Dive Into Electronics with Tom - An Authority on Hardware</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-gadgets-and-gizmos-from-toms-perspective/"><u>Inside Scoop on Gadgets and Gizmos From Tom's Perspective</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lenovo-introduces-advanced-desktops-and-laptops-featuring-chinas-premier-cpu-producer-a-move-echoed-by-five-more-oem-brands-with-zhoaxin-integration/"><u>Lenovo Introduces Advanced Desktops and Laptops Featuring China's Premier CPU Producer: A Move Echoed by Five More OEM Brands with Zhoaxin Integration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-gear-with-tom-a-trusted-source-for-computer-equipment-reviews/"><u>Master the Latest Gear with Tom - A Trusted Source for Computer Equipment Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/p27a2r-unveiled-the-titan-army-gaming-monitor-that-delivers-on-value-and-a-buttery-smooth-180-hz-experience/"><u>P27A2R Unveiled: The Titan Army Gaming Monitor that Delivers on Value and a Buttery Smooth 180 Hz Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pny-rp60-1tb-usb-flash-drive-assessment-solid-performance-with-no-distinct-advantages/"><u>PNY RP60 1TB USB Flash Drive Assessment: Solid Performance with No Distinct Advantages</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovation</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722974910264-update-your-epson-l3150-software-compatible-with-win10-win8-and-win7-get-it-here/"><u>Update Your Epson L3150 Software: Compatible with Win10, Win8 & Win7 – Get It Here</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-high-performance-pcs-with-toms-hardware-insights/"><u>Your Guide to High-Performance PCs with Tom's Hardware Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discover-the-best-offline-ios-games-your-ultimate-guide-for-2024/"><u>[New] Discover the Best Offline iOS Games – Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services-for-2024/"><u>[New] The Ultimate Conversion Handbook From GIF to Sticker Across Messaging Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-the-impact-of-aurora-hdr-on-photography/"><u>[New] Understanding the Impact of Aurora HDR on Photography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-building-gear-a-quick-start-guide-for-2024/"><u>[Updated] Channel-Building Gear A Quick Start Guide for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-on-a-budget-an-in-depth-look-at-the-cytrn-maker-uno-rp2040-board-for-hobbyists/"><u>Building on a Budget: An In-Depth Look at the Cytrn Maker Uno RP2040 Board for Hobbyists</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-13-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 13</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-insights/"><u>Exploring Computer Gear with Tom's Hardware Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-leveraging-hashtags-for-a-huge-impact-on-your-youtube-views/"><u>In 2024, Leveraging #Hashtags for a Huge Impact on Your YouTube Views</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-building-insights-from-toms-hardware-expertise/"><u>Mastering PC Building: Insights From Tom’s Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-and-electronics-gear-toms-insights/"><u>The Ultimate Resource for Computer and Electronics Gear: Tom’s Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews and Advice</u></a></li>
 </ul></div>
 

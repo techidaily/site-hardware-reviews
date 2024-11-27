@@ -1,7 +1,7 @@
 ---
 title: My Experience with the New Apple M2 MacBook Air - Tears of Joy or Frustration? A Deep Dive on ZDNet
-date: 2024-11-13T20:43:45.673Z
-updated: 2024-11-17T20:07:23.456Z
+date: 2024-11-24T18:49:41.703Z
+updated: 2024-11-27T16:43:54.003Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ However, the new slimline design also came with a chunky price increase of $200/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Price & options
 
 The design of the new MacBook Air is certainly striking -- but so is that price increase. To preserve the MacBook Air's position as 'Apple's most affordable laptop', the [M1 model from 2020](https://www.apple.com/shop/buy-mac/macbook-air/with-m1-chip) remains on sale at its original price point, starting at $999/£999 with 8GB of unified memory and 256GB of solid-state storage. 
@@ -49,10 +53,7 @@ The [new 2022 model](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip
 Storage upgrades are equally expensive, costing an additional $200/£200 for 1TB, or $600/£600 for 2TB. There's one other option available too, as the standard 30W power adapter can be upgraded to a fast-charging 67W unit, or to a 35W adapter with two USB-C ports, with both options costing $20/£30\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Design & features
@@ -72,10 +73,7 @@ The magnetic MagSafe power connector has returned to the MacBook Air, alongside 
 Image: Cliff Joseph / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance & battery life
@@ -91,10 +89,7 @@ You are paying for that extra performance, of course, so the M1 version of the M
 [Apple MacBook Air (M2, 2022) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m2-chip&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusions
@@ -137,10 +132,7 @@ Image: Apple
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -184,20 +176,21 @@ Image: Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-voice-clone.techidaily.com/solved-epic-games-launcher-black-screen/"><u>[SOLVED] Epic Games Launcher Black Screen</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-essentials-navigating-whatsapp-call-functionality/"><u>[Updated] 2024 Approved The Essentials Navigating WhatsApp Call Functionality</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-for-enhanced-job-hunting/"><u>6 Effective Strategies: Leveraging ChatGPT for Enhanced Job Hunting</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/amazing-savings-up-to-40-off-on-the-samsung-frame-tv-exclusive-prime-day-offer-from-zdnet/"><u>Amazing Savings: Up to $40 %$ Off on the Samsung Frame TV - Exclusive Prime Day Offer From ZDNet!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-nuc-970-mini-pc-assessment-high-performance-powerhouse-in-a-small-form-factor/"><u>Asus ROG NUC 970 Mini PC Assessment: High-Performance Powerhouse in a Small Form Factor</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/favorite-stock-photos-a-dive-into-memes-and-origins-for-2024/"><u>Favorite Stock Photos A Dive Into Memes & Origins for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-more-storage-on-a-budget-with-asrocks-m2-b760-motherboard-review/"><u>Get More Storage on a Budget with ASRock's M.2 B760 Motherboard Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-xlsx-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to add a digital signature field to a .xlsx </u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-evaluating-bluehosts-offerings-in-cloud-vps-and-shared-hosting-environments/"><u>In-Depth Review: Evaluating Bluehost's Offerings in Cloud, VPS, and Shared Hosting Environments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-hp-omnibook-x-experience-a-comprehensive-dive-into-its-16-hour-battery-life-and-xpower-technology/"><u>Inside the HP OmniBook X Experience: A Comprehensive Dive Into Its 16-Hour Battery Life and XPower Technology</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lift-screen-limitations-in-windows-11-with-these-methods/"><u>Lift Screen Limitations in Windows 11 with These Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-at-toms-tech-hub/"><u>Navigating the World of PC Components at Tom's Tech Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-microsofts-latest-surface-pro-exceptional-beauty-overshadowed-by-uninspiring-ai-innovations/"><u>The Verdict on Microsoft's Latest Surface Pro: Exceptional Beauty Overshadowed by Uninspiring AI Innovations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/wintv-guide-effective-techniques-in-windows-based-live-recording-for-2024/"><u>WinTV Guide Effective Techniques in Windows-Based Live Recording for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-spectacular-racing-sims-number-one-to-five/"><u>[New] In 2024, Spectacular Racing Sims Number One to Five</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest-for-2024/"><u>[Updated] A Comprehensive Guide to Turning Vids Into MP3 on Pinterest for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-value-top-6-discounted-4k-hd-projectors/"><u>[Updated] Best Value Top 6 Discounted 4K HD Projectors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-digital-recording-sounds-and-speech-capture-for-2024/"><u>[Updated] Digital Recording Sounds & Speech Capture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-thriving-in-the-social-media-jungle-facebooks-essentials/"><u>[Updated] In 2024, Thriving in the Social Media Jungle Facebook's Essentials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-10-engaging-mobile-idle-puzzles/"><u>2024 Approved Top 10 Engaging Mobile Idle Puzzles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-6ghz-dual-band-mesh-wifi-system-evaluation-introducing-the-next-generation-of-high-speed-connectivity/"><u>Asus RT-BE96U 6GHz Dual-Band Mesh WiFi System Evaluation: Introducing the Next Generation of High-Speed Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-pioneering-insights-by-tom-on-hardware-solutions/"><u>Decoding Tech: Pioneering Insights by Tom on Hardware Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-audio-adjustments-correcting-weak-sounds-on-windows-11-computers/"><u>DIY Audio Adjustments: Correcting Weak Sounds on Windows 11 Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-standard-setter-a-thorough-review-of-sabrents-m2-22amo-1tb-rocket-nano-ssd/"><u>Evaluating the Standard Setter: A Thorough Review of Sabrent's M.2 22Amo 1TB Rocket Nano SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experiencing-the-speed-with-asus-zenbook-s16-and-its-integrated-amd-ryzen-ai9-hx-370-processor-reviewed-here/"><u>Experiencing the Speed with ASUS Zenbook S16 and Its Integrated AMD Ryzen AI9 HX-370 Processor Reviewed Here</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-of-the-aoc-agon-pro-ag456uczd-a-detailed-look-at-its-45-ultra-wide-oled-gaming-display-with-extremely-curved-edges-and-fast-refresh-rates.3/"><u>Expert Evaluation of the AOC Agon Pro AG456UCZD – A Detailed Look at Its 45 Ultra-Wide OLED Gaming Display with Extremely Curved Edges and Fast Refresh Rates!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-camon-20-premier-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Camon 20 Premier 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a54-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A54 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-valkyrie-syn-2naio-liquid-cooler-tested-top-notch-efficiency-and-a-call-for-software-enhancement/"><u>The Valkyrie Syn 2nAIO Liquid Cooler Tested: Top-Notch Efficiency and a Call for Software Enhancement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
 </ul></div>
 

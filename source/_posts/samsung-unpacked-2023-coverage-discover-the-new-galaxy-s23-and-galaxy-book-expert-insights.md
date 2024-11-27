@@ -1,7 +1,7 @@
 ---
 title: "Samsung Unpacked 2023 Coverage: Discover the New Galaxy S23 & Galaxy Book Expert Insights"
-date: 2024-11-13T18:44:24.476Z
-updated: 2024-11-17T17:24:26.662Z
+date: 2024-11-26T17:09:40.820Z
+updated: 2024-11-27T17:10:23.540Z
 tags:
   - laptops
 categories:
@@ -79,6 +79,10 @@ Doing so also exposes two flaws of the Galaxy Book 3 Ultra: the wobbliness and g
 
 Will you notice the shaking when you're laser-focused on what's being displayed? Probably not. Would a matte display have served better for viewing comfort? Absolutely.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Live by the display…
 
 Believe it or not, I still consider the Galaxy Book 3 Ultra's display to be one of its key selling points. You're looking at a 16-inch, 120Hz, 3K, AMOLED display, with [most of its tech carried over](https://www.zdnet.com/article/samsung-display-brings-advanced-smartphone-oled-touch-tech-to-notebooks/) from the sharp, great-looking panels from Samsung's high-end smartphones. The colors on the laptop are, to say the least, punchy, visually distinctive, and plenty bright for most environments. Gaming and multimedia consumption are an absolute treat on the Galaxy Book.
@@ -90,13 +94,6 @@ For content creation and multitasking, the wider 16:10 dimension here is ideal. 
 The thin bezels make the 16-inch display a little more manageable.
 
 June Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best use of space?
 
@@ -128,6 +125,10 @@ With a discrete GPU, the Galaxy Book absolutely breezes through my usual photo a
 
 On a standard workday, I averaged about six and a half hours of usage per charge, which is not bad but not great either. On days that involved more video editing, downloading files, and a bit of gaming (because that's what you do when you have a dedicated GPU in a laptop), I watched as the battery percentage dropped 20% every hour.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The benchmark results are in...
 
 For those who live by benchmarks, here's how the Galaxy Book 3 Ultra fared in Geekbench 6 and Cinebench R23 tests compared to 16-inch MacBook Pros (M1 Pro and M2 Max).
@@ -137,19 +138,6 @@ June Wan/ZDNET
 By the numbers, the Galaxy Book 3 Ultra is neck and neck with Apple's older [M1 Pro-equipped MacBook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C055dabfc-a9d8-47d4-b1d4-199c62d89af5%7Cdtp&dtb=1), but the [M2 Max](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF1YSR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C055dabfc-a9d8-47d4-b1d4-199c62d89af5%7Cdtp&dtb=1) variant is still levels above the competition when it comes to multi-core performance. 
 
 While your Twitter feed isn't going to load any faster because one laptop scored higher than the other, we're looking at seconds (or even minutes) of faster speeds when it comes to graphics-intensive applications like exporting 4K videos and loading AAA games.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An ecosystem of its own
 
@@ -163,15 +151,16 @@ In fact, all the product photos in this review were captured by the [Galaxy S23 
 
 [Buy the Samsung Galaxy Book 3 Ultra $2,200 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 Ultimately, the Galaxy Book 3 Ultra [starts at $2,200](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F%3F&publisher_slug=itechdaily19598&exclusive=1) for the Intel Core i7, Nvidia GeForce RTX 4050, 16GB of RAM, and 512GB of storage configuration. That's a big price for a big laptop, but if we're comparing it with its closest Apple alternative, then Samsung is undercutting the [16-inch MacBook Pro (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BSHF7LLL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C055dabfc-a9d8-47d4-b1d4-199c62d89af5%7Cdtp&dtb=1) by about $300\. And in Samsung's defense, it's giving you a lot for the money, including a dedicated graphics card, one of the best-looking laptop displays on the market, and an uncompromising keyboard experience. The only notable shortcomings are the glossy screen, the obnoxiously large trackpad, and the moderate battery life.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Should I buy one?
@@ -181,10 +170,7 @@ For content creators and professional users, especially if you already own a [Sa
 But at a starting price of $2,200, there are plenty of other, more affordable yet just as powerful laptops that you should be considering, including the [last-gen MacBook Pro (M1 Pro)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-16-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQKBQSB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C055dabfc-a9d8-47d4-b1d4-199c62d89af5%7Cdtp&dtb=1). I'd also look elsewhere if you rely heavily on an SD card for file transferring. In my case, I'm always taking pictures and videos with a mirrorless camera, and being able to move my files locally, with no fear of wonky wireless connections getting in the way, is a must.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -233,19 +219,19 @@ While the two alternatives above are more subtle by design, the Asus ZenBook 14 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-in-depth-analysis-top-10-video-cards-built-for-youtube-watching/"><u>[Updated] 2024 Approved In-Depth Analysis Top 10 Video Cards Built for YouTube Watching</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-how-to-find-your-perfect-livestream-service-match-for-2024/"><u>[Updated] How to Find Your Perfect Livestream Service Match for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/erec-management/"><u>EREC Managementアプリケーションのダウンロードガイド:意味、使用方法、他の選択肢を掘り下げてみましょう。</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/"><u>Exploring Technology with Tom's Hardware Insights and Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-microsoft-wireless-mouse-5000-up-and-running-download-drivers-now/"><u>Get Your Microsoft Wireless Mouse 5000 Up and Running – Download Drivers Now</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-logic-of-imovies-trim-feature/"><u>In 2024, The Logic of iMovie's Trim Feature</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-savvy-techies-strategy-for-saving-snapshots/"><u>In 2024, The Savvy Techie's Strategy for Saving Snapshots</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-netgears-nighthawk-x6-the-ultimate-guide-to-wi-fi-mesh-technology/"><u>In-Depth Analysis of Netgear's Nighthawk X6 - The Ultimate Guide to Wi-Fi Mesh Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/launching-msis-unique-yeswebuild-movement-embracing-the-future-of-computer-building/"><u>Launching MSI's Unique 'YesWeBuild' Movement: Embracing the Future of Computer Building</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-innovation-with-tom-expert-analysis-and-comparisons-for-smart-shoppers/"><u>Navigating Gadget Innovation with Tom: Expert Analysis & Comparisons for Smart Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-diy-constructing-an-ice-chilled-living-room-computer-tower-expert-tips-from-toms-hardware/"><u>The Ultimate DIY: Constructing an Ice-Chilled Living Room Computer Tower - Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-solving-no-sound-on-iphone-restore-your-ringtones/"><u>Ultimate Guide: Solving No Sound on iPhone - Restore Your Ringtones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-comprehensive-guide-to-crafting-great-fb-cover-videos-for-2024/"><u>[New] The Comprehensive Guide to Crafting Great FB Cover Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-system-evolution-unlocked-a-comprehensive-improvement-pathway/"><u>[Updated] System Evolution Unlocked A Comprehensive Improvement Pathway</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1-how-can-i-restore-my-lost-browser-history-from-a-laptops-search-records/"><u>1. How Can I Restore My Lost Browser History From a Laptop's Search Records?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-s17-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo S17 Device SIM</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-uninterrupted-network-access-on-ps5-console/"><u>Ensuring Uninterrupted Network Access on PS5 Console</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-lattepanda-mu-faster-than-raspberry-pi-4-but-carries-higher-expense/"><u>Evaluating the LattePanda Mu: Faster than Raspberry Pi 4 but Carries Higher Expense</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210299946-9781789043600-everything-is-your-fault/"><u>Everything is Your Fault | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-with-toms-hardware-guidance/"><u>Mastering Technology Choices with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices-for-2024/"><u>The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-pc-building-by-toms-system-analysis/"><u>The Ultimate Guide to PC Building by Tom's System Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-insights-at-toms-hardware-your-go-to-computer-site/"><u>Unlocking Insights at Tom's Hardware - Your Go-To Computer Site</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-innovative-anycubic-kobra-3-multicolor-3d-printing-technology/"><u>Unveiling the Capabilities of the Innovative Anycubic Kobra 3 Multicolor 3D Printing Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-performance-in-depth-insights-on-the-asus-rog-swift-oled-pg32ucdp/"><u>Unveiling the Performance: In-Depth Insights on the Asus ROG Swift OLED PG32UCDP</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-powerhouse-an-in-depth-look-at-the-asus-zephyrus-g14-gaming-laptop/"><u>Unveiling the Powerhouse: An In-Depth Look at the Asus Zephyrus G14 Gaming Laptop</u></a></li>
 </ul></div>
 

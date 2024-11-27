@@ -1,7 +1,7 @@
 ---
 title: "Score Big on Tech: Get the HP Victus 15 for a Steal at $515 During Best Buy's Premier Anti-Prime Sale Reviewed"
-date: 2024-11-16T16:57:49.541Z
-updated: 2024-11-17T20:44:10.494Z
+date: 2024-11-26T18:54:09.174Z
+updated: 2024-11-27T16:36:55.407Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,31 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-conclusion/"><u>[New] 2024 Approved Conclusion</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tips-for-youtube-thumbnail-size-aspect-ratio-included/"><u>[Updated] In 2024, Tips for YouTube Thumbnail Size [Aspect Ratio Included]</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-clip-curator-platform/"><u>2024 Approved Clip Curator Platform</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-journey-camera-setup-for-aspiring-cinephiles/"><u>2024 Approved Journey Camera Setup for Aspiring Cinephiles</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-surging-up-the-search-listings-key-tips-for-optimizing-your-videos/"><u>2024 Approved Surging Up the Search Listings Key Tips for Optimizing Your Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-windows-photos-with-an-effortless-carousel-seven-step-guide/"><u>Enhancing Windows Photos with an Effortless Carousel, Seven-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/getting-to-know-tech-better-dive-into-toms-hardware-treasure-trove-of-information/"><u>Getting to Know Tech Better? Dive Into Tom's Hardware Treasure Trove of Information</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-a15-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy A15 4G Lock Screen Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme GT 5 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-compact-form/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR - Unmatched Color Precision in a Compact Form</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-destination-comprehensive-gear-evaluations/"><u>Inside Tom's Tech Destination: Comprehensive Gear Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-toms-authoritative-hardware-advice/"><u>Navigating the World of Gadgets & Peripherals: Tom's Authoritative Hardware Advice</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-performance-in-new-world-fixing-stutter-and-improving-fps-for-ultimate-playability/"><u>Optimizing Performance in 'New World': Fixing Stutter and Improving FPS for Ultimate Playability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-experience-with-gigabytes-aorus-z69ueh-an-intense-review-of-the-high-performance-4k-oled-display-at-lightning-speed/"><u>Revolutionize Your Gaming Experience with Gigabyte's Aorus Z69UEH: An Intense Review of the High-Performance, 4K OLED Display at Lightning Speed</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-restore-functionality-in-lenovo-finger-scanning-technology/"><u>Step-by-Step Fixes to Restore Functionality in Lenovo Finger Scanning Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performer-showdown-in-depth-review-of-gigabytes-high-end-aorus-fo32u2p-monitor-with-ultra-4k-240hz-visual-splendor/"><u>Top-Performer Showdown: In-Depth Review of Gigabyte's High-End Aorus FO32U2P Monitor with Ultra 4K, 240Hz Visual Splendor</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-guide-to-digital-mastery-of-vhs-visuals/"><u>[New] The Ultimate Guide to Digital Mastery of VHS Visuals</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ehensive-youtube-etiquette-guide-for-2024/"><u>Comprehensive YouTube Etiquette Guide for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-photos-with-effective-blurs/"><u>Elevate Your Photos with Effective Blurs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-effortless-access-to-youtube-comments/"><u>In 2024, Expert Tips for Effortless Access to YouTube Comments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro-for-2024/"><u>Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computing-with-toms-technology-insights/"><u>Navigating the World of Computing with Tom's Technology Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/optimize-your-pc-crucial-ddr5-ram-updates-for-gigabyte-motherboards/"><u>Optimize Your PC: Crucial DDR5 RAM Updates for Gigabyte Motherboards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-energy-efficiency-the-complete-guide-to-the-teamgroup-t-force-vulcan-ddr5-c30-memory-kit-at-6000mhz-an-in-depth-product-examination/"><u>Revolutionizing Energy Efficiency: The Complete Guide to the TeamGroup T-Force Vulcan DDR5 C30 Memory Kit at 6000MHz – An In-Depth Product Examination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsungs-revolutionary-107gbps-lpddr5x-ultra-fast-mobile-memory-designed-for-advanced-ai-workloads/"><u>Samsung's Revolutionary 10.7Gbps LPDDR5X: Ultra-Fast Mobile Memory Designed for Advanced AI Workloads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964497718-surecore-unveils-eco-efficient-quantum-memory-innovation-stable-at-recordly-cool-temperatures-of-just-4-kelvin/"><u>SureCore Unveils Eco-Efficient Quantum Memory Innovation - Stable at Recordly Cool Temperatures of Just 4 Kelvin!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/thrilling-benchmarks-of-the-first-edition-ddr5-7200-corsair-dominator-titanium-unleashing-ultra-high-performance-with-dual-24gb-modules/"><u>Thrilling Benchmarks of the First Edition DDR5-7200 Corsair Dominator Titanium: Unleashing Ultra High Performance with Dual 24GB Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-and-equipment/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components and Equipment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-into-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Insights Into Cutting-Edge Hardware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-full-potential-of-siri-ultimate-guide-to-advanced-iphone-voice-command-shortcuts-zdnet/"><u>Unlock the Full Potential of Siri: Ultimate Guide to Advanced iPhone Voice Command Shortcuts - ZDNET</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/video-battle-2022-gopro-hero5-black-vs-garmin-virb-streamers-for-2024/"><u>Video Battle 2022 GoPro Hero5 Black Vs. Garmin VIRB Streamers for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/vocal-choirs-on-tiktoks-digital-stage/"><u>Vocal Choirs on TikTok's Digital Stage</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

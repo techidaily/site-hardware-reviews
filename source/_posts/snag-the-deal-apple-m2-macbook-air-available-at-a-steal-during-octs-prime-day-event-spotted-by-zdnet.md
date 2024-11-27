@@ -1,7 +1,7 @@
 ---
 title: "Snag the Deal: Apple M2 MacBook Air Available at a Steal During Oct's Prime Day Event - Spotted by ZDNet"
-date: 2024-11-15T21:10:21.061Z
-updated: 2024-11-17T19:29:24.331Z
+date: 2024-11-22T18:41:56.907Z
+updated: 2024-11-27T18:43:54.050Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,28 +63,15 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-demystifying-photo-editing-a-snapseed-introduction/"><u>[New] In 2024, Demystifying Photo Editing A Snapseed Introduction</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>[Updated] 2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-a-to-z-guide-to-recording-games-using-obs-for-2024/"><u>[Updated] The A-to-Z Guide to Recording Games Using OBS for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/flac/"><u>高品質FLACファイルの再生手順ガイド</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862749259-amazons-exclusive-get-lg-34qhd-ultragear-monitor-with-g-sync-tech-for-a-steal-at-549/"><u>Amazon's Exclusive: Get LG 34QHD Ultragear Monitor with G-Sync Tech for a Steal at $549!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/canon-elph-190-excellent-performance-at-a-value/"><u>Canon ELPH 190: Excellent Performance at a Value</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 8 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-step-by-step-guide-to-emoji-usage-in-yt-feedback/"><u>In 2024, Step-by-Step Guide to Emoji Usage in YT Feedback</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/initiating-film-narratives/"><u>Initiating Film Narratives</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-definitive-guide-to-hardware/"><u>Tom's Tech Review: The Definitive Guide to Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-for-your-pc-needs-at-toms-hardware-hub/"><u>Top Picks for Your PC Needs at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-immersive-gaming-experience-newly-launched-minisforum-portable-screen-156-hd-with-144hz-display-only-189/"><u>Unleash Immersive Gaming Experience: Newly Launched Minisforum Portable Screen – 15.6 HD with 144Hz Display Only $189</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-advanced-computing-a-dive-into-toms-hardware-analysis/"><u>Unveiling Advanced Computing: A Dive Into Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hard-drive-technology-with-tom/"><u>Unveiling the Latest in Hard Drive Technology with Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-gadgets-and-gear-in-depth-reviews-by-toms-hardware-experts/"><u>Your Guide to Gadgets and Gear: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-free-enterprise-templates-with-dynamic-ideas-for-slideshows/"><u>[New] Free Enterprise Templates with Dynamic Ideas for Slideshows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-seamless-integration-vimeo-uploads-with-windows-media-center/"><u>[New] Seamless Integration Vimeo Uploads with Windows Media Center</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevating-engagement-professional-tips-for-youtube-video-tweaks/"><u>[Updated] Elevating Engagement Professional Tips for YouTube Video Tweaks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-quick-mac-screen-capture-with-deft-shortcuts/"><u>[Updated] Mastering Quick Mac Screen Capture with Deft Shortcuts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-recording-facebook-video-calls-4-methods/"><u>[Updated] Recording Facebook Video Calls [4 Methods]</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/acer-predator-helios-14-powerful-gaming-in-a-slim-package/"><u>Acer Predator Helios 14: Powerful Gaming in a Slim Package</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bytesavvy-insights-unveiling-the-top-rated-electronics-of-the-year/"><u>ByteSavvy Insights: Unveiling the Top-Rated Electronics of the Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/defining-a-cognitive-computing-system-necessity-for-your-tech-arsenal/"><u>Defining a Cognitive Computing System: Necessity for Your Tech Arsenal?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-future-of-computers-through-toms-hardware-experts/"><u>Discovering the Future of Computers Through Tom's Hardware Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

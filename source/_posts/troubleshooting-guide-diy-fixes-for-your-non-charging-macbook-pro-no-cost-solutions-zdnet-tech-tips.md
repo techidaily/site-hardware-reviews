@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: DIY Fixes for Your Non-Charging MacBook Pro (No Cost Solutions) | ZDNet Tech Tips"
-date: 2024-11-14T16:08:17.308Z
-updated: 2024-11-17T16:05:28.954Z
+date: 2024-11-25T18:53:11.376Z
+updated: 2024-11-27T18:16:38.701Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Here are a few simple things you can try that might save you a trip to the Apple
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Macs Apple's Mac lineup can be confusing as the company transitions from Intel processors to its own Apple Silicon processors. But we're here to help.  Read now](https://www.zdnet.com/article/best-mac/)
@@ -37,6 +41,10 @@ But first, consider: It might be normal. Laptops get hot, and MacBooks are no ex
 If you're running a resource-heavy application such as Photoshop, or have a browser with loads of tabs open, then the fans might very well be just doing their job. After all, without them, your Mac could quickly wither and die. 
 
 Another heavy load for MacBooks is using [external monitors](https://www.zdnet.com/article/best-monitor/), because these stress the GPU, which in turn means that the fans need to run more often. Not reassured? Keep reading. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Is your Mac hot or not?
 
@@ -51,10 +59,7 @@ The TG Pro Mac software in action.
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reboot
@@ -70,10 +75,7 @@ If you're still experiencing this problem and you don't think that it's normal (
 Don't worry, it's a lot easier than it sounds -- oh, and you won't lose any data doing this!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Reset SMC (System Management Controller)
@@ -87,10 +89,7 @@ This one tip can fix a whole raft of Mac issues. However, how you go about doing
 **Also:** [**How to make your MacBook battery run all day**](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reset PRAM (Parameter RAM)
@@ -100,13 +99,6 @@ To reset the PRAM you need to hold down COMMAND and OPTION and P and R while pow
 ## 4\. Restart your Apple Silicon Mac
 
 For these newer M1- and M2-powered Macs, resetting the SMC and PRAM doesn't work, and all Apple recommends doing is restarting the computer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Oh, one more thing ... dust!
 
@@ -148,16 +140,19 @@ Hold the nozzle an inch or so away from the vents and only use the suction brief
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-idea-infringement-instant-video-ban/"><u>[New] 2024 Approved Idea Infringement Instant Video Ban</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-followers-and-likes-hack-top-25-instagram-hashtags-unveiled-for-2024/"><u>[New] Followers and Likes Hack Top 25 Instagram Hashtags Unveiled for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-realme-c33-2023-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Realme C33 2023 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/complete-guide-watching-dvds-on-every-xbox-one-console/"><u>Complete Guide: Watching DVDs on Every Xbox One Console</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-does-the-asus-rog-azoth-extreme-hold-up-in-depth-review-for-500-dollar-buyers/"><u>How Does The Asus ROG Azoth Extreme Hold Up? In-Depth Review for 500 Dollar Buyers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-at-toms-computer-resource/"><u>Navigating Technology Trends at Tom's Computer Resource</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-the-newly-updated-dell-xps-13-where-style-meets-speed-with-snapdragon-x-elite-tech/"><u>The Ultimate Guide to the Newly Updated Dell XPS 13 - Where Style Meets Speed with Snapdragon X Elite Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-comprehensive-guide-and-insights/"><u>Tom's Hardware Review: Comprehensive Guide and Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-efficiency-a-closer-look-at-nzxts-c1500-platinum-psu/"><u>Unveiling Efficiency: A Closer Look at NZXT's C1500 Platinum PSU</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-how-to-regain-access-to-missing-bluetooth-icon-on-windows-11-os/"><u>Unveiling How to Regain Access to Missing Bluetooth Icon on Windows 11 OS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-finest-9-mic-recording-devices-compared/"><u>[New] The Finest 9 Mic Recording Devices Compared</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-inshot-cut-mastery-creating-fluid-movements-for-2024/"><u>[Updated] Inshot Cut Mastery Creating Fluid Movements for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bard-ai-upgrades-unveiled-7-game-changing-features-from-the-latest-google-io/"><u>Bard AI Upgrades Unveiled: 7 Game-Changing Features From the Latest Google I/O</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-obs-revived-camera-back-to-life/"><u>In 2024, OBS Revived Camera Back to Life</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-logitech-g515-lightspeed-tkl-budget-friendly-and-sleek-design/"><u>In-Depth Analysis of the Logitech G515 Lightspeed TKL - Budget-Friendly and Sleek Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-expertise/"><u>Navigating the World of Technology with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/p310-ssd-in-depth-analysis-enhanced-velocity-with-m2-2280/"><u>P310 SSD In-Depth Analysis: Enhanced Velocity with M.2 2280</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-unwanted-youtube-suggested-videos-for-2024/"><u>Quash Unwanted YouTube Suggested Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-d3dx92-cuffin-a-step-by-step-guide/"><u>Resolving the D3dx9_2 Cuffin: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-content-creation-insights-into-generative-ai-implementation/"><u>Revolutionizing Content Creation: Insights Into Generative AI Implementation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-cutting-edge-hardware-by-toms-tech-hub/"><u>The Essential Guide to Cutting-Edge Hardware by Tom's Tech Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-performance-secrets-top-tips-from-toms-hardware-specialists/"><u>Unlock Performance Secrets: Top Tips From Tom's Hardware Specialists</u></a></li>
 </ul></div>
 

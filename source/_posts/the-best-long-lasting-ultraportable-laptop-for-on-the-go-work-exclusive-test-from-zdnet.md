@@ -1,7 +1,7 @@
 ---
 title: The Best Long-Lasting Ultraportable Laptop for On-the-Go Work - Exclusive Test From ZDNet
-date: 2024-11-14T21:24:15.064Z
-updated: 2024-11-17T16:09:42.803Z
+date: 2024-11-20T16:46:34.733Z
+updated: 2024-11-27T16:20:01.911Z
 tags:
   - laptops
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://www.zdnet.com/a/img/resize/40ac012377febcbd6ecbdf5510fb27b35b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,10 +93,7 @@ Compared to a MacBook, one could argue that the Yoga Slim 7x is at least better 
 The MacBook is better suited for the iOS ecosystem, however Lenovo has been making strides in developing a data transfer feature between its laptop and iPhones. So if you're not sure which one to get, the Yoga Slim 7x might be the better long-term investment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -133,24 +134,20 @@ Creators might also appreciate the fact that Lenovo is also giving [two free mon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-27-significant-metaverse-demonstrations-unveiled/"><u>[Updated] 27 Significant Metaverse Demonstrations Unveiled</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-breach-to-backup-restore-and-redeem-your-fb-status-for-2024/"><u>[Updated] Breach to Backup Restore and Redeem Your FB Status for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-from-live-to-recording-maximizing-your-gaming-sessions-value/"><u>[Updated] From Live to Recording Maximizing Your Gaming Sessions' Value</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-top-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>2024 Approved Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/adding-music-to-photo-online/"><u>Adding Music to Photo Online</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aocs-game-changer-in-depth-analysis-of-the-agon-pro-ag456uczd-a-stunning-45-ultra-wide-oled-gaming-monitor-with-extremely-curved-edges-for-optimal-immersion19/"><u>AOC's Game Changer: In-Depth Analysis of the Agon Pro AG456UCZD - A Stunning 45 Ultra-Wide OLED Gaming Monitor With Extremely Curved Edges for Optimal Immersion and Unmatched Speed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-look-at-the-innovative-lian-li-hydroshift-lcd-case-for-pcs/"><u>Comprehensive Look at the Innovative Lian Li Hydroshift LCD Case for PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elegoo-saturn-4-ultra-pioneering-progress-and-breakthroughs-in-the-realm-of-high-quality-resin-printing/"><u>Elegoo Saturn 4 Ultra: Pioneering Progress and Breakthroughs in the Realm of High-Quality Resin Printing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-experience-tackle-and-repair-marvels-guardians-pc-errors-with-these-ebytes-8-fixes/"><u>Enhance Your Gaming Experience: Tackle and Repair 'Marvel’s Guardians' PC Errors with These Ebytes 8 Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-windows-camera-error-0xa00f425d/"><u>Eradicating Window's Camera Error: 0XA00F425D</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-pc-components-with-toms-hardware-experts/"><u>Exploring the Latest in PC Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-latest-dell-xps-amoeba-9345-classic-style-enhanced-by-snapdragon-x-elite-chipset/"><u>In-Depth Analysis of the Latest Dell XPS Amoeba (9345): Classic Style Enhanced by Snapdragon X Elite Chipset</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/startup-zoom-navigating-participant-groups-for-2024/"><u>Startup Zoom Navigating Participant Groups for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-azoth-extreme-top-review-for-your-money-saving-search/"><u>Unboxing the Asus ROG Azoth Extreme: Top Review for Your Money-Saving Search</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uncovering-hidden-tech-gems-a-deep-dive-into-new-releases-at-toms-hardware/"><u>Uncovering Hidden Tech Gems: A Deep Dive Into New Releases at Tom's Hardware</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-discord-profile-video-info-dimensions-codec-time-span/"><u>[Updated] 2024 Approved Discord Profile Video Info Dimensions, Codec, Time Span</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-effortless-image-capturing-on-chrome-devices-method-4/"><u>[Updated] In 2024, Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-screen-capture-software-guide-apowersoft-included/"><u>[Updated] In 2024, The Ultimate Screen Capture Software Guide - Apowersoft Included</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-hidden-treasures-10-newest-coolest-fb-meme-pages/"><u>2024 Approved Hidden Treasures 10 Newest, Coolest FB Meme Pages</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/action-plan-seamless-transcoding-from-xmlssattml-to-srt-for-2024/"><u>Action Plan Seamless Transcoding From XML/SSA/TTML to SRT for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-asus-rog-nuc-970-ultraportable-desktop-with-robust-performance/"><u>Comprehensive Review of the Asus ROG NUC 970 - Ultraportable Desktop with Robust Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hostgator-review-comparative-study-on-vps-and-shared-hosting-solutions/"><u>HostGator Review: Comparative Study on VPS and Shared Hosting Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-a1-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on A1 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-nokia-xr21-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Nokia XR21</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-electronics-a-deep-dive-by-toms-hardware-experts/"><u>Navigating Modern Electronics - A Deep Dive by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-netgear-orbi-770-router-a-balance-between-value-and-wireless-speed/"><u>The Netgear Orbi 770 Router - A Balance Between Value and Wireless Speed?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-tips-for-modifying-and-refreshing-powerpoint-files/"><u>The Ultimate Tips for Modifying and Refreshing PowerPoint Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-unmarked-manual-for-instagrams-livestream-privacy/"><u>The Unmarked Manual for Instagram's Livestream Privacy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-gear-expert-reviews-and-comparisons/"><u>Tom's Computer Gear: Expert Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-reviews-your-ultimate-guide/"><u>Tom's Computer Reviews: Your Ultimate Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features of Microsoft Surface Laptop 5: Insights and First Impressions From Experts at ZDNET"
-date: 2024-11-10T21:28:02.478Z
-updated: 2024-11-17T17:46:33.119Z
+date: 2024-11-20T18:28:53.937Z
+updated: 2024-11-27T16:27:14.518Z
 tags:
   - laptops
 categories:
@@ -47,6 +47,10 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -95,10 +99,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -126,6 +127,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -137,10 +142,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -155,13 +157,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -174,14 +169,11 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -220,19 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-social-media-to-monetary-success-the-roadmap-for-instagram-sponsorship/"><u>[New] From Social Media to Monetary Success The Roadmap for Instagram Sponsorship</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-historical-knowledge-at-your-fingertips-best-yt-history-channels-for-2024/"><u>[New] Historical Knowledge at Your Fingertips Best YT History Channels for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>[New] In 2024, Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-financial-frontiers-unveiling-pewdiepies-income-graph/"><u>[Updated] Financial Frontiers Unveiling PewDiePie's Income Graph</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-huawei-p60-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Huawei P60 Activity | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341723202-cutting-edge-cost-effective-nvme-cooling-discover-the-power-of-the-uphere-m201-heatsink-under-5/"><u>Cutting-Edge, Cost-Effective NVMe Cooling - Discover the Power of the UpHere M201 Heatsink Under $5</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-f04-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy F04</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-speed-computing-on-lattepanda-mu-is-it-worth-more-than-raspberry-pi-5/"><u>High-Speed Computing on LattePanda Mu - Is It Worth More Than Raspberry Pi 5?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro Max without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrating-seamless-multimedia-elements-on-your-mac-screen/"><u>In 2024, Integrating Seamless Multimedia Elements on Your Mac Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-the-gigabyte-g6x-game-machine-reliable-fun-with-missing-highlights/"><u>Inside Look at the Gigabyte G6X Game Machine: Reliable Fun with Missing Highlights</u></a></li>
-<li><a href="https://win-best.techidaily.com/movavi-online-gratis-converter-de-ficheiros-para-o-formato-ogg-com-aif/"><u>Movavi Online Gratis - Converter De Ficheiros Para O Formato OGG Com AIF</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-of-eco-performance-dissecting-the-power-of-teamgroups-ddr5-6000-t-force-vulcan-c30-memory-kit/"><u>The Future of Eco Performance: Dissecting the Power of TeamGroup's DDR5-6000 T-Force Vulcan C30 Memory Kit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-and-software/"><u>Tom's Tech Review: Expert Insights on Hardware and Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>[New] In 2024, Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-lecture-audio-recording-techniques-for-mac-users-for-2024/"><u>[New] Lecture Audio Recording Techniques for Mac Users for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-forum-film-facsimile-for-2024/"><u>[Updated] Fb Forum Film Facsimile for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-narrative-blueprint-zone/"><u>2024 Approved Premium Narrative Blueprint Zone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-transformative-power-of-augmented-vision/"><u>2024 Approved The Transformative Power of Augmented Vision</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-asrock-b760m-pro-rs-motherboard-featuring-plenty-of-m2-support/"><u>Affordable ASRock B760M Pro RS Motherboard: Featuring Plenty of M.2 Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/atlas-air-headphones-by-turtle-beach-next-level-sound-ultimate-comfort/"><u>ATLAS Air Headphones by Turtle Beach: Next-Level Sound, Ultimate Comfort</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-walls-universal-access-in-gaming/"><u>Breaking Down Walls: Universal Access in Gaming</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/content-marketing/"><u>Content Marketing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversione-gratuita-di-file-mkv-a-formato-m4a-online-con-movavi/"><u>Conversione Gratuita Di File MKV a Formato M4A Online Con Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/diving-into-hardware-with-toms-technology-reviews/"><u>Diving Into Hardware with Tom's Technology Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-tom-hardware-hub/"><u>Exploring Computer Components with Tom - Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-high-performance-gadgets-with-toms-hardware-insights/"><u>Exploring High-Performance Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-printing-with-newest-canon-mx340-drivers-for-windows-versions-win-10-8-and-7/"><u>Seamless Printing with Newest Canon MX340 Drivers for Windows Versions: Win 10, 8 & 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steps-for-producing-one-of-a-kind-images-leveraging-microsoft-copilots-ai-capabilities/"><u>Steps for Producing One-of-a-Kind Images: Leveraging Microsoft Copilot's AI Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-stay-chilled-in-depth-analysis-of-the-silent-and-powerful-levelplay-combat-air-ca4-cpu-cooler/"><u>The Ultimate Guide to Stay Chilled: In-Depth Analysis of the Silent & Powerful Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-gear/"><u>Tom's Tech Insights: Your Guide to the Latest in Computer Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-advisor-in-electronics-insider-knowledge-with-toms-hardware-reviews/"><u>Your Trusted Advisor in Electronics: Insider Knowledge with Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

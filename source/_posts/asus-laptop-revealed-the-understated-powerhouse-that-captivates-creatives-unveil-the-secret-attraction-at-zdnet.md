@@ -1,7 +1,7 @@
 ---
 title: "ASUS Laptop Revealed: The Understated Powerhouse that Captivates Creatives | Unveil the Secret Attraction at ZDNET"
-date: 2024-11-16T17:20:30.279Z
-updated: 2024-11-17T20:24:09.850Z
+date: 2024-11-25T18:06:04.921Z
+updated: 2024-11-27T18:58:10.590Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,18 +112,22 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-assessing-negative-impacts-of-vr/"><u>[New] Assessing Negative Impacts of VR</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-your-key-to-effortless-igtv-media-downloads/"><u>[Updated] Your Key to Effortless IGTV Media Downloads</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2211464-9780007478552-aquarius-2013-your-personal-horoscope/"><u>Aquarius 2013: Your Personal Horoscope | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/chrome-optimized-how-to-stop-overloading-your-cpu/"><u>Chrome Optimized: How to Stop Overloading Your CPU</u></a></li>
-<li><a href="https://fox-place.techidaily.com/dellwindows-10/"><u>DellでWindows 10リカバリー環境を設定する - 初期化プロセスガイド</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-craft-your-own-film-finale-templates-no-cost/"><u>In 2024, Craft Your Own Film Finale Templates, No Cost</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-x100-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo X100 Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-unboxing-and-testing-the-raspberry-pi-ai-learning-set/"><u>In-Depth Review: Unboxing and Testing the Raspberry Pi AI Learning Set</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/integrated-dynamic-movement-analysis/"><u>Integrated Dynamic Movement Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-trusty-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Trusty Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728463053016-samsung-ssd/"><u>Samsung SSDが正常に接続されます - 手順ガイド</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-guides-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/raft-your-vision-best-cameras-for-video-creators/"><u>[New] Craft Your Vision Best Cameras for Video Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-technology-essentials-with-tom-a-deep-dive-into-gadgets-and-gear/"><u>Decoding Technology Essentials with Tom - A Deep Dive Into Gadgets and Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341658979-experience-the-powerful-symphony-with-blueants-soundblade-vibrant-sounds-and-style-combined/"><u>Experience the Powerful Symphony with BlueAnt's Soundblade - Vibrant Sounds & Style Combined!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341739531-implement-a-take-back-program-to-encourage-recycling-or-repurposing-of-used-products/"><u>Implement a Take-Back Program to Encourage Recycling or Repurposing of Used Products.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-effortless-multichannel-publishing-tweets-plus-tumbles/"><u>In 2024, Effortless Multichannel Publishing Tweets + Tumbles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-instant-freeze-capture-feature-guide/"><u>In 2024, Instant Freeze Capture Feature Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-mastering-youtubes-aesthetics-enhancing-your-videos/"><u>In 2024, Mastering YouTube's Aesthetics Enhancing Your Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-essential-insights-from-toms-hardware-reviews/"><u>Mastering Technology: Essential Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-realme-gt-neo-5-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme GT Neo 5 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-the-most-indicative-symptom-of-congenital-cmv-infection-from-the-classic-triad-would-be-hearing-loss-as-it-is-a-common-sequelae-and-often-presents-92/"><u>Solution: The Most Indicative Symptom of Congenital CMV Infection From the Classic Triad Would Be Hearing Loss, as It Is a Common Sequelae and Often Presents Early On.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-apple-watch-ultra-2-how-its-features-make-it-a-top-choice-for-me-now-at-100-off-expert-review-by-zdnet/"><u>The Apple Watch Ultra 2: How Its Features Make It a Top Choice for Me, Now at $100 Off - Expert Review by ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-the-logitech-g-pro-x-2-lightspeed-elevating-your-game-like-never-before/"><u>The Definitive Guide to the Logitech G Pro X 2 Lightspeed: Elevating Your Game Like Never Before</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341723532-the-lowdown-on-sabrents-rocket-nano-an-in-depth-examination-of-the-1tb-m2-222-gen3-x4-ssd/"><u>The Lowdown on Sabrent's Rocket Nano – An In-Depth Examination of the 1TB M.2 22#2 Gen3 X4 SSD.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-showdown-comparing-the-asus-rog-keris-ii-ace-to-deathadder-v3-pro/"><u>The Ultimate Showdown: Comparing the Asus ROG Keris II Ace to DeathAdder V3 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/titan-armys-value-packed-warrior-in-depth-analysis-of-180hz-performance-and-quality-in-the-p27a2r-gaming-monitor/"><u>Titan Army's Value-Packed Warrior: In-Depth Analysis of 180Hz Performance & Quality in the P27A2R Gaming Monitor</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-f15-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy F15 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-pc-from-the-windows-11-compatibility-shackles/"><u>Unlocking Your PC From the Windows 11 Compatibility Shackles</u></a></li>
 </ul></div>
 

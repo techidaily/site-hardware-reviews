@@ -1,7 +1,7 @@
 ---
 title: Introducing Microsoft's Advanced Surface Pro 10 and Laptop 6 with Cutting-Edge AI | The Latest Update From ZDNET
-date: 2024-11-16T17:57:11.424Z
-updated: 2024-11-17T17:37:10.247Z
+date: 2024-11-26T16:26:54.339Z
+updated: 2024-11-27T18:33:53.834Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 **Also: [CES 2024: What's Next in Tech](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/)**
 
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -81,28 +85,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-picks-excellent-mac-based-video-snatchers/"><u>[New] 2024 Approved Prime Picks Excellent Mac-Based Video Snatchers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-boosting-collaboration-essential-zoom-video-alterations/"><u>[New] Boosting Collaboration Essential Zoom Video Alterations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-pixiz-workshop-the-art-of-photo-video-synthesis/"><u>[New] In 2024, Pixiz Workshop The Art of Photo Video Synthesis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unraveling-the-mysteries-of-stardew-valley-with-an-insiders-look-at-its-most-hidden-gem-ginger-isle-for-2024/"><u>[Updated] Unraveling the Mysteries of Stardew Valley with an Insider's Look at Its Most Hidden Gem – Ginger Isle for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ace-the-challenge-leading-escape-room-contests-for-2024/"><u>Ace the Challenge Leading Escape Room Contests for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-apple-watch-series-8-high-performance-on-a-modest-spending-plan/"><u>Affordable Apple Watch Series 8: High Performance on a Modest Spending Plan</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/compact-and-economical-a-comprehensive-look-at-the-logitech-g515-lightspeed-tkl-keyboard/"><u>Compact and Economical: A Comprehensive Look at the Logitech G515 Lightspeed TKL Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-b760m-ds3h-ax-board-budget-friendly-entry-level-with-triple-monitor-support/"><u>Comprehensive Evaluation of the Gigabyte B760M DS3H AX Board - Budget-Friendly Entry Level with Triple Monitor Support</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-on-flsun-solar-panel-s1-with-warp-speed-efficiency/"><u>Comprehensive Review on FLSun Solar Panel S1 with Warp Speed Efficiency</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/cutting-edge-capture-selecting-top-smartphone-cameras-in-high-res-video/"><u>Cutting Edge Capture Selecting Top Smartphone Cameras in High-Res Video</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-get-the-latest-version-of-netgear-wna3100-drivers/"><u>Easy Guide: Get the Latest Version of Netgear WNA3100 Drivers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-comprehensive-guides-on-gadgets-and-systems/"><u>Exploring Tech with Tom - Comprehensive Guides on Gadgets & Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/premium-pc-gaming-on-the-go-with-the-asus-rog-ally-x-a-comprehensive-review/"><u>Premium PC Gaming On-the-Go with the Asus ROG Ally X - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-review-top-tech-gadgets-of-2023/"><u>Tom's Hardware Review: Top Tech Gadgets of 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-the-best-tips-from-toms-hardware/"><u>Unlocking Computer Secrets: The Best Tips From Tom's Hardware</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1726027881562-1080p/"><u>ビリビリで美しい画質を！1080Pフルハイビジョンに変換するダウンロードガイド</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-comprehensible-guide-to-enhancing-your-facebook-live-experience/"><u>[New] 2024 Approved The Comprehensible Guide to Enhancing Your Facebook Live Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-prime-musical-virtuoso-sessions/"><u>[New] In 2024, Prime Musical Virtuoso Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-creating-content-earning-currency-launching-your-vlog-for-2024/"><u>[Updated] Creating Content, Earning Currency Launching Your Vlog for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-cash-creation-in-content-a-deep-dive-into-vids-and-videos/"><u>2024 Approved Cash Creation in Content A Deep Dive Into Vids and Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tips-for-creating-engaging-fb-video-content/"><u>2024 Approved Tips for Creating Engaging FB Video Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/action-to-archive-a-guide-to-top-screen-recording-tools/"><u>Action to Archive A Guide to Top Screen Recording Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-eufy-s350-home-monitoring-cam-spotlight-on-superior-motion-detection-features/"><u>Comprehensive Review of the Eufy S350 Home Monitoring Cam - Spotlight on Superior Motion Detection Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/does-the-future-belong-to-modular-accessories-after-apples-trial/"><u>Does the Future Belong to Modular Accessories After Apple's Trial?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-on-the-deal-of-the-year-essential-travel-wire-organizers-now-at-unbeatable-prices/"><u>Don’t Miss Out on the Deal of the Year - Essential Travel Wire Organizers Now at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-wait-secure-your-own-portable-solar-generator-today/"><u>Don't Wait: Secure Your Own Portable Solar Generator Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-analysis-of-the-nomad-stand-one-max-review-the-quintessential-luscious-three-in-one-iphone-charging-station/"><u>Elite Analysis of the Nomad Stand One Max Review: The Quintessential Luscious Three-in-One iPhone Charging Station</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancements-for-the-switch-2-a-call-for-improved-virtual-storefront/"><u>Enhancements for The Switch 2: A Call for Improved Virtual Storefront</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-games-demanding-enhanced-performance-when-is-it-time-for-a-graphics-card-refresh/"><u>Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluate-tech-specs-with-geekbenchs-recent-benchmarking-tool/"><u>Evaluate Tech Specs with Geekbench's Recent Benchmarking Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-active-audio-with-the-sennheiser-momentum-sport-top-pick-for-workout-buddies/"><u>Experience Active Audio with the Sennheiser Momentum Sport – Top Pick for Workout Buddies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-account-a-comprehensive-tutorial-for-resetting-your-facebook-password/"><u>Secure Your Account: A Comprehensive Tutorial for Resetting Your Facebook Password</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-list-of-places-to-find-movie-teasers-online/"><u>Ultimate List of Places to Find Movie Teasers Online</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

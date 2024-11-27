@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Latest Cyber Monday Blowouts: Gaming Equipment and Software Steals for Your Console, PC or Laptop | GameDealz News"
-date: 2024-11-16T18:16:23.122Z
-updated: 2024-11-17T19:02:30.830Z
+date: 2024-11-21T16:40:25.257Z
+updated: 2024-11-27T18:46:45.076Z
 tags:
   - laptops
 categories:
@@ -62,6 +62,10 @@ Maria Diaz/ZDNET
 * [Kasa Smart Plug Ultra Mini (2 pack)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKasa-Smart-Required-Certified-EP10P2%2Fdp%2FB091FXQQMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $12 (save $8 at Amazon)
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $50
 
 Artie Beaty/ZDNET
@@ -85,10 +89,7 @@ June Wan/ZDNET
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $69 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $200
@@ -119,10 +120,7 @@ Jason Cipriani/ZDNET
 * [Google Next x Yale Smart Lock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNest-Yale-Satin-Nickel-Connect%2Fdp%2FB07BH6K3NT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $261 (save $39 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday Apple deals
@@ -139,6 +137,10 @@ Jason Hiner/ZDNET
 * [Apple iPad Mini (A15 chip, 8.3-inch, 256GB):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1) $540 (save $110 at Amazon with coupon)
 * [Apple iPad Air (M1 chip, 10.9-inch, 64GB, Wi-Fi + Cellular):](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Air-5th-Generation%2Fdp%2FB09V3JWQKB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1) $650 (save $100 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday robot vacuum deals
 
 Beth Mauder/ZDNET
@@ -151,6 +153,10 @@ Beth Mauder/ZDNET
 * [Shark IQ Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-IQ-Robot-Self-Empty-XL-Vacuum-with-Self-Empty-Base-Home-Mapping-RV1002AE-New%2F875128326&subId1=zd-__COM_CLICK_ID__-dtp): $249 (save $351 at Walmart)
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday TV deals
 
@@ -189,13 +195,6 @@ Jada Jones/ZDNET
 * [Sennheiser HD 650 stereo reference headphones](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F310010-REG%2FSennheiser%5FHD%5F650%5FHD650%5FReference%5FClass.html): $400 (save $100 at B&H Photo)
 * [Samsung Galaxy Buds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant%2Fdp%2FB0CF7GYNW2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $70 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best holiday phone deals
 
 Jason Hiner/ZDNET
@@ -209,10 +208,7 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cea9c0743-e722-41c7-a688-1e24d2e92b65%7Cdtp&dtb=1): $560 (save $100 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday laptop deals
@@ -242,13 +238,6 @@ Maria Diaz/ZDNET
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -318,21 +307,19 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-understanding-how-youtube-manages-post-upload-content/"><u>[New] Understanding How YouTube Manages Post-Upload Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/"><u>[Updated] In 2024, The Filmmaker's Guide to Capturing Exceptional VO Recordings</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-made-simple-mastering-ps4-captures-using-obs-for-2024/"><u>[Updated] Live Streaming Made Simple Mastering PS4 Captures Using OBS for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-elevate-video-views-twitter-to-facebook-transition/"><u>2024 Approved Elevate Video Views Twitter to Facebook Transition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-300-pro-assessment-excellent-audio-quality-with-simple-features/"><u>BeyerDynamic MMX 300 Pro Assessment - Excellent Audio Quality with Simple Features</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-enhance-your-websites-visitor-experience/"><u>Cookiebot-Enabled: Enhance Your Website's Visitor Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-resolving-touch-screen-problems-on-the-apple-watch/"><u>Diagnosing and Resolving Touch Screen Problems on the Apple Watch</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-uphere-m201-ssd-heatsink-evaluation-at-just-5-enhancing-your-nvme-drives-performance/"><u>Essential UpHere M201 SSD Heatsink Evaluation at Just $5 - Enhancing Your NVMe Drive's Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hp-omnibook-x-performance-analysis-ultraportable-laptop-with-extended-battery-life/"><u>HP OmniBook X Performance Analysis - Ultraportable Laptop with Extended Battery Life</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-profiling-excellence-a-guide-to-refined-youtube-summaries/"><u>In 2024, Profiling Excellence A Guide to Refined YouTube Summaries</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-narzo-n53-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme Narzo N53? Fixed | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-graphics-a-comprehensive-review-of-pixios-game-changer-the-oled-max-monitor-px277/"><u>Mastering Graphics: A Comprehensive Review of Pixio's Game Changer - The OLED Max Monitor (PX277)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/never-attempt-to-remove-any-penetrating-objects-from-an-eye-injury-it-may-exacerbate-the-damage-or-introduce-infection/"><u>Never Attempt to Remove Any Penetrating Objects From an Eye Injury; It May Exacerbate the Damage or Introduce Infection.</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-resolving-pin-check-errors-on-windows-devices/"><u>Quick Guide to Resolving Pin Check Errors on Windows Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/thrilling-review-alert-maximize-your-setup-with-the-gskill-trident-z5-rgb-dual-dimm-ddr5-memory-sticks-at-a-sizzling-6400mhz/"><u>Thrilling Review Alert! Maximize Your Setup with the G.SKILL Trident Z5 RGB - Dual-DIMM DDR5 Memory Sticks at a Sizzling 6400MHz</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-dive-into-computer-components-and-hardware/"><u>Tom's Tech Hub: Dive Into Computer Components and Hardware</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-streamlining-sonic-selection-a-guide-to-curating-youtube-content/"><u>[New] In 2024, Streamlining Sonic Selection A Guide to Curating YouTube Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-youtube-cameras-from-novices-to-experts/"><u>[New] In 2024, Top 10 YouTube Cameras, From Novices to Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleash-camera-potential-with-10-premium-freebies-and-personalized-purchase-choices/"><u>2024 Approved Unleash Camera Potential with 10 Premium Freebies & Personalized Purchase Choices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtubes-hot-streaming-spotlight-top-10-now/"><u>2024 Approved Youtube’s Hot Streaming Spotlight Top 10 Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-crownote-analysis-app-your-guide-to-portable-electrified-diy-projects/"><u>Compact CrowNote Analysis App: Your Guide to Portable Electrified DIY Projects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-innovation-on-the-go-hackberry-pi-zero-empowers-hands-on-creators-in-a-pocket-sized-package/"><u>Compact Innovation on the Go - Hackberry Pi Zero Empowers Hands-On Creators in a Pocket-Sized Package</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-depth-evaluation-of-the-samsung-cf591-for-avid-gamers/"><u>In-Depth Evaluation of the Samsung CF591 for Avid Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-with-raspberry-pi-5-meet-bender-your-ai-powered-personal-assistant-inspired-by-futurama/"><u>Introducing the Future with Raspberry Pi 5: Meet Bender, Your AI-Powered Personal Assistant Inspired by Futurama</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-complexities-excel-versus-chatgpt-simplicity/"><u>Mastering Complexities: Excel Versus ChatGPT Simplicity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mega-gaming-experience-custom-raspberry-pi-5-upgraded-giant-game-boy-xl-featuring-fully-operational-buttons/"><u>Mega Gaming Experience: Custom Raspberry Pi 5 Upgraded Giant Game Boy XL Featuring Fully Operational Buttons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-nlp-titans-understanding-the-gpt-bert-chasm/"><u>Navigating NLP Titans: Understanding the GPT-BERT Chasm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openai-boss-advocates-stronger-rules-unpacking-the-motivations-and-implications/"><u>OpenAI Boss Advocates Stronger Rules: Unpacking The Motivations and Implications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-raspberry-pi-offers-and-savings/"><u>Top Raspberry Pi Offers and Savings</u></a></li>
 </ul></div>
 

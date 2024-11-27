@@ -1,7 +1,7 @@
 ---
 title: "Unfolding Innovation: How My Favorite Travel Companion, an Origami Laptop Case, Blends Art and Functionality | ZDNet"
-date: 2024-11-15T20:43:13.297Z
-updated: 2024-11-17T19:55:42.806Z
+date: 2024-11-20T17:15:35.670Z
+updated: 2024-11-27T16:05:13.925Z
 tags:
   - laptops
 categories:
@@ -20,6 +20,10 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 **Also: [CES 2024: What's Next in Tech](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/)**
 
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -81,29 +85,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-become-a-successful-smm-in-10-steps/"><u>[New] Become a Successful SMM in 10 Steps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premier-5-goggles-securing-victory-in-air-races/"><u>[New] In 2024, Premier 5 Goggles Securing Victory in Air Races</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-audio-liberation-the-ultimate-guide-to-pazeras-extraction-tools/"><u>[Updated] 2024 Approved Audio Liberation The Ultimate Guide to Pazera's Extraction Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-excellence-engineers-select-laptop-choices-for-4k-editing-pros/"><u>[Updated] 2024 Approved Excellence Engineers Select Laptop Choices for 4K Editing Pros</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/achieve-peak-efficiency-with-ideal-memory-settings-on-your-amd-ryzen-3000-processors-in-depth-review-from-toms-hardware/"><u>Achieve Peak Efficiency with Ideal Memory Settings on Your AMD Ryzen 3000 Processors - In-Depth Review From Tom's Hardware</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ngs-escalation-leveraging-your-youtube-channel-on-mobile-devices-for-2024/"><u>Earnings Escalation Leveraging Your YouTube Channel on Mobile Devices for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-performance-unleashed-nvidias-latest-update-features-gpu-turbocharge-and-obs-audio-clarity/"><u>Enhanced Performance Unleashed: Nvidia's Latest Update Features GPU Turbocharge & OBS Audio Clarity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-digital-gadgets-by-tom-unveiling-the-best-tech-tools/"><u>Expert Insights on Digital Gadgets by Tom - Unveiling the Best Tech Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-with-toms-equipment-innovative-solutions-for-every-user/"><u>Exploring Computing with Tom's Equipment: Innovative Solutions for Every User</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-the-root-causes-of-slow-mobile-internet-via-wi-fi-a-guide-with-7-explanations/"><u>Identifying the Root Causes of Slow Mobile Internet via Wi-Fi – A Guide with 7 Explanations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-with-tom-comprehensive-gadget-analysis-and-advice/"><u>Mastering Tech with Tom: Comprehensive Gadget Analysis & Advice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/pivotal-user-feedback-a-look-at-vllo-for-2024/"><u>Pivotal User Feedback A Look at VLLO for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/razer-blade-stealth-13-ultrabook-breakdown-how-its-raising-the-bar-for-laptop-performance/"><u>Razer Blade Stealth 13 Ultrabook Breakdown - How It's Raising the Bar for Laptop Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-amd-tech-unveiled-intuitive-self-overclocking-memory-manager/"><u>Revolutionary AMD Tech Unveiled: Intuitive Self-Overclocking Memory Manager</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/thrilling-breakthrough-in-pc-performance-ddr5-memory-hit-9058mhz-with-ryzen-clockwork-latest-bios-update-secrets-revealed/"><u>Thrilling Breakthrough in PC Performance: DDR5 Memory Hit 9058MHz with Ryzen Clockwork - Latest BIOS Update Secrets Revealed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components-t17239718670261/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/watch-all-star-wars-films-chronologically-with-disneys-streaming-service/"><u>Watch All Star Wars Films Chronologically with Disney's Streaming Service</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-captivating-content-with-a-click-phones-and-youtube-for-2024/"><u>[Updated] Captivating Content with a Click Phones & YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-explore-the-pinnacle-of-editing-android-edition/"><u>2024 Approved Explore the Pinnacle of Editing Android Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-voice-changes-in-psgames/"><u>2024 Approved Mastering Voice Changes in PSGames</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/advanced-email-marketing-tools-and-spam-words-lists-for-201-optimize-with-massmail/"><u>Advanced Email Marketing Tools and SPAM Words Lists for 201# | Optimize with Massmail</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-review-unveiling-the-power-of-miniaturized-wi-fi/"><u>ASRock Z790I Lightning Wireless Review: Unveiling the Power of Miniaturized Wi-Fi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-you-track-blood-pressure-with-the-upcoming-apple-watch-series-10-a-detailed-look-from-zdnet/"><u>Can You Track Blood Pressure with the Upcoming Apple Watch Series 10? A Detailed Look From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-hardware-discoveries-from-toms-computer-chronicles/"><u>Dive Into Hardware: Discoveries From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-gear-hub/"><u>Exploring Technology with Tom's Gear Hub</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 4G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-5-yields-hundreds-of-new-viewers-now-for-2024/"><u>Investing $5 Yields Hundreds of New Viewers Now for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solving-hp-monitor-driver-problems-in-windows-11-8-and-7/"><u>Solving HP Monitor Driver Problems in Windows 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-gadgets-with-expert-guidance-from-toms-hardware/"><u>Unlock the Secrets of Gadgets with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-differences-a-critical-review-of-hostgator-vps-and-shared-plans/"><u>Unveiling the Differences: A Critical Review of HostGator VPS and Shared Plans</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-note-12-proplus-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi Note 12 Pro+ 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

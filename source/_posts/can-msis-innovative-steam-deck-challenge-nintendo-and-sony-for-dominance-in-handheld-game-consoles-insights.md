@@ -1,7 +1,7 @@
 ---
 title: Can MSI's Innovative Steam Deck Challenge Nintendo and Sony for Dominance in Handheld Game Consoles? | Insights
-date: 2024-11-16T20:29:33.961Z
-updated: 2024-11-17T19:07:23.795Z
+date: 2024-11-26T16:29:08.981Z
+updated: 2024-11-27T18:03:33.667Z
 tags:
   - laptops
 categories:
@@ -18,6 +18,10 @@ June Wan/ZDNET
 The handheld gaming space grew by one as MSI unveiled their [Steam Deck](https://www.zdnet.com/home-and-office/home-entertainment/valves-steam-deck-turned-this-40-year-old-dad-into-a-gamer-again/) competitor, the Claw A1M. The portable gaming console is the first to be built with Intel's new Core Ultra chipset, which uses advanced AI algorithms and on-chip video codec support for enhanced video quality while streaming games as well as improving performance under heavy workloads. And while some first-look specs are impressive, a few of MSI's decisions leave me scratching my head. 
 
 **Also: [What do you get for the gamer who has everything?](https://www.zdnet.com/home-and-office/home-entertainment/gaming-gift/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -88,30 +92,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-masterclasses-in-livestreaming-and-recording-sport-views-for-2024/"><u>[New] Masterclasses in Livestreaming and Recording Sport Views for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-cash-flow-career-with-content-creation-like-ajey-nagar-for-2024/"><u>[Updated] Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-the-spectacular-display-dynamics-of-the-oled-gaming-monitor-gigabyte-aorus-co49dq-with-impressive-colors-and-contrasts/"><u>Expert Review: The Spectacular Display Dynamics of the OLED Gaming Monitor - Gigabyte Aorus CO49DQ with Impressive Colors & Contrasts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/exploring-vp9-compatibility-with-handbrake-your-ultimate-guide/"><u>Exploring VP9 Compatibility with Handbrake - Your Ultimate Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-f34-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy F34 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-top-rated-3d-tools-for-youtube-video-startups/"><u>In 2024, Top-Rated 3D Tools for YouTube Video Startups</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/keychron-k2-he-magnetic-masterpiece-with-a-vintage-flair-unveiled/"><u>Keychron K2 HE Magnetic Masterpiece with a Vintage Flair Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-zoom-display-hiccups-tips-and-solutions-for-dealing-with-computer-screen-glitches-updated-2-groovy-2024/"><u>Overcoming Zoom Display Hiccups: Tips and Solutions for Dealing with Computer Screen Glitches (Updated 2 Groovy 2024)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-honor-x8b-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor X8b? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionizing-workflows-with-apples-new-ipad-102/"><u>Revolutionizing Workflows with Apple's New iPad 10.2</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-budding-gardeners-handbook-to-sustainable-veggie-gardening-from-seedling-to-harvest/"><u>The Budding Gardener's Handbook to Sustainable Veggie Gardening From Seedling to Harvest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-toms-guide-to-cutting-edge-hardware/"><u>Unveiling New Gadgets: Tom's Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-setting-up-your-youtube-studio-essential-equipment-list/"><u>[New] 2024 Approved Setting Up Your YouTube Studio Essential Equipment List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-7-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 7 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-guides-and-reviews-on-pc-hardware-by-toms-experts/"><u>Advanced Guides and Reviews on PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341659635-approach-consider-the-role-of-local-regulations-in-determining-land-use/"><u>Approach: Consider the Role of Local Regulations in Determining Land Use.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-switching-passwords-for-other-users-within-windows-systems/"><u>Expert Tips: Switching Passwords for Other Users Within Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-instagram-guide-for-curating-and-sharing-podcasts/"><u>In 2024, The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-gizmos-with-tips-from-toms-hardware-zone/"><u>Mastering Gadgets and Gizmos with Tips From Tom’s Hardware Zone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-issues-with-the-at-sign-on-your-device/"><u>Troubleshooting Steps: Resolving Issues with the At Sign on Your Device</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

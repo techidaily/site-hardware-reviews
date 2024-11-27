@@ -1,7 +1,7 @@
 ---
 title: "Asus Unleashed: The Modest Design with a Surprising Creatives Feature You Can't Miss | ZDNET"
-date: 2024-11-14T18:31:03.493Z
-updated: 2024-11-17T19:56:56.446Z
+date: 2024-11-23T16:57:12.323Z
+updated: 2024-11-27T17:22:59.709Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,22 +112,24 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-proportion-refinement-from-home/"><u>[New] Seamless Proportion Refinement From Home</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/creador-de-presentaciones-de-boda-guia-paso-a-paso-para-hacer-tus-propios-slides-de-matrimonio/"><u>Creador De Presentaciones De Boda - Guía Paso a Paso Para Hacer Tus Propios Slides De Matrimonio</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-and-systems-by-toms-hardware/"><u>Expert Analysis on Gadgets and Systems by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-advanced-strategies-for-logging-lol-contests/"><u>In 2024, Advanced Strategies for Logging LOL Contests</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-gear-choices-with-expert-advice-from-toms-equipment-hub/"><u>Master Your Gear Choices with Expert Advice From Tom's Equipment Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-tom-your-ultimate-guide-to-new-hardware/"><u>Navigating Technology with Tom - Your Ultimate Guide to New Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/netgears-value-proposition-with-the-orbi-770-mesh-router-balancing-price-point-and-performance/"><u>Netgear's Value Proposition with the Orbi 770 Mesh Router - Balancing Price Point and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-compute-module-4s-revolutionizing-industrial-automation-a-detailed-examination/"><u>Raspberry Pi Compute Module 4S: Revolutionizing Industrial Automation - A Detailed Examination</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-logilda-dll-with-ease/"><u>Revive LogiLDA DLL with Ease</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/tiny-mansions-crafting-ornate-japanese-spaces-for-2024/"><u>Tiny Mansions Crafting Ornate Japanese Spaces for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-iphone-16pro-protective-covers-of-2024-comprehensive-reviews-by-tech-gurus/"><u>Top Rated iPhone 16/Pro Protective Covers of 2024: Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-gt-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme GT 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-expert-evaluation-how-the-new-microsoft-surface-pro-8-meets-business-needs-and-sets-industry-standards/"><u>ZDNet's Expert Evaluation: How the New Microsoft Surface Pro 8 Meets Business Needs and Sets Industry Standards</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>[Updated] In 2024, The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>2024 Approved How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-seek-and-succeed-hunt-down-instagrams-top-thinkers-in-your-space/"><u>2024 Approved Seek and Succeed Hunt Down Instagram's Top Thinkers in Your Space</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-6-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-quality-computer-system-builders-race-event-q4-2015-competitive-price-at-just-912/"><u>AMD Quality Computer System Builders Race Event, Q4 2015 - Competitive Price at Just $912</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ease-your-build-process-with-the-innovative-features-of-asus-tuf-gaming-desktops/"><u>Ease Your Build Process with the Innovative Features of Asus TUF Gaming Desktops</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-your-tiktok-cinematic-vision-for-2024/"><u>Elevate Your TikTok Cinematic Vision for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-academic-performance-with-these-6-essential-pc-improvements-for-students/"><u>Enhance Academic Performance with These 6 Essential PC Improvements for Students</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-techniques-to-recover-deleted-reddit-posts-for-2024/"><u>Fast Techniques to Recover Deleted Reddit Posts for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ftc-accuses-amazon-of-misleading-tactics-in-massive-prime-membership-scandal/"><u>FTC Accuses Amazon of Misleading Tactics in Massive Prime Membership Scandal</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-100-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 100 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>In 2024, The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964467063-skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-and-comprehensive-reviews/"><u>Tom's Tech Hub: Expert Insights and Comprehensive Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-computer-components-and-performance/"><u>Tom's Tech Review: Expert Insights Into Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-guides-and-insights-on-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Guides & Insights on Computer Hardware</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-10-no-cost-pc-screen-capture-tools-finding-the-ultimate-free-recorder/"><u>Top 10 No-Cost PC Screen Capture Tools: Finding the Ultimate Free Recorder</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadget-insights-with-toms-technology-hub/"><u>Unveiling Gadget Insights with Tom’s Technology Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-gadgets-and-pc-hardware-with-toms-guide/"><u>Unveiling the Best in Gadgets and PC Hardware with Tom's Guide</u></a></li>
 </ul></div>
 

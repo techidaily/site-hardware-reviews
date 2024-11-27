@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings Alert: Secure Up To $900 Off On Lenovo Business Notebooks Pre-Prime Day Bonanza - Dive Into Deals with ZDNet!"
-date: 2024-11-11T20:41:56.437Z
-updated: 2024-11-17T20:53:14.364Z
+date: 2024-11-25T18:08:25.699Z
+updated: 2024-11-27T16:06:03.386Z
 tags:
   - laptops
 categories:
@@ -37,6 +37,10 @@ This laptop isn't solely for business professionals. Everybody can enjoy the dev
 
 Right now is the best time to buy this device. The [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C118101c3-c703-4690-9ec4-f0dc5d66536a%7Cdtp&dtb=1) is currently on sale at Amazon for $1,500\. That is almost $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C118101c3-c703-4690-9ec4-f0dc5d66536a%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at ZDNET.com. 
@@ -71,29 +75,18 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ndless-viewing-with-iphone-writes-of-video-for-2024/"><u>[New] Endless Viewing with iPhone' Writes of Video for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-top-creators-revolutionizing-virtual-environments-for-2024/"><u>[New] Top Creators Revolutionizing Virtual Environments for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-camerasection-breakdown-analysis/"><u>[Updated] 2024 Approved CameraSection Breakdown Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-in-depth-analysis-of-the-uphere-m201-ssd-heatsink-your-guide-to-essential-nvme-thermal-management-at-only-5/"><u>Affordable Excellence: In-Depth Analysis of the UpHere M201 SSD Heatsink - Your Guide to Essential NVMe Thermal Management at Only $5</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-guides-from-toms-digital-workshop/"><u>Comprehensive Computer Guides From Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-unleashing-the-power-of-amd-ryzen-r9-5900hx-in-the-new-asus-zenbook-s16/"><u>Comprehensive Review: Unleashing the Power of AMD Ryzen R9 5900HX in the New Asus Zenbook S16</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/expertise-en-telesupport-meilleures-pratiques-avec-winx-dvd-ripper-and-logiciel-video-conversion/"><u>Expertise en Télésupport: Meilleures Pratiques Avec WinX DVD Ripper & Logiciel Vidéo-Conversion</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/fast-flagship-and-funny-a-comprehensive-review-of-the-flsun-s1-device/"><u>Fast, Flagship & Funny: A Comprehensive Review of the FLSun S1 Device</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/get-started-with-videoleap-on-your-macbook-today/"><u>Get Started with Videoleap on Your MacBook Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-strix-xg27acs-the-ultimate-qhd-180hz-gamers-display/"><u>In-Depth Analysis of Asus ROG Strix XG27ACS - The Ultimate QHD 180Hz Gamer's Display</u></a></li>
-<li><a href="https://driver-error.techidaily.com/navigating-and-fixing-ndis-on-pcs-swiftly/"><u>Navigating and Fixing NDIS on PCs Swiftly</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-toms-hardware-experts/"><u>Navigating New Gadgets with Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-of-asrock-b760m-pro-rs-economical-and-feature-rich-for-enthusiasts/"><u>Review of ASRock B760M Pro RS: Economical & Feature-Rich for Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-the-silent-bluetooth-dilemma-troubleshooting-and-solutions-for-no-audio-issues/"><u>Solving the Silent Bluetooth Dilemma: Troubleshooting and Solutions for No Audio Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computing-comprehensive-tech-reviews-and-advice/"><u>Tom's Computing: Comprehensive Tech Reviews and Advice</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unmissable-upgrades-top-8-tech-and-tools-reshaping-modern-enterprises-for-2024/"><u>Unmissable Upgrades Top 8 Tech & Tools Reshaping Modern Enterprises for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-engaging-creativity-crafting-compelling-facebook-ads-for-2024/"><u>[New] Engaging Creativity Crafting Compelling Facebook Ads for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-loop-creator-pro/"><u>[New] Loop Creator Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-maximizing-zoom-collaboration-essential-setup-tips/"><u>[New] Maximizing Zoom Collaboration Essential Setup Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-turn-your-passion-into-profits-youtube-on-facebook-monetization-steps-for-2024/"><u>[New] Turn Your Passion Into Profits YouTube on Facebook Monetization Steps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488440-asus-rog-azoth-extreme-ultimate-gamers-choice-oled-touch-screen-robust-aluminum-body-with-carbon-fiber-at-499/"><u>ASUS ROG AZOTH Extreme: Ultimate Gamer's Choice - OLED Touch Screen, Robust Aluminum Body with Carbon Fiber at $499</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/behind-the-curtain-unraveling-squid-game-through-hangul/"><u>Behind the Curtain: Unraveling Squid Game Through Hangul</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beyond-the-gameplay-unveiling-the-devoted-reception-of-the-meletrix-boog75-gaming-console/"><u>Beyond the Gameplay: Unveiling the Devoted Reception of the Meletrix BOOG75 Gaming Console</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-s23-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy S23 is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-correcting-lopsided-audio-issues-four-fixes-for-disparate-airpod-sounds/"><u>Diagnosing and Correcting Lopsided Audio Issues: Four Fixes for Disparate AirPod Sounds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-ultra-speed-charging-like-never-before-get-cable-matters-trailblazing-23-thunderbolt-5-cable-120gbps-and-240w-of-power-awaits-you/"><u>Experience Ultra-Speed Charging Like Never Before! Get Cable Matters' Trailblazing $23 Thunderbolt 5 Cable - 120Gbps and 240W of Power Awaits You</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722966678210-fixing-amd-vega-64-graphics-card-issues-with-the-newest-windows-drivers-your-solution-here/"><u>Fixing AMD Vega 64 Graphics Card Issues with the Newest Windows Drivers – Your Solution Here</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-best-out-of-streaming-unbeatable-discount-on-logitech-g-yeti-gx-mic-shop-now/"><u>Get the Best Out of Streaming: Unbeatable Discount on Logitech G Yeti GX Mic – Shop Now</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/infographic-review-fifa-video-gains-on-social-platforms/"><u>Infographic Review FIFA Video Gains on Social Platforms</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

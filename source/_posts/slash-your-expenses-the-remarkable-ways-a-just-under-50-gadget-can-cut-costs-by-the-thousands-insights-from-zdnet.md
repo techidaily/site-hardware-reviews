@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Expenses: The Remarkable Ways a Just-Under-$50 Gadget Can Cut Costs by the Thousands - Insights From ZDNet"
-date: 2024-11-13T19:02:09.860Z
-updated: 2024-11-17T21:39:07.086Z
+date: 2024-11-21T17:32:40.358Z
+updated: 2024-11-27T16:07:48.170Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -73,10 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -115,20 +116,17 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-video-resolution-converter-for-windowsmaconline/"><u>[Updated] 2024 Approved Best Video Resolution Converter [for Windows/Mac/Online]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning-for-2024/"><u>[Updated] Decoding the Cost Per Thousand Views on YouTube for Successful Earning for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-performance-stunning-visual-fidelity-on-the-gigabyte-aorus-co49dq-oled-for-gamers/"><u>Breaking Down Performance: Stunning Visual Fidelity on the Gigabyte Aorus CO49DQ OLED for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-perspective-on-gigabytes-g6x-laptop-competent-but-without-any-standout-features/"><u>Gamers' Perspective on Gigabyte's G6X Laptop: Competent but Without Any Standout Features</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/how-to-create-compelling-content-for-facebook-reels/"><u>How to Create Compelling Content for Facebook Reels</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androidiphone-photo-overlay-wonders-top-10-free-tools-ranked/"><u>In 2024, Android/iPhone Photo Overlay Wonders – Top 10 Free Tools Ranked</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-14-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi 14 Pro Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-easy-and-effective-h264-video-downscaling/"><u>Mastering Easy and Effective H264 Video Downscaling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-trends-the-ultimate-resource-from-toms-hardware/"><u>Navigating New Tech Trends - The Ultimate Resource From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/performance-insights-on-the-revolutionary-4tb-wd-blue-sn5000-solid-state-drive-from-western-digital/"><u>Performance Insights on the Revolutionary 4TB WD Blue SN5000 Solid State Drive From Western Digital</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/precision-screening-advanced-tips-for-hp-laptop-recording/"><u>Precision Screening Advanced Tips for HP Laptop Recording</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomms-revolutionary-chips-in-laptops-how-the-snapdragon-x-series-powers-dell-xps-13-plus-with-extended-battery-life-at-half-price-of-intel-models/"><u>Qualcomm's Revolutionary Chips in Laptops: How the Snapdragon X Series Powers Dell XPS 13 Plus with Extended Battery Life at Half Price of Intel Models</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-gps-problems-when-location-not-available-appears-on-iphone/"><u>Troubleshooting GPS Problems When 'Location Not Available' Appears on iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-powerdirector-command-center-a-complete-2024-examination/"><u>[New] PowerDirector Command Center A Complete 2024 Examination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guidance-by-toms-technology-blog-unveiling-the-latest-innovations/"><u>Advanced Hardware Guidance by Tom's Technology Blog: Unveiling the Latest Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-5-8600g-cpu-gpu-combo-sale-save-big-with-181-pricing-on-amazon/"><u>AMD Ryzen #5 8600G CPU-GPU Combo Sale - Save Big with $181 Pricing on Amazon</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-tech-devices-for-avid-readers-discover-laptops-and-phones/"><u>Essential Tech Devices for Avid Readers: Discover Laptops and Phones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-your-guide-to-cutting-edge-technology/"><u>Exploring Gadgets with Tom's Hardware - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/how-to-resolve-the-mysterious-error-0x80070002-step-by-step-system-restore-troubleshooting/"><u>How to Resolve the Mysterious 'Error 0X80070002': Step-by-Step System Restore Troubleshooting</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-reno-8t-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo Reno 8T 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-google-pixel-fold-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Google Pixel Fold</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-where-custom-visuals-for-youtube-live-and-breathe/"><u>In 2024, Where Custom Visuals for YouTube Live and Breathe</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-affordable-4tb-performance-tested/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite: Affordable 4TB Performance Tested</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware-t17239718723911/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-wmv-video-splitters/"><u>Top 5 Best Free WMV Video Splitters</u></a></li>
 </ul></div>
 

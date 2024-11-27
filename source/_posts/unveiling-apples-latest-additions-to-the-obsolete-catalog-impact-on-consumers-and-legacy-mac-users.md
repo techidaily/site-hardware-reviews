@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Apple's Latest Additions to the 'Obsolete' Catalog: Impact on Consumers & Legacy Mac Users"
-date: 2024-11-16T17:58:42.411Z
-updated: 2024-11-17T21:21:36.054Z
+date: 2024-11-22T17:21:15.129Z
+updated: 2024-11-27T18:23:34.231Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. M4 Macs
 
 Kerry Wan/ZDNET
@@ -41,10 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -60,10 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -77,16 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -129,18 +118,20 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-become-an-expert-at-youtube-live-streams-with-google-meet-for-2024/"><u>[New] Become an Expert at YouTube Live Streams with Google Meet for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-firecapture-plugins-for-firefox-for-2024/"><u>[New] FireCapture Plugins for Firefox for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tips-and-tricks-for-rearranging-your-youtube-playlists/"><u>[Updated] Tips & Tricks for Rearranging Your YouTube Playlists</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-look-at-podcaster-income-for-2024/"><u>Behind-the-Scenes Look at Podcaster Income for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/guia-facil-de-crear-una-copia-de-respaldo-en-nas-synology-para-windows-server-2012-r2/"><u>Guía Fácil De Crear Una Copia De Respaldo en NAS Synology Para Windows Server 2012 R2</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovation-unleashed-cutting-edge-ar-games/"><u>In 2024, Innovation Unleashed Cutting-Edge AR Games</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/market-bounces-back-over-39-million-motherboards-projected-for-sale-as-pandemic-recovery-boosts-shipments/"><u>Market Bounces Back: Over 39 Million Motherboards Projected for Sale as Pandemic Recovery Boosts Shipments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-hardware-with-expert-tips-from-toms-systems-guides/"><u>Mastering Computer Hardware with Expert Tips From Tom's Systems Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-through-toms-comprehensive-analysis/"><u>Mastering Hardware Choices Through Tom's Comprehensive Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-insights-from-toms-gear-analysis/"><u>Mastering the Tech World: Insights From Tom's Gear Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-top-tier-z890-and-b8n60-boards-for-intel-arc-s-certified-before-the-excitement-of-computex-2024-begins/"><u>MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msis-pre-computex-2024-launch-premium-z890-and-b860-motherboards-for-intel-arc-s-system-leak-detected/"><u>MSI's Pre-Computex 2024 Launch: Premium Z890 and B860 Motherboards for Intel Arc S System Leak Detected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-ps4-consoles-loud-operation-tips-and-solutions/"><u>Troubleshooting Your PS4 Console's Loud Operation: Tips and Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-potential-with-informed-tagging-on-youtube/"><u>[New] Unleash Potential with Informed Tagging on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-10-accessory-collection-for-sj4000/"><u>2024 Approved The Ultimate 10 Accessory Collection for SJ4000</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crafting-your-weekly-schedule-with-google-meet/"><u>Crafting Your Weekly Schedule with Google Meet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-insights-from-toms-computer-diagnostics/"><u>Detailed Insights From Tom's Computer Diagnostics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-gamer-screens/"><u>Elite Gamer Screens</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-90-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor 90 Pro Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-maximizing-revenue-a-youtube-channelers-guide/"><u>In 2024, Maximizing Revenue A YouTube Channeler’s Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi FRP</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-by-toms-hardware-experts/"><u>In-Depth Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341757274-land-division-must-comply-with-local-zoning-laws-and-land-use-regulations/"><u>Land Division Must Comply with Local Zoning Laws and Land Use Regulations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-and-fabulous-top-10-online-video-enhancers-for-better-quality/"><u>New 2024 Approved Free & Fabulous Top 10 Online Video Enhancers for Better Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/regular-follow-up-visits-allow-for-assessment-of-healing-progress-and-detection-of-late-onset-complications/"><u>Regular Follow-Up Visits Allow for Assessment of Healing Progress and Detection of Late Onset Complications.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-tech-specs-with-toms-insights/"><u>The Ultimate Guide to Tech Specs with Tom's Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-v30-lite-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo V30 Lite 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
 

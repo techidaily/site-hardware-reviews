@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Premium Ultraportable Lenovo ThinkPad X1n: A Cutting-Edge Arm Processor, 5G Ready, and Exceptional Battery Life"
-date: 2024-11-14T17:33:08.750Z
-updated: 2024-11-17T16:43:07.500Z
+date: 2024-11-26T18:08:15.552Z
+updated: 2024-11-27T18:37:36.640Z
 tags:
   - laptops
 categories:
@@ -45,6 +45,10 @@ Image: Charles McLellan / ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Design
 
 Lenovo's ThinkPads rarely stray far from the familiar black livery with red and silver accents, and the ThinkPad X13s is no exception. The chassis, which is made of magnesium-aluminium (top) and [GFRP](https://en.wikipedia.org/wiki/Fibre-reinforced%5Fplastic) (bottom), is Thunder Black in colour, with branding on the lid and wrist rest, the iconic red TrackPoint embedded in the keyboard, and three buttons above the trackpad. Lenovo says that 90% of the magnesium used in the chassis is recycled, as is 97% of the plastic in the speaker enclosure, while 90% of the packaging is recycled and/or sustainable. 
@@ -66,10 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -83,10 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -118,10 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -175,10 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -226,22 +218,24 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastery-in-motion-choosing-your-path-for-vimeo-download-tools/"><u>[New] 2024 Approved Mastery in Motion Choosing Your Path for Vimeo Download Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gopro-hero-session-vs-polaroid-cubeplus-which-one-is-better-for-you/"><u>[New] GoPro Hero Session Vs Polaroid Cube+ Which One Is Better for You?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cut-costs-on-downloads-with-this-list-of-20-free-youtube-sound-rippers-for-2024/"><u>[Updated] Cut Costs on Downloads with This List of 20 Free YouTube Sound Rippers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-explore-these-ten-booming-youtube-sources-to-uplift-yourself/"><u>[Updated] In 2024, Explore These Ten Booming YouTube Sources to Uplift Yourself</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-10-best-action-cameras-for-diving-or-snorkelling-2023-update/"><u>[Updated] In 2024, Top 10 Best Action Cameras For Diving Or Snorkelling -2023 Update</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-the-check-engine-light-top-bluetooth-diagnostic-gadgets-reviewed/"><u>Decoding the Check Engine Light: Top Bluetooth Diagnostic Gadgets Reviewed</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-omnicharge-omni-cups-with-portable-power-solution-including-qi-wireless-convenience/"><u>Expert Analysis: Omnicharge Omni Cups with Portable Power Solution, Including Qi Wireless Convenience</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-toms-technology-experts/"><u>In-Depth Hardware Analysis by Tom's Technology Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/intels-raptor-lake-and-refresh-chip-instability-cured-discover-the-power-of-the-latest-asus-firmware-upgrade-for-gamers/"><u>Intel's Raptor Lake & Refresh Chip Instability Cured - Discover the Power of the Latest Asus Firmware Upgrade for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-toms-hardware-top-tips-and-analysis/"><u>Master Your Gadgets with Tom's Hardware – Top Tips and Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-with-toms-hardware-essentials/"><u>Mastering Gadget Selection with Tom's Hardware Essentials</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-dive-into-toms-hardware-discoveries/"><u>Mastering Gadgets: Dive Into Tom's Hardware Discoveries</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-knowledge-with-toms-expertise-comprehensive-tech-evaluation/"><u>Mastering Hardware Knowledge with Tom's Expertise: Comprehensive Tech Evaluation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastery-of-machine-your-guide-to-computer-hardware-on-toms-hardware/"><u>Mastery of Machine: Your Guide to Computer Hardware on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-your-pc-upgrade-journey-with-guidance-from-toms-hardware/"><u>Navigate Your PC Upgrade Journey with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/"><u>[New] Snickel & Wail Instagram's 10 Most Hilarious Meme Accounts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>[Updated] Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dispelling-dark-pixels-youtube-solution-guide/"><u>[Updated] In 2024, Dispelling Dark Pixels YouTube Solution Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-viewability-creating-custom-youtube-thumbnails/"><u>[Updated] In 2024, Enhancing Viewability Creating Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsairs-latest-gem-the-ultimate-review-for-the-superior-mp600-mini-1tb-m2-2230e2t-ssd-your-perfect-storage-solution/"><u>Corsair's Latest Gem: The Ultimate Review for the Superior MP600 Mini 1TB (M.2 2230/E2^T) SSD - Your Perfect Storage Solution!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hering-how-to-find-my-youtube-comments-posts/"><u>Deciphering How To Find My YouTube Comments Posts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-strategies-to-address-and-correct-mingwm1-10-dll-errors-on-your-computer/"><u>Expert Strategies to Address and Correct Mingwm1 10 DLL Errors on Your Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubics-trailblazing-multicolor-3d-printer-the-kobra-3-edition/"><u>Exploring the Features of Anycubic's Trailblazing Multicolor 3D Printer: The Kobra 3 Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695533-exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-commanders-quest-the-ultimate-list-of-total-war-classics/"><u>In 2024, Commanders’ Quest The Ultimate List of Total War Classics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-your-trusted-computer-hub/"><u>Inside Tom's Hardware: Your Trusted Computer Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-for-swifter-loading-of-apps-from-microsoft-store/"><u>Navigating for Swifter Loading of Apps From Microsoft Store</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/on-the-go-connectivity-assessment-asus-rt-ax52018-nano-router-a-review-for-wanderers-and-road-warriors/"><u>On-the-Go Connectivity Assessment: Asus RT-AX52018 Nano Router – A Review for Wanderers and Road Warriors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-gigabyte-g6x-for-gamers-reliable-functionality-yet-unremarkable-attributes/"><u>Reviewing the Gigabyte G6X for Gamers: Reliable Functionality Yet Unremarkable Attributes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-art-of-professionalising-a-roadmap-in-graphic-design/"><u>The Art of Professionalising A Roadmap in Graphic Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-gadgets-by-toms-tech-wisdom/"><u>The Ultimate Guide to Cutting-Edge Gadgets by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/tips-for-high-quality-vr-gametime-recordings-for-2024/"><u>Tips for High-Quality VR Gametime Recordings for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-kingston-fury-ddr5-6000-a-closer-look-at-its-high-speed-32gbx2-performance/"><u>Unveiling the Capabilities of the Kingston Fury DDR5-6000: A Closer Look at Its High-Speed 32GBx2 Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Restoring Defaults: A Step-by-Step Guide to Reconfiguring Sound Preferences on Windows PCs"
-date: 2024-11-16T19:38:44.537Z
-updated: 2024-11-17T17:55:27.538Z
+date: 2024-11-25T16:32:07.914Z
+updated: 2024-11-27T16:20:49.204Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ You're attempting to listen to music or watch a video on your computer.
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -42,14 +46,11 @@ And with a snafu like no sound, there are a few ways to troubleshoot the issue, 
 
 Here's how to pull this off in both Windows 10 and 11.
 
-## How to reset your audio settings in Windows
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to reset your audio settings in Windows
 
 ## 1\. Check your audio and sound source
 
@@ -72,6 +73,10 @@ After choosing your output device, try playing audio again.
 Check the audio sources.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check external speakers
 
@@ -129,13 +134,6 @@ Check the Volume mixer in Windows 11.
 
 Screenshot by Lance Whitney
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Click the Reset button
 
 Both versions of Windows show you the volume levels for different devices and applications. Review each level to make sure it's set properly. If all looks good and you're still unable to hear any sound, click the **Reset** button at the bottom. That will reset all the devices and apps to their recommended Microsoft defaults.
@@ -157,10 +155,7 @@ Check sound settings.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Uncheck Enable audio enhancements
@@ -180,10 +175,7 @@ Open Device Manager.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Click Update driver
@@ -194,6 +186,10 @@ Update the driver.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 12\. If this doesn't work, try uninstalling the driver
 
 Still no luck? You can try uninstalling and then reinstalling the driver. Click the **Uninstall Device** button. Confirm that you want to uninstall it.
@@ -201,13 +197,6 @@ Still no luck? You can try uninstalling and then reinstalling the driver. Click 
 Uninstall the driver.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 13\. Reinstall the audio driver
 
@@ -270,20 +259,20 @@ Hopefully, by going through these different Windows troubleshooting steps, you'l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-behind-the-scenes-the-magic-of-quantum-hdr/"><u>[New] 2024 Approved Behind the Scenes The Magic of Quantum HDR</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-science-behind-your-top-ranked-youtube-videos/"><u>[New] In 2024, The Science Behind Your Top-Ranked YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-ultimate-video-editing-experience-for-vimeo-enthusiasts/"><u>[Updated] In 2024, The Ultimate Video Editing Experience for Vimeo Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862873135-1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-proven-picks-the-top-5-online-title-makers-you-need-to-know/"><u>2024 Approved Proven Picks The Top 5 Online Title Makers You Need to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-toms-hardware-experts/"><u>Advanced Computing Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-significant-security-flaw-with-latest-update-msi-releases-agesa-120c-for-ryzen-processors/"><u>AMD Resolves Significant Security Flaw with Latest Update: MSI Releases AGESA 1.2.0.C for Ryzen Processors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-announces-latest-generation-of-arrow-lake-motherboards-featuring-an-enhanced-taichi-model-supporting-camm2-ram/"><u>ASROCK Announces Latest Generation of Arrow Lake Motherboards - Featuring an Enhanced Taichi Model Supporting CAMM2 RAM</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-revolutionizes-chinas-pc-building-with-a-dedicated-motherboard-skyrocketing-kx-7000-cpu-speed-by-25-through-overclocking/"><u>Asus Revolutionizes China’s PC Building with a Dedicated Motherboard, Skyrocketing KX-7000 CPU Speed by 25% Through Overclocking</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/backside-gpu-integration-discover-maxsuns-advanced-mini-itx-motherboard-technology/"><u>Backside GPU Integration: Discover Maxsun's Advanced Mini-ITX Motherboard Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/external-display-detection-issues-on-mac-heres-how-to-resolve-them/"><u>External Display Detection Issues on Mac? Here's How to Resolve Them!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-14-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 14</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-prioritize-close-up-views-for-effective-collaboration-for-2024/"><u>How to Prioritize Close-Up Views for Effective Collaboration for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instant-darkness-pretty-simple-for-2024/"><u>Instant Darkness, Pretty Simple for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-faster-phonetic-playback-choose-from-these-10/"><u>[Updated] 2024 Approved Faster Phonetic Playback Choose From These 10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exclusive-guide-to-the-best-chrome-extensions-for-fb-videos-for-2024/"><u>[Updated] Exclusive Guide to the Best Chrome Extensions for FB Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-real-time-tv-broadcast-preservation-the-easy-guide-for-2024/"><u>[Updated] Real-Time TV Broadcast Preservation - The Easy Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-streamers-guide-to-choosing-a-video-player-vlc-vs-mpc-for-2024/"><u>[Updated] Streamer's Guide to Choosing a Video Player VLC Vs. MPC for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-infusing-creative-edge-in-your-youtube-trailer-production/"><u>2024 Approved Infusing Creative Edge in Your YouTube Trailer Production</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-detailed-breakdown-of-the-acer-predator-orion-5000-performance-beast-review/"><u>Affordable Powerhouse: Detailed Breakdown of the Acer Predator Orion 5000 Performance Beast Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-under-20-review-of-uphere-c5c-and-d6sec-air-coolers-revealed/"><u>Best Under $20? Review of UpHere C5C & D6Sec Air Coolers Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-raspberry-pi-artificial-intelligence-starter-bundle/"><u>Expert Analysis of the Raspberry Pi Artificial Intelligence Starter Bundle</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y56-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y56 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-gadgets-with-tom-in-depth-hardware-analysis/"><u>Mastering Modern Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mechanical-keyboard-spotlight-affordable-excellence-with-the-nuphy-halo75-v2-review/"><u>Mechanical Keyboard Spotlight: Affordable Excellence with the Nuphy Halo75 V2 Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-your-tech-journey-with-insights-from-toms-hardware-reviews/"><u>Pioneering Your Tech Journey with Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/steps-to-locate-your-personal-email-address/"><u>Steps To Locate Your Personal Email Address</u></a></li>
+<li><a href="https://techtrends.techidaily.com/who-are-the-masterminds-behind-microsofts-chatgpt/"><u>Who Are the Masterminds Behind Microsoft's ChatGPT?</u></a></li>
 </ul></div>
 

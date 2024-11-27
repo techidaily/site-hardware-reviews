@@ -1,0 +1,80 @@
+---
+title: "Snag the HP Victus 15 Gaming Laptop at Just $530 During Best Buy's Prime Day Sale: The Top Tech Picks - ZDNet"
+date: 2024-11-26T16:52:25.696Z
+updated: 2024-11-27T16:36:22.160Z
+tags:
+  - laptops
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9a6b178eea0c04126c8f2280.jpg
+---
+
+## Get the HP Victus 15 Gaming Laptop at a Steal - Just $515 During Best Buy's Prime Day Sale![ZDNet
+
+![HP Victus 15.6-inch Gaming Laptop](https://www.zdnet.com/a/img/resize/ef908b1397d11fee9b7e33613347c20525be41f3/2024/10/09/0dab5962-0dd7-466f-9bfa-3f23921f6af1/hp-victus-laptop-3.jpg?auto=webp&width=1280)
+
+HP/ZDNET
+
+The [HP Victus](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-victus-15-6-full-hd-144hz-gaming-laptop-intel-core-i5-8gb-memory-nvidia-geforce-rtx-3050-512gb-ssd-performance-blue%2F6570600.p%3FskuId%3D6570600&publisher_slug=itechdaily19598&exclusive=1) is a solid cheap gaming laptop, and Best Buy is running a deal right now where you can save $365 on the 15-inch model. That brings the price down to just $515, making it a great choice for anyone looking to upgrade their gaming laptop without breaking the bank. 
+
+[![HP Victus 15 for $515 (save $365)](https://www.zdnet.com/a/img/resize/e22b5a507113c6b8db54535ca800445afb72cbcb/2024/10/09/ab9dbfb7-282c-4f86-b669-063b38c9d1b2/hp-victus-laptop.jpg?auto=webp&fit=crop&height=172.5&width=294) HP Victus 15 for $515 (save $365) View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-victus-15-6-full-hd-144hz-gaming-laptop-intel-core-i5-8gb-memory-nvidia-geforce-rtx-3050-512gb-ssd-performance-blue%2F6570600.p%3FskuId%3D6570600&publisher_slug=itechdaily19598&exclusive=1)
+
+HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 144Hz refresh rate for buttery smooth action during fast-paced or action-heavy scenes in your favorite games. Additionally, this laptop uses an advanced technique for cooling the computer as hot air is blown out of the bottom of the laptop to ensure the computer maintains a good temperature while you game.
+
+**Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
+
+With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## When will this deal expire?
+
+Deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+#### **ZDNET** Recommends
+
+[Best VPN services](https://www.zdnet.com/article/best-vpn/ "Best VPN services")
+
+[Best robot vacuums and mops](https://www.zdnet.com/article/best-robot-vacuum-mop/ "Best robot vacuums and mops")
+
+[Best gaming PCs](https://www.zdnet.com/article/best-gaming-pc/ "Best gaming PCs")
+
+[Best live TV streaming services](https://www.zdnet.com/article/best-live-tv-streaming-service/ "Best live TV streaming services")
+
+* [Best VPN services](https://www.zdnet.com/article/best-vpn/ "Best VPN services")
+* [Best robot vacuums and mops](https://www.zdnet.com/article/best-robot-vacuum-mop/ "Best robot vacuums and mops")
+* [Best gaming PCs](https://www.zdnet.com/article/best-gaming-pc/ "Best gaming PCs")
+* [Best live TV streaming services](https://www.zdnet.com/article/best-live-tv-streaming-service/ "Best live TV streaming services")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-upload-tweets-no-retweets-on-mobile-for-2024/"><u>[Updated] How to Upload Tweets - No Retweets on Mobile for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-scouting-the-best-cameras-for-aspiring-muso-videographers/"><u>[Updated] In 2024, Scouting the Best Cameras for Aspiring Muso Videographers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfecting-ultimate-canon-temp-visuals-for-2024/"><u>[Updated] Perfecting Ultimate Canon Temp Visuals for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-audioadvisor-dacast-and-what-it-should-be/"><u>2024 Approved AudioAdvisor DaCast & What It Should Be</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/becoming-a-video-wizard-with-screencast-insider-tips-for-2024/"><u>Becoming a Video Wizard with Screencast Insider Tips for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computer-news-and-reviews-by-team-toms-hardware/"><u>Cutting-Edge Computer News & Reviews by Team Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-with-tom-authoritative-hardware-insights/"><u>Decoding Tech with Tom: Authoritative Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-and-insights-from-techmastertom/"><u>Detailed Analysis and Insights From TechMasterTom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-innovative-hardware-with-tom-expert-insights-and-evaluations/"><u>Discover Innovative Hardware with Tom - Expert Insights and Evaluations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-ai-can-transform-education-8-compelling-reasons-teachers-should-welcome-change/"><u>How AI Can Transform Education: 8 Compelling Reasons Teachers Should Welcome Change</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-clipcutter-plus/"><u>In 2024, ClipCutter Plus</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-configuring-safe-area-mode-and-pip-in-modern-macos/"><u>In 2024, Configuring Safe Area Mode & PIP in Modern MacOS</u></a></li>
+</ul></div>
+

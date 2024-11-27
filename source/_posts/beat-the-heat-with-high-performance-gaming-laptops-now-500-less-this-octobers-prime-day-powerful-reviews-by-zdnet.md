@@ -1,7 +1,7 @@
 ---
 title: Beat the Heat with High-Performance Gaming Laptops Now $500 Less This October's Prime Day | Powerful Reviews by ZDNET
-date: 2024-11-14T21:50:09.991Z
-updated: 2024-11-17T19:04:09.019Z
+date: 2024-11-20T16:03:30.201Z
+updated: 2024-11-27T17:53:12.345Z
 tags:
   - laptops
 categories:
@@ -24,6 +24,10 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 **Also: [The best budget gaming laptops: Expert tested](https://www.zdnet.com/article/best-budget-gaming-laptop/)** 
 
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -59,27 +63,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-explore-these-seven-sources-for-youtube-sound-effects-for-2024/"><u>[New] Explore These Seven Sources for YouTube Sound Effects for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-intellectual-property-guidelines-for-instahits/"><u>[New] Intellectual Property Guidelines for InstaHits</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-personalize-your-viewing-experience-building-a-google-cardboard-vr-setup/"><u>[Updated] 2024 Approved Personalize Your Viewing Experience Building a Google Cardboard VR Setup</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-essential-blueprint-for-configuring-a-zoom-space-for-2024/"><u>[Updated] The Essential Blueprint for Configuring a Zoom Space for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevating-handheld-gaming-with-asuss-rog-ally-x-a-detailed-review-of-its-high-end-features-and-cost/"><u>Elevating Handheld Gaming with Asus's ROG Ally X: A Detailed Review of Its High-End Features and Cost</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-refresh-rate-marvels/"><u>High Refresh Rate Marvels</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341696920-imaging-techniques-like-oct-may-be-used-postoperatively-to-confirm-the-success-of-surgical-interventions-such-as-retinal-detachment-repair/"><u>Imaging Techniques Like OCT May Be Used Postoperatively to Confirm the Success of Surgical Interventions Such as Retinal Detachment Repair</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-8-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 8? Heres the Best Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-poco-x6-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Poco X6 Phone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-hardware-solutions-curated-by-team-tom/"><u>Innovative Hardware Solutions Curated by Team Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-new-horizons-of-technology-at-toms-system-solutions/"><u>Navigating Through New Horizons of Technology at Tom's System Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/partner-with-local-organizations-for-community-projects-that-align-with-your-corporate-social-responsibility-goals-and-can-improve-the-lives-of-those-affect14/"><u>Partner with Local Organizations for Community Projects that Align with Your Corporate Social Responsibility Goals and Can Improve the Lives of Those Affected by Environmental Issues.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smartphone-accessories-for-making-videos/"><u>Smartphone Accessories for Making Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unearthing-user-generated-footage-on-facebook/"><u>Unearthing User-Generated Footage on Facebook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/zenith-in-gaming-computing-evaluating-the-stellar-performance-of-ryzen-5-9600x-and-ryzen-7-9700xs-new-era/"><u>Zenith in Gaming Computing: Evaluating the Stellar Performance of Ryzen 5 9600X and Ryzen 7 9700X's New Era</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-massive-subscriber-jump-for-a-sensible-5-investment/"><u>[New] 2024 Approved Massive Subscriber Jump for a Sensible $5 Investment</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-instagram-sequence-steps-to-reach-1k-monthly-followers/"><u>[New] In 2024, The Instagram Sequence Steps to Reach 1K Monthly Followers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unified-video-ventures-selecting-an-mcn-for-2024/"><u>[Updated] Unified Video Ventures Selecting an MCN for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guffaw-gallery-your-free-high-quality-memes/"><u>2024 Approved Guffaw Gallery Your Free, High-Quality Memes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg3/"><u>Asus ROG Swift PG3</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-safely-backup-your-iphone-even-with-a-lock-screen/"><u>How To Safely Backup Your iPhone Even With a Lock Screen</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2670073-9781515409250-i-ching/"><u>I Ching | Free Book</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-composing-a-price-plan-for-audio-visual-song-clips/"><u>In 2024, Composing a Price Plan for Audio-Visual Song Clips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-testing-the-long-lasting-endurance-of-asus-tuf-gaming-a14/"><u>In-Depth Review: Testing the Long-Lasting Endurance of Asus TUF Gaming A14</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722856124301-inside-look-at-the-upcoming-android-16-free-version-details-release-timeline-specs-get-all-rumors-here/"><u>Inside Look at the Upcoming Android 16: Free Version Details, Release Timeline, Specs – Get All Rumors Here!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/levelplay-combat-air-ca4-cpu-cooler-a-thorough-review-on-low-noise-high-performance-cooling-excellence/"><u>Levelplay Combat Air CA^4 CPU Cooler: A Thorough Review on Low Noise, High Performance Cooling Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-performance-to-new-heights-with-overclocked-crucial-c36-memory-sticks-a-ddr5-powerhouse-examined/"><u>Taking Performance to New Heights with Overclocked Crucial C36 Memory Sticks – A DDR5 Powerhouse Examined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights - Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech: The Comprehensive Guide to Computer Hardware</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlock-efficiency-the-editors-guide-to-speed-control-for-2024/"><u>Unlock Efficiency The Editor's Guide to Speed Control for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-setup-wisely-turn-to-insider-knowledge-at-toms-hardware/"><u>Upgrading Your Setup Wisely? Turn to Insider Knowledge at Tom's Hardware</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

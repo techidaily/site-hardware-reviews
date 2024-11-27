@@ -1,7 +1,7 @@
 ---
 title: Asus's Surprisingly Compact Powerhouse - A Must-Have for Creatives, According to ZDNet Review
-date: 2024-11-15T20:16:40.860Z
-updated: 2024-11-17T20:44:30.781Z
+date: 2024-11-20T18:19:08.321Z
+updated: 2024-11-27T16:39:12.013Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,24 +112,20 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-explore-best-15-cost-free-photo-editors/"><u>[Updated] Explore Best 15 Cost-Free Photo Editors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-live-mastery-4-key-tv-broadcast-tips/"><u>[Updated] FB Live Mastery 4 Key TV Broadcast Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>[Updated] In 2024, How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-universal-synchronization-zoom-on-phones-tablets-pcs-all-for-2024/"><u>[Updated] Universal Synchronization Zoom on Phones, Tablets, PCs All for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341729304-approach-define-easements-and-discuss-their-implications-on-land-use/"><u>Approach: Define Easements and Discuss Their Implications on Land Use</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-practices-for-facebook-image-alt-text/"><u>Best Practices for Facebook Image Alt-Text</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-evaluating-hostgator-virtual-private-servers-and-shared-hosting/"><u>Comprehensive Guide: Evaluating HostGator Virtual Private Servers & Shared Hosting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-the-performance-edge-of-asus-rog-rapture-pro-wifi-7-router-review-peak-capabilities-and-customizable-options/"><u>Decoding the Performance Edge of Asus ROG Rapture Pro WIFI 7 Router Review: Peak Capabilities & Customizable Options</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-cooling-with-the-levelplay-combat-air-ca4-cpu-a-detailed-review-for-optimal-performance/"><u>Discover Top-Tier Cooling with the Levelplay Combat Air CA4 CPU: A Detailed Review for Optimal Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gigabytes-high-end-motherboard-showdown-assessing-the-cold-efficiency-steep-price-and-abundant-usb-ports-on-the-b65-groovy-ice-aorus-elite-ax-board/"><u>Gigabyte's High-End Motherboard Showdown: Assessing the Cold Efficiency, Steep Price, and Abundant USB Ports on the B65 Groovy Ice Aorus Elite AX Board</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-storytelling-mastery-scriptwriting-secrets-revealed/"><u>In 2024, Storytelling Mastery Scriptwriting Secrets Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/live-streaming-mastery-with-manycam-professional-virtual-webcam-app/"><u>Live Streaming Mastery with ManyCam: Professional Virtual Webcam App</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-your-tech-journey-with-informed-picks-from-toms-hardware-pros/"><u>Navigate Your Tech Journey with Informed Picks From Tom's Hardware Pros</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/e-video-leaderships-who-takes-the-crown-vimeo-youtubes-and-dailymotions-in-2024/"><u>Online Video Leaderships Who Takes the Crown – Vimeo, YouTubes & DailyMotions, In 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-printer-paper-jams-and-errors/"><u>Overcoming Printer Paper Jams and Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadgets-and-components-at-toms-technology-oasis/"><u>Pioneering Gadgets and Components at Tom's Technology Oasis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-look-at-the-latest-gadgets/"><u>Tom's Tech Review: In-Depth Look at the Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341721275-western-digital-unveils-the-powerful-4tb-wd-blue-sn5000-a-mainstream-ssd-revolutionary-reviewed/"><u>Western Digital Unveils the Powerful 4TB WD Blue SN5000: A Mainstream SSD Revolutionary Reviewed!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-ordinary-to-outstanding-mastering-instagram-editing-skills/"><u>[Updated] 2024 Approved From Ordinary to Outstanding Mastering Instagram Editing Skills</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-chuckle-cache-the-best-humor-tweets-on-twitch-for-2024/"><u>[Updated] Chuckle Cache The Best Humor Tweets on Twitch for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-achieving-cohesion-in-content-with-flv-video-integration/"><u>[Updated] In 2024, Achieving Cohesion in Content with FlV Video Integration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/camera-quirks-on-iphones-identifying-the-7-frequent-issues-and-how-you-can-correctly-fix-them/"><u>Camera Quirks on iPhones: Identifying the 7 Frequent Issues & How You Can Correctly Fix Them</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-components-with-toms-hardware-a-detailed-insight/"><u>Discovering Components with Tom’s Hardware - A Detailed Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dough-spectrum-black-review-a-revolutionary-gaming-odyssey-on-a-premium-crafted-27-inch-oled-screen/"><u>Dough Spectrum Black Review: A Revolutionary Gaming Odyssey on a Premium-Crafted, 27-Inch OLED Screen!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-advice-ultimate-guide-to-setting-up-your-home-entertainment-for-the-big-game/"><u>Expert Advice: Ultimate Guide to Setting Up Your Home Entertainment for the Big Game</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-g22-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia G22 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/instruzioni-dettagliate-per-sostituire-il-hard-disk-di-un-laptop-vaio-sony-con-una-memoria-ssd/"><u>Instruzioni Dettagliate per Sostituire Il Hard Disk Di Un Laptop Vaio Sony Con Una Memoria SSD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-toms-expert-analysis-on-computer-hardware/"><u>Navigating the Tech World: Tom's Expert Analysis on Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-gear-insights-from-toms-hardware-analysis/"><u>Navigating the World of PC Gear: Insights From Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-analysis-and-gadget-testing-by-toms-hardware/"><u>Performance Analysis and Gadget Testing by Tom's Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolve-gpu-related-problems-in-windows-systems-a-step-by-step-guide/"><u>Resolve GPU-Related Problems in Windows Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/seamless-transfer-of-social-media-videos-from-twitter-to-whatsapp-for-2024/"><u>Seamless Transfer of Social Media Videos From Twitter to WhatsApp for 2024</u></a></li>
 </ul></div>
 

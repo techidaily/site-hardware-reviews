@@ -1,7 +1,7 @@
 ---
 title: National Shift in Germany Adopts Linux & LibreOffice Over Traditional Microsoft Solutions
-date: 2024-09-19 20:43:44
-updated: 2024-09-20 12:49:40
+date: 2024-11-22T18:43:07.844Z
+updated: 2024-11-27T18:54:34.870Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,31 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>[New] Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-video-lifeline-downloading-made-simple-pcmac/"><u>[New] Instagram Video Lifeline Downloading Made Simple (PC/Mac)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-high-quality-webcam-capture-made-easy-review/"><u>2024 Approved High-Quality WebCam Capture Made Easy Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-14-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi 14 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-handhelds-evolve-nextorage-delivers-a-breakthrough-in-speed-with-its-m2-2230-ssd-offering-lightning-fast-7n40mbs-speeds/"><u>Game Handhelds Evolve: Nextorage Delivers a Breakthrough in Speed with Its M.2 2230 SSD Offering Lightning-Fast 7,N40MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-with-nextorages-new-ultra-rapid-handheld-ssd-drive-at-7400mbs-speeds/"><u>Game Like Never Before with Nextorage's New Ultra-Rapid Handheld SSD Drive at 7,400MB/S Speeds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/generate-giggle-worthy-graphics-for-2024/"><u>Generate Giggle-Worthy Graphics for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-asrock-motherboard-up-to-date-download-the-newest-drivers-now/"><u>Get Your ASRock Motherboard Up-to-Date: Download the Newest Drivers Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-mastery-techniques-to-take-photos-and-videos-from-great/"><u>In 2024, Hero5 Black Mastery Techniques to Take Photos & Videos From Great</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-playlist-pilgrimage-seamless-music-service-journeying/"><u>In 2024, Playlist Pilgrimage Seamless Music Service Journeying</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-reviews-by-technology-expert-toms-domain/"><u>Innovative Gadget Reviews by Technology Expert, Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-expert-advice-on-tech-equipment-with-tom/"><u>Inside the Circuitry: Expert Advice on Tech Equipment with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-announces-termination-of-200-series-optane-memory-dimms-final-shipments-slated-for-end-of-2025/"><u>Intel Announces Termination of 200-Series Optane Memory DIMMs; Final Shipments Slated for End of 2025</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxias-cutting-edge-optical-ssds-deliver-blistering-speeds-and-unprecedented-distance-capabilities-up-to-40-meters-away-from-the-processor/"><u>Kioxia's Cutting-Edge Optical SSDs Deliver Blistering Speeds and Unprecedented Distance Capabilities: Up to 40 Meters Away From the Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-insights-into-advanced-technology/"><u>Navigating the World of Gadgets with Tom - Insights Into Advanced Technology</u></a></li>
+</ul></div>
+

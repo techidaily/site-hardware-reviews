@@ -1,7 +1,7 @@
 ---
 title: "Recovering Lost Data: A Comprehensive Guide to Accessing Your Old Laptop After Forgetting the Passcode - Expert Tips From ZDNet"
-date: 2024-11-13T19:45:24.512Z
-updated: 2024-11-17T21:13:47.085Z
+date: 2024-11-24T19:01:54.183Z
+updated: 2024-11-27T17:25:36.906Z
 tags:
   - laptops
 categories:
@@ -21,6 +21,10 @@ Luckily, [we've gone hands-on](https://www.zdnet.com/article/how-we-test-laptops
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best laptop in 2024?
 
@@ -43,20 +47,10 @@ Cons
 * Loud fans
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacBook Pro (M3 Max)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best laptop overall
 
@@ -153,6 +147,10 @@ Cons
 * Heavy and bulky
 * Best while plugged in
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Alienware m18 R2
 
 ### Best gaming laptop
@@ -212,13 +210,14 @@ Cons
 * Battery life is variable
 * Can run warm
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asus Vivobook Pro 15 (2024)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best laptop for content creators
@@ -237,13 +236,6 @@ The trackpad also has an ingenious feature called the DialPad that acts as a qui
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best laptop?
 
 ZDNET's top pick for the best laptop is Apple's MacBook M3 Max, which features a stunning Liquid Retina XDR display, great performance, and promises 22 hours of battery life. This chart breaks down how the laptop stacks up with the top features on other devices, from price to CPU/GPU, screen size, and display resolution. 
@@ -258,10 +250,7 @@ ZDNET's top pick for the best laptop is Apple's MacBook M3 Max, which features a
 | Asus Vivobook Pro 15  | $1,299             | Intel Core Ultra 7 155H, Nvidia GeForce RTX 3050      | 16GB, 1TB                |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop for you?
@@ -298,13 +287,6 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What are some factors to consider when choosing the best laptops?
 
 Multiple factors influence the choice of laptops for this list. We look for machines with great designs, performance, and effective storage and RAM. We also considered the different purposes for which you may need or use your laptop and the overall value (including the price point) that the laptop promises. 
@@ -316,10 +298,7 @@ Multiple factors influence the choice of laptops for this list. We look for mach
 * **Value:** The best laptop can be a pricey investment, so we considered qualities that assure you'll get your money's worth.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why should you buy a laptop, and not a desktop or a tablet?
@@ -337,6 +316,10 @@ All Windows devices listed here meet the requirements for Windows 11\. If you pu
 ## What brand of laptop is best?
 
 In general, the leading PC vendors have the most extensive range of offerings and the best-documented track records for product development and customer relations. Therefore, if you do not have a specialized use case or budgetary constraints, you will typically consider vendors such as Lenovo, HP, Dell, Apple, or Asus. These vendors currently lead the PC market in terms of shipments, along with several other well-known brands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best laptops for gaming?
 
@@ -361,10 +344,7 @@ Whether you're looking for a single laptop for yourself or a fleet for your busi
 You'll want to look for a model that has at least 8GB of RAM, a 512GB storage drive, a quad-core CPU, and a display that is large enough to work on without being too bulky to travel with. You'll also want a model with, at least, 8 hours of battery life to get through a typical shift without needing to plug in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best laptops for video editing?
@@ -423,22 +403,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveiling-the-best-audio-recording-options-for-apple-products/"><u>[Updated] In 2024, Unveiling the Best Audio Recording Options for Apple Products</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>[Updated] Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/10-essential-google-chat-tools-every-user-needs-to-know/"><u>10 Essential Google Chat Tools Every User Needs to Know</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/amd-graphics-relic/"><u>AMD Graphics Relic</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/automating-your-samsung-galaxy-mastering-the-power-of-modes-and-routines/"><u>Automating Your Samsung Galaxy: Mastering the Power of Modes & Routines</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/boomerang-magic-in-snapchat-step-by-step-guide-for-2024/"><u>Boomerang Magic in Snapchat – Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/can-others-replicate-apples-success-with-modular-accessory-technology/"><u>Can Others Replicate Apple's Success with Modular Accessory Technology?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/choosing-your-perfect-smartphone-a-comparison-between-samsung-galaxy-and-google-pixel/"><u>Choosing Your Perfect Smartphone: A Comparison Between Samsung Galaxy and Google Pixel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/determine-the-total-number-of-vehicles-passed-through-texas-in-june-which-is-given-as-8-times-106/"><u>Determine the Total Number of Vehicles Passed Through Texas in June, Which Is Given as $8 Times 10^6$.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-advanced-artificial-intelligence-cameras-of-google-pixel-7-series-starting-at-599/"><u>Discover the Advanced Artificial Intelligence Cameras of Google Pixel 7 Series, Starting at $599</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/easy-guide-to-transferring-tunes-onto-your-android-device/"><u>Easy Guide to Transferring Tunes Onto Your Android Device</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-methods-to-elevate-the-acoustics-in-your-videos-the-ultimate-trickbook/"><u>Free Methods to Elevate the Acoustics in Your Videos - The Ultimate Trickbook!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-6s-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 6s without Password?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-beatbox-recorder-a-compreeved-guide/"><u>In 2024, BeatBox Recorder A Compreeved Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x90s-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X90S to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-converter-mp4-to-facebook-social-media-pro/"><u>[New] 2024 Approved Top Converter MP4 to Facebook (Social Media Pro)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-most-acclaimed-3ip-voice-recorders-on-tablets-for-2024/"><u>[New] Most Acclaimed 3iP Voice Recorders on Tablets for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-dissecting-drama-introducing-chapters-to-video-content/"><u>[Updated] In 2024, Dissecting Drama Introducing Chapters to Video Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-essential-cooling-at-just-5-uphere-m201-ssd-heatsink-unveiled/"><u>Affordable Essential Cooling at Just $5 - UpHere M201 SSD Heatsink Unveiled!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-review-mastering-seamless-performance-with-new-age-dual-band-speed-king/"><u>ASUS RT-BE96U Review: Mastering Seamless Performance with New Age Dual-Band Speed King</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-a2-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo A2? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-detailed-analyses-from-toms-hardware-experts/"><u>Discover the Latest in Tech: Detailed Analyses From Tom’s Hardware Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-av1-a-novices-pathway/"><u>Discovering AV1 A Novice's Pathway</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-gionee-device-sim-by-drfone-android/"><u>Easily Unlock Your Gionee Device SIM</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-gym-trackers-and-wearables/"><u>Elite Selection of Gym Trackers and Wearables</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hardware-by-thomastechreview/"><u>Expert Insights on Hardware by ThomasTechReview</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-xs-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone XS After Forgetting the Passcode?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-analysis-by-toms-hardware-experts/"><u>In-Depth Tech Analysis by Tom's Hardware Experts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/master-the-art-of-preserving-your-musical-journey/"><u>Master the Art of Preserving Your Musical Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-setup-with-tips-and-tricks-from-toms-hardware-pros/"><u>Mastering Your PC Setup with Tips and Tricks From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-technology-insights-with-toms-hardware-hub/"><u>Pioneering Technology Insights with Tom’s Hardware Hub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-is-at-capacity-issue-in-windows-a-step-by-step-guide/"><u>Solving 'ChatGPT Is at Capacity' Issue in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-explained-decoding-the-latest-in-computer-and-gadgetry/"><u>Tom's Hardware Explained: Decoding the Latest in Computer and Gadgetry</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-trends-tips-and-reviews-by-toms-hardware-team/"><u>Unveiling Top Tech Trends: Tips and Reviews by Tom's Hardware Team</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Review: LG Gram Pro Surpasses MacBook Air in Battery Life, Portability & Speed"
-date: 2024-11-16T21:43:43.868Z
-updated: 2024-11-17T16:40:53.071Z
+date: 2024-11-25T18:11:08.167Z
+updated: 2024-11-27T17:55:13.630Z
 tags:
   - laptops
 categories:
@@ -19,6 +19,10 @@ Cesar Cadenas/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -69,10 +73,7 @@ Asus' Vivobook Pro 15 does a good job playing media. Hi-res videos look stunning
 In line with my initial impression, the device is a little on the bulky side, but the extra heft is not a big deal because it's lightweight and the extra room allows for a wide array of ports. You get two USB-Cs, a pair of USB-A inputs that support transfer speeds of up to 5GBPS, HDMI, an ethernet port, and an SD card slot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -111,19 +112,20 @@ If you want something more powerful, I suggest checking out the MSI Creator Z16 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>[Updated] Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-jumpstart-your-channel-with-these-top-10-video-editing-tips/"><u>2024 Approved Jumpstart Your Channel with These Top 10 Video Editing Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-guide-to-enablingdisabling-multitasking-in-safari-for-2024/"><u>Expert Guide to Enabling/Disabling Multitasking in Safari for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/game-changing-screens-and-tvs-discover-the-best-for-your-xbox-series-x-for-2024/"><u>Game-Changing Screens & TVs - Discover the Best For Your Xbox Series X for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-google-pixel-music-matches-online/"><u>In 2024, Choosing Google Pixel Music Matches Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-securing-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>In 2024, Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamless-integration-of-windows-and-android-in-lenovos-innovative-thinkbook-plus-nhybrid/"><u>Seamless Integration of Windows & Android in Lenovo's Innovative ThinkBook Plus Nhybrid.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seamlessly-transfer-website-links-from-your-android-smartphone-to-your-pc-running-windows/"><u>Seamlessly Transfer Website Links From Your Android Smartphone to Your PC Running Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/smart-savings-high-quality-phones-available-for-less-than-1000/"><u>Smart Savings: High-Quality Phones Available for Less Than $1,000</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/smartphone-screen-protectors-are-they-necessary-or-just-extra-expense/"><u>Smartphone Screen Protectors: Are They Necessary or Just Extra Expense?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-empty-your-android-devices-cache/"><u>Step-by-Step Guide: How To Empty Your Android Device's Cache</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719152886921-the-ceos-companion-goat-with-a-blockchain-twist/"><u>The CEO’s Companion: Goat with a Blockchain Twist</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-visual-techniques-for-impressive-after-effects-titles/"><u>[New] Advanced Visual Techniques for Impressive After Effects Titles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-the-power-of-5-editors-beyond-youtubes-boundaries/"><u>[Updated] 2024 Approved Discover the Power of 5 Editors Beyond Youtube's Boundaries</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-bite-sized-tips-for-aspiring-video-editors-for-2024/"><u>[Updated] Bite-Sized Tips for Aspiring Video Editors for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-fast-loading-instagram-media-content/"><u>[Updated] Mastering Fast-Loading Instagram Media Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-and-economical-a-comprehensive-look-at-the-logitech-g515-lightspeed-tkl-keyboard/"><u>Compact and Economical: A Comprehensive Look at the Logitech G515 Lightspeed TKL Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-b760m-ds3h-ax-board-budget-friendly-entry-level-with-triple-monitor-support/"><u>Comprehensive Evaluation of the Gigabyte B760M DS3H AX Board - Budget-Friendly Entry Level with Triple Monitor Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-on-flsun-solar-panel-s1-with-warp-speed-efficiency/"><u>Comprehensive Review on FLSun Solar Panel S1 with Warp Speed Efficiency</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-netflix-tips-maximizing-screenshots-with-your-mac/"><u>Expert Netflix Tips Maximizing Screenshots with Your Mac</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-comprehensive-guides-on-gadgets-and-systems/"><u>Exploring Tech with Tom - Comprehensive Guides on Gadgets & Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/oggmov-mova/"><u>OGG・MOVファイルを無料で簡単に変換: Movaビジュアルソリューション</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premium-pc-gaming-on-the-go-with-the-asus-rog-ally-x-a-comprehensive-review/"><u>Premium PC Gaming On-the-Go with the Asus ROG Ally X - A Comprehensive Review</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectify-pixel-stutter-in-displays/"><u>Rectify Pixel Stutter in Displays</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sites-silver-lining-positive-influences-on-society/"><u>Social Sites' Silver Lining: Positive Influences on Society</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-setting-up-permanent-delete-on-your-windows-11-and-11-pcs/"><u>The Ultimate Guide to Setting up Permanent Delete on Your Windows 11 & 11 PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-the-best-tips-from-toms-hardware/"><u>Unlocking Computer Secrets: The Best Tips From Tom's Hardware</u></a></li>
 </ul></div>
 

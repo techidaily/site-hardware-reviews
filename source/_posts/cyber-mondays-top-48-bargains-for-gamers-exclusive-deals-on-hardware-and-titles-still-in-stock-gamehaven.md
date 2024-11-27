@@ -1,7 +1,7 @@
 ---
 title: "Cyber Monday's Top 48 Bargains for Gamers: Exclusive Deals on Hardware and Titles Still in Stock | GameHaven"
-date: 2024-11-16T18:44:44.055Z
-updated: 2024-11-17T21:50:11.911Z
+date: 2024-11-24T18:50:12.617Z
+updated: 2024-11-27T18:51:47.196Z
 tags:
   - laptops
 categories:
@@ -125,6 +125,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -158,10 +162,7 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -178,15 +179,16 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the cheapest Apple product?
@@ -200,10 +202,7 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -218,13 +217,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -291,18 +283,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ios-and-android-techniques-to-record-live-video-chats/"><u>[New] IOS & Android Techniques to Record Live Video Chats</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-vives-discomfort-follow-these-motion-sickness-fixes-for-2024/"><u>[New] Vive's Discomfort? Follow These Motion Sickness Fixes for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/alternative-methods-for-removing-iphone-sim-card-without-official-tool/"><u>Alternative Methods for Removing iPhone SIM Card Without Official Tool</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-brilliance-a-comprehensive-analysis-of-the-philips-evonia-gaming-monitor-model-49m2c8900-with-revolutionary-240hz-oled-tech/"><u>Breaking Down Brilliance: A Comprehensive Analysis of the Philips Evonia Gaming Monitor, Model 49M2C8900 with Revolutionary 240Hz OLED Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-maxsun-terminator-z790m-d5-ice-motherboard-evaluation-ultra-durable-white-matx-includes-five-m2-slots/"><u>Comprehensive Maxsun Terminator Z790M D5 Ice Motherboard Evaluation - Ultra Durable White MATX, Includes Five M.2 Slots</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-lenovo-yoga-pro-9i-examined-a-lean-laptop-with-a-satisfyingly-heavy-keyboard/"><u>Cutting-Edge Lenovo Yoga Pro 9I Examined: A Lean Laptop with a Satisfyingly Heavy Keyboard</u></a></li>
-<li><a href="https://fox-access.techidaily.com/discovering-the-magic-of-augmented-realms/"><u>Discovering the Magic of Augmented Realms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/immortals-fenyx-rising-addressing-the-problem-of-constant-game-freezes-and-clashes/"><u>Immortals: Fenyx Rising - Addressing the Problem of Constant Game Freezes and Clashes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-through-toms-detailed-analyses/"><u>Mastering Hardware Choices Through Tom's Detailed Analyses</u></a></li>
-<li><a href="https://video-capture.techidaily.com/maximizing-performance-optimal-settings-for-logitech-webcam/"><u>Maximizing Performance Optimal Settings for Logitech Webcam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-ai-integration-using-chatgpt-alongside-siri-on-ios-devices/"><u>Seamless AI Integration: Using ChatGPT Alongside Siri on iOS Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-expert-reviews-and-buying-guides/"><u>Tom's Computer Components: Expert Reviews & Buying Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-insights-the-ultimate-tech-analysis/"><u>Tom's Hardware Insights: The Ultimate Tech Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snap-it-right-15-innovative-posting-hacks/"><u>[New] In 2024, Snap It Right 15 Innovative Posting Hacks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-formulating-impressive-online-media-introductions/"><u>[Updated] In 2024, Formulating Impressive Online Media Introductions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtube-foundations-building-a-brand-and-generating-income-for-novices/"><u>2024 Approved Youtube Foundations Building a Brand & Generating Income for Novices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/determine-the-total-number-of-vehicles-passed-through-texas-in-june-which-is-given-as-8-times-106/"><u>Determine the Total Number of Vehicles Passed Through Texas in June, Which Is Given as $8 Times 10^6$.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-advanced-artificial-intelligence-cameras-of-google-pixel-7-series-starting-at-599/"><u>Discover the Advanced Artificial Intelligence Cameras of Google Pixel 7 Series, Starting at $599</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-guide-to-transferring-tunes-onto-your-android-device/"><u>Easy Guide to Transferring Tunes Onto Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-meta-ai-revolutionizing-data-analysis-and-insights/"><u>Exploring Meta AI: Revolutionizing Data Analysis and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-concept-of-reverse-inductive-charging-technology/"><u>Exploring the Concept of Reverse Inductive Charging Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-c51-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme C51 Location | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/revive-your-missing-iphone-contacts-a-guide-for-recovering-erased-connections/"><u>Revive Your Missing iPhone Contacts: A Guide for Recovering Erased Connections</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-guide-to-streamlining-media-transfer-airplay-your-ios-devices-display-on-mac-os-x-with-zero-hassles/"><u>Simple Guide to Streamlining Media Transfer: AirPlay Your iOS Devices' Display on Mac OS X with Zero Hassles</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
 

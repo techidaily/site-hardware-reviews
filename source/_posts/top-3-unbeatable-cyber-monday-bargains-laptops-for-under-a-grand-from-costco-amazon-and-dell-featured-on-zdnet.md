@@ -1,7 +1,7 @@
 ---
 title: "Top 3 Unbeatable Cyber Monday Bargains: Laptops for Under a Grand From Costco, Amazon & Dell - Featured on ZDNet"
-date: 2024-11-13T19:39:51.316Z
-updated: 2024-11-17T19:43:50.424Z
+date: 2024-11-22T18:41:37.289Z
+updated: 2024-11-27T18:51:45.460Z
 tags:
   - laptops
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c
 Amazon
 
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4d07921f-bd15-4921-9137-ce2acbab6253%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,33 +79,18 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-erase-effortlessly-social-media-live-on-desktop-and-phone/"><u>[New] 2024 Approved Erase Effortlessly Social Media Live on Desktop & Phone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>[New] 2024 Approved The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-acquiring-igtv-media-the-comprehensive-guidebook/"><u>[Updated] Acquiring IGTV Media The Comprehensive Guidebook</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converter-de-mp3-para-mov-livre-e-online-usando-o-programa-gratuito-da-movavi/"><u>Converter De MP3 Para MOV Livre E Online - Usando O Programa Gratuito Da Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341710933-experience-unmatched-precision-and-comfort-in-depth-look-at-the-keychron-q1-he-the-long-awaited-wireless-mx-version/"><u>Experience Unmatched Precision and Comfort - In-Depth Look at the Keychron Q1 HE, The Long-Awaited Wireless MX Version!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gskill-memory-mastery-dive-into-our-comprehensive-review-of-the-stunning-trident-z5-rgb-perfectly-balanced-2x48gb-ddr5-duo/"><u>G.SKILL Memory Mastery! Dive Into Our Comprehensive Review of the Stunning Trident Z5 RGB - Perfectly Balanced 2X48GB DDR5 Duo</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-7-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 7 without Password?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-best-gear-for-comprehensively-filmed-action/"><u>In 2024, Best Gear for Comprehensively Filmed Action</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-quirky-make-memes-with-kapwing-app/"><u>In 2024, Quick & Quirky Make Memes with Kapwing App</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-insights-at-toms-hardware-hub/"><u>In-Depth Tech Insights at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-device-choices-with-toms-hardware-wisdom/"><u>Mastering Your Device Choices with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-world-top-reviews-from-toms-hardware-experts/"><u>Mastering Your Digital World: Top Reviews From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-mu-reviewed-speedy-performance-that-surpasses-raspberry-pi-4-yet-comes-with-a-price-tag/"><u>The Mu Reviewed: Speedy Performance That Surpasses Raspberry Pi 4 Yet Comes With a Price Tag</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-guide-and-reviews/"><u>Tom's Tech: Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-srt-conversion-essentials-ttml-xml-ssa-and-beyond/"><u>[Updated] 2024 Approved SRT Conversion Essentials TTML, XML, SSA, and Beyond</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-audiotest-review/"><u>[Updated] In 2024, AudioTest Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-phantom-3-face-off-apparition-4-unveiled-for-2024/"><u>[Updated] Phantom 3 Face-Off Apparition 4 Unveiled for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-youtube-lives-image-language/"><u>[Updated] Understanding YouTube Live's Image Language</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/lator-projected-profits-from-youtube/"><u>Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-resource-hardware-breakdown-and-reviews/"><u>Exploring Technology with Tom's Resource: Hardware Breakdown and Reviews</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-solve-the-problem-of-unplayable-dvds-in-windows-media-player/"><u>How to Solve the Problem of Unplayable DVDs in Windows Media Player</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-innovative-yeswebuild-campaign-a-fresh-take-on-pc-creation/"><u>Introducing MSI's Innovative '#YesWeBuild' Campaign - A Fresh Take on PC Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-toms-expertise-the-definitive-tech-resource/"><u>Mastering Hardware with Tom's Expertise - The Definitive Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-unveils-windows-support-for-qualcomms-new-arm-based-snapdragon-developer-platform/"><u>Microsoft Unveils Windows Support for Qualcomm's New ARM-Based Snapdragon Developer Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-hardware-with-tom-your-ultimate-guide/"><u>Navigating Computer Hardware with Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-openais-chatgpt-bypassing-output-size-restrictions/"><u>Understanding OpenAI's ChatGPT: Bypassing Output Size Restrictions</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
