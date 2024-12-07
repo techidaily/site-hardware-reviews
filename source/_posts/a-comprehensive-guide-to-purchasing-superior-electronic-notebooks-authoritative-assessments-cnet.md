@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Purchasing Superior Electronic Notebooks – Authoritative Assessments | CNET
-date: 2024-11-23T17:23:11.122Z
-updated: 2024-11-27T16:01:22.488Z
+date: 2024-11-29T20:43:56.194Z
+updated: 2024-12-07T03:26:30.906Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,21 +112,24 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-ethical-approaches-to-extract-and-convert-youtube-videos/"><u>[New] In 2024, Ethical Approaches to Extract and Convert YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-journey-to-visual-vigor-a-beginners-guidebook/"><u>[New] Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-5-best-lightweight-action-cameras/"><u>[New] Top 5 Best Lightweight Action Cameras</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-windows-way-to-pluck-visuals-from-videos-for-2024/"><u>[New] Window's Way to Pluck Visuals From Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/11-upgrade-zdnet-insights/"><u>11 Upgrade | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-microsofts-copilotplus-technology-overrides-old-school-ai-pcs-and-redefines-the-future-of-computing-models/"><u>How Microsoft's Copilot+ Technology Overrides Old-School AI PCs and Redefines the Future of Computing Models</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/immersive-learning-conquer-new-languages-in-vr-worlds/"><u>Immersive Learning: Conquer New Languages in VR Worlds</u></a></li>
-<li><a href="https://driver-install.techidaily.com/instant-scsi-support-lightning-fast-driver-download/"><u>Instant SCSI Support: Lightning-Fast Driver Download</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-trends-discovering-new-horizons-at-toms-hardware-hub/"><u>Navigating Gadget Trends: Discovering New Horizons at Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-computing-a-dive-into-toms-world-of-hardware/"><u>Navigating Modern Computing - A Dive Into Tom's World of Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-innovations-insights-from-toms-hardware/"><u>Navigating New Innovations: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-trends-wisdom-from-toms-hardware/"><u>Navigating Tech Trends: Wisdom From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-digital-world-with-toms-hardware-experts/"><u>Navigating the Digital World with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-with-toms-guides/"><u>Navigating the World of Hardware with Tom's Guides</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-honor-90-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor 90 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-answers.techidaily.com/when-two-falls-collide-an-insight-into-sequential-computer-malfunctions/"><u>When Two Falls Collide: An Insight Into Sequential Computer Malfunctions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-transform-your-webcam-footage-edit-and-export-tips/"><u>[New] Transform Your WebCam Footage Edit & Export Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mac-audio-tools-for-effective-classroom-capture/"><u>[Updated] In 2024, Mac Audio Tools for Effective Classroom Capture</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-high-end-drones-expert-buyers-choices-top-5/"><u>2024 Approved High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-f34-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy F34 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-x-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone X With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722894483241-how-to-successfully-terminate-your-active-status-on-tiktok/"><u>How to Successfully Terminate Your Active Status on TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>In 2024, GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-yuva-3-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Yuva 3 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-blaze-curve-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Blaze Curve 5G Without PUK Codes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/phison-dominates-with-the-latest-high-speed-e29t-pcie-40-ssd-controller-showcase-at-fms-2024/"><u>Phison Dominates with the Latest High-Speed E29T PCIe 4.0 SSD Controller Showcase at FMS 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-sk-hynix-pcie-gen5-ssd-unveiled-the-new-platinum-p51-faster-performance-reduced-idle-energy-consumption/"><u>Revolutionary SK Hynix PCIe Gen5 SSD Unveiled: The New Platinum P51 - Faster Performance, Reduced Idle Energy Consumption</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sk-hynixs-top-performing-in-house-created-pcie-50-ssd-launches-meet-the-power-efficient-and-speedy-platinum-p51/"><u>SK Hynix's Top-Performing In-House Created PCIe 5.0 SSD Launches – Meet the Power Efficient and Speedy Platinum P51</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/team-group-debuts-revolutionary-tech-in-taiwan-next-gen-pcie-50-ssds-for-enhanced-ai-performance-innovative-ssd-coolers-and-new-bluetooth-tag-featured-porta3/"><u>Team Group Debuts Revolutionary Tech in Taiwan: Next-Gen PCIe 5.0 SSDs for Enhanced AI Performance, Innovative SSD Coolers & New Bluetooth Tag Featured Portable Drive at Computex 202N4</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/the-best-ai-translator-to-translate-videos-online/"><u>The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-pc-hardware-expert-tips-from-toms-hardware/"><u>The Complete Guide to PC Hardware - Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-todays-latest-gadgets/"><u>Tom's Tech Review: In-Depth Analysis of Today's Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis-t17238642572196/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-latest-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Latest Computer Hardware</u></a></li>
 </ul></div>
 

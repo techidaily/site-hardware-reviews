@@ -1,7 +1,7 @@
 ---
 title: Explore the Enhancements in Lenovo's Revamped ThinkPad X1 Ultrabook - Insights From ZDNet
-date: 2024-11-22T16:38:08.152Z
-updated: 2024-11-27T17:48:15.964Z
+date: 2024-12-01T02:07:20.388Z
+updated: 2024-12-06T19:47:05.780Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,21 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-capturing-crystal-clear-photos-without-spending/"><u>[New] Capturing Crystal Clear Photos Without Spending</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-masterclass-in-youtube-video-previews-and-trailers/"><u>[New] Masterclass in YouTube Video Previews and Trailers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/acer-nitro-34-curved-qhd-display-now-only-200-on-newegg/"><u>Acer Nitro 34'' Curved QHD Display Now Only $200 on Newegg!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2-t172386288019211/"><u>ASRock PG2</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discovering-digital-hubs-for-connection-insights-on-facebook-twitter-instagram-youtube/"><u>Discovering Digital Hubs for Connection: Insights on Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exceptional-clarity-at-an-affordable-price-discover-hps-37-wqhdplus-ultrawide-display-with-ips-technology-ideal-for-professionals-seeking-quality-without-ol49/"><u>Exceptional Clarity at an Affordable Price: Discover HP’s 37 WQHD+ Ultrawide Display with IPS Technology, Ideal for Professionals Seeking Quality without OLED Expense</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862838244-high-definition-open-source-e-ink-display-revealed-the-modos-paper-shatters-expectations-with-1200p-on-133-screen/"><u>High-Definition Open-Source E-Ink Display Revealed: The Modos Paper Shatters Expectations with 1200P on 13.3 Screen!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-g42-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia G42 5G Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gigabytes-needed-for-a-full-days-movie-watching/"><u>In 2024, Gigabytes Needed for a Full Day's Movie Watching</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-cura-fuzzy-skin-functionality-a-step-by-step-guide-for-enhancing-your-3d-prints-with-texture/"><u>Mastering the Cura Fuzzy Skin Functionality: A Step-by-Step Guide for Enhancing Your 3D Prints with Texture</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-xcover-7-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy XCover 7 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/reverse-the-ordinary-turning-images-upside-down/"><u>Reverse the Ordinary Turning Images Upside Down</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-tv/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart TV</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-smile-generate-text-memes-instantly/"><u>[New] From Script to Smile Generate Text Memes Instantly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-supreme-conversion-software-top-4k-downloads-for-youtubers-for-2024/"><u>[New] Supreme Conversion Software Top 4K Downloads for YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-the-square-wave-of-facebook-video-popularity/"><u>[Updated] In 2024, Navigating the Square Wave of Facebook Video Popularity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-depth-look-is-inshot-the-premier-editing-tool-for-2024/"><u>[Updated] In-Depth Look Is InShot the Premier Editing Tool for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/7windows-11-23h2/"><u>7効果的な手順でWindows 11 バージョン23H2のインストール中に発生する一般的なエラーを解決</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-a54-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy A54 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-nubia-z60-ultra-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-get-close-or-farther-with-ease-on-instagram-stories/"><u>In 2024, Get Close or Farther with Ease on Instagram Stories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-analysis/"><u>Tom's Tech Insights: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-buyers-guide-to-the-best-gaming-laptops-real-world-benchmarks-and-evaluations/"><u>Ultimate Buyer's Guide to the Best Gaming Laptops : Real-World Benchmarks and Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-hardware-reviews/"><u>Unveiling the Latest in Computing - Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-tips-from-tom/"><u>Unveiling the Latest in Computing: Tips From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-toms-techpicks/"><u>Unveiling the Latest in Computing: Tom's TechPicks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-tech-toms-pioneering-hardware-guides-and-analysis/"><u>Unveiling the Latest in Tech: Tom's Pioneering Hardware Guides and Analysis</u></a></li>
 </ul></div>
 

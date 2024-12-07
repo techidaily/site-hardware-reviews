@@ -1,7 +1,7 @@
 ---
 title: Top 23 Amazing Labor Day Blowout Discounts on Computers - Active Offers at ZDNet
-date: 2024-11-20T16:56:43.167Z
-updated: 2024-11-27T17:39:07.502Z
+date: 2024-12-03T02:18:56.261Z
+updated: 2024-12-06T17:51:52.010Z
 tags:
   - laptops
 categories:
@@ -99,6 +99,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -130,6 +134,10 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 * [Madden NFL 25 for $48 (save $23)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMadden-NFL-25-PlayStation-5%2Fdp%2FB0D3PGHSM3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): The latest entry in the popular franchise features physics-based tackling, a rebalanced player system, and refreshed franchise mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -169,10 +177,6 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $66 (save $14 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -189,7 +193,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -218,10 +222,6 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $160 (save $60 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -232,6 +232,10 @@ Samsung/ZDNET
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
@@ -240,16 +244,12 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, wi
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -317,18 +317,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-recording-to-broadcasting-the-steam-gamers-path/"><u>[Updated] 2024 Approved From Recording to Broadcasting The Steam Gamers' Path</u></a></li>
-<li><a href="https://win-updates.techidaily.com/comprehensive-steps-for-developing-sturdy-and-protected-msi-programs/"><u>Comprehensive Steps for Developing Sturdy and Protected MSI Programs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/divide-and-conquer-easy-chapter-addition-for-vimeo-videos-for-2024/"><u>Divide and Conquer Easy Chapter Addition for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-depth-review-unveiling-bublcams-full-potential-for-2024/"><u>In-Depth Review Unveiling Bublcam's Full Potential for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo/"><u>New Talking Photo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-next-level-gaming-on-the-go-with-razer-blade-18-featuring-i9-14900hx-and-rtx-4090-at-a-4799-price-point/"><u>Unleash Next-Level Gaming on the Go With Razer Blade 18 - Featuring I9-14900HX & RTX 4090 at a $4,799 Price Point</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-hardware-secrets-at-toms-tech-resource-center/"><u>Unlocking Hardware Secrets at Tom's Tech Resource Center</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-insights-by-tom/"><u>Unveiling Cutting-Edge Technology Insights by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-deep-dive-into-hardware-reviews-by-tom/"><u>Unveiling Tech Secrets: A Deep Dive Into Hardware Reviews by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-hardware-secrets-at-toms-equipment-corner/"><u>Unveiling Top Hardware Secrets at Tom's Equipment Corner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-tech-highlights-asus-and-qualcomms-new-models-at-computex-2ebtween-spotted-lacking-graphics-card-announcements/"><u>Upcoming Tech Highlights: Asus and Qualcomm's New Models at Computex 2Ebtween Spotted – Lacking Graphics Card Announcements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-detecting-changes-in-your-instagram-network/"><u>[New] Detecting Changes in Your Instagram Network</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade/"><u>[Updated] 2024 Approved Revolutionize Video Files with Instant FB to MP4 & HD Upgrade</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-20-essential-youtube-tips-for-optimal-engagement/"><u>[Updated] Top 20 Essential YouTube Tips for Optimal Engagement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-expert-analysis-and-reviews-for-avid-hardware-enthusiasts/"><u>[Your Brand Name] – Expert Analysis & Reviews for Avid Hardware Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/2024s-ultimate-ssd-deals-guide-find-the-lowest-prices-for-1tb-2tb-and-4tb-storage-drives/"><u>2024'S Ultimate SSD Deals Guide: Find the Lowest Prices for 1TB, 2TB & 4TB Storage Drives</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/6-tecnicas-confirmadas-para-reparar-midias-protegidas-em-computadores-com-windows-11macos-mantendo-a-qualidade-original-do-dvd/"><u>6 Técnicas Confirmadas Para Reparar Mídias Protegidas Em Computadores Com Windows 11/macOS Mantendo a Qualidade Original Do DVD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/active-cooling-live-demonstration-experience-doubled-durability-and-performance-with-freezetechs-airjet-ssd/"><u>Active Cooling Live Demonstration: Experience Doubled Durability & Performance with FreezeTech's Airjet SSD</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-130-music-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia 130 Music</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/metamorphose-gratuite-de-fichier-flv-en-format-3gp-sur-internet-decouvrez-les-services-de-movaflip/"><u>Métamorphose Gratuite De Fichier FLV en Format 3GP Sur Internet - Découvrez Les Services De MovaFlip</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-best-ssd-and-hdd-offers/"><u>Top Picks: Best SSD & HDD Offers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-notch-tech-insights-from-toms-review-hub/"><u>Top-Notch Tech Insights From Tom's Review Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshoot-the-missing-dciman32dll-file-with-these-expert-tips/"><u>Troubleshoot the Missing dciman32.dll File with These Expert Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-affordable-solid-state-drives-and-hard-disk-drives-in-202/"><u>Ultimate Guide to Affordable Solid State Drives & Hard Disk Drives in 202</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-prime-day-offerings-save-big-with-4tb-ssds-for-only-four-pennies-per-gb-in-a-spectacular-storage-sale-event/"><u>Unbeatable Prime Day Offerings: Save Big with 4TB SSDs for Only Four Pennies per GB in a Spectacular Storage Sale Event</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-pc-building-with-toms-equipment-insights/"><u>Unveiling the Secrets of PC Building with Tom’s Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/us-court-battle-ymtc-vs-micron-over-intellectual-property-rights-alleging-infringement-of-eleven-patents-from-chinas-memory-sector/"><u>US Court Battle: YMTC Vs. Micron Over Intellectual Property Rights, Alleging Infringement of Eleven Patents From China's Memory Sector</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/verstehen-sie-die-speicherung-von-minecraft-screenshots-methoden-zur-wiederherstellung-verlorener-bilder/"><u>Verstehen Sie Die Speicherung Von Minecraft-Screenshots - Methoden Zur Wiederherstellung Verlorener Bilder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2024-11-23T18:49:35.518Z
-updated: 2024-11-27T18:37:08.004Z
+date: 2024-11-30T22:39:40.105Z
+updated: 2024-12-07T00:41:20.378Z
 tags:
   - laptops
 categories:
@@ -28,21 +28,21 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -68,14 +68,10 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -94,6 +90,10 @@ Michael Gariffo/ZDNET
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Press Shift+Cmd+3
 
 To take a screenshot on any Mac, including MacBook laptops, just press Shift+Cmd+3\. Unlike Windows, this won't copy the screen to your clipboard, it will actually save the capture as an image file on your desktop using the format "Screen Shot \[date\] at \[time\].png."
@@ -107,7 +107,7 @@ Michael Gariffo/ZDNET
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
@@ -157,18 +157,20 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>[New] Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ow-to-make-a-creative-split-screen-video-for-youtube-for-2024/"><u>[New] How to Make a Creative Split-Screen Video for YouTube for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-2-step-strategy-for-stunning-tiktok-reaction-videos-using-filmora/"><u>[New] The 2-Step Strategy for Stunning TikTok Reaction Videos Using Filmora</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-creativity-expert-analyses-of-video-tech/"><u>[Updated] In 2024, Capturing Creativity Expert Analyses of Video Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/0-ssd-controller-the-revolutionary-e29t/"><u>0 SSD Controller - The Revolutionary E29T</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-itel-p40plus-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Itel P40+?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-pc-gear-with-toms-hardware-analysis/"><u>Expert Guidance on PC Gear with Tom’s Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-gadget-review-your-source-for-top-hardware-analysis/"><u>Exploring the Latest in Technology with Tom's Gadget Review: Your Source for Top Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-chinese-tech-startups-opt-for-affordable-performance-with-geforce-gaming-cards-over-expensive-sanction-compliant-nvidia-ais-the-value-edge-of-the-rtx-408/"><u>How Chinese Tech Startups Opt for Affordable Performance with GeForce Gaming Cards Over Expensive Sanction-Compliant Nvidia AIs: The Value Edge of the RTX 4090</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-steps-transforming-dall-e-webp-files-into-jpeg-and-png-formats/"><u>Simple Steps: Transforming DALL-E √ WebP Files Into JPEG and PNG Formats</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-wrath-of-the-righteous-freezing-problems-for-pc-gamers/"><u>Troubleshooting Tips - Fixing 'Wrath of the Righteous' Freezing Problems for PC Gamers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-your-epson-wf-7620-printer-drivers-a-step-by-step-guide-for-windows-users/"><u>Upgrading Your Epson WF-7620 Printer Drivers: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cerebral-showdowns-top-general-knowledge-videos/"><u>[New] Cerebral Showdowns - Top General Knowledge Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-going-back-in-space-and-time-rewind-your-instagram-video-for-2024/"><u>[Updated] Going Back in Space and Time Rewind Your Instagram Video for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-beyond-vimeo-a-compilation-of-premier-video-editors/"><u>2024 Approved Beyond Vimeo A Compilation of Premier Video Editors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gskill-memory-mastery-dive-into-our-comprehensive-review-of-the-stunning-trident-z5-rgb-perfectly-balanced-2x48gb-ddr5-duo/"><u>G.SKILL Memory Mastery! Dive Into Our Comprehensive Review of the Stunning Trident Z5 RGB - Perfectly Balanced 2X48GB DDR5 Duo</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-xs-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone XS Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-cutting-edge-livestream-techniques-for-onestream-enthusiasts/"><u>In 2024, Cutting-Edge Livestream Techniques for OneStream Enthusiasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-tech-insights-at-toms-hardware-hub/"><u>In-Depth Tech Insights at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-device-choices-with-toms-hardware-wisdom/"><u>Mastering Your Device Choices with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-world-top-reviews-from-toms-hardware-experts/"><u>Mastering Your Digital World: Top Reviews From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-trends-with-guidance-from-toms-hardware-hub/"><u>Navigate New Tech Trends with Guidance From Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-experts/"><u>Navigating the World of Electronics with Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-simple-guide-how-to-speedily-adjust-videos-for-tiktok/"><u>Quick & Simple Guide: How to Speedily Adjust Videos for TikTok</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-guide-and-reviews/"><u>Tom's Tech: Comprehensive Guide and Reviews</u></a></li>
 </ul></div>
 

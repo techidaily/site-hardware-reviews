@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Professionals | ZDNet
-date: 2024-11-24T16:08:21.135Z
-updated: 2024-11-27T18:44:56.925Z
+date: 2024-12-03T20:38:58.068Z
+updated: 2024-12-06T16:21:48.845Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -44,10 +44,6 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications (as reviewed)
 
 | Dimensions            | 11.78 x 8.03 x 0.63 inches                                                                                                                                                                                                                                                                            |
@@ -63,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -86,10 +82,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -109,6 +101,10 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -131,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -143,6 +139,10 @@ Max Buondonno/ZDNET
 When I'm working on my MacBook or -- quite frankly -- any other laptop in my arsenal, all I have to do is close the lid and load it into my backpack when I'm finished. With the Yoga Book 9i, I have to close the laptop > collapse the kickstand > place the keyboard inside the collapsed kickstand > stack the keyboard/kickstand combo, mouse, and stylus on top of the laptop > shove it all in my bag and pray I can find it later when it's time to go back to work.
 
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
@@ -182,22 +182,17 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-mimicking-masterpieces-crafting-successful-parodies/"><u>[New] In 2024, Mimicking Masterpieces Crafting Successful Parodies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-instantaneously-obscured-identities-quick-tips-with-piscart/"><u>[New] Instantaneously Obscured Identities Quick Tips with Piscart</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-small-companies-guide-to-the-most-secure-video-tools-for-2024/"><u>[New] Small Companies' Guide to the Most Secure Video Tools for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capture-your-macs-screen-a-step-by-step-walkthrough/"><u>[Updated] 2024 Approved Capture Your Mac's Screen A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-the-most-popular-tweets-a-look-at-twitters-hottest-trends/"><u>[Updated] The Most Popular Tweets A Look at Twitter's Hottest Trends</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-higher-engagement-with-proven-video-tagging-methods/"><u>2024 Approved Unlock Higher Engagement with Proven Video Tagging Methods</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-productivity-elevate-your-workflow-by-adding-a-mobile-display-to-your-laptop-via-innovative-mounts-zdnet-exclusive/"><u>Boost Productivity: Elevate Your Workflow by Adding a Mobile Display to Your Laptop via Innovative Mounts | ZDNet Exclusive</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862791699-discover-the-future-with-samsungs-latest-upgrade-to-odyssey-and-view-series-now-infused-with-advanced-ai-tech/"><u>Discover the Future with Samsung's Latest Upgrade to Odyssey and View Series - Now Infused with Advanced AI Tech</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/resolving-common-instagram-video-glitches/"><u>Resolving Common Instagram Video Glitches</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862788414-score-big-with-the-latest-deal-on-samsung-odyssey-g50a-27-qhd-ips-monitor-now-only-255/"><u>Score Big with the Latest Deal on Samsung Odyssey G50A 27 QHD IPS Monitor – Now Only $255</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/seamless-streaming-5-chrome-tools-to-secure-fb-videos/"><u>Seamless Streaming 5 Chrome Tools to Secure FB Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-analysis/"><u>Tom's Tech Insights: In-Depth Reviews & Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insightful-gadget-analysis-and-hardware-breakdown/"><u>Tom's Tech Review: Insightful Gadget Analysis and Hardware Breakdown</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-gear-tech-advice-the-toms-hardware-way/"><u>Top Gear Tech Advice - The Tom's Hardware Way</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-a-widescreen-gaming-screen/"><u>Ultimate Guide to Choosing a Widescreen Gaming Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-secrets-with-toms-authoritative-reviews/"><u>Unveiling Hardware Secrets with Tom's Authoritative Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-toms-hardware-guide/"><u>Unveiling the Latest Tech: Tom's Hardware Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-desktop-image-on-windows-editions-for-2024/"><u>[Updated] Capturing Desktop Image on Windows Editions for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects/"><u>[Updated] Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-e-learning-platforms-beyond-udemy-explored-for-2024/"><u>[Updated] Elite E-Learning Platforms Beyond Udemy Explored for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-premiere-audio-to-text-converters/"><u>[Updated] In 2024, Premiere Audio-To-Text Converters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-installation-of-movie-maker-6-for-2024/"><u>[Updated] Mastering the Installation of Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unparalleled-gaming-with-the-alienware-aw225df-the-ultimate-review-of-a-360hz-oled-display/"><u>Experience Unparalleled Gaming with the Alienware AW2^®25DF - The Ultimate Review of a 360Hz OLED Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-digital-tools-and-devices-toms-hardware-wisdom/"><u>Expert Analysis on Digital Tools and Devices: Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-electronics-welcome-to-toms-hardware-haven/"><u>Expert Analysis on Electronics - Welcome to Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub/"><u>Exploring Technology with Tom's Hardware Hub</u></a></li>
+<li><a href="https://win-unique.techidaily.com/migrate-from-microsoft-hyper-v-gen-1-vms-to-gen-2-a-step-by-step-guide/"><u>Migrate From Microsoft Hyper-V Gen 1 VMs to Gen 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco M6 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 

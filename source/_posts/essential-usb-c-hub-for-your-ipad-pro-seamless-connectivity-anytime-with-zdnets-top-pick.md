@@ -1,7 +1,7 @@
 ---
 title: "Essential USB-C Hub for Your iPad Pro: Seamless Connectivity Anytime with ZDNet's Top Pick"
-date: 2024-11-24T17:43:51.515Z
-updated: 2024-11-27T16:48:46.316Z
+date: 2024-12-03T00:12:47.847Z
+updated: 2024-12-06T21:57:04.366Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kerry Wan/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -59,7 +59,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -82,10 +82,6 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -107,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -130,6 +126,10 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## One thing to keep in mind
 
 Having a laptop with two screens means you'll have to lug around a separate keyboard, mouse, and kickstand, all three of which (plus a stylus) come in the box. It's a lot of separate things you have to remember to bring, and I'm going to be honest with you, it can be inconvenient.
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,14 +182,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[Updated] In 2024, Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-motorola-moto-g24-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Moto G24 Lock Screen Password</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-invisible-to-irresistible-10-must-know-solutions-for-video-views/"><u>In 2024, From Invisible to Irresistible 10 Must-Know Solutions for Video Views</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ain-uninterrupted-youtube-experience-on-phones-for-2024/"><u>Maintain Uninterrupted YouTube Experience on Phones for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tomorrows-windows-embracing-ai-dominance/"><u>Tomorrow's Windows: Embracing AI Dominance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-pc-hardware-with-toms-computing-experts/"><u>Unveiling the Best in PC Hardware with Tom's Computing Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strengths-of-asuss-pro-b760m-ct-with-comprehensive-system-module-csm-reviewed/"><u>Unveiling the Strengths of Asus's Pro B760M-CT with Comprehensive System Module (CSM) Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/us-customers-can-now-order-loongson-cpu-equipped-mothers-and-systems-from-373-shipping-available/"><u>US Customers Can Now Order Loongson-CPU-Equipped Mothers & Systems From $373: Shipping Available</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/us-launch-affordable-longsheng-loongson-cpu-based-motherboards-and-systems-starting-at-just-373-get-the-ultimate-value-deal/"><u>US Launch: Affordable Longsheng (Loongson) CPU-Based Motherboards & Systems Starting at Just $373 - Get the Ultimate Value Deal</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transform-moments-with-these-premium-screenshot-and-video-editing-apps/"><u>[New] 2024 Approved Transform Moments with These Premium Screenshot & Video Editing Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-clear-audio-in-videos-essential-tips-and-tool-reviews/"><u>[Updated] Clear Audio in Videos Essential Tips and Tool Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-newbie-to-pro-comprehensive-periscope-tutorial/"><u>[Updated] From Newbie to Pro Comprehensive Periscope Tutorial</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-streaming-stakes-pewdiepies-earnings-examination/"><u>2024 Approved Streaming Stakes PewDiePie’s Earnings Examination</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>2024 Approved Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ving-affiliate-success-with-online-videos-for-2024/"><u>Achieving Affiliate Success with Online Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-g16-gaming-laptop-now-just-949-powerhouse-performance-on-sale/"><u>Dell G16 Gaming Laptop: Now Just $949 - Powerhouse Performance on Sale</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-asus-ryzen-ai-laptops-rzne-ai-9-hx-370-and-rzne-ai-9-365-unveiling-on-july-17-for-tuf-gaming-rog-zephyrus-zenbook-and-proart/"><u>Discover the Latest Asus Ryzen AI Laptops: RZne AI 9 HX 370 & RZne AI 9 365 - Unveiling on July 17 for TUF Gaming, ROG Zephyrus, Zenbook, and ProArt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-next-level-of-personalization-in-gaming-laptops-asus-enhances-the-zephyrus-g14-with-an-e-paper-screen-hinge-display/"><u>Discover the Next Level of Personalization in Gaming Laptops: Asus Enhances the Zephyrus G14 with an E-Paper Screen Hinge Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-duo-microsofts-enhanced-surface-and-surface-pro-with-cutting-edge-copilotplus-assistance/"><u>Discover the Power Duo: Microsoft's Enhanced Surface & Surface Pro with Cutting-Edge Copilot+ Assistance</u></a></li>
+<li><a href="https://discover-great.techidaily.com/easy-steps-para-revertir-de-windows-11-a-windows-10-en-cuatro-maneras/"><u>Easy Steps Para Revertir De Windows 11 a Windows 10 en Cuatro Maneras</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-linux-gaming-with-tuxedos-sirius-gen2-featuring-all-amd-processing-and-stunning-165hz-ips-display-starting-at-1699/"><u>Experience Next-Level Linux Gaming with Tuxedo's Sirius Gen2 - Featuring All-AMD Processing & Stunning 165Hz IPS Display Starting at €1,699</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-advanced-gadgets-with-toms-hardware-experts-dive-into-cutting-edge-technology/"><u>Explore Advanced Gadgets with Tom's Hardware Experts - Dive Into Cutting-Edge Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-perfect-game-ready-laptop-without-breaking-your-bank-best-choices-under-1k/"><u>Find the Perfect Game-Ready Laptop Without Breaking Your Bank: Best Choices Under $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-laptop-woes-to-perfect-setup-enthusiast-replaces-faulty-keyboard-and-adds-titanium-protection-plus-mechanical-typing-pleasure/"><u>From Lenovo Laptop Woes to Perfect Setup: Enthusiast Replaces Faulty Keyboard & Adds Titanium Protection + Mechanical Typing Pleasure</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990812261-untangling-the-black-ops-cold-war-hitch-error-code-887a0005-explained/"><u>Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!</u></a></li>
 </ul></div>
 

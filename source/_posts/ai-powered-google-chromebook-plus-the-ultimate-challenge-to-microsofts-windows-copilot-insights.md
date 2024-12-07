@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Google Chromebook Plus: The Ultimate Challenge to Microsoft's Windows Copilot - Insights"
-date: 2024-11-20T17:52:27.196Z
-updated: 2024-11-27T16:06:25.374Z
+date: 2024-12-02T17:39:52.222Z
+updated: 2024-12-06T22:53:33.616Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Microsoft Surface Pro and Laptop
@@ -60,6 +60,10 @@ The Surface Laptop comes in two configurations: 13.8 and 15 inches, with memory 
 
 The laptop is also thinner than its predecessors, now has a haptic touchpad, and can extend to up to three 4K _monitors while_ the device screen is active -- a subtle dig at Apple's M3 MacBook Air. As far as battery life goes, Microsoft says the new Surface Laptop has "nearly double the battery life of Surface Laptop 5," offering up to 22 hours of local video playback.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Lenovo Yoga Slim 7x and ThinkPad T14s Gen 6
 
 Kerry Wan/ZDNET
@@ -75,7 +79,7 @@ Thanks to the Snapdragon X Elite and Lenovo's AI Core, the Yoga Slim 7x and Thin
 The Lenovo Yoga Slim 7x will go on sale starting in June, with an _expected_ starting price of $1,199, while the ThinkPad T14s Gen 6 will launch around the same time with a starting price of $1,699.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. HP OmniBook X and EliteBook Ultra
@@ -89,6 +93,10 @@ HP's new OmniBook X and EliteBook Ultra are among the thinnest Copilot+ PC unvei
 Designed for freelancers and developers, the new HP laptops leverage the Snapdragon X Elite chip for various generative AI and on-device tasks, including analyzing Excel spreadsheets, real-time coaching feedback for presentations, and other Copilot features. With the OmniBook X and EliteBook Ultra, HP is so committed to the AI narrative that it has applied a new "AI Helix" logo on the covers of the systems.
 
 The [OmniBook X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-omnibook-x-copilot-pc-14-2-2k-touch-screen-laptop-snapdragon-x-elite-16gb-memory-1tb-sdd-meteor-silver%2F6583279.p%3FskuId%3D6583279&publisher_slug=itechdaily19598&exclusive=1) and [EliteBook Ultra](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-elitebook-ultra-14-inch-g1q-notebook-ai-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) are available for preorders today for starting prices of $1,199 (up to 2TB of storage and 32GB of RAM) and $1,699 (512GB of storage with 16GB of RAM), respectively, and will begin shipping on June 18.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Dell XPS 13, Latitude 7455
 
@@ -105,7 +113,7 @@ For business users, Dell is also launching the Latitude 7455 with the Snapdragon
 The XPS 13 is available for preorder today at a starting price of $1,299, while the Latitude 7455 will launch later this year, with the price still to be confirmed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Acer Swift 14 AI
@@ -120,10 +128,6 @@ Powering the system is your choice of Qualcomm's Snapdragon X Elite or X Plus, b
 
 The Acer Swift 14 AI will first be available in Europe, the Middle East, and Asia in June, and eventually be sold in North America in July, with a starting price of $1,099.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Samsung Galaxy Book 4 Edge
 
 Sabrina Ortiz/ZDNET
@@ -135,10 +139,6 @@ While Samsung just recently launched its Galaxy Book 4 series, the latest Edge v
 The rest of the specs are relatively similar to the company's standard Galaxy Book models, with two sizes (14 and 16 inches), a Dynamic AMOLED 2X display that's treated with an anti-reflective coating, Wi-Fi 7, and a dedicated Copilot key. 
 
 The [14-inch Galaxy Book 4 Edge](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-edge%2F%3F&publisher_slug=itechdaily19598&exclusive=1) will start at $1,349, while the 16-inch size will start at $1,749 with 1TB of storage. Samsung says the laptops are available for preorder today and will even toss in a 50-inch Crystal UHD 4K TV to sweeten the pot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Asus Vivobook S 15
 
@@ -184,15 +184,18 @@ The [Vivobook S 15](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/849-us-release-of-dasungs-paperlike-color-touchscreen-monitor-12-inch-stylish-design-and-sharp-2560x1600-resolution/"><u>$849 U.S. Release of Dasung's Paperlike Color Touchscreen Monitor – 12-Inch, Stylish Design & Sharp 2560X1600 Resolution</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 14 Pro to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/acer-unveils-three-cutting-edge-oled-gaming-screens-with-top-offering-the-480hz-27-predator-x2amo-u-f3/"><u>Acer Unveils Three Cutting-Edge OLED Gaming Screens with Top Offering, the 480Hz 27” Predator X2amo U F3</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-computer-systems-breakdown-by-toms-hardware-specialist/"><u>Advanced Computer Systems Breakdown by Tom's Hardware Specialist</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-value-156-inch-1080p-portable-monitor-with-ips-display-for-just-6599/"><u>Best Value 15.6 Inch 1080P Portable Monitor with IPS Display for Just $65.99</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-installing-focusrite-scarlett-2i4-drivers-for-windows-computers/"><u>Complete Guide to Downloading & Installing Focusrite Scarlett 2I4 Drivers for Windows Computers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 6 Plus</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-filmmaking-lenses-the-ten-most-critical-choices/"><u>In 2024, Pro Filmmaking Lenses The Ten Most Critical Choices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-through-game-boy-pen-troubles-in-depth-fixing-techniques-for-seamless-play-on-classic-consoles/"><u>Navigate Through Game Boy Pen Troubles: In-Depth Fixing Techniques for Seamless Play on Classic Consoles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-user-profile-service-setup-problems-for-windows-1011-users/"><u>Step-by-Step Guide to Fixing User Profile Service Setup Problems for Windows 10/11 Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-examining-video-comments-on-youtube/"><u>[New] 2024 Approved Examining Video Comments on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-todays-hot-gems-a-guide-to-facebooks-favorites/"><u>[New] 2024 Approved Unveiling Today’s Hot Gems A Guide to Facebook's Favorites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-precision-and-quality-in-screen-recording-discovering-showmores-benefits/"><u>2024 Approved Precision and Quality in Screen Recording - Discovering ShowMore's Benefits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-simplified-streaming-solutions-for-the-solo-broadcayer/"><u>2024 Approved Simplified Streaming Solutions for the Solo Broadcayer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-xiaomi-redmi-12-frp-bypass-by-drfone-android/"><u>About Xiaomi Redmi 12 FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazing-deal-gigabyte-aorus-49-oled-gaming-monitor-now-just-969-best-ever-pricing/"><u>Amazing Deal: Gigabyte Aorus 49 OLED Gaming Monitor Now Just $969 – Best Ever Pricing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-unveils-powerhouse-triad-the-u3-graphic-pro-monitors-for-professionals/"><u>AOC Unveils Powerhouse Triad - The U3 Graphic Pro Monitors for Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-precision-why-30fps-can-be-perfect/"><u>Console Precision: Why 30FPS Can Be Perfect</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-software-and-more-at-toms-tech-destination/"><u>Delving Into Hardware, Software, and More at Tom's Tech Destination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-through-toms-equipment-insights/"><u>Discover Cutting-Edge Devices Through Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-where-is-youtube-video-manager-all-you-need-to-know/"><u>In 2024, Where Is Youtube Video Manager? [All You Need to Know]</u></a></li>
 </ul></div>
 

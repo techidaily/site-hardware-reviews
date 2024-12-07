@@ -1,7 +1,7 @@
 ---
 title: Top 65 Prime Day 2024 Bargains on Video Games - Exclusive Deals You Can't Miss!
-date: 2024-11-22T18:32:48.591Z
-updated: 2024-11-27T16:37:29.705Z
+date: 2024-12-05T22:41:56.489Z
+updated: 2024-12-07T01:12:54.062Z
 tags:
   - laptops
 categories:
@@ -88,6 +88,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -101,6 +105,10 @@ ZDNET
 * [Logitech G915 Lightspeed mechanical gaming keyboard for $160 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Mechanical-Keyboard-Tactile%2Fdp%2FB07NY9ZRZG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C707926cb-8910-434b-a942-2f194496435c%7Cdtp&dtb=1): A low-profile mechanical gaming keyboard with 2.4GHz and Bluetooth wireless connectivity.
 * [Arcade1Up Attack From Mars electronic pinball table for $499 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-William-Bally-Attack-Mars-Pinball%2Fdp%2FB0998S48N2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C707926cb-8910-434b-a942-2f194496435c%7Cdtp&dtb=1): A fully-digital pinball table featuring a classic William Bally "Attack From Mars" theme.
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C707926cb-8910-434b-a942-2f194496435c%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -116,6 +124,10 @@ ZDNET
 * [Razer quick charging station for PS5 controllers in blue for $25 (save $15 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-quick-charging-stand-for-ps5-controllers-blue%2F6520072.p%3FskuId%3D6520072&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A USB-C charging stand for keeping your extra controllers powered up and at-the-ready.
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -176,10 +188,6 @@ Kyle Kucharski/ZDNET
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals
 
 Lenovo
@@ -209,24 +217,16 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -234,7 +234,7 @@ Samsung/ZDNET
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
@@ -275,18 +275,15 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-skype-capture-methods-seamless-transition-between-oses/"><u>[New] 2024 Approved Skype Capture Methods Seamless Transition Between OSes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhancing-your-contents-impact-smart-utilization-of-igtv-hashtags/"><u>2024 Approved Enhancing Your Content's Impact Smart Utilization of IGTV Hashtags</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/apples-latest-innovation-are-macbook-air-or-pro-best-for-2024/"><u>Apple's Latest Innovation Are MacBook Air or Pro Best for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discovering-new-gadgets-a-look-into-toms-hardware-selections/"><u>Discovering New Gadgets - A Look Into Tom's Hardware Selections</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effective-management-of-mobile-devices-securing-your-iphone-transferring-an-ipad-and-safeguarding-data-on-ipods/"><u>Effective Management of Mobile Devices: Securing Your iPhone, Transferring an iPad & Safeguarding Data on iPods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-longsheng-cpus-us-shipping-begins-now-entry-level-motherboards-and-systems-from-just-373/"><u>Elevate Your Gaming Experience with Longsheng CPUs - US Shipping Begins Now! Entry-Level Motherboards and Systems From Just $373.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-new-horizons-in-technology-dive-into-toms-hardware-reviews/"><u>Explore New Horizons in Technology - Dive Into Tom's Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-your-one-stop-resource/"><u>Exploring Technology with Tom's Hardware – Your One-Stop Resource</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-motherboard-innovation-asrock-introduces-an-exclusive-set-of-arrow-lake-compatible-board-offerings-highlighted-by-the-newly-unveiled-taichi-78/"><u>Game Changer in Motherboard Innovation: ASROCK Introduces an Exclusive Set of Arrow Lake Compatible Board Offerings, Highlighted by the Newly Unveiled Taichi Model With Advanced CAMM2 Memory Capabilities</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-9-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 9 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-roblox-error-277-for-pc-users-insights-and-strategies/"><u>Overcoming Roblox Error 277 for PC Users: Insights and Strategies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quickly-speed-up-your-slow-mobile-connection-a-step-by-step-guide/"><u>Quickly Speed Up Your Slow Mobile Connection - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/k-6-figure-videos-top-hashtag-trends-for-2024/"><u>Unlock 6-Figure Videos Top Hashtag Trends for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-boost-engagement-with-effective-wirecast-broadcasts-on-fb-for-2024/"><u>[New] Boost Engagement with Effective Wirecast Broadcasts on FB for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hps-omnibook-ultra-14-the-future-of-laptop-innovation-with-integrated-amd-ryzen-ai-300-chipset-and-top-notch-thunderbolt-4-speed/"><u>HP's OmniBook Ultra 14: The Future of Laptop Innovation with Integrated AMD Ryzen AI 300 Chipset & Top-Notch Thunderbolt 4 Speed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-8-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-editing-made-easy-with-lunapic-for-first-timers/"><u>In 2024, Editing Made Easy with LunaPic For First-Timers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-guide-to-quick-screen-captures-on-mac-using-shortcuts/"><u>In 2024, Expert Guide to Quick Screen Captures on Mac Using Shortcuts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-toms-authoritative-take-on-tech-advanceby-tom/"><u>Mastering Equipment: Tom's Authoritative Take on Tech Advanceby Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-innovations-with-detailed-reviews-from-toms-domain/"><u>Mastering Modern Tech Innovations with Detailed Reviews From Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-and-gadgets-with-wisdom-from-toms-electronic-oasis/"><u>Mastering Your PC and Gadgets with Wisdom From Tom's Electronic Oasis</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-sound-problems-in-youtube-overcoming-audio-renderer-errors-on-windows-11/"><u>Troubleshoot Sound Problems in YouTube: Overcoming Audio Renderer Errors on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-cult-of-the-lamb-pc-crashes/"><u>Troubleshooting Steps: Resolving Cult of the Lamb PC Crashes</u></a></li>
 </ul></div>
 

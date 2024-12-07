@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2024-11-21T16:28:59.145Z
-updated: 2024-11-27T19:12:06.869Z
+date: 2024-12-01T21:03:24.619Z
+updated: 2024-12-06T22:43:55.420Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,22 +97,19 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-apowersoft-screen-recorder-review-and-alternative/"><u>[New] In 2024, Apowersoft Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-accessing-your-twitter-history/"><u>[Updated] 2024 Approved Accessing Your Twitter History</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-refining-photos-the-step-by-step-guide-to-clean-edges-on-photopea/"><u>2024 Approved Refining Photos The Step-by-Step Guide to Clean Edges on Photopea</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-premier-microsoft-enterprise-mobile-applications-a-comprehensive-guide-to-the-top-10-picks-for-iphones-and-ipads-biztech-insights/"><u>Discover the Premier Microsoft Enterprise Mobile Applications: A Comprehensive Guide to the Top 10 Picks for iPhones and iPads | BizTech Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-realme-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Realme 12 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/order-matters-discover-the-best-way-to-experience-the-how-to-train-your-dragon-movie-series/"><u>Order Matters! Discover the Best Way to Experience the How to Train Your Dragon Movie Series</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96031807-9781633410831-queen-up-reclaim-your-crown-when-life-knocks-you-down/"><u>Queen Up! Reclaim Your Crown When Life Knocks You Down | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-big-lenovo-legion-laptops-now-750-discounted-features-rtx-4080-and-stunning-240hz-screen/"><u>Save Big: Lenovo Legion Laptops Now $750 Discounted - Features RTX 4080 and Stunning 240Hz Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-enthusiast-replaces-defective-lenovo-keyboard-goes-for-a-powerful-combo-of-titanium-case-and-mechanical-keys/"><u>Tech Enthusiast Replaces Defective Lenovo Keyboard: Goes for a Powerful Combo of Titanium Case & Mechanical Keys</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-power-of-unity-apple-deploys-its-entire-ecosystem-to-revolutionize-mac-gaming/"><u>The Power of Unity: Apple Deploys Its Entire Ecosystem to Revolutionize Mac Gaming</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware-t17238628794305/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-technology-forum-decoding-the-wonders-of-modern-computer-hardware/"><u>Tom's Technology Forum: Decoding the Wonders of Modern Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-insights-into-computing-visit-toms-hardware-hub/"><u>Ultimate Insights Into Computing - Visit Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-high-tech-secrets-with-toms-hardware-discoveries/"><u>Unraveling High-Tech Secrets with Tom’s Hardware Discoveries</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-at-toms-electronics-hub/"><u>Unveiling the Latest in Computing at Tom's Electronics Hub</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-echo-excellence-enhancing-windows-pc-sounds-with-online-acoustic-plugins/"><u>Updated In 2024, Echo Excellence Enhancing Windows PC Sounds with Online Acoustic Plugins</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/what-to-know-about-the-latest-first-person-shooter-changes-in-call-of-duty-modern-warfare/"><u>What to Know About the Latest First-Person Shooter Changes in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovation-in-social-media-redefining-the-role-of-facebook-stories-for-2024/"><u>[New] Innovation in Social Media Redefining the Role of Facebook Stories for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-moonlit-musings-capturing-the-essence-of-nocturnal-imagery/"><u>2024 Approved Moonlit Musings Capturing the Essence of Nocturnal Imagery</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-videovantage-warriors/"><u>2024 Approved VideoVantage Warriors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-newly-listed-31-motherboards-from-maxsun-showcasing-intel-arrow-lake-and-amd-ryzen-nine-zero-across-five-cutting-edge-unannounced-chi96/"><u>Comprehensive Guide to Newly Listed 31 Motherboards From Maxsun - Showcasing Intel Arrow Lake and AMD Ryzen Nine Zero, Across Five Cutting-Edge Unannounced Chipset Variants with PCIe 800 Branding</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/convenient-alias-adjustment-in-google-meet-devices/"><u>Convenient Alias Adjustment in Google Meet Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-pc-gear-with-toms-technology-insights/"><u>Discover Cutting-Edge PC Gear with Tom's Technology Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tweets-choosing-the-right-converter/"><u>Essential Tweets Choosing the Right Converter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-new-world-of-computing-golden-socketed-cpu-on-gigabytes-misty-designed-iceberg-intel-z790-motherboard/"><u>Explore the New World of Computing: Golden Socketed CPU on Gigabyte's Misty-Designed Iceberg Intel Z790 Motherboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gadgets-with-tom-a-deep-dive-into-modern-hardware/"><u>Exploring Computer Gadgets with Tom - A Deep Dive Into Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-review/"><u>Exploring Computer Gear with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-maxsun-catalog-intels-arrow-lake-amds-ryzen-9000-boards-with-latest-unveiled-motherboard-chipsets-and-800-series-labeling/"><u>Exploring the Maxsun Catalog: Intel's Arrow Lake, AMD's Ryzen 9000 Boards with Latest Unveiled Motherboard Chipsets & 800-Series Labeling</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-boot-and-install-windows-n-from-a-usb-stick-visual-instructions-included/"><u>How to Boot and Install Windows N From a USB Stick - Visual Instructions Included</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-the-2019-game-changer-in-vegaspro/"><u>In 2024, The 2019 Game-Changer in VegasPro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y17s-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y17s Android SIM Unlock APK</u></a></li>
 </ul></div>
 

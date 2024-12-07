@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Get the 2TB Samsung 980 PRO M.2 SSD at Just $179 – Top Pick From ZDNet!"
-date: 2024-09-17 15:29:45
-updated: 2024-09-20 12:54:54
+date: 2024-12-05T22:36:22.678Z
+updated: 2024-12-06T23:05:50.992Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,30 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-viral-video-voyage-unveiling-the-trendiest-tweets-of-2023/"><u>[New] In 2024, Viral Video Voyage Unveiling the Trendiest Tweets of 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revolutionary-screen-technology-elite-4k-options-for-mac-enthusiasts/"><u>[New] Revolutionary Screen Technology Elite 4K Options for Mac Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-the-process-of-finding-your-own-musical-compilation-on-youtube-for-2024/"><u>[Updated] Streamlining the Process of Finding Your Own Musical Compilation on Youtube for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-reviewed-by-toms-hardware-experts/"><u>Discover Top Gadgets Reviewed by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-sovol-sv08-reviving-classic-voron-performance/"><u>Expert Insight on Sovol SV08 - Reviving Classic Voron Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhance-your-fb-with-iphonesandroids-favorite-tunes/"><u>In 2024, Enhance Your FB with iPhones/Androids' Favorite Tunes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-sonys-x1000v-detailed-recording-experience-review/"><u>In 2024, Sony's X1000V Detailed Recording Experience Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-toolwiz-visual-mastery-a-comprehensive-review/"><u>In 2024, Toolwiz Visual Mastery - A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>In 2024, Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-technology-at-toms-hardware/"><u>In-Depth Analysis of Cutting-Edge Technology at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/postoperative-monitoring-for-signs-of-infection-or-inflammation-is-crucial-after-ocular-trauma-treatment/"><u>Postoperative Monitoring for Signs of Infection or Inflammation Is Crucial After Ocular Trauma Treatment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-your-touchpads-scroll-function-a-complete-solution-for-stuck-buttons/"><u>Restore Your Touchpad's Scroll Function - A Complete Solution for Stuck Buttons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-insights-navigating-the-world-of-technology-gear/"><u>Tom's Hardware Insights: Navigating the World of Technology Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-guides-and-reviews/"><u>Tom's Tech Insights: In-Depth Guides and Reviews</u></a></li>
+</ul></div>
+

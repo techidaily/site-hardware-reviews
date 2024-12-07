@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Installing Linux on Your Microsoft Surface Go in Under an Hour!"
-date: 2024-09-17 20:23:52
-updated: 2024-09-20 11:14:37
+date: 2024-12-02T00:41:22.810Z
+updated: 2024-12-07T01:08:18.437Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/08d0ed252ac6170c4a8fac055223d23fecc76ab62
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,25 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-guide-to-procuring-and-utilizing-free-visual-frame-content/"><u>[New] 2024 Approved The Guide to Procuring and Utilizing Free Visual Frame Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-image-editors-ultimate-toolkit-review-for-2024/"><u>[New] The Image Editor's Ultimate Toolkit Review for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-secure-your-webcam-with-these-10-tips/"><u>[Updated] Secure Your Webcam with These 10 Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-how-to-correct-livekernelevent-error-117/"><u>Mastering the Art of Troubleshooting: How to Correct LiveKernelEvent Error 117</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-insights-into-on-device-artificial-intelligence-an-in-depth-look-at-its-workings/"><u>The Insights Into On-Device Artificial Intelligence: An In-Depth Look at Its Workings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-performer-showdown-in-depth-review-of-gigabytes-high-end-aorus-fo32u2p-monitor-with-ultra-4k-240hz-visual-splendor/"><u>Top-Performer Showdown: In-Depth Review of Gigabyte's High-End Aorus FO32U2P Monitor with Ultra 4K, 240Hz Visual Splendor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visionaries-tools-revealed-premium-360cameras-of-2023-for-2024/"><u>Visionaries' Tools Revealed Premium 360°Cameras of 2023 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-upgrade-efficiency-over-entertainment/"><u>Windows 11 Upgrade: Efficiency Over Entertainment</u></a></li>
+</ul></div>
+

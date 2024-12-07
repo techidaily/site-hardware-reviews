@@ -1,7 +1,7 @@
 ---
 title: Ultra-Competitive Mini PC with Rich Connectivity Options Now Under $150, Reviewed by ZDNET
-date: 2024-09-17 15:36:49
-updated: 2024-09-20 10:53:43
+date: 2024-12-02T16:52:51.951Z
+updated: 2024-12-06T22:34:18.769Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,30 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-future-of-video-recording-insights-into-fraps-for-2024/"><u>[New] The Future of Video Recording Insights Into Fraps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-directors-guide-to-powerdirector-24-software/"><u>[Updated] Complete Director's Guide to PowerDirector '24 Software</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-the-basics-of-streaming-via-discord/"><u>[Updated] Discovering the Basics of Streaming via Discord</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-ensure-periscope-videos-are-secured-post-record/"><u>[Updated] How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-essential-view-total-to-secure-income/"><u>2024 Approved YouTube's Essential View Total to Secure Income</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-x100-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo X100 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-emporium-comprehensive-guides-and-reviews/"><u>Exploring Tom's Tech Emporium: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-reviews-top-picks-and-insights/"><u>Exploring Tom's Tech Reviews: Top Picks & Insights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-affordable-online-education-hosting-on-youtube/"><u>In 2024, Affordable Online Education Hosting on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-insights-by-tom-exploring-advanced-technology-hardware/"><u>Innovative Gadget Insights by Tom - Exploring Advanced Technology Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-generation-hbm-manufacturing-set-to-launch-at-new-memory-fab-by-sk-hynix-in-indiana-a-387-billion-dollar-venture/"><u>Next Generation HBM Manufacturing Set to Launch at New Memory Fab by SK Hynix in Indiana - A 3.87 Billion Dollar Venture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroup-t-force-vulcan-alpha-ddr5-memory-c38-review-the-perfect-match-for-amd-ryzen-7000-series/"><u>TeamGroup T-Force Vulcan Alpha DDR5 Memory (C38) Review – The Perfect Match for AMD Ryzen 7000 Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Gear: The Ultimate Guide to Computer Components and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-your-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Hub: Your Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X5 Pro | Dr.fone</u></a></li>
+</ul></div>
+

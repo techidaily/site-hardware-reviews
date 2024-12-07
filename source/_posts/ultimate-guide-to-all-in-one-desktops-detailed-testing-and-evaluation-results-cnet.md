@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to All-in-One Desktops : Detailed Testing & Evaluation Results | CNET"
-date: 2024-09-19 21:48:44
-updated: 2024-09-20 10:16:23
+date: 2024-12-06T03:20:14.868Z
+updated: 2024-12-06T18:20:13.511Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-film-assembly-station/"><u>[New] 2024 Approved Film Assembly Station</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-investigating-diverse-google-ar-adornments/"><u>[Updated] 2024 Approved Investigating Diverse Google AR Adornments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-screencastify-for-easy-video-capture/"><u>2024 Approved Mastering Screencastify for Easy Video Capture</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-logitech-g515-lightspeed-tkl-keyboard-evaluation-the-ultimate-compact-choice/"><u>Affordable Logitech G515 Lightspeed TKL Keyboard Evaluation: The Ultimate Compact Choice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amds-latest-giants-in-depth-performance-review-of-the-ryzen-5-9600x-and-ryzen-7-9700x-powered-by-advanced-zen-5/"><u>AMD's Latest Giants - In-Depth Performance Review of the Ryzen 5 9600X and Ryzen 7 9700X Powered by Advanced Zen 5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-compelling-visual-stories-with-ps-distortion-tools-for-2024/"><u>Crafting Compelling Visual Stories with PS Distortion Tools for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-endurance-and-quiet-strength-in-the-asus-tuf-gaming-a14-series/"><u>Discovering Endurance and Quiet Strength in the Asus TUF Gaming A14 Series</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-pny-rp60-portable-ssd-good-quality-yet-unremarkable-features/"><u>Evaluating the PNY RP60 Portable SSD - Good Quality, Yet Unremarkable Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom-your-guide/"><u>Exploring the Latest in Computer Hardware with Tom - Your Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-fossil-to-green-facebooks-total-energy-transformation/"><u>From Fossil to Green: Facebook's Total Energy Transformation</u></a></li>
+<li><a href="https://win-able.techidaily.com/mafia-the-final-cut-revealed-release-cancellation-clarification/"><u>Mafia: The Final Cut Revealed - Release Cancellation Clarification</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-hardware-tips-and-reviews-by-tom/"><u>Navigating the World of Hardware - Tips & Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-level-visual-experience/"><u>Next-Level Visual Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-gearheads-companion-inside-toms-hardware-wonders/"><u>The Gearhead's Companion: Inside Tom's Hardware Wonders</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-for-hp-beats-audio-driver-problems-in-win-1087-an-in-depth-tutorial/"><u>Troubleshooting and Solutions for HP Beats Audio Driver Problems in Win 10/8/7: An In-Depth Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-technology-secrets-at-toms-hardware-sanctuary/"><u>Unveiling Technology Secrets at Tom's Hardware Sanctuary</u></a></li>
+</ul></div>
+

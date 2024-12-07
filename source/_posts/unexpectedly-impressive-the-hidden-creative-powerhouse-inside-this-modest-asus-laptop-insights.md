@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Impressive: The Hidden Creative Powerhouse Inside This Modest Asus Laptop - Insights"
-date: 2024-11-24T19:00:19.112Z
-updated: 2024-11-27T16:33:52.746Z
+date: 2024-12-04T23:31:42.330Z
+updated: 2024-12-06T19:50:58.632Z
 tags:
   - laptops
 categories:
@@ -47,10 +47,6 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | Processor        | Intel 12th Gen i5-1240P                                                     |
@@ -68,7 +64,7 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How's the design?
@@ -107,7 +103,7 @@ Lastly, the 3:2, 2256x1504 display on the Framework Chromebook is color-vibrant,
 **Review: [The HP Elite Dragonfly Chromebook has no business being this good](https://www.zdnet.com/article/hp-elite-dragonfly-chromebook-review/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customizing the Framework
@@ -137,7 +133,7 @@ The company makes it easy to find the exact component that you need by labeling 
 **Also: [With Samsung's Self-Repair program, you can fix your broken screen at will](https://www.zdnet.com/article/samsung-launches-self-repair-program-so-you-can-fix-that-broken-screen-at-will/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it handle daily tasks?
@@ -168,6 +164,10 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 
 [Buy the Framework Chromebook $963 at Frame](https://frame.work/products/laptop-chromebook-12-gen-intel/configuration/edit)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 I love the Framework Chromebook. It's one of the few tech products that I've reviewed this year that truly feels like a consumer-first gadget and is made by a company that truly cares about the environment. I also happen to fall under the "non-professional" userbase which makes the ChromeOS experience more than adequate for my day-to-day.
@@ -175,7 +175,7 @@ I love the Framework Chromebook. It's one of the few tech products that I've rev
 With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMac-Book-Pro-Charger-Compatible%2Fdp%2FB09GFR7NSK%2Fref%3Dsxts%5Fb2b%5Fsx%5Freorder%5Fv3%5Fbusiness%3Fcontent-id%3Damzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%3Aamzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26cv%5Fct%5Fcx%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26gclid%3DEAIaIQobChMIs5Pt35LC-wIVUTizAB1ACgGFEAAYAiAAEgIy2%5FD%5FBwE%26hvadid%3D177325628310%26hvdev%3Dc%26hvlocphy%3D9005779%26hvnetw%3Dg%26hvqmt%3De%26hvrand%3D2145686270052462161%26hvtargid%3Dkwd-13812963869%26hydadcr%3D19137%5F9664167%26keywords%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26pd%5Frd%5Fi%3DB09GFR7NSK%26pd%5Frd%5Fr%3D129fb8fb-f662-4d8a-8ba5-3c33bf2785fd%26pd%5Frd%5Fw%3DH19HD%26pd%5Frd%5Fwg%3DJAz8D%26pf%5Frd%5Fp%3D3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26pf%5Frd%5Fr%3D5CG3412G8ZQ8YRYVN7GE%26qid%3D1669132408%26sr%3D1-1-722db4e4-77fc-4fb6-8cee-654ad16ce1d5%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C072696e5-0cae-486b-9cee-48548f1af7b6%7Cdtp&dtb=1), the Framework Chromebook is competing in rough waters, especially going into the holiday season when every manufacturer (including Apple) is [discounting laptops](https://www.zdnet.com/article/early-black-friday-laptop-deals-november-22-2022/) left and right. But if you want a machine that will free you of dongles, hubs, and visits to your local tech support, receive software updates for years down the line, and represents a movement that effectively betters the planet, then the Framework Chromebook is the best option available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -216,24 +216,16 @@ With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlock-device-agnostic-techniques-for-professional-filming/"><u>[New] 2024 Approved Unlock Device-Agnostic Techniques for Professional Filming</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-perfecting-your-youtube-presence-with-finalcut-pro-proficiency/"><u>[New] Perfecting Your YouTube Presence with FinalCut Pro Proficiency</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-techniques-for-capturing-virtual-reality-gaming-for-2024/"><u>[New] Top Techniques for Capturing Virtual Reality Gaming for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-virality-vault-uncovering-keywords-that-drive-video-shares/"><u>[New] Virality Vault Uncovering Keywords That Drive Video Shares</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>2024 Approved Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversor-gratuito-de-mp4-para-mp3-online-metodos-simples-e-maquinados-por-movavi/"><u>Conversor Gratuito De MP4 Para MP3 Online: Métodos Simples E Maquinados Por Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/"><u>Enhanced Power and Efficiency: Intel Unveils High-Performance Bean Canyon NUCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964468515-exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/"><u>Exploring Technology with Tom's Hardware Insights and Analysis</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-2023s-premier-alternatives-to-samsungs-gear-360-cam/"><u>In 2024, 2023'S Premier Alternatives to Samsung's Gear 360 Cam</u></a></li>
-<li><a href="https://win-dash.techidaily.com/keep-your-canon-mp250-running-smoothly-with-the-newest-driver-updates-and-free-downloads/"><u>Keep Your Canon MP250 Running Smoothly with the Newest Driver Updates & Free Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/launching-msis-unique-yeswebuild-movement-embracing-the-future-of-computer-building/"><u>Launching MSI's Unique 'YesWeBuild' Movement: Embracing the Future of Computer Building</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-innovation-with-tom-expert-analysis-and-comparisons-for-smart-shoppers/"><u>Navigating Gadget Innovation with Tom: Expert Analysis & Comparisons for Smart Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-diy-constructing-an-ice-chilled-living-room-computer-tower-expert-tips-from-toms-hardware/"><u>The Ultimate DIY: Constructing an Ice-Chilled Living Room Computer Tower - Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-analysis-in-depth-evaluation-of-latest-electronics-and-specs/"><u>Tom's Gadget Analysis: In-Depth Evaluation of Latest Electronics and Specs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Hub: Expert Insights Into Computer Components and Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-find-x6-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo Find X6 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-master-the-art-of-recording-youtube-videos-without-spending/"><u>[New] Master the Art of Recording YouTube Videos Without Spending</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-level-vr-tools-top-8-selection/"><u>2024 Approved Next-Level VR Tools Top 8 Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-computer-components-insights-from-toms-hardware-reviews/"><u>Discover the Best Computer Components - Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-audio-game-with-turtle-beachs-atlas-air-comfort-that-feels-like-air-and-sounds-unparalleled/"><u>Elevate Your Audio Game with Turtle Beach's Atlas Air: Comfort that Feels Like Air and Sounds Unparalleled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-red-magic-9-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-xs-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone XS? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/risks-of-relying-on-chatgpt-for-essential-text-summaries/"><u>Risks of Relying on ChatGPT for Essential Text Summaries</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-version-of-macs-secure-stellar-data-wiper-and-scheduled-deletion-features/"><u>Standard Version of Mac's Secure Stellar Data Wiper & Scheduled Deletion Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-power-of-effective-cooling-with-the-teamgroup-t-force-dark-airflow-i-nvme-heatsink-buyers-guide-and-review/"><u>The Power of Effective Cooling with the TeamGroup T-Force Dark AirFlow I NVMe Heatsink - Buyer's Guide and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/workshops-and-webinars/"><u>Workshops and Webinars</u></a></li>
 </ul></div>
 

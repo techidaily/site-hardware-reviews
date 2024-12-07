@@ -1,7 +1,7 @@
 ---
 title: Unpleasant Surprises at the Apple Store, According to ZDNet Coverage
-date: 2024-11-21T17:18:28.110Z
-updated: 2024-11-27T19:04:56.807Z
+date: 2024-12-06T00:21:04.811Z
+updated: 2024-12-06T16:22:22.695Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,14 +140,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-handset-hack-for-youtube-filmmakers/"><u>[Updated] The Ultimate Handset Hack for YouTube Filmmakers</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v29e-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/acemagic-x1-the-new-dual-screen-laptop-watch-out-for-pre-launch-discount-and-details-next-month/"><u>AceMagic X1 - The New Dual-Screen Laptop: Watch Out for Pre-Launch Discount & Details Next Month</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-300-risc-v-developers-laptop-by-chinese-tech-startup/"><u>Affordable $300 RISC-V Developer's Laptop by Chinese Tech Startup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-introduces-vibrant-display-with-color-e-paper-technology-in-zephyrus-g14s-lid-the-future-of-personalized-gaming/"><u>Asus Introduces Vibrant Display with Color E-Paper Technology in Zephyrus G1^4's Lid – The Future of Personalized Gaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-facile-de-videos-mkv-vers-aac-gratuite-en-ligne-solutions-movavi/"><u>Conversion Facile De Vidéos MKV Vers AAC Gratuite en Ligne - Solutions Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-80211n-wifi-drivers-for-windows-111087-download-now/"><u>Get the Newest 802.11N WiFi Drivers for Windows 11/10/8/7 - Download Now</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862738874-get-your-hands-on-the-game-changing-lenovo-legion-slim-5-for-less-than-1100-shop-now-at-newegg/"><u>Get Your Hands on the Game-Changing Lenovo Legion Slim 5 for Less Than $1,100 – Shop Now at Newegg</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-isnt-my-gmail-syncing-find-answers-here/"><u>Why Isn't My Gmail Syncing? Find Answers Here</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-revolutionize-your-content-harnessing-the-power-of-fb-lives/"><u>[New] 2024 Approved Revolutionize Your Content Harnessing the Power of FB Lives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-experts-rankings-top-social-media-viewers/"><u>[New] Expert's Rankings Top Social Media Viewers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-engagement-todays-must-use-instagram-hashtags/"><u>[New] In 2024, Elevate Engagement Today's Must-Use Instagram Hashtags</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-offline-viewing-of-full-hd-fb-content/"><u>[New] In 2024, Offline Viewing of Full-HD FB Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-boosting-team-engagement-with-zoom-techniques-on-msteams/"><u>[Updated] In 2024, Boosting Team Engagement with ZOOM Techniques on MSTEAMS</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/frei-empfangbares-hevc-codec-paket-optimiert-fur-die-verwendung-mit-dem-vlc-media-player-jetzt-kostenlos-abrufen/"><u>Frei Empfangbares HEVC Codec Paket Optimiert Für Die Verwendung Mit Dem VLC Media Player - Jetzt Kostenlos Abrufen!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fix-tips-for-when-your-computer-keyboard-fails-to-work/"><u>Quick Fix Tips for When Your Computer Keyboard Fails to Work</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disconnects-with-nvidia-geforce-support-on-win10win11/"><u>Resolving Disconnects with Nvidia GeForce Support on Win10/Win11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-exploring-the-finest-computer-screens/"><u>Ultimate Selection: Exploring the Finest Computer Screens</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-toms-detailed-guide-to-computer-components/"><u>Unlocking Technology Secrets: Tom's Detailed Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-value-a-deep-dive-into-the-mammoth-yet-economical-monoprice-144-hz-44-inch-gaming-display-review/"><u>Unlocking Value: A Deep Dive Into the Mammoth, Yet Economical Monoprice 144 Hz 44-Inch Gaming Display Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-gadgets-toms-hardware-rundown/"><u>Unveiling the Latest in Gadgets - Tom's Hardware Rundown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-at-toms-digital-workshop/"><u>Unveiling the Latest Tech Trends at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-hardware-with-toms-expertise/"><u>Unveiling the Secrets of Hardware with Tom's Expertise</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mov-video-stitching-5-best-software-for-windows-mac-and-online-for-2024/"><u>Updated Free MOV Video Stitching 5 Best Software for Windows, Mac, and Online for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/xiaomi-g34wqi-gaming-monitor-ultimate-value-in-depth-analysis-of-34-screen-180hz-refresh-rate-with-stunning-colors-and-contrast/"><u>Xiaomi G34WQi Gaming Monitor - Ultimate Value: In-Depth Analysis of 34 Screen, 180Hz Refresh Rate with Stunning Colors & Contrast</u></a></li>
 </ul></div>
 

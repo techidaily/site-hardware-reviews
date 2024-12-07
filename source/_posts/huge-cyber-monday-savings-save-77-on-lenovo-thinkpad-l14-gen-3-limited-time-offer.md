@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2024-11-24T16:32:45.707Z
-updated: 2024-11-27T17:07:45.860Z
+date: 2024-12-03T02:30:17.634Z
+updated: 2024-12-06T18:33:03.706Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,21 +97,22 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-downloader-essentials-the-best-tools-for-offline-viewing/"><u>[New] 2024 Approved Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-zenith-of-zoom-audio-fine-tuning-for-peak-performance/"><u>[New] 2024 Approved Zenith of Zoom Audio Fine-Tuning for Peak Performance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-fix-no-video-on-sony-a6400-camera-for-2024/"><u>[New] How to Fix No Video On Sony A6400 Camera for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-download-youtube-tunes-without-risk-for-free/"><u>[Updated] How to Download YouTube Tunes Without Risk for Free</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/disabling-keyboard-clicks-a-step-by-step-guide-for-all-gadgets/"><u>Disabling Keyboard Clicks: A Step-by-Step Guide for All Gadgets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dont-miss-out-all-you-need-to-know-about-the-anticipated-samsung-unpacked-event-2025-schedule-announcements-and-hidden-gems/"><u>Don't Miss Out: All You Need to Know About the Anticipated Samsung Unpacked Event 2025 – Schedule, Announcements & Hidden Gems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gearing-up-against-competitors-amds-latest-release-of-the-800-series-chipsets-designed-to-harness-ryzen-9000-processor-potential-and-outpace-intel/"><u>Gearing Up Against Competitors: AMD's Latest Release of the 800 Series Chipsets Designed to Harness Ryzen 9000 Processor Potential and Outpace Intel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gigabyte-releases-heavy-duty-motherboards-for-128-lb-gpus-despite-strengthened-connections-pcb-breakage-issue-persists/"><u>Gigabyte Releases Heavy-Duty Motherboards for 128-Lb GPUs; Despite Strengthened Connections, PCB Breakage Issue Persists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gigabytes-latest-innovation-the-exclusive-gold-plated-cpu-socket-for-the-intel-z790-aorus-xtreme-x-motherboard-with-stunning-misty-graphics/"><u>Gigabyte's Latest Innovation: The Exclusive Gold-Plated CPU Socket for the Intel Z790 Aorus XTreme X Motherboard with Stunning Misty Graphics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-asus-recent-bios-revamp-harnesses-microsoft-dynamic-lighting-to-optimize-system-efficiency/"><u>How Asus' Recent BIOS Revamp Harnesses Microsoft Dynamic Lighting to Optimize System Efficiency</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-defy-2-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Defy 2.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-g42-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia G42 5G Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 15 Pro without Password?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-electronics-in-depth-reviews-from-toms-hardware/"><u>Inside the World of Electronics: In-Depth Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-pioneering-z790-project-zero-the-first-motherboard-to-integrate-camm2-memory-standard-in-desktops-elevating-pc-performance/"><u>Introducing MSI's Pioneering Z790 Project Zero: The First Motherboard to Integrate CAMM2 Memory Standard in Desktops, Elevating PC Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-knowledge-through-toms-expert-guides/"><u>Mastering Electronics Knowledge Through Tom's Expert Guides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/kyrocket-your-earnings-by-mastering-youtube-shorts-monetization/"><u>[New] Skyrocket Your Earnings by Mastering YouTube Shorts Monetization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-captivate-crowds-secrets-to-screen-collaboration-via-social-media/"><u>[Updated] 2024 Approved Captivate Crowds Secrets to Screen Collaboration via Social Media</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-10-websites-for-sky-hdr-images/"><u>[Updated] 2024 Approved Top 10 Websites for Sky HDR Images</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-balancing-acts-understanding-the-importance-of-drone-stabilizers/"><u>[Updated] In 2024, Balancing Acts Understanding the Importance of Drone Stabilizers</u></a></li>
+<li><a href="https://win-web3.techidaily.com/57at5lplusu5pa55rov77ya5aac5l2v6ycg6l2j6kqk6kej5p6q55qe5li76kab56ob5y2a5yig5ymy5lul5yplusk6ycy6kgm56gs56kf5yig5ymy55qe5ouv5pwr5oqa6kgt/"><u>維修方法：如何逆轉誤解析的主要磁區分割以及進行硬碟分割的拯救技術</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-7-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 7 Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-your-intellect-with-top-11-general-knowledge-quiz-networks/"><u>Elevate Your Intellect with Top 11 General Knowledge Quiz Networks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-technology-toms-comprehensive-hardware-analysis/"><u>Inside Look at Technology: Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-game-with-expert-advice-from-toms-hardware-zone/"><u>Master Your Tech Game with Expert Advice From Tom's Hardware Zone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-tips-and-advice-from-toms-hardware-experts/"><u>Mastering Gadget Selection: Tips and Advice From Tom's Hardware Experts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-recording-on-googles-platform-for-2024/"><u>Mastering Recording on Google's Platform for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-katana-156-gaming-laptop-powerhouse-performance-at-just-1199-featuring-nvidia-rtx-4070/"><u>MSI Katana 15.6 Gaming Laptop: Powerhouse Performance at Just $1,199 – Featuring NVIDIA RTX 4070</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-pros-and-cons-of-asus-rog-zephyrus-g16-an-in-depth-gamers-guide/"><u>Navigating the Pros and Cons of Asus ROG Zephyrus G16: An In-Depth Gamer's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-computer-reviews-by-toms-hardware-team/"><u>Pioneering Computer Reviews by Tom's Hardware Team</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-and-easy-online-image-transformation-convert-raw-to-jpeg-with-movavis-raf-em-tool/"><u>Quick & Easy Online Image Transformation - Convert RAW to JPEG with Movavi's RAF Em Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-carbon-fiber-cells-the-new-era-of-lightweight-high-performance-device-power/"><u>Revolutionary Carbon-Fiber Cells: The New Era of Lightweight, High-Performance Device Power</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sneak-peek-of-the-future-new-ai-integrated-dell-laptops-set-for-a-summer-release/"><u>Sneak Peek of the Future - New AI-Integrated Dell Laptops Set for a Summer Release</u></a></li>
 </ul></div>
 

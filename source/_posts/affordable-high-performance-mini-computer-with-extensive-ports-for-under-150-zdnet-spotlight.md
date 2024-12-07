@@ -1,7 +1,7 @@
 ---
 title: Affordable High-Performance Mini Computer with Extensive Ports for Under $150 | ZDNET Spotlight
-date: 2024-09-18 18:53:32
-updated: 2024-09-20 12:29:52
+date: 2024-12-02T22:33:29.481Z
+updated: 2024-12-06T21:00:15.396Z
 tags:
   - pc
 categories:
@@ -64,11 +64,28 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-quieting-audible-outputs-a-windowsmac-guide/"><u>[New] In 2024, Quieting Audible Outputs A Windows/Mac Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-seamless-snapchat-lens-creation/"><u>[Updated] The Ultimate Guide to Seamless Snapchat Lens Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-the-mu-a-rapid-alternative-to-raspberry-pi-4-is-it-worth-the-investment/"><u>Comparing the Mu: A Rapid Alternative to Raspberry Pi 4 – Is It Worth the Investment?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210358785-9780753735060-crystal-zodiac/"><u>Crystal Zodiac | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-error-0x80070002-in-windows-update-processes/"><u>Effortless Solutions for Error 0X80070002 in Windows Update Processes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-testing-the-long-lasting-endurance-of-asus-tuf-gaming-a14/"><u>In-Depth Review: Testing the Long-Lasting Endurance of Asus TUF Gaming A14</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/levelplay-combat-air-ca4-cpu-cooler-a-thorough-review-on-low-noise-high-performance-cooling-excellence/"><u>Levelplay Combat Air CA^4 CPU Cooler: A Thorough Review on Low Noise, High Performance Cooling Excellence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-concept-of-tagging-whats-involved/"><u>Understanding the Concept of Tagging: What's Involved?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-setup-wisely-turn-to-insider-knowledge-at-toms-hardware/"><u>Upgrading Your Setup Wisely? Turn to Insider Knowledge at Tom's Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

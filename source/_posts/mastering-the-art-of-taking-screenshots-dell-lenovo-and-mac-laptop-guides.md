@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2024-11-20T17:25:01.450Z
-updated: 2024-11-27T18:29:39.368Z
+date: 2024-11-30T18:08:16.396Z
+updated: 2024-12-06T19:32:28.183Z
 tags:
   - laptops
 categories:
@@ -32,13 +32,13 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 1: The old fashioned way**
 
@@ -52,10 +52,6 @@ The button can be just about anywhere, so just look for something that looks as 
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Paste your screenshot
 
 Once you've captured your display, the easiest way to edit and save it is by pasting it into an image editing app. If you've got Photoshop, that'll work, but since most people don't have access to such pro software, a much easier, free option works, too: Microsoft Paint.
@@ -68,11 +64,11 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -85,10 +81,6 @@ The main difference in using Windows+Shift+S is that windows won't automatically
 The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
@@ -104,19 +96,27 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,17 +157,24 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-freezeframe-stop-and-screen-retain-guide/"><u>[New] In 2024, FreezeFrame Stop & Screen Retain Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-glimpsing-at-huawei-p10s-thermal-management-tech/"><u>2024 Approved Glimpsing at Huawei P10's Thermal Management Tech</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tailoring-content-to-engage-an-igtv-video-dimension-blueprint/"><u>2024 Approved Tailoring Content to Engage An IGTV Video Dimension Blueprint</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726027753523-clipchamp/"><u>Clipchampでビデオからオーディオクリッピングのステップバイステップガイド</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-prevent-youtube-from-starting-video-before-you-watch/"><u>How to Prevent YouTube From Starting Video Before You Watch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieve-sharp-footage-with-best-rated-camera-gimbals/"><u>In 2024, Achieve Sharp Footage with Best-Rated Camera Gimbals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-advanced-computer-components/"><u>Tom's Tech Insights: Your Guide to Advanced Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews: In-Depth Hardware Evaluations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-pcs-below-1k-a-buyers-guide/"><u>Top-Rated Gaming PCs Below $1K: A Buyer's Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transforma-archivos-de-tga-a-png-sin-costo-usando-movavi-online/"><u>Transforma Archivos De TGA a PNG Sin Costo Usando Movavi Online</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-pc-components-through-toms-hardware-knowledge/"><u>Unleashing the Power of PC Components Through Tom's Hardware Knowledge</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-computing-with-toms-hardware-expertise/"><u>Unlocking the Secrets of Computing with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breakthrough-beginnings-in-panzoids/"><u>[New] Breakthrough Beginnings in Panzoids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-future-proofing-your-mp4s-srt-integration-hacks/"><u>[Updated] 2024 Approved Future-Proofing Your MP4s SRT Integration Hacks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-discover-the-elite-ranked-10-tv-streaming-platforms-for-2024/"><u>[Updated] Discover the Elite Ranked 10 TV Streaming Platforms for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-essentials-of-creating-and-curating-instagram-highlights-for-2024/"><u>[Updated] The Essentials of Creating and Curating Instagram Highlights for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>2024 Approved Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-rated-traffic-cameras-for-automobiles-2023/"><u>2024 Approved Top-Rated Traffic Cameras for Automobiles 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratiskonverter-von-h265hevc-in-h2h64-codec-optimiert-fur-windows-10-and-mac-os-x/"><u>Gratiskonverter Von H.265/HEVC in H.2^[H6]4-Codec, Optimiert Für Windows 10 & Mac OS X</u></a></li>
+<li><a href="https://win-superb.techidaily.com/identifying-affected-memory-systems-ram-vs-rom-insights-by-yl-software-experts/"><u>Identifying Affected Memory Systems: RAM Vs. ROM Insights by YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-crafting-compelling-stories-unveiling-the-secrets-to-winning-facebook-bios/"><u>In 2024, Crafting Compelling Stories Unveiling the Secrets to Winning Facebook Bios</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-middle-ground-with-viewsonic-va1655-a-balanced-review-of-its-capabilities/"><u>Mastering the Middle Ground with ViewSonic VA1655: A Balanced Review of Its Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visual-excellence-the-asus-proart-pa32ucxr-review-a-leader-in-accurate-colors-and-precision-display-technology/"><u>Mastering Visual Excellence: The Asus ProArt PA32UCXR Review – A Leader in Accurate Colors and Precision Display Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-visual-impact-and-comfort-the-premium-34-curved-display-from-lg-available-for-just-499/"><u>Maximize Visual Impact and Comfort: The Premium 34 Curved Display From LG, Available for Just $499</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware-team/"><u>Navigate the Tech World: In-Depth Analysis by Tom's Hardware Team</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-components-with-tom-a-guide-to-modern-hardware/"><u>Navigating Computer Components with Tom - A Guide to Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-performance-hardware-tips-from-tom/"><u>Navigating High-Performance Hardware - Tips From Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-solutions-from-toms-technological-realm/"><u>Pioneering Hardware Solutions From Tom's Technological Realm</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-up-your-gameplay-in-depth-review-of-the-sleek-and-fast-gigabyte-aorus-fn32-ultragear-240hz-4k-display/"><u>Power Up Your Gameplay: In-Depth Review of the Sleek and Fast Gigabyte Aorus FN32 UltraGear 240Hz 4K Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-setup-with-the-aoc-agon-pro-ag45nucg-an-in-depth-look-at-the-45-ultrawide-oled-gaming-screen-sharp-performance-meets-stylish-extreme-curv68/"><u>Revolutionize Your Setup with The AOC Agon Pro AG45nUCG - An In-Depth Look at the 45 Ultrawide OLED Gaming Screen: Sharp Performance Meets Stylish Extreme Curve!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tarkov-visual-fix-swifter-amd-graphics-remedy/"><u>Tarkov Visual Fix: Swifter AMD Graphics Remedy</u></a></li>
 </ul></div>
 

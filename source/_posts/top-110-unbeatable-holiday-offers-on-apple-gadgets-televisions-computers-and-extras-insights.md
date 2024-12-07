@@ -1,7 +1,7 @@
 ---
 title: Top 110 Unbeatable Holiday Offers on Apple Gadgets, Televisions, Computers & Extras - Insights
-date: 2024-11-22T16:07:52.646Z
-updated: 2024-11-27T17:04:29.050Z
+date: 2024-11-30T18:05:08.274Z
+updated: 2024-12-07T00:29:07.081Z
 tags:
   - laptops
 categories:
@@ -27,6 +27,10 @@ This list will be updated throughout the month, so check back to find the latest
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday deals: ZDNET experts' top 20 picks
 
@@ -62,6 +66,10 @@ Maria Diaz/ZDNET
 * [Kasa Smart Plug Ultra Mini (2 pack)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKasa-Smart-Required-Certified-EP10P2%2Fdp%2FB091FXQQMQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $12 (save $8 at Amazon)
 * [Windows 11 Pro](https://www.stacksocial.com/sales/microsoft-windows-11-pro?utm%5Fsource%3Dzdnet.com%26utm%5Fmedium%3Dreferral%26utm%5Fcampaign%3Dmicrosoft-windows-11-pro%26utm%5Fterm%3Dscsf-572750%26utm%5Fcontent%3Da0x1P000004Im9wQAC%26scsonar%3D1%26aid%3Da-ceempx7z&sa=D&source=docs&ust=1686856045303167&usg=AOvVaw3GdVuYpgozg%5FgfSi8QlrTM): $25 (save $175 at Stack Social)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday deals under $50
 
 Artie Beaty/ZDNET
@@ -71,6 +79,10 @@ Artie Beaty/ZDNET
 * [Anker Nano Power Bank (30W)](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=43469&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&murl=https%3A%2F%2Fwww.anker.com%2Fproducts%2Fa1259-built-in-cable-power-bank-10000mah): $40 (save $10 with on-site coupon)
 * [Sonic Origins Plus, PlayStation 5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSonic-Origins-Plus-PlayStation-5%2Fdp%2FB0BZFCRLDW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $28 (save $12 at Amazon)
 * [Fossil Men's Ingram Leather RFID-Blocking Bifold Wallet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FFossil-Mens-Bifold-Wallet-Black%2Fdp%2FB018ZMVPQC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $30 (save $30 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best holiday deals under $100
 
@@ -85,7 +97,7 @@ June Wan/ZDNET
 * [Canon Ivy 2 Mini Photo Printer](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BGM5XPQZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $69 (save $30 at Amazon)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best holiday deals under $200
@@ -115,10 +127,6 @@ Jason Cipriani/ZDNET
 * [Nest Learning Thermostat](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-White%2F120823467&subId1=zd-__COM_CLICK_ID__-dtp): $215 (save $34 at Walmart)
 * [Google Next x Yale Smart Lock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FNest-Yale-Satin-Nickel-Connect%2Fdp%2FB07BH6K3NT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $261 (save $39 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday Apple deals
 
 Jason Hiner/ZDNET
@@ -146,10 +154,6 @@ Beth Mauder/ZDNET
 * [iRobot Roomba 694 robot vacuum](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FiRobot-Vacuum-Wi-Fi-Connectivity-Carpets-Self-Charging%2Fdp%2FB08SP5GYJP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $159 (save $116 at Amazon)
 * [Shark AI Ultra Self-Empty Robot Vacuum](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FShark-AI-Ultra-Self-Empty-Robot-Vacuum-Bagless-60-Day-Capacity-Base-Precision-Home-Mapping-Perfect-for-Pet-Hair-Wi-Fi-AV2511AE%2F1883965277&subId1=zd-__COM_CLICK_ID__-dtp): $298 (save $301 at Walmart)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday TV deals
 
 June Wan/ZDNET
@@ -164,10 +168,6 @@ June Wan/ZDNET
 * [Samsung The Frame 55-inch](https://goto.walmart.com/c/5597632/565706/9383?sharedId=zdnet&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FSAMSUNG-55-Class-LS03B-The-Frame-QLED-4K-Smart-TV-QN55LS03BAFXZA-New%2F944779027&subId1=zd-__COM_CLICK_ID__-dtp): $1,059 (save $441 at Walmart)
 * [TCL 55-inch Q6 QLED Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FTCL-55-Inch-55Q650F-Streaming-Television%2Fdp%2FB0C1J581SJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $350 (save $150 at Amazon)
 * [Amazon Fire TV Omni QLED 55-inch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fintroducing-amazon-fire-tv-55-inch-omni-qled-series-smart-tv%2Fdp%2FB09N6ZRH6C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $450 (save $150 at Amazon)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best holiday smartwatch deals
 
@@ -191,10 +191,6 @@ Jada Jones/ZDNET
 * [Sennheiser HD 650 stereo reference headphones](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F310010-REG%2FSennheiser%5FHD%5F650%5FHD650%5FReference%5FClass.html): $400 (save $100 at B&H Photo)
 * [Samsung Galaxy Buds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant%2Fdp%2FB0CF7GYNW2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $70 (save $30 at Amazon)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday phone deals
 
 Jason Hiner/ZDNET
@@ -207,6 +203,10 @@ Jason Hiner/ZDNET
 * [Samsung Galaxy A54 128GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Factory-Unlocked-Android-Smartphone%2Fdp%2FB0BSLR2L5R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $399 (save $50 at Amazon)
 * [Samsung Galaxy S23 FE 256GB](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Unlocked-Smartphone-Processor-Graphite%2Fdp%2FB0CD8NF62Z%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $560 (save $100 at Amazon)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best holiday laptop deals
 
 Jason Hiner/ZDNET
@@ -218,10 +218,6 @@ Jason Hiner/ZDNET
 * [Lenovo Legion Pro 7i](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1745684-REG%2Flenovo%5F82wq002tus%5F16%5Flegion%5Fpro%5F7.html): $2,599 (save $700 at B&H Photo)
 * [Lenovo LOQ Tower Intel Edition](https://go.shopyourlikes.com/pi/bc82422a965d3574bb1afda3dd1ab5b7fb336893?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2): $650 (save $380 at Lenovo)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best holiday tablet deals
 
 Maria Diaz/ZDNET
@@ -232,6 +228,10 @@ Maria Diaz/ZDNET
 * [Samsung Galaxy Tab S6 Lite](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-s6-lite-2022-10-4-64gb-wi-fi-oxford-gray%2F6506325.p%3FskuId%3D6506325&publisher_slug=itechdaily19598&exclusive=1): $200 (save $150 at Best Buy)
 * [Samsung Galaxy Tab A8](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-galaxy-tab-a8-10-5-64gb-wi-fi-gray%2F6492905.p%3FskuId%3D6492905&publisher_slug=itechdaily19598&exclusive=1): $200 (save $80 at Best Buy)
 * [Samsung Galaxy Tab S6 Lite](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Android-Lasting-Included-Speakers%2Fdp%2FB09WYWJ46K%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0b40d41b-af73-4878-82a2-e55733f99093%7Cdtp&dtb=1): $200 (save $150 at Amazon)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
 
@@ -307,15 +307,18 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/2024-approved-effortless-audio-collection-from-your-imac/"><u>2024 Approved Effortless Audio Collection From Your iMac</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-survive-and-thrive-on-the-streak-frontier/"><u>In 2024, How to Survive and Thrive on the Streak Frontier</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/kostenloze-convertingen-van-m2p-bestandjes-online-de-ultieme-sleutel-met-movavi/"><u>Kostenloze Convertingen Van M2P Bestandjes Online - De Ultieme Sleutel Met Movavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-middle-ground-with-viewsonic-va1655-a-balanced-review-of-its-capabilities/"><u>Mastering the Middle Ground with ViewSonic VA1655: A Balanced Review of Its Capabilities</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-visual-excellence-the-asus-proart-pa32ucxr-review-a-leader-in-accurate-colors-and-precision-display-technology/"><u>Mastering Visual Excellence: The Asus ProArt PA32UCXR Review – A Leader in Accurate Colors and Precision Display Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-visual-impact-and-comfort-the-premium-34-curved-display-from-lg-available-for-just-499/"><u>Maximize Visual Impact and Comfort: The Premium 34 Curved Display From LG, Available for Just $499</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware-team/"><u>Navigate the Tech World: In-Depth Analysis by Tom's Hardware Team</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-ken-burns-effect-in-final-cut-pro-a-beginners-guide-to-professional-results-for-2024/"><u>New Ken Burns Effect in Final Cut Pro A Beginners Guide to Professional Results for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/offline-driver-setup-a-guide-to-installing-windows-drivers-without-internet-access/"><u>Offline Driver Setup: A Guide to Installing Windows Drivers Without Internet Access</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-instructions-for-program-removal-in-windows-11/"><u>Step-by-Step Instructions for Program Removal in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-6-online-webcam-recorders/"><u>[New] 2024 Approved Top 6 Online Webcam Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lightning-fast-video-delivery-on-facebook-select-extensions-and-apps/"><u>[New] Lightning-Fast Video Delivery on Facebook Select Extensions & Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-top-30-freefire-hashtags-for-amplifying-video-growth/"><u>[Updated] 2024 Approved Discover the Top 30 FreeFire Hashtags for Amplifying Video Growth</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-to-stunning-timelapses-a-comprehensive-guide-using-gopro/"><u>[Updated] Step-By-Step to Stunning Timelapses A Comprehensive Guide Using GoPro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benzalkonium-chloride-commonly-found-in-hand-sanitizers-its-a-quaternary-ammonium-compound-effective-against-bacteria-and-some-viruses-however-its-effective34/"><u>Benzalkonium Chloride - Commonly Found in Hand Sanitizers, It's a Quaternary Ammonium Compound Effective Against Bacteria and some Viruses. However, Its Effectiveness Can Be Reduced by Organic Matter Like Blood or Dirt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boosting-mac-gaming-with-the-entire-apple-network-a-new-strategy-unveiled/"><u>Boosting Mac Gaming with the Entire Apple Network – A New Strategy Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-risc-v-computer-revolution-engineers-new-choice-from-china-at-just-300/"><u>Budget-Friendly RISC-V Computer Revolution: Engineers' New Choice From China at Just $300</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-pitfalls-crafting-perfect-text-with-chatgpt/"><u>Essential Pitfalls: Crafting Perfect Text with ChatGPT</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-crafting-dynamic-image-ensembles-with-precision/"><u>In 2024, Crafting Dynamic Image Ensembles with Precision</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-time-lapse-a-guide-with-gopro-studio/"><u>In 2024, Mastering Time-Lapse A Guide with GoPro Studio</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-c12-plus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Nokia C12 Plus Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/windows-laptop-revolution-looms-with-mediatek-preparing-arm-processors-as-qualcomms-exclusive-access-ends/"><u>Windows Laptop Revolution Looms with MediaTek Preparing ARM Processors as Qualcomm's Exclusive Access Ends</u></a></li>
 </ul></div>
 

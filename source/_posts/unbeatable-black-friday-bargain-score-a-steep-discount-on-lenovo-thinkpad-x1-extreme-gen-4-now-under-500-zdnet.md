@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2024-11-21T16:27:11.056Z
-updated: 2024-11-27T16:06:43.647Z
+date: 2024-11-29T21:46:40.079Z
+updated: 2024-12-06T23:06:29.661Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,19 +67,20 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-editor-insider-look-editmaster-pro-whats-new-in-2esy/"><u>[New] Editor Insider Look EditMaster Pro - What's New in 2Esy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-high-quality-youtube-recording-techniques/"><u>[Updated] 2024 Approved High-Quality YouTube Recording Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44cm44ow44op44km44k26zplusz5aow44gu5ysq44km44gf44kv44kq44oq44og44kj44o844ks56k65lplusd44gx44cb54sh5paz44k944ov44oi44go44k144kk44oi44gn5yq55p6c55qe44gr6kiy6y31/"><u>「ブラウザ音声の優れたクオリティーを確保し、無料ソフトとサイトで効果的に記録するコツと推奨」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-aligning-brands-with-youtube-content/"><u>2024 Approved The Art of Aligning Brands with YouTube Content</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-flexicapture90/"><u>ABBYY FlexiCapture®によりインボイス処理時間が90%短縮!企業デジタル変革のコア技術</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-experts/"><u>Exploring Computer Components with Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-hardware-review-guide/"><u>Exploring Digital Innovations with Tom's Hardware Review Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hands-on-with-technology-toms-detailed-insights-on-electronics/"><u>Hands-On with Technology: Tom's Detailed Insights on Electronics</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-x50i-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor X50i</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides-t17239718716218/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-hardware-reviews-and-news/"><u>Tom's Tech Insights: In-Depth Hardware Reviews & News</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights-t17239718716229/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-usb-sticks-ultimate-buyers-guide-2024/"><u>Top Rated USB Sticks - Ultimate Buyers Guide 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>[New] Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-strategies-to-attain-facebooks-prestige-blue-icon-for-2024/"><u>[New] Strategies to Attain Facebook’s Prestige Blue Icon for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-tonal-transformation-for-android-users/"><u>[Updated] 2024 Approved The Ultimate Tonal Transformation for Android Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 12</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-10-free-online-neon-text-creators-no-design-skills-needed/"><u>In 2024, The Ultimate List 10 Free Online Neon Text Creators (No Design Skills Needed)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-the-issue-with-roblox-really-you-or-is-it-actually-down/"><u>Is the Issue With Roblox Really You, or Is It Actually Down?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-hardware-journey/"><u>Mastering Gadgets with Tom - A Hardware Journey</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-hub/"><u>Mastering Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/nas-systeme-effizient-sichern-professionelle-tipps-und-bewahrte-verfahren-fur-die-datenwiederherstellung/"><u>NAS-Systeme Effizient Sichern: Professionelle Tipps Und Bewährte Verfahren Für Die Datenwiederherstellung</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-raspberry-pis-enhanced-speed-and-capacity-insights-from-our-in-depth-analysis-of-the-m2-hatplus/"><u>Navigating Through Raspberry Pi's Enhanced Speed and Capacity: Insights From Our In-Depth Analysis of the M.2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-amd-ryzen-5-9600x-and-ryzen-7-9700xs-superior-gaming-capabilities-in-zen-5-era/"><u>The Game Changer: AMD Ryzen 5 9600X & Ryzen 7 9700X's Superior Gaming Capabilities in Zen 5 Era</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-electronics-with-toms-hardware-guidance/"><u>Unveiling the Best Electronics with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-logitech-g-pro-x-2-lightspeed-the-ultimate-review-for-gamers-perfection/"><u>Unveiling the Power of the Logitech G Pro X 2 Lightspeed: The Ultimate Review for Gamers' Perfection</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96320821-9781580059145-wicca/"><u>Wicca | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2024-11-24T16:05:53.796Z
-updated: 2024-11-27T17:34:44.050Z
+date: 2024-12-01T22:21:54.451Z
+updated: 2024-12-06T21:46:45.508Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,22 +134,19 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-avoid-buffering-switch-av1-codec-on-youtube/"><u>[Updated] 2024 Approved Avoid Buffering Switch AV1 Codec on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-five-mac-friendly-strategies-for-documenting-minecraft-games-for-2024/"><u>[Updated] Five Mac-Friendly Strategies for Documenting Minecraft Games for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-innovating-your-ultimate-tiktok-seal-for-2024/"><u>[Updated] Innovating Your Ultimate TikTok Seal for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-optimal-gameplay-tools-on-the-big-screen/"><u>2024 Approved Optimal Gameplay Tools on the Big Screen</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210842871-9780761158271-do-more-great-work/"><u>Do More Great Work | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhance-your-films-with-these-vfx-sites/"><u>Enhance Your Films with These VFx Sites</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-amd-fabric-tuning-now-compatible-with-active-and-passive-x570-boards-post-update/"><u>Enhanced AMD Fabric Tuning: Now Compatible with Active and Passive X570 Boards Post-Update</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/essential-guide-to-ram-overclocking-on-asus-rog-strix-x399-evo-how-fast-should-you-go/"><u>Essential Guide to RAM Overclocking on ASUS ROG Strix X399-EVO: How Fast Should You Go?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-guide-tackling-the-launch-failure-of-evil-genius-2-a-step-by-step-solution/"><u>Expert Guide: Tackling the Launch Failure of Evil Genius 2 - A Step-by-Step Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-gadgets-with-toms-hardware-insights/"><u>Exploring Cutting-Edge Gadgets with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964462380-introducing-galaxs-new-high-performance-motherboards-with-ddr5-powerful-vrm-and-pmic-features/"><u>Introducing Galax's New High-Performance Motherboards with DDR5, Powerful VRM & PMIC Features!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-your-skylake-processors-potential-with-the-perfect-overclocking-compatible-motherboard/"><u>Maximize Your Skylake Processor's Potential with the Perfect Overclocking-Compatible Motherboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-circuitry-expert-insights-from-toms-electronics-hub/"><u>Navigating the Circuitry: Expert Insights From Tom's Electronics Hub</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-echoes-of-the-earth-unveiling-the-10-best-ios-and-android-auditory-journeys-in-nature/"><u>New 2024 Approved Echoes of the Earth Unveiling the 10 Best iOS & Android Auditory Journeys in Nature</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-gadget-insights-and-performance-analysis/"><u>Tom's Tech Reviews: Expert Gadget Insights and Performance Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-intels-core-i9-11900k-achieving-7ghz-overclock-with-advanced-ln2-techniques/"><u>Unleashing the Power of Intel's Core I9-11900K: Achieving 7GHz Overclock with Advanced LN2 Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/will-chatgpt-disrupt-the-way-we-use-and-rely-on-conventional-search-engines/"><u>Will ChatGPT Disrupt the Way We Use and Rely on Conventional Search Engines?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-art-of-managing-discord-spoilers/"><u>[New] In 2024, The Art of Managing Discord Spoilers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-for-posting-pics-on-ig/"><u>2024 Approved The Ultimate Tutorial for Posting Pics on IG</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/collaborations-with-urban-gardening-influencers/"><u>Collaborations with Urban Gardening Influencers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-failed-sign-in-wait-duration-in-windows/"><u>Customizing Failed Sign In Wait Duration in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-an-intuitive-approach-to-easily-observing-loved-youtube-feedback/"><u>In 2024, An Intuitive Approach to Easily Observing Loved YouTube Feedback</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-smart-7-hd-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Smart 7 HD Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nuphy-halo75-v2-review-top-performance-at-a-wallet-friendly-price-for-gamers/"><u>Nuphy Halo75 V2 Review: Top Performance at a Wallet-Friendly Price for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-according-to-tom/"><u>The Ultimate Guide to High-Performance Hardware According to Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-detailed-reviews-and-gadget-analysis/"><u>Tom's Tech Hub: Detailed Reviews and Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-guides/"><u>Tom's Tech Reviews: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-frustrating-twitch-error-4000/"><u>Understanding and Fixing the Frustrating Twitch Error 4000</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-quick-fixes-for-photoshop-not-launching/"><u>Win11: Quick Fixes for Photoshop Not Launching</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/z7-review-nearly-perfect-practically-exceptional-photography/"><u>Z7 Review: Nearly Perfect, Practically Exceptional Photography</u></a></li>
 </ul></div>
 

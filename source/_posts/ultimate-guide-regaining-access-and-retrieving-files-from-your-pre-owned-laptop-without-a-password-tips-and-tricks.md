@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Regaining Access and Retrieving Files From Your Pre-Owned Laptop Without a Password - Tips & Tricks"
-date: 2024-11-21T18:35:43.814Z
-updated: 2024-11-27T19:13:09.259Z
+date: 2024-12-03T20:34:12.131Z
+updated: 2024-12-06T16:25:53.884Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,21 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-x-sync-studio-platform-personal-computing-for-2024/"><u>[New] X-Sync Studio Platform, Personal Computing for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-veiled-glance-at-digital-diary-fb/"><u>[Updated] Veiled Glance at Digital Diary (FB)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-beginners-guide-to-sony-vegas-and-youtube-cutting/"><u>2024 Approved A Beginner's Guide to Sony Vegas and YouTube Cutting</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964489740-cable-matters-unveils-revolutionary-23-thunderbolt-5-with-120gbps-and-240w-power-shop-the-worlds-first-superfast-charger-now/"><u>Cable Matters Unveils Revolutionary $23 Thunderbolt 5 with 120Gbps & 240W Power: Shop the World's First Superfast Charger Now!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/dji-drones-entry-plus-and-4k-visionaries/"><u>DJI Drones Entry, Plus, and 4K Visionaries</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gameplay-revolutionary-robotic-additional-limb-by-researchers/"><u>Elevate Your Gameplay: Revolutionary Robotic Additional Limb by Researchers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-insights-a-deep-dive-into-technology-trends/"><u>Exploring Gadgets with Tom's Hardware Insights: A Deep Dive Into Technology Trends</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y100amirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y100AMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-12-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme 12 5G Without PUK Codes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps/"><u>In 2024, Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronic-devices-by-tom-a-trustworthy-guide/"><u>In-Depth Analysis of Electronic Devices by Tom - A Trustworthy Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/miniaturized-x-ray-chip-technology-seeing-beyond-obstacles-with-cell-phone-integration-expert-insights/"><u>Miniaturized X-Ray Chip Technology: Seeing Beyond Obstacles with Cell Phone Integration - Expert Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-experts/"><u>Navigating the World of Technology with Tom's Hardware Experts</u></a></li>
-<li><a href="https://facebook.techidaily.com/silent-voice-of-facebook-erupts-on-60-minutes/"><u>Silent Voice of Facebook Erupts on 60 Minutes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/special-memorial-day-deal-alert-high-quality-full-size-roccat-pyro-mechanical-keyboard-just-34-awaits-you/"><u>Special Memorial Day Deal Alert: High-Quality, Full-Size Roccat Pyro Mechanical Keyboard - Just $34 Awaits You!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-vfx-magic-top-4-youtube-tutorials-for-no-cost-green-screen-techniques-for-2024/"><u>Unlock VFX Magic Top 4 YouTube Tutorials for No-Cost Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/igital-whirlwind-top-30-hashes-for-video-stardom/"><u>[New] Digital Whirlwind Top 30 Hashes for Video Stardom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-eliminate-blackout-issues-with-game-capture-apps-for-2024/"><u>[New] Eliminate Blackout Issues with Game Capture Apps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-critique-of-vivas-video-capabilities/"><u>A Critique of Viva's Video Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/direct-slideshow-content-into-video-realm/"><u>Direct Slideshow Content Into Video Realm</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-features-of-anycubic-kobra-3-a-breakthrough-in-multicolor-additive-manufacturing/"><u>Exploring the Features of Anycubic Kobra 3: A Breakthrough in Multicolor Additive Manufacturing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-discovering-the-power-of-youtubes-comment-system/"><u>In 2024, Discovering the Power of YouTube's Comment System</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-a18-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo A18 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-electronics-guide/"><u>In-Depth Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-in-depth-analysis-and-gear-reviews/"><u>Inside Tom's Hardware: In-Depth Analysis and Gear Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-gear-choices-with-expert-advice-from-toms-equipment-hub/"><u>Master Your Gear Choices with Expert Advice From Tom's Equipment Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-hardware-insights/"><u>Tom's Tech Review: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-choice-video-capture-apps-iphone-for-2024/"><u>Top Choice Video Capture Apps iPhone for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-gadgets-with-expert-guidance-from-toms-hardware/"><u>Unlock the Secrets of Gadgets with Expert Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-closer-look-at-components-with-toms-hardware/"><u>Unveiling Tech Secrets: A Closer Look at Components with Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-speed-reviewing-kingstons-high-performance-fury-beast-ddr5-at-6000mhz-with-latency-c40/"><u>Unveiling the Power of Speed: Reviewing Kingston's High-Performance Fury Beast - DDR5 at 6,000MHz with Latency C40</u></a></li>
 </ul></div>
 

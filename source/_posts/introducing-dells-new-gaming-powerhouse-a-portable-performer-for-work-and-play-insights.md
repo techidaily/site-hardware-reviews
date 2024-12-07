@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2024-11-20T17:02:53.249Z
-updated: 2024-11-27T18:34:05.396Z
+date: 2024-12-01T02:35:31.741Z
+updated: 2024-12-06T22:13:44.611Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,19 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-essential-tech-mac-screenshoting-basics/"><u>[Updated] 2024 Approved Essential Tech Mac Screenshoting Basics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-best-free-video-cutting-apps-your-go-to-list/"><u>[Updated] Best Free Video Cutting Apps Your Go-To List</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-video-wisdom-strategies-that-score-big/"><u>[Updated] In 2024, Instagram Video Wisdom Strategies That Score Big</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-tips-for-three-engaging-video-descriptions-on-ig/"><u>[Updated] In 2024, Tips for Three Engaging Video Descriptions on IG</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-share-smiles-and-photos-iphones/"><u>2024 Approved Share Smiles & Photos (iPhones)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-samsung-galaxy-f15-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Samsung Galaxy F15 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-s17-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo S17 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-your-guide-to-top-hardware-picks/"><u>Mastering Gadgets with Tom - Your Guide to Top Hardware Picks</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-in-depth-analysis-from-toms-hardware-experts/"><u>Mastering Tech: In-Depth Analysis From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-tech-world-in-depth-reviews-and-news-from-toms-electronics-hub/"><u>Mastering Your Tech World - In-Depth Reviews and News From Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/microsofts-flagship-tablet-reviewed-the-surface-pro-amazes-in-style-but-its-ai-offerings-leave-room-for-improvement/"><u>Microsoft's Flagship Tablet Reviewed: The Surface Pro Amazes in Style, but Its AI Offerings Leave Room for Improvement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-performance-pcs-toms-hardware-analysis/"><u>Navigate Through High-Performance PCs: Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-the-ultimate-guide-by-tom/"><u>Navigating Gadgets: The Ultimate Guide by Tom</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-c67-4g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme C67 4G Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-live-twitch-streams-top-5-tips/"><u>[Updated] In 2024, Mastering Live Twitch Streams Top 5 Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-transform-your-win11-sessions-with-advanced-zoom-skills/"><u>[Updated] In 2024, Transform Your Win11 Sessions with Advanced Zoom Skills</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-list-10-prime-video-cameras-for-pcs/"><u>[Updated] In 2024, Ultimate List 10 Prime Video Cameras for PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-essential-win11-tools/"><u>2024 Approved Unleashing Potential Essential Win11 Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-digital-sidekick-snapchats-my-ai-vs-chatgpt/"><u>Choosing Your Digital Sidekick: Snapchat's My AI Vs. ChatGPT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/craft-compelling-fb-video-ads-free-toolkit-included/"><u>Craft Compelling FB Video Ads - Free Toolkit Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-unresponsive-mousepads-on-laptops-with-windows-1187-os-a-comprehensive-guide/"><u>Effective Fixes for Unresponsive Mousepads on Laptops with Windows 11/8/7 OS - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insight-evaluating-the-cutting-edge-technology-of-google-nest-hello-with-face-detection-and-smart-alert-systems/"><u>Expert Insight: Evaluating the Cutting-Edge Technology of Google Nest Hello with Face Detection & Smart Alert Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-hardware-reviews-and-tips/"><u>Exploring the World of Computing with Tom - Hardware Reviews and Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-ready-for-a-hotter-more-efficient-era-with-pcie-60s-thermal-advancements/"><u>Get Ready for a Hotter, More Efficient Era with PCIe 6.0'S Thermal Advancements</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/harnessing-advanced-port-options-with-the-asrock-z890-taichi-ten-usb-c-and-two-thunderbolt-explained/"><u>Harnessing Advanced Port Options with the ASRock Z890 Taichi: Ten USB C and Two Thunderbolt Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-technology-insights-at-your-fingertps-visit-toms-hardware/"><u>Innovative Technology Insights at Your Fingertps: Visit Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-top-notch-tech-toms-hardware-innovation-spotlight/"><u>Inside Look at Top-Notch Tech: Tom's Hardware Innovation Spotlight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology: Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-next-purchase-insights-from-toms-hardware-experts/"><u>Mastering Your Next Purchase - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mobile-mastery-high-shots-with-your-smartphone/"><u>Mobile Mastery High Shots with Your Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-technologies-through-toms-hardware-wisdom/"><u>Navigating New Technologies Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-customizing-client-workouts-for-enhanced-results/"><u>The Role of ChatGPT in Customizing Client Workouts for Enhanced Results</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cloud Gaming on Lenovo IdeaPad Gaming Chromebook: How Hardware Limitations Affect Performance"
-date: 2024-11-23T18:02:26.086Z
-updated: 2024-11-27T16:43:22.509Z
+date: 2024-12-03T00:21:09.849Z
+updated: 2024-12-06T23:14:04.292Z
 tags:
   - laptops
 categories:
@@ -41,7 +41,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -58,7 +58,7 @@ Honestly, the differences in that comparison will be mostly razor thin. My testi
 | Dimensions and weight | 19.95mm (H) x 356.5mm (W) x 253mm (D) (0.79 x 14.03 x 9.96 inches) \| 4.01lbs                                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -94,7 +94,7 @@ Unusually, for a Lenovo device, I didn't love the keyboard. The individual keys 
 Of course, you'll eventually get used to this layout, but I'm not certain it was necessary to begin with. Very few gamers make use of a full numpad for anything short of custom real-time strategy layouts or unusual MMORPG control schemes. Even then, they'd likely be better served by something like the [SteelSeries Aerox 9 Wireless](https://www.zdnet.com/home-and-office/home-entertainment/steelseries-aerox-9-wireless-review/), or another MMO/MOBA mouse that does the same job as a numpad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -120,7 +120,7 @@ As a last note, I should mention that the battery life of the IdeaPad Gaming Chr
 [Lenovo IdeaPad Gaming Chromebook $600 at Lenovo](https://lenovo.vzew.net/c/5597632/218864/3808?sharedId=zdnet&u=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fideapad%2Fideapad-gaming-laptops%2Fideapad-5i-gaming-chromebook-gen-7-%2816-inch-intel%29%2F82v8000hux&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -136,7 +136,7 @@ This Chromebook and others like it are already more than capable enough to handl
 Thankfully, progress is constantly being made. In the short few weeks between the Acer review and this one, Xbox Cloud Gaming has seen noticeable performance enhancements. But then again, it also continues to stop me dead when trying to play some games. I believe cloud gaming really will fulfill its potential...eventually. If you want an excellent way of joining in what will surely be a wild ride on the way there, Lenovo's take on a gaming Chromebook is one of the best options available. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -187,21 +187,17 @@ Would you rather dabble in cloud gaming, but maintain the ability to locally ins
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-master-level-insights-into-crafting-unique-and-memorable-instagram-vids-for-2024/"><u>[Updated] Master Level Insights Into Crafting Unique and Memorable Instagram Vids for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-color-correctors-handbook/"><u>2024 Approved The Ultimate Color Corrector's Handbook</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadgets-and-systems-reviewed-on-toms-tech-channel/"><u>Advanced Gadgets and Systems Reviewed on Tom's Tech Channel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apple-accelerates-mac-gaming-strategy-with-comprehensive-ecosystem-integration/"><u>Apple Accelerates Mac Gaming Strategy with Comprehensive Ecosystem Integration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/apples-legendary-1994-powerbook-520c-redesigned-now-boasting-modern-technology-with-apple-ipad-displays-and-the-soul-of-a-core-i5-macbook-pro/"><u>Apple's Legendary 1994 PowerBook 520C Redesigned - Now Boasting Modern Technology With Apple iPad Displays & the Soul of a Core I5 MacBook Pro!</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/aufbrauchen-der-gesamten-ssd-kapazitat-losungsansatze-fur-windows-11-nutzer/"><u>Aufbrauchen Der Gesamten SSD Kapazität: Lösungsansätze Für Windows 11 Nutzer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benchmark-breakdown-intel-core-i7-258v-vs-ryzen-phoenix-processors-bapco-performance-rankings-unveiled/"><u>Benchmark Breakdown: Intel Core I7-258V vs Ryzen Phoenix Processors – BAPCO Performance Rankings Unveiled</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-sony-xperia-10-v-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Sony Xperia 10 V FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862730029-exclusive-deal-get-the-hp-omen-transcend-14-laptop-with-rtx-gpu-and-oled-display-at-300-off/"><u>Exclusive Deal: Get the HP Omen Transcend 14 Laptop with RTX GPU & OLED Display at $300 Off!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862728742-get-the-best-bargain-asus-tuf-gaming-laptop-with-amd-ryzen-for-a-shocking-memorial-day-sale-only-658/"><u>Get the Best Bargain - Asus TUF (Gaming) Laptop with AMD Ryzen for a Shocking Memorial Day Sale: Only $658</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-8-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 8 With or Without Password</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/key-factors-to-evaluate-a-guide-to-choosing-the-right-tablet/"><u>Key Factors to Evaluate: A Guide to Choosing the Right Tablet</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862715673-preview-the-acemagic-x1-before-it-hits-shelves-limited-time-offer-for-tech-enthusiasts/"><u>Preview the AceMagic X1 Before It Hits Shelves - Limited Time Offer for Tech Enthusiasts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/reignite-drive-the-ultimate-inspiration-list-for-2024/"><u>Reignite Drive The Ultimate Inspiration List for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleashing-potential-how-boosted-edge-computing-is-shaping-future-careers-insights-from-zdnet/"><u>Unleashing Potential: How Boosted Edge Computing Is Shaping Future Careers - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-transforming-unboxing-magic-7-ways-for-2024/"><u>[New] Transforming Unboxing Magic 7 Ways for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-efficient-methods-for-recording-minecraft-sessions/"><u>2024 Approved Efficient Methods for Recording Minecraft Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-old-to-new-crafting-a-video-journey-from-classic-photos/"><u>2024 Approved Old to New Crafting a Video Journey From Classic Photos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-of-the-high-quality-12mp-docooler-usb-20-camera-surprisingly-exceptional/"><u>Expert Evaluation of the High-Quality 12MP Docooler USB 2.0 Camera: Surprisingly Exceptional</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-c55-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme C55 is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgetry-inside-tips-from-toms-hardware-experts/"><u>Mastering Gadgetry: Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-high-fps-discover-tcls-innovative-1000hz-refresh-rate-in-their-new-4k-gaming-display/"><u>Mastering High FPS: Discover TCL’s Innovative 1,000Hz Refresh Rate in Their New 4K Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-a-guide-to-hardware-by-toms-tech-wisdom/"><u>Mastering Modern Devices: A Guide to Hardware by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-components-essential-reviews-by-tomebased-hardware-guru/"><u>Mastering Tech Components: Essential Reviews by Tom'ebased Hardware Guru</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-the-ultimate-guide-to-understanding-hardware-toms-edition/"><u>Mastering Tech: The Ultimate Guide to Understanding Hardware - Tom's Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-80s-effects-compendium-for-professional-editors-for-2024/"><u>Top 80S Effects Compendium for Professional Editors for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Apple Bargains in July 2024: IPhones, Apple Watches & iPads at Steep Discounts - Detailed Roundup by ZDNet"
-date: 2024-11-20T16:27:48.883Z
-updated: 2024-11-27T17:47:34.196Z
+date: 2024-12-04T23:03:16.784Z
+updated: 2024-12-06T22:09:21.655Z
 tags:
   - laptops
 categories:
@@ -125,6 +125,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -157,10 +161,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc59f26ff-942b-4436-9faf-236bb5a523b5%7Cdtp&dtb=1)
@@ -175,6 +175,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
@@ -184,7 +188,7 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -194,7 +198,7 @@ This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
@@ -211,7 +215,7 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -234,10 +238,6 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,22 +283,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/uide-to-structuring-youtube-content-with-separate-chapters-for-2024/"><u>[New] Guide to Structuring YouTube Content with Separate Chapters for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-flawlessrecorder-suite-w10-edition-for-2024/"><u>[Updated] FlawlessRecorder Suite W10 Edition for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-optimize-instagram-posts-with-smart-hashtag-selection-tactics/"><u>[Updated] Optimize Instagram Posts with Smart Hashtag Selection Tactics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-quality-xiaomi-g34wqi-34-inch-180hz-monitor-review-vibrant-color-and-impressive-contrast-ratio-analysis/"><u>Affordable Quality: Xiaomi G34WQi 34-Inch 180Hz Monitor Review - Vibrant Color and Impressive Contrast Ratio Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/alienware-aw2725df-360hz-the-ultimate-battlefield-companion-unleashed-on-an-eye-popping-oled-screen/"><u>Alienware AW2725DF 360Hz: The Ultimate Battlefield Companion Unleashed on an Eye-Popping OLED Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862822842-amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bend-the-competition-with-our-2024-ranking-of-superior-curved-gaming-monitors/"><u>Bend the Competition with Our 2024 Ranking of Superior Curved Gaming Monitors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862826163-dells-high-resolution-qhd-ips-gaming-monitor-only-1ebaseandamppaged0-at-this-price/"><u>Dell's High-Resolution QHD IPS Gaming Monitor: Only $1Ebase=&amp;paged=0 at This Price!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862829005-experience-crystal-clear-visuals-with-the-27-qhd-ips-samsung-odyssey-g50a-now-priced-at-a-bargain-255-on-amazon/"><u>Experience Crystal Clear Visuals with the 27 QHD IPS Samsung Odyssey G50A - Now Priced at a Bargain $255 on Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862836417-grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-mini-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 mini to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nokia-g42-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nokia G42 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783129-9781620555422-la-mente-inmortal/"><u>La mente inmortal | Free Book</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-g580-simplified-driver-upgrade/"><u>Lenovo G580: Simplified Driver Upgrade</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-recording-gameplay-in-pubg-mobile-across-ios-and-android-devices/"><u>Step-by-Step Guide: Recording Gameplay in PUBG Mobile Across iOS & Android Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78t Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-most-enlightening-general-knowledge-trivia-channels-in-24/"><u>[New] Unveiling the Most Enlightening General Knowledge Trivia Channels in '24</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-vanguard-video-workshop-titlewright/"><u>[Updated] Vanguard Video Workshop Titlewright</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862817375-experience-unparalleled-gaming-with-dell-s3222dgm-now-at-an-amazing-price-only-229/"><u>Experience Unparalleled Gaming with Dell S3222DGM: Now at an Amazing Price - Only $229!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-video-chat-quality-updating-windows-10-webcam-drivers-made-easy/"><u>Improve Video Chat Quality: Updating Windows 10 Webcam Drivers Made Easy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862799252-landing-a-bargain-enjoy-yourself-with-a-giant-high-definition-samsung-49-oled-screen-for-less-than-youd-think/"><u>Landing a Bargain: Enjoy Yourself with a Giant, High-Definition Samsung 49 OLED Screen for Less Than You'd Think</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sleek-superior-substantial-reviewing-the-asus-mg28uq-4k-display/"><u>Sleek, Superior, Substantial – Reviewing the ASUS MG28UQ 4K Display</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tech-enthusiasts-manual-mastering-macoss-capture-tool-for-2024/"><u>Tech Enthusiasts' Manual Mastering macOS's Capture Tool for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-advanced-tech-the-expertise-of-toms-hardware/"><u>Your Guide to Advanced Tech: The Expertise of Tom's Hardware</u></a></li>
 </ul></div>
 

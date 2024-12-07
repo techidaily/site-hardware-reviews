@@ -1,7 +1,7 @@
 ---
 title: Durable Design Proves Its Worth as Laptop Survives Waist-High Drops, Tested by Tech Reviews at ZDNet
-date: 2024-09-18 20:44:35
-updated: 2024-09-20 11:41:47
+date: 2024-12-01T01:56:14.647Z
+updated: 2024-12-06T22:00:22.501Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://www.zdnet.com/topic/pcs/    https://www.zdnet.com/a/img/resiz
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,31 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-crystal-clear-tvs-a-thorough-comparison-of-8k-pioneers/"><u>[New] 2024 Approved Crystal Clear TVs A Thorough Comparison of 8K Pioneers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-basic-shapes-to-complex-realistic-3d-text-in-photos/"><u>[New] From Basic Shapes to Complex, Realistic 3D Text in Photos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-journey-of-drones-from-current-uses-to-future-applications/"><u>[New] In 2024, The Journey of Drones From Current Uses to Future Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-battlefield-brethren-compiling-the-ultimate-7-fps-collection/"><u>[Updated] 2024 Approved Battlefield Brethren Compiling the Ultimate 7 FPS Collection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-innovative-metaverse-marketing/"><u>[Updated] A Guide to Innovative Metaverse Marketing</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-conversion-tips-how-to-make-any-mkv-video-play-smoothly-on-an-ipadipad-2new-ipad/"><u>Easy Conversion Tips: How to Make Any MKV Video Play Smoothly on an iPad/iPad 2/New iPad</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2021-step-by-step-guide-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2021 | Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-v29e-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo V29e</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>In 2024, Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-home-internet-leveraging-prime-day-deals-for-enhanced-wireless-connectivity/"><u>Maximizing Your Home Internet: Leveraging Prime Day Deals for Enhanced Wireless Connectivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/metas-horizon-os-powers-new-virtual-reality-devices-by-asus-and-lenovo/"><u>Meta's Horizon OS Powers New Virtual Reality Devices by ASUS & Lenovo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/now-accessible-the-latest-smart-led-containers-by-nanoleaf-hit-the-market/"><u>Now Accessible: The Latest Smart LED Containers by Nanoleaf Hit the Market.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revamped-rebranding-how-the-samsung-galaxy-fe-is-essentially-the-previous-model-in-disguise/"><u>Revamped Rebranding: How the Samsung Galaxy FE Is Essentially the Previous Model in Disguise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revive-the-odd-a-collection-of-the-most-bizarre-desktop-tower-cabinets/"><u>Revive the Odd: A Collection of the Most Bizarre Desktop Tower Cabinets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviving-retro-tech-the-impressive-similarities-of-8bitdos-latest-mechanical-keyboard-to-the-iconic-ibm-model-m/"><u>Reviving Retro Tech: The Impressive Similarities of 8BitDo's Latest Mechanical Keyboard to the Iconic IBM Model M</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-enhancements-exploring-the-features-of-the-latest-apple-pencil-pro/"><u>Revolutionary Enhancements: Exploring the Features of the Latest Apple Pencil Pro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/story-2-the-cohort-confusion/"><u>Story 2: The Cohort Confusion</u></a></li>
+</ul></div>
+

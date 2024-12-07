@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2024-11-25T17:31:19.471Z
-updated: 2024-11-27T16:10:02.608Z
+date: 2024-12-03T21:11:37.361Z
+updated: 2024-12-07T02:42:39.826Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,22 +110,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-experts-choice-top-10-high-definition-screen-recorders/"><u>[New] In 2024, Expert's Choice Top 10 High-Definition Screen Recorders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-panoramic-precision-battle-gear-vs-lgcam-showdown/"><u>[New] In 2024, Panoramic Precision Battle Gear Vs LGCam Showdown</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-sharing-vimeo-content-instagram-tips/"><u>[New] Sharing Vimeo Content Instagram Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-step-by-step-approach-for-using-zoom-in-email-apps-like-gmail-for-2024/"><u>A Step-by-Step Approach for Using Zoom in Email Apps Like Gmail for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862838482-amazons-game-changer-34qhd-lg-ultragear-monitor-with-elite-g-sync-now-at-unbeatable-price-of-549/"><u>Amazon's Game Changer: 34QHD LG Ultragear Monitor with Elite G-Sync, Now at Unbeatable Price of $549!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862817375-experience-unparalleled-gaming-with-dell-s3222dgm-now-at-an-amazing-price-only-229/"><u>Experience Unparalleled Gaming with Dell S3222DGM: Now at an Amazing Price - Only $229!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-se-2020-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone SE (2020) to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862799252-landing-a-bargain-enjoy-yourself-with-a-giant-high-definition-samsung-49-oled-screen-for-less-than-youd-think/"><u>Landing a Bargain: Enjoy Yourself with a Giant, High-Definition Samsung 49 OLED Screen for Less Than You'd Think</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpts-body-stream-error-learn-how-with-these-7-powerful-fixes/"><u>Overcoming ChatGPT's Body Stream Error – Learn How with These 7 Powerful Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-bluetooth-missing-from-windows-device-manager/"><u>Resolving the Issue: Bluetooth Missing From Windows Device Manager</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862838906-score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862820475-score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79</u></a></li>
-<li><a href="https://network-issues.techidaily.com/taming-erratic-windows-7-display/"><u>Taming Erratic Windows 7 Display</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-smart-analysts-guide-to-ai-driven-insights/"><u>The Smart Analyst’s Guide to AI-Driven Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862835548-upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-advanced-tech-the-expertise-of-toms-hardware/"><u>Your Guide to Advanced Tech: The Expertise of Tom's Hardware</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-first-steps-in-photography-top-cameras-of-24/"><u>[New] First Steps in Photography Top Cameras of '24</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-2021s-best-screen-capture-tools-roundup/"><u>[New] The 2021'S Best Screen Capture Tools Roundup</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-winning-instagram-viewers-with-impactful-videos/"><u>[New] Winning Instagram Viewers with Impactful Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expertly-selected-8-filters-for-virtual-showcases-for-2024/"><u>[Updated] Expertly Selected 8 Filters for Virtual Showcases for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-your-audio-file-for-apples-review-boards/"><u>2024 Approved Perfecting Your Audio File for Apple’s Review Boards</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862816787-elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862805004-experience-next-level-gaming-on-a-budget-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-now-at-199/"><u>Experience Next-Level Gaming on a Budget: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor Now at $199</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-xs-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone XS and iPad</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/key-elements-for-compelling-facebook-ad-textual-content-for-2024/"><u>Key Elements for Compelling Facebook Ad Textual Content for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862771438-title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862790686-unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/vaio-unveils-visionplus14-the-largest-and-lightest-portable-display-in-the-market/"><u>Vaio Unveils Vision+14: The Largest and Lightest Portable Display in the Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/viewsonic-va1nte-portable-monitor-evaluation-expected-performance-across-the-board/"><u>ViewSonic VA1nte Portable Monitor Evaluation: Expected Performance Across the Board</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-do-when-your-android-isnt-receiving-sms-fixes-and-tips/"><u>What to Do When Your Android Isn't Receiving SMS: Fixes and Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cost-strategies-for-engaging-youtube-intros/"><u>Zero-Cost Strategies for Engaging YouTube Intros</u></a></li>
 </ul></div>
 

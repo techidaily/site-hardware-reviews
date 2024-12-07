@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed !"
-date: 2024-11-22T17:42:04.353Z
-updated: 2024-11-27T16:54:21.312Z
+date: 2024-12-02T20:30:33.133Z
+updated: 2024-12-06T23:52:05.601Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,16 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ownload-your-favorite-shows-anytime-everywhere-with-these-apps-for-2024/"><u>[New] Download Your Favorite Shows Anytime, Everywhere with These Apps for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-authentic-praise-amplified-branding/"><u>2024 Approved Authentic Praise, Amplified Branding</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>2024 Approved Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-simple-steps-to-quickly-improve-your-filmmaking-skills/"><u>5 Simple Steps to Quickly Improve Your Filmmaking Skills</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breakdown-of-mandarin-greeting-nuances-for-beginners/"><u>Breakdown of Mandarin Greeting Nuances for Beginners</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-advanced-screen-tech-samsung-revamps-odyssey-and-launches-ai-smart-supported-viewflex-series/"><u>Experience Advanced Screen Tech: Samsung Revamps Odyssey & Launches AI Smart Supported ViewFlex Series</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleash-the-power-of-visuals-with-top-free-slideshow-designs-for-2024/"><u>Unleash the Power of Visuals with Top Free Slideshow Designs for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-makes-an-ipad-unique-compared-to-other-tablets/"><u>What Makes an iPad Unique Compared to Other Tablets?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-zooming-experience-with-microsoft-teams/"><u>[New] Immersive Zooming Experience with Microsoft Teams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-job-market-gems-shortlist-for-success/"><u>[New] In 2024, Job Market Gems - Shortlist for Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers/"><u>[Updated] In 2024, The Art of 360-Degree Video 9 Must-Have Tips for Filmmakers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862748367-affordable-xiaomi-g34wqi-34-screen-review-exceptional-gamers-display-with-vivid-colors-at-180hz/"><u>Affordable Xiaomi G34WQI 34 Screen Review: Exceptional Gamers' Display with Vivid Colors at 180Hz</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-130-music-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia 130 Music Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-iphone-silhouette-photos/"><u>In 2024, The Ultimate Guide to iPhone Silhouette Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/maximizing-your-sightline-in-roblox-playground-for-2024/"><u>Maximizing Your Sightline in Roblox Playground for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-8-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 8 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-tech-secrets-the-ultimate-toms-hardware-exploration/"><u>Unveiling High-Tech Secrets - The Ultimate Tom's Hardware Exploration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-computer-gear-at-toms-hardware-insights/"><u>Unveiling the Latest Computer Gear at Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-with-toms-electronics-analysis/"><u>Unveiling the Latest in Computing with Tom’s Electronics Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/xiaomis-budget-gaming-masterpiece-the-34-180hz-display-with-exceptional-color-and-contrast-unveiled-in-comprehensive-reveiw/"><u>Xiaomi's Budget Gaming Masterpiece: The 34 180Hz Display with Exceptional Color & Contrast Unveiled in Comprehensive Reveiw</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-one-stop-destination-for-high-performance-hardware-toms-insights/"><u>Your One-Stop Destination for High-Performance Hardware: Tom's Insights</u></a></li>
 </ul></div>
 

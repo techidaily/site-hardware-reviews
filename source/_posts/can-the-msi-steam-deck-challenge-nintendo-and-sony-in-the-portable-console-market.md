@@ -1,7 +1,7 @@
 ---
 title: Can the MSI Steam Deck Challenge Nintendo and Sony in the Portable Console Market?
-date: 2024-11-23T17:25:27.891Z
-updated: 2024-11-27T19:06:42.574Z
+date: 2024-12-02T20:11:57.058Z
+updated: 2024-12-07T02:05:01.340Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,19 +140,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-top-picks-best-amazon-prime-content-2023-for-2024/"><u>[Updated] Twitter's Top Picks Best Amazon Prime Content 2023 for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-free-themes-for-dynamic-youtuber-profiles/"><u>2024 Approved Free Themes for Dynamic YouTuber Profiles</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722970206534-efficient-scanning-printing-and-copying-on-toshiba-machines-secure-your-windows-driver-today/"><u>Efficient Scanning, Printing & Copying on Toshiba Machines - Secure Your Windows Driver Today</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/seamless-conversion-of-video-content-to-dynamic-gif-formats-for-2024/"><u>Seamless Conversion of Video Content to Dynamic GIF Formats for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streaming-obs-content-to-instagram-for-2024/"><u>Streaming OBS Content to Instagram for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/switch-your-windows-11-preferred-apps/"><u>Switch Your Windows 11 Preferred Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-motherboards-of-2024-compare-by-socket-type-and-chipset/"><u>Top Rated Gaming Motherboards of 2024: Compare by Socket Type & Chipset</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transforming-compact-pc-building-with-maxsuns-newly-engineered-backside-slot-mini-itx-board/"><u>Transforming Compact PC Building with Maxsun's Newly Engineered Backside Slot Mini-ITX Board</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-computer-components-by-toms-hardware-experts/"><u>Ultimate Guide to Computer Components by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-the-power-of-hardware-with-toms-wisdom/"><u>Unleash the Power of Hardware with Tom's Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gigabytes-new-ice-themed-z790-aorus-xtreme-x-golden-cpu-socket-and-dazzling-giant-m2-cooling/"><u>Unveiling Gigabyte's New Ice-Themed Z790 Aorus XTreme X: Golden CPU Socket & Dazzling Giant M.2 Cooling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-journey-through-modern-technology/"><u>Unveiling New Gadgets with Tom - A Journey Through Modern Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726226663032-flvasf-movavi/"><u>オンラインで使いやすく移行: FLVとASFフォーマットの免責コスト自動変換 - Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-techniques-in-live-streamed-gaming-for-2024/"><u>[New] Cutting-Edge Techniques in Live-Streamed Gaming for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-snapquarter-testimony/"><u>[New] In 2024, SnapQuarter Testimony</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece/"><u>[Updated] 2024 Approved Thorough Reconnaissance The Full Review for Bublcam's Panoramic Masterpiece</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-it-protocol-tackling-persistent-windows-update-errors/"><u>Fix-It Protocol: Tackling Persistent Windows Update Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-7-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 7 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers/"><u>In 2024, The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-carbon-fibre-hewn-batteries-the-ultimate-weightless-energy-source-for-advanced-gadgets/"><u>Introducing Carbon Fibre Hewn Batteries - The Ultimate 'Weightless' Energy Source for Advanced Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-check-out-toms-expert-hardware-analysis/"><u>Mastering Your Devices? Check Out Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-your-game-performance-with-the-budget-friendly-899-lenovo-legion-slim-5-and-its-mighty-rtx-4060/"><u>Maximize Your Game Performance with the Budget-Friendly $899 Lenovo Legion Slim 5 and Its Mighty RTX 4060</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-tips-from-toms-hardware/"><u>Navigating Advanced Tech Tips From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-products-with-toms-expertise-on-computer-components/"><u>Navigating High-Tech Products with Tom's Expertise on Computer Components</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recognize-why-your-system-fails-on-video-card-detection/"><u>Recognize: Why Your System Fails on Video Card Detection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-lenovo-legion-laptops-now-750-discounted-features-rtx-4080-and-stunning-240hz-screen/"><u>Save Big: Lenovo Legion Laptops Now $750 Discounted - Features RTX 4080 and Stunning 240Hz Screen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-enthusiast-replaces-defective-lenovo-keyboard-goes-for-a-powerful-combo-of-titanium-case-and-mechanical-keys/"><u>Tech Enthusiast Replaces Defective Lenovo Keyboard: Goes for a Powerful Combo of Titanium Case & Mechanical Keys</u></a></li>
 </ul></div>
 

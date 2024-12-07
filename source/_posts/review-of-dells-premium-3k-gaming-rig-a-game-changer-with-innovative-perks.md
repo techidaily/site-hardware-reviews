@@ -1,7 +1,7 @@
 ---
 title: Review of Dell's Premium $3K Gaming Rig - A Game Changer with Innovative Perks
-date: 2024-11-23T16:59:26.195Z
-updated: 2024-11-27T18:25:27.896Z
+date: 2024-12-03T18:56:14.587Z
+updated: 2024-12-07T01:32:05.855Z
 tags:
   - laptops
 categories:
@@ -35,7 +35,7 @@ When Chromebooks first arrived, it took a while for everyone to understand a dev
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -53,7 +53,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 **Also:** [**The 5 best Chromebooks for students**](https://www.zdnet.com/article/best-chromebook-for-students/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -70,7 +70,7 @@ Acer's Chromebook 516 GE aims to be the ideal device for those cloud services by
 | Dimensions and weight | 356.58 (W) x 249.67 (D) x 21.3 (H) mm (14.04 x 9.83 x 0.84 inches) \| 3.75lbs                                                    |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Build and ports
@@ -104,10 +104,6 @@ The included charger is on the large side for a Chromebook power supply.
 Michael Gariffo/ZDNET
 
 While everything else about the Chromebook felt premium, the charger was contrastingly generic. It did its job of topping up the 65Wh, 9-hour battery well and quickly, but it's larger than you'd expect, and looked a bit dated compared with most other high-end Chromebook models. I opted to use a more compact 140W entry in the [Ugreen GaN charger line](https://www.zdnet.com/home-and-office/smart-office/ugreens-gan-chargers-are-smaller-mightier-and-cooler-than-yours/) during most of my testing. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Performance
 
@@ -154,7 +150,7 @@ Hopefully future updates will bring the performance of Xbox cloud gaming closer 
 [Acer Chromebook 516 GE $559.95 at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F1414639532&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -168,6 +164,10 @@ Just like all Chromebooks, gaming Chromebooks live or die on the quality of clou
 **Also: [Level up with the best gaming laptop deals](https://www.zdnet.com/article/best-gaming-laptop-deals/)**
 
 The saving grace here is that Acer and Nvidia have proven that cloud-based gaming is at the point where relatively inexpensive devices, like a high-end Chromebook, can compete with $1,000-plus machines, at least for just about everyone aside from ultra-competitive, first-person shooter fans. Now we just have to see how long it takes everyone else to catch up or surpass them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -213,22 +213,15 @@ Perhaps an odd fit as an alternative, but Valve's Steam Deck is a different take
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>[New] 2024 Approved Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/1715860357024-new-capturing-screen-content-on-huawei-mate-10-20-and-p-series-phones-via-built-in-recorders/"><u>[New] Capturing Screen Content on Huawei Mate 10, 20 & P-Series Phones via Built-In Recorders.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-saving-face-to-face-with-hangouts-for-2024/"><u>[New] Saving Face-to-Face with Hangouts for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-how-youtube-really-measures-your-contents-popularity-for-2024/"><u>[Updated] How YouTube Really Measures Your Content's Popularity for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home-for-2024/"><u>[Updated] Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862812083-999-yes-get-the-epic-lg-ultragears-39-curved-gaming-monitor-with-qhd-at-amazon-today/"><u>$999? Yes! Get the Epic LG Ultragear's 39 Curved Gaming Monitor with QHD at Amazon Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lens-legends-best-video-cameras-for-professional-use/"><u>2024 Approved Lens Legends Best Video Cameras for Professional Use</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-piecing-together-memories-your-guide-to-montages/"><u>2024 Approved Piecing Together Memories Your Guide to Montages</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862748367-affordable-xiaomi-g34wqi-34-screen-review-exceptional-gamers-display-with-vivid-colors-at-180hz/"><u>Affordable Xiaomi G34WQI 34 Screen Review: Exceptional Gamers' Display with Vivid Colors at 180Hz</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-access-to-hp-477-series-printing-and-scanning-software-downloads/"><u>Easy Access to HP 477 Series Printing & Scanning Software Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862788628-elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862825645-experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862809089-get-a-quality-curved-screen-for-gamers-acers-24-monitor-sale-hits-just-81/"><u>Get a Quality Curved Screen for Gamers – Acer's 24 Monitor Sale Hits Just $81</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862758543-get-your-hands-on-a-premium-240hz-gaming-monitor-acer-nitro-for-just-159/"><u>Get Your Hands on a Premium 240Hz Gaming Monitor – Acer Nitro, for Just $159!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862829610-sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon!</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-vivo-s18-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo S18 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-one-stop-destination-for-high-performance-hardware-toms-insights/"><u>Your One-Stop Destination for High-Performance Hardware: Tom's Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-2023s-leading-browsers-recording-software-guide/"><u>2024 Approved 2023'S Leading Browsers Recording Software Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asus-mg28uq-elevating-your-visual-experience-to-new-heights/"><u>ASUS MG28UQ Elevating Your Visual Experience to New Heights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/built-in-ai-noise-cancellation-for-crystal-clear-audio-experience/"><u>Built-In AI Noise Cancellation for Crystal Clear Audio Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/continued-growth-for-oled-monitors-market-forecast-estimates-upwards-of-134-million-deliveries-by-end-of-year/"><u>Continued Growth for OLED Monitors: Market Forecast Estimates Upwards of 1.34 Million Deliveries by End-of-Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dev-creates-portable-e-ink-monitor-using-kindle-jailbreak-process-unveiled/"><u>Dev Creates Portable E Ink Monitor Using Kindle - Jailbreak Process Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-at-toms-hardware-review-hub/"><u>Discover Cutting-Edge Computing at Tom's Hardware Review Hub</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pristineai-designs-crafting-visuals-with-ai/"><u>PristineAI Designs Crafting Visuals with AI</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-visual-magic-how-to-create-stunning-video-effects-like-a-pro/"><u>Updated In 2024, Visual Magic How to Create Stunning Video Effects Like a Pro</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-no-cost-video-editing-solutions-the-ultimate-list/"><u>Updated No-Cost Video Editing Solutions The Ultimate List</u></a></li>
 </ul></div>
 

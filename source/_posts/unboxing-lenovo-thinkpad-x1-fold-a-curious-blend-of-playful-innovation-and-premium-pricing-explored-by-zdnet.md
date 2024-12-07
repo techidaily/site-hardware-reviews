@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored by ZDNet"
-date: 2024-11-22T16:52:09.946Z
-updated: 2024-11-27T16:37:24.906Z
+date: 2024-12-03T22:52:39.292Z
+updated: 2024-12-07T01:50:45.410Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Max Buondonno/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ The new version has an improved design, upgraded specs, and a similarly high ask
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -122,7 +122,7 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -161,24 +161,22 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-explore-these-best-5-iphone-podcast-platforms-now/"><u>[New] Explore These Best 5 iPhone Podcast Platforms Now</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-break-free-the-chuckles-ranking-20-hilarious-fb-detention-scenes/"><u>[New] In 2024, Break Free the Chuckles Ranking 20 Hilarious FB Detention Scenes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-unlocking-the-full-potential-of-youtube-video-interactions/"><u>[New] In 2024, Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-syncopating-soundtracks-with-flawless-audio-transitions-for-2024/"><u>[New] Syncopating Soundtracks with Flawless Audio Transitions for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-eco-conscious-screen-tech-guide/"><u>[Updated] 2024 Approved Eco-Conscious Screen Tech Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-high-definition-playtime-best-hdmi-21-gaming-displays-ps5-compatible/"><u>[Updated] 2024 Approved High Definition Playtime Best HDMI 2.1 Gaming Displays [PS5 Compatible]</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-profit-from-publishing-shopping-reviews/"><u>2024 Approved Profit From Publishing Shopping Reviews?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-asus-rog-phone-8-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Asus ROG Phone 8? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-setup-the-asrock-z89et-taichi-aqua-motherboard-comes-with-10x-usb-type-c-and-2x-lightning-fast-thunderbolt-ports/"><u>Revolutionize Your PC Setup: The ASRock Z89eT Taichi Aqua Motherboard Comes with 10X USB Type-C & 2X Lightning-Fast Thunderbolt Ports</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/shop-high-performance-motherboards-and-boards-with-longsun-cpus-beginning-at-just-373-available-in-the-us/"><u>Shop High-Performance Motherboards & Boards with Longsun CPUs: Beginning at Just $373 - Available in the U.S</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/snag-your-asus-x670-p-wifi-am5-mobo-now-unbelievable-sale-135/"><u>Snag Your Asus X670-P WiFi AM5 Mobo Now - Unbelievable Sale @$135</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-when-you-cant-find-oleaut32dll-on-your-computer/"><u>Step-by-Step Solutions for When You Can't Find OleAut32.dll on Your Computer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-asrock-z790i-lightning-wi-fi-board-review-packed-potency-in-a-petite-package/"><u>The ASROCK Z790I Lightning Wi-Fi Board Review - Packed Potency in a Petite Package</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-computers-and-peripherals-by-toms-technology-hub/"><u>The Complete Guide to Computers and Peripherals by Tom's Technology Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-definitive-source-for-pc-hardware-at-toms-hardware/"><u>The Definitive Source for PC Hardware at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-perfect-blend-of-form-and-function-in-a-thin-motherboard-asrocks-x600tm-itx-mini-itx-option/"><u>The Perfect Blend of Form and Function in a Thin Motherboard: ASRock's X600TM-ITX Mini-ITX Option</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-hardware-analysis-t17238628805656/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-gadget-rundown-for-savvy-consumers/"><u>The Ultimate Tom's Gadget Rundown for Savvy Consumers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/work-out-and-enjoy-tunes-discover-the-power-of-garmin-vivoactive-3-activity-watches/"><u>Work Out and Enjoy Tunes: Discover the Power of Garmin Vivoactive 3 Activity Watches</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-metaverse-marketing-revolutionizing-customer-outreach-for-2024/"><u>[New] Metaverse Marketing Revolutionizing Customer Outreach for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>[New] Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-decoding-quantum-hdr-for-creative-success/"><u>[Updated] Decoding Quantum HDR for Creative Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862705261-amazing-savings-alert-the-razer-blade-15-gaming-laptop-is-now-shockingly-affordable-with-a-huge-discount/"><u>Amazing Savings Alert! The Razer Blade 15 Gaming Laptop Is Now Shockingly Affordable with a Huge Discount!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862653040-carbon-fiber-structural-battery-breakthroughs-lighter-and-stronger-tech-devices-ahead/"><u>Carbon Fiber Structural Battery Breakthroughs: Lighter and Stronger Tech Devices Ahead!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/celebrate-memorial-day-with-unbeatable-savings-the-new-asus-tuf-gaming-a13-laptop-for-just-658/"><u>Celebrate Memorial Day with Unbeatable Savings: The New Asus TUF Gaming A1^3 Laptop for Just $658!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/data-integrity-issue-solved-correcting-crc-cyclic-redundancy-check-mistakes/"><u>Data Integrity Issue Solved: Correcting CRC (Cyclic Redundancy Check) Mistakes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-tech-a-tour-of-the-latest-in-hardware-by-tom/"><u>Discover Cutting-Edge Tech: A Tour of the Latest in Hardware by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gear-insights-with-toms-hardware-mastery/"><u>Discover Top Gear Insights with Tom's Hardware Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-chromebooks-best-digital-art-stations/"><u>Discovering Chromebook's Best Digital Art Stations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-from-toms-computer-gear-hub/"><u>Expert Advice From Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862732090-get-the-powerhouse-dell-g16-gaming-laptop-now-at-just-949/"><u>Get the Powerhouse Dell G16 Gaming Laptop Now at Just $949!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonic-harvest-best-sites-for-classical-tones-downloads/"><u>In 2024, Harmonic Harvest Best Sites for Classical Tones Downloads</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-vanguards-launch-problem-in-valorant-expert-advice-and-solutions/"><u>Overcoming Vanguard's Launch Problem in Valorant: Expert Advice and Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862703895-transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply</u></a></li>
+<li><a href="https://win11.techidaily.com/winxpxo11-how-to-prevent-closed-folders-double-clicked/"><u>WinXP/XO11 - How to Prevent Closed Folders, Double-Clicked</u></a></li>
 </ul></div>
 

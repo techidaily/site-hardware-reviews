@@ -1,7 +1,7 @@
 ---
 title: "Top July 2024 Laptop Offers: Exclusive Savings From ZDNet"
-date: 2024-11-23T16:59:48.300Z
-updated: 2024-11-27T16:47:27.270Z
+date: 2024-12-03T03:20:41.055Z
+updated: 2024-12-06T16:09:37.702Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -101,10 +97,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 ## Alternative laptop deals
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Amazon laptop deals
 
 [Asus Chromebook Flip C434 2-In-1 laptop deal for $355 (save $150) $355 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChromebook-Touchscreen-Processor-All-Metal-C434TA-DSM4T%2Fdp%2FB07Q2RB6BY%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1)
@@ -131,10 +123,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [HP Chromebook X360 14-inch FHD touchscreen 2-in-1 laptop deal for $279 (save $120) $279 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHP-Chromebook-X360-14-inch-FHD-IPS-Touch-2-in-1-Laptop-Intel-Processor-N100-4GB-RAM-64GB-eMMC-Sky-Blue%2F5123764557&subId1=zd-__COM_CLICK_ID__-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Buy laptop deals
 
 [HP 15.6-inch touchscreen Full HD laptop deal for $630 (save $170) $630 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-15-6-touch-screen-full-hd-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver%2F6550427.p%3FskuId%3D6550427&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
@@ -144,6 +132,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -157,6 +149,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -169,10 +165,6 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -182,13 +174,13 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -200,12 +192,20 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best deals by retailer
 
 * [The best Amazon deals](https://www.zdnet.com/article/amazon-deals/)
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,20 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-choosing-pro-stream-vmix-vs-wirecast-battle-for-2024/"><u>[New] Choosing Pro Stream VMix Vs. Wirecast Battle for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-magic-6-lite-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor Magic 6 Lite Phone When You Forget the Password</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-new-gadgets-with-tom-a-detailed-guide-on-hardware/"><u>Exploring New Gadgets with Tom - A Detailed Guide on Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-disappointment-to-upgrade-delight-adding-a-custom-titanium-case-and-mechanical-keyboard/"><u>From Lenovo Disappointment to Upgrade Delight: Adding a Custom Titanium Case and Mechanical Keyboard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-motorola-moto-g-5g-2023-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Motorola Moto G 5G (2023) to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-brand-storytelling-through-imagery-a-podcast-designers-guide/"><u>In 2024, Brand Storytelling Through Imagery A Podcast Designer's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-the-latest-in-technology-via-toms-hardware/"><u>Inside Look: The Latest in Technology via Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-power-of-hp-omnibook-x-experience-long-lasting-efficiency-with-snapdragons-innovation/"><u>Inside the Power of HP OmniBook X: Experience Long-Lasting Efficiency with Snapdragon's Innovation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-world-top-picks-for-powerful-systems/"><u>Inside Tom's Hardware World: Top Picks for Powerful Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-haven-comprehensive-computer-gear-reviews/"><u>Inside Tom's Tech Haven: Comprehensive Computer Gear Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-devices-a-deep-look-at-hardware-from-toms-perspective/"><u>Master Your Devices: A Deep Look at Hardware From Tom's Perspective</u></a></li>
-<li><a href="https://win-hot.techidaily.com/resolved-troubleshooting-wi-fi-connection-issues-between-windows-11-and-iphone/"><u>Resolved: Troubleshooting Wi-Fi Connection Issues Between Windows 11 and iPhone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-getting-your-xbox-one-controller-to-work-when-wont-sync/"><u>Step-by-Step Guide: Getting Your Xbox One Controller to Work When Won't Sync</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-insights-choosing-the-best-platforms-for-watching-cricket-live/"><u>[New] Expert Insights Choosing the Best Platforms for Watching Cricket LIVE</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-stand-out-from-the-noise-logo-design-for-podcast-success/"><u>[Updated] Stand Out From the Noise Logo Design for Podcast Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-health-with-these-9-innovative-uses-of-chatgpt/"><u>Boost Your Health with These 9 Innovative Uses of ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-with-tom-authoritative-hardware-insights/"><u>Decoding Tech with Tom: Authoritative Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-analysis-and-insights-from-techmastertom/"><u>Detailed Analysis and Insights From TechMasterTom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-innovative-hardware-with-tom-expert-insights-and-evaluations/"><u>Discover Innovative Hardware with Tom - Expert Insights and Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-with-the-latest-asus-innovation-rog-strix-xg227-wcs-a-superior-27-va-panel-at-a-whopping-180hz/"><u>Elevate Your Gaming Setup with the Latest Asus Innovation: ROG Strix XG2^27 WCS – A Superior 27 VA Panel at a Whopping 180Hz!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/epic-price-drop-for-the-ultrawide-samsung-oled-odyssey-g9-49-of-stunning-visuals-at-bargain-prices/"><u>Epic Price Drop for the Ultrawide Samsung OLED Odyssey G9 - 49 of Stunning Visuals at Bargain Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-deal-alert-samsungs-cutting-edge-odyssey-g9-monitor-drops-to-record-lows/"><u>Exclusive Deal Alert: Samsung's Cutting-Edge Odyssey G9 Monitor Drops to Record Lows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-computing-equipment-toms-hardware-wisdom/"><u>Expert Guidance on Computing Equipment - Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-toms-hardware-products/"><u>Expert Insights on Tom's Hardware Products</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-narzo-60-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme Narzo 60 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unite-auditory-elements-with-visuals-in-ppt/"><u>In 2024, Unite Auditory Elements with Visuals in PPT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-full-review-of-lgs-high-definition-monitoring-experience/"><u>The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-ingenuity-of-twelve-souths-bookbook-v2-the-perfect-blend-for-your-macbook-case/"><u>Unveiling the Ingenuity of Twelve South's BookBook V2 - The Perfect Blend for Your MacBook Case</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-10-video-editing-software-options-beyond-final-cut-pro-x/"><u>Updated 2024 Approved Top 10 Video Editing Software Options Beyond Final Cut Pro X</u></a></li>
 </ul></div>
 

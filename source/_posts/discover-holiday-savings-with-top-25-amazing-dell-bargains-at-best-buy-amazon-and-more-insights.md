@@ -1,7 +1,7 @@
 ---
 title: Discover Holiday Savings with Top 25 Amazing Dell Bargains at Best Buy, Amazon, and More | Insights
-date: 2024-11-21T19:15:52.479Z
-updated: 2024-11-27T18:25:38.884Z
+date: 2024-12-05T20:50:10.700Z
+updated: 2024-12-06T22:58:35.895Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -35,6 +35,10 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 * [Dell 14-inch portable monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Dual-Screen-Productivity-Switching-Connectivity%2Fdp%2FB0C8LM4ZZD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1) for $274 (save $91)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Dell holiday deals
 
@@ -93,10 +97,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1): $1,000 (save $150)
@@ -104,10 +104,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Inspiron 5635](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-5000-5635-Laptop%2Fdp%2FB09BW611ZP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1): $836 (save $163)
 * [Dell Inspiron 16 Plus](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Finspiron-16-plus-laptop%2Fspd%2Finspiron-16-7630-laptop%2Fusichbts7630gbkt): $1,100 (save $350)
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1) for $1,071 (save $429)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
 
@@ -119,7 +115,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell monitor holiday deals
@@ -128,6 +124,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4dd53716-6376-4628-b248-ef80c594a02a%7Cdtp&dtb=1) for $297 (save $33)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,16 +210,24 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/iscover-efficient-methods-for-compiling-songs-on-youtube-for-2024/"><u>[New] Discover Efficient Methods for Compiling Songs on YouTube for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-enhance-your-gameplay-with-the-new-lg-27uhd68-sync-edition/"><u>[New] Enhance Your Gameplay with the New LG 27UHD68 Sync Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-ultimate-cooling-detailed-examination-of-the-5-uphere-m201-nvme-ssd-heatsink/"><u>Affordable Ultimate Cooling: Detailed Examination of the $5 UpHere M201 NVMe SSD Heatsink</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/eufy-t8200-video-doorbell-review/"><u>Eufy T8200 Video Doorbell Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellence-extracted-prime-playlist-pointers-by-gpodcasts/"><u>Excellence Extracted Prime Playlist Pointers by GPodCasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-tech-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Tech Insights</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-most-caring-android-solutions-for-3ds-games/"><u>In 2024, The Most Caring Android Solutions for 3DS Games</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nvidias-blackwell-graphics-cards-face-setback-potential-redesign-leads-to-projected-3-month-launch-postponement/"><u>Nvidia's Blackwell Graphics Cards Face Setback: Potential Redesign Leads to Projected 3-Month Launch Postponement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turbocharge-your-mobile-gameplay-nextorages-cutting-edge-ssd-sets-new-speed-benchmark-at-74gbs/"><u>Turbocharge Your Mobile Gameplay: Nextorage's Cutting-Edge SSD Sets New Speed Benchmark at 7.4GB/S</u></a></li>
-<li><a href="https://games-able.techidaily.com/unbeatable-deal-why-i-continue-to-advocate-for-these-classic-samsung-televisions-now-with-a-50-discountzdnet-exclusive/"><u>Unbeatable Deal: Why I Continue to Advocate for These Classic Samsung Televisions - Now with a 50% Discount![ZDNet Exclusive]</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-toms-comprehensive-hardware-analysis/"><u>Unveiling the Latest Gadgets - Tom's Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-correct-yt-monetization-checklist-maximize-your-earnings/"><u>[New] In 2024, Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-simplifying-cross-platform-sharing-instagram-and-facebook-integration/"><u>[New] Simplifying Cross-Platform Sharing Instagram & Facebook Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics/"><u>[Updated] In 2024, Blizzard of Champions Highlighting Snowboard Cross Excellence, '22 Olympics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-maximizing-zoom-visual-precision-effective-strategies/"><u>2024 Approved Maximizing Zoom Visual Precision Effective Strategies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-11-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme 11 5G Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-build-with-gskills-trident-z5-rgb-memory-sticks-an-ideal-choice-for-2x48gb-motherboard-setups/"><u>Elevate Your Build with G.SKILL's Trident Z5 RGB Memory Sticks - An Ideal Choice for 2X48GB Motherboard Setups</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341710933-experience-unmatched-precision-and-comfort-in-depth-look-at-the-keychron-q1-he-the-long-awaited-wireless-mx-version/"><u>Experience Unmatched Precision and Comfort - In-Depth Look at the Keychron Q1 HE, The Long-Awaited Wireless MX Version!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experts-rating-in-depth-analysis-of-dough-spectrum-black-the-ultimate-27-oled-gaming-display-with-superior-color-fidelity-and-exceptional-responsiveness/"><u>Experts' Rating: In-Depth Analysis of Dough Spectrum Black - The Ultimate 27 OLED Gaming Display with Superior Color Fidelity & Exceptional Responsiveness</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-equipment-insights/"><u>Exploring Computer Gear with Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-fusion-of-anime-and-disappointment-in-the-valkyrie-vind-sl125/"><u>Exploring the Fusion of Anime and Disappointment in the Valkyrie Vind SL125</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/exploring-the-nocturnal-world-through-your-iphone-lens-for-2024/"><u>Exploring the Nocturnal World Through Your iPhone Lens for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-effectively-share-youtube-links-on-instagrams-story-feature/"><u>How to Effectively Share YouTube Links on Instagram's Story Feature</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-12-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 12 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y36-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y36 Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-100-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor 100 Phone Now with These Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-terrain-trusted-reviews-and-insights-by-toms-hardware-specialists/"><u>Navigating High-Tech Terrain: Trusted Reviews and Insights by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-on-toms-hardware-platform/"><u>Navigating Technology Trends on Tom's Hardware Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-mu-reviewed-speedy-performance-that-surpasses-raspberry-pi-4-yet-comes-with-a-price-tag/"><u>The Mu Reviewed: Speedy Performance That Surpasses Raspberry Pi 4 Yet Comes With a Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-pick-for-portable-power-players-in-depth-analysis-of-the-asus-rog-ally-x-handheld-console/"><u>Top Pick for Portable Power Players: In-Depth Analysis of the Asus ROG Ally X Handheld Console</u></a></li>
 </ul></div>
 

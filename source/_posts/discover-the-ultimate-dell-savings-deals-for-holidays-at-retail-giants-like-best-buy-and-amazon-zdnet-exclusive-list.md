@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dell Savings Deals for Holidays at Retail Giants Like Best Buy and Amazon | ZDNET Exclusive List
-date: 2024-11-25T16:07:49.612Z
-updated: 2024-11-27T17:58:47.543Z
+date: 2024-12-04T23:33:36.553Z
+updated: 2024-12-07T00:48:34.343Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell holiday deals
@@ -37,7 +37,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -97,10 +97,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $1,000 (save $150)
@@ -110,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -122,21 +118,25 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $180 (save $40)
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) for $297 (save $33)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -210,20 +210,18 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-chasing-deals-on-vr-gear-in-china/"><u>[New] Chasing Deals on VR Gear in China</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-cutting-edge-tips-for-capturing-movies-on-everyday-tech-for-2024/"><u>[New] Cutting-Edge Tips for Capturing Movies on Everyday Tech for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-free-acting-availability-pledge/"><u>[New] Free Acting Availability Pledge</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-top-5-video-and-picture-capturing-tools-for-smartphones/"><u>2024 Approved Top 5 Video & Picture Capturing Tools for Smartphones</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/action-plan-seamless-transcoding-from-xmlssattml-to-srt-for-2024/"><u>Action Plan Seamless Transcoding From XML/SSA/TTML to SRT for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-solution-addressing-sea-of-thieves-initial-boot-issues/"><u>Mastering the Solution: Addressing 'Sea of Thieves' Initial Boot Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-with-toms-hq-expert-tips-on-hardware-and-software/"><u>Mastering Your PC with Tom's HQ: Expert Tips on Hardware and Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-system-performance-raid-cards-achieve-up-to-56gbs-speeds-using-four-pcie-gen-5-ssds-or-eight-pcie-gen-ve-4-ssds/"><u>Maximize System Performance: RAID Cards Achieve Up to 56GB/S Speeds Using Four PCIe Gen 5 SSDs or Eight PCIe Gen Ve 4 SSDs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-advanced-electronics-explore-toms-hardware-hub/"><u>Navigate Through Advanced Electronics - Explore Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-digital-frontiers-with-toms-hardware-insights-t17238642572173/"><u>Navigating Digital Frontiers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-world-with-toms-hardware-insights-for-savvy-shoppers/"><u>Navigating PC World with Tom's Hardware Insights for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nextorages-lightning-fast-pcie-40-m2-ssd-top-speed-for-portable-gaming-up-to-7400mbs/"><u>Nextorage's Lightning-Fast PCIe 4.0 M.2 SSD: Top Speed for Portable Gaming - Up to 7,400MB/S</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/phison-dominates-with-the-latest-high-speed-e29t-pcie-40-ssd-controller-showcase-at-fms-2024/"><u>Phison Dominates with the Latest High-Speed E29T PCIe 4.0 SSD Controller Showcase at FMS 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/recover-lost-storage-on-windows-11-a-comprehensive-guide-for-optimization/"><u>Recover Lost Storage on Windows 11 - A Comprehensive Guide for Optimization</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-your-device-potential-with-guidance-from-toms-hardware/"><u>Unleash Your Device Potential with Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-strategizing-your-approach-highlight-and-story-downloads-for-2024/"><u>[New] Strategizing Your Approach Highlight & Story Downloads for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>[New] Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>[Updated] 2024 Approved Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comprehensive-coverage-coalition-picking-an-mcn/"><u>[Updated] 2024 Approved Comprehensive Coverage Coalition Picking an MCN</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-best-webcam-recorders-for-windows-10/"><u>2024 Approved The Best Webcam Recorders for Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach-identify-the-legal-documents-function-in-land-division/"><u>Approach: Identify the Legal Document's Function in Land Division.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/boosting-traffic-elevating-your-pages-popularity-metric-for-2024/"><u>Boosting Traffic Elevating Your Page's Popularity Metric for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsairs-latest-gem-the-ultimate-review-for-the-superior-mp600-mini-1tb-m2-2230e2t-ssd-your-perfect-storage-solution/"><u>Corsair's Latest Gem: The Ultimate Review for the Superior MP600 Mini 1TB (M.2 2230/E2^T) SSD - Your Perfect Storage Solution!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341695533-exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-snap-shots-in-google-meet-a-quick-guide/"><u>Mastering Snap Shots in Google Meet A Quick Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-gadgets-by-toms-tech-wisdom/"><u>The Ultimate Guide to Cutting-Edge Gadgets by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-tutorial-on-extracting-music-from-brstm-file-format/"><u>The Ultimate Tutorial on Extracting Music From BRSTM File Format</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
 </ul></div>
 

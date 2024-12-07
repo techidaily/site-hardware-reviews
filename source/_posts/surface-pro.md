@@ -1,7 +1,7 @@
 ---
 title: Surface Pro
-date: 2024-11-22T16:34:21.525Z
-updated: 2024-11-27T17:31:38.027Z
+date: 2024-12-01T21:31:22.639Z
+updated: 2024-12-06T23:53:22.460Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,10 +124,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -147,6 +143,10 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,22 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-melody-matters-device-reviews/"><u>[New] 2024 Approved Melody Matters Device Reviews</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-swift-solutions-shifting-ios-media-files/"><u>[New] Swift Solutions Shifting iOS Media Files</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exclusive-performers-webcasts-for-2024/"><u>[Updated] Exclusive Performers' Webcasts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-ultimate-connectivity-handbook-for-insta-and-tik/"><u>2024 Approved The Ultimate Connectivity Handbook for Insta & Tik</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unparalleled-pc-sound-control/"><u>2024 Approved Unparalleled PC Sound Control</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cost-free-webm-to-mp4-transformation-tool-online-moveavi/"><u>Cost-Free WebM to MP4 Transformation Tool Online - Moveavi</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862798369-dell-xps-13-shines-with-lgs-newly-released-oled-display-successful-mass-production-achieved/"><u>Dell XPS 13 Shines with LG's Newly Released OLED Display – Successful Mass Production Achieved</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862820893-dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862781576-experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862824795-experience-ultraportability-with-vaios-newly-launched-visionplus-14-monitor-just-072-pounds/"><u>Experience Ultraportability with Vaio's Newly Launched Vision+ 14 Monitor - Just 0.72 Pounds</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-15-pro-max-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 15 Pro Max iCloud Bypass</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y27-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862800618-maximize-your-gameplay-high-refresh-rate-monitor-at-an-unbeatable-price-only-149/"><u>Maximize Your Gameplay: High Refresh Rate Monitor at an Unbeatable Price - Only $149</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/matters-top-educational-youtube-picks-for-2024/"><u>Mind Matters Top Educational YouTube Picks for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-asus-rog-swift-pg49wcd-a-49-oled-marvel-for-gaming-excellence/"><u>The Game Changer: Asus ROG Swift PG49WCD - A 49 OLED Marvel for Gaming Excellence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862816622-transform-your-gaming-experience-with-the-sale-priced-acer-nitro-a-stunning-24-curved-monitor-now-available-at-a-fantastic-price-of-only-81/"><u>Transform Your Gaming Experience with the Sale-Priced Acer Nitro: A Stunning 24 Curved Monitor Now Available at a Fantastic Price of Only $ 81</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turn-your-kindle-into-a-customizable-e-ink-display-a-step-by-step-devrepo-guide/"><u>Turn Your Kindle Into a Customizable E-Ink Display: A Step-by-Step DevRepo Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unleashing-laughter-on-screen-essential-tactics-for-youtube-reaction-video-making-3-ways/"><u>[Updated] In 2024, Unleashing Laughter on Screen Essential Tactics for YouTube Reaction Video Making (3 Ways)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>2024 Approved Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290618850-2024-dvd/"><u>2024年におすすめの DVD ビデオの一括保存技術：リッピング完全ガイド</u></a></li>
+<li><a href="https://fox-http.techidaily.com/budget-friendly-drone-picks-best-bargains-for-less-than-500-for-2024/"><u>Budget-Friendly Drone Picks Best Bargains for Less than $500 for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-artificial-intelligence-black-boxes-exploring-how-they-operate/"><u>Demystifying Artificial Intelligence Black Boxes – Exploring How They Operate</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-artistic-compendium-for-perfect-paste-ups/"><u>In 2024, Artistic Compendium for Perfect Paste-Ups</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-a-lister-secrets-unveiling-the-fastest-way-to-fame-with-our-expert-guide/"><u>Insta A-Lister Secrets Unveiling the Fastest Way to Fame with Our Expert Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/italian-journey-speak-mastering-local-dialects/"><u>Italian Journey Speak: Mastering Local Dialects</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-the-ultimate-tech-guide/"><u>Tom's Computer Components: The Ultimate Tech Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-the-ultimate-guide/"><u>Tom's Tech Advisor: The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guide-to-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Guide to the Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-from-the-leading-hardware-experts/"><u>Tom's Tech Reviews: Insights From the Leading Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se39/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44% Off Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-value-priced-4k-monitors/"><u>Ultimate Selection of Value-Priced 4K Monitors</u></a></li>
 </ul></div>
 

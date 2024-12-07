@@ -1,7 +1,7 @@
 ---
 title: "October Flash Sales Alert: Unbeatable Prime Day Offers for Laptops – Shop Now Before They're Gone | ZDNET"
-date: 2024-09-19 20:27:53
-updated: 2024-09-20 10:10:41
+date: 2024-12-02T19:13:39.430Z
+updated: 2024-12-07T02:48:28.619Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,28 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-steps-in-digital-content-top-10-easy-to-make-youtube-projects/"><u>[New] 2024 Approved First Steps in Digital Content Top 10 Easy-to-Make YouTube Projects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-switching-to-grid-view-in-google-meet-chat-room/"><u>[New] 2024 Approved Switching to Grid View in Google Meet Chat Room</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-steps-to-ensure-continuous-auto-play-for-fb-content/"><u>[New] 2024 Approved The Steps to Ensure Continuous Auto-Play for FB Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-edge-testing-gopros-hero5-black-against-sessions-for-2024/"><u>[New] The Ultimate Edge Testing GoPro's Hero5 Black Against Sessions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-gifs-your-step-by-step-meme-making-journey/"><u>[Updated] Mastering GIFs Your Step-by-Step Meme Making Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-generational-journey-into-falsehood-spreaders/"><u>AI's Generational Journey Into Falsehood Spreaders</u></a></li>
+<li><a href="https://fox-access.techidaily.com/boosting-speed-for-periscope-live-video/"><u>Boosting Speed for Periscope Live Video</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-updated-drivers-for-your-canon-mx922-all-in-one-printer-windows-guide/"><u>How to Download and Install Updated Drivers for Your Canon MX922 All-in-One Printer - Windows Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-compact-form/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR - Unmatched Color Precision in a Compact Form</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-destination-comprehensive-gear-evaluations/"><u>Inside Tom's Tech Destination: Comprehensive Gear Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-toms-authoritative-hardware-advice/"><u>Navigating the World of Gadgets & Peripherals: Tom's Authoritative Hardware Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-experience-with-gigabytes-aorus-z69ueh-an-intense-review-of-the-high-performance-4k-oled-display-at-lightning-speed/"><u>Revolutionize Your Gaming Experience with Gigabyte's Aorus Z69UEH: An Intense Review of the High-Performance, 4K OLED Display at Lightning Speed</u></a></li>
+</ul></div>
+

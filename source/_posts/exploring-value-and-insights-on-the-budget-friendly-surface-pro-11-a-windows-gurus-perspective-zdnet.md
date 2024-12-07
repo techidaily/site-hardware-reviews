@@ -1,7 +1,7 @@
 ---
 title: "Exploring Value & Insights on the Budget-Friendly Surface Pro 11: A Windows Guru's Perspective - ZDNet"
-date: 2024-11-25T16:44:28.964Z
-updated: 2024-11-27T18:04:21.885Z
+date: 2024-12-01T21:49:22.457Z
+updated: 2024-12-06T16:38:35.447Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -63,6 +63,10 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -81,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -120,10 +124,6 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,18 +192,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[New] 2024 Approved Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-aspect-ratio-essentials-for-social-network-videos-for-2024/"><u>[New] Aspect Ratio Essentials for Social Network Videos for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diverging-paths-youtube-licensing-and-creative-commons/"><u>[New] In 2024, Diverging Paths YouTube Licensing & Creative Commons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creative-potential-with-full-length-vivacut-review-24/"><u>[Updated] Unleash Your Creative Potential with Full-Length VivaCut Review '24</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-issues-why-isnt-the-multiplayer-function-active-in-elden-ring/"><u>Fixing Issues: Why Isn't the Multiplayer Function Active in Elden Ring?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/high-performance-gaming-notebooks-on-a-budget-under-1000/"><u>High Performance Gaming Notebooks on a Budget Under $1000</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/huge-sale-alert-get-the-2023-razer-blade-15-for-just-1000-off-record-low-pricing/"><u>Huge Sale Alert: Get the 2023 Razer Blade 15 for Just $1,000 Off - Record-Low Pricing!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-technology-toms-comprehensive-hardware-analysis/"><u>Inside Look at Technology: Tom's Comprehensive Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-tech-game-with-expert-advice-from-toms-hardware-zone/"><u>Master Your Tech Game with Expert Advice From Tom's Hardware Zone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-selection-tips-and-advice-from-toms-hardware-experts/"><u>Mastering Gadget Selection: Tips and Advice From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-katana-156-gaming-laptop-powerhouse-performance-at-just-1199-featuring-nvidia-rtx-4070/"><u>MSI Katana 15.6 Gaming Laptop: Powerhouse Performance at Just $1,199 – Featuring NVIDIA RTX 4070</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-steps-for-a-functional-windows-11-search-interface/"><u>Quick Steps for a Functional Windows 11 Search Interface</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-vip-racing-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 VIP Racing Edition Reset Code | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secrecy-in-posts-how-to-oc/"><u>[Updated] Secrecy in Posts How to Oc</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/corsair/"><u>信頼性と便利さを重視したトップクラスCorsairデータ移行ソフトウェア - 高い検索エンジン最適化</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/filching-frames-from-films-for-windows-10-photos-collection/"><u>Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/highlights-and-pitfalls-of-this-luxury-compact-projection-device/"><u>Highlights and Pitfalls of This Luxury Compact Projection Device</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-icloud-top-tips-tricks-and-support-materials/"><u>Mastering iCloud: Top Tips, Tricks & Support Materials</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-steam-login-issues-on-rust-oses/"><u>Streamlining Steam Login Issues on Rust OSes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-art-of-impressive-hdr-portraits-explained/"><u>The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews-t17238628805738/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-innovations-and-reviews/"><u>Tom's Tech Insights: Innovations and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware-wisdom/"><u>Unlocking Computer Secrets with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-high-performance-pcs-with-toms-hardware-guidance/"><u>Unlocking the Secrets of High-Performance PCs with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-latest-offerings-intels-arrow-lake-and-amd-ryzen-9000-motherboards-by-maxsun-an-array-of-31-models-across-five-unrevealed-chipset-platforms-al94/"><u>Unpacking the Latest Offerings: Intel's Arrow Lake & AMD Ryzen 9000 Motherboards by Maxsun - An Array of 31 Models Across Five Unrevealed Chipset Platforms, All Donning PCIe 800-Series Emblem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unseen-smiles-hidden-glances-in-photos/"><u>Unseen Smiles, Hidden Glances in Photos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-toms-hardware-analysis/"><u>Unveiling Cutting-Edge Gadgets: The Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-toms-gadget-analysis-a-deep-dive-into-hardware-reviews/"><u>Unveiling the Secrets of Tom's Gadget Analysis: A Deep Dive Into Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-amd-ryzen-9000-ready-800-series-motherboard-chipsets-how-numbers-align-with-intel-offerings/"><u>Upcoming AMD Ryzen 9000-Ready 800 Series Motherboard Chipsets: How Numbers Align With Intel Offerings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-source-for-in-depth-analysis-toms-hardware-reviews/"><u>Your Trusted Source for In-Depth Analysis: Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2024-11-21T18:47:34.671Z
-updated: 2024-11-27T17:31:47.623Z
+date: 2024-12-04T17:43:13.897Z
+updated: 2024-12-06T17:51:01.365Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,22 +110,19 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-insights-on-how-youtube-handles-uploaded-videos/"><u>[Updated] Insights on How YouTube Handles Uploaded Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-kickstarting-creativity-an-equipment-guide-for-beginners/"><u>2024 Approved Kickstarting Creativity An Equipment Guide for Beginners</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722996074410-actively-monitor-customer-support-channels-email-phone-live-chat-for-incoming-requests-or-inquiries-from-customers-requiring-assistance/"><u>Actively Monitor Customer Support Channels (Email, Phone, Live Chat) for Incoming Requests or Inquiries From Customers Requiring Assistance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oneplus-nord-n30-se-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of OnePlus Nord N30 SE?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-deciphering-the-covert-codes-of-snapchats-emojis/"><u>In 2024, Deciphering the Covert Codes of Snapchat's Emojis</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-gt-5-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme GT 5 Phone that is Locked?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meta-quest-vr-the-third-generation-covering-news-valuation-debut-date-and-hardware-info/"><u>Meta Quest VR: The Third Generation - Covering News, Valuation, Debut Date & Hardware Info</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/nest-audio-reviewed-elevating-your-music-world-with-a-cutting-edge-smart-speaker/"><u>Nest Audio Reviewed: Elevating Your Music World with a Cutting-Edge Smart Speaker</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-upgrading-your-pc-to-windows-11/"><u>Step-by-Step Guide: Upgrading Your PC to Windows 11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/support-sobriety-efforts-if-you-confirm-that-your-teenager-has-been-using-drugs-or-alcohol-help-them-find-resources-such-as-support-groups-counseling-servic85/"><u>Support Sobriety Efforts: If You Confirm that Your Teenager Has Been Using Drugs or Alcohol, Help Them Find Resources Such as Support Groups, Counseling Services, Rehabilitation Programs, or Sober Activities to Encourage and Maintain Sobriety.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-computers-by-toms-tech-sanctuary/"><u>The Ultimate Guide to High-Performance Computers by Tom's Tech Sanctuary</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-toms-technology-review/"><u>The Ultimate Guide to High-Performance Hardware by Tom's Technology Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-guide-inside-knowledge-from-toms-hardware/"><u>The Ultimate Tech Guide: Inside Knowledge From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-computer-hardware-reviews-t17238628805697/"><u>Tom's Tech Hub: In-Depth Computer Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-innovative-insights-on-hardware-components/"><u>Tom's Tech Review: Innovative Insights on Hardware Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-and-analysis/"><u>Tom's Tech Reviews: Insights and Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-leading-guide-on-computer-components/"><u>Tom's Tech Reviews: Leading Guide on Computer Components</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc/"><u>[Updated] Expert Tips on Angling Videos Unlocking Full Potential with VLC</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-hardware-breakthroughs-at-this-years-computex/"><u>AI Hardware Breakthroughs at This Year's Computex</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-music-auto-play-pause-tricks-mastering-offline-listening/"><u>Apple Music Auto-Play Pause Tricks - Mastering Offline Listening</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-updating-your-vga-drivers-fetch-them-here/"><u>Easy Guide to Updating Your VGA Drivers – Fetch Them Here</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-ideal-illustration-tools-for-windows-no-cost-high-prices/"><u>In 2024, Ideal Illustration Tools for Windows No Cost, High Prices</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-honor-x9a-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor X9a ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-power-of-unity-apple-deploys-its-entire-ecosystem-to-revolutionize-mac-gaming/"><u>The Power of Unity: Apple Deploys Its Entire Ecosystem to Revolutionize Mac Gaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware-t17238628794305/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-technology-forum-decoding-the-wonders-of-modern-computer-hardware/"><u>Tom's Technology Forum: Decoding the Wonders of Modern Computer Hardware</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-f5-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco F5 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-insights-into-computing-visit-toms-hardware-hub/"><u>Ultimate Insights Into Computing - Visit Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-high-tech-secrets-with-toms-hardware-discoveries/"><u>Unraveling High-Tech Secrets with Tom’s Hardware Discoveries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-at-toms-electronics-hub/"><u>Unveiling the Latest in Computing at Tom's Electronics Hub</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-and-easy-avi-video-editing-top-5-software-choices-for-2024/"><u>Updated Free and Easy AVI Video Editing Top 5 Software Choices for 2024</u></a></li>
 </ul></div>
 

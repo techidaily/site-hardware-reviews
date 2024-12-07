@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights"
-date: 2024-11-26T17:17:36.202Z
-updated: 2024-11-27T16:55:56.526Z
+date: 2024-12-01T18:27:19.494Z
+updated: 2024-12-07T00:06:53.960Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce20b3bd-264e-4243-8b2f-de2b540f1dec%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,17 +149,21 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-from-sketches-to-high-end-graphics-best-software-reviewed/"><u>[New] From Sketches to High-End Graphics Best Software Reviewed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-easy-steam-capture-for-cyberpunk-2077-adventures/"><u>[New] In 2024, Easy Steam Capture for Cyberpunk 2077 Adventures</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-understanding-the-technicalities-of-fb-360-streaming/"><u>[Updated] 2024 Approved Understanding the Technicalities of FB 360 Streaming</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-definitive-list-high-quality-costless-lut-options-explored-for-2024/"><u>[Updated] The Definitive List High-Quality, Costless LUT Options Explored for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-image-editors-ultimate-toolkit-review/"><u>[Updated] The Image Editor's Ultimate Toolkit Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-gear-with-tom-in-depth-reviews-and-insights-on-hardware/"><u>Exploring PC Gear with Tom: In-Depth Reviews & Insights on Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-and-reviews-your-guide-to-the-latest-gadgets/"><u>Exploring Tom's Tech Insights & Reviews - Your Guide to the Latest Gadgets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-restoring-sound-linkage-in-obs-broadcasts/"><u>In 2024, Restoring Sound Linkage in OBS Broadcasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-tom-expert-hardware-analysis-and-tips/"><u>Navigating Gadgets with Tom: Expert Hardware Analysis & Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solving-the-issue-of-your-xbox-ones-failure-to-read-discs-a-step-by-step-guide-updated-march-2024/"><u>Solving the Issue of Your Xbox One's Failure to Read Discs: A Step-by-Step Guide (Updated March 2024)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-revolutionary-keychron-q1-he-a-comprehensive-wireless-gaming-and-typing-experience-unleashed/"><u>The Revolutionary Keychron Q1 HE: A Comprehensive Wireless Gaming and Typing Experience Unleashed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unbiased-gadget-analysis-and-reviews/"><u>Tom's Tech Review: Unbiased Gadget Analysis and Reviews</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-elevate-your-vlogging-mastering-tripod-angles-and-positions/"><u>[New] In 2024, Elevate Your Vlogging Mastering Tripod Angles and Positions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[Updated] Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-sites-boost-your-sites-performance/"><u>Cookiebot-Enabled Sites: Boost Your Site's Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-with-tom-into-modern-computing-equipment/"><u>Deep Dive with Tom Into Modern Computing Equipment</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/al-dollars-earn-from-youtubers-in-8-ways-for-2024/"><u>Digital Dollars Earn From YouTubers in 8 Ways for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-guide-how-to-remove-barnes-and-nobles-nook-digital-rights-management-drm/"><u>Effortless Guide: How to Remove Barnes & Noble's Nook Digital Rights Management (DRM)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-our-comprehensive-review-of-id-coolings-frozn-a620-pro-se/"><u>Elevate Your Gaming Experience with Our Comprehensive Review of ID-Cooling's Frozn A620 PRO SE</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording/"><u>From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-experience-enhanced-with-the-aorus-co49dq-oled-by-gigabyte-an-insight-into-its-amazing-colors-and-contrast-quality/"><u>Gaming Experience Enhanced with the Aorus CO49DQ OLED by Gigabyte - An Insight Into Its Amazing Colors & Contrast Quality</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-geforce-experience-error-code-0x0001-in-windows-10-and-11/"><u>How to Fix the GeForce Experience Error Code 0X0001 in Windows 10 & 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-into-computer-components-from-toms-hardware/"><u>Mastering Technology: Insights Into Computer Components From Tom’s Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/multiple-lines/"><u>Multiple Lines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-the-asus-rog-strix-xg27acs-where-speed-meets-accuracy-in-an-180hz-gaming-experience/"><u>Review: The Asus ROG Strix XG27ACS, Where Speed Meets Accuracy in an 180Hz Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-new-era-of-industrial-iot-with-raspberry-pis-compute-module-4s/"><u>Reviewing the New Era of Industrial IoT with Raspberry Pi's Compute Module 4S</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-boom-microphones-a-comprehensive-guide/"><u>Top-Rated Boom Microphones : A Comprehensive Guide</u></a></li>
 </ul></div>
 

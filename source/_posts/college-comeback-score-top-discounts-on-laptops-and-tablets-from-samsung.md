@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2024-11-24T18:36:57.988Z
-updated: 2024-11-27T18:20:36.006Z
+date: 2024-12-04T17:55:33.691Z
+updated: 2024-12-06T19:32:50.648Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,17 +90,20 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/2024-approved-mastering-the-art-of-converting-vids-on-pinterest-into-audible-format/"><u>2024 Approved Mastering the Art of Converting Vids on Pinterest Into Audible Format</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/becoming-an-expert-in-artificial-intelligence-leadership-the-journey-to-a-chief-ai-officers-chair/"><u>Becoming an Expert in Artificial Intelligence Leadership: The Journey to a Chief AI Officer's Chair</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-gear-insights-your-source-for-latest-hardware-news/"><u>Dive Into Technology with Tom's Gear Insights: Your Source for Latest Hardware News</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-next-weeks-thrilling-foldinghome-event-begins-soon/"><u>Don't Miss Out - Next Week's Thrilling Folding@Home Event Begins Soon</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/enhancing-social-media-reach-a-deep-dive-into-instagram-and-obs-streaming-for-2024/"><u>Enhancing Social Media Reach A Deep Dive Into Instagram & OBS Streaming for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enter-the-contest-for-your-chance-at-a-complimentary-corsair-t2-elite-gaming-seat/"><u>Enter the Contest for Your Chance at a Complimentary Corsair T2 Elite Gaming Seat</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-insights-into-neweggs-strategy-for-reserving-rare-components-before-building-your-pc/"><u>Exclusive Insights Into Newegg's Strategy for Reserving Rare Components Before Building Your PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expertly-assembled-computers-mastering-high-end-performance-demands/"><u>Expertly Assembled Computers: Mastering High-End Performance Demands</u></a></li>
-<li><a href="https://discover-help.techidaily.com/how-to-convert-still-pictures-into-fun-gif-animation-a-beginners-guide-for-windows-users/"><u>How to Convert Still Pictures Into Fun GIF Animation - A Beginner's Guide for Windows Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-a-new-era-in-iptv-recording-technology-exploration/"><u>In 2024, A New Era in IPTV Recording Technology Exploration</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-wisdom-warriors-top-11-trivia-videos/"><u>In 2024, Wisdom Warriors' Top 11 Trivia Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists/"><u>[Updated] 2024 Approved Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-melodious-memories-capturing-songs-in-your-snaps/"><u>[Updated] 2024 Approved Melodious Memories Capturing Songs in Your Snaps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-key-strategies-for-adding-timestamps-in-youtube-content/"><u>[Updated] In 2024, Key Strategies for Adding Timestamps in YouTube Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anycubic-kobra-3-reviewed-setting-new-standards-in-multicolored-3d-printing-innovation/"><u>Anycubic Kobra 3 Reviewed: Setting New Standards in Multicolored 3D Printing Innovation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/can-the-asus-rog-keris-ii-ace-outdo-the-deathadder-v3-pro-an-expert-comparison-and-review/"><u>Can the Asus ROG Keris II Ace Outdo the DeathAdder V3 Pro? An Expert Comparison and Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-nvme-cooling-with-our-comprehensive-review-of-the-uphere-m201-heatsink-for-under-5/"><u>Discover the Best Value in NVMe Cooling with Our Comprehensive Review of the UpHere M201 Heatsink for Under $5</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eco-friendly-gardening-101-a-beginners-guide-to-organic-vegetable-cultivation-with-proven-sustainability-tips/"><u>Eco-Friendly Gardening 101: A Beginner's Guide to Organic Vegetable Cultivation with Proven Sustainability Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-electronics-with-toms-technology-insights-comprehensive-guides-and-reviews/"><u>Exploring Electronics with Tom's Technology Insights: Comprehensive Guides & Reviews</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission-for-2024/"><u>Harnessing Your Creative Potential An Exhaustive Tutorial for YouTube Video Submission for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-x-flip-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo X Flip to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-movie-magic-free-text-animation-basics/"><u>In 2024, Boost Your Movie Magic Free Text Animation Basics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-beyerdynamic-mmx-300-pro-headphones-outstanding-sound-and-basic-composition-examined/"><u>Review of Beyerdynamic MMX 300 Pro Headphones: Outstanding Sound & Basic Composition Examined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-gear-the-comprehensive-toms-hardware-analysis/"><u>Unveiling Top Gear: The Comprehensive Tom's Hardware Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/weaving-pictures-into-a-musical-tapestry/"><u>Weaving Pictures Into a Musical Tapestry</u></a></li>
 </ul></div>
 

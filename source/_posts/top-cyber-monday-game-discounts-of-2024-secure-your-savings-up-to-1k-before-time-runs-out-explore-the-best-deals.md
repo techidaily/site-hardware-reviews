@@ -1,7 +1,7 @@
 ---
 title: "Top Cyber Monday Game Discounts of 2024: Secure Your Savings Up to $1K Before Time Runs Out! Explore the Best Deals"
-date: 2024-11-20T18:23:29.002Z
-updated: 2024-11-27T17:44:31.583Z
+date: 2024-12-02T16:14:23.854Z
+updated: 2024-12-06T19:45:12.235Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
 
@@ -133,7 +137,7 @@ ZDNET
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals still available
@@ -166,7 +170,7 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
@@ -182,7 +186,7 @@ Kyle Kucharski/ZDNET
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals still available
@@ -227,16 +231,12 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -304,18 +304,22 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-the-mold-pushing-a-video-into-hot-water/"><u>[Updated] 2024 Approved Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-elevating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[Updated] In 2024, Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-the-15-best-action-cam-options-like-gopro/"><u>2024 Approved Unveiling the 15 Best Action Cam Options Like GoPro</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-electronics-with-toms-review-comprehensive-hardware-guides/"><u>Dive Into Electronics with Tom’s Review: Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-a-guide-by-toms-hardware-experts/"><u>Exploring the World of Computing with Tom - A Guide by Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-shots-the-art-of-closing-in-on-movies/"><u>In-Depth Shots The Art of Closing in on Movies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/innovative-methods-to-archive-lol-dueling/"><u>Innovative Methods to Archive LOL Dueling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-insights/"><u>Tom's Tech Reviews: Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/uniting-friends-across-operating-systems-with-skype-groups-for-2024/"><u>Uniting Friends Across Operating Systems with Skype Groups for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-the-ultimate-guide-to-modern-electronics/"><u>Unveiling Gadgets with Tom: The Ultimate Guide to Modern Electronics</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-best-free-video-merger-software-without-watermarks/"><u>Updated In 2024, Best Free Video Merger Software Without Watermarks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-of-online-video-rotators/"><u>Updated The Ultimate List of Online Video Rotators</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-xcover-6-pro-tactical-edition-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy XCover 6 Pro Tactical Edition Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-brilliance-essential-lighting-hacks-for-iphone/"><u>[New] Capture Brilliance Essential Lighting Hacks for IPhone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-perfect-pair-merging-your-youtube-video-library/"><u>[Updated] 2024 Approved Perfect Pair Merging Your YouTube Video Library</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-link-zoom-calls-to-iphoneandroid-events-seamlessly-for-2024/"><u>[Updated] Link Zoom Calls to iPhone/Android Events Seamlessly for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-muddled-to-clear-mastering-photo-bg-removal/"><u>2024 Approved From Muddled to Clear Mastering Photo Bg Removal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/archiviazione-digitale-gratuita-cambia-i-tuoi-dati-da-ram-a-mov-su-movavi-online/"><u>Archiviazione Digitale Gratuita: Cambia I Tuoi Dati Da RAM a MOV Su Movavi Online</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-asrock-b7e60m-pro-rs-review-robust-m2-capacity/"><u>Budget-Friendly ASRock B7e60M Pro RS Review: Robust M.2 Capacity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-examination-of-the-cost-effective-nuphy-halo75-v2-the-ideal-mechanical-keyboard-for-gamers/"><u>Detailed Examination of the Cost-Effective Nuphy Halo75 V2 - The Ideal Mechanical Keyboard for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-on-toms-hardware-insights/"><u>Discover the Latest in Tech on Tom's Hardware Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719361633854-enhance-your-pcs-screen-glow-with-these-fixes/"><u>Enhance Your PC's Screen Glow with These Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-computer-components-by-toms-hardware-hub/"><u>Expert Insights on Computer Components by Tom's Hardware Hub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-m6-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco M6 5G? Try These Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-affordable-and-effective-fx360-pro-from-id-cooling/"><u>In-Depth Review of the Affordable and Effective FX360 Pro From ID-Cooling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-tech-in-depth-guides-from-toms-system-solutions/"><u>Inside the World of Tech: In-Depth Guides From Tom's System Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-hidden-gem-in-gaming-displays-an-in-depth-evaluation-of-the-pixio-px277-oled-max/"><u>The Hidden Gem in Gaming Displays: An In-Depth Evaluation of the Pixio PX277 OLED MAX</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341676192-toms-tech-review-expert-insights-on-hardware/"><u>Tom's Tech Review - Expert Insights on Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-cause-of-unregistered-packages-in-windows/"><u>Unraveling the Cause of Unregistered Packages in Windows</u></a></li>
 </ul></div>
 

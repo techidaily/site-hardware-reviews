@@ -1,7 +1,7 @@
 ---
 title: Unboxing and Testing the Groundbreaking HyperX Armada 27 - A New Era in Gaming Monitors | ZDNET
-date: 2024-09-19 14:37:42
-updated: 2024-09-20 10:43:59
+date: 2024-12-05T16:04:38.286Z
+updated: 2024-12-07T03:21:32.029Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,23 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-android-freedom-selecting-prime-video-editing-tools-for-2024/"><u>[Updated] Android Freedom Selecting Prime Video Editing Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-weaving-in-youtubes-video-selection-a-step-by-step-guide/"><u>[Updated] Weaving in YouTube's Video Selection A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embrace-the-future-of-safety-swap-out-your-old-ring-doorbell-today/"><u>Embrace the Future of Safety - Swap Out Your Old Ring Doorbell Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-artificial-intelligence-performance-with-intels-ultra-pc-the-new-era-of-optimized-model-integration/"><u>Enhanced Artificial Intelligence Performance with Intel's Ultra PC: The New Era of Optimized Model Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-guide-the-best-solar-lantern-for-adventurous-outdoor-excursions-and-sudden-energy-losses/"><u>Essential Guide: The Best Solar Lantern for Adventurous Outdoor Excursions & Sudden Energy Losses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-top-7-inquiries-for-purchasing-your-next-smart-home-gadget/"><u>Essential Top 7 Inquiries for Purchasing Your Next Smart Home Gadget</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/video-extraction-from-youtube-tips-on-downloading-to-mp4-for-2024/"><u>Safe Video Extraction From YouTube - Tips on Downloading to MP4 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175695115-upgrade-your-pcs-cooling-game-lamptrons-st0ns-cpu-cooler-now-includes-a-six-inch-lcd-display-similar-in-size-to-the-proposed-iphone-15/"><u>Upgrade Your PC's Cooling Game - Lamptron's ST0nS CPU Cooler Now Includes a Six-Inch LCD Display Similar in Size to the Proposed iPhone 15</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Get a Powerhouse 15-Inch Asus Notebook at an Unbeatable Price of $2ˈ/ ZDNET's Inside Scoop on Walmart’s Latest Offer!
-date: 2024-11-25T18:25:34.242Z
-updated: 2024-11-27T18:45:57.048Z
+date: 2024-12-05T00:45:33.601Z
+updated: 2024-12-06T23:56:20.649Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-the-seo-maze-5-tactics-for-top-tier-views/"><u>[New] 2024 Approved Navigating the SEO Maze 5 Tactics for Top-Tier Views</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-pivot-to-popularity-mastering-video-flip-on-social/"><u>[New] 2024 Approved Pivot to Popularity Mastering Video Flip on Social</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-apparition-editing-in-slow-motion/"><u>2024 Approved Apparition Editing in Slow-Motion</u></a></li>
-<li><a href="https://article-posts.techidaily.com/enhance-browsing-performance-unlocking-the-power-of-picture-in-picture/"><u>Enhance Browsing Performance Unlocking the Power of Picture-in-Picture</u></a></li>
-<li><a href="https://discover-data.techidaily.com/fix-airdrops-missing-contact-names-in-seconds-tips-for-iphone-models-x-y-and-z/"><u>Fix AirDrop's Missing Contact Names in Seconds - Tips for iPhone Models X, Y & Z</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-disclosure-insights-into-the-google-podcast-app-for-2024/"><u>Full Disclosure Insights Into the Google Podcast App for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-the-edge-with-acemagics-upcoming-dual-display-laptop-reserve-now-before-release-date/"><u>Get the Edge with AceMagic's Upcoming Dual-Display Laptop – Reserve Now Before Release Date</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-up-close-with-microsofts-revolutionary-surface-and-surface-pro-laptops-featuring-innovative-copilotplus-technology/"><u>Get Up Close With Microsoft’s Revolutionary Surface & Surface Pro Laptops Featuring Innovative Copilot+ Technology</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Infinix Phone with Broken Screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/intel-and-amd-collaborate-inside-high-end-designs-of-asus-zenbook-s-and-tuf-a1-4-laptops/"><u>Intel & AMD Collaborate Inside High-End Designs of Asus' Zenbook S and TUF A1 4 Laptops</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/massive-rtx-4090-gaming-laptop-at-a-steal-save-700-on-the-alienware-m18-r2/"><u>Massive RTX 4090 Gaming Laptop at a Steal: Save $700 on the Alienware M18 R2!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-precision-the-comprehensive-toms-hardware-encyclopedia/"><u>Mastering Devices with Precision - The Comprehensive Tom's Hardware Encyclopedia</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-advanced-pc-components-with-insights-from-tomhardware-zone/"><u>Navigate the World of Advanced PC Components with Insights From TomHardware Zone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computing-guided-by-tom-hardware-experts/"><u>Navigate the World of Computing - Guided by Tom Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-comprehensive-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Comprehensive Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/protect-your-new-iphone-16-the-smart-way-expert-tips-on-choosing-the-right-case-even-if-youve-never-used-one-zdnet-advice-series/"><u>Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One | ZDNET Advice Series</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-8-best-mirrorless-cameras-for-vlogging/"><u>[New] In 2024, 8 Best Mirrorless Cameras for Vlogging</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-download-voice-log-inspect/"><u>[New] In 2024, Download Voice Log Inspect</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses/"><u>[Updated] Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/isoaomei/"><u>「ISO画像をパソコンディスクへ安全に保存する方法：AOMEIバックアップャー」</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhanced-user-experience-with-dynamic-content-via-ai-driven-analytics/"><u>Enhanced User Experience with Dynamic Content via AI-Driven Analytics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/finding-the-right-auto-repair-a-tale-of-skipping-reviews-with-chatgpt-plus/"><u>Finding the Right Auto Repair: A Tale of Skipping Reviews with ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hurricanes-or-just-bad-weather-understanding-the-difference/"><u>Hurricanes or Just Bad Weather?: Understanding the Difference</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-loongson-powered-dtx-boards-and-pcs-in-the-us-market-for-only-373-begin-your-high-performance-journey-today/"><u>Introducing Loongson Powered DTX Boards and PCs in the US Market for Only $373, Begin Your High-Performance Journey Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-wisdom-from-toms-tech-vault/"><u>Mastering Hardware Choices: Wisdom From Tom's Tech Vault</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-hardware-experts/"><u>Mastering Technology Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/motherboard-industry-soars-projected-sales-of-39-million-units-matching-pre-crisis-delivery-numbers/"><u>Motherboard Industry Soars: Projected Sales of 39 Million Units Matching Pre-Crisis Delivery Numbers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/overcome-raptor-lake-chips-crashing-woes-how-asus-introduces-baseline-profile-update-for-optimal-performance/"><u>Overcome Raptor Lake Chips' Crashing Woes: How Asus Introduces Baseline Profile Update for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-tech-advice-from-toms-hardware-resource/"><u>Precision Tech Advice From Tom's Hardware Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/prepare-for-the-future-how-pcie-60-tackles-heat-with-innovative-cooling-solutions/"><u>Prepare For The Future: How PCIe 6.0 Tackles Heat With Innovative Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pushing-boundaries-asrock-debuts-revolutionary-amd-ryzen-9000-boards/"><u>Pushing Boundaries: ASRock Debuts Revolutionary AMD Ryzen 9000 Boards</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-enable-sounds-for-cyberpunk-2077-in-windows-11-environment/"><u>Solution Guide: Enable Sounds for Cyberpunk 2077 in Windows 11 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-absence-of-vcruntime140dll-file-error/"><u>Troubleshooting Tips: Correcting the Absence of VCRUNTIME140.dll File Error</u></a></li>
 </ul></div>
 

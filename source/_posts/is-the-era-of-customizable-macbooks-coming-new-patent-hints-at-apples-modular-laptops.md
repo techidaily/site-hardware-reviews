@@ -1,7 +1,7 @@
 ---
 title: Is the Era of Customizable MacBooks Coming? New Patent Hints at Apple's Modular Laptops
-date: 2024-09-18 22:51:36
-updated: 2024-09-20 12:31:17
+date: 2024-12-05T00:50:22.463Z
+updated: 2024-12-06T19:32:23.998Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,26 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exceptional-20-no-license-pubg-images/"><u>[New] Exceptional 20 No-License PUBG Images</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-structured-writing-tactics-for-boosting-facebook-ad-performance-for-2024/"><u>[New] Structured Writing Tactics for Boosting Facebook Ad Performance for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-efficiently-using-look-up-tables-luts/"><u>[Updated] 2024 Approved The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixel-perfect-converter-max-resolution/"><u>2024 Approved Pixel Perfect Converter Max Resolution</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-computing-insights-the-toms-hardware-perspective/"><u>Advanced Computing Insights: The Tom's Hardware Perspective</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg3/"><u>Asus ROG Swift PG3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fix-for-the-absence-of-mingwm10dll-file-in-windows-systems/"><u>Comprehensive Fix for the Absence of mingwm10.dll File in Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-asus-rog-nuc-970-ultraportable-desktop-with-robust-performance/"><u>Comprehensive Review of the Asus ROG NUC 970 - Ultraportable Desktop with Robust Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-to-address-the-missing-mss32dll-error-on-your-computer/"><u>Effective Fixes to Address the Missing mss32.dll Error on Your Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-performance-to-new-heights-with-overclocked-crucial-c36-memory-sticks-a-ddr5-powerhouse-examined/"><u>Taking Performance to New Heights with Overclocked Crucial C36 Memory Sticks – A DDR5 Powerhouse Examined</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Insights - Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech: The Comprehensive Guide to Computer Hardware</u></a></li>
+</ul></div>
+

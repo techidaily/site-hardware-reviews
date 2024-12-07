@@ -1,7 +1,7 @@
 ---
 title: Top 98 Unbeatable Cyber Monday Bargains of 2022 - Explore Your Savings on ZDNet
-date: 2024-11-20T18:30:47.379Z
-updated: 2024-11-27T16:35:00.684Z
+date: 2024-12-03T20:38:00.062Z
+updated: 2024-12-06T19:24:24.695Z
 tags:
   - laptops
 categories:
@@ -18,7 +18,7 @@ Amazon
 Cyber Monday is finally here! Laptops are the first thing I think of today: I want the most affordable laptop with the best possible features. If you're in the same boat, there are three laptops to keep in mind that ring in for less than $1,000: [The MacBook Air with Apple's M1 chip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-13-inch-256GB-Storage%2Fdp%2FB08N5LNQCX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9726ad23-f28c-4202-9966-09e24683054e%7Cdtp&dtb=1) for $799 at Amazon (save $200), [the LG gram 17-inch laptop](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.costco.com/lg-gram-17%22-intel-evo-platform-laptop---12th-gen-intel-i7-1260p---2560-x-1600-display---windows-11.product.100971154.html) at Costco for $999 (save $500), and [the Latitude 7420 business laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fdeals.dell.com%2Fen-us%2Fproductdetail%2Ffqnp) at Dell for $889 (save $1,320). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,19 +79,19 @@ Dell has the [Latitude 7420](https://shop-links.co/link/?exclusive=1&publisher_s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>[New] 2024 Approved Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-dive-into-the-world-of-enhanced-youtube-content-with-premium-subscription-for-2024/"><u>[Updated] Dive Into the World of Enhanced YouTube Content with Premium Subscription for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-techniques-for-blurring-and-excising-picture-borders/"><u>[Updated] In 2024, Techniques for Blurring and Excising Picture Borders</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-examined-how-close-is-it-to-perfect-gaming-performance/"><u>Asus ROG Swift OLED PG32UCDP Examined - How Close Is It to Perfect Gaming Performance?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/photos-to-feeds-selecting-the-best-9-gear-upgrades-for-2024/"><u>From Photos to Feeds Selecting the Best 9 Gear Upgrades for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>In 2024, Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-store-in-depth-hardware-analysis-and-guides/"><u>Inside Tom's Computer Store: In-Depth Hardware Analysis and Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/is-it-worth-the-money-in-depth-review-of-upheret-c5c-and-d6sec-affordable-air-coolers/"><u>Is It Worth the Money? In-Depth Review of UpHere't C5C and D6Sec Affordable Air Coolers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-m34-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy M34 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution/"><u>Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/thorough-assessment-the-power-of-the-white-maxsun-terminator-z790m-d5-ice-atx-board-with-five-m2-connectors-reviewed/"><u>Thorough Assessment: The Power of the White Maxsun Terminator Z790M D5 Ice ATX Board with Five M.2 Connectors Reviewed</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/us-debut-of-the-latest-nickwatch-revealed-during-the-kcas/"><u>US Debut of the Latest NickWatch, Revealed During The KCAs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/vital-elements-for-choosing-the-right-network-equipment/"><u>Vital Elements for Choosing the Right Network Equipment</u></a></li>
-<li><a href="https://win-tips.techidaily.com/wie-man-hoe-gegevens-reinstalliert-und-beschadigte-partitionen-in-windows-11-behebt/"><u>Wie Man Hoe-Gegevens Reinstalliert Und Beschädigte Partitionen in Windows 11 Behebt</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-diving-deep-into-the-world-of-igtv-a-comprehensive-guide/"><u>[New] 2024 Approved Diving Deep Into the World of IGTV A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-frontier-gadgets-galore-top-10-vr-accessories/"><u>[New] In 2024, Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-leading-10-competitors-to-zoom-for-pc-and-phone-for-2024/"><u>[New] The Leading 10 Competitors to Zoom for PC & Phone for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>[Updated] 2024 Approved Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-timeless-treasures-unlocked-free-public-works/"><u>[Updated] In 2024, Timeless Treasures Unlocked Free Public Works</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-guide-to-zoom-use-on-windows-pcs-win10/"><u>2024 Approved A Step-by-Step Guide to Zoom Use on Windows PCs (Win10)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/antecs-p20c-high-airflow-chassis-now-at-a-steal-unbeatable-71-deal-on-top-tier-cases/"><u>Antec's P20C High-Airflow Chassis Now at a Steal: Unbeatable $71 Deal on Top-Tier Cases</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-insightful-guides-for-savvy-shoppers/"><u>Exploring Computer Hardware with Tom: Insightful Guides for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-with-toms-in-depth-reviews-and-buying-guides/"><u>Exploring Hardware with Tom's: In-Depth Reviews & Buying Guides</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/identifying-hacked-mobile-devices-essential-tips-and-tools-for-security-including-the-malwarefox-guide/"><u>Identifying Hacked Mobile Devices: Essential Tips & Tools for Security, Including the MalwareFox Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-drone-collection-available-now/"><u>In 2024, Ultimate Drone Collection Available Now</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782781-9781620550762-numerology/"><u>Numerology | Free Book</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneer-in-pc-analysis-unlocking-performance-with-toms-gear-reviews/"><u>Pioneer in PC Analysis - Unlocking Performance with Tom's Gear Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-choices-for-tiny-tower-tech-expert-recommendations-on-slim-case-selections/"><u>Top Choices for Tiny Tower Tech : Expert Recommendations on Slim Case Selections</u></a></li>
 </ul></div>
 

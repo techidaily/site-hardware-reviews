@@ -1,7 +1,7 @@
 ---
 title: "GameStop's Exceptional Bargain: A Deceptively Lucrative Opportunity | Tech Analysis by ZDNET"
-date: 2024-09-19 13:52:48
-updated: 2024-09-20 10:48:54
+date: 2024-12-04T19:08:50.398Z
+updated: 2024-12-07T02:56:34.560Z
 tags:
   - pc
 categories:
@@ -22,6 +22,10 @@ The latest version, [Linux Mint 21.1, Vera,](https://linuxmint.com/edition.php?i
 **Also:** [**2022 was secretly the year of Chromebooks. Here's why**](https://www.zdnet.com/article/2022-was-secretly-the-year-of-chromebooks-heres-why/)
 
 Linux Mint 21.1 is a comprehensive desktop operating system that includes everything you need for home and office work. It comes with [LibreOffice 7.3.7](https://blog.documentfoundation.org/blog/2022/11/03/libreoffice-7-3-7-community/) for office productivity, [Firefox 108.0.1](https://www.mozilla.org/en-US/firefox/108.0.1/releasenotes/) for web browsing, [Thunderbird 102.4.2](https://www.thunderbird.net/en-US/thunderbird/102.4.2/releasenotes/) for email and calendering, and [GIMP 2.10.30](https://www.gimp.org/news/2021/12/21/gimp-2-10-30-released/) for graphics editing. None of this will cost you a thin dime. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -88,11 +92,33 @@ So, if you want a holiday Linux project, or you're ready to kiss Windows goodbye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-prime-picks-for-high-quality-insta-tunes-and-secrets-on-how-to-make-a-noteworthy-chime/"><u>[New] Prime Picks for High-Quality Insta Tunes & Secrets on How to Make a Noteworthy Chime</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastery-in-muting-facebook-videos-mobilelaptop-for-2024/"><u>[Updated] Mastery in Muting Facebook Videos (Mobile/Laptop) for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-merge-visual-media-with-music-tracks-in-premiere-pro/"><u>[Updated] Merge Visual Media With Music Tracks in Premiere Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-vids-analysis-the-holistic-2023-guide/"><u>2024 Approved Twitter Vids Analysis The Holistic 2023 Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-free-premiere-pro-2023-templates/"><u>2024 Approved Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-your-favorites-anytime-the-leading-6-free-video-downloaders-for-2024/"><u>Access Your Favorites Anytime The Leading 6 Free Video Downloaders for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/d3400-spotlight-champion-of-affordable-dslrs/"><u>D3400 Spotlight: Champion of Affordable DSLRs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-tech-trends-with-toms-hardware-expertise/"><u>Discover the Latest Tech Trends with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-tech-a-deep-dive-into-hardware-by-tomsphere/"><u>Exploring Advanced Tech: A Deep Dive Into Hardware by TomSphere</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/green-consumerism/"><u>Green Consumerism</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-newly-launched-geekworm-x1011-network-storage-device/"><u>In-Depth Look at the Newly Launched GeekWorm X1011 Network Storage Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-insights/"><u>Navigating the World of Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ntegrating-the-ebook-format-since-space-may-be-limited-for-physical-books-in-urban-areas-offering-an-e-book-version-could-appeal-to-tech-savvy-city-dwellers4/"><u>Ntegrating the eBook Format: Since Space May Be Limited for Physical Books in Urban Areas, Offering an E-Book Version Could Appeal to Tech-Savvy City Dwellers Who Prefer Digital over Paper Copies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamlined-guide-5-efficient-windows-11-audio-recording-tips/"><u>Streamlined Guide 5 Efficient Windows 11 Audio Recording Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-stealth-approach-to-display-restriction/"><u>The Stealth Approach to Display Restriction</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-black-friday-offer-snag-lenovo-thinkpad-x1-extreme-gen-4-at-just-a-fraction-of-its-cost-exclusive-zdnet-insider-deal/"><u>Unbeatable Black Friday Offer: Snag Lenovo ThinkPad X1 Extreme Gen 4 at Just a Fraction of Its Cost - Exclusive ZDNET Insider Deal!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-lofree-edge-delicate-and-pricy-against-apples-magic-type-cover/"><u>Unboxing the Lofree Edge: Delicate and Pricy Against Apple’s Magic Type Cover</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-premium-gaming-performance-with-the-budget-friendly-acer-predator-orion-5000-reviewed/"><u>Unlocking Premium Gaming Performance with the Budget-Friendly Acer Predator Orion 5000 - Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-strongest-nvme-cooling-solution-on-the-market-the-ultimate-teamgroup-t-force-dark-airflow-i-heatsink-review/"><u>Unveiling the Strongest NVMe Cooling Solution on the Market - The Ultimate TeamGroup T-Force Dark AirFlow I Heatsink Review</u></a></li>
+</ul></div>
+

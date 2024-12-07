@@ -1,7 +1,7 @@
 ---
 title: "HP Launches Revolutionary New Portable AIO Desktop: Breaking Down The Latest Tech News"
-date: 2024-11-23T19:15:15.374Z
-updated: 2024-11-27T18:01:16.685Z
+date: 2024-12-01T23:53:41.377Z
+updated: 2024-12-07T01:18:50.423Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,22 +142,24 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-anime-based-short-clips-top-20-ideas-on-tiktok-for-2024/"><u>[Updated] Anime-Based Short Clips Top 20 Ideas on TikTok for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-premier-screenshot-applications-for-linux-users/"><u>[Updated] In 2024, The Premier Screenshot Applications for Linux Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/deception-navigating-false-subscriber-sells-for-2024/"><u>Deception Navigating False Subscriber Sells for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862816787-elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862805004-experience-next-level-gaming-on-a-budget-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-now-at-199/"><u>Experience Next-Level Gaming on a Budget: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor Now at $199</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-how-does-the-samsung-galaxy-fit-measure-up-for-athletes-and-daily-movers/"><u>Expert Review: How Does the Samsung Galaxy Fit Measure Up for Athletes & Daily Movers?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-spark-20c-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Spark 20C Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-youtubes-full-potential-top-6-tactics-for-improved-viewership-retention/"><u>In 2024, Unlock YouTube's Full Potential Top 6 Tactics for Improved Viewership Retention</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/msi-portable-pro-display-the-handheld-mp161-e2-lcd-screen/"><u>MSI Portable Pro Display: The Handheld MP161 E2 LCD Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-resolving-unrecoverable-directx-errors/"><u>The Ultimate Guide to Resolving Unrecoverable DirectX Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862771438-title-elevate-your-gaming-with-the-asus-rog-strix-xg27acs-a-review-of-its-dynamic-qhd-display-and-robust-accuracy/"><u>Title: Elevate Your Gaming with the Asus ROG Strix XG27ACS: A Review of Its Dynamic QHD Display and Robust Accuracy.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-smart-7-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Smart 7</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862790686-unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/urgent-alert-displayport-21-faces-critical-problems-with-uhbr-compatible-cables-why-nvidia-prefers-dp-14-for-rtx-40-series/"><u>Urgent Alert: DisplayPort 2.1 Faces Critical Problems With UHBR-Compatible Cables – Why NVIDIA Prefers DP 1.4 for RTX 40 Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/vaio-unveils-visionplus14-the-largest-and-lightest-portable-display-in-the-market/"><u>Vaio Unveils Vision+14: The Largest and Lightest Portable Display in the Market</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/viewsonic-va1nte-portable-monitor-evaluation-expected-performance-across-the-board/"><u>ViewSonic VA1nte Portable Monitor Evaluation: Expected Performance Across the Board</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-creation-to-consumption-posting-vids-on-twtplustumb/"><u>[Updated] 2024 Approved From Creation to Consumption Posting Vids on Twt+Tumb</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-filters-in-a-nutshell-get-them-right-this-year/"><u>[Updated] 2024 Approved Instagram Filters in a Nutshell Get Them Right This Year</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-the-pioneers-at-toms-hardware/"><u>Advanced Computing Tips From the Pioneers at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-34-curved-asus-tuf-display-now-just-249-on-amazon-gamers-deal/"><u>Affordable 34 Curved ASUS TUF Display Now Just $249 on Amazon – Gamer's Deal!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862838482-amazons-game-changer-34qhd-lg-ultragear-monitor-with-elite-g-sync-now-at-unbeatable-price-of-549/"><u>Amazon's Game Changer: 34QHD LG Ultragear Monitor with Elite G-Sync, Now at Unbeatable Price of $549!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-down-brilliance-the-ultimate-review-of-gigabyte-aorus-oled-monitor-true-to-life-colors-and-crisp-contrasts/"><u>Breaking Down Brilliance: The Ultimate Review of Gigabyte Aorus OLED Monitor - True-to-Life Colors & Crisp Contrasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/claim-your-100-off-alienwares-newest-addition-the-aw3225qf-gaming-masterpiece-immerse-in-quality-with-4k-qd-oled-visuals-and-240-hz-refresh/"><u>Claim Your $100 Off: Alienware's Newest Addition, The AW3^225QF Gaming Masterpiece - Immerse in Quality with 4K QD-OLED Visuals and 240 Hz Refresh</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-getting-started-with-your-brand-new-pc/"><u>Essential Steps: Getting Started with Your Brand-New PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-mastering-your-ipad-10-must-know-settings-and-tricks-for-apple-enthusiasts-featured/"><u>Expert Advice on Mastering Your iPad: 10 Must-Know Settings and Tricks for Apple Enthusiasts | Featured</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-do-evs-fare-against-severe-cold-or-scorching-heat/"><u>How Do EVs Fare Against Severe Cold or Scorching Heat?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-to-master-tracking-your-stuff-expert-review-of-the-apple-airtag-for-iphone-users/"><u>How to Master Tracking Your Stuff: Expert Review of the Apple AirTag for iPhone Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-v30-lite-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from V30 Lite 5G?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-a70-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel A70 Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862841548-level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/"><u>Level Up Your Game with Our Top-Pick Dell S3222DGM Gaming Display Now at an All-Time Low - Grab It for $229!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862838906-score-big-savings-with-a-sharp-fast-paced-gaming-screen-acer-nitro-27-for-under-150/"><u>Score Big Savings with a Sharp, Fast-Paced Gaming Screen – Acer Nitro 27 for Under $150!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862820475-score-the-best-deal-on-a-high-quality-gaming-screen-get-the-sceptre-24-inch-curved-monitor-at-just-79/"><u>Score the Best Deal on a High-Quality Gaming Screen - Get the Sceptre 24 Inch Curved Monitor at Just $79</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862835548-upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%!</u></a></li>
 </ul></div>
 

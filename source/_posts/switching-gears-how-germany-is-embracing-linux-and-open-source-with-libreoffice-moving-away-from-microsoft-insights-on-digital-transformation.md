@@ -1,7 +1,7 @@
 ---
 title: "Switching Gears: How Germany Is Embracing Linux & Open-Source with LibreOffice, Moving Away From Microsoft - Insights on Digital Transformation"
-date: 2024-09-17 18:22:35
-updated: 2024-09-20 10:37:53
+date: 2024-12-04T16:22:09.096Z
+updated: 2024-12-06T21:04:21.815Z
 tags:
   - pc
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 The Crucial T705 PCIe Gen5 NVMe M.2 SSD features a monster heatsink.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -36,6 +40,10 @@ This means that storage is now a key component to consider when you're exploring
 Over the past couple of weeks I've been testing Crucial's new [T705 PCIe Gen5 NVMe M.2 SSD](https://www.crucial.com/ssd/t705/CT1000T705SSD3), which the company touts as the world's fastest SSD. And yes, it _is_ blazingly fast -- if you have the hardware to handle it.
 
 [ZDNET RECOMMENDS Crucial T705 PCIe Gen5 NVMe M.2 SSD The T705 is a follow-on to the T700, and brings the following improvements: 18% higher sequential reads, 8% higher sequential writes, 4% higher random reads, and 20% higher random writes. View at Crucial](https://www.crucial.com/ssd/t705/CT1000T705SSD3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Crucial T705 Gen5 SSD specifications and highlights
 
@@ -103,6 +111,10 @@ Another key difference between the T700 and the T705 is that this new drive is c
 
 The Crucial T705 is slated for global release on March 12, 2024\. Pricing begins at $240 for the 1TB bare drive version, with the cost rising to $730 for the 4TB model equipped with a heatsink. The special limited edition, featuring a white heatsink and available only in a 2TB capacity, will be priced at $484.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 There are two types of people who will be looking at the Crucial T705\. 
@@ -138,11 +150,29 @@ If speed is your top priority, this drive is the ultimate choice. It also offers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-launching-your-first-telegram-marketing-campaign/"><u>[New] 2024 Approved Launching Your First Telegram Marketing Campaign</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-igtv-videos-iphone-and-android-download-guide-for-2024/"><u>[New] Mastering IGTV Videos IPhone & Android Download Guide for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-podcasts-versus-video-based-platforms-who-wins/"><u>[Updated] 2024 Approved Podcasts versus Video-Based Platforms – Who Wins?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-explore-the-top-10-websites-for-no-fee-images/"><u>2024 Approved Explore the Top 10 Websites for No-Fee Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/balancing-acts-understanding-the-importance-of-drone-stabilizers/"><u>Balancing Acts Understanding the Importance of Drone Stabilizers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-latest-atx-board-from-maxsun-the-stylish-high-capacity-z790m-d5-ice-with-5x-m2-options/"><u>Comprehensive Guide to The Latest ATX Board From Maxsun: The Stylish, High-Capacity Z790M D5 Ice with 5X M.2 Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computer-hardware-from-toms-resource-hub/"><u>Expert Insights Into Computer Hardware From Tom's Resource Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changer-in-depth-analysis-and-testing-of-the-lightning-fast-logiteche-g-pro-x-2-keyboard-perfect-for-hardcore-players/"><u>Game Changer: In-Depth Analysis and Testing of the Lightning-Fast Logiteche G Pro X 2 Keyboard - Perfect for Hardcore Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-permanently-disable-facebook-on-an-android-tablet-or-phone/"><u>How to Permanently Disable Facebook on an Android Tablet or Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfecting-slow-motion-cinematography-for-social-media-engagement-on-instagram/"><u>Perfecting Slow Motion Cinematography for Social Media Engagement on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/section-3b-five-factfacts-about-organizational-culture/"><u>Section 3B: Five Fact.facts About Organizational Culture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/p3-essentials-guide-10-online-converters-reviewed-for-2024/"><u>The MP3 Essentials Guide #10 Online Converters Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-in-depth-tech-reviews/"><u>Tom's Computer Components | In-Depth Tech Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-your-ultimate-guide-to-computer-components/"><u>Tom's Tech Reviews: Your Ultimate Guide to Computer Components</u></a></li>
+</ul></div>
+
