@@ -1,7 +1,7 @@
 ---
 title: "Battle of Powerhouses: How Our $4K Durable Laptop Challenges the Dell Latitude on Performance"
-date: 2024-12-01T01:45:32.112Z
-updated: 2024-12-06T19:12:56.643Z
+date: 2024-12-08T01:47:06.595Z
+updated: 2024-12-12T20:58:01.161Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,20 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-inspirations-for-streaming-topics/"><u>[New] In 2024, Fresh Inspirations for Streaming Topics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>[Updated] Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-look-at-gigabytes-aorus-co49dq-monitor-exceptional-color-vibrancy-and-sharp-contrast-ratio-reviewed/"><u>A Comprehensive Look at Gigabyte's Aorus CO49DQ Monitor: Exceptional Color Vibrancy and Sharp Contrast Ratio Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/broad-overview-delving-into-google-podcasts-application/"><u>Broad Overview Delving Into Google Podcasts Application</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-gadgets-and-systems-by-toms-hardware/"><u>Expert Analysis on Gadgets and Systems by Tom's Hardware</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-12-live-views-at-your-fingertips/"><u>In 2024, Exclusive 12 Live Views at Your Fingertips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor 70 Lite 5G</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/laughters-legacy-the-process-of-parody-film-making/"><u>Laughter's Legacy The Process of Parody Film-Making</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-with-tom-your-ultimate-guide-to-new-hardware/"><u>Navigating Technology with Tom - Your Ultimate Guide to New Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/netgears-value-proposition-with-the-orbi-770-mesh-router-balancing-price-point-and-performance/"><u>Netgear's Value Proposition with the Orbi 770 Mesh Router - Balancing Price Point and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-compute-module-4s-revolutionizing-industrial-automation-a-detailed-examination/"><u>Raspberry Pi Compute Module 4S: Revolutionizing Industrial Automation - A Detailed Examination</u></a></li>
-<li><a href="https://win-help.techidaily.com/step-by-step-guide-switch-your-pc-screen-saver-via-the-control-panel-tech-savvy-tips/"><u>Step-by-Step Guide: Switch Your PC Screen Saver via the Control Panel - Tech Savvy Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-igtvs-top-picks-for-next-weeks-feed-for-2024/"><u>[New] IGTV's Top Picks for Next Week's Feed for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content-for-2024/"><u>[Updated] Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-fight-to-the-end-nintendos-top-10-fighters-for-2024/"><u>[Updated] Fight to the End Nintendo's Top 10 Fighters for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-virtual-voice-inspiring-arvr-infused-quotations/"><u>[Updated] The Virtual Voice Inspiring AR/VR-Infused Quotations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-hostingers-services-virtual-private-servers-cloud-solutions-and-shared-hosting/"><u>Comprehensive Analysis of Hostinger's Services: Virtual Private Servers, Cloud Solutions & Shared Hosting</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/essential-tactics-mastering-a-second-or-third-language-online/"><u>Essential Tactics: Mastering a Second (or Third) Language Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-unlink-lively-logos-from-your-profile-mobilepc-for-2024/"><u>How to Unlink Lively Logos From Your Profile (Mobile/PC) for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a05s-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A05s to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-technical-hurdles-to-enjoy-store-downloads/"><u>Overcoming Technical Hurdles to Enjoy Store Downloads</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-anycub-(datetime)kobra-3-revolutionizing-3d-printing-with-multicolor-capabilities/"><u>Review of Anycub <DateTime>Kobra 3 - Revolutionizing 3D Printing with Multicolor Capabilities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revolutionary-ios-gaming-apples-best-vr-apps-for-2024/"><u>Revolutionary iOS Gaming Apple's Best VR Apps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-hardware/"><u>Tom's Tech Hub - The Ultimate Guide to Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-hardware-solutions/"><u>Tom's Ultimate Guide to Cutting-Edge Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-performance-secrets-toms-authoritative-hardware-reviews/"><u>Unlocking Performance Secrets: Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-digital-tools-top-picks-from-toms-comprehensive-hardware-guide/"><u>Unveiling Digital Tools: Top Picks From Tom’s Comprehensive Hardware Guide</u></a></li>
 </ul></div>
 

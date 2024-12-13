@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Purchasing Superior Electronic Notebooks – Authoritative Assessments | CNET
-date: 2024-11-29T20:43:56.194Z
-updated: 2024-12-07T03:26:30.906Z
+date: 2024-12-09T02:24:18.552Z
+updated: 2024-12-13T03:51:59.247Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,24 +112,18 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-transform-your-webcam-footage-edit-and-export-tips/"><u>[New] Transform Your WebCam Footage Edit & Export Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mac-audio-tools-for-effective-classroom-capture/"><u>[Updated] In 2024, Mac Audio Tools for Effective Classroom Capture</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-high-end-drones-expert-buyers-choices-top-5/"><u>2024 Approved High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-f34-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy F34 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-x-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone X With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722894483241-how-to-successfully-terminate-your-active-status-on-tiktok/"><u>How to Successfully Terminate Your Active Status on TikTok</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>In 2024, GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-yuva-3-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Yuva 3 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-blaze-curve-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Blaze Curve 5G Without PUK Codes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/phison-dominates-with-the-latest-high-speed-e29t-pcie-40-ssd-controller-showcase-at-fms-2024/"><u>Phison Dominates with the Latest High-Speed E29T PCIe 4.0 SSD Controller Showcase at FMS 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-sk-hynix-pcie-gen5-ssd-unveiled-the-new-platinum-p51-faster-performance-reduced-idle-energy-consumption/"><u>Revolutionary SK Hynix PCIe Gen5 SSD Unveiled: The New Platinum P51 - Faster Performance, Reduced Idle Energy Consumption</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sk-hynixs-top-performing-in-house-created-pcie-50-ssd-launches-meet-the-power-efficient-and-speedy-platinum-p51/"><u>SK Hynix's Top-Performing In-House Created PCIe 5.0 SSD Launches – Meet the Power Efficient and Speedy Platinum P51</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/team-group-debuts-revolutionary-tech-in-taiwan-next-gen-pcie-50-ssds-for-enhanced-ai-performance-innovative-ssd-coolers-and-new-bluetooth-tag-featured-porta3/"><u>Team Group Debuts Revolutionary Tech in Taiwan: Next-Gen PCIe 5.0 SSDs for Enhanced AI Performance, Innovative SSD Coolers & New Bluetooth Tag Featured Portable Drive at Computex 202N4</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/the-best-ai-translator-to-translate-videos-online/"><u>The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-pc-hardware-expert-tips-from-toms-hardware/"><u>The Complete Guide to PC Hardware - Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-todays-latest-gadgets/"><u>Tom's Tech Review: In-Depth Analysis of Today's Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis-t17238642572196/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-into-latest-computer-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights Into Latest Computer Hardware</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fix-fixed-no-more-obs-camera-issues/"><u>[New] 2024 Approved Fix Fixed No More OBS Camera Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-snapshot-survival-guide-top-recorders-evaluated/"><u>[Updated] In 2024, SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862822842-amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862826163-dells-high-resolution-qhd-ips-gaming-monitor-only-1ebaseandamppaged0-at-this-price/"><u>Dell's High-Resolution QHD IPS Gaming Monitor: Only $1Ebase=&amp;paged=0 at This Price!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862816787-elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862829005-experience-crystal-clear-visuals-with-the-27-qhd-ips-samsung-odyssey-g50a-now-priced-at-a-bargain-255-on-amazon/"><u>Experience Crystal Clear Visuals with the 27 QHD IPS Samsung Odyssey G50A - Now Priced at a Bargain $255 on Amazon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862836417-grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-assessing-your-needs-selecting-the-optimal-4k-camera-lens/"><u>In 2024, Assessing Your Needs Selecting the Optimal 4K Camera Lens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-the-art-of-time-extension-creating-stunningly-slow-mo-video-online/"><u>Master the Art of Time Extension Creating Stunningly Slow-Mo Video Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/storytelling-with-style-making-instagram-text-dance/"><u>Storytelling with Style Making Instagram Text Dance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-potential-with-gpts-my-bots-in-board-games-and-creation/"><u>Unleash Your Potential with GPT's My Bots in Board Games & Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-adding-a-docking-station-to-your-laptop-the-ultimate-guide/"><u>Why You Should Consider Adding a Docking Station to Your Laptop: The Ultimate Guide</u></a></li>
 </ul></div>
 

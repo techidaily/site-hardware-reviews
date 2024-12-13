@@ -1,7 +1,7 @@
 ---
 title: "Durable Toughness Unleashed: Witness How This Ultra-Rugged Laptop Survived a Head-On Impact - Insights From ZDNet"
-date: 2024-11-21T16:32:19.073Z
-updated: 2024-11-27T17:21:45.656Z
+date: 2024-12-09T20:43:11.297Z
+updated: 2024-12-12T20:55:22.076Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Cesar Cadenas/ZDNET
 And for one of the best qualities of this laptop: battery life is absolutely phenomenal. I [performed our usual test](https://www.zdnet.com/article/how-we-test-laptops/) of running a YouTube livestream at 720p and 50% brightness. At its peak, the Surface Pro lasted just under 13 hours on a single charge. That's just shy of Microsoft's purported 14-hour battery life. In practical usage, this is a device that will easily last multiple days on a single charge. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,21 +122,24 @@ Prices for the device start at $999.99\. My review unit with the 12-core Snapdra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-breaking-boundaries-with-6-top-rated-nft-services/"><u>[New] Breaking Boundaries with 6 Top-Rated NFT Services</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-12-ideal-video-cameras-for-aspiring-and-seasoned-vloggers/"><u>[Updated] 2024 Approved 12 Ideal Video Cameras for Aspiring and Seasoned Vloggers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash/"><u>2024 Approved Instant Guide Photos to Powerful YouTube Channel Thumbnails in a Flash</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341707175-approach-recall-the-initial-stage-of-planning-for-land-division/"><u>Approach: Recall the Initial Stage of Planning for Land Division.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-tuf-gaming-a14-laptop-analysis-unveiling-quiet-durability/"><u>Asus TUF Gaming A14 Laptop Analysis: Unveiling Quiet Durability</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-a-music-career-15-essential-video-tutorials-for-artists/"><u>Crafting a Music Career 15 Essential Video Tutorials for Artists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-sound-functionality-when-no-audio-device-is-found-on-windows-os/"><u>Guide to Restoring Sound Functionality When No Audio Device Is Found on Windows OS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>In 2024, Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/local-gardening-events/"><u>Local Gardening Events</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/stepwise-approach-implementing-luts-in-adobes-premiere-suite-for-2024/"><u>Stepwise Approach Implementing LUTs in Adobe's Premiere Suite for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-future-is-now-a-deep-dive-into-lian-li-hydroshift-lcd-360s-casing-innovations/"><u>The Future Is Now: A Deep Dive Into Lian Li Hydroshift LCD 360S Casing Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-comprehensive-guide-to-computer-hardware/"><u>Tom's Tech Hub: Comprehensive Guide to Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Top Computer Components</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-full-circle-clips-iphone-filming-tips/"><u>[New] In 2024, Mastering Full-Circle Clips IPhone Filming Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-c67-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme C67 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/be-a-part-of-the-buzz-top-10-tiktok-tests/"><u>Be a Part of the Buzz Top 10 TikTok Tests</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-bargains-on-dell-school-supplies-and-tech-gear-this-labor-day-monitors-laptops-included-zdnet/"><u>Best Bargains on Dell School Supplies & Tech Gear This Labor Day - Monitors, Laptops Included! | ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/encapsulate-powerpoint-visuals-in-media-for-2024/"><u>Encapsulate PowerPoint Visuals in Media for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-official-method-to-unlock-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Official Method to Unlock Your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-a-step-up-worth-it-ps5-versus-enhanced-ps4-pro/"><u>Is a Step Up Worth It? PS5 Versus Enhanced PS4 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-print-conflicts-in-windows-1011/"><u>Resolving Print Conflicts in Windows 10/11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/struggling-with-weak-wifi-signal-try-this-essential-checklist-before-upgrading-your-router/"><u>Struggling with Weak Wifi Signal? Try This Essential Checklist Before Upgrading Your Router</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-external-drives-why-theyre-indispensable-even-with-cloud-backup-options/"><u>The Essential Guide to External Drives: Why They're Indispensable Even With Cloud Backup Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-rise-of-horizontal-pc-cases-as-the-ultimate-choice-in-motherboard-enclosures-insights-revealed/"><u>The Rise of Horizontal PC Cases as the Ultimate Choice in Motherboard Enclosures – Insights Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-11-essential-smart-home-setups-a-must-have-guide-for-every-household/"><u>Top 11 Essential Smart Home Setups: A Must-Have Guide for Every Household</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-7-technology-items-to-avoid-purchasing-this-season/"><u>Top 7 Technology Items to Avoid Purchasing This Season</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-microsd-cards-ranked-buyers-guide/"><u>Top MicroSD Cards Ranked : Buyer's Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-printers-a-comprehensive-guide/"><u>Top Rated Laptop Printers : A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-laser-engraving-machines-of-2024/"><u>Top Rated Laser Engraving Machines of 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-dslr-photography-gear/"><u>Top-Ranking DSLR Photography Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-laptop-enhancements-the-ultimate-guide/"><u>Top-Rated Laptop Enhancements: The Ultimate Guide</u></a></li>
 </ul></div>
 

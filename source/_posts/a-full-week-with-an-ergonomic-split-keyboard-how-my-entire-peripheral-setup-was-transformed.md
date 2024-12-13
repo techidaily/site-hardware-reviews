@@ -1,7 +1,7 @@
 ---
 title: A Full Week with an Ergonomic Split Keyboard - How My Entire Peripheral Setup Was Transformed
-date: 2024-11-20T16:35:13.773Z
-updated: 2024-11-27T16:04:41.514Z
+date: 2024-12-06T01:58:51.623Z
+updated: 2024-12-12T17:48:14.524Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://www.zdnet.com/a/img/resize/b25db0a5e0e02074d08a797f57ffab39b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -111,7 +111,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -150,22 +150,17 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-comprehensive-look-at-youtube-shorts-template-design/"><u>[New] A Comprehensive Look at YouTube Shorts Template Design</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-sonicscope-in-depth-auditory-evaluation/"><u>[New] SonicScope In-Depth Auditory Evaluation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>[Updated] 2024 Approved Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ethical-practices-for-accumulating-over-a-million-video-engagements-for-2024/"><u>[Updated] Ethical Practices for Accumulating Over A Million Video Engagements for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/analysis-and-thoughts-on-the-stylish-mid-century-inspired-keychron-k2-he-keyboard/"><u>Analysis & Thoughts on the Stylish Mid-Century Inspired Keychron K2 HE Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-clevetura-clvx-1-wireless-keyboard-analysis-tactile-feedback-evaluation/"><u>Comprehensive Clevetura CLVX 1 Wireless Keyboard Analysis - Tactile Feedback Evaluation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprender-los-codigos-de-datos-una-guia-completa-al-codec/"><u>Comprender Los Códigos De Datos: Una Guía Completa Al Códec</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-anycubic-kobra-3-pioneering-multi-color-printing-technology/"><u>In-Depth Analysis of the Anycubic Kobra 3: Pioneering Multi-Color Printing Technology</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-on-gadgets-by-toms-hardware-experts/"><u>In-Depth Analysis on Gadgets by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-your-tech-journey-with-precision-on-tomgearguide-comprehensive-hardware-insights/"><u>Navigate Your Tech Journey with Precision on TomGearGuide – Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-hostgators-offerings-an-authoritative-review-of-their-vps-and-shared-hosting-solutions/"><u>Navigating HostGator's Offerings: An Authoritative Review of Their VPS and Shared Hosting Solutions</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/quick-methods-to-completely-remove-email-from-iphone-accounts/"><u>Quick Methods to Completely Remove Email From iPhone Accounts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-stop-content-warning-from-frequently-crashing-on-your-computer/"><u>Step-by-Step Guide to Stop 'Content Warning' From Frequently Crashing on Your Computer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-pinnacle-of-nvme-thermal-solutions-expert-review-on-teamgroups-dark-airflow-i-ssd-cooler/"><u>The Pinnacle of NVMe Thermal Solutions: Expert Review on TeamGroup's Dark AirFlow I SSD Cooler</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/trusted-picks-best-5-videographer-software-tools-for-2024/"><u>Trusted Picks Best 5 Videographer Software Tools for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-the-secrets-of-high-performance-components-at-toms-computer-corner/"><u>Unlock the Secrets of High-Performance Components at Tom's Computer Corner</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-compress-webm-videos-with-ease-top-online-tools/"><u>Updated In 2024, Compress WebM Videos with Ease Top Online Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-troubleshooting-a-non-operational-obs-video-capture/"><u>[New] Troubleshooting a Non-Operational OBS Video Capture</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-drone-wizardry-and-the-mavic-pro-breakdown/"><u>[Updated] 2024 Approved Drone Wizardry and the Mavic Pro Breakdown</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-master-your-videos-on-ms-video-central-for-2024/"><u>[Updated] Master Your Videos on MS Video Central for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easily-solved-how-to-stop-your-division-2-game-from-crashing/"><u>Easily Solved: How to Stop Your Division 2 Game From Crashing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-future-of-gaming-cases-the-phanteks-xt-pro-ultra-packed-with-advanced-lighting-and-superior-ventilation/"><u>Explore the Future of Gaming Cases: The Phanteks XT Pro Ultra, Packed with Advanced Lighting & Superior Ventilation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capture-the-essence-choose-from-these-top-9-gif-recipes-for-windows/"><u>In 2024, Capture the Essence Choose From These Top 9 GIF Recipes for Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-f14-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy F14 5G FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-store-expert-insights-on-technology-gadgets/"><u>Inside Tom's Hardware Store: Expert Insights on Technology Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-review-the-compact-fractal-pc-case-featuring-elegant-wood-design-and-customizable-backrest/"><u>Interactive Review: The Compact Fractal PC Case Featuring Elegant Wood Design and Customizable Backrest</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premier-screen-grabbers-premium-video-selections-for-2024/"><u>Premier Screen Grabbers Premium Video Selections for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionizing-photos-through-automated-hdr-techniques/"><u>Revolutionizing Photos Through Automated HDR Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Components</u></a></li>
 </ul></div>
 

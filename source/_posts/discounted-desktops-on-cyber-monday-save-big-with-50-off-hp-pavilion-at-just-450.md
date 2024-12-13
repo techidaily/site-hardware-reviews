@@ -1,7 +1,7 @@
 ---
 title: Discounted Desktops on Cyber Monday - Save Big with 50%% Off HP Pavilion at Just $450
-date: 2024-11-22T17:50:23.692Z
-updated: 2024-11-27T16:58:21.380Z
+date: 2024-12-05T19:19:54.518Z
+updated: 2024-12-12T20:40:36.542Z
 tags:
   - laptops
 categories:
@@ -42,7 +42,7 @@ This laptop isn't solely for business professionals, though. It's well-rounded e
 Right now is the best time to buy the [Lenovo Gen 12 ThinkPad X1 Carbon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D1D5J1J1%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8c2efc8-16b6-4af0-9981-a5b640401ae3%7Cdtp&dtb=1) since it's currently on sale at Amazon for $1,500 -- $1,000 off the original price. I should also mention that there is a variant of the laptop with a 2.8K OLED display, which is the model [I tested back in February](https://www.zdnet.com/article/the-thinkpad-i-recommend-for-hybrid-workers-is-not-lenovos-newest-model/). The [OLED version](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkPad-Processor-Touchscreen-Performance%2Fdp%2FB0D5SNKGZ4%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc8c2efc8-16b6-4af0-9981-a5b640401ae3%7Cdtp&dtb=1) is much more expensive, but I recommend it as an alternative if you can afford it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -79,21 +79,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-transition-tactics-your-youtube-videos-on-instagram/"><u>[Updated] 2024 Approved Transition Tactics Your YouTube Videos on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-heroblack-vs-yi-4k-updates-gopro-and-yi-showcase-their-best/"><u>[Updated] HeroBlack Vs. Yi 4K Updates - GoPro and Yi Showcase Their Best</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-why-every-keysnobber-awaits-the-keychron-q1-he-an-exhaustive-review-of-this-top-tier-mechanical-keyboard/"><u>Discover Why Every Keysnobber Awaits the Keychron Q1-HE: An Exhaustive Review of This Top-Tier Mechanical Keyboard</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-your-hp-stream-drives-with-one-click/"><u>Download & Update Your HP Stream Drives with One Click!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-to-address-ocidll-errors-on-your-pc-how-to/"><u>Easy Fixes to Address OCI.DLL Errors on Your PC - How To</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-your-cordless-mouse-stopping-unpredictably-in-windows-1110-environments/"><u>How to Resolve Your Cordless Mouse Stopping Unpredictably in Windows 11/10 Environments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-why-the-logitech-g-pro-x-2-lightspeed-is-essential-for-hardcore-gamers/"><u>In-Depth Review: Why the Logitech G Pro X 2 Lightspeed Is Essential for Hardcore Gamers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/recovering-your-missing-texts-and-reminders-from-an-iphone-easily/"><u>Recovering Your Missing Texts and Reminders From an iPhone Easily</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-a-deep-dive-into-the-strengths-and-weaknesses-of-the-cooler-master-ion-amoled-liquid-cpu-cooler-moving-forward-with-caution/"><u>Taking a Deep Dive Into the Strengths and Weaknesses of the Cooler Master ION Amoled Liquid CPU Cooler: Moving Forward with Caution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-by-toms-hardware/"><u>Tom's Tech Insights: The Ultimate Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-top-hardware/"><u>Tom's Tech Review: In-Depth Analysis of Top Hardware</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-rated-television-streaming-devices-the-ultimate-guide-to-enhancing-your-home-entertainment/"><u>Top-Rated Television Streaming Devices: The Ultimate Guide to Enhancing Your Home Entertainment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-disappearing-mouse-on-windows-11-effective-solutions-unveiled/"><u>Troubleshooting Your Disappearing Mouse on Windows 11: Effective Solutions Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-users-manual-for-understanding-ipados-evolution/"><u>Ultimate User's Manual for Understanding iPadOS Evolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-a-look-at-toms-hardware-findings/"><u>Unveiling the Latest in Electronics - A Look at Tom's Hardware Findings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/water-conservation/"><u>Water Conservation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-masterclass-in-instagram-designing-eye-catching-cover-images/"><u>[New] In 2024, Masterclass in Instagram Designing Eye-Catching Cover Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-strategic-steps-for-sky-high-insta-video-view-counts-for-2024/"><u>[New] Strategic Steps for Sky-High Insta Video View Counts for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-get-royalty-free-clip-art-in-2024/"><u>[Updated] How to Get Royalty Free Clip Art, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-step-by-step-guide-to-perfecting-tiktok-broadcast-on-zoom/"><u>[Updated] In 2024, Step-by-Step Guide to Perfecting TikTok Broadcast on Zoom</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-pushing-boundaries-with-innovative-instagram-content-for-2024/"><u>[Updated] Pushing Boundaries with Innovative Instagram Content for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860013606-2024-approved-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>2024 Approved Essential Offline iOS Game List - Unplugged Fun Awaits!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-the-art-of-eye-catching-fb-ad-content/"><u>2024 Approved Mastering the Art of Eye-Catching FB Ad Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-tiktok-facebook-content-exchange/"><u>Navigating the TikTok-Facebook Content Exchange</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pop-up-logitech-casa-desk-performance-analysis-topnotch-keyboard-and-trackpad-with-subpar-casing/"><u>Pop-Up Logitech Casa Desk Performance Analysis: Topnotch Keyboard & Trackpad with Subpar Casing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revamping-the-amd-ryzen-5000-series-the-allyn-x-review-and-future-desires/"><u>Revamping the AMD Ryzen 5000 Series: The Allyn X Review & Future Desires</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-of-cherry-xtrfy-k5v2-keyboard-innovative-red-switches-shine/"><u>Review of Cherry XTRFY K5V2 Keyboard: Innovative Red Switches Shine</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/schnelle-und-sichere-erstellung-von-windows-server-2022-wiederherstellungs-drive-tipps-and-tricks/"><u>Schnelle Und Sichere Erstellung Von Windows Server 2022 Wiederherstellungs-Drive - Tipps & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-updating-the-software-on-your-airpods/"><u>Step-by-Step Guide: Updating the Software on Your AirPods</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-tutorial-on-how-to-factory-reset-ipod-airpods-series-for-optimal-performance/"><u>Step-by-Step Tutorial on How To Factory Reset iPod AirPods Series for Optimal Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-travel-companion-tp-links-all-in-one-portable-wifi-hub/"><u>The Ultimate Travel Companion: TP-Link's All-in-One Portable WiFi Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-6-causes-of-overspending-on-graphics-processing-units-gpus/"><u>Top 6 Causes of Overspending on Graphics Processing Units (GPUs)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-7-frequently-asked-battery-faqs-answering-your-most-common-queries/"><u>Top 7 Frequently Asked Battery FAQs - Answering Your Most Common Queries</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-wireless-sound-systems-the-ultimate-guide-to-the-finest-portable-speakers/"><u>Top-Ranking Wireless Sound Systems - The Ultimate Guide to the Finest Portable Speakers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-battlenet-launcher-issues-on-windows-pcs/"><u>Troubleshooting Guide: Fixing 'Battle.net Launcher' Issues on Windows PCs</u></a></li>
 </ul></div>
 

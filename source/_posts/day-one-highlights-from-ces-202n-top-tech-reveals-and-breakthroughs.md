@@ -1,7 +1,7 @@
 ---
 title: "Day One Highlights From CES 202N: Top Tech Reveals and Breakthroughs"
-date: 2024-11-21T17:07:30.081Z
-updated: 2024-11-27T17:11:29.373Z
+date: 2024-12-06T01:23:53.089Z
+updated: 2024-12-12T19:15:41.411Z
 tags:
   - laptops
 categories:
@@ -20,13 +20,13 @@ The first day of [CES 2023](https://www.zdnet.com/topic/ces-2023-the-biggest-tre
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [![CES 2023](https://www.zdnet.com/a/img/resize/28650a75dc1dd673042c63db5be340811e6ef8a4/2023/01/03/6f86bbf0-d65d-4f16-a4f2-699dfdc83419/ces-2023-header.jpg?auto=webp&fit=crop&frame=1&height=238.5&width=459) CES 2023: The Biggest Trends for Pros Find all the exciting innovation from CES 2023 in this ZDNET special feature.  Read now](https://www.zdnet.com/topic/ces-2023-the-biggest-trends-for-pros/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Set to run through Sunday, Jan. 8, the weeklong conference is when most major tech companies announce [new innovations for consumers](https://www.zdnet.com/article/ces-2023-preview-4-big-questions-that-will-shape-the-week/). 
 
@@ -44,6 +44,10 @@ Once long-rumored, at last it's now here: The GeForce RTX 40 series GPU has come
 
 **Read more:** [Nvidia's latest Studio Laptop series showcases its fastest, most powerful GPUs](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Also announced: In-car gaming
 
 Nvidia
@@ -51,10 +55,6 @@ Nvidia
 If you're tired of the kids complaining about not having their video games on road trips, Nvidia's GeForce Now is partnering with BYD, Hyundai, and Polestar to integrate the cloud service into cars. The cloud service will allow family members to game in the backseat on the go.
 
 **Read more:** [Nvidia's GeForce Now gaming service is coming to cars](https://www.zdnet.com/article/nvidias-geforce-now-gaming-service-is-coming-to-cars-to-make-rides-more-entertaining/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Acer announces new gaming Predator and Nitro laptops
 
@@ -64,10 +64,6 @@ From the new Acer Nitro 16 and 17 to the Predator Helios 16 and 18 laptops, Acer
 
 **Read more:** [Acer's CES 2023 gaming lineup boasts high-end laptops, big and fast monitors](https://www.zdnet.com/home-and-office/home-entertainment/acers-ces-2023-gaming-lineup-boasts-high-end-laptops-big-and-fast-monitors/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## LG adds upgraded OLED TV panels
 
 LG
@@ -76,15 +72,15 @@ The first of the major tech companies to reveal a new TV during CES, LG didn't d
 
 **Read more:** [LG announces new C, G, and Z OLED TV lineups at CES 2023](https://www.zdnet.com/home-and-office/home-entertainment/lgs-2023-tv-lineup-c3-g3-z3-models/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Intel's 13th gen family expands
 
 Intel
 
 Intel may have [dropped the new flagship CPU last September](https://www.zdnet.com/article/how-intel-is-upgrading-everything-about-itself-and-its-products/), but that didn't stop the company from debuting a deluge of speedy new processors today. You'll see the largest improvements in laptops' and chromebooks' chipsets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Evie debuts a wearable smart ring for women
 
@@ -94,10 +90,6 @@ Also dropping today is the Evie Ring, a wearable that is en route to be the firs
 
 **Read more:** [The Evie Ring may have a grip on women's wellness other wearables don't](https://www.zdnet.com/article/ces-2023-movano-health-unveils-the-evie-ring/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung adds new OLED and 8K monitors for gamers
 
 Samsung
@@ -106,11 +98,19 @@ Ahead of Samsung's First Look event tonight, the tech company announced new addi
 
 **Read more:** [Samsung's Odyssey G9 gaming monitor family to add OLED, 8K models](https://www.zdnet.com/home-and-office/home-entertainment/samsungs-odyssey-g9-gaming-monitor-family-adds-oled-8k-models/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Also announced: Samsung upgrades its TV lines
 
 Samsung
 
 In addition to the Odyssey G9 monitors, Samsung also dropped a plethora of home entertainment TVs, including the QN900C 8K QLED TV, S95C 4K QLED, and S95C 4K OLED panels. For lifestyle-oriented consumers, Samsung also revealed the latest iterations of the Freestyle, The Premium, and The Frame models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GE Cync has a new Dynamic Effects line
 
@@ -154,17 +154,24 @@ In the meantime, be sure to check back tomorrow to get the scoop on more announc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screen-recording-mastery-with-lenovo-gear/"><u>[Updated] In 2024, Screen Recording Mastery with Lenovo Gear</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/constructive-methods-for-muting-users/"><u>Constructive Methods for Muting Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-the-features-of-rode-streamer-pro-x-could-this-be-the-answer-to-your-cinematic-challenges/"><u>Delving Into The Features Of Rode Streamer Pro X - Could This Be the Answer to Your Cinematic Challenges?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-hostingers-offerings-a-deep-dive-into-vps-cloud-platforms-and-shared-hosting-options/"><u>Evaluating Hostinger's Offerings: A Deep Dive Into VPS, Cloud Platforms, and Shared Hosting Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-bring-back-windows-10-file-explorer-functionality-on-windows-11-systems/"><u>How to Bring Back Windows 10 File Explorer Functionality on Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-master-zooming-on-your-iphoneipad-a-step-by-step-guide/"><u>How to Master Zooming on Your iPhone/iPad: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/immersive-color-and-lightning-speed-an-insiders-look-at-the-unmatched-performance-of-philips-evonia-gaming-display-model-49m2c8900-240hz-oled/"><u>Immersive Color & Lightning Speed: An Insider's Look at the Unmatched Performance of Philips Evonia Gaming Display, Model 49M2C8900 (240Hz OLED)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-link-up-in-the-world-of-instagram/"><u>In 2024, How-To Link Up in the World of Instagram</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-the-world-of-gadgets-with-toms-hardware-experts/"><u>Master the World of Gadgets with Tom’s Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341754699-preventive-measures-such-as-protective-eyewear-can-significantly-reduce-the-risk-of-ocular-trauma/"><u>Preventive Measures Such as Protective Eyewear Can Significantly Reduce the Risk of Ocular Trauma.</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/pating-success-key-points-to-music-short-videos-on-youtube-for-2024/"><u>Syncopating Success Key Points to Music Short Videos on YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tutoriel-complet-pour-maximiser-les-fonctionnalites-du-logiciel-winxdvd-guide-dutilisation-detailed/"><u>Tutoriel Complet Pour Maximiser Les Fonctionnalités Du Logiciel WinXDVD: Guide D'Utilisation Detailed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-expert-advice-on-iphone-ringtones-and-customization/"><u>[New] 2024 Approved Expert Advice on iPhone Ringtones & Customization</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-resource-audio-recommendations-for-unboxing-content-creators/"><u>[Updated] In 2024, Ultimate Resource Audio Recommendations for Unboxing Content Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-slow-motion-mastery-in-snapchat-tips-and-tricks-for-2024/"><u>[Updated] Slow Motion Mastery in Snapchat Tips & Tricks for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-snaps-with-precision-boomerang-techniques/"><u>2024 Approved Elevate Snaps with Precision Boomerang Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-hardware-guidance-by-toms-technology-blog-unveiling-the-latest-innovations/"><u>Advanced Hardware Guidance by Tom's Technology Blog: Unveiling the Latest Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-5-8600g-cpu-gpu-combo-sale-save-big-with-181-pricing-on-amazon/"><u>AMD Ryzen #5 8600G CPU-GPU Combo Sale - Save Big with $181 Pricing on Amazon</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-video-editing-tools-using-images/"><u>Best Video Editing Tools Using Images</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparative-analysis-camm2-memory-modules-vs-traditional-dimms-benchmarking-kingstons-ddr5-72nsec-c38-camm2/"><u>Comparative Analysis: CAMM2 Memory Modules Vs. Traditional DIMMs - Benchmarking Kingston's DDR5-72n/Sec, C38 CAMM2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-and-macbook-air-key-distinctions-explored/"><u>Comparing iPad Pro & MacBook Air: Key Distinctions Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-tom-comprehensive-hardware-insights-and-guides/"><u>Exploring Computer Gear with Tom: Comprehensive Hardware Insights and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-tech-with-tom-your-ultimate-resource-for-cutting-edge-hardware-insights/"><u>Exploring Tech with Tom: Your Ultimate Resource for Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-11-pro-max-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 11 Pro Max Apple ID on MacBook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-scriptwriting-secrets-for-a-captivating-and-authentic-storyline/"><u>In 2024, Scriptwriting Secrets for a Captivating and Authentic Storyline</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-intels-latest-arc-a76na-graphics-card-unleashing-high-performance-aaa-gaming-on-the-go-for-your-vehicle-with-advanced-xe-cores-ample-memory-and-11/"><u>Introducing Intel's Latest Arc A76nA Graphics Card: Unleashing High-Performance 'AAA Gaming on the Go' For Your Vehicle with Advanced Xe-Cores, Ample Memory & Efficient Power Draw</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964479571-most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/protect-personal-information-on-iphone-using-professional-delete-tool/"><u>Protect Personal Information on iPhone Using Professional Delete Tool</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-your-guide-to-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Your Guide to the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-cutting-edge-hardware-t17239718723911/"><u>Tom's Tech Reviews: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
 </ul></div>
 

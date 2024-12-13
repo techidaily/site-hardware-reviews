@@ -1,7 +1,7 @@
 ---
 title: "Maximizing MacOS Capacity: Expert Tips for Enhanced Hard Drive Management | ZDNet"
-date: 2024-11-20T17:07:06.123Z
-updated: 2024-11-27T17:31:50.787Z
+date: 2024-12-09T22:19:15.412Z
+updated: 2024-12-13T01:29:33.107Z
 tags:
   - laptops
 categories:
@@ -49,7 +49,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Optimize Storage
@@ -57,7 +57,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 **What you'll need:** The only thing you'll need for this is a device running MacOS. I'll demonstrate the process on a MacBook Pro, running MacOS Ventura 13.5.2\. Make sure your OS is updated so you have all the most recent security patches and any new features Apple has added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Settings
@@ -73,7 +73,7 @@ To access System Settings, you can either go through this menu or open it from t
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Storage settings
@@ -85,7 +85,7 @@ You'll see the General option in the left-side navigation.
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Optimize Storage
@@ -134,16 +134,15 @@ And that's all there is to optimizing the storage of your MacOS device. If you p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gigglegraphics-eyecatchermemes/"><u>[New] GiggleGraphics EyeCatcherMemes</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-acquiring-free-music-youtube-video-edition-for-2024/"><u>[Updated] Acquiring Free Music YouTube Video Edition for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-list-free-youtube-gallery-downloader-tools/"><u>[Updated] In 2024, Ultimate List Free YouTube Gallery Downloader Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725285888063-dvd/"><u>手ブレーカーガイド：DVD/動画からの高画質変換・設定方法</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-free-m-audio-fast-track-ultra-driver-enhanced-audio-interface/"><u>Download Free M-Audio Fast Track Ultra Driver - Enhanced Audio Interface</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-cutting-edge-devices-on-toms-electronic-workshop/"><u>Explore Cutting-Edge Devices on Tom's Electronic Workshop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-tech-with-tom-the-definitive-guide-to-computer-peripherals/"><u>Inside Tech with Tom: The Definitive Guide to Computer Peripherals</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-high-tech-hardware-with-insights-from-toms-hub/"><u>Navigating High-Tech Hardware with Insights From Tom's Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sovol-sv0-user-how-does-the-sovol-sv08-pay-tribute-to-its-voron-heritage/"><u>Sovol SV0# User: How Does the Sovol SV08 Pay Tribute to Its Voron Heritage?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-comprehensive-hardware-reviews/"><u>Tom's Tech Advisor: Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>[Updated] 2024 Approved The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elite-6-most-watched-shorter-video-repositories-for-2024/"><u>[Updated] Elite 6 Most Watched Shorter Video Repositories for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-metaversal-journey-versus-omniverse-quest-for-2024/"><u>[Updated] Metaversal Journey Versus Omniverse Quest for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/bandicam-vs-obs-studio-ultimate-showdown-and-detailed-comparison/"><u>Bandicam vs OBS Studio - Ultimate Showdown & Detailed Comparison</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-reviews-top-picks-and-insights/"><u>Exploring Tom's Tech Reviews: Top Picks & Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-s17-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo S17 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-insights-by-tom-exploring-advanced-technology-hardware/"><u>Innovative Gadget Insights by Tom - Exploring Advanced Technology Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-generation-hbm-manufacturing-set-to-launch-at-new-memory-fab-by-sk-hynix-in-indiana-a-387-billion-dollar-venture/"><u>Next Generation HBM Manufacturing Set to Launch at New Memory Fab by SK Hynix in Indiana - A 3.87 Billion Dollar Venture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/rapidpace-timefreeze-film/"><u>RapidPace TimeFreeze Film</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/teamgroup-t-force-vulcan-alpha-ddr5-memory-c38-review-the-perfect-match-for-amd-ryzen-7000-series/"><u>TeamGroup T-Force Vulcan Alpha DDR5 Memory (C38) Review – The Perfect Match for AMD Ryzen 7000 Series</u></a></li>
 </ul></div>
 

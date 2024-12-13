@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Seasoned Microsoft Enthusiast | ZDNet"
-date: 2024-12-02T21:25:34.422Z
-updated: 2024-12-07T00:40:19.142Z
+date: 2024-12-07T21:00:02.221Z
+updated: 2024-12-13T03:51:47.330Z
 tags:
   - laptops
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -91,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -101,10 +101,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -141,10 +137,6 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -158,7 +150,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -173,7 +165,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,19 +212,24 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-conquer-the-canvas-of-nature-mastering-iphone-sky-photography/"><u>[New] Conquer the Canvas of Nature Mastering iPhone Sky Photography</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-from-playtime-to-prestige-capturing-sims-mastery/"><u>[New] From Playtime to Prestige Capturing Sims Mastery</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-learn-video-editing-made-simple-mastering-movie-maker-on-w11/"><u>[New] Learn Video Editing Made Simple Mastering Movie Maker on W11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-perfect-package-presentation-transformative-openings-for-2024/"><u>[New] Perfect Package Presentation Transformative Openings for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-hacks-create-a-vintage-vhs-look-for-2024/"><u>Final Cut Pro Hacks Create a Vintage VHS Look for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/la-sequence-du-lundi-au-dimanche/"><u>La Séquence Du Lundi Au Dimanche</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/spectacular-gaming-screen-bargain-acer-nitro-34-curved-wqhd-monitor-for-just-200-on-newegg/"><u>Spectacular Gaming Screen Bargain – Acer Nitro 34 Curved WQHD Monitor for Just $200 on Newegg.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-performance-analysis/"><u>Tom's Tech Insights: Expert Gadget Reviews and Performance Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-gadget-analysis/"><u>Tom's Tech Reviews: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer & Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-cutting-edge-hardware-by-toms-technology-digest/"><u>Ultimate Guide to Cutting-Edge Hardware by Tom's Technology Digest</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-acquire-and-setup-windows-xp-movie-creator/"><u>[New] Acquire & Setup Windows XP Movie Creator</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-speedy-tiktok-video-performance-a-step-by-step-plan/"><u>[Updated] Speedy TikTok Video Performance A Step-by-Step Plan</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-frauds-exposed-the-top-5-scams-to-recognize-and-dodge/"><u>ChatGPT Frauds Exposed: The Top 5 Scams to Recognize and Dodge</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques/"><u>In 2024, Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/level-up-your-game-with-discounted-lenovo-legion-immersive-experience-rtx-graphics-and-crystal-clear-240-hz-visuals-at-unbeatable-prices/"><u>Level Up Your Game with Discounted Lenovo Legion: Immersive Experience, RTX Graphics & Crystal-Clear 240 Hz Visuals at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-in-pc-and-components-expert-advice-from-toms-digital-world/"><u>Master the Latest in PC and Components - Expert Advice From Tom’s Digital World</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-iphone-ringtone-updates-for-2024/"><u>Mastering iPhone Ringtone Updates for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/morse-coding-laptop-accessory-master-typing-with-just-a-dash-of-hinge-slamming-beware-of-potential-wear-and-tear/"><u>Morse-Coding Laptop Accessory: Master Typing with Just a Dash of Hinge Slamming - Beware of Potential Wear and Tear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-tech-innovations-with-toms-authoritative-hardware-reviews/"><u>Navigating Tech Innovations with Tom's Authoritative Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-guides/"><u>Navigating the World of Electronics with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-wisdom-from-toms-hardware-experts/"><u>Navigating the World of Gadgets – Wisdom From Tom's Hardware Experts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-smartest-way-to-improve-phone-voices-on-android-a-list-of-the-best-7-editing-apps-for-2024/"><u>New The Smartest Way to Improve Phone Voices on Android A List of the Best 7 Editing Apps for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/qualcomms-game-changing-snapdragon-processors-in-dell-xps-13-plus-achieving-twice-the-battery-life-at-half-the-price-of-intel-options/"><u>Qualcomm's Game-Changing Snapdragon Processors in Dell XPS 13 Plus: Achieving Twice the Battery Life at Half the Price of Intel Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/razer-blade-18-premium-laptop-for-professionals-featuring-nvidias-geforce-rtx-4090-graphics-card-priced-at-4799/"><u>Razer Blade 18: Premium Laptop for Professionals Featuring Nvidia's GeForce RTX 4090 Graphics Card, Priced at $4,799</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revamped-tech-blueprint-superior-laptop-performance-boost-with-intel-core-ultra-and-new-generation-ryzen-cpus/"><u>Revamped Tech Blueprint: Superior Laptop Performance Boost with Intel Core Ultra & New Generation Ryzen CPUs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/steinberg-ympd-installer-guide/"><u>Steinberg YMPD Installer Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-streaming-disneyplus-on-your-chromecast-device/"><u>Step-by-Step Guide: Streaming Disney+ on Your Chromecast Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/lueprint-for-success-livestreaming-ultra-wide-video-content-on-youtube/"><u>The Blueprint for Success Livestreaming Ultra-Wide Video Content on YouTube</u></a></li>
 </ul></div>
 

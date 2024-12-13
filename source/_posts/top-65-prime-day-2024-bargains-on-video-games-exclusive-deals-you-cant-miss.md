@@ -1,7 +1,7 @@
 ---
 title: Top 65 Prime Day 2024 Bargains on Video Games - Exclusive Deals You Can't Miss!
-date: 2024-12-05T22:41:56.489Z
-updated: 2024-12-07T01:12:54.062Z
+date: 2024-12-09T18:45:37.773Z
+updated: 2024-12-12T23:40:36.534Z
 tags:
   - laptops
 categories:
@@ -88,10 +88,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -105,10 +101,6 @@ ZDNET
 * [Logitech G915 Lightspeed mechanical gaming keyboard for $160 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Mechanical-Keyboard-Tactile%2Fdp%2FB07NY9ZRZG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C707926cb-8910-434b-a942-2f194496435c%7Cdtp&dtb=1): A low-profile mechanical gaming keyboard with 2.4GHz and Bluetooth wireless connectivity.
 * [Arcade1Up Attack From Mars electronic pinball table for $499 (save $150)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FArcade-William-Bally-Attack-Mars-Pinball%2Fdp%2FB0998S48N2%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C707926cb-8910-434b-a942-2f194496435c%7Cdtp&dtb=1): A fully-digital pinball table featuring a classic William Bally "Attack From Mars" theme.
 * [Arcade1Up Street Fighter II Champion Turbo Legacy Edition cabinet for $399 (save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FARCADE1UP-Capcom-Fighter-Champion-Machine%2Fdp%2FB0B94VCWG3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C707926cb-8910-434b-a942-2f194496435c%7Cdtp&dtb=1): A Wi-Fi enabled, retro-inspired arcade cabinet featuring 14 different games to play head-to-head against online players or friends in-person.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
 
@@ -126,7 +118,7 @@ ZDNET
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
@@ -147,6 +139,10 @@ ZDNET
 * [Logitech G920 racing wheel with pedals for $230 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLogitech-G920-Driving-Force-Racing-Wheel-and-Floor-Pedals-for-Xbox-Series-X-S-Xbox-One-PC-Mac-Black%2F49071785%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Designed for hardcore racing sim enthusiasts, the Logitech G920 gives you a real-world driving experience with a 3-pedal board and near-life sized steering wheel with shifter paddles for precision racing.
 * [Dragon's Dogma 2 standard edition for $44 (save $23 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDragon-s-Dogma-2-Xbox-Series-X%2F5262667261%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An action RPG sequel to 2012's Dragon's Dogma featuring a deep class system and skill tree, AI-controlled squad mates for taking on tougher enemies and large-scale battles, and a day-night cycle that changes creature encounters and their strength.
 * [Join Xbox Game Pass Ultimate for $1 (then $19.99 per month)](https://www.xbox.com/en-US/xbox-game-pass#join): Get access to hundreds of PC and Xbox Series X|S games for cloud gaming support, monthly free games, and exclusive discounts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals
 
@@ -172,6 +168,10 @@ Nintendo/ZDNET
 * [Pokemon Shining Pearl for $45 (save $15)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals
 
@@ -210,12 +210,20 @@ Samsung/ZDNET
 * [AOC AG27 27-inch monitor for $600 (save $450 at B&H Photo, deal ends Oct 5)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1741859-REG%2Faoc%5Fag274qzm%5F27%5F16%5F9%5Fqhd.html): This 27-inch IPS monitor has 1440p resolution, a 240Hz refresh rate, a 1ms response time, and Nvidia G-Sync VRR support.
 * [Acer Predator X27U for $680 (save $320 at B&H Photo)](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1772478-REG%2Facer%5Fum%5Fhxxaa%5F001%5Fpredator%5Fx27u%5F27%5Fgaming.html%2Fspecs): A 27-inch gaming monitor with a 240Hz refresh rate, 1440p resolution, a 0.03ms response time, and support for AMD FreeSync Premium Pro VRR.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day PC gaming accessories deals
 
 * [SanDisk Extreme Pro 4TB portable SSD for $340 (save $138 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsandisk-extreme-pro-portable-4tb-external-usb-c-nvme-ssd-black%2F6522095.p%3FskuId%3D6522095&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An ultra-tough portable SSD compatible with Windows and Mac computers and backed by a 5-year warranty.
 * [WD EasyStore 20TB external HDD for $330 (save $119)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fwd-easystore-20tb-external-usb-3-0-hard-drive-black%2F6500985.p%3FskuId%3D6500985&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An external traditional HDD with 20TB of storage for backing up your entire desktop, storing raw video and picture files, and downloading large game files.
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals
 
@@ -225,17 +233,9 @@ Samsung/ZDNET
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### When is Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, will run through October 8 and 9\. Some brands may offer discounts and coupons ahead of the official sale. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) are running their own, rival sales at the same time. Which is great news for anyone who likes to compare discounts and prices to make sure they're getting the absolute best deal possible. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
@@ -275,15 +275,18 @@ I only chose deals on games that have been critically and commercially well-rece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-boost-engagement-with-effective-wirecast-broadcasts-on-fb-for-2024/"><u>[New] Boost Engagement with Effective Wirecast Broadcasts on FB for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hps-omnibook-ultra-14-the-future-of-laptop-innovation-with-integrated-amd-ryzen-ai-300-chipset-and-top-notch-thunderbolt-4-speed/"><u>HP's OmniBook Ultra 14: The Future of Laptop Innovation with Integrated AMD Ryzen AI 300 Chipset & Top-Notch Thunderbolt 4 Speed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-8-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 8 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-editing-made-easy-with-lunapic-for-first-timers/"><u>In 2024, Editing Made Easy with LunaPic For First-Timers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-guide-to-quick-screen-captures-on-mac-using-shortcuts/"><u>In 2024, Expert Guide to Quick Screen Captures on Mac Using Shortcuts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-toms-authoritative-take-on-tech-advanceby-tom/"><u>Mastering Equipment: Tom's Authoritative Take on Tech Advanceby Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-innovations-with-detailed-reviews-from-toms-domain/"><u>Mastering Modern Tech Innovations with Detailed Reviews From Tom's Domain</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-and-gadgets-with-wisdom-from-toms-electronic-oasis/"><u>Mastering Your PC and Gadgets with Wisdom From Tom's Electronic Oasis</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-sound-problems-in-youtube-overcoming-audio-renderer-errors-on-windows-11/"><u>Troubleshoot Sound Problems in YouTube: Overcoming Audio Renderer Errors on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-cult-of-the-lamb-pc-crashes/"><u>Troubleshooting Steps: Resolving Cult of the Lamb PC Crashes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-nights-tale-videos-critical-take/"><u>2024 Approved Night's Tale Videos Critical Take</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719577475324-accelerated-tagalog-learning-a-simple-daily-routine/"><u>Accelerated Tagalog Learning - A Simple Daily Routine!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-magnetic-appeal-of-keychrons-k2-he-special-edition-a-mid-century-marvel-in-action/"><u>Exploring the Magnetic Appeal of Keychron's K2 HE Special Edition - A Mid-Century Marvel in Action</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-woodsman-to-wanderer-a-detailed-analysis-of-minecrafts-adventure-inspired-campfire-tales-skin-line/"><u>From Woodsman to Wanderer: A Detailed Analysis of Minecraft's Adventure-Inspired Campfire Tales Skin Line</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-zenbook-s16-with-amds-ryzen-5-8600h-processor/"><u>In-Depth Analysis of the Asus Zenbook S16 with AMD's Ryzen 5 8600H Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/performance-meets-serenity-in-the-levelplay-combat-air-ca4-our-complete-cpu-cooler-review/"><u>Performance Meets Serenity in the Levelplay Combat Air CA4 - Our Complete CPU Cooler Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/review-and-analysis-of-sovol-sv08-the-ultimate-voron-inspired-bike/"><u>Review & Analysis of Sovol SV08 - The Ultimate Voron-Inspired Bike</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revolutionize-your-green-space-with-the-best-solar-garden-irrigation-solutions-of-this-year/"><u>Revolutionize Your Green Space with the Best Solar Garden Irrigation Solutions of This Year!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-transforming-epub-files-into-microsoft-word-documents-docx/"><u>Step-by-Step Guide: Transforming EPUB Files Into Microsoft Word Documents (DOCX)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-to-stop-v-rising-from-freezing-or-crashing/"><u>Step-by-Step Solutions to Stop V Rising From Freezing or Crashing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/streamlined-audio-processing-in-windows-media-player/"><u>Streamlined Audio Processing in Windows Media Player</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-rated-adata-backup-software-of-2024-ultimate-review/"><u>Top Rated ADATA Backup Software of 2024: Ultimate Review</u></a></li>
 </ul></div>
 

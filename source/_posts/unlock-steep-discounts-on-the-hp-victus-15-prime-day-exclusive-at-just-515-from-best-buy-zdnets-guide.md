@@ -1,7 +1,7 @@
 ---
 title: "Unlock Steep Discounts on the HP Victus 15: Prime Day Exclusive at Just $515 From Best Buy – ZDNet's Guide!"
-date: 2024-11-24T16:42:13.132Z
-updated: 2024-11-27T16:05:57.595Z
+date: 2024-12-05T22:36:51.089Z
+updated: 2024-12-12T16:26:48.836Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,17 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-excellent-easytime-timer-services/"><u>[New] 2024 Approved Excellent EasyTime Timer Services</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-video-shine-techniques-for-clearer-visuals/"><u>[New] 2024 Approved YouTube Video Shine Techniques for Clearer Visuals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unveiling-the-simplicity-of-storytelling/"><u>[New] Unveiling the Simplicity of Storytelling</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-identifying-the-best-online-tv-service-providers/"><u>[Updated] 2024 Approved Identifying the Best Online TV Service Providers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-optimizing-color-depth-and-gradients-for-obs/"><u>[Updated] Optimizing Color Depth and Gradients for OBS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-g54-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola G54 5G Device SIM</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-compact-form/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR - Unmatched Color Precision in a Compact Form</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-destination-comprehensive-gear-evaluations/"><u>Inside Tom's Tech Destination: Comprehensive Gear Evaluations</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/insiders-choice-selecting-the-superior-screen-recorder/"><u>Insider’s Choice Selecting the Superior Screen Recorder</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performer-showdown-in-depth-review-of-gigabytes-high-end-aorus-fo32u2p-monitor-with-ultra-4k-240hz-visual-splendor/"><u>Top-Performer Showdown: In-Depth Review of Gigabyte's High-End Aorus FO32U2P Monitor with Ultra 4K, 240Hz Visual Splendor</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-team-efficiency-the-best-language-learning-apps/"><u>Unlocking Team Efficiency: The Best Language Learning Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-shine-through-the-game-fixes-for-dark-capture-by-obs/"><u>[New] 2024 Approved Shine Through the Game Fixes for Dark Capture by OBS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-digital-identity-crafting-a-convenient-metaverse-approach/"><u>[New] Digital Identity Crafting A Convenient Metaverse Approach</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-tech-in-snap-capture/"><u>[New] Leading Tech in Snap Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterworks-of-screenwriting-by-thematic-quarters/"><u>[Updated] Masterworks of Screenwriting by Thematic Quarters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-the-top-10-stealthy-story-audiences/"><u>In 2024, Unveiling the Top 10 Stealthy Story Audiences</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-epson-scanner-driver-updates-free-download-options/"><u>Latest Epson Scanner Driver Updates - Free Download Options</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-hardware-with-tom-your-ultimate-guide/"><u>Navigating Computer Hardware with Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide-to-tech-innovations/"><u>Tom's Computer Review: The Ultimate Guide to Tech Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-t17239718716137/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unshakable-imagery-techniques/"><u>Unshakable Imagery Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

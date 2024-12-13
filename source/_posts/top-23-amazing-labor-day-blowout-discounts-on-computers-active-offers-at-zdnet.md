@@ -1,7 +1,7 @@
 ---
 title: Top 23 Amazing Labor Day Blowout Discounts on Computers - Active Offers at ZDNet
-date: 2024-12-03T02:18:56.261Z
-updated: 2024-12-06T17:51:52.010Z
+date: 2024-12-10T17:51:03.603Z
+updated: 2024-12-13T00:07:50.897Z
 tags:
   - laptops
 categories:
@@ -100,7 +100,7 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More October Prime Day 2024 gaming deals
@@ -134,10 +134,6 @@ ZDNET
 * [Gran Turismo 7 standard edition for $41 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGran-Turismo-7-PlayStation-5%2F443954076%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The definitive racing sim is back on PS5 with an all-new solo campaign, over 420 cars to unlock, and over 90 tracks to master.
 * [Dead Island 2 standard edition for $20 (save $27 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FDead-Island-2-PlayStation-5%2F5212541857%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Hack and slash your way through Hell-A as one of 6 characters as you fight to survive the hordes of zombies and escape the city with your friends alive.
 * [Madden NFL 25 for $48 (save $23)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMadden-NFL-25-PlayStation-5%2Fdp%2FB0D3PGHSM3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb662dba8-6b2d-475c-892e-8f5b404df949%7Cdtp&dtb=1): The latest entry in the popular franchise features physics-based tackling, a rebalanced player system, and refreshed franchise mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -193,7 +189,7 @@ Kyle Kucharski/ZDNET
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
@@ -222,6 +218,10 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $160 (save $60 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-06-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -233,7 +233,7 @@ Samsung/ZDNET
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -249,7 +249,7 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
@@ -317,24 +317,24 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-detecting-changes-in-your-instagram-network/"><u>[New] Detecting Changes in Your Instagram Network</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade/"><u>[Updated] 2024 Approved Revolutionize Video Files with Instant FB to MP4 & HD Upgrade</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-20-essential-youtube-tips-for-optimal-engagement/"><u>[Updated] Top 20 Essential YouTube Tips for Optimal Engagement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-expert-analysis-and-reviews-for-avid-hardware-enthusiasts/"><u>[Your Brand Name] – Expert Analysis & Reviews for Avid Hardware Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/2024s-ultimate-ssd-deals-guide-find-the-lowest-prices-for-1tb-2tb-and-4tb-storage-drives/"><u>2024'S Ultimate SSD Deals Guide: Find the Lowest Prices for 1TB, 2TB & 4TB Storage Drives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/6-tecnicas-confirmadas-para-reparar-midias-protegidas-em-computadores-com-windows-11macos-mantendo-a-qualidade-original-do-dvd/"><u>6 Técnicas Confirmadas Para Reparar Mídias Protegidas Em Computadores Com Windows 11/macOS Mantendo a Qualidade Original Do DVD</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/active-cooling-live-demonstration-experience-doubled-durability-and-performance-with-freezetechs-airjet-ssd/"><u>Active Cooling Live Demonstration: Experience Doubled Durability & Performance with FreezeTech's Airjet SSD</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-130-music-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia 130 Music</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/metamorphose-gratuite-de-fichier-flv-en-format-3gp-sur-internet-decouvrez-les-services-de-movaflip/"><u>Métamorphose Gratuite De Fichier FLV en Format 3GP Sur Internet - Découvrez Les Services De MovaFlip</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-picks-best-ssd-and-hdd-offers/"><u>Top Picks: Best SSD & HDD Offers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-notch-tech-insights-from-toms-review-hub/"><u>Top-Notch Tech Insights From Tom's Review Hub</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-the-missing-dciman32dll-file-with-these-expert-tips/"><u>Troubleshoot the Missing dciman32.dll File with These Expert Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-affordable-solid-state-drives-and-hard-disk-drives-in-202/"><u>Ultimate Guide to Affordable Solid State Drives & Hard Disk Drives in 202</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-prime-day-offerings-save-big-with-4tb-ssds-for-only-four-pennies-per-gb-in-a-spectacular-storage-sale-event/"><u>Unbeatable Prime Day Offerings: Save Big with 4TB SSDs for Only Four Pennies per GB in a Spectacular Storage Sale Event</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-pc-building-with-toms-equipment-insights/"><u>Unveiling the Secrets of PC Building with Tom’s Equipment Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/us-court-battle-ymtc-vs-micron-over-intellectual-property-rights-alleging-infringement-of-eleven-patents-from-chinas-memory-sector/"><u>US Court Battle: YMTC Vs. Micron Over Intellectual Property Rights, Alleging Infringement of Eleven Patents From China's Memory Sector</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/verstehen-sie-die-speicherung-von-minecraft-screenshots-methoden-zur-wiederherstellung-verlorener-bilder/"><u>Verstehen Sie Die Speicherung Von Minecraft-Screenshots - Methoden Zur Wiederherstellung Verlorener Bilder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-industry-insights-top-10-handheld-hd-playback-units/"><u>[New] 2024 Approved Industry Insights Top 10 Handheld HD Playback Units</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-best-ps5-and-xbox-gaming-monitors/"><u>[New] In 2024, Unveiling the Best PS5 & Xbox Gaming Monitors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-distinguishing-between-youtube-policies-and-cc-clauses-for-2024/"><u>[Updated] Distinguishing Between YouTube Policies and CC Clauses for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/balance-your-shots-best-camera-stabilizers-reviewed/"><u>Balance Your Shots Best Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-enhance-a-step-by-step-tutorial-for-dell-screen-drivers/"><u>Download and Enhance: A Step-by-Step Tutorial for Dell Screen Drivers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-solutions-overcoming-warzones-directx-hurdles-within-4-simple-steps/"><u>Effortless Solutions: Overcoming Warzone's DirectX Hurdles Within 4 Simple Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-advanced-screen-tech-samsung-revamps-odyssey-and-launches-ai-smart-supported-viewflex-series/"><u>Experience Advanced Screen Tech: Samsung Revamps Odyssey & Launches AI Smart Supported ViewFlex Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-rich-colors-on-a-budget-high-definition-dell-ips-gaming-screen-at-only-199-available-now/"><u>Experience Rich Colors on a Budget: High-Definition Dell IPS Gaming Screen at Only $199 Available Now</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-clarity-and-speed-with-tcls-newest-innovation-a-4k-monitor-at-1000hz/"><u>Experience Unmatched Clarity & Speed with TCL's Newest Innovation - A 4K Monitor at 1,000Hz</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-analysis-by-tom-stay-ahead-with-our-guides/"><u>Expert Hardware Analysis by Tom - Stay Ahead with Our Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eyoyo-em105-105-compact-travel-screen-unbeatable-bargain-for-on-the-go-productivity/"><u>EYOYO EM105 10.5 Compact Travel Screen: Unbeatable Bargain for On-the-Go Productivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-shift-lg-ramps-up-mass-production-of-stunning-oleds-as-top-pick-for-latest-dell-xps-13-screen/"><u>Groundbreaking Shift: LG Ramps Up Mass Production of Stunning OLEDs as Top Pick for Latest Dell XPS 13 Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/musique-a-linternational-convertisseur-movavi-pour-changer-de-langue-avec-precision/"><u>Musique À L'international : Convertisseur Movavi Pour Changer De Langue Avec Précision</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/powerpoint-presentations-enhancing-clarity-with-voiceovers/"><u>PowerPoint Presentations Enhancing Clarity with Voiceovers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-mirror-screen-problem-in-windows-11/"><u>Solving Mirror Screen Problem in Windows 11</u></a></li>
 </ul></div>
 

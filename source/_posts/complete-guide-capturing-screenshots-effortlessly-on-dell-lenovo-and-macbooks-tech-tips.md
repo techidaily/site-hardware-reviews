@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Capturing Screenshots Effortlessly on Dell, Lenovo & MacBooks | Tech Tips"
-date: 2024-12-01T02:29:45.500Z
-updated: 2024-12-07T01:23:30.268Z
+date: 2024-12-07T03:25:52.597Z
+updated: 2024-12-12T21:33:28.097Z
 tags:
   - laptops
 categories:
@@ -26,15 +26,19 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
@@ -64,10 +68,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -82,13 +82,13 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -103,7 +103,7 @@ Michael Gariffo/ZDNET
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Is there an easy way to record video of my laptop screen too?
@@ -115,7 +115,7 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
@@ -157,18 +157,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-live-stream-on-youtube-gaming-in-2024/"><u>[Updated] How to Live Stream on YouTube Gaming, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-improve-your-youtube-description-using-amazing-templates-for-2024/"><u>[Updated] Improve Your YouTube Description Using Amazing Templates for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-cuts-select-best-6-video-editing-apps-for-mac-big-sur/"><u>[Updated] Next-Gen Cuts Select Best 6 Video Editing Apps for Mac Big Sur</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pixiz-guide-to-blending-photography-and-motion/"><u>2024 Approved The Pixiz Guide to Blending Photography and Motion</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-turn-your-youtube-shorts-into-a-stream-of-income/"><u>2024 Approved Turn Your YouTube Shorts Into a Stream of Income</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/compresseur-video-ultra-haute-definition-reduire-de-90-la-taille-des-fichiers-en-4k-8k-and-plus/"><u>Compresseur Vidéo Ultra Haute Définition : Réduire De 90% La Taille Des Fichiers en 4K, 8K & Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-visit-toms-hardware-hub/"><u>Discover the Latest in Computing - Visit Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/flsun-s1-evaluation-rapid-warp-performance-and-unique-delta-design/"><u>FLSun S1 Evaluation: Rapid-Warp Performance & Unique Delta Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/immunosuppression/"><u>Immunosuppression</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-pc-setups-through-toms-hardware-insights/"><u>Navigating Advanced PC Setups Through Tom's Hardware Insights</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/transforming-your-tiktok-presence-with-exceptional-photos/"><u>Transforming Your TikTok Presence with Exceptional Photos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-toms-hardware-hub/"><u>Unveiling Gadgets with Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-expert-tips-from-toms-systems/"><u>Unveiling the Latest in Computer Hardware with Expert Tips From Tom's Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-master-list-essential-6-fb-lite-downloads/"><u>[New] 2024 Approved Master List Essential 6 FB Lite Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-essential-blueprint-setting-up-your-first-xbox-recorder/"><u>[New] 2024 Approved The Essential Blueprint Setting Up Your First Xbox Recorder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/prinkle-some-joy-incorporating-emojis-into-youtube-discussions-for-2024/"><u>[New] Sprinkle Some Joy Incorporating Emojis Into Youtube Discussions for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-use-markers-in-video-recording-and-editing/"><u>[Updated] In 2024, How to Use Markers in Video Recording and Editing?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advance-your-chatgpt-interaction-with-these-1-9-must-have-addons/"><u>Advance Your ChatGPT Interaction with These #1-#9 Must-Have Addons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/boost-your-raspberry-pis-storage-with-low-cost-high-speed-hatdrive-by-pineboards/"><u>Boost Your Raspberry Pi's Storage with Low-Cost, High-Speed HatDrive by Pineboards</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discover-the-ultimate-free-subtitles-convertors/"><u>Discover the Ultimate Free Subtitles Convertors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-m34-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy M34 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-cutting-edge-technology-at-toms-hardware/"><u>In-Depth Analysis of Cutting-Edge Technology at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-overheating-check-out-our-thorough-review-of-the-levelplay-combat-air-ca4-cpu-cooler/"><u>Mastering PC Overheating? Check Out Our Thorough Review of the Levelplay Combat Air CA4 CPU Cooler</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-tech-wisdom/"><u>Navigating the World of Computer Hardware with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-computer-gear-by-tech-authority-toms-hardware/"><u>The Essential Guide to Computer Gear by Tech Authority, Tom's Hardware</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-to-turbocharge-safari-on-iphones-for-lightning-fast-browsing/"><u>Tips to Turbocharge Safari on iPhones for Lightning-Fast Browsing</u></a></li>
 </ul></div>
 

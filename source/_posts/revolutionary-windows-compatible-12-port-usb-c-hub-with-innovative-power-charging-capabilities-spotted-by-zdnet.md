@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Windows-Compatible, 12-Port USB-C Hub with Innovative Power Charging Capabilities - Spotted by ZDNet
-date: 2024-11-21T18:15:00.039Z
-updated: 2024-11-27T16:02:52.777Z
+date: 2024-12-07T00:24:45.158Z
+updated: 2024-12-12T23:05:22.667Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Jack Wallen/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -45,7 +45,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 [ZDNET Recommends Baseus 140W Portable Charger This portable charger packs a 24000mAh battery for plenty of charges. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBaseus-Portable-Charger-24000mAh-Charging%2Fdp%2FB0CH8D2YHZ%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3594bbf8-78b1-4bd7-99c3-66ac94315a67%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The specs
@@ -60,7 +60,7 @@ One of the banks I received to review was from the company, Baeseus. Baeseus has
 * 18-month warranty.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My experience
@@ -88,7 +88,7 @@ One thing to keep in mind is that I charged the tablet with the slower-charged U
 According to the specs, the power bank allows for fast charging of an iPhone 15 Pro Max to 56% and a MacBook Pro 16" laptop to 55% in just 30 minutes. My MacBook Pro is a 13" with an M1 chip and I was able to go from 63-100% in about 20 minutes. Of course, using the fast charge with the MacBook Pro alone consumed about 25% of the charge from the bank. It's pretty easy to conclude that if you're only charging phones, you'll get even more life from a full charge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -127,24 +127,22 @@ Although it took considerable time to get this bank to a full charge, the result
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-identifying-the-best-iphone-watermarks-a-complete-guide/"><u>[New] 2024 Approved Identifying the Best iPhone Watermarks A Complete Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-command-expertise-select-online-mastery-series/"><u>AI Command Expertise: Select Online Mastery Series</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-glitches-in-windows-11-update-driver-solution/"><u>Audio Glitches in Windows 11 - Update Driver Solution</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-magic-5-lite-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor Magic 5 Lite? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/building-on-a-budget-an-in-depth-look-at-the-cytrn-maker-uno-rp2040-board-for-hobbyists/"><u>Building on a Budget: An In-Depth Look at the Cytrn Maker Uno RP2040 Board for Hobbyists</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/effiziente-methode-zur-vollsicherung-ihres-iphones-unter-verwendung-eines-windows-computers/"><u>Effiziente Methode Zur Vollsicherung Ihres iPhones Unter Verwendung Eines Windows-Computers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-tom-the-ultimate-guide-to-electronics-hardware/"><u>Expert Reviews by Tom: The Ultimate Guide to Electronics Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-insights/"><u>Exploring Computer Gear with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/fast-and-powerful-how-mu-stacks-up-against-raspberry-pi-4-in-speed-though-costs-more/"><u>Fast and Powerful: How Mu Stacks Up Against Raspberry Pi 4 in Speed, Though Costs More</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-problems-with-your-realtek-rtl8811au-wireless-network-adapter-drivers/"><u>How to Resolve Problems with Your Realtek RTL8811AU Wireless Network Adapter Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-lian-lis-revolutionary-hydroshift-lcd-groovy-surround-gaming-tower-review/"><u>Inside Look at Lian Li's Revolutionary Hydroshift LCD Groovy Surround Gaming Tower Review</u></a></li>
-<li><a href="https://discover-able.techidaily.com/itunes-backup-verwelzen-naar-windows-hoe-probeert-ji-js-fortschrijft/"><u>ITUNES BACKUP VERWELZEN NAAR WINDOWS - HOE PROBEERT JI JS FORTSCHRIJFT</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-pc-building-insights-from-toms-hardware-expertise/"><u>Mastering PC Building: Insights From Tom’s Hardware Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-space-with-tips-from-toms-hardware-hub/"><u>Mastering Your Digital Space with Tips From Tom's Hardware Hub</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streamlining-your-path-to-personal-youtube-soundscape-for-2024/"><u>Streamlining Your Path to Personal Youtube Soundscape for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-computer-and-electronics-gear-toms-insights/"><u>The Ultimate Resource for Computer and Electronics Gear: Tom’s Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews and Advice</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-design-signature-symbols-use-free-templates-no-copyright/"><u>[New] Design Signature Symbols - Use Free Templates, No Copyright</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-reels-add-sound-for-impactful-storytelling/"><u>[Updated] Elevate Your Reels Add Sound for Impactful Storytelling</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-camera-stabilizers-for-youtubers/"><u>2024 Approved Best Camera Stabilizers for YouTubers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>2024 Approved The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-powerful-asus-rog-rapture-gigabit-wifi-7-router-with-unmatched-performance-and-scalability/"><u>Comprehensive Analysis of the Powerful Asus ROG Rapture Gigabit WiFi 7 Router with Unmatched Performance and Scalability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/erase-your-digital-footprint-disabling-and-removing-a-chatgpt-account/"><u>Erase Your Digital Footprint: Disabling and Removing a ChatGPT Account</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/guide-to-podcast-cover-design-10-core-insights/"><u>Guide to Podcast Cover Design 10 Core Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g84-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G84 5G Phones with/without a PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-tom-your-guide-to-computer-components/"><u>Navigating Gadgets with Tom: Your Guide to Computer Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-4060-ti-rivals-best-gpu-alternatives/"><u>Nvidia 4060 Ti Rivals: Best GPU Alternatives</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/phonedatamender-for-missing-files/"><u>PhoneDataMender for Missing Files</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-pc-performance-a-deep-dive-into-teamgroup-t-force-dark-airflow-i-ssd-cooler-capabilities/"><u>Revolutionize Your PC Performance: A Deep Dive Into TeamGroup T-Force Dark AirFlow I SSD Cooler Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-toms-innovation-blog-cutting-edge-insights-on-hardware-solutions/"><u>The Tom's Innovation Blog: Cutting-Edge Insights on Hardware Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-comprehensive-guide/"><u>Tom's Tech Review: Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-picks-in-pc-components-by-tech-savvy-tom/"><u>Top Picks in PC Components by Tech Savvy Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-azoth-extreme-top-review-for-your-money-saving-search/"><u>Unboxing the Asus ROG Azoth Extreme: Top Review for Your Money-Saving Search</u></a></li>
 </ul></div>
 

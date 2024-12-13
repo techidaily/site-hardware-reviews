@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Purchasing Festive Season Chromebooks at Unbeatable Prices - Featuring Our Top Picks From ZDNET
-date: 2024-11-23T16:08:18.470Z
-updated: 2024-11-27T16:42:35.032Z
+date: 2024-12-07T00:30:47.391Z
+updated: 2024-12-12T18:44:51.198Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-windows-10-gamers-guide-to-effective-video-capture/"><u>[Updated] In 2024, Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-snipers-essential-windows-cutting-software/"><u>[Updated] Top 5 Snipers Essential Windows Cutting Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-combat-profiles-hitbox-vs-streamer-supremacy/"><u>2024 Approved Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/a-comprehensive-guide-to-efficiently-recording-your-voip-interactions/"><u>A Comprehensive Guide to Efficiently Recording Your VoIP Interactions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/bringing-color-to-your-gameplay-viewsonics-240hz-xg272-oled-monitor-reviewed-in-detail/"><u>Bringing Color to Your Gameplay: ViewSonic's 240Hz XG272 OLED Monitor Reviewed in Detail</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-audiences-across-platforms-leveraging-facebook-twitter-instagram-and-youtube-for-brand-growth/"><u>Connecting Audiences Across Platforms: Leveraging Facebook, Twitter, Instagram, and YouTube for Brand Growth</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic5-ultimate-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic5 Ultimate to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-insight-into-akasa-geckos-blower-cooler-performance-in-securing-enhanced-ssd-temperature-regulation/"><u>In-Depth Insight Into Akasa Gecko's Blower Cooler Performance in Securing Enhanced SSD Temperature Regulation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-hostinger-comparing-their-vps-cloud-compute-and-shared-server-services/"><u>In-Depth Review of Hostinger - Comparing Their VPS, Cloud Compute, and Shared Server Services</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-digital-workshop-a-closer-look-at-cutting-edge-hardware/"><u>Inside Tom's Digital Workshop: A Closer Look at Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-computer-setup-advanced-reviews-by-toms-hardware-experts/"><u>Master Your Computer Setup: Advanced Reviews by Tom’s Hardware Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-kids-app-named-superlative-google-play-best-of-2017/"><u>Mondly Kids App Named Superlative Google Play Best of 2017</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-hardware-with-toms-authority/"><u>Navigating the World of Computer Hardware with Tom's Authority</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-v30-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo V30 Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-to-investigate-and-clean-windows-11-logs/"><u>Step-by-Step to Investigate & Clean Windows 11 Logs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-cooler-master-ion-360-aio-cooling-solution-stepping-forward-yet-facing-backtrack-moments/"><u>The Cooler Master ION 360 AIO Cooling Solution - Stepping Forward, Yet Facing Backtrack Moments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-innovative-gadgets-reviewed/"><u>Tom's Tech Hub: Innovative Gadgets Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-issues-with-non-resetting-airpods/"><u>Troubleshooting Steps: Resolving Issues with Non-Resetting AirPods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-adjusting-low-bit-rate-settings-obs-for-2024/"><u>[Updated] Adjusting Low-Bit Rate Settings (OBS) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boost-iphone-cinematic-experience-essential-film-gear/"><u>[Updated] Boost iPhone Cinematic Experience Essential Film Gear</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-20-pubg-moment-snapshots-open-access/"><u>2024 Approved Top 20 PUBG Moment Snapshots, Open Access</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-corsair-m75-mechanical-keyboard-with-bi-directional-buttons-reviewed/"><u>Comprehensive Evaluation of the Corsair M75 Mechanical Keyboard with Bi-Directional Buttons Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-device-manager-code-28-glitch-in-windows-operating-system/"><u>Effective Solutions for the Device Manager 'Code 28' Glitch in Windows Operating System</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-artificial-intelligence-starter-pack-an-in-depth-analysis/"><u>Exploring the Raspberry Pi Artificial Intelligence Starter Pack: An In-Depth Analysis</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-the-purpose-of-x-marked-folders-in-windows/"><u>Exploring: The Purpose of X-Marked Folders in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964502701-high-speed-savings-alert-secure-32gb-of-team-t-force-vulcan-ddr5-memory-6000-mhz-for-only-86-now/"><u>High-Speed Savings Alert: Secure 32GB of Team T-Force Vulcan DDR5 Memory (6000 MHz) For Only $86 Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-youtube-to-mpeg-masterclass-key-strategies-revealed/"><u>In 2024, YouTube-to-MPEG Masterclass Key Strategies Revealed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964499541-include-at-least-three-rhetorical-questions-to-engage-the-audience/"><u>Include at Least Three Rhetorical Questions to Engage the Audience.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxia-unveils-breakthrough-solid-state-drives-with-ultra-fast-optical-link-capable-of-transmitting-data-beyond-40-meters-away-from-cpus/"><u>Kioxia Unveils Breakthrough Solid State Drives with Ultra-Fast Optical Link Capable of Transmitting Data Beyond 40 Meters Away From CPUs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/latest-insights-into-12vhpwr-connection-issues-melting-reports-coming-from-psu-side/"><u>Latest Insights Into 12VHPWR Connection Issues - Melting Reports Coming From PSU Side</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-unveiling-the-latest-tech-trends/"><u>Tom's Computer Components: Unveiling the Latest Tech Trends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-clarity-overcoming-gopro-haze-challenges-for-2024/"><u>Unveiling Clarity Overcoming GoPro Haze Challenges for 2024</u></a></li>
 </ul></div>
 

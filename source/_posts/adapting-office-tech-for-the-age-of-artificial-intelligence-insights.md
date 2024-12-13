@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Tech for the Age of Artificial Intelligence - Insights
-date: 2024-11-24T18:56:10.322Z
-updated: 2024-11-27T16:36:15.240Z
+date: 2024-12-11T02:01:18.659Z
+updated: 2024-12-12T16:37:30.314Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,15 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-avoidance-tactics-for-edg-vids-in-learning/"><u>[New] Avoidance Tactics for EDG Vids in Learning</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-build-your-wealth-on-youtube-a-guide-to-creating-content-without-ads-for-2024/"><u>[New] Build Your Wealth on YouTube A Guide to Creating Content Without Ads for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-screen-record-on-android/"><u>[Updated] In 2024, How to Screen Record on Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-tech-evaluations-by-toms-hardware-experts/"><u>Comprehensive Computer Tech Evaluations by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-advice-from-tom/"><u>Expert Hardware Advice From Tom</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211341995-9781837991891-hocus-focus/"><u>Hocus Focus | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-does-the-asus-rog-azoth-extreme-hold-up-in-depth-review-for-500-dollar-buyers/"><u>How Does The Asus ROG Azoth Extreme Hold Up? In-Depth Review for 500 Dollar Buyers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-gigabyte-b76ve-ds3h-ax-motherboard-analysis-affordable-micro-atx-for-multi-display-setups/"><u>In-Depth Gigabyte B76ve DS3H AX Motherboard Analysis: Affordable Micro ATX for Multi-Display Setups</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-workshop-your-go-to-source-for-hardware-insight/"><u>Inside Tom’s Workshop: Your Go-To Source for Hardware Insight</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personal-security-measures-the-ultimate-guide-to-masking-your-phone-number-on-an-android-phone/"><u>Personal Security Measures: The Ultimate Guide to Masking Your Phone Number on an Android Phone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/swf-mp3-movavi/"><u>SWF 파일에서 MP3로 바꾸기: 온라인 가용성과 동시에 – Movavi 소개</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-travel-wi-fi-companion-asus-rt-ax57-go-review-navigating-seamless-connectivity-anywhere/"><u>The Ultimate Travel Wi-Fi Companion: Asus RT-AX57 Go Review - Navigating Seamless Connectivity Anywhere</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-potential-self-fix-your-xbox-controllers/"><u>Unleash Potential - Self-Fix Your Xbox Controllers</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/optimizaciya-kompyutera-s-zamenoj-diska-c-na-ssd-v-sisteme-windows-poshagovoe-rukovodstvo/"><u>Оптимизация Компьютера С Заменой Диска C На SSD В Системе Windows: Пошаговое Руководство</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>[New] In 2024, Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-15-essential-skills-for-recording-digital-music/"><u>Explore 15 Essential Skills for Recording Digital Music</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/getting-started-with-blinks-outdoor-security-cameras-a-hands-on-approach/"><u>Getting Started with Blink's Outdoor Security Cameras: A Hands-On Approach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximize-productivity-with-minimal-spend-the-ultimate-guide-to-choosing-the-perfect-office-chair-steelcase-series-1-reviewed/"><u>Maximize Productivity with Minimal Spend: The Ultimate Guide to Choosing the Perfect Office Chair - Steelcase Series 1 Reviewed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mega-discounts-on-ecovacs-robot-vacuums-and-mopping-units-save-up-to-850-during-exclusive-prime-day-offer/"><u>Mega Discounts on ECOVACS Robot Vacuums & Mopping Units - Save Up to $850 During Exclusive Prime Day Offer!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k24-error-resolution-tackling-issue-727e66ac-with-proven-strategies/"><u>NBA 2K24 Error Resolution: Tackling Issue 727E66AC with Proven Strategies</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/over-20-amazing-visual-masterpieces-available-on-your-homemade-potato-console/"><u>Over 20 Amazing Visual Masterpieces Available on Your Homemade Potato Console</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/safe-methods-for-non-warranty-voiding-overclocking-of-an-nvidia-graphics-card/"><u>Safe Methods for Non-Warranty Voiding Overclocking of an NVIDIA Graphics Card</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-lenovo-ideapad-130s-delivering-surprising-ease-of-use-on-a-budget-laptop/"><u>Unpacking the Lenovo IdeaPad 130S: Delivering Surprising Ease-of-Use on a Budget Laptop</u></a></li>
 </ul></div>
 

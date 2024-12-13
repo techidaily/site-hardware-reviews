@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dual-Function Laptop Beyond HP and Lenovo - Exclusive Insights From ZDNet
-date: 2024-11-30T23:57:39.812Z
-updated: 2024-12-07T02:05:20.629Z
+date: 2024-12-07T01:17:39.204Z
+updated: 2024-12-12T17:53:21.363Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,16 +116,18 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>[New] Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-superior-5-camera-background-modification-utilities-for-2024/"><u>[Updated] Superior 5 Camera Background Modification Utilities for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amazons-exclusive-get-lg-34qhd-ultragear-monitor-with-g-sync-tech-for-a-steal-at-549/"><u>Amazon's Exclusive: Get LG 34QHD Ultragear Monitor with G-Sync Tech for a Steal at $549</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-6-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 6 Plus with a Broken Screen?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862716918-exclusive-offer-on-lenovo-legion-gaming-pcs-with-rtx-graphics-and-ultra-smooth-display-get-750-off-today/"><u>Exclusive Offer on Lenovo Legion Gaming PCs with RTX Graphics & Ultra-Smooth Display – Get $750 Off Today!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-online-conversion-transforming-webm-files-into-mpeg-format-with-ease/"><u>Free Online Conversion: Transforming WebM Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID from iPhone 7 Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862699425-mastering-modern-devices-tips-and-tricks-from-toms-hardware/"><u>Mastering Modern Devices: Tips and Tricks From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862716478-unleash-your-productivity-the-innovative-and-user-friendly-acemagic-x1-dual-screen-laptop-awaits-you/"><u>Unleash Your Productivity: The Innovative and User-Friendly Acemagic X1 Dual-Screen Laptop Awaits You!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potency-of-the-asus-tuf-gaming-a14-a-review-for-gamers-and-professionals/"><u>Unveiling the Potency of the ASUS TUF Gaming A14: A Review for Gamers and Professionals</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/what-makes-a-youtube-short-go-viral-for-2024/"><u>What Makes a YouTube Short Go Viral for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-resolved-shorts-display-issue-on-youtube/"><u>[New] In 2024, Resolved Shorts Display Issue on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-visuals-using-chroma-key-effectively/"><u>[Updated] 2024 Approved Enhancing Visuals Using Chroma Key Effectively</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-5-best-fluid-simulation-games-for-you/"><u>[Updated] 2024 Approved Top 5 Best Fluid Simulation Games for You</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-poco-x5-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Poco X5 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900615040-currently-trending-tv-shows-on-the-max-channel-your-guide/"><u>Currently Trending TV Shows on the MAX Channel - Your Guide!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-toms-hardware-your-ultimate-guide/"><u>Discovering Tom's Hardware: Your Ultimate Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/echoes-of-friendship-retrospective-on-fb-connections/"><u>Echoes of Friendship: Retrospective on FB Connections</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-factors-behind-the-historic-crowdstrike-windows-crisis-insights-from-zdnet/"><u>Exploring the Factors Behind the Historic CrowdStrike Windows Crisis - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-audio-recording-with-windows-11/"><u>In 2024, Guide to Audio Recording with Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-rating-the-id-cooling-frozn-a620-pro-se/"><u>In-Depth Analysis and Rating: The ID-Cooling Frozn A620 PRO SE</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-choices-with-toms-hardware-guidance/"><u>Mastering Technology Choices with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-discover-top-picks-at-toms-hardware-hub/"><u>Mastering Your Devices? Discover Top Picks at Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-innovative-anycubic-kobra-3-multicolor-3d-printing-technology/"><u>Unveiling the Capabilities of the Innovative Anycubic Kobra 3 Multicolor 3D Printing Technology</u></a></li>
 </ul></div>
 

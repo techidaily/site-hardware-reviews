@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Reveals at Apple's October Showcase: M4 Mac Mini Unveiled, New iPad Lineup, Innovations in AI - Insights for Tech Enthusiasts | ZDNet"
-date: 2024-12-04T02:44:51.927Z
-updated: 2024-12-06T22:05:03.021Z
+date: 2024-12-08T01:30:14.426Z
+updated: 2024-12-12T17:52:22.883Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,20 +118,17 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-aesir-clash-in-the-shadow-of-ragnarok/"><u>[New] Aesir Clash In the Shadow of Ragnarok</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-creating-powerful-learning-through-video-an-in-depth-guide/"><u>[New] Creating Powerful Learning Through Video An In-Depth Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expand-your-visual-palette-in-after-effects/"><u>[New] Expand Your Visual Palette in After Effects</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-your-youtube-content-selecting-professional-gear/"><u>[Updated] 2024 Approved Elevating Your YouTube Content Selecting Professional Gear</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-virtual-recording-tools-online/"><u>[Updated] Top Virtual Recording Tools Online</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elite-capture-best-screen-recorder-apps-timelapse-for-2024/"><u>Elite Capture Best Screen Recorder Apps (Timelapse) for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2022-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2022) when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hidden-gems-premium-mac-speech-to-text-tools/"><u>In 2024, Hidden Gems Premium Mac Speech-to-Text Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computer-components-with-toms-expertise/"><u>Navigating the Latest in Computer Components with Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-200-on-dell-alienware-aw3225qf-premium-32-240hz-4k-oled-gamers-dream-display/"><u>Save $200 on Dell Alienware AW3225QF: Premium 32 240Hz, 4K OLED Gamer's Dream Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-the-highest-gaming-quality-with-our-best-ever-rated-dell-s3222dgm-for-a-shocking-low-of-229/"><u>Score the Highest Gaming Quality with Our Best Ever Rated Dell S3222DGM for a Shocking Low of $229</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/snag-the-ultimate-deal-240hz-acer-nitro-27-curved-display-at-only-159/"><u>Snag the Ultimate Deal: 240Hz Acer Nitro 27 Curved Display at Only $159!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/step-up-to-ultra-fast-gaming-the-new-asus-rog-strix-xg27wcs-monitor-delivers-crisp-visuals-on-its-27-va-screen-running-at-180-hz/"><u>Step Up to Ultra-Fast Gaming - The New Asus Rog Strix XG27WCS Monitor Delivers Crisp Visuals on Its 27 VA Screen Running at 180 Hz</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-comprehensive-buying-guide-for-computer-enthusiasts-by-toms-hardware/"><u>The Comprehensive Buying Guide for Computer Enthusiasts by Tom's Hardware</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-8-best-video-conference-app-for-android-and-iphone-picked/"><u>[New] 2024 Approved 8 Best Video Conference App for Android and iPhone (Picked)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ace-virtual-imagery-ideal-google-meet-screens/"><u>[New] In 2024, Ace Virtual Imagery Ideal Google Meet Screens</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-advantages-of-av1-in-video-coding/"><u>2024 Approved Grasping the Advantages of AV1 in Video Coding</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-asus-ryzen-ai-laptops-rzne-ai-9-hx-370-and-rzne-ai-9-365-unveiling-on-july-17-for-tuf-gaming-rog-zephyrus-zenbook-and-proart/"><u>Discover the Latest Asus Ryzen AI Laptops: RZne AI 9 HX 370 & RZne AI 9 365 - Unveiling on July 17 for TUF Gaming, ROG Zephyrus, Zenbook, and ProArt</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-next-level-of-personalization-in-gaming-laptops-asus-enhances-the-zephyrus-g14-with-an-e-paper-screen-hinge-display/"><u>Discover the Next Level of Personalization in Gaming Laptops: Asus Enhances the Zephyrus G14 with an E-Paper Screen Hinge Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-duo-microsofts-enhanced-surface-and-surface-pro-with-cutting-edge-copilotplus-assistance/"><u>Discover the Power Duo: Microsoft's Enhanced Surface & Surface Pro with Cutting-Edge Copilot+ Assistance</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-high-definition-facebook-video-content-for-pc-and-mac-a-step-by-step-guide/"><u>Download High-Definition Facebook Video Content for PC & Mac: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-linux-gaming-with-tuxedos-sirius-gen2-featuring-all-amd-processing-and-stunning-165hz-ips-display-starting-at-1699/"><u>Experience Next-Level Linux Gaming with Tuxedo's Sirius Gen2 - Featuring All-AMD Processing & Stunning 165Hz IPS Display Starting at €1,699</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-advanced-gadgets-with-toms-hardware-experts-dive-into-cutting-edge-technology/"><u>Explore Advanced Gadgets with Tom's Hardware Experts - Dive Into Cutting-Edge Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-13t-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi 13T Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-capable-and-sturdy-radpower-radcity-5-plus-an-seo-guide-for-cyclists/"><u>Reviewing the Capable & Sturdy RadPower RadCity 5 Plus – An SEO Guide for Cyclists</u></a></li>
 </ul></div>
 

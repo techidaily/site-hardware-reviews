@@ -1,7 +1,7 @@
 ---
 title: "Unpleasant Surprises at the Genius Bar: A Disappointing Visit to Apple's Store"
-date: 2024-11-21T19:05:04.261Z
-updated: 2024-11-27T17:37:38.631Z
+date: 2024-12-09T21:46:37.534Z
+updated: 2024-12-12T18:17:11.814Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ I'm actually quite emotional.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### more Technically Incorrect
@@ -52,7 +52,7 @@ Instead, there were at least 30 customers inside.
 What was going on? Why were these people here? What was wrong with them? Hadn't they slept? Hadn't they heard?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What have we got? We've got bad news
@@ -94,7 +94,7 @@ I wasn't seeing a lack of demand for these phones -- or for anything other than 
 **Also:** [**I put the Apple Watch Ultra through the Tough Mudder. Here's how it held up**](https://www.zdnet.com/article/apple-watch-ultra-review/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I needed some Air
@@ -114,7 +114,7 @@ So what could I do but go back to the iPhone table? This time a different custom
 "Or, if you order on our website, you could get it by, let's see, October 4," said the salesman.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tell me something good
@@ -169,18 +169,21 @@ Well, maybe a little. It's not as if I'm demanding, is it?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-perfect-your-video-a-comprehensive-guide-to-ideal-thumbnail-heights/"><u>[New] In 2024, Perfect Your Video A Comprehensive Guide to Ideal Thumbnail Heights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-securesave-professionals-assessment/"><u>[New] In 2024, SecureSave Professionals' Assessment</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-hero5-black-vs-yi-4k-the-latest-in-action-cam-showdown/"><u>[Updated] In 2024, Hero5 Black Vs. Yi 4K The Latest in Action Cam Showdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-whats-ahead-for-developers-insights-from-apples-worldwide-developer-conference-2025/"><u>Discover What's Ahead for Developers: Insights From Apple's Worldwide Developer Conference 2025</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/"><u>In 2024, From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-expertise/"><u>Navigating the World of Technology with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-pros-and-cons-an-honest-appraisal-of-seatechs-external-blu-ray-usb-writer-performance/"><u>Navigating Through The Pros and Cons: An Honest Appraisal of SeaTech's External Blu-Ray USB Writer Performance</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/stellar-restoration-at-breakneck-speed-for-missing-files/"><u>Stellar Restoration at Breakneck Speed for Missing Files</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-essential-guide-to-cutting-edge-hardware-by-toms-tech-hub/"><u>The Essential Guide to Cutting-Edge Hardware by Tom's Tech Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-hidden-secrets-revealed-in-our-test-of-the-geekworm-x1011-nas-maker/"><u>The Hidden Secrets Revealed in Our Test of the Geekworm X1011 NAS Maker</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlock-performance-secrets-top-tips-from-toms-hardware-specialists/"><u>Unlock Performance Secrets: Top Tips From Tom's Hardware Specialists</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-online-video-editing-tools-for-vertical-content/"><u>Updated Top Online Video Editing Tools for Vertical Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/will-mac-computers-revolutionize-pc-gameplay/"><u>Will Mac Computers Revolutionize PC Gameplay?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-igtvs-top-picks-for-next-weeks-feed/"><u>[New] IGTV's Top Picks for Next Week's Feed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-explore-the-best-websites-for-dynamic-sky-imaging/"><u>[Updated] 2024 Approved Explore the Best Websites for Dynamic Sky Imaging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-tech-for-speedy-video-frame-snapping/"><u>[Updated] 2024 Approved Top Tech for Speedy Video Frame Snapping</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-ae-text-templates-maximum-efficiency/"><u>[Updated] Essential AE Text Templates (Maximum Efficiency)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-guidance-with-tom-the-hardware-specialists/"><u>Advanced Gadget Guidance with Tom – The Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-tech-with-toms-hardware-explorations/"><u>Discover the Latest in Tech with Tom's Hardware Explorations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-features-of-lian-lis-hydroshift-lcd-tube-with-360-s/"><u>Exploring the Cutting-Edge Features of Lian Li's Hydroshift LCD Tube with 360 S</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974650673-free-download-latest-nvidia-geforce-rtx-nvidia-rtx-3080-driver-for-windows-11-8-and-7-click-here/"><u>Free Download: Latest NVIDIA GeForce RTX Nvidia Rtx 3080 Driver for Windows 11, 8 & 7 - Click Here!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-key-to-smooth-screencasting-a-macos-guide/"><u>In 2024, The Key to Smooth Screencasting A MacOS Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-through-new-tech-guides-by-toms-digital-domain/"><u>Navigating Through New Tech: Guides by Tom's Digital Domain</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-opengl-problems-a-comprehensive-guide-for-minecraft-players/"><u>Overcoming OpenGL Problems - A Comprehensive Guide for Minecraft Players</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-power-showdown-comparing-the-google-pixel-n-6-pro-with-the-apple-iphone-13-pro-for-tech-savvy-consumers/"><u>Pixel Power Showdown: Comparing the Google Pixel N 6 Pro with the Apple iPhone 13 Pro for Tech-Savvy Consumers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-12-mini-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 12 mini You Should Try Out</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-more-drive-potential-the-definitive-review-of-highpoints-rocket-1608a-usb-expansion-card/"><u>Unleash More Drive Potential: The Definitive Review of HighPoint's Rocket 1608A USB Expansion Card</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-details-a-thorough-review-of-hostingers-virtual-private-servers-and-shared-hosting/"><u>Unveiling the Details: A Thorough Review of Hostinger’s Virtual Private Servers & Shared Hosting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-of-sabrent-rocket-nano-1tb-2242-ssd-the-quintessential-choice-for-ultra-compact-storage-needs/"><u>Unveiling the Potential of Sabrent Rocket Nano 1TB 2242 SSD: The Quintessential Choice for Ultra-Compact Storage Needs</u></a></li>
 </ul></div>
 

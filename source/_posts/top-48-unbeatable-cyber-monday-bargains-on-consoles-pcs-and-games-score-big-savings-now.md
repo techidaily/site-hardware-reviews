@@ -1,7 +1,7 @@
 ---
 title: Top 48 Unbeatable Cyber Monday Bargains on Consoles, PCs & Games – Score Big Savings Now!
-date: 2024-11-23T17:42:14.336Z
-updated: 2024-11-27T17:02:57.194Z
+date: 2024-12-06T01:53:42.516Z
+updated: 2024-12-12T23:18:15.703Z
 tags:
   - laptops
 categories:
@@ -22,6 +22,10 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday 2023 Dell deals
 
 * [Dell OptiPlex 7000 7090 Intel Core i7 desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7090-business-desktops-workstations%252Fp%252F1VK-0001-6G7A2) for $939 (save $230)
@@ -38,10 +42,6 @@ With Black Friday 2023 ending and shoppers looking to Cyber Monday to save money
 * [Dell WD15 Monitor Dock](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMonitor-Adapter-USB-C-450-AEUO-7FJ4J%2Fdp%2FB01MU4SNK5%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1) for $82 (save $118)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1) for $230 (save $100)  
 ---  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Cyber Monday 2023 Dell deals
 
@@ -100,6 +100,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Cyber Monday Dell laptop deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $900 (save $250)
@@ -119,10 +123,6 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell OptiPlex 7010](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1764723-REG%2Fdell%5F6f73r%5Foptiplex%5F7010%5Fsmall.html): $699 (save $300)
 * [Dell Inspiron 27 7720 Intel Core i5](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-Inspiron-24-5400-Touchscreen%2Fdp%2FB0BGQSKN8N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $744 (save $186)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Cyber Monday Dell monitor deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $150 (save $70)
@@ -130,12 +130,16 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $80 (save $50)
 * [Dell 32-inch 4K monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-SE3223Q-31-5-inch-Monitor-Gray%2Fdp%2FB0B2GRMGFL%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdc7bd95a-cf51-4930-9dd0-5f630b942e68%7Cdtp&dtb=1): $248 (save $117)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When is Cyber Monday 2023?
 
 Cyber Monday happens each year on the Monday following Black Friday. This year, Cyber Monday is today, November 27.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was Black Friday 2023?
@@ -145,7 +149,7 @@ Black Friday 2023 was on November 24, 2023\.
 Black Friday is always the day after Thanksgiving, which was November 23 this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these Cyber Monday deals?
@@ -153,10 +157,6 @@ Black Friday is always the day after Thanksgiving, which was November 23 this ye
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best Cyber Monday deals?
 
@@ -228,20 +228,24 @@ ZDNET's experts have been searching for Cyber Monday deals across sites like Ama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streaming-perfection-best-practices-in-vr-gameplay-recording/"><u>[New] 2024 Approved Streaming Perfection Best Practices in VR Gameplay Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-starting-point-decoding-display-resolution-basics/"><u>[New] Starting Point Decoding Display Resolution Basics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-master-the-art-of-mobile-movie-watching-with-top-10-ios-apps/"><u>[Updated] Master the Art of Mobile Movie Watching with Top 10 iOS Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-pro-tips-for-capturing-stunning-igtv-content-on-mobile-and-dslr/"><u>2024 Approved Pro Tips for Capturing Stunning IGTV Content on Mobile & DSLR</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/crucial-insights-evaluating-maxsuns-newest-micro-atx-marvel-the-z79astern-d5-ice-motherboard-with-5x-m2-support/"><u>Crucial Insights: Evaluating Maxsun's Newest Micro ATX Marvel, The Z79astern D5 Ice Motherboard With 5X M.2 Support</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-gadgets-with-toms-technology-review-platform/"><u>Dive Into Gadgets with Tom's Technology Review Platform</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hostgators-cloud-and-shared-hosting-options-what-you-need-to-know/"><u>Expert Insights on HostGator's Cloud & Shared Hosting Options - What You Need to Know</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-guided-by-toms-expertise/"><u>Exploring Computer Hardware - Guided by Tom's Expertise</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-insights-asus-rog-swift-oled-pg32ucdp-approaching-flawless-gaming-visuals/"><u>In-Depth Analysis & Insights: Asus ROG Swift OLED PG32UCDP - Approaching Flawless Gaming Visuals</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719575254325-mondly-champion-of-language-learning-germany-resonates/"><u>Mondly: Champion of Language Learning - Germany Resonates</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-admin-level-terminal-on-demand/"><u>Seamless Admin-Level Terminal on Demand</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-revolutionary-m2-hatplus-addition-for-raspberry-pi-unveiling-a-new-era-of-cost-effective-lightning-fast-data-handling/"><u>The Revolutionary M.2 HAT+ Addition for Raspberry Pi: Unveiling a New Era of Cost-Effective, Lightning Fast Data Handling</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/tunefab-vs-competitors-screen-recorder-showdown/"><u>Tunefab vs Competitors Screen Recorder Showdown</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-multi-window-video-experience-in-edge-for-2024/"><u>Unlock Multi-Window Video Experience in Edge for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-mobile-photography-boosters-iphone-vs-android/"><u>[Updated] Essential Mobile Photography Boosters IPhone vs Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-harnessing-instagram-video-power-strategizing-for-impact/"><u>[Updated] In 2024, Harnessing Instagram Video Power Strategizing for Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-metaverse-gateway-top-8-vr-headsets-unveiled/"><u>[Updated] In 2024, Metaverse Gateway Top 8 VR Headsets Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/activating-the-do-not-disturb-feature-in-google-pixel-automatically-during-driving-a-step-by-step-guide/"><u>Activating the 'Do Not Disturb' Feature in Google Pixel Automatically During Driving: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bending-budgets-less-surprisingly-reasonable-prices-for-high-tech-foldable-phones/"><u>Bending Budgets Less: Surprisingly Reasonable Prices for High-Tech Foldable Phones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/building-simplistic-mobile-tech-crafting-a-basic-handset-with-gratis-programming-resources/"><u>Building Simplistic Mobile Tech: Crafting a Basic Handset with Gratis Programming Resources</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/competing-with-giants-can-an-open-source-replacement-challenge-googles-photo-dominance/"><u>Competing with Giants: Can an Open Source Replacement Challenge Google's Photo Dominance?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/disabling-mobile-notifications-a-step-by-step-guide/"><u>Disabling Mobile Notifications: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/disastrous-moments-in-tech-the-top-seven-failures-on-tv-and-online/"><u>Disastrous Moments in Tech: The Top Seven Failures on TV and Online</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-engagement-on-facebook-a-beginners-roadmap/"><u>Enhancing Engagement on Facebook A Beginner’s Roadmap</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/exploring-brazils-surge-in-intelligent-tech-solutions-during-infoshow-2nv-2018-expert-analysis-by-abbyy-blog-team/"><u>Exploring Brazil's Surge in Intelligent Tech Solutions During InfoShow 2Nv 2018 | Expert Analysis by ABBYY Blog Team</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssentials-of-earning-on-youtube-latest-changes-for-2024/"><u>The Essentials of Earning on YouTube Latest Changes for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-waterproof-wearables-comprehensive-analysis-by-tech-experts/"><u>Top-Rated Waterproof Wearables - Comprehensive Analysis by Tech Experts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-both-worlds-top-free-and-paid-android-video-editors-for-2024/"><u>Updated The Best of Both Worlds Top Free and Paid Android Video Editors for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/weekly-insights-latest-releases-of-windows-powered-notebooks-and-exclusive-sneak-peeks-into-spotifys-roadmap/"><u>Weekly Insights: Latest Releases of Windows-Powered Notebooks & Exclusive Sneak Peeks Into Spotify's Roadmap</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/whats-the-origin-behind-the-name-android-for-mobile-os/"><u>What's the Origin Behind the Name 'Android' For Mobile OS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/worthwhile-or-outdated-the-debate-over-upgrading-from-stock-android-keyboard/"><u>Worthwhile or Outdated: The Debate Over Upgrading From Stock Android Keyboard</u></a></li>
 </ul></div>
 

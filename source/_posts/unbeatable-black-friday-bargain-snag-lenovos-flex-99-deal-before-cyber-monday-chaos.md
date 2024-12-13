@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos"
-date: 2024-12-03T01:13:02.433Z
-updated: 2024-12-07T02:14:02.655Z
+date: 2024-12-11T22:30:58.043Z
+updated: 2024-12-13T03:28:33.642Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,22 +67,17 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-beyond-vidcon-key-youtube-occasions/"><u>[New] 2024 Approved Discovering Beyond VidCon Key Youtube Occasions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-techs-time-capsule-a-screen-review/"><u>[New] 2024 Approved Tech's Time Capsule A Screen Review</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-50plus-impressive-tiktok-username-ideas-to-boost-views/"><u>[Updated] 2024 Approved 50+ Impressive TikTok Username Ideas to Boost Views</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reimagine-your-space-with-windows-11-designs/"><u>[Updated] Reimagine Your Space with Windows 11 Designs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delve-into-digital-unraveling-the-wonders-of-technology-with-toms-guidance/"><u>Delve Into Digital: Unraveling the Wonders of Technology with Tom's Guidance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-future-of-gaming-cases-the-phanteks-xt-pro-ultra-packed-with-advanced-lighting-and-superior-ventilation/"><u>Explore the Future of Gaming Cases: The Phanteks XT Pro Ultra, Packed with Advanced Lighting & Superior Ventilation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-preventing-motion-sickness-in-virtual-worlds/"><u>In 2024, Preventing Motion Sickness in Virtual Worlds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-store-expert-insights-on-technology-gadgets/"><u>Inside Tom's Hardware Store: Expert Insights on Technology Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/interactive-review-the-compact-fractal-pc-case-featuring-elegant-wood-design-and-customizable-backrest/"><u>Interactive Review: The Compact Fractal PC Case Featuring Elegant Wood Design and Customizable Backrest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964477196-pure-base-500dx-mid-tower-desktop-chassis-steal-the-deal-at-only-84/"><u>Pure Base 500DX Mid Tower Desktop Chassis - Steal the Deal at Only $84</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-lian-li-s-sup01-micro-atx-case-upfront-gpu-placement-and-back-to-future-mobo-connectivity-for-enhanced-gaming-experience/"><u>Revolutionary Lian Li 'S' SUP01 Micro ATX Case: Upfront GPU Placement & Back-to-Future Mobo Connectivity for Enhanced Gaming Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides-by-toms-hardware/"><u>Tom's Tech Hub: In-Depth Reviews and Guides by Tom's Hardware</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-7-strategies-ai-enabled-fraudsters-employ-in-love-cons/"><u>Top 7 Strategies AI-Enabled Fraudsters Employ in Love Cons</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unblock-twitch-hurdles-7-crucial-fixes-for-successfully-loading-live-broadcasts/"><u>Unblock Twitch Hurdles: 7 Crucial Fixes for Successfully Loading Live Broadcasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964474740-upcoming-transparent-customization-options-for-your-steam-deck/"><u>Upcoming Transparent Customization Options for Your Steam Deck</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-shadowy-time-lapse-recording-methods/"><u>[New] In 2024, Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tinyframe-videotaker-assessment-with-alternatives/"><u>[Updated] In 2024, TinyFrame Videotaker Assessment with Alternatives</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1-comparing-airplay-2-with-dlna-unveiling-the-android-alternatives/"><u>1. Comparing AirPlay 2 with DLNA: Unveiling the Android Alternatives</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-how-mixed-reality-transforms-experience/"><u>2024 Approved Exploring How Mixed Reality Transforms Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-decoding-the-capabilities-in-samsungs-newest-photo-software/"><u>In 2024, Decoding the Capabilities in Samsung's Newest Photo Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei to Protect Your Individual Information</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-toms-technical-insights-blog/"><u>In-Depth Hardware Analysis by Tom's Technical Insights Blog</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgetry-inside-tips-from-toms-hardware-experts/"><u>Mastering Gadgetry: Inside Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-high-fps-discover-tcls-innovative-1000hz-refresh-rate-in-their-new-4k-gaming-display/"><u>Mastering High FPS: Discover TCL’s Innovative 1,000Hz Refresh Rate in Their New 4K Gaming Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-a-guide-to-hardware-by-toms-tech-wisdom/"><u>Mastering Modern Devices: A Guide to Hardware by Tom's Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-components-essential-reviews-by-tomebased-hardware-guru/"><u>Mastering Tech Components: Essential Reviews by Tom'ebased Hardware Guru</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-iphones-potential-with-live-activities-on-ios-16/"><u>Unlock Your iPhone's Potential with Live Activities on iOS 16</u></a></li>
 </ul></div>
 

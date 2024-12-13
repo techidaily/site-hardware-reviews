@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Cyber Monday: Unveiling the Ultimate List of 2022'S Best Offers | Featured"
-date: 2024-11-26T18:31:45.934Z
-updated: 2024-11-27T17:45:00.905Z
+date: 2024-12-09T02:45:04.519Z
+updated: 2024-12-13T02:40:36.169Z
 tags:
   - laptops
 categories:
@@ -30,6 +30,10 @@ ZDNET editors have been tracking the [best Cyber Monday 2022 sales](https://www.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Latest Cyber Monday deals still available**
 
 Please refer to the table of contents to quickly navigate our categories**.**
@@ -49,7 +53,7 @@ Please refer to the table of contents to quickly navigate our categories**.**
 * [Fire HD 10 tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08XMBMW3H%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $220 (save $50) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday TV deals**
@@ -113,7 +117,7 @@ Image: ZDNET
 * [Wacom Intuos Pro Medium Bluetooth Graphics Drawing Tablet](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWacom-Digital-Graphic-Drawing-PTH660%2Fdp%2FB01MQU5LW7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $240 (save $26) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday gaming deals**
@@ -138,7 +142,7 @@ Image: Best Buy
 * [HP V223ve FHD Monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-V223ve-21-5-inch-certified-Ergonomic%2Fdp%2FB09GKZ71PJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $105 (save $145) at Amazon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Best Cyber Monday home deals**
@@ -160,10 +164,6 @@ Amazon
 * [Google Nest Hub Max](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/google%5Fnest%5Fhub%5Fmax?hl=en-US) for $164 (save $65) at Google
 * [Blink Outdoor 3 cam kit](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FBlink-Outdoor-bundle-Echo-Show%2Fdp%2FB08ZN97SWW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $160 (save $175) at Amazon
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Best Cyber Monday streaming deals**
 
 Streaming gives you the best options for entertainment, customizable to your preferences and budget. The Cyber Monday deals below encompass streaming subscriptions to services like YouTube Premium and Apple TV, smart TVs with streaming capabilities, and streaming devices that will transform the TV you have into one compatible with your favorite services. 
@@ -176,6 +176,10 @@ Sherin Shibu
 
 * [Roku Express HD Streaming Device](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRoku-Express-Streaming-Device-High-Speed%2Fdp%2FB0BCH5H2R3%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $18 (save $12) at Amazon
 * [Apple TV HD 32GB](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-TV-HD-32GB-2nd-Generation%2F525801397&subId1=zd-__COM_CLICK_ID__-dtp) for $59 (save $40) at Walmart
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday headphone deals**
 
@@ -225,6 +229,10 @@ Apple
 * [Restored Apple Watch Series 3- 42 mm](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-Series-3-42mm-Space-Gray-Aluminum-Case-Gray-Sport-Band-Refurbished%2F346346528&subId1=zd-__COM_CLICK_ID__-dtp) for $79 (save $40) at Walmart
 * [Citizen CZ Smart Hybrid smartwatch](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCitizen-smartwatch-Continuous-Notifications-Connection%2Fdp%2FB09FFQFFRB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $262 (save $88) at Amazon
 * [Samsung Galaxy Watch 5 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B2HXJZ98%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf3826361-77a2-4798-85d6-2f1623f93359%7Cdtp&dtb=1) for $399 (save $49) at Amazon
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Best Cyber Monday speaker deals**
 
@@ -286,16 +294,12 @@ We've shopped online just as much as you, but we're experts at finding tech deal
 
 Black Friday takes place every year on the day after Thanksgiving. This year, Black Friday 2022 fell on Friday, Nov. 25\. But, honestly, Black Friday is no longer just a 24-hour event. It's morphed into weeks of early bird deals, doorbusters, and even sales that start in October. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When was Cyber Monday 2022?
 
 Black Friday and Cyber Monday are synonymous with big sales that kick off the holiday shopping season. While Black Friday deals started in October this year and can include brick-and-mortar stores and online retailers, Cyber Monday sales are primarily online and can extend Black Friday an entire week -- ultimately turning into Cyber Week. Cyber Monday is always the Monday after Thanksgiving, so this year it falls on Nov. 28.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best Cyber Monday 2022 deals still available?
@@ -321,10 +325,6 @@ Our experts split out the best deals by retailer, brand, and category, which you
 * [The best Cyber Monday 2022 Samsung deals](https://www.zdnet.com/article/samsung-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 Dell deals](http://zdnet.com/article/dell-cyber-monday-deals-still-available-november-30-2022/)
 * [The best Cyber Monday 2022 HP deals](https://www.zdnet.com/home-and-office/hp-cyber-monday-deals-still-available-november-30-2022/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Cyber Monday deals still available by category**
 
@@ -398,20 +398,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-archive-gamers-best-runs-using-samsung-phones/"><u>[New] 2024 Approved Archive Gamer's Best Runs Using Samsung Phones</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-fixing-iphone-x-overcoming-face-id-malfunction/"><u>[New] Fixing iPhone X Overcoming Face ID Malfunction</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>[New] In 2024, Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-tips-for-perfecting-sound-tracks-start-with-auditions-fade-in-for-2024/"><u>[New] Tips for Perfecting Sound Tracks Start with Audition's Fade-In for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-catcher-showdown/"><u>[New] Ultimate Catcher Showdown</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-game-footage-secrets-of-the-skilled-videographer/"><u>[Updated] In-Game Footage Secrets of the Skilled Videographer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-asus-rog-nuc-tier-review-unmatched-performance-within-compact-design/"><u>Comprehensive Guide to the Asus ROG NUC Tier Review: Unmatched Performance Within Compact Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341704660-expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-components-through-toms-specialized-lens/"><u>Mastering Gadgets and Components Through Tom's Specialized Lens</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-major-platforms-like-fb-twtr-ig-and-yt/"><u>Mastering Social Media Engagement on Major Platforms Like FB, TWTR, IG & YT</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-enthusiasts-rejoice-master-your-devices-with-toms-hardware-insights/"><u>Tech Enthusiasts Rejoice: Master Your Devices With Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-safe-bet-of-computing-an-insight-into-nzxts-h7-flow-case/"><u>The Safe Bet of Computing: An Insight Into NZXT's H7 Flow Case</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gear-guidance-your-go-to-source-for-computer-insights/"><u>Tom's Gear Guidance: Your Go-To Source for Computer Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-comprehensive-hardware-guides/"><u>Tom's Tech Insights: Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-redmi-12-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi Redmi 12 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-6-pure-android-screen-recorder-selections-no-ads/"><u>[New] In 2024, 6 Pure Android Screen Recorder Selections (No Ads)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amds-breakthrough-invention-seamless-automated-memory-clock-boosting-solution/"><u>AMD's Breakthrough Invention: Seamless Automated Memory Clock Boosting Solution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oneplus-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your OnePlus Lock Screen Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/jpeg-jpg-online-movavi/"><u>JPEG 파일을 무료로 JPG로 바꾸는 Online 도구 - Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-tricks-for-entering-the-heart-emoji-using-just-your-keyboard/"><u>Simple Tricks for Entering the Heart Emoji Using Just Your Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-precision-in-computing-devices/"><u>Tom's Tech Gear: Precision in Computing Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-and-evaluations/"><u>Tom's Tech Reviews: In-Depth Insights and Evaluations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-downsides-why-opting-out-of-a-chatgpt-mobile-download-could-benefit-you/"><u>Understanding the Downsides: Why Opting Out of a ChatGPT Mobile Download Could Benefit You</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-legacy-the-remarkable-journey-of-a-vintage-14-year-old-celeron-d-347-overclocked-to-an-astounding-837ghz/"><u>Unleashing the Power of Legacy: The Remarkable Journey of a Vintage 14-Year-Old Celeron D 347, Overclocked to an Astounding 8.37Ghz</u></a></li>
 </ul></div>
 

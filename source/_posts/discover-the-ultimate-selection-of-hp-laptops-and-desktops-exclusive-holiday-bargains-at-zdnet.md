@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Selection of HP Laptops and Desktops: Exclusive Holiday Bargains at ZDNet"
-date: 2024-11-25T16:50:04.859Z
-updated: 2024-11-27T17:43:14.902Z
+date: 2024-12-10T17:18:33.813Z
+updated: 2024-12-12T21:53:19.004Z
 tags:
   - laptops
 categories:
@@ -23,6 +23,10 @@ If you see something that looks like a great deal, we recommend adding it to you
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best laptop deals
 
@@ -95,14 +99,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa345ffb-4886-4da8-9d60-e419ba1affa3%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Amazon laptop deals
@@ -118,10 +118,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa345ffb-4886-4da8-9d60-e419ba1affa3%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa345ffb-4886-4da8-9d60-e419ba1affa3%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -144,6 +140,10 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -169,6 +169,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -188,13 +192,13 @@ When you're considering your budget for a new laptop, you have to consider what 
 
 If you're a gamer who needs a high-spec laptop with a decent graphics card, top-of-the-range display and high refresh rate, you should expect to pay more than $500 - $600 -- and potentially beyond $1,000\. However, if you need a laptop for basic tasks, studying, and streaming, you can easily get away with a basic laptop for a few hundred dollars. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by retailer
 
@@ -202,10 +206,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,22 +257,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-big-sur-os-essential-system-and-hardware-specifications/"><u>[Updated] Big Sur OS Essential System & Hardware Specifications</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/1728484887769-3/"><u>「パワーポイント資料が消えちゃった？こうしてあと3通りで完全再生！」</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>2024 Approved From Ordinary to Outstanding Making Effortless Slow-Motion Videos in Android</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-masterpiece-in-flexibility-the-dell-xps-13-7390-convertible-laptop-uncovered-an-alluring-and-dynamic-ultrabook/"><u>A Masterpiece in Flexibility - The Dell XPS 13 7390 Convertible Laptop Uncovered: An Alluring & Dynamic Ultrabook</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/boost-your-pcs-efficiency-using-windows-11s-stealth-app-killer-method-detailed-guide-at-zdnet/"><u>Boost Your PC's Efficiency Using Windows 11'S Stealth App Killer Method | Detailed Guide at ZDNET</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-the-gigabyte-g6x-solid-gamers-companion-without-distinctive-attributes/"><u>Comprehensive Evaluation of the Gigabyte G6X - Solid Gamers' Companion without Distinctive Attributes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-lenovos-latest-innovation-the-ultraportable-yoga-pro-surveying-its-sleek-build-and-satisfying-key-travel/"><u>Comprehensive Review of Lenovo's Latest Innovation – The Ultraportable Yoga Pro Surveying Its Sleek Build and Satisfying Key Travel</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/deciphering-the-digital-dialogue-massmails-in-depth-report-on-email-marketing-trends-and-future-projections-for-years-two-thousand-ten-to-fifteen/"><u>Deciphering the Digital Dialogue - MassMail's In-Depth Report on Email Marketing Trends and Future Projections for Years Two Thousand Ten to Fifteen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/detailed-test-and-analysis-of-levelplay-combat-air-ca4-cpu-cooler-achieving-silent-high-performance/"><u>Detailed Test & Analysis of Levelplay Combat Air CA4 CPU Cooler: Achieving Silent High-Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-top-notch-gadgets-with-toms-hardware-review-channel/"><u>Explore Top-Notch Gadgets with Tom's Hardware Review Channel</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-your-pcs-graphics-with-amd-ryzen-3-2200g-latest-drivers-download/"><u>Improve Your PC's Graphics with AMD RYZEN 3 2200G Latest Drivers Download</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-raspberry-pi-artificial-intelligence-starter-set-brainiac-edition/"><u>In-Depth Analysis of the Raspberry Pi Artificial Intelligence Starter Set - 'Brainiac' Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-with-toms-detailed-review-hub/"><u>Navigate the World of Tech with Tom's Detailed Review Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-discussions-unveiling-secrets-with-toms-tech-wisdom/"><u>Pioneering Hardware Discussions: Unveiling Secrets with Tom's Tech Wisdom</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-yuva-2-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Yuva 2.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-asrocks-z79-1-lightning-wi-fi-features-review-a-surprising-blend-of-miniaturization-and-power/"><u>The Ultimate Guide to ASRock's Z79 1 Lightning Wi-Fi Features Review: A Surprising Blend of Miniaturization and Power</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-playstation-audio-modification-guidebook/"><u>[Updated] 2024 Approved The Ultimate PlayStation Audio Modification Guidebook</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/dos-metodos-faciles-para-verificar-la-autenticidad-de-una-captura-de-pantalla-del-respaldo-de-windows-10/"><u>Dos Métodos Fáciles Para Verificar La Autenticidad De Una Captura De Pantalla Del Respaldo De Windows 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-tweets-to-tomes-the-full-year-in-video-for-2024/"><u>From Tweets to Tomes The Full Year in Video for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unleashing-the-power-of-edit-in-tiktok-video-creation/"><u>In 2024, Unleashing the Power of Edit in TikTok Video Creation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/original-replacement-components-for-google-pixel-available-at-ifixit/"><u>Original Replacement Components for Google Pixel Available at iFixit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rethinking-generative-ai-for-messaging-the-7-key-considerations-you-should-know/"><u>Rethinking Generative AI for Messaging: The 7 Key Considerations You Should Know</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-adjusting-autofill-and-managing-passwords-in-android-devices/"><u>Step-by-Step Guide: Adjusting AutoFill & Managing Passwords in Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-how-to-send-your-text-messages-forward-from-an-android-device/"><u>Step-by-Step Guide: How to Send Your Text Messages Forward From an Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/steps-to-incorporate-vital-health-details-on-your-android-device/"><u>Steps to Incorporate Vital Health Details on Your Android Device</u></a></li>
 </ul></div>
 

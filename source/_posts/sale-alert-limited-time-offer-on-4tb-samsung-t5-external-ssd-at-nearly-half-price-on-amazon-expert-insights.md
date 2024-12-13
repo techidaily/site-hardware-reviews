@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Limited-Time Offer on 4TB Samsung T5 External SSD at Nearly Half Price on Amazon | Expert Insights"
-date: 2024-12-05T17:46:09.233Z
-updated: 2024-12-06T19:32:06.762Z
+date: 2024-12-06T19:32:21.532Z
+updated: 2024-12-12T22:12:54.424Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,24 +128,22 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs/"><u>[New] 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-world-of-kinemaster-and-ranking-10-online-competitors/"><u>[New] Explore the World of KineMaster & Ranking 10 Online Competitors</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-concealing-confidentiality-blurring-identity-in-recordings/"><u>[Updated] In 2024, Concealing Confidentiality Blurring Identity in Recordings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-how-to-run-a-giveaway-facebook-post/"><u>[Updated] In 2024, How to Run a Giveaway Facebook Post</u></a></li>
-<li><a href="https://network-issues.techidaily.com/boosting-speed-tackling-sluggish-wi-fi-on-win/"><u>Boosting Speed: Tackling Sluggish Wi-Fi on WIN</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-home-with-smart-technology-this-labor-day-save-30-on-amazons-new-echo-show-zdnet/"><u>Enhance Your Home with Smart Technology This Labor Day: Save 30% on Amazon's New Echo Show ˈ| ZDNET</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 15 Pro Max and iPad?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/samsungs-odyssey-g9-the-epic-49-oled-curved-screen-now-at-record-lows/"><u>Samsung's Odyssey G9: The Epic 49 OLED Curved Screen Now at Record Lows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/score-big-savings-on-the-ultrawide-screen-spectacle-save-60samsungs-49-oled-tv-today/"><u>Score Big Savings on the Ultrawide Screen Spectacle – Save $60([Samsung’s] 49” OLED TV) Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-technology-curves-with-toms-reliable-hardware-reviews/"><u>Stay Ahead of Technology Curves with Tom's Reliable Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-modern-hardware-solutions-by-tom/"><u>The Ultimate Guide to Modern Hardware Solutions by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-tech-resource-for-your-pc-needs-by-tom/"><u>The Ultimate Tech Resource for Your PC Needs by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-exploration-a-deep-dive-into-pc-specs-and-performance/"><u>Tom's Hardware Exploration: A Deep Dive Into PC Specs and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review - Expert Insights on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-5-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 5 Pro Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-budget-conscious-filmmakers-essential-video-gear-list/"><u>[Updated] 2024 Approved Budget-Conscious Filmmaker's Essential Video Gear List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tutorials-for-downgrading-macos-sierra-to-el-capitan/"><u>[Updated] Tutorials for Downgrading MacOS Sierra To El Capitan</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-infinix-hot-30-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Infinix Hot 30 5G PC | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-le-meilleur-choix-pour-la-transformation-de-dvd-et-video-en-logiciel/"><u>Digiarty: Le Meilleur Choix Pour La Transformation De DVD Et Vidéo en Logiciel</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-y100i-power-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo Y100i Power 5G Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-phone-without-password-by-drfone-android/"><u>How To Unlock Honor X7b Phone Without Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-zte-nubia-z60-ultra-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on ZTE Nubia Z60 Ultra Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft-for-2024/"><u>Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncover-the-best-in-pc-gear-with-toms-hardware-insights/"><u>Uncover the Best in PC Gear with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-development-power-with-chinas-latest-risc-v-laptop-for-techies-and-engineers-starting-at-just-300/"><u>Unleash Development Power with China's Latest RISC-V Laptop for Techies and Engineers, Starting at Just $300</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-next-level-gaming-on-the-go-with-razer-blade-18-featuring-i9-14900hx-and-rtx-4090-at-a-4799-price-point/"><u>Unleash Next-Level Gaming on the Go With Razer Blade 18 - Featuring I9-14900HX & RTX 4090 at a $4,799 Price Point</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-hardware-secrets-at-toms-tech-resource-center/"><u>Unlocking Hardware Secrets at Tom's Tech Resource Center</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-insights-by-tom/"><u>Unveiling Cutting-Edge Technology Insights by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-deep-dive-into-hardware-reviews-by-tom/"><u>Unveiling Tech Secrets: A Deep Dive Into Hardware Reviews by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-hardware-secrets-at-toms-equipment-corner/"><u>Unveiling Top Hardware Secrets at Tom's Equipment Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-tech-highlights-asus-and-qualcomms-new-models-at-computex-2ebtween-spotted-lacking-graphics-card-announcements/"><u>Upcoming Tech Highlights: Asus and Qualcomm's New Models at Computex 2Ebtween Spotted – Lacking Graphics Card Announcements</u></a></li>
 </ul></div>
 

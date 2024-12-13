@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Dell Savings Deals for Holidays at Retail Giants Like Best Buy and Amazon | ZDNET Exclusive List
-date: 2024-12-04T23:33:36.553Z
-updated: 2024-12-07T00:48:34.343Z
+date: 2024-12-08T02:54:00.112Z
+updated: 2024-12-12T16:10:22.110Z
 tags:
   - laptops
 categories:
@@ -22,10 +22,6 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Dell holiday deals
 
 * [Dell Inspiron 15 3520 Intel Core i5 touch laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-inspiron-15-3520-touch-laptop-intel-core-i5-8gb-memory-256gb-ssd-carbon-black%2F6553026.p%3FskuId%3D6553026&publisher_slug=itechdaily19598&exclusive=1) for $350 (save $250)
@@ -37,7 +33,7 @@ If you're shopping for a great deal on tech for this holiday season, ZDNET is tr
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Dell holiday deals
@@ -97,6 +93,10 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6FJGWK9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell laptop holiday deals
 
 * [Dell G15 gaming laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-G15-5535-Gaming-Laptop%2Fdp%2FB0CJGBMD42%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $1,000 (save $150)
@@ -106,7 +106,7 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell XPS 13 9310 13.4-inch touch laptop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-XPS-9310-Laptop-Touchscreen%2Fdp%2FB09PR52BHK%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) for $1,071 (save $429)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Dell desktop holiday deals
@@ -118,15 +118,15 @@ The Alienware Aurora R15 is a desktop computer built to meet the needs of the mo
 * [Dell Optiplex 7080 Intel i5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-7080-business-desktops-workstations%252Fp%252F1VK-0001-6GXW7) for $520 (save $179)
 * [Dell OptiPlex 3000 Desktop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fdell-optiplex-3000-student-home-office%252Fp%252F1VK-0001-6EUX9) for $1,200 (save $440)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Dell monitor holiday deals
 
 * [Dell S2721HS 27-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721HS-Adjustable-Response-FreeSync%2Fdp%2FB09S4ZZMS9%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $180 (save $40)
 * [Dell SE2422HX 24-inch monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-inch-Monitor-1920-1080%2Fdp%2FB096MXR34N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1): $100 (save $30)
 * [Dell 27-inch 4K FreeSync monitor](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FDell-S2721QS-Ultra-Thin-DisplayPort-Certified%2Fdp%2FB08DQWG3JG%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C85af31ba-ec69-4671-8e0e-5cd0ce62589e%7Cdtp&dtb=1) for $297 (save $33)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
 
@@ -135,7 +135,7 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -210,18 +210,20 @@ Here are the top deals by category we've found so far:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-strategizing-your-approach-highlight-and-story-downloads-for-2024/"><u>[New] Strategizing Your Approach Highlight & Story Downloads for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unveiling-simple-techniques-for-effortless-undersea-vids/"><u>[New] Unveiling Simple Techniques for Effortless Undersea Vids</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>[Updated] 2024 Approved Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comprehensive-coverage-coalition-picking-an-mcn/"><u>[Updated] 2024 Approved Comprehensive Coverage Coalition Picking an MCN</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-best-webcam-recorders-for-windows-10/"><u>2024 Approved The Best Webcam Recorders for Windows 10</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/approach-identify-the-legal-documents-function-in-land-division/"><u>Approach: Identify the Legal Document's Function in Land Division.</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/boosting-traffic-elevating-your-pages-popularity-metric-for-2024/"><u>Boosting Traffic Elevating Your Page's Popularity Metric for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/corsairs-latest-gem-the-ultimate-review-for-the-superior-mp600-mini-1tb-m2-2230e2t-ssd-your-perfect-storage-solution/"><u>Corsair's Latest Gem: The Ultimate Review for the Superior MP600 Mini 1TB (M.2 2230/E2^T) SSD - Your Perfect Storage Solution!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341695533-exploring-the-features-of-the-asus-pro-b760m-ct-csm-motherboard-reviewed/"><u>Exploring the Features of the ASUS Pro B760M-CT CSM Motherboard - Reviewed!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-snap-shots-in-google-meet-a-quick-guide/"><u>Mastering Snap Shots in Google Meet A Quick Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-cutting-edge-gadgets-by-toms-tech-wisdom/"><u>The Ultimate Guide to Cutting-Edge Gadgets by Tom's Tech Wisdom</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-tutorial-on-extracting-music-from-brstm-file-format/"><u>The Ultimate Tutorial on Extracting Music From BRSTM File Format</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-free-mp3-skype-call-logger/"><u>[New] In 2024, Ultimate Free MP3 Skype Call Logger</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prepping-for-progress-a-technological-lifesaver/"><u>[New] Prepping for Progress A Technological Lifesaver</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-impressive-instagram-reels-quickly/"><u>[Updated] 2024 Approved Crafting Impressive Instagram Reels Quickly</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-8-trending-videos-on-facebook/"><u>[Updated] In 2024, 8 Trending Videos on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-flawless-screen-recorders/"><u>2024 Approved Flawless Screen Recorders</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-by-toms-hardware-hub/"><u>Expert Reviews by Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-brightness-rich-colors-comprehensive-review-of-the-viewsonic-xg272-2k-240-hz-gaming-display/"><u>High Brightness, Rich Colors - Comprehensive Review of the ViewSonic XG272-2k 240 Hz Gaming Display</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-story-savers-unleashed-instagrams-free-limit-breaker/"><u>In 2024, Story Savers Unleashed Instagram's Free Limit Breaker</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-icy-performance-and-expensive-price-tag-of-the-gigabyte-b650-aorus-elite-ax-motherboard-with-ample-usb-ports/"><u>In-Depth Review: Icy Performance and Expensive Price Tag of the Gigabyte B650 Aorus Elite AX Motherboard with Ample USB Ports</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-major-platforms-an-in-depth-look-at-facebook-twitter-instagram-and-youtube/"><u>Mastering the Major Platforms: An In-Depth Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-symphony-in-reverse-a-guide-to-state-of-the-art-audio-reversal-applications/"><u>New In 2024, Symphony in Reverse A Guide to State-of-the-Art Audio Reversal Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341755543-postoperative-monitoring-for-signs-of-infection-or-inflammation-is-crucial-after-ocular-trauma-treatment/"><u>Postoperative Monitoring for Signs of Infection or Inflammation Is Crucial After Ocular Trauma Treatment.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-home-computing-the-brainiac-review-of-raspberry-pi-ai-modules/"><u>Revolutionizing Home Computing: The Brainiac Review of Raspberry Pi AI Modules</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-comprehensive-tech-guides-and-gadget-reviews/"><u>Tom's Hardware: Comprehensive Tech Guides and Gadget Reviews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-your-world-essential-fixes-for-bluetooth-devices-without-sound/"><u>Unmute Your World: Essential Fixes for Bluetooth Devices Without Sound</u></a></li>
 </ul></div>
 

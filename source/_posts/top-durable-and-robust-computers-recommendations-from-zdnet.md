@@ -1,7 +1,7 @@
 ---
 title: Top Durable and Robust Computers - Recommendations From ZDNet
-date: 2024-11-26T19:07:22.800Z
-updated: 2024-11-27T18:47:55.820Z
+date: 2024-12-06T23:18:45.060Z
+updated: 2024-12-13T01:39:28.082Z
 tags:
   - laptops
 categories:
@@ -22,13 +22,13 @@ You can even find rugged laptops with enterprise-level security software, which 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best rugged laptop right now?
 
 We've tested and researched some of the best rugged laptops on the market. Our top pick for the best rugged laptop is the [Getac S510](https://www.getac.com/us/products/laptops/s510/#product-info) for its highly configurable options for shock, drop, moisture, and dust resistance as well as options for multiple storage drives, touchscreen, and even dual SIM, 4G/5G LTE connectivity, and GPS tracking. Keep reading below to find out more about the Getac S510 as well as our other top picks for the best rugged laptops.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best rugged laptops of 2024
 
@@ -47,10 +47,6 @@ Cons
 * Not consumer grade
 
 ## Getac S510
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best rugged laptop overall
 
@@ -106,6 +102,10 @@ Cons
 
 ## Acer Chromebook Spin 512
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best rugged laptop for students
 
 [Laptops for students](https://www.zdnet.com/article/best-laptop-for-college/) can take a lot of abuse, from getting shoved in backpacks to falling off desks. The Acer Chromebook Spin 512 is designed with MIL-STD-810H protection against shocks and drops as well as a spill-resistant keyboard. The 12-inch display has a built-in blue light filter to help reduce eye strain and fatigue and is made with Corning's Gorilla Glass for enhanced protection against cracks and chips. 
@@ -131,10 +131,6 @@ Cons
 * Dual screen takes time to acclimate
 * Short battery life
 * On the heavy side
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Asus ZenBook Pro Duo 15 OLED
 
@@ -168,11 +164,11 @@ Cons
 * No touchscreen option
 * No Intel option
 
-## Asus TUF A14
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Asus TUF A14
 
 ### Best rugged laptop for gaming
 
@@ -196,10 +192,6 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which rugged laptop is right for you?
 
 Beyond the usual laptop features -- like screen size and price -- you get to choose just how durable you'd like your rugged laptop to be. Manufacturers try to make the choice easier by dividing systems into "semi-rugged" and "rugged" -- the former meeting many everyday durability requirements, while the latter provides additional levels of protection for the harshest conditions. 
@@ -219,7 +211,7 @@ Don't forget to research the brand's ecosystem if you're going to need docks, mo
 | Asus TUF A14                     | A tough laptop for gaming. The Asus TUF A14 has a CNC-machined aluminum lid as well as hinges for enhanced durability as well as enhanced airflow and a full-width heatsink for better power efficiency.                                           |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these rugged laptops?
@@ -241,7 +233,7 @@ A laptop that is listed as "military grade" doesn't necessarily mean that it was
 Laptops meant for military use are more rigorously tested against a laundry list of conditions, while commercially available laptops labeled "military grade" are only tested against a few of the MIL-STD-810 standards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does Apple make a rugged laptop?
@@ -249,7 +241,7 @@ Laptops meant for military use are more rigorously tested against a laundry list
 At the time of writing, Apple does not have a ruggedized version of any of their MacBooks for sale, either through their official store or authorized sellers. You can, however, purchase rugged cases like the [Urban Armor Gear](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FURBAN-ARMOR-GEAR-Feather-Light-Translucent%2Fdp%2FB08M5KWNW4%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce6d9421-411a-4714-a53e-6c60f9d267e5%7Cdtp&dtb=1) for the 13-inch MacBook Pro, the [Ibenezer case](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07D848J6V%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce6d9421-411a-4714-a53e-6c60f9d267e5%7Cdtp&dtb=1) for the 13-inch MacBook Air, or the [Pelican 1085](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPelican-1095CC-Laptop-Case-Liner%2Fdp%2FB006C21MCU%2F%3Ftag-zdnet-deals-20%3D%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce6d9421-411a-4714-a53e-6c60f9d267e5%7Cdtp&dtb=1) hardshell carrying case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More rugged laptops to consider
@@ -259,6 +251,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B3Y3M68J%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce6d9421-411a-4714-a53e-6c60f9d267e5%7Cdtp&dtb=1)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Nano Gen 2
 
@@ -271,6 +267,10 @@ Show less
 [View now at Getac](https://www.getac.com/us/products/laptops/b360/)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Getac B360
 
@@ -330,20 +330,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-encyclopedia-of-hands-on-detection/"><u>[New] 2024 Approved The Encyclopedia of Hands-On Detection</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-finest-zero-price-virtual-console-options/"><u>[New] In 2024, Finest Zero Price Virtual Console Options</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-quiet-quality-of-comfort-asmr-expert-choices/"><u>[New] The Quiet Quality of Comfort ASMR Expert Choices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-blueprint-to-climbing-your-way-up-in-youtube-ranks/"><u>[Updated] The Blueprint to Climbing Your Way Up in YouTube Ranks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-art-of-game-recording-a-comprehensive-look/"><u>2024 Approved The Art of Game Recording A Comprehensive Look</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-20mb-files-timing-for-2024/"><u>Breaking Down 20MB File's Timing for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-value-in-mechanical-switches-with-the-logitech-g515-lightspeed-tkl-review/"><u>Discover the Best Value in Mechanical Switches with the Logitech G515 Lightspeed TKL Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-home-networking-experience-with-the-asus-rog-rapture-gt-be9-cu-7-a-detailed-performance-review/"><u>Elevate Your Home Networking Experience with the Asus ROG Rapture GT-BE9 Cu 7 - A Detailed Performance Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-ultra-fast-ddr5-6000-16gb-crucial-ram-overclocked-review/"><u>Expert Insight on Ultra-Fast DDR5-6000 16GB Crucial RAM Overclocked Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-components-with-toms-hardware-experts/"><u>Exploring PC Components with Tom's Hardware Experts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-discovering-digital-dialogues-facebook-video-exchange/"><u>In 2024, Discovering Digital Dialogues Facebook Video Exchange</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-identifying-replicated-data-points-in-excel-tutorial/"><u>Mastering the Art of Identifying Replicated Data Points in Excel Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/soundsnatcher-free-guide-and-assessment/"><u>SoundSnatcher Free Guide & Assessment</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware/"><u>Unlocking Computer Secrets with Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-components-toms-hardware-guide/"><u>Unveiling the Latest in Computer Components - Tom's Hardware Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-top-gains-on-social-media-secure-and-scalable-tactics/"><u>[Updated] In 2024, The Top Gains on Social Media - Secure & Scalable Tactics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-sonos-commits-enhancements-reviving-cherished-application-functions/"><u>1. Sonos Commits Enhancements: Reviving Cherished Application Functions</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-talking-avatar/"><u>2024 Approved What Is Talking Avatar?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-tile-encounters-serious-data-breach-immediate-measures-and-consequences-explained/"><u>Breaking News: Tile Encounters Serious Data Breach – Immediate Measures and Consequences Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-to-solve-inpage-kernel-data-discrepancies/"><u>Effective Fixes to Solve inPage Kernel Data Discrepancies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grasping-the-glossary-of-virtual-worlds-for-2024/"><u>Grasping the Glossary of Virtual Worlds for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-correct-error-code-0x800f0831-through-automatic-windows-patching/"><u>How to Seamlessly Correct Error Code 0X800f08^31 Through Automatic Windows Patching</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 mini</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reestablishing-high-quality-display-on-win11/"><u>Reestablishing High-Quality Display on Win11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/systems-silent-spotlight-on-nvidia-how-to-fix/"><u>System's Silent Spotlight on NVIDIA - How to Fix?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-smart-home-controllers-the-ultimate-list/"><u>Top-Rated Smart Home Controllers: The Ultimate List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-streamer-comparison-clash-of-titans-apple-tv-roku-amazon-fire-tv-and-google-tv/"><u>Ultimate Streamer Comparison: Clash of Titans - Apple TV, Roku, Amazon Fire TV & Google TV</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-usb-standards-a-comprehensive-guide-to-generations-1-2-and-2x2-decoding-usb-32/"><u>Understanding USB Standards: A Comprehensive Guide to Generations 1, 2, & 2X2 - Decoding USB 3.2</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-unveiling-8-crucial-video-game-auditory-elements-all-free/"><u>Updated Unveiling 8 Crucial Video Game Auditory Elements - All Free</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-computers-performance-with-our-prime-day-special-on-high-speed-nvme-ssd-drives/"><u>Upgrade Your Computer's Performance with Our Prime Day Special on High-Speed NVMe SSD Drives!</u></a></li>
 </ul></div>
 

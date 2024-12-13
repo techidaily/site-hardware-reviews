@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2024-11-29T21:46:40.079Z
-updated: 2024-12-06T23:06:29.661Z
+date: 2024-12-09T21:35:56.477Z
+updated: 2024-12-13T03:30:50.391Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,20 +67,17 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-making-every-photo-on-iphone-blurry-with-4-tricks-up-your-sleeve/"><u>[New] Making Every Photo on iPhone Blurry with 4 Tricks Up Your Sleeve</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-strategies-to-attain-facebooks-prestige-blue-icon-for-2024/"><u>[New] Strategies to Attain Facebook’s Prestige Blue Icon for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-ultimate-tonal-transformation-for-android-users/"><u>[Updated] 2024 Approved The Ultimate Tonal Transformation for Android Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/approval-from-government-agencies-or-planning-commissions-is-typically-required-before-proceeding/"><u>Approval From Government Agencies or Planning Commissions Is Typically Required Before Proceeding.</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 12</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-10-free-online-neon-text-creators-no-design-skills-needed/"><u>In 2024, The Ultimate List 10 Free Online Neon Text Creators (No Design Skills Needed)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-the-issue-with-roblox-really-you-or-is-it-actually-down/"><u>Is the Issue With Roblox Really You, or Is It Actually Down?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-hardware-journey/"><u>Mastering Gadgets with Tom - A Hardware Journey</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-hardware-hub/"><u>Mastering Gadgets with Tom's Hardware Hub</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/nas-systeme-effizient-sichern-professionelle-tipps-und-bewahrte-verfahren-fur-die-datenwiederherstellung/"><u>NAS-Systeme Effizient Sichern: Professionelle Tipps Und Bewährte Verfahren Für Die Datenwiederherstellung</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-through-raspberry-pis-enhanced-speed-and-capacity-insights-from-our-in-depth-analysis-of-the-m2-hatplus/"><u>Navigating Through Raspberry Pi's Enhanced Speed and Capacity: Insights From Our In-Depth Analysis of the M.2 HAT+</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-amd-ryzen-5-9600x-and-ryzen-7-9700xs-superior-gaming-capabilities-in-zen-5-era/"><u>The Game Changer: AMD Ryzen 5 9600X & Ryzen 7 9700X's Superior Gaming Capabilities in Zen 5 Era</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-electronics-with-toms-hardware-guidance/"><u>Unveiling the Best Electronics with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-logitech-g-pro-x-2-lightspeed-the-ultimate-review-for-gamers-perfection/"><u>Unveiling the Power of the Logitech G Pro X 2 Lightspeed: The Ultimate Review for Gamers' Perfection</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96320821-9781580059145-wicca/"><u>Wicca | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-screen-capture-in-dota-2-matches/"><u>[Updated] Effortless Screen Capture in Dota 2 Matches</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6 Plus and iPad Securely</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4pwav/"><u>M4PファイルからWAVへの完全な変換ガイド - ステップバイステップマニュアル</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-expertise-from-toms-hardware-experts/"><u>Mastering Devices with Expertise From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/precision-pc-analysis-with-toms-hardware-experts/"><u>Precision PC Analysis with Tom's Hardware Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-wireless-usb-adapter-netgear/"><u>Quick Setup: Wireless USB Adapter NETGEAR</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-windows-glitches-causing-steam-errors/"><u>Resolving Windows Glitches Causing Steam Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/side-gigs-with-ai-is-chagpt-the-future-of-freelancing/"><u>Side Gigs with AI - Is ChaGPT the Future of Freelancing?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-how-to-set-a-new-screen-time-password-for-ios-and-macos-devices/"><u>Step-by-Step Tutorial: How to Set a New Screen Time Password for iOS & macOS Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341731936-the-future-of-resin-3d-printing-with-elegoos-saturn-4-ultra-a-detailed-review-exploring-its-technological-advancements/"><u>The Future of Resin 3D Printing with Elegoo's Saturn 4 Ultra - A Detailed Review Exploring Its Technological Advancements.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unraveling-the-latest-computer-innovations/"><u>Tom's Tech Insights: Unraveling the Latest Computer Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-truth-about-bluehost-a-comparative-look-at-their-cloud-vps-and-shared-solutions/"><u>Unveiling the Truth About Bluehost: A Comparative Look at Their Cloud, VPS & Shared Solutions</u></a></li>
 </ul></div>
 

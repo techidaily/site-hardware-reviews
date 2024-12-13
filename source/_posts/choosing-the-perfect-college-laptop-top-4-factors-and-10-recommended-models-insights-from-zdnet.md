@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Perfect College Laptop: Top 4 Factors & 10 Recommended Models - Insights From ZDNet"
-date: 2024-11-24T17:31:54.891Z
-updated: 2024-11-27T16:36:31.566Z
+date: 2024-12-09T01:37:57.098Z
+updated: 2024-12-13T02:20:41.545Z
 tags:
   - laptops
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Determine what you'll use your laptop for
 
 Microsoft Surface Pro: deconstructed
@@ -58,12 +54,20 @@ Trust me, the worst thing you could do is settle for a lower-end machine that st
 
 It's also important to consider your degree program or area of study while selecting a laptop. Many institutions may list recommended laptop and hardware options, so be sure to check your university's online resources, connect with a department chair, or talk with other students in your area of study too. More often than not, specific programs like engineering or mathematics suggest [Windows PCs](https://www.zdnet.com/article/best-windows-laptop/) over [MacBooks](https://www.zdnet.com/article/best-mac/) due to the particular software and programming. At the same time, the laptop selection will matter less for other degrees. Regardless of which category you fall into, you'll still want to purchase a top-notch laptop equipped to get you through the next four years (and beyond).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Opt for a powerful GPU and display if you'll be studying:
 
 * Graphic design
 * Photo editing, illustration
 * Video editing
 * 3D drafting
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Get a powerful processor if you'll be studying:
 
@@ -76,7 +80,7 @@ It's also important to consider your degree program or area of study while selec
 * Anything else
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Assess your budget
@@ -94,10 +98,6 @@ Here's what kind of laptop you're likely to get based on its price:
 * **$1,000 - $1,500:** This is the middle tier, where most new laptops can be found. Machines in this tier will be balanced enough for most users and armed with hardware a few steps above the baseline.
 * **$1,500 - $2,000:** These are mid-plus laptops with upgraded components compared to those in the middle tier, typically with better displays, more storage, and faster processors.
 * **$2,000 and above:** This bracket includes high-end machines with state-of-the-art processors, GPUs, and expensive OLED screens.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Get your student discount
 
@@ -148,7 +148,7 @@ However, ultraportability does come with tradeoffs. In terms of design, the cons
 [LG Gram Pro 17 $2,500 at LG](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.lg.com%2Fus%2Flaptops%2Flg-17z90sp-e.adb9u1-gram-laptop)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If you prioritize battery power
@@ -173,6 +173,10 @@ Some common tips to extend the life of your battery include:
 
 [Lenovo IdeaPad Pro 5i $1,129 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Pro-5i-16-Touchscreen-Intel-Evo-Platform-Laptop-Intel-Core-Ultra-9-processor-185H-120HZ-OLED-2048-x-1280-Display-Windows-11%2F5793352944&subId1=zd-__COM_CLICK_ID__-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## If you want a 2-in-1
 
 There are lots of benefits to having a convertible laptop in college. Being able to swap from tablet to laptop mode can be invaluable if you're studying a field where you need to make sketches or mockups on the fly. Alternatively, popping the machine into tent mode can be great for watching presentations, seminars, or virtual meetings. 
@@ -194,10 +198,6 @@ These are some additional factors that you might want to consider when shopping 
 * **Price:** Cost is an important factor, especially for students. I included laptops that cover a wide range of price points, from the inexpensive [Acer Aspire Go 15](https://www.zdnet.com/article/i-replaced-my-desktop-with-a-299-laptop-for-a-week-and-was-pleasantly-surprised/) at just $300 to the pricier [Lenovo Yoga Book 9i](https://www.zdnet.com/article/i-tested-lenovos-dual-screen-laptop-and-it-improved-my-productivity-in-profound-ways/) that will run closer to $2,000\. Keep in mind that most computer manufacturers offer student discounts, and their buying links are included in each laptop's section on this page.
 * **Operating system:** In order to maximize compatibility, many institutions will elect to run either all Windows or all MacOS systems. If your college chooses to go for Macs, you'll just need to [decide whether you want a MacBook Pro or a MacBook Air](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide/). Luckily, we've spent a lot of time breaking down the differences. If your college has chosen to use Windows laptops only, you'll have more options to sift through, but there's more room for personalization. Check out our list of [best Windows laptops](https://www.zdnet.com/article/best-windows-laptop/) for some additional options.
 * **Storage:** The amount of storage on your college laptop determines not only how much data your computer can hold but also how fast it can move. If you plan to use this laptop for all of your college classes, you will likely need a larger amount of storage if you plan to store all those papers and projects on the local drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -243,21 +243,22 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-grid-mastery-in-photos-with-our-select-apps/"><u>[New] Grid Mastery in Photos with Our Select Apps</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-securely-connect-a-step-by-step-guide-to-discord-calls/"><u>[New] In 2024, Securely Connect A Step-by-Step Guide to Discord Calls</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-kingston-fury-ddr5-6000-c40-with-dual-channels-a-thorough-review-of-its-capable-execution/"><u>Comprehensive Kingston Fury DDR5-6000 C40 with Dual Channels: A Thorough Review of Its Capable Execution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-pc-hardware-expert-insights-from-toms-tech-corner/"><u>Discover the Latest in PC Hardware: Expert Insights From Tom's Tech Corner</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy F15 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-20-proplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 20 Pro+ Phones</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-systems-the-ultimate-guide-by-toms-hardware-specialists/"><u>Mastering Computer Systems: The Ultimate Guide by Tom's Hardware Specialists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-game-field-with-the-aorus-fo32u2p-an-oled-gaming-monitor-that-redefines-luxury-and-speed-at-240hz-and-4k-resolution/"><u>Mastering the Game Field with the Aorus FO32U2P - An OLED Gaming Monitor That Redefines Luxury and Speed at 240Hz & 4K Resolution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-windows-10-update-glitch-fixing-error-code-0xc1900208/"><u>Overcoming the Windows 10 Update Glitch: Fixing Error Code 0xC1900208</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-hardware-analysis-by-tom-mastering-your-tech-choices/"><u>Pioneering Hardware Analysis by Tom - Mastering Your Tech Choices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-repair-a-crashed-game-of-football-manager-2020/"><u>Solved: How to Repair a Crashed Game of Football Manager 2020</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gadgets-and-components/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gadgets and Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turtle-beach-atlas-air-review-effortless-sound-quality-in-a-lightweight-package/"><u>Turtle Beach Atlas Air Review: Effortless Sound Quality in a Lightweight Package</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-5-tiktok-voice-generators-you-should-try/"><u>Updated Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-list-to-remember-reddits-highly-endorsed-top-threads/"><u>[New] A List to Remember Reddit’s Highly Endorsed Top Threads</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-flawless-cross-sound-mixing-in-audacity-pro/"><u>[New] In 2024, Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-every-moment-the-power-of-spring-screenrecorder/"><u>[Updated] In 2024, Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-11-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 11 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-latest-razer-blackwidow-driver-software-troubleshooting-help/"><u>Installing Latest Razer Blackwidow Driver Software | Troubleshooting Help</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-pong-game-on-raspberry-pi-pico-pov-technique-and-tailored-mouse-driver/"><u>Interactive Pong Game on Raspberry Pi Pico: POV Technique & Tailored Mouse Driver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/open-source-ultimate-tool-the-raspberry-pi-rp2vecky-hackbat-for-comprehensive-penetration-testing/"><u>Open-Source Ultimate Tool: The Raspberry Pi RP2vecky HackBat for Comprehensive Penetration Testing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-security-compromise-issue-in-video-games/"><u>Overcoming the 'Security Compromise' Issue in Video Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-reveals-plans-for-ipo-on-the-london-stock-exchange/"><u>Raspberry Pi Reveals Plans for IPO on the London Stock Exchange</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-diy-raspberry-pi-creation-unveiling-the-pi-1000-a-powerhouse-of-5-raspberry-units/"><u>Revolutionary DIY Raspberry Pi Creation - Unveiling the 'Pi 1000': A Powerhouse of 5 Raspberry Units!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplicity-in-complexity-your-gpt-4-journey/"><u>Simplicity in Complexity: Your GPT-4 Journey</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use-for-2024/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-modern-resurrection-of-classic-computers-a-tale-of-raspberry-pi-3d-printers-and-a-vintage-trs-80-revival/"><u>The Modern Resurrection of Classic Computers: A Tale of Raspberry Pi, 3D Printers, and a Vintage TRS-80 Revival</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-the-best-tech-gear/"><u>Tom's Computer Components: Your Guide to the Best Tech Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-entertainment-hub-raspberry-pi-cm4-core-with-integrated-sports-features-and-gpio-extension-ports/"><u>Ultimate Entertainment Hub: Raspberry Pi CM4 Core with Integrated Sports Features and GPIO Extension Ports</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-raspberry-pi-model-bplus-with-16gb-memory-successes-and-pitfalls/"><u>Upgrading Your Raspberry Pi Model B+ with 16GB Memory: Successes and Pitfalls</u></a></li>
 </ul></div>
 

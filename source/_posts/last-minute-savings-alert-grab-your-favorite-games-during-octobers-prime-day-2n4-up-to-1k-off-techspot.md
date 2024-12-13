@@ -1,7 +1,7 @@
 ---
 title: Last-Minute Savings Alert! Grab Your Favorite Games During October's Prime Day 2N4 - Up To $1K Off | TechSpot
-date: 2024-12-04T03:05:26.614Z
-updated: 2024-12-07T00:18:17.815Z
+date: 2024-12-06T00:26:41.863Z
+updated: 2024-12-12T16:11:10.359Z
 tags:
   - laptops
 categories:
@@ -101,6 +101,10 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More October Prime Day 2024 gaming deals still available
 
 ZDNET
@@ -118,10 +122,6 @@ ZDNET
 * [Logitech G F710 wireless gamepad for $30 (save $20)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-Wireless-Nano-Receiver-Controller-Vibration%2Fdp%2FB0041RR0TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A basic gamepad for PC gaming that uses 2.4GHz connectivity and dual-motor vibration so you can feel feedback for every in-game action like punches in fighting games or crashes in racing sims.
 * [AMD Ryzen 9 5900X for $215 (save $355)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAMD-Ryzen-5900X-24-Thread-Processor%2Fdp%2FB08164VTWH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A high-end gaming CPU with 12 cores, 24 threads, and a maximum clock speed of 4.8GHz.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PlayStation 5 deals still available
 
 ZDNET
@@ -136,6 +136,10 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -149,7 +153,7 @@ ZDNET
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
@@ -168,6 +172,10 @@ Nintendo/ZDNET
 * [Bayonetta 3 for $44 (save $16 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBayonetta-3-Nintendo-Switch%2F838016510%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Bayonetta returns to take on an invading host of bioweapons called the Homunculi. She'll use her signature pistols, magic abilities, and new companion, Viola, to take down monsters and save reality from destruction.
 * [Pokemon Scarlet/Violet dual pack for $103 (save $17 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Scarlet-Pokemon-Violet-Dual-Pack-Nintendo-Switch%2F1545999884%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This bundle includes copies of both Pokemon Scarlet and Violet, which is perfect for pokedex completionists and collectors alike.
 * [Pokemon Shining Pearl for $44 (save $16)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FPokemon-Shining-Pearl-Nintendo-Nintendo-Switch%2F890677903%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This remaster of Pokemon Pearl features all-new graphics, game modes, and mechanics for players returning to the Sinnoh region as well as fans visiting for the first time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming PC deals still available
 
@@ -190,10 +198,6 @@ Lenovo
 * [Acer Predator Triton Neo 16 for $1,500 (save $400 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPredator-Verified-AI-Powered-processor-PTN16-51-932N%2Fdp%2FB0CZBVRSXT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): The 16-inch display is Calman Verified for color accuracy, and the laptop is built with both an Intel Core Ultra 9 CPU and Nvidia GeForce RTX 4070 GPU.
 * [Alienware m18 for $1,750 (save $800 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-m18-fhd-480hz-gaming-laptop-amd-ryzen-9-32gb-memory-nvidia-geforce-rtx-4070-1tb-ssd-windows-11-pro-dark-metallic-moon%2F6543535.p%3FskuId%3D6543535&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's high-end gaming laptop has an 18-inch display with an impressive 480Hz refresh rate. It's built with an AMD Ryzen 9 7000 series CPU, 32GB of RAM, a 1TB SSD, and Nvidia RTX 4070.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming monitor deals still available
 
 Samsung/ZDNET
@@ -204,19 +208,11 @@ Samsung/ZDNET
 * [LG UltraGear OLED 39-inch curved monitor for $803 (save $697)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-39GS95QE-UltraGear-DisplayHDR-DisplayPort%2Fdp%2FB0CV1VL18C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): This ultra-wide monitor has a 240Hz refresh rate, 0.03ms response time, and OLED panel for more accurate colors, detailing, and contrast.
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PC gaming accessories deals still available
 
 * [Logitech G560 speaker system for $160 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-LIGHTSYNC-Gaming-Speakers-Lighting%2Fdp%2FB07B2WLS17%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A high-end speaker system for PC and console gaming with 7.1CH surround sound DTS:X Ultra audio, and RGB lighting.
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1e6555b8-bef6-4902-a796-8b5bdf93be3c%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
 
@@ -234,6 +230,10 @@ Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ra
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -304,18 +304,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-recorder-clean-and-clear-android-edition/"><u>[Updated] Premier Recorder Clean and Clear Android Edition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/249-for-a-premium-34-inch-asus-tuf-curved-gaming-screen-shop-now-on-amazon/"><u>$249 for a Premium 34-Inch Asus TUF Curved Gaming Screen - Shop Now on Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/analyst-forecast-oled-display-market-surges-with-over-134m-units-projected-for-yearly-delivery/"><u>Analyst Forecast: OLED Display Market Surges with Over 1.34M Units Projected for Yearly Delivery</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-oled-pg32ucdp-review-a-revolutionary-approach-towards-perfection-in-gaming-displays/"><u>Asus ROG Swift OLED (PG32UCDP) Review - A Revolutionary Approach Towards Perfection in Gaming Displays</u></a></li>
-<li><a href="https://extra-information.techidaily.com/boosting-like-counts-tips-for-tiktok-unboxings-for-2024/"><u>Boosting Like Counts Tips for TikTok Unboxings for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/budget-friendly-high-resolution-4k-screens-top-choices/"><u>Budget-Friendly High-Resolution 4K Screens: Top Choices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-computer-news-and-reviews-by-team-toms-hardware/"><u>Cutting-Edge Computer News & Reviews by Team Tom's Hardware</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/earnings-explosion-how-to-maximize-income-on-youtube-shorts/"><u>Earnings Explosion How to Maximize Income on YouTube Shorts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v29-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V29 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>In 2024, Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-yuva-2-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Lava Yuva 2</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/no-video-display-on-sony-a6400-screen/"><u>No Video Display on Sony A6400 Screen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-using-and-evaluating-the-highly-functional-dell-inspiron-a-comprehensive-review-by-zdnet/"><u>The Ultimate Guide to Using and Evaluating the Highly Functional Dell Inspiron - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-step-by-step-guide-to-gain-more-likes-on-tiktok-unboxings/"><u>[New] 2024 Approved A Step-by-Step Guide to Gain More Likes on TikTok Unboxings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhancing-user-engagement-through-fb-slideshows/"><u>2024 Approved Enhancing User Engagement Through FB Slideshows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mp280-driver-upgrade-find-and-download-for-windows-1087/"><u>Canon MP280 Driver Upgrade - Find and Download for Windows 10/8/7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-msis-latest-innovation-the-aiplus-laptop-range-revolutionizing-gaming-and-creativity-with-up-to-542-tops/"><u>Discover MSI's Latest Innovation: The AI+ Laptop Range, Revolutionizing Gaming and Creativity with Up to 542 TOPS</u></a></li>
+<li><a href="https://win-guides.techidaily.com/expert-analysis-on-unexpected-freezes-and-blue-screen-errors-by-yl-technologies-advanced-support-guides/"><u>Expert Analysis on Unexpected Freezes and Blue Screen Errors by YL Technologies | Advanced Support Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-notch-computer-hardware-with-toms-review-guide/"><u>Explore Top-Notch Computer Hardware with Tom's Review Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cutting-edge-technology-at-toms-digital-workshop/"><u>Exploring Cutting-Edge Technology at Tom's Digital Workshop</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-releases-with-toms-hardware-review/"><u>Exploring New Releases with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamer-and-creator-upgrades-dive-into-the-performance-of-msis-advanced-aiplus-laptops-showcasing-unprecedented-speed-from-100-542-tops/"><u>Gamer and Creator Upgrades: Dive Into the Performance of MSI's Advanced AI+ Laptops, Showcasing Unprecedented Speed From 100-542 TOPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-dell-g16-gaming-laptop-now-at-just-949/"><u>Get the Powerhouse Dell G16 Gaming Laptop Now at Just $949</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhance-engagement-with-these-essential-freegame-hashtags-for-youtube/"><u>In 2024, Enhance Engagement with These Essential FreeGame Hashtags for YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-peak-hours-for-releasing-podcasts/"><u>In 2024, Peak Hours for Releasing Podcasts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-asus-zenbook-s16-and-amd-ryzen-ai-9-hx-370-performance-breakdown/"><u>In-Depth Review: Asus Zenbook S16 & AMD Ryzen AI 9 HX 370 Performance Breakdown</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-shared-disappointment-with-iphones-ios-18-update-explored-on-zdnet/"><u>The Shared Disappointment with iPhone's iOS 18 Update Explored on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wav-and/"><u>ニコニコ音源をWAVに切り替える簡単な手順 - ダウンロード&変換方法</u></a></li>
 </ul></div>
 

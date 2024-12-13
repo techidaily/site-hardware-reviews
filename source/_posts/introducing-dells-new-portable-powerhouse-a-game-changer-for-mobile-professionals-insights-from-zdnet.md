@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2024-11-30T01:32:07.323Z
-updated: 2024-12-06T20:47:30.907Z
+date: 2024-12-09T18:34:36.403Z
+updated: 2024-12-13T01:06:12.736Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,20 +114,14 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-illuminate-ideas-a-guide-to-8-premier-iphone-drawing-apps/"><u>[New] 2024 Approved Illuminate Ideas A Guide to 8 Premier iPhone Drawing Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-boost-your-meeting-impact-with-efficient-screen-sharing/"><u>[New] In 2024, Boost Your Meeting Impact with Efficient Screen Sharing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-the-hub-of-your-youtube-success/"><u>[Updated] Navigating the Hub of Your YouTube Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-quick-glance-fastest-photo-viewer-in-11-os/"><u>[Updated] Quick Glance Fastest Photo Viewer in 11 OS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-the-production-process-of-your-short-videos/"><u>[Updated] Streamlining the Production Process of Your Short Videos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-pg2-t172386288019211/"><u>ASRock PG2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-instructions-for-dealing-with-not-foundmissing-steamdll-file/"><u>Comprehensive Instructions for Dealing with Not Found/Missing Steam.dll File</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-ai-evolution-what-sets-gpt-4-gpt-4-turbo-and-gpt-4o-apart/"><u>Deciphering AI Evolution: What Sets GPT-4, GPT-4 Turbo, and GPT-4o Apart?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exceptional-clarity-at-an-affordable-price-discover-hps-37-wqhdplus-ultrawide-display-with-ips-technology-ideal-for-professionals-seeking-quality-without-ol49/"><u>Exceptional Clarity at an Affordable Price: Discover HP’s 37 WQHD+ Ultrawide Display with IPS Technology, Ideal for Professionals Seeking Quality without OLED Expense</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-alienwares-stunning-34-curved-oled-display-for-only-749-at-best-buy/"><u>Experience Next-Level Gaming: Alienware's Stunning 34 Curved OLED Display for Only $749 at Best Buy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-future-of-gaming-with-alienwares-high-speed-aw2725df-monitor-an-expert-review-of-its-oled-brilliance/"><u>Experience the Future of Gaming with Alienware's High-Speed AW2725DF Monitor - An Expert Review of Its OLED Brilliance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-latest-in-affordable-laptops-minisforums-new-release-featuring-a-156-inch-144hz-1440p-screen-for-just-189/"><u>Experience the Latest in Affordable Laptops - Minisforum's New Release Featuring a 15.6-Inch, 144Hz, 1440P Screen for Just $189</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-pc-hardware-from-toms-gadget-insights/"><u>Expert Advice on PC Hardware From Tom's Gadget Insights</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-privacy-adjustments-for-youtube/"><u>In 2024, Step-by-Step Privacy Adjustments for YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-nubia-by-drfone-android/"><u>Top 10 Password Cracking Tools For Nubia</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-redefining-the-viewing-experience-top-alternatives-to-periscope/"><u>[Updated] 2024 Approved Redefining the Viewing Experience Top Alternatives to Periscope</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-expert-strategies-to-master-the-instagram-query-tag/"><u>2024 Approved Expert Strategies to Master the Instagram Query Tag</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-badoo-video-calls-with-top-rated-camera-softwares-including-manycam-solutions/"><u>Enhance Your Badoo Video Calls with Top-Rated Camera Softwares, Including ManyCam Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-benchmark-of-best-4k-youtube-to-mp3-video-processors/"><u>In 2024, Benchmark of Best 4K YouTube to MP3 Video Processors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-dive-into-computer-components/"><u>Tom's Tech Insights: A Dive Into Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Review: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-guides/"><u>Tom's Tech Review: In-Depth Computer & Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-ultimate-guide-to-computing-gear-and-innovations/"><u>Tom's Tech Review: Ultimate Guide to Computing Gear and Innovations</u></a></li>
 </ul></div>
 

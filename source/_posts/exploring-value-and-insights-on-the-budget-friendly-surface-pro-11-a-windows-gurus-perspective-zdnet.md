@@ -1,7 +1,7 @@
 ---
 title: "Exploring Value & Insights on the Budget-Friendly Surface Pro 11: A Windows Guru's Perspective - ZDNet"
-date: 2024-12-01T21:49:22.457Z
-updated: 2024-12-06T16:38:35.447Z
+date: 2024-12-09T02:12:39.352Z
+updated: 2024-12-13T03:09:58.340Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -65,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,24 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-secrecy-in-posts-how-to-oc/"><u>[Updated] Secrecy in Posts How to Oc</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/corsair/"><u>信頼性と便利さを重視したトップクラスCorsairデータ移行ソフトウェア - 高い検索エンジン最適化</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/filching-frames-from-films-for-windows-10-photos-collection/"><u>Filching Frames From Films for Windows 10 Photos Collection</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/highlights-and-pitfalls-of-this-luxury-compact-projection-device/"><u>Highlights and Pitfalls of This Luxury Compact Projection Device</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-icloud-top-tips-tricks-and-support-materials/"><u>Mastering iCloud: Top Tips, Tricks & Support Materials</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-steam-login-issues-on-rust-oses/"><u>Streamlining Steam Login Issues on Rust OSes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-art-of-impressive-hdr-portraits-explained/"><u>The Art of Impressive HDR Portraits Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-computer-hardware-reviews-t17238628805738/"><u>Tom's Tech Insights: In-Depth Computer Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-innovations-and-reviews/"><u>Tom's Tech Insights: Innovations and Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-computer-secrets-with-toms-hardware-wisdom/"><u>Unlocking Computer Secrets with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-high-performance-pcs-with-toms-hardware-guidance/"><u>Unlocking the Secrets of High-Performance PCs with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unpacking-the-latest-offerings-intels-arrow-lake-and-amd-ryzen-9000-motherboards-by-maxsun-an-array-of-31-models-across-five-unrevealed-chipset-platforms-al94/"><u>Unpacking the Latest Offerings: Intel's Arrow Lake & AMD Ryzen 9000 Motherboards by Maxsun - An Array of 31 Models Across Five Unrevealed Chipset Platforms, All Donning PCIe 800-Series Emblem</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unseen-smiles-hidden-glances-in-photos/"><u>Unseen Smiles, Hidden Glances in Photos</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-gadgets-the-toms-hardware-analysis/"><u>Unveiling Cutting-Edge Gadgets: The Tom's Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-toms-gadget-analysis-a-deep-dive-into-hardware-reviews/"><u>Unveiling the Secrets of Tom's Gadget Analysis: A Deep Dive Into Hardware Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-amd-ryzen-9000-ready-800-series-motherboard-chipsets-how-numbers-align-with-intel-offerings/"><u>Upcoming AMD Ryzen 9000-Ready 800 Series Motherboard Chipsets: How Numbers Align With Intel Offerings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-trusted-source-for-in-depth-analysis-toms-hardware-reviews/"><u>Your Trusted Source for In-Depth Analysis: Tom's Hardware Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-screen-capture-without-a-penny-the-top-apps-reviewed/"><u>[New] 2024 Approved Screen Capture Without a Penny The Top Apps Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-high-definition-vision-saving-tech/"><u>2024 Approved High Definition Vision Saving Tech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unleashing-potential-instagram-tiktok-sync-guidebook/"><u>2024 Approved Unleashing Potential Instagram-TikTok Sync Guidebook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amp-up-your-pc-with-freshly-downloaded-amd-radeon-window-drivers/"><u>Amp Up Your PC with Freshly Downloaded AMD Radeon Window Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-latest-in-wireless-technology-from-802-11bgn-to-80211a-and-beyond/"><u>Decoding the Latest in Wireless Technology: From 802. 11B/G/N to 802.11A and Beyond</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-thinkpad-x260-drivers-for-windows-10-step-by-step-guide/"><u>Download and Update Lenovo ThinkPad X260 Drivers for Windows 10: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/infiltrer-le-silence-devoilant-pourquoi-votre-ordinateur-sallume-sans-raison-apparente/"><u>Infiltrer Le Silence: Dévoilant Pourquoi Votre Ordinateur S'allume Sans Raison Apparente</u></a></li>
+<li><a href="https://fox-links.techidaily.com/simulating-spatial-jumps-visual-effect-techniques-for-2024/"><u>Simulating Spatial Jumps Visual Effect Techniques for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-ai-powered-apps-for-creating-stunning-presentations/"><u>Top 7 AI-Powered Apps for Creating Stunning Presentations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unusual-find-alert-thor-vs-darth-vader-styled-monitor-under-150-by-a-retailer-in-china/"><u>Unusual Find Alert: 'Thor vs Darth Vader' Styled Monitor Under $150 by a Retailer in China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-essential-utilities-of-feelworlds-compact-and-portable-dh101-display/"><u>Unveiling Essential Utilities of Feelworld’s Compact and Portable DH101 Display</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
 </ul></div>
 

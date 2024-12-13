@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Get the High-Performance HP Victus 15 Gaming Laptop at Just $515 During Amazon Prime Day - Exclusive Offer From Best Buy | ZDNet"
-date: 2024-11-23T17:47:53.830Z
-updated: 2024-11-27T18:26:45.780Z
+date: 2024-12-12T00:45:40.825Z
+updated: 2024-12-12T21:03:24.308Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,20 +63,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-finding-your-portal-to-youtubes-video-mastery-hub/"><u>[New] 2024 Approved Finding Your Portal to YouTube's Video Mastery Hub</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-minimizing-motion-blur-with-obs-adjustments/"><u>[New] 2024 Approved Minimizing Motion Blur with OBS Adjustments</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[Updated] Snapshot Spectaculars An Expert's Review of Recorders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-essential-tips-sharing-your-apple-devices-screen-with-youtube/"><u>2024 Approved Essential Tips Sharing Your Apple Devices Screen with YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-resin-3d-printing-with-the-new-elegoo-saturn-4-ultra-expert-review-inside/"><u>Cutting-Edge Resin 3D Printing with the New Elegoo Saturn 4 Ultra - Expert Review Inside!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-the-ultimate-review-of-the-id-cooling-frozn-a620-pro-ses-unparalleled-value-and-quality/"><u>Elevate Your Gaming Experience - The Ultimate Review of the ID-Cooling Frozn A620 Pro SE's Unparalleled Value and Quality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-capabilities-of-the-geekworm-x1011-as-a-nas-solution/"><u>Exploring the Capabilities of the Geekworm X1011 as a NAS Solution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/frozn-a620-pro-se-by-id-cooling-an-unmatched-investment-in-cooling-technology/"><u>Frozn A620 Pro SE by ID-Cooling - An Unmatched Investment in Cooling Technology</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-y55s-5g-2023-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo Y55s 5G (2023) FRP In 3 Different Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/precision-electronic-evaluations-the-toms-hardware-methodology/"><u>Precision Electronic Evaluations - The Tom's Hardware Methodology</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/real-time-broadcasting-made-easy-with-manycams-advanced-virtual-webcam-features/"><u>Real-Time Broadcasting Made Easy with ManyCam's Advanced Virtual Webcam Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-parts-with-toms-analysis/"><u>The Ultimate Guide to Computer Parts with Tom's Analysis</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-new-resolutions-potential/"><u>Unlocking New Resolutions' Potential</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-misuse-of-gpt-technology/"><u>Unveiling the Potential Misuse of GPT Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-does-youtube-work-after-a-video-is-uploaded-for-2024/"><u>[New] How Does YouTube Work After a Video Is Uploaded for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-strategies-for-optimal-ram-in-the-world-of-minecraft/"><u>[New] Strategies for Optimal RAM in the World of Minecraft</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-a-stepwise-approach-to-successfully-posting-srt-files-in-new-media/"><u>[Updated] A Stepwise Approach to Successfully Posting SRT Files in New Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-pioneers-designing-the-online-avengers-landscape/"><u>2024 Approved Pioneers Designing the Online Avengers Landscape</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-streamline-content-management-twitter-vids-to-insta-feed/"><u>2024 Approved Streamline Content Management Twitter Vids to Insta Feed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/first-glance-at-the-sonos-roam-2-opening-exploration-and-early-reactions/"><u>First Glance at the Sonos Roam 2: Opening, Exploration, and Early Reactions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-football-manager-2019-glitch-a-step-by-step-guide/"><u>Fixing the Football Manager 2019 Glitch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-qualcomms-snapdragon-x-challenges-the-dominance-of-apple-silicon-in-processor-performance/"><u>How Qualcomm's Snapdragon X Challenges the Dominance of Apple Silicon in Processor Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi Note 12 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-chipolo-one-trustworthy-and-effective-bluetooth-monitoring-gadget/"><u>In-Depth Review of the Chipolo One: Trustworthy and Effective Bluetooth Monitoring Gadget</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-amd-ryzen-9000-lineup-high-performance-cpus-now-ready-for-purchase/"><u>Introducing AMD Ryzen 9000 Lineup: High-Performance CPUs Now Ready for Purchase!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-spotify-poised-to-take-over-in-vehicle-entertainment-systems/"><u>Is Spotify Poised to Take Over in Vehicle Entertainment Systems?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/learning-from-errors-improving-your-smart-home-setups-with-these-common-blunders/"><u>Learning From Errors: Improving Your Smart Home Setups with These Common Blunders</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-updating-your-airpods-battery-and-firmware/"><u>Step-by-Step Guide: Updating Your AirPods Battery & Firmware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streamline-your-browsing-a-guide-to-the-best-auto-clicker-tools-for-android-phones/"><u>Streamline Your Browsing: A Guide to the Best Auto-Clicker Tools for Android Phones</u></a></li>
 </ul></div>
 

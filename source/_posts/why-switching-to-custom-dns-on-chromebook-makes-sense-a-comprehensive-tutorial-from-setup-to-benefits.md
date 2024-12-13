@@ -1,7 +1,7 @@
 ---
 title: Why Switching to Custom DNS on Chromebook Makes Sense - A Comprehensive Tutorial From Setup to Benefits
-date: 2024-11-22T17:07:13.860Z
-updated: 2024-11-27T16:18:02.194Z
+date: 2024-12-06T22:05:48.058Z
+updated: 2024-12-13T01:24:23.355Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ The term laptop is often used interchangeably with Chromebook, but there are som
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Chromebook?
@@ -43,6 +43,10 @@ In this comparison, "laptop" refers to portable computers running traditional op
 **More: [How to get Photoshop for free](https://www.zdnet.com/article/how-to-get-photoshop-for-free/)**
 
 For example, a person editing a photo on a standard laptop could use locally installed programs like Microsoft Paint, Adobe Photoshop, or GIMP, or photo-editing web apps like [Pixlr](https://pixlr.com/), [Imgur](https://imgur.com/edit?deletehash=TBFOmNPuPRoKQfh), or [Photoshop on the web (beta)](https://photoshop.adobe.com/). A user wanting to complete the same task on a Chromebook would need to rely on web apps, as locally installed options like Paint and Photoshop are not compatible with ChromeOS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can a Chromebook do everything a laptop can?
 
@@ -82,15 +86,7 @@ To be clear, you shouldn't purchase a Chromebook if you don't intend to have it 
 
 Google
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are Chromebooks expensive?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -104,10 +100,6 @@ You could buy a very low-end laptop for around the same price, but the build qua
 
 As an exception, there are several more high-priced Chromebooks available. High-end models like [Google's Pixelbook Go](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixelbook-go-13-3-touch-screen-chromebook-intel-core-m3-8gb-memory-64gb-solid-state-drive-just-black%2F6382912.p&publisher_slug=itechdaily19598&exclusive=1) or [Samsung's Galaxy Chromebook](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Chromebook-Computer-Touchscreen-Processor%2Fdp%2FB088T2C912%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777b66ed-2156-4aa3-aa69-881736030572%7Cdtp&dtb=1) incorporate premium materials, high-resolution displays, and internal components that would be at home in a high-end laptop. While these models are overkill for most Chromebook users, they could suit someone expecting their Chromebook to be their primary computing device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best Chromebook?
 
 The answer depends on your intended uses. Need a couch PC for basic browsing, maybe some social media, and the occasional streaming video? Then your priorities are very different from a student who wants a system with maximum portability and epic battery life. Because of this, ZDNET has best lists geared toward specific types of users, which you can find below.
@@ -120,6 +112,10 @@ If you want my quick picks for the best Chromebooks overall, I've included a few
 
 Getty
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For mixed use:
 
 [Lenovo IdeaPad Flex 5i $290 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RNCN3YV%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777b66ed-2156-4aa3-aa69-881736030572%7Cdtp&dtb=1)
@@ -127,7 +123,7 @@ Getty
 This is the Chromebook I've recommended to several family members and friends, all of whom reported excellent long-term satisfaction. Its touchscreen will let you play Android games, and its reliability and build quality will help you power through work or homework with equal ease. It's all the "laptop" most of us will ever need. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For gaming:
@@ -141,6 +137,10 @@ I've reviewed two of the three Chromebooks included in the first wave of gaming-
 [Google Pixelbook Go $699.99 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB07YMGQYP6%2Fref%3Dasc%5Fdf%5FB07YMGQYP61728558000000%3Fcreative%3D395261%26creativeASIN%3DB07YMGQYP6%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C777b66ed-2156-4aa3-aa69-881736030572%7Cdtp&dtb=1)
 
 $650 might seem pricey when options like the great Lenovo model above exist. But, the exceptional build quality, 12-hour battery life, and laptop-class CPU all make a great case for this being the Chromebook to buy if you intend to be a one-computer traveler. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For young students:
 
@@ -178,24 +178,20 @@ I wouldn't call the Dell Chromebook 3100 disposable at $100, but it's as close a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-harnessing-techniques-for-superior-pics-free-of-charge/"><u>[New] Harnessing Techniques for Superior Pics, Free of Charge</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ow-to-add-youtube-annotations-and-cards-in-2024/"><u>[New] How to Add YouTube Annotations and Cards, In 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-how-to-use-markers-in-video-recording-and-editing/"><u>[New] How to Use Markers in Video Recording and Editing?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-speech-clarity-achieved-by-googles-advanced-conversion-for-2024/"><u>[Updated] Speech Clarity Achieved by Google's Advanced Conversion for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-c210-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia C210 Activity | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-increasing-your-pcs-storage-with-the-highpoint-rocket-1608a-add-on-device-a-performance-snapshot/"><u>Comprehensive Guide to Increasing Your PC’s Storage with the HighPoint Rocket 1608A Add-On Device: A Performance Snapshot</u></a></li>
-<li><a href="https://network-issues.techidaily.com/directx-missing-resolved-via-armoring-tech/"><u>DirectX Missing, Resolved via Armoring Tech</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dissecting-the-mismatch-of-visuals-and-capability-a-closer-look-at-valkyrie-vind-sl125/"><u>Dissecting the Mismatch of Visuals and Capability: A Closer Look at Valkyrie Vind SL125</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-uphere-c5cd6sec-air-coolers-impressive-budget-friendly-options/"><u>Evaluating the UpHere C5C/D6Sec Air Coolers: Impressive Budget-Friendly Options</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-peak-performance-best-oculus-rift-players/"><u>Exploring Peak Performance Best Oculus Rift Players</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-dell-xps-13-9n45-timeless-design-and-enhanced-performance-via-snapdragon-x-elite/"><u>Exploring the Dell XPS 13 (9N45): Timeless Design and Enhanced Performance via Snapdragon X Elite</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-essentials-a-guide-by-tom/"><u>Mastering Hardware Essentials - A Guide by Tom</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/playchoice-pondering-over-dacast-for-2024/"><u>PlayChoice Pondering Over DaCast for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/seamless-video-conferencing-with-zoom-and-gmail/"><u>Seamless Video Conferencing with Zoom & Gmail</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-news-latest-innovations-and-reviews-on-toms-hardware/"><u>Tech News, Latest Innovations & Reviews on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-lofree-edge-reviewed-stylish-and-portable-with-a-costlier-price-than-apples-iconic-keyboard/"><u>The Lofree Edge Reviewed: Stylish & Portable with a Costlier Price than Apple's Iconic Keyboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-toms-gadget-guide-in-depth-insights-into-hardware-and-software/"><u>The Tom's Gadget Guide: In-Depth Insights Into Hardware and Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-10-best-free-mmorpg-games-you-can-find-for-2024/"><u>Top 10 Best Free MMORPG Games You Can Find for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-with-elegoos-saturn-cube-xl-a-comprehensive-review-on-its-impact-in-resin-3d-technology/"><u>Unveiling Innovations with Elegoo's Saturn Cube XL - A Comprehensive Review on Its Impact in Resin 3D Technology</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-filmmakers-dilemma-picking-between-filmora-and-democracy-creator/"><u>[New] 2024 Approved Filmmaker's Dilemma Picking Between Filmora & Democracy Creator</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-budget-drone-buyers-guide-top-choices-under-100/"><u>[New] Budget Drone Buyer's Guide Top Choices Under $100</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>[Updated] From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-electronics-with-toms-review-comprehensive-hardware-guides/"><u>Dive Into Electronics with Tom’s Review: Comprehensive Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-a-guide-by-toms-hardware-experts/"><u>Exploring the World of Computing with Tom - A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-speedy-solutions-snapshots-of-slideshows/"><u>In 2024, Speedy Solutions Snapshots of Slideshows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-xiaomi-redmi-a2-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-frequent-freezes-and-crashes-in-elex-ii-on-pcs/"><u>Mastering Stability: Overcoming Frequent Freezes and Crashes in Elex II on PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-the-ultimate-guide-to-computer-components-t17239718671242/"><u>Tom's Tech Review: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-insights/"><u>Tom's Tech Reviews: Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-gadget-insights-and-performance-analysis/"><u>Tom's Tech Reviews: Expert Gadget Insights and Performance Analysis</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/understanding-how-prices-are-set-in-the-world-of-crypto-insights-from-yl-computing-and-yl-software/"><u>Understanding How Prices Are Set in the World of Crypto: Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-intels-core-i9-11900k-achieving-7ghz-overclock-with-advanced-ln2-techniques/"><u>Unleashing the Power of Intel's Core I9-11900K: Achieving 7GHz Overclock with Advanced LN2 Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-gadgets-with-tom-the-ultimate-guide-to-modern-electronics/"><u>Unveiling Gadgets with Tom: The Ultimate Guide to Modern Electronics</u></a></li>
 </ul></div>
 

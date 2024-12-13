@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future on Day 2 of CES 2023: Top Innovations and Breakthroughs - Insights"
-date: 2024-11-23T18:48:16.069Z
-updated: 2024-11-27T16:05:37.964Z
+date: 2024-12-10T16:20:32.322Z
+updated: 2024-12-13T00:43:57.402Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,22 +142,24 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-blueprint-for-adhering-to-youtube-community-guidelines/"><u>[New] The Blueprint for Adhering to YouTube Community Guidelines</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>[New] The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-for-novices-a-primer-on-av1-technology/"><u>[Updated] For Novices A Primer on AV1 Technology</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigate-your-path-to-prominence-a-precise-guide-to-youtubes-featured-listings-for-2024/"><u>[Updated] Navigate Your Path to Prominence A Precise Guide to Youtube's Featured Listings for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-mini-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 mini Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/education/"><u>Education</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-logitech-speaker-software-updates-for-your-pc-windows-1078/"><u>Get the Newest Logitech Speaker Software Updates for Your PC (Windows 10/7/8)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-gadgets-with-toms-hardware-digest/"><u>Inside Look at Gadgets with Tom's Hardware Digest</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-down-the-sunfounder-pironman-5-thorough-review-and-detailed-setup-instructions/"><u>Taking Down the SunFounder Pironman 5: Thorough Review and Detailed Setup Instructions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-key-steps-effective-obs-streaming-directly-to-facebook-users-for-2024/"><u>The Key Steps Effective OBS Streaming Directly to Facebook Users for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-world-of-toms-hardware-insights-into-cutting-edge-computing-tools/"><u>The World of Tom's Hardware: Insights Into Cutting-Edge Computing Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-address-steams-file-privilege-problem-in-win11/"><u>Tips to Address Steam's File Privilege Problem in Win11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computing-chronicles-expert-analysis-on-modern-tech-hardware/"><u>Tom's Computing Chronicles: Expert Analysis on Modern Tech Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/turtle-beachs-atlas-air-earphones-surpassing-audio-expectations/"><u>Turtle Beach's ATLAS Air Earphones: Surpassing Audio Expectations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computer-hardware-with-tom-expert-insights-and-tips/"><u>Unveiling the Latest in Computer Hardware with Tom - Expert Insights and Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-components-with-toms-gear-guide/"><u>Unveiling the Latest in PC Components with Tom's Gear Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exploring-the-capabilities-of-screenflow-on-mac-devices/"><u>[New] In 2024, Exploring the Capabilities of ScreenFlow on Mac Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics/"><u>[New] In 2024, Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>[Updated] In 2024, Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-pimoronis-nvme-storage-card-a-detailed-duo-review/"><u>Comprehensive Evaluation of Pimoroni's NVMe Storage Card - A Detailed Duo Review</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-passwords-identifying-win-11-writers-of-change/"><u>Cutting-Edge Passwords: Identifying Win 11' Writers of Change</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-in-computing-with-toms-gear-insights/"><u>Exploring New Horizons in Computing with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17239718756091/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-command-a-flip-display-using-your-raspberry-pi-a-simple-guide/"><u>How to Command a Flip Display Using Your Raspberry Pi: A Simple Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-storm-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Storm 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/managing-a-flip-screen-with-raspberry-pi-tips-and-techniques-for-successful-setup/"><u>Managing a Flip Screen with Raspberry Pi: Tips and Techniques for Successful Setup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-components-with-toms-hardware-guides-your-ultimate-resource-for-gear-analysis-and-selection/"><u>Navigating PC Components with Tom's Hardware Guides: Your Ultimate Resource for Gear Analysis and Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-in-depth-hardware-analysis/"><u>Navigating the World of Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-release-huawei-and-orange-pi-unveil-innovative-development-board-featuring-enigmatic-cpu-and-advanced-ai-processor-outmaneuvering-curious-onlo33/"><u>Revolutionary Release: Huawei & Orange Pi Unveil Innovative Development Board Featuring Enigmatic CPU & Advanced AI Processor, Outmaneuvering Curious Onlookers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-allure-of-the-new-ipad-air-discover-4-undeniable-reasons-from-apple-that-make-it-worth-your-attention-zdnet/"><u>The Allure of the New iPad Air: Discover 4 Undeniable Reasons From Apple that Make It Worth Your Attention | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/three-essential-steps-apple-needs-to-take-to-revitalize-the-vision-pro-insights-from-zdnet/"><u>Three Essential Steps Apple Needs to Take to Revitalize the Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/trustworthy-source-for-free-killer-e2200-gigabit-network-interface-card-driver-downloads/"><u>Trustworthy Source for Free Killer E2200 Gigabit Network Interface Card Driver Downloads</u></a></li>
 </ul></div>
 

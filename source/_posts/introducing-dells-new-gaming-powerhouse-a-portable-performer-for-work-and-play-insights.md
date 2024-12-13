@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2024-12-01T02:35:31.741Z
-updated: 2024-12-06T22:13:44.611Z
+date: 2024-12-08T01:41:16.463Z
+updated: 2024-12-12T22:59:45.952Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,24 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-live-twitch-streams-top-5-tips/"><u>[Updated] In 2024, Mastering Live Twitch Streams Top 5 Tips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-transform-your-win11-sessions-with-advanced-zoom-skills/"><u>[Updated] In 2024, Transform Your Win11 Sessions with Advanced Zoom Skills</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-list-10-prime-video-cameras-for-pcs/"><u>[Updated] In 2024, Ultimate List 10 Prime Video Cameras for PCs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-essential-win11-tools/"><u>2024 Approved Unleashing Potential Essential Win11 Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-digital-sidekick-snapchats-my-ai-vs-chatgpt/"><u>Choosing Your Digital Sidekick: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/craft-compelling-fb-video-ads-free-toolkit-included/"><u>Craft Compelling FB Video Ads - Free Toolkit Included</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-unresponsive-mousepads-on-laptops-with-windows-1187-os-a-comprehensive-guide/"><u>Effective Fixes for Unresponsive Mousepads on Laptops with Windows 11/8/7 OS - A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-insight-evaluating-the-cutting-edge-technology-of-google-nest-hello-with-face-detection-and-smart-alert-systems/"><u>Expert Insight: Evaluating the Cutting-Edge Technology of Google Nest Hello with Face Detection & Smart Alert Systems</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-hardware-reviews-and-tips/"><u>Exploring the World of Computing with Tom - Hardware Reviews and Tips</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-ready-for-a-hotter-more-efficient-era-with-pcie-60s-thermal-advancements/"><u>Get Ready for a Hotter, More Efficient Era with PCIe 6.0'S Thermal Advancements</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/harnessing-advanced-port-options-with-the-asrock-z890-taichi-ten-usb-c-and-two-thunderbolt-explained/"><u>Harnessing Advanced Port Options with the ASRock Z890 Taichi: Ten USB C and Two Thunderbolt Explained</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-technology-insights-at-your-fingertps-visit-toms-hardware/"><u>Innovative Technology Insights at Your Fingertps: Visit Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-top-notch-tech-toms-hardware-innovation-spotlight/"><u>Inside Look at Top-Notch Tech: Tom's Hardware Innovation Spotlight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-inside-tips-from-toms-hardware-experts/"><u>Mastering Technology: Inside Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-next-purchase-insights-from-toms-hardware-experts/"><u>Mastering Your Next Purchase - Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mobile-mastery-high-shots-with-your-smartphone/"><u>Mobile Mastery High Shots with Your Smartphone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-new-technologies-through-toms-hardware-wisdom/"><u>Navigating New Technologies Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-customizing-client-workouts-for-enhanced-results/"><u>The Role of ChatGPT in Customizing Client Workouts for Enhanced Results</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[New] 2024 Approved Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-insider-secrets-to-record-sims-gaming/"><u>[New] 2024 Approved Insider Secrets to Record Sims Gaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[Updated] 2024 Approved Gain Traction on YouTube Deciphering Ranking Principles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series/"><u>[Updated] The Power of Pausing Incorporating Effective Chapters in Your YouTube Series</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-pro-models-a-detailed-comparison-of-the-latest-flagship-tablets-from-apple-tech-advice/"><u>Choosing Between iPad Pro Models: A Detailed Comparison of the Latest Flagship Tablets From Apple | Tech Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-software-and-more-at-toms-tech-destination/"><u>Delving Into Hardware, Software, and More at Tom's Tech Destination</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-through-toms-equipment-insights/"><u>Discover Cutting-Edge Devices Through Tom's Equipment Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unparalleled-gaming-with-the-alienware-aw225df-the-ultimate-review-of-a-360hz-oled-display/"><u>Experience Unparalleled Gaming with the Alienware AW2^®25DF - The Ultimate Review of a 360Hz OLED Display</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-methods-for-downloading-and-setting-up-toshiba-printer-drivers-in-windows/"><u>Quick and Easy Methods for Downloading & Setting up Toshiba Printer Drivers in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-strengths-of-the-long-range-capable-uniden-r3-a-reviewers-perspective/"><u>Uncovering the Strengths of the Long-Range Capable Uniden R3 - A Reviewer's Perspective</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Insight: A Google Worker's Perspective on Finding Happiness in a MacBook Over Traditional Windows Laptops Analysis"
-date: 2024-11-29T20:50:28.295Z
-updated: 2024-12-06T17:15:09.993Z
+date: 2024-12-05T21:12:50.250Z
+updated: 2024-12-12T20:50:28.311Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-recording-revolution-tactics-for-extracting-live-data/"><u>[New] 2024 Approved Recording Revolution Tactics for Extracting LIVE Data</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-iphone-macro-photography-tips-and-tricks/"><u>[New] Expert iPhone Macro Photography Tips and Tricks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-seamless-social-media-experience-with-fb-videos/"><u>[New] In 2024, Seamless Social Media Experience with FB Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-enhancing-iphone-photos-in-shadows/"><u>[Updated] Enhancing iPhone Photos in Shadows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-performance-hardware-for-live-video-feeds/"><u>2024 Approved High-Performance Hardware for Live Video Feeds</u></a></li>
-<li><a href="https://article-helps.techidaily.com/accessing-and-using-srt-audio-on-various-oses/"><u>Accessing and Using SRT Audio on Various OSes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-review-unveiling-the-power-of-miniaturized-wi-fi/"><u>ASRock Z790I Lightning Wireless Review: Unveiling the Power of Miniaturized Wi-Fi</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/code-b200-resolution-achieved/"><u>Code B200 Resolution Achieved</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-hardware-discoveries-from-toms-computer-chronicles/"><u>Dive Into Hardware: Discoveries From Tom's Computer Chronicles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-gear-hub/"><u>Exploring Technology with Tom's Gear Hub</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-edgeplus-2023-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Edge+ (2023), is it possible?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/social-media-savvy-the-best-25-hashtags-for-likes-and-followers-for-2024/"><u>Social Media Savvy The Best 25 Hashtags for Likes and Followers for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-differences-a-critical-review-of-hostgator-vps-and-shared-plans/"><u>Unveiling the Differences: A Critical Review of HostGator VPS and Shared Plans</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-photographers-aid-free-mobile-photography-boost/"><u>[New] 2024 Approved Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-scaling-up-on-igtv-through-powerful-hash-tagging/"><u>[New] 2024 Approved Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-perfect-proposal-to-perfection-8-best-weddings-online/"><u>[Updated] In 2024, The Perfect Proposal to Perfection 8 Best Weddings Online</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leader-of-sensory-media-creation/"><u>[Updated] Leader of Sensory Media Creation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-creating-gentle-volume-reduction-in-audacity/"><u>2024 Approved Creating Gentle Volume Reduction in Audacity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-prime-top-10-audio-capture-software-for-spotify-users/"><u>2024 Approved Prime Top 10 Audio Capture Software for Spotify Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-up-to-photo-perfection-with-leading-skin-editors/"><u>2024 Approved Step Up to Photo Perfection with Leading Skin Editors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg32ucdp-oled-display-a-detailed-review-toward-excellence/"><u>Asus ROG Swift PG32UCDP OLED Display: A Detailed Review Toward Excellence</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-the-ultimate-6ghz-wireless-networking-champion-in-depth-review/"><u>Asus RT-BE96U: The Ultimate 6GHz Wireless Networking Champion - In Depth Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>In 2024, Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/professional-insights-into-the-best-soundbars-of-2024-your-ultimate-guide-by-zdnet/"><u>Professional Insights Into the Best Soundbars of 2024 - Your Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-battle-screen-gigabyte-aorus-oled-gaming-monitors-vivid-colors-and-dynamic-range-unveiled/"><u>The Ultimate Battle-Screen: Gigabyte Aorus OLED Gaming Monitor's Vivid Colors & Dynamic Range Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-technology-by-toms-experts/"><u>The Ultimate Guide to Technology by Tom's Experts</u></a></li>
 </ul></div>
 

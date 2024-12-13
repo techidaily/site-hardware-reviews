@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: Microsoft's Strategy with Next-Generation AI Chip Poised to Outperform Apple MacBook - Live Demo on ZDNet"
-date: 2024-11-21T16:58:01.304Z
-updated: 2024-11-27T17:33:30.488Z
+date: 2024-12-12T01:57:29.172Z
+updated: 2024-12-12T18:51:39.037Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -48,6 +48,10 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -61,7 +65,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -81,7 +85,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -121,7 +125,7 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI story is incomplete
@@ -143,10 +147,6 @@ The Paint and Photos apps are also loaded with AI-based features for creating an
 The real question is whether those features are powerful enough to make you switch from your current image-processing tool to one of Microsoft's built-in options. History says that's a pretty big ask.
 
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -192,19 +192,16 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-comprehensive-guide-to-platform-choice-and-management/"><u>[New] 2024 Approved Comprehensive Guide to Platform Choice and Management</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-conquer-the-connection-mastering-insta-tik-linkage/"><u>[New] Conquer the Connection Mastering Insta-Tik Linkage</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-riches-unleashed-measuring-your-success-on-youtubes-platform/"><u>[New] In 2024, Digital Riches Unleashed Measuring Your Success on YouTube's Platform</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-deep-dives-closer-scans-and-enhanced-gameplay-on-roblox/"><u>[Updated] 2024 Approved Deep Dives Closer Scans and Enhanced Gameplay on Roblox</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/cutting-edge-tech-mastering-dslr-macpc-for-social-media-broadcasts/"><u>Cutting Edge Tech Mastering DSLR, Mac/PC for Social Media Broadcasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-electronics-with-tom-an-authority-on-hardware/"><u>Deep Dive Into Electronics with Tom - An Authority on Hardware</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-for-code-43-error-rectification/"><u>Effective Strategies for Code 43 Error Rectification</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/get-more-bang-for-your-buck-with-the-acer-predator-orion-5000-review-elite-performance-without-breaking-the-bank/"><u>Get More Bang for Your Buck with the Acer Predator Orion 5000 Review: Elite Performance Without Breaking the Bank</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-recover-lost-steam-files-and-regain-your-gaming-permissions/"><u>Guide to Recover Lost Steam Files & Regain Your Gaming Permissions</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-computers-and-electronics-with-tom/"><u>Inside the World of Computers and Electronics with Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-hardware-innovation/"><u>Tom's Tech Insights: Exploring the Latest in Hardware Innovation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-the-devices-not-recognized-issue-on-windows-7/"><u>Troubleshooting: How to Fix the 'Devices Not Recognized' Issue on Windows 7</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-windows-portable-gaming-rig-a-comprehensive-review-of-the-expensive-asus-rog-ally-x/"><u>Unveiling the Best Windows Portable Gaming Rig: A Comprehensive Review of the Expensive Asus ROG Ally X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-trip-diary-to-hype-inducing-haul-the-editors-playbook/"><u>[New] 2024 Approved From Trip Diary to Hype-Inducing Haul The Editor's Playbook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-the-best-mobile-asmr-worldwide/"><u>[New] Navigating the Best Mobile ASMR Worldwide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-how-to-reverse-video-playback-on-android-phones/"><u>[Updated] In 2024, How to Reverse Video Playback on Android Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-compreenas-remove-old-ps5-saved-files-and-backups-quickly/"><u>A Compreenas Remove Old PS5 Saved Files and Backups Quickly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benchmarking-the-best-a-review-of-lexars-premium-ssd-range-including-the-sl500-and-sl600-featuring-turbocharged-speeds-of-up-to-20-gbps/"><u>Benchmarking the Best: A Review of Lexar's Premium SSD Range Including the SL500 and SL600, Featuring Turbocharged Speeds of Up to 20 Gbps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341658979-experience-the-powerful-symphony-with-blueants-soundblade-vibrant-sounds-and-style-combined/"><u>Experience the Powerful Symphony with BlueAnt's Soundblade - Vibrant Sounds & Style Combined!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-fallout-3-ultimate-tips-to-fix-boot-up-glitches/"><u>Mastering Fallout 3: Ultimate Tips to Fix Boot-Up Glitches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-essential-insights-from-toms-hardware-reviews/"><u>Mastering Technology: Essential Insights From Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/titan-armys-value-packed-warrior-in-depth-analysis-of-180hz-performance-and-quality-in-the-p27a2r-gaming-monitor/"><u>Titan Army's Value-Packed Warrior: In-Depth Analysis of 180Hz Performance & Quality in the P27A2R Gaming Monitor</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-to-prevent-fortnite-from-freezing-and-crashing-on-pcs/"><u>Ultimate Solution to Prevent Fortnite From Freezing and Crashing on PCs</u></a></li>
 </ul></div>
 

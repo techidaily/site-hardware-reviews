@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Productivity with Lenovo's Innovative Dual-Screen Laptop - A Game Changer for Professionals | ZDNet
-date: 2024-12-03T20:38:58.068Z
-updated: 2024-12-06T16:21:48.845Z
+date: 2024-12-06T23:58:13.107Z
+updated: 2024-12-12T22:18:53.301Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -59,7 +55,7 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
@@ -82,6 +78,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -103,7 +103,7 @@ To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,17 +182,22 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-capturing-desktop-image-on-windows-editions-for-2024/"><u>[Updated] Capturing Desktop Image on Windows Editions for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects/"><u>[Updated] Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elite-e-learning-platforms-beyond-udemy-explored-for-2024/"><u>[Updated] Elite E-Learning Platforms Beyond Udemy Explored for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-premiere-audio-to-text-converters/"><u>[Updated] In 2024, Premiere Audio-To-Text Converters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-installation-of-movie-maker-6-for-2024/"><u>[Updated] Mastering the Installation of Movie Maker 6 for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unparalleled-gaming-with-the-alienware-aw225df-the-ultimate-review-of-a-360hz-oled-display/"><u>Experience Unparalleled Gaming with the Alienware AW2^®25DF - The Ultimate Review of a 360Hz OLED Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-digital-tools-and-devices-toms-hardware-wisdom/"><u>Expert Analysis on Digital Tools and Devices: Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-electronics-welcome-to-toms-hardware-haven/"><u>Expert Analysis on Electronics - Welcome to Tom's Hardware Haven</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub/"><u>Exploring Technology with Tom's Hardware Hub</u></a></li>
-<li><a href="https://win-unique.techidaily.com/migrate-from-microsoft-hyper-v-gen-1-vms-to-gen-2-a-step-by-step-guide/"><u>Migrate From Microsoft Hyper-V Gen 1 VMs to Gen 2: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>[New] The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changing-savings-alert-snag-the-asus-tuf-gaming-laptop-with-a15-cpu-at-just-658-this-memorial-day/"><u>Game-Changing Savings Alert: Snag the ASUS TUF Gaming Laptop With A15 CPU at Just $658 This Memorial Day!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-discord-voice-call-problems-a-step-by-step-solution/"><u>How to Resolve 'Discord Voice Call Problems': A Step-by-Step Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-asus-rog-phone-7-ultimate-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Asus ROG Phone 7 Ultimate Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-staticscreen-snapshot-on-demand-steps/"><u>In 2024, StaticScreen Snapshot On-Demand Steps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-with-toms-hardware-insider-tips/"><u>Navigating New Tech with Tom's Hardware Insider Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-tips-and-reviews-from-toms-hardware-specialists/"><u>Navigating the Tech World: Tips & Reviews From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-the-windows-11-installation-hurdle-expert-tips-and-tricks/"><u>Overcoming the Windows 11 Installation Hurdle: Expert Tips and Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/higher-on-youtube-essential-seo-tips-unveiled-for-2024/"><u>Rank Higher on YouTube Essential SEO Tips Unveiled for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionary-massless-carbon-fiber-enhanced-batteries-the-key-to-ultra-lightweight-gadgets/"><u>Revolutionary Massless Carbon-Fiber Enhanced Batteries - The Key to Ultra Lightweight Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzens-cutting-edge-ai-300-series-arrives-sooner-than-expected-preorder-before-july-28th-at-best-buy/"><u>Ryzen's Cutting-Edge AI 300 Series Arrives Sooner Than Expected – Preorder Before July 28Th at Best Buy.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/save-big-now-grab-the-m3-macbook-air-16gb-13-inch-for-a-steal-at-only-1149/"><u>Save Big Now: Grab the M3 MacBook Air - 16GB / 13-Inch for a Steal at Only $1,149</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-evolution-of-the-first-risc-v-laptop-doubling-processor-cores-accelerating-to-an-unprecedented-2ghz-and-introducing-next-gen-ai-tools/"><u>The Ultimate Evolution of the First RISC-V Laptop: Doubling Processor Cores, Accelerating to an Unprecedented 2GHz & Introducing Next-Gen AI Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/thrill-seekers-challenge-hero5b-vs-hero5-session-in-action/"><u>Thrill Seekers Challenge Hero5B Vs Hero5 Session in Action</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-no-hardware-recognized-when-installing-windows-7/"><u>Troubleshooting: No Hardware Recognized When Installing Windows 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/up-to-date-nvidia-driver-downloads-geforce-rtx-3080-ti-for-all-win-versions/"><u>Up-to-Date NVIDIA Driver Downloads: GeForce RTX 3080 Ti for All Win Versions</u></a></li>
 </ul></div>
 

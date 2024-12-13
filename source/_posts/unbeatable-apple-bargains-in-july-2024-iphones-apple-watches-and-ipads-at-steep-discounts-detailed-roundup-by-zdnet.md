@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Apple Bargains in July 2024: IPhones, Apple Watches & iPads at Steep Discounts - Detailed Roundup by ZDNet"
-date: 2024-12-04T23:03:16.784Z
-updated: 2024-12-06T22:09:21.655Z
+date: 2024-12-11T20:58:19.329Z
+updated: 2024-12-12T16:06:15.720Z
 tags:
   - laptops
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best sales and discounts on Apple products, including Mac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Apple deals of July 2024
 
@@ -125,10 +129,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -161,6 +161,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc59f26ff-942b-4436-9faf-236bb5a523b5%7Cdtp&dtb=1)
@@ -176,30 +180,26 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -213,10 +213,6 @@ Factors influencing our recommendations include:
 * **Use cases**: We have included a range of Apple devices on sale suitable for different uses, including work, study, entertainment, and sports.
 * **Variety**: Here at ZDNET, we want to provide you with various products and accessories in the Apple ecosystem. We've selected deals spanning laptops and smartphones to smartwatches and more.
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -238,6 +234,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best iPhone deals](https://www.zdnet.com/article/iphone-deals/)
 * [The best TV deals](https://www.zdnet.com/home-and-office/home-entertainment/tv-deals/)
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -283,14 +283,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-unveiling-the-most-enlightening-general-knowledge-trivia-channels-in-24/"><u>[New] Unveiling the Most Enlightening General Knowledge Trivia Channels in '24</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-vanguard-video-workshop-titlewright/"><u>[Updated] Vanguard Video Workshop Titlewright</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862817375-experience-unparalleled-gaming-with-dell-s3222dgm-now-at-an-amazing-price-only-229/"><u>Experience Unparalleled Gaming with Dell S3222DGM: Now at an Amazing Price - Only $229!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/improve-video-chat-quality-updating-windows-10-webcam-drivers-made-easy/"><u>Improve Video Chat Quality: Updating Windows 10 Webcam Drivers Made Easy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862799252-landing-a-bargain-enjoy-yourself-with-a-giant-high-definition-samsung-49-oled-screen-for-less-than-youd-think/"><u>Landing a Bargain: Enjoy Yourself with a Giant, High-Definition Samsung 49 OLED Screen for Less Than You'd Think</u></a></li>
-<li><a href="https://fox-info.techidaily.com/sleek-superior-substantial-reviewing-the-asus-mg28uq-4k-display/"><u>Sleek, Superior, Substantial – Reviewing the ASUS MG28UQ 4K Display</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tech-enthusiasts-manual-mastering-macoss-capture-tool-for-2024/"><u>Tech Enthusiasts' Manual Mastering macOS's Capture Tool for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-advanced-tech-the-expertise-of-toms-hardware/"><u>Your Guide to Advanced Tech: The Expertise of Tom's Hardware</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-zero-to-hero-how-to-triumph-with-10-powerful-fb-strategies/"><u>[New] In 2024, From Zero to Hero How to Triumph with 10 Powerful FB Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/an-in-depth-look-at-how-chatgpts-shared-link-system-operates/"><u>An In-Depth Look at How ChatGPT's Shared Link System Operates</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anticipate-ryzen-ai-300-laptops-officially-revealed-to-hit-shelves-on-july-nth-find-deals-at-best-buy/"><u>Anticipate Ryzen AI 300 Laptops: Officially Revealed to Hit Shelves on July Nth, Find Deals at Best Buy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/anticipate-the-new-wave-of-laptops-samsungs-galaxy-book4-edge-with-qualcomm-snapdragon-processor-unveiled-in-a-pre-microsoft-spectacle-leak/"><u>Anticipate the New Wave of Laptops: Samsung's Galaxy Book4 Edge with Qualcomm Snapdragon Processor Unveiled in a Pre-Microsoft Spectacle Leak</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-nvidias-custom-ai-platform-an-in-depth-look-at-accessibility-and-functionality/"><u>Demystifying NVIDIA's Custom AI Platform - An In-Depth Look at Accessibility and Functionality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-pc-components-by-toms-hardware-specialists/"><u>Expert Analysis on PC Components by Tom's Hardware Specialists</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-power-at-toms-hardware-hub-discover-top-gear/"><u>Exploring Computing Power at Tom's Hardware Hub - Discover Top Gear!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gaming-experience-in-the-gigabyte-g6x-good-performance-but-unremarkable-features-explored/"><u>Gaming Experience in the Gigabyte G6X: Good Performance but Unremarkable Features Explored</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-end-gaming-powerhouse-the-new-razer-blade-18-with-amd-ryzen-9-14900hx-and-top-of-the-line-nvidia-rtx/"><u>High-End Gaming Powerhouse - The New Razer Blade 18 with AMD Ryzen 9-14900HX and Top of the Line Nvidia RTX</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-microsofts-copilotplus-technology-overrides-old-school-ai-pcs-and-redefines-the-future-of-computing-models/"><u>How Microsoft's Copilot+ Technology Overrides Old-School AI PCs and Redefines the Future of Computing Models</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-vitality-of-your-microsoft-store-experience/"><u>Reviving the Vitality of Your Microsoft Store Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-seizure-irreparable-device-error/"><u>System Seizure: Irreparable Device Error</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-realme-narzo-60x-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Realme Narzo 60x 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y36-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y36 Location | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/verifying-your-gpu-drivers-compatibility-a-guide-from-yl-computing/"><u>Verifying Your GPU Drivers' Compatibility: A Guide From YL Computing</u></a></li>
 </ul></div>
 

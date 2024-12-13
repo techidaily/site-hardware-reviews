@@ -1,7 +1,7 @@
 ---
 title: "Key Developments From CES 2023 Day 3: Announcements by HTC and Google, Featuring Top News Coverage"
-date: 2024-11-25T17:55:44.832Z
-updated: 2024-11-27T17:13:52.656Z
+date: 2024-12-06T17:03:42.903Z
+updated: 2024-12-12T20:48:54.275Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,24 +114,22 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-screen-recorders-journey-a-deep-dive-into-the-best-tools/"><u>[New] 2024 Approved The Screen Recorder's Journey A Deep Dive Into the Best Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-recording-equipment-for-creating-youtube-masterpieces/"><u>[Updated] 2024 Approved Best Recording Equipment For Creating YouTube Masterpieces</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-breaking-the-screens-top-10-most-popular-female-youtubers-for-2024/"><u>[Updated] Breaking the Screens Top 10 Most Popular Female YouTubers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-capture-every-skype-interaction-windows-and-os-x-style-for-2024/"><u>[Updated] Capture Every Skype Interaction Windows & OS X Style for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-effortless-audio-conversion-how-to-save-ted-talks-as-high-quality-mp3aacwav-files/"><u>1. Effortless Audio Conversion: How to Save Ted Talks as High-Quality MP3/AAC/WAV Files</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-snatch-facebook-videos-and-save-as-mp3s/"><u>2024 Approved Snatch Facebook Videos and Save as MP3s</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341711383-a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-comprehensive-analysis-of-the-acer-predator-orion-egpu/"><u>Affordable Excellence: Comprehensive Analysis of the Acer Predator Orion eGPU</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-12-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus 12 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-proplus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro+ Phone with Broken Screen</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-professional-capturer-snappy-windows-snap/"><u>In 2024, Professional Capturer Snappy Windows Snap</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-valkyrie-syn-240-all-in-one-liquid-cooler-stellar-cooling-capabilities-hindered-by-software-design/"><u>In-Depth Analysis of the Valkyrie Syn 240 All-in-One Liquid Cooler: Stellar Cooling Capabilities Hindered by Software Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-bluehosts-cloud-vps-and-shared-hosting-offerings/"><u>In-Depth Look at Bluehost's Cloud, VPS, and Shared Hosting Offerings</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovations-unveiled-at-toms-hardware-haven/"><u>Innovations Unveiled at Tom's Hardware Haven</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-components-with-toms-guide/"><u>Inside the World of Components with Tom's Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-tech-toms-hardware-chronicles/"><u>Navigate the World of Tech: Tom's Hardware Chronicles</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/tech-savvy-with-team-tom-ultimate-hardware-guide/"><u>Tech Savvy with Team Tom: Ultimate Hardware Guide</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-rog-phone-8-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from ROG Phone 8.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-tech-picks-a-comprehensive-review-by-toms-gear-critic/"><u>Unveiling Top Tech Picks: A Comprehensive Review by Tom's Gear Critic</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-is-consumer-feedback-compensated-in-vlogs/"><u>[New] Is Consumer Feedback Compensated in Vlogs?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[Updated] Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-repair-glitches-in-instagram-likescomments-for-2024/"><u>[Updated] Repair Glitches in Instagram Likes/Comments for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-3-3300x-outperforms-intel-core-i7-7700k-detailed-geekbench-comparisons/"><u>AMD Ryzen 3 3300X Outperforms Intel Core I7-7700K: Detailed Geekbench Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-intel-alleged-to-halt-production-of-thunder-bay-hybrid-chip/"><u>Breaking News: Intel Alleged to Halt Production of Thunder Bay Hybrid Chip</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-gear-insights-your-source-for-latest-hardware-news/"><u>Dive Into Technology with Tom's Gear Insights: Your Source for Latest Hardware News</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-next-weeks-thrilling-foldinghome-event-begins-soon/"><u>Don't Miss Out - Next Week's Thrilling Folding@Home Event Begins Soon</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enter-the-contest-for-your-chance-at-a-complimentary-corsair-t2-elite-gaming-seat/"><u>Enter the Contest for Your Chance at a Complimentary Corsair T2 Elite Gaming Seat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exclusive-insights-into-neweggs-strategy-for-reserving-rare-components-before-building-your-pc/"><u>Exclusive Insights Into Newegg's Strategy for Reserving Rare Components Before Building Your PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expertly-assembled-computers-mastering-high-end-performance-demands/"><u>Expertly Assembled Computers: Mastering High-End Performance Demands</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-pip-functionality-in-microsoft-edge/"><u>Navigating PIP Functionality in Microsoft Edge</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>New 2024 Approved Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/photobooth-playback-error-constant-pause-issues-for-2024/"><u>Photobooth Playback Error Constant Pause Issues for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-overwatch-audio-glitches-instantly/"><u>Resolve Your Overwatch Audio Glitches Instantly!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guides-and-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides and Insights on Latest Hardware</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-watermark-how-to-delete-it-permanently-for-2024/"><u>Updated Filmora Watermark How to Delete It Permanently for 2024</u></a></li>
 </ul></div>
 

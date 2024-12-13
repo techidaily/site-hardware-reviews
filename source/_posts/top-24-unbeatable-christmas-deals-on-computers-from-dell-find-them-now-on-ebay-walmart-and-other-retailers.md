@@ -1,7 +1,7 @@
 ---
 title: Top 24 Unbeatable Christmas Deals on Computers From Dell - Find Them Now on eBay, Walmart & Other Retailers!
-date: 2024-11-25T16:45:29.467Z
-updated: 2024-11-27T17:19:17.925Z
+date: 2024-12-10T23:29:32.020Z
+updated: 2024-12-13T02:14:25.262Z
 tags:
   - laptops
 categories:
@@ -89,15 +89,7 @@ The first thing you notice about Samsung's Galaxy Book 4 Ultra is the gorgeous d
 
 [View now at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-ultra-16-intelcore-ultra-7-1tb-moonstone-gray-np960xgl-xg2us%2F&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Labor Day HP deals
 
@@ -109,7 +101,7 @@ Kyle Kucharski/ZDNET
 * [HP Envy 16" Ultra XGA Touchscreen Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-envy-16-wide-ultra-xga-touch-screen-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-4060-1tb-ssd-natural-silver%2F6572058.p&publisher_slug=itechdaily19598&exclusive=1) for $1,100 (save $400)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Labor Day Chromebook deals
@@ -121,11 +113,19 @@ Kyle Kucharski/ZDNET
 * [HP 14" Chromebook Laptop](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fhp-14-chromebook-laptop-intel-celeron-4gb-memory-64gb-emmc-modern-gray%2F6513217.p%3FskuId%3D6513217&publisher_slug=itechdaily19598&exclusive=1) for $149 (save $150)
 * [Acer Chromebook Plus 515 Laptop with Google AI 15.6"](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Facer-chromebook-plus-515-laptop-with-google-ai-15-6-fhd-display-intel-i3-1215u-8gb-lpddr5x-128gb-ufs-wi-fi-6e-steel-gray%2F6551627.p%3FskuId%3D6551627&publisher_slug=itechdaily19598&exclusive=1) for $279 (save $120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Labor Day MacBook deals
 
 Kerry Wan/ZDNET
 
 * [Apple MacBook Air M1](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) for $649 (Save $50): Walmart is offering Apple's M1 laptop for a price drop. It's one of the least expensive ways to get a brand-new, lightweight Mac with excellent performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## More Labor Day 2024 laptop deals
 
@@ -142,6 +142,10 @@ Lenovo
 
 Labor Day is Monday, September 2nd, 2024, but many products will go on sale before that date. However, we can't guarantee that these laptops will stay at their sales prices after the holiday has passed. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are laptops really cheaper during Labor Day sales?
 
 Absolutely. Some of the markdowns on these laptops are the lowest we've ever seen. Labor Day holds a unique position in the calendar year because it's after all the product launches of the first half of the year, yet before the huge ramp-up in sales for the holidays. 
@@ -150,16 +154,12 @@ Absolutely. Some of the markdowns on these laptops are the lowest we've ever see
 
 Labor Day and back-to-school season are typically some of the best times a year to find laptop deals, so if you see a good one, we'd recommend jumping on it. However, if you can wait another few months, Black Friday is sure to see some of the best laptop deals of the year as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What is the best 2-in-1 laptop for Labor Day?
 
 There are a few excellent 2-in-1 laptops on sale for Labor Day, including one of our most recommended picks: The [HP Envy X360](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fhp-envy-x360-2-in-1-laptop-16-ad0097nr&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), which you can find for 25% off. In [my review](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), I said that this 16-inch 2-in-1 has "all the features that consumers actually want in a convertible: a gorgeous display, beefy speakers, and a suite of hardware to back it up, resulting in solid performance and a satisfying media experience at a mid-range price point." You can also find deals on the [Galaxy Book 4 Pro 360](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-books%2Fgalaxy-book4-series%2Fbuy%2Fgalaxy-book4-pro-360-16-intel-core-ultra-7-1tb-moonstone-gray-np960qgk-kg1us%2F&publisher_slug=itechdaily19598&exclusive=1) and the [Lenovo Yoga 7i 2-in-1](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-i7-1355U-Touch-Screen-Laptop16GB-82YN0002US%2Fdp%2FB0CK3ZK7WT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb033c5c8-f141-4e55-867b-8096aab20dab%7Cdtp&dtb=1).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Labor Day deals?
@@ -202,18 +202,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-visual-posts-aspect-ratio-considerations-for-2024/"><u>[New] Facebook Visual Posts Aspect Ratio Considerations for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-end-sound-pumping-tools-pcs-and-smartphones/"><u>[Updated] 2024 Approved High-End Sound Pumping Tools PCs & Smartphones</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-revolutionize-your-lessons-implementing-youtube-in-the-academic-realm/"><u>[Updated] Revolutionize Your Lessons Implementing YouTube in the Academic Realm</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/building-and-choosing-hardware-wisely-insights-from-toms-computer-chronicles/"><u>Building and Choosing Hardware Wisely: Insights From Tom's Computer Chronicles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-italys-recent-decision-to-halt-access-to-chatgpt-effectively-and-abruptly/"><u>Decoding Italy's Recent Decision to Halt Access to ChatGPT Effectively and Abruptly</u></a></li>
-<li><a href="https://win-able.techidaily.com/decoding-the-delay-an-in-depth-look-at-why-guilty-gear-strive-is-yet-to-hit-shelves/"><u>Decoding the Delay: An In-Depth Look at Why 'Guilty Gear Strive' Is Yet to Hit Shelves</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-asus-proart-pa32ucxr-the-epitome-of-precision-in-workstation-displays/"><u>Expert Review of the Asus ProArt PA32UCXR: The Epitome of Precision in Workstation Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-innovations-with-tom-a-journey-through-cutting-edge-gear/"><u>Exploring Innovations with Tom: A Journey Through Cutting-Edge Gear</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-terracore-pros-fusion-of-touch-and-high-definition/"><u>In 2024, TerraCore Pros Fusion of Touch & High Definition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-valkyrie-syn-240-all-in-one-liquid-cooler-performance-and-software-design-critique/"><u>In-Depth Review: Valkyrie Syn 240 All-In-One Liquid Cooler Performance and Software Design Critique</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-correct-viewing-sequence-a-step-by-step-guide-to-lord-of-the-rings-trilogy/"><u>The Correct Viewing Sequence: A Step-by-Step Guide to 'Lord of the Rings' Trilogy</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-the-turtle-beach-atlas-air-superior-audio-for-every-listener/"><u>The Definitive Guide to the Turtle Beach ATLAS Air – Superior Audio for Every Listener</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computing-equipment-by-toms-digital-hub/"><u>The Ultimate Guide to Computing Equipment by Tom's Digital Hub</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pinnacle-story-planning-website/"><u>[New] Pinnacle Story Planning Website</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exploring-manycams-latest-video-capture-innovations/"><u>[Updated] 2024 Approved Exploring ManyCam's Latest Video Capture Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brainstorm-blueprint-gpt-3-meets-mindmaps/"><u>Brainstorm Blueprint: GPT-3 Meets Mindmaps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-can-we-trust-our-interactions/"><u>ChatGPT: Can We Trust Our Interactions?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-dell-xps-16-9640-the-perfect-blend-of-elegance-and-performance/"><u>Comprehensive Analysis of the Dell XPS 16-9640: The Perfect Blend of Elegance and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-the-eufy-s350-home-monitoring-cam-spotlight-on-superior-motion-detection-features/"><u>Comprehensive Review of the Eufy S350 Home Monitoring Cam - Spotlight on Superior Motion Detection Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/does-the-future-belong-to-modular-accessories-after-apples-trial/"><u>Does the Future Belong to Modular Accessories After Apple's Trial?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-on-the-deal-of-the-year-essential-travel-wire-organizers-now-at-unbeatable-prices/"><u>Don’t Miss Out on the Deal of the Year - Essential Travel Wire Organizers Now at Unbeatable Prices!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dont-wait-secure-your-own-portable-solar-generator-today/"><u>Don't Wait: Secure Your Own Portable Solar Generator Today</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-analysis-of-the-nomad-stand-one-max-review-the-quintessential-luscious-three-in-one-iphone-charging-station/"><u>Elite Analysis of the Nomad Stand One Max Review: The Quintessential Luscious Three-in-One iPhone Charging Station</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhancements-for-the-switch-2-a-call-for-improved-virtual-storefront/"><u>Enhancements for The Switch 2: A Call for Improved Virtual Storefront</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/essential-games-demanding-enhanced-performance-when-is-it-time-for-a-graphics-card-refresh/"><u>Essential Games Demanding Enhanced Performance: When Is It Time For a Graphics Card Refresh?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluate-tech-specs-with-geekbenchs-recent-benchmarking-tool/"><u>Evaluate Tech Specs with Geekbench's Recent Benchmarking Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-15-insider-analysis-exceptional-performance-and-features-that-impress-both-novices-and-experts-exclusive/"><u>IPhone 15 Insider Analysis: Exceptional Performance & Features That Impress Both Novices and Experts Exclusive</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-compelling-elements-in-game-design/"><u>Mastering Compelling Elements in Game Design</u></a></li>
+<li><a href="https://win-answers.techidaily.com/naraka-bloodlotus-stability-enhanced-fixes-applied-successfully/"><u>Naraka: Bloodlotus - Stability Enhanced | Fixes Applied Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-stubborn-cddvd-drive-ejection-problems/"><u>Solving the Mystery of Stubborn CD/DVD Drive Ejection Problems</u></a></li>
 </ul></div>
 

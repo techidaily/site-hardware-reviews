@@ -1,7 +1,7 @@
 ---
 title: Unlock Exclusive Savings on Games During the Early Prime Day Event of Oct '24 – Tips and Deals
-date: 2024-12-03T19:42:05.057Z
-updated: 2024-12-07T03:14:46.949Z
+date: 2024-12-12T03:24:52.591Z
+updated: 2024-12-12T18:43:04.391Z
 tags:
   - laptops
 categories:
@@ -23,10 +23,6 @@ Brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-day-sam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Our favorite early Amazon October Prime Day gaming deals
 
@@ -91,10 +87,6 @@ The Alienware x16 R2 is built with an Intel Core Ultra 9 processor, Nvidia GeFor
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Falienware-x16-r2-240hz-gaming-laptop-intel-core-ultra-9-processor-nvidia-geforce-rtx-4070-32gb-memory-1-tb-ssd-lunar-silver%2F6576921.p%3FskuId%3D6576921&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More October Prime Day 2024 gaming deals
 
 ZDNET
@@ -112,7 +104,7 @@ ZDNET
 * [Amazon eero Pro 6E mesh Wi-Fi router 3-pack for $350 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-eero-Wi-Fi-router-newest%2Fdp%2FB091G64GVK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc7d776f8-5462-40c9-a4d1-f13733f0b840%7Cdtp&dtb=1): This mesh Wi-Fi system is rated for up to 2,000 square feet of coverage and supports both wireless and hardwired Ethernet connectivity at 1.6 Gbps and 2.5Gbps, respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day PlayStation 5 deals
@@ -130,6 +122,10 @@ ZDNET
 * [God of War Ragnarok standard edition for $40 (save $29 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGod-of-War-Ragnar-k-Standard-Edition-Playstation-5%2F1336533270%3FclassType%3DVARIANT%26athbdg%3DL1102&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): The sequel to the hit GoW 2018 follows Kratos and his son Atreus as they traverse the realms to gather allies and stop the gods from going to war.
 * [The Last of Us Part 1 standard edition for $46 (save $24 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FThe-Last-of-Us-Part-I-PlayStation-5%2F1643604134%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Experience the award-winning story of Ellie and Joel as they make their way to Denver and the Fireflies through hordes of dangerous, fungus-infected zombies.
 * [Corsair Void RGB Elite wireless gaming headset for $80 (save $30 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCorsair-Wireless-Premium-Headset-Surround%2Fdp%2FB07X8SJ8HM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc7d776f8-5462-40c9-a4d1-f13733f0b840%7Cdtp&dtb=1): With 7.1CH surround sound, an omnidirectional mic, and up to a 40-foot range, the Void RGB Elite gives you immersive game music and sound cues, clear chat, and freedom of movement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Xbox Series X|S deals
 
@@ -176,6 +172,10 @@ Nintendo/ZDNET
 * [Lego Star Wars: The Skywalker Saga for $25 (save $26 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLEGO-Star-Wars-The-Skywalker-Saga-Nintendo-Switch%2F182278850%3FclassType%3DVARIANT&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Play as iconic characters like Luke Skywalker, Qui-Gon Jin, and Darth Vader through the stories of both the original and prequel Star Wars trilogies.
 * [Nintendo Switch Joy-Con in neon purple and neon orange for $55 (save $25 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FNintendo-Switch-Joy-Con-Pair-Neon-Purple-and-Neon-Orange%2F921709016%3FclassType%3DVARIANT%26athbdg%3DL1600&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Grab an extra Joy-Con controller for your Nintendo Switch to keep gaming while your other controller charges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day gaming PC deals
 
 Kyle Kucharski/ZDNET
@@ -190,6 +190,10 @@ Kyle Kucharski/ZDNET
 * [HP Omen 45L for $2,200 (save $800 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fomen-by-hp-45l-gaming-desktop-gt22-2085t-pc&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming PC built with a 14th generation Intel Core i7 CPU, GeForce RTX 4080 Super GPU, 16GB of RAM, and a 1TB SSD.
 * [HP Victus 15L desktop for $480 (save $370 at HP)](https://www.dpbolvw.net/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fpdp%2Fvictus-by-hp-15l-gaming-desktop-tg02-0325m-59a32av-1&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An entry-level gaming desktop built with an AMD Ryzen 5 5600G processor, AMD Radeon RX 6400 GPU, 8GB of RAM, and a 256GB SSD.
 * [Alienware Aurora R16 for $3,700 (save $1,000 at Dell)](https://www.dpbolvw.net/click-9041660-15734614?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdesktop-computers%2Falienware-aurora-r16-gaming-desktop%2Fspd%2Falienware-aurora-r16-desktop%2Fuseapctor16icc2&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): Alienware's flagship gaming desktop is built with a 14th gen Intel Core i9 CPU, Nvidia GeForce RTX 4090 graphics card, 64GB of RAM, and 4TB of storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day gaming laptop deals
 
@@ -220,15 +224,15 @@ Samsung/ZDNET
 * [Razer DeathStalker V2 Pro TKL wireless keybaord for $145 (save $75 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Frazer-deathstalker-v2-pro-tkl-wireless-optical-linear-switch-gaming-keyboard-with-low-profile-design-black%2F6512382.p%3FskuId%3D6512382&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less keyboard with optical linear switches and a low-profile design.
 * [Roccat Vulcan II Mini Air for $64 (save $116 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Froccat-vulcan-ii-mini-air-65-wireless-optical-mechanical-gaming-keyboard-with-rgb-illumination-black%2F6547284.p%3FskuId%3D6547284&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mini, tenkey-less mechanical keyboard with optical switches, RGB backlighting, and USB-C charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
 * [Asus Nvidia GeForce RTX 4070 Overclock for $580 (save $100 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6540002.p%3FskuId%3D6540002&publisher%5Fslug=zdnet&article%5Fname=best%20early%20prime%20day%20gaming%20deals%20to%20shop%20in%20october%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-early-prime-day-gaming-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This Nvidia-based GPU offers 12GB of DDR6 VRAM, a base clock speed of 2.55GHz that can be overclocked to 2.58GHz, 8K video output support, and support for up to 4 displays.
 * [Asus TUF Nvidia GeForce RTX 3080 Ti for $925 (save $472 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FTUF-NVIDIA-GeForce-RTX-3080-TI-Graphic-Card-12-GB-GDDR6-384-bit-Bus-Width-PCI-Express-4-0-DisplayPort-HDMI%2F994157887%3FclassType%3DREGULAR&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) Nvidia's high-end 30 Series graphics card offers 12GB of VRAM, military-grade capacitors for better power efficiency, and support for up to 4 displays.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -243,10 +247,6 @@ Games, consoles, and accessories can and do go on sale during Prime Day, though 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -313,17 +313,20 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-optimal-video-sharing-experience-decide-between-tiktok-and-youtubes-shorts/"><u>[New] 2024 Approved Optimal Video-Sharing Experience Decide Between TikTok & YouTubes' Shorts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-how-to-use-luts-from-color-grading-central-to-color-grading-for-movies/"><u>[New] How to Use Luts From Color Grading Central to Color Grading for Movies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-inspiring-podcast-artwork-essential-design-insights/"><u>[New] In 2024, Inspiring Podcast Artwork Essential Design Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aiff-to-mp3-movavi/"><u>AIFF to MP3 무료 제공 - Movavi에서 최신 알고리즘 사용</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-c67-4g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme C67 4G Fingerprint Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-xiaomi-redmi-12-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Xiaomi Redmi 12 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-reviews-by-tom-a-trusted-source-for-gadget-enthusiasts/"><u>Pioneering Reviews by Tom: A Trusted Source for Gadget Enthusiasts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/review-insights-on-levelplays-combat-air-ca4-cooler-efficient-and-noise-free-operation-for-your-pc/"><u>Review Insights on Levelplay's Combat Air CA4 Cooler - Efficient and Noise-Free Operation for Your PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-optimal-timing-when-to-consider-a-new-mobile-device-purchase/"><u>The Optimal Timing: When to Consider a New Mobile Device Purchase</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-corner-unraveling-the-latest-in-computer-components/"><u>Tom's Tech Corner: Unraveling the Latest in Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/triple-display-capabilities-expert-review-of-the-gigabyte-b760m-ds3h-ax-micro-atx-motherboard-for-budget-builds/"><u>Triple Display Capabilities: Expert Review of the Gigabyte B760M DS3H AX Micro ATX Motherboard for Budget Builds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-pro-editors-top-list-best-portable-devices-for-visual-storytelling/"><u>[Updated] 2024 Approved Pro-Editors' Top List Best Portable Devices for Visual Storytelling</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-decoding-vimeo-where-creative-videos-meet-for-2024/"><u>[Updated] Decoding Vimeo Where Creative Videos Meet for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/accelerated-energy-production-a-thorough-review-of-the-unusual-delta-shaped-flsun-s1/"><u>Accelerated Energy Production: A Thorough Review of the Unusual Delta Shaped FLSun S1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-rog-strix-xg2-acq-an-180hz-marvel-in-accuracy-and-flexibility-the-ultimate-gamers-display-unveiled/"><u>Asus ROG Strix XG2^ ACQ: An 180Hz Marvel in Accuracy & Flexibility - The Ultimate Gamer's Display Unveiled</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-raspberry-pis-speed-and-storage-with-our-exclusive-mcdn-hatplus-test-and-insights/"><u>Elevate Your Raspberry Pi's Speed and Storage With Our Exclusive M.CDN HAT+ Test & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-lofree-edge-featherweight-bright-future-premium-price-vs-apple-magic-board/"><u>Evaluating the Lofree Edge: Featherweight, Bright Future, Premium Price vs Apple Magic Board</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-dimness-to-dazzle-a-guide-to-merging-in-lightroom-for-2024/"><u>From Dimness to Dazzle A Guide to Merging in Lightroom for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-10-best-zoom-alternatives/"><u>In 2024, 10 Best Zoom Alternatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-computing-a-deep-dive-into-toms-hardware-world/"><u>Mastering Modern Computing: A Deep Dive Into Tom's Hardware World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-gen-dialogue-masters-whos-the-future-top-chatbot/"><u>Next-Gen Dialogue Masters: Who's the Future Top Chatbot?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-complete-reference-for-content-creators-youtube-copyright-for-2024/"><u>The Complete Reference for Content Creators YouTube Copyright for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-highpoints-rocket-1608a-add-in-card-revolutionary-drive-capacity-and-performance-upgrade/"><u>The Ultimate Guide to HighPoint's Rocket 1608A Add-In Card – Revolutionary Drive Capacity & Performance Upgrade</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potency-of-akasa-geckos-ssd-cooler-an-elite-blower-heatsink-for-optimal-drive-performance/"><u>Unveiling the Potency of Akasa Gecko's SSD Cooler: An Elite Blower Heatsink for Optimal Drive Performance</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-tracking-devices-like-airtags-are-essential-in-modern-vehicles/"><u>Why Tracking Devices Like AirTags Are Essential in Modern Vehicles</u></a></li>
 </ul></div>
 

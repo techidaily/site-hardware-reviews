@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed !"
-date: 2024-12-02T20:30:33.133Z
-updated: 2024-12-06T23:52:05.601Z
+date: 2024-12-08T01:40:02.075Z
+updated: 2024-12-12T17:59:15.666Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,18 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-zooming-experience-with-microsoft-teams/"><u>[New] Immersive Zooming Experience with Microsoft Teams</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-job-market-gems-shortlist-for-success/"><u>[New] In 2024, Job Market Gems - Shortlist for Success</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-art-of-360-degree-video-9-must-have-tips-for-filmmakers/"><u>[Updated] In 2024, The Art of 360-Degree Video 9 Must-Have Tips for Filmmakers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862748367-affordable-xiaomi-g34wqi-34-screen-review-exceptional-gamers-display-with-vivid-colors-at-180hz/"><u>Affordable Xiaomi G34WQI 34 Screen Review: Exceptional Gamers' Display with Vivid Colors at 180Hz</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-130-music-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia 130 Music Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-iphone-silhouette-photos/"><u>In 2024, The Ultimate Guide to iPhone Silhouette Photos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/maximizing-your-sightline-in-roblox-playground-for-2024/"><u>Maximizing Your Sightline in Roblox Playground for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-8-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 8 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-tech-secrets-the-ultimate-toms-hardware-exploration/"><u>Unveiling High-Tech Secrets - The Ultimate Tom's Hardware Exploration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-computer-gear-at-toms-hardware-insights/"><u>Unveiling the Latest Computer Gear at Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-with-toms-electronics-analysis/"><u>Unveiling the Latest in Computing with Tom’s Electronics Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/xiaomis-budget-gaming-masterpiece-the-34-180hz-display-with-exceptional-color-and-contrast-unveiled-in-comprehensive-reveiw/"><u>Xiaomi's Budget Gaming Masterpiece: The 34 180Hz Display with Exceptional Color & Contrast Unveiled in Comprehensive Reveiw</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-one-stop-destination-for-high-performance-hardware-toms-insights/"><u>Your One-Stop Destination for High-Performance Hardware: Tom's Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhancing-user-experience-with-timecodes-in-videos/"><u>[New] In 2024, Enhancing User Experience with Timecodes in Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-capturing-history-securely-saving-old-printed-images/"><u>[Updated] Capturing History Securely Saving Old Printed Images</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/710-deal-on-core-i5-12450h-alienexchange-swap-keyboard-for-spectacular-16-inch-dual-displays/"><u>$710 Deal on Core I5-12450H AlienExchange - Swap Keyboard for Spectacular 16-Inch Dual Displays</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862727454-celebrate-memorial-day-with-unbeatable-savings-the-new-asus-tuf-gaming-a13-laptop-for-just-658/"><u>Celebrate Memorial Day with Unbeatable Savings: The New Asus TUF Gaming A1^3 Laptop for Just $658</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862727206-experience-the-next-gen-ryzen-ai-300-laptops-available-july-28-at-best-buy-pre-order-now/"><u>Experience the Next-Gen Ryzen AI 300 Laptops: Available July 28 at Best Buy - Pre-Order Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862702244-groundbreaking-upgrade-for-the-premier-risc-v-laptop-increased-core-count-supercharged-frequency-at-2-ghz-plus-new-artificial-intelligence-supports/"><u>Groundbreaking Upgrade for the Premier RISC-V Laptop - Increased Core Count, Supercharged Frequency at 2 GHz, Plus New Artificial Intelligence Supports</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/microsofts-copilot-enhances-cybersecurity-widespread-access-coming-april-1st-insights-from-zdnet/"><u>Microsoft's Copilot Enhances Cybersecurity: Widespread Access Coming April 1St – Insights From ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mp4-video-tag-management-made-easy-best-editors-for-windows-and-mac-for-2024/"><u>New MP4 Video Tag Management Made Easy Best Editors for Windows and Mac for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnaclescreenpro-capturing-like-a-pro-on-w10-for-2024/"><u>PinnacleScreenPro Capturing Like a Pro on W10 for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862720287-save-big-lenovo-legion-laptops-now-750-discounted-features-rtx-4080-and-stunning-240hz-screen/"><u>Save Big: Lenovo Legion Laptops Now $750 Discounted - Features RTX 4080 and Stunning 240Hz Screen!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-strategies-how-chatgpt-enhances-your-novel-writing-process/"><u>Top 9 Strategies: How ChatGPT Enhances Your Novel Writing Process</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862688667-unbeatable-deal-alert-asus-rog-zephyrus-g14-laptop-featuring-rtx-graphics-now-just-1099-at-best-buy/"><u>Unbeatable Deal Alert: Asus ROG Zephyrus G14 Laptop Featuring RTX Graphics Now Just $1099 at Best Buy!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/gifmp42023/"><u>この春、GIFからMP4へ：2023新発売最高の変換レシピ集!</u></a></li>
 </ul></div>
 

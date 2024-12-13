@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2024-12-01T21:03:24.619Z
-updated: 2024-12-06T22:43:55.420Z
+date: 2024-12-09T22:00:47.337Z
+updated: 2024-12-12T23:22:59.881Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,19 +97,20 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-innovation-in-social-media-redefining-the-role-of-facebook-stories-for-2024/"><u>[New] Innovation in Social Media Redefining the Role of Facebook Stories for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-moonlit-musings-capturing-the-essence-of-nocturnal-imagery/"><u>2024 Approved Moonlit Musings Capturing the Essence of Nocturnal Imagery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-videovantage-warriors/"><u>2024 Approved VideoVantage Warriors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-newly-listed-31-motherboards-from-maxsun-showcasing-intel-arrow-lake-and-amd-ryzen-nine-zero-across-five-cutting-edge-unannounced-chi96/"><u>Comprehensive Guide to Newly Listed 31 Motherboards From Maxsun - Showcasing Intel Arrow Lake and AMD Ryzen Nine Zero, Across Five Cutting-Edge Unannounced Chipset Variants with PCIe 800 Branding</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/convenient-alias-adjustment-in-google-meet-devices/"><u>Convenient Alias Adjustment in Google Meet Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-pc-gear-with-toms-technology-insights/"><u>Discover Cutting-Edge PC Gear with Tom's Technology Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-tweets-choosing-the-right-converter/"><u>Essential Tweets Choosing the Right Converter</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-new-world-of-computing-golden-socketed-cpu-on-gigabytes-misty-designed-iceberg-intel-z790-motherboard/"><u>Explore the New World of Computing: Golden Socketed CPU on Gigabyte's Misty-Designed Iceberg Intel Z790 Motherboard</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gadgets-with-tom-a-deep-dive-into-modern-hardware/"><u>Exploring Computer Gadgets with Tom - A Deep Dive Into Modern Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-review/"><u>Exploring Computer Gear with Tom's Hardware Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-maxsun-catalog-intels-arrow-lake-amds-ryzen-9000-boards-with-latest-unveiled-motherboard-chipsets-and-800-series-labeling/"><u>Exploring the Maxsun Catalog: Intel's Arrow Lake, AMD's Ryzen 9000 Boards with Latest Unveiled Motherboard Chipsets & 800-Series Labeling</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-boot-and-install-windows-n-from-a-usb-stick-visual-instructions-included/"><u>How to Boot and Install Windows N From a USB Stick - Visual Instructions Included</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-the-2019-game-changer-in-vegaspro/"><u>In 2024, The 2019 Game-Changer in VegasPro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y17s-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y17s Android SIM Unlock APK</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make-for-2024/"><u>[New] Earning Big on Youtube Shorts What You Need & How Much Can You Make for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-firefoxs-premier-capture-tools-roundup/"><u>[New] In 2024, Firefox's Premier Capture Tools Roundup</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-started-signing-up-for-a-youtube-channel/"><u>[New] In 2024, How to Get Started Signing Up for a YouTube Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors/"><u>[New] Perfected Edits on the Go Leading Apps for macOS Big Sur's Video Editors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streaming-virtual-classrooms-for-2024/"><u>[Updated] Streaming Virtual Classrooms for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/d-the-scenes-expert-video-editing-techniques-for-youtubers-for-2024/"><u>Behind the Scenes Expert Video Editing Techniques for YouTubers for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-by-tom-decoding-computer-hardware/"><u>Comprehensive Guide by Tom: Decoding Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/conquer-virtual-worlds-in-depth-analysis-of-alienwares-aw2725df-360-hz-oled-monitor-for-serious-gamers/"><u>Conquer Virtual Worlds: In-Depth Analysis of Alienware's AW2725DF 360 Hz OLED Monitor for Serious Gamers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oneplus-nord-3-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dells-affordable-24-inch-freesync-display-now-only-99-shop-today/"><u>Dell's Affordable 24-Inch FreeSync Display Now Only $99 - Shop Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-new-technology-discover-toms-hardware/"><u>Expert Guidance on New Technology - Discover Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-hub-the-ultimate-guide/"><u>Exploring Technology with Tom's Hardware Hub - The Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/first-portable-gaming-monitor-by-minisforum-high-performance-with-a-15ninch-display-and-144-hz-at-only-189/"><u>First Portable Gaming Monitor by Minisforum: High Performance with a 15.nInch Display and 144 Hz at only $189</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: A Week with an Ergonomic Split Keyboard - My Transformed Tech Experience | ZDNet
-date: 2024-11-26T19:01:05.837Z
-updated: 2024-11-27T18:36:13.874Z
+date: 2024-12-08T22:20:41.193Z
+updated: 2024-12-13T03:41:00.608Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://www.zdnet.com/a/img/resize/b25db0a5e0e02074d08a797f57ffab39b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -113,7 +113,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -152,24 +152,22 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-archive-your-minecraft-sessions-on-a-mac-computer/"><u>[New] 2024 Approved How to Archive Your Minecraft Sessions on a Mac Computer</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-all-encompassing-examination-of-theta-s-camera/"><u>[New] 2024 Approved The All-Encompassing Examination of Theta S Camera</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-instagram-reels-adding-your-own-soundtrack/"><u>[New] In 2024, Mastering Instagram Reels Adding Your Own Soundtrack</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pioneering-the-digital-universe-the-present-and-future-landscape/"><u>[Updated] 2024 Approved Pioneering the Digital Universe The Present & Future Landscape</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341701437-approach-identify-the-legal-documents-function-in-land-division/"><u>Approach: Identify the Legal Document's Function in Land Division</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341717928-boost-your-raspberry-pis-storage-with-low-cost-high-speed-hatdrive-by-pineboards/"><u>Boost Your Raspberry Pi's Storage with Low-Cost, High-Speed HatDrive by Pineboards!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-on-the-assembly-process-for-sunfounders-pironmann-5-robot/"><u>Expert Analysis on the Assembly Process for SunFounder's Pironmann 5 Robot</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-reviews-and-analysis-at-toms-technology-hub/"><u>Expert Reviews & Analysis at Tom's Technology Hub</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-patriot-viper-vp4300-lite-4tb-ssd-performance-vs-affordability/"><u>In-Depth Analysis of the Patriot Viper VP4300 Lite 4TB SSD - Performance Vs. Affordability</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/insightful-analysis-of-the-sunfounder-pironman-5-a-detailed-assessment-with-initial-setup-steps/"><u>Insightful Analysis of the Sunfounder Pironman 5: A Detailed Assessment with Initial Setup Steps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-wisdom-from-toms-hardware-hub/"><u>Mastering Electronics: Wisdom From Tom's Hardware Hub</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/patience-pays-off-the-art-of-slow-motion-video-crafting/"><u>Patience Pays Off The Art of Slow-Motion Video Crafting</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/st-streamers-ever-caught-for-2024/"><u>Richest Streamers Ever Caught for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/solution-public-hearings-allow-stakeholders-and-residents-to-voice-concerns-or-support-potentially-influencing-modifications-to-the-division-plan-for-better7/"><u>Solution: Public Hearings Allow Stakeholders and Residents to Voice Concerns or Support, Potentially Influencing Modifications to the Division Plan for Better Alignment with Community Interests</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-reducing-energy-consumption-on-xbox-joystick/"><u>Strategies for Reducing Energy Consumption on Xbox Joystick</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-collection-of-festive-season-songs-highest-quality-mp3s-available-for-free/"><u>Ultimate Collection of Festive Season Songs - Highest Quality MP3s Available for Free</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-asus-rog-nuc-groovy-desktop-solution-compact-and-efficient/"><u>Unboxing the Asus ROG NUC Groovy Desktop Solution - Compact and Efficient</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-of-netgears-hybrid-device-the-c3700-cable-modemrouter-fusion-reviewed/"><u>Unveiling the Performance of Netgear's Hybrid Device: The C3700 Cable Modem/Router Fusion Reviewed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-hot-tiktok-gadgets-and-goodies-available-at-amazon/"><u>[New] In 2024, Hot TikTok Gadgets & Goodies Available at Amazon</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function/"><u>[Updated] 2024 Approved Archive Everyday Moments Seamlessly by Using VLC's Webcam Function</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtubes-rules-the-creators-perspective/"><u>[Updated] 2024 Approved YouTube’s Rules The Creator's Perspective</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-innovative-ways-to-record-youtube-videos/"><u>[Updated] Innovative Ways to Record YouTube Videos</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/choosing-your-perfect-smartphone-a-comparison-between-samsung-galaxy-and-google-pixel/"><u>Choosing Your Perfect Smartphone: A Comparison Between Samsung Galaxy and Google Pixel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/determine-the-total-number-of-vehicles-passed-through-texas-in-june-which-is-given-as-8-times-106/"><u>Determine the Total Number of Vehicles Passed Through Texas in June, Which Is Given as $8 Times 10^6$.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-advanced-artificial-intelligence-cameras-of-google-pixel-7-series-starting-at-599/"><u>Discover the Advanced Artificial Intelligence Cameras of Google Pixel 7 Series, Starting at $599</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-guide-to-transferring-tunes-onto-your-android-device/"><u>Easy Guide to Transferring Tunes Onto Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanding-connectivity-android-file-transfer-now-compatible-with-windows-systems/"><u>Expanding Connectivity: Android File Transfer Now Compatible with Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-concept-of-reverse-inductive-charging-technology/"><u>Exploring the Concept of Reverse Inductive Charging Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-unique-ways-to-personalize-your-phones-physical-appearance-why-stop-at-just-the-screen/"><u>Exploring Unique Ways to Personalize Your Phone’s Physical Appearance: Why Stop at Just the Screen?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/het-aanstaande-allerwelste-top-15-gratis-schermopnamestools-moovavis-voorbeelden-en-gevarieerd-functionaaliteitspeil/"><u>Het Aanstaande Allerwelste Top 15 Gratis Schermopnamestools - Moovavis Voorbeelden En Gevarieerd Functionaaliteitspeil</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-ear-apple-gadget-revealed-speculations-on-cost-launch-timeline-and-features/"><u>In-Ear Apple Gadget Revealed: Speculations on Cost, Launch Timeline, and Features</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/new-controversy-arises-with-microsofts-latest-os-windows-11-does-it-deserve-its-detractors/"><u>New Controversy Arises with Microsoft's Latest OS, Windows 11 – Does It Deserve Its Detractors?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-catching-live-footage-webcam-hd-video-and-sound-by-movavi-recorder/"><u>Ultimate Guide to Catching Live Footage: Webcam HD Video & Sound by Movavi Recorder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-spatial-recording-with-the-iphone-15-pro-expert-tips-inside/"><u>Unlock the Full Potential of Spatial Recording with the iPhone 15 Pro - Expert Tips Inside!</u></a></li>
 </ul></div>
 

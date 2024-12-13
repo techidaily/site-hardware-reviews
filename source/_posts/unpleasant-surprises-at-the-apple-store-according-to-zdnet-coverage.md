@@ -1,7 +1,7 @@
 ---
 title: Unpleasant Surprises at the Apple Store, According to ZDNet Coverage
-date: 2024-12-06T00:21:04.811Z
-updated: 2024-12-06T16:22:22.695Z
+date: 2024-12-11T21:03:18.819Z
+updated: 2024-12-12T19:33:34.468Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,24 +140,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-revolutionize-your-content-harnessing-the-power-of-fb-lives/"><u>[New] 2024 Approved Revolutionize Your Content Harnessing the Power of FB Lives</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-experts-rankings-top-social-media-viewers/"><u>[New] Expert's Rankings Top Social Media Viewers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-engagement-todays-must-use-instagram-hashtags/"><u>[New] In 2024, Elevate Engagement Today's Must-Use Instagram Hashtags</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-offline-viewing-of-full-hd-fb-content/"><u>[New] In 2024, Offline Viewing of Full-HD FB Content</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-boosting-team-engagement-with-zoom-techniques-on-msteams/"><u>[Updated] In 2024, Boosting Team Engagement with ZOOM Techniques on MSTEAMS</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/frei-empfangbares-hevc-codec-paket-optimiert-fur-die-verwendung-mit-dem-vlc-media-player-jetzt-kostenlos-abrufen/"><u>Frei Empfangbares HEVC Codec Paket Optimiert Für Die Verwendung Mit Dem VLC Media Player - Jetzt Kostenlos Abrufen!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fix-tips-for-when-your-computer-keyboard-fails-to-work/"><u>Quick Fix Tips for When Your Computer Keyboard Fails to Work</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-disconnects-with-nvidia-geforce-support-on-win10win11/"><u>Resolving Disconnects with Nvidia GeForce Support on Win10/Win11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-exploring-the-finest-computer-screens/"><u>Ultimate Selection: Exploring the Finest Computer Screens</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-toms-detailed-guide-to-computer-components/"><u>Unlocking Technology Secrets: Tom's Detailed Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-value-a-deep-dive-into-the-mammoth-yet-economical-monoprice-144-hz-44-inch-gaming-display-review/"><u>Unlocking Value: A Deep Dive Into the Mammoth, Yet Economical Monoprice 144 Hz 44-Inch Gaming Display Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-gadgets-toms-hardware-rundown/"><u>Unveiling the Latest in Gadgets - Tom's Hardware Rundown</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-at-toms-digital-workshop/"><u>Unveiling the Latest Tech Trends at Tom's Digital Workshop</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-secrets-of-hardware-with-toms-expertise/"><u>Unveiling the Secrets of Hardware with Tom's Expertise</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-mov-video-stitching-5-best-software-for-windows-mac-and-online-for-2024/"><u>Updated Free MOV Video Stitching 5 Best Software for Windows, Mac, and Online for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrade-to-a-sharp-27-display-get-the-built-in-webcam-and-pixel-dense-viewfinity-tech-with-samsungs-s9-monitor-for-899-discounted-by-44/"><u>Upgrade to a Sharp 27 Display - Get the Built-In Webcam & Pixel-Dense Viewfinity Tech with Samsung's S9 Monitor for $899, Discounted by 44%</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/xiaomi-g34wqi-gaming-monitor-ultimate-value-in-depth-analysis-of-34-screen-180hz-refresh-rate-with-stunning-colors-and-contrast/"><u>Xiaomi G34WQi Gaming Monitor - Ultimate Value: In-Depth Analysis of 34 Screen, 180Hz Refresh Rate with Stunning Colors & Contrast</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-transformative-tips-to-take-your-lunapic-skills-up/"><u>[New] 2024 Approved Transformative Tips to Take Your LunaPic Skills Up</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-keyword-mastery-unlocking-the-potential-of-youtube-tags-for-2024/"><u>[Updated] Keyword Mastery Unlocking the Potential of YouTube Tags for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unravel-the-mysteries-of-color-grading-with-cs6cc-luts/"><u>2024 Approved Unravel the Mysteries of Color Grading with CS6/CC LUTs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g23-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G23 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862705155-acers-game-changer-steal-the-latest-tech-at-1129-rtx-4070-plus-amd-cpu-powered-nitro-16-laptop-unleashed/"><u>Acer's Game-Changer: Steal the Latest Tech at $1,129 - RTX 4070 + AMD CPU Powered Nitro 16 Laptop Unleashed!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-techkeys-bluetooth-device-driver-on-various-windows-versions/"><u>Easy Installation of Techkey's Bluetooth Device Driver on Various Windows Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-se-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone SE (4 Methods) | Stellar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-xr-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone XR?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-mastering-video-cover-updates-on-facebook/"><u>In 2024, Mastering Video Cover Updates on Facebook</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/revive-your-usbs-potential-expanding-storage-on-windows-11/"><u>Revive Your USB's Potential: Expanding Storage on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-is-arm-based-mediatek-gears-up-to-power-windows-laptops-post-qualcomm-pact/"><u>The Future Is ARM-Based: MediaTek Gears Up to Power Windows Laptops Post Qualcomm Pact</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-gamers-crossroads-oculus-or-playstation-vr/"><u>The Ultimate Gamer’s Crossroads Oculus or PlayStation VR?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-in-depth-reviews-and-analysis/"><u>Tom's Computing: In-Depth Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-electronics-tips-and-reviews-by-toms-hardware-professionals/"><u>Unveiling High-Performance Electronics - Tips and Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Today's Big Announcement: Insider Tips for Attending Microsoft's AI Event – From Product Hype to Actual Innovations"
-date: 2024-11-25T17:12:06.554Z
-updated: 2024-11-27T16:45:56.986Z
+date: 2024-12-09T01:44:46.922Z
+updated: 2024-12-13T00:01:52.266Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,24 +85,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-examining-usb-type-cs-impact-on-modern-display-technology/"><u>[New] Examining USB Type-C's Impact on Modern Display Technology</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-monetary-gains-with-youtubes-short-form-videos/"><u>[New] In 2024, Maximizing Monetary Gains with YouTube's Short-Form Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-lenovo-techniques-for-capturing-your-display/"><u>[Updated] Easy Lenovo Techniques for Capturing Your Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-center-unveiling-2024s-ultimate-keyboards-and-mice/"><u>Command Center: Unveiling 2024'S Ultimate Keyboards and Mice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-gadget-breakdown-with-tom-focus-on-hardware/"><u>Comprehensive Gadget Breakdown with Tom - Focus on Hardware</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-snapchat-a-comprehensive-cheat-sheet-on-emojis/"><u>Decoding Snapchat: A Comprehensive Cheat Sheet on Emojis</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters-for-2024/"><u>Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-world-of-vpns-understanding-different-vpn-tunneling-methods/"><u>Exploring the World of VPNs: Understanding Different VPN Tunneling Methods</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-pc-world-a-comprehensive-resource/"><u>Exploring Tom's PC World: A Comprehensive Resource</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-9-key-platforms-for-high-quality-livestreaming/"><u>In 2024, 9 Key Platforms for High-Quality Livestreaming</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-x-flip-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo X Flip FRP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-pixio-px277-oled-the-hidden-gem-among-gaming-displays/"><u>In-Depth Analysis of the Pixio PX277 OLED - The Hidden Gem Among Gaming Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-your-it-journey-with-expert-advice-from-toms-tech/"><u>Navigate Your IT Journey with Expert Advice From Tom's Tech</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revamped-marshall-for-anc-stylish-and-acoustically-perfect/"><u>Revamped Marshall for ANC: Stylish & Acoustically Perfect</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-gaming-displays-a-closer-look-at-the-speedy-performance-of-a-45-inch-oled-monitor-aoc-agon-pro-ag456uczd/"><u>Revolutionizing Gaming Displays – A Closer Look at the Speedy Performance of a 45-Inch OLED Monitor (AOC Agon Pro AG456UCZD)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/taking-a-closer-look-performance-testing-and-review-for-raspberry-pi-intelligent-unit-kit/"><u>Taking a Closer Look: Performance Testing and Review for Raspberry Pi Intelligent Unit Kit</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-the-logitech-g5s-tkl-compact-powerful-keyboard-at-an-attainable-price-point/"><u>The Ultimate Review of the Logitech G5s TKL - Compact, Powerful Keyboard at an Attainable Price Point</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-for-power-and-reliability-the-nzxt-c1email-protected-platinum-psu/"><u>Top Review for Power and Reliability: The NZXT C1[email Protected] Platinum PSU</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-power-of-technology-with-toms-hardware-tips/"><u>Unlocking the Power of Technology with Tom's Hardware Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-captivating-your-audience-youtube-intro-excellence-with-imovie/"><u>[Updated] 2024 Approved Captivating Your Audience YouTube Intro Excellence with iMovie</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boost-your-gaming-presence-with-easy-and-cost-effective-character-voice-alteration-in-free-fire/"><u>[Updated] Boost Your Gaming Presence with Easy and Cost-Effective Character Voice Alteration in Free Fire</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-powerpoints-voice-recognition-lands-market/"><u>[Updated] Navigating PowerPoint's Voice Recognition Lands Market</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pushing-past-plateaus-the-strategic-guide-for-youtube-success/"><u>2024 Approved Pushing Past Plateaus The Strategic Guide for Youtube Success</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/all-about-computers-the-definitive-guide-by-toms-hardware-team/"><u>All About Computers: The Definitive Guide by Tom's Hardware Team</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/diy-icon-replacement-for-the-flipboard-user-interface-a-comprehensive-tutorial/"><u>DIY Icon Replacement for the FlipBoard User Interface - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-beyerdynamic-mmx-300-pro-stellar-audio-performance-in-a-straightforward-package/"><u>Evaluating the Beyerdynamic MMX 300 Pro - Stellar Audio Performance in a Straightforward Package</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone-for-2024/"><u>How to Transfer Videos and Photos From a PC to an iPhone for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improving-professional-collaboration-with-strategic-office-planning/"><u>In 2024, Improving Professional Collaboration with Strategic Office Planning</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-asus-rog-nuc-970-mini-pc-a-detailed-review-on-its-formidable-performance-and-portability/"><u>Inside the Asus ROG NUC 970 Mini PC: A Detailed Review on Its Formidable Performance and Portability</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-realm-a-comprehensive-tech-resource/"><u>Inside Tom's Hardware Realm: A Comprehensive Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pest-management/"><u>Pest Management</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-pc-performance-insights-from-toms-computer-chronicles/"><u>Pioneering PC Performance: Insights From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tomtechdigest-decoding-computer-hardware-secrets/"><u>TomTechDigest: Decoding Computer Hardware Secrets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/trustworthy-advice-on-building-your-dream-machine-from-toms-hardware-pioneers/"><u>Trustworthy Advice on Building Your Dream Machine From Tom's Hardware Pioneers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uniting-technologies-mondly-plus-pearson-buttons-fusion/"><u>Uniting Technologies: Mondly + Pearson Buttons Fusion</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unmatched-precision-meets-pristine-quality-in-the-dough-spectrum-black-an-elite-27-oled-monitor-tailored-for-true-gamers-satisfaction/"><u>Unmatched Precision Meets Pristine Quality in the Dough Spectrum Black - An Elite 27 OLED Monitor Tailored for True Gamers' Satisfaction</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

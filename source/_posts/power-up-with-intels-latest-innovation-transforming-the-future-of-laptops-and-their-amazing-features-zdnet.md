@@ -1,7 +1,7 @@
 ---
 title: "Power Up with Intel's Latest Innovation: Transforming the Future of Laptops and Their Amazing Features | ZDNET"
-date: 2024-11-23T17:34:40.226Z
-updated: 2024-11-27T18:51:16.388Z
+date: 2024-12-11T16:46:35.210Z
+updated: 2024-12-12T16:12:07.205Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -67,7 +67,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -106,19 +106,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-podcasting-tech-updates-unveiled/"><u>[New] In 2024, Podcasting Tech Updates Unveiled</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-effective-methods-share-twitch-stream-on-facebook/"><u>[Updated] 2024 Approved Effective Methods | Share Twitch Stream on Facebook?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-speed-demon-with-style-in-depth-evaluation-of-flsun-s1-model/"><u>A Speed Demon with Style – In-Depth Evaluation of FLSun S1 Model</u></a></li>
-<li><a href="https://blog-min.techidaily.com/a-step-by-step-guide-on-enhancing-480p-footage-to-ultra-hd-quality/"><u>A Step-by-Step Guide on Enhancing 480P Footage to Ultra HD Quality</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-technology-products-according-to-toms-experts/"><u>Comprehensive Guide to Technology Products According to Tom's Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hear-the-chilling-tales-of-justice-the-best-13-true-crime-podcast-selections/"><u>Hear the Chilling Tales of Justice: The Best 13 True Crime Podcast Selections</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel A70 Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-end-screen-elegance-free-guides-to-upgrade-your-videos/"><u>In 2024, End-Screen Elegance - Free Guides to Upgrade Your Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-add-good-bokeh-effects-in-instagram-stories/"><u>In 2024, How to Add Good Bokeh Effects in Instagram Stories</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-expert-team/"><u>In-Depth Analysis of Electronics by Tom's Expert Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-the-tom-approach/"><u>Mastering Gadgets: The Tom Approach</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-made-easy-for-kids-top-free-and-paid-apps-for-2024/"><u>New Video Editing Made Easy for Kids Top Free and Paid Apps for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/pixel-perfection-your-path-to-exceptional-edits/"><u>Pixel Perfection Your Path to Exceptional Edits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-id-cooling-frozn-a620-pro-se-revolutionizing-value-with-advanced-cooling-innovation-for-pc-enthusiasts/"><u>The ID-Cooling Frozn A620 Pro SE: Revolutionizing Value with Advanced Cooling Innovation for PC Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>[New] In 2024, Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-hash-trackers-fb-twt-and-ig-networks/"><u>[Updated] 2024 Approved The Ultimate Guide to Hash Trackers FB, Twt & IG Networks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[Updated] In 2024, Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweetvid-puller-iphone-app-for-easy-video-extraction/"><u>[Updated] TweetVid Puller IPhone App for Easy Video Extraction</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-and-fast-raspberry-pi-m2-ssd-addon-comprehensive-evaluation/"><u>Affordable and Fast Raspberry Pi M.2 SSD Addon: Comprehensive Evaluation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beat-the-rush-early-access-to-amazons-sale-on-apples-latest-m2-macbook-air-for-a-steal-at-800-tips-and-analysis/"><u>Beat The Rush! Early Access to Amazon’s Sale on Apple's Latest M2 MacBook Air for a Steal at $800 - Tips & Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-enhanced-performance-with-sunfounders-pironman-5-an-aesthetically-pleasing-raspberry-pi-desktop-housing-that-supports-ssd-and-dazzles-with-rgb-le31/"><u>Experience Enhanced Performance with Sunfounder's Pironman 5 - An Aesthetically Pleasing Raspberry Pi Desktop Housing that Supports SSD and Dazzles with RGB LEDs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-tech-gadgets-by-toms-electronics-hub/"><u>Expert Insights on Tech Gadgets by Tom’s Electronics Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-valheim-initial-boot-issue-solutions-and-workarounds-for-a-successful-launch-in-202e4/"><u>Fixing the Valheim Initial Boot Issue: Solutions and Workarounds for a Successful Launch in 202E4</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-hardware-by-toms-experts/"><u>In-Depth Analysis of PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-equipment-expert-insights-on-pc-components-and-gear/"><u>Inside Tom's Equipment: Expert Insights on PC Components and Gear</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-zerowriter-inks-latest-typewriter-enhanced-52-e-ink-display-and-weeklong-battery-life-with-comfortable-mechanical-keys/"><u>Introducing Zerowriter Ink's Latest Typewriter: Enhanced 5.2 E-Ink Display & Weeklong Battery Life with Comfortable Mechanical Keys</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-projects-with-waveshares-new-iot-board-seamlessly-integrates-with-raspberry-pi-zero-includes-4glte-connectivity-and-customized-micropytho34/"><u>Revolutionize Your Projects with Waveshare's New IoT Board: Seamlessly Integrates with Raspberry Pi Zero, Includes 4G/LTE Connectivity & Customized MicroPython Environment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/simplified-troubleshoot-for-mtp-drivers/"><u>Simplified Troubleshoot for MTP Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-reviews-and-guides-for-high-performance-computing/"><u>Tom's Tech: Expert Reviews and Guides for High-Performance Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-secrets-the-ultimate-tutorial-on-finding-lost-passwords-in-macos-keychain/"><u>Unlocking Secrets: The Ultimate Tutorial on Finding Lost Passwords in macOS Keychain</u></a></li>
 </ul></div>
 

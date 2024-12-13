@@ -1,7 +1,7 @@
 ---
 title: $500 Discount on Top-Tier Tested Gaming Laptop During October Prime Day - Exclusive Deals From ZDNet
-date: 2024-12-04T01:15:50.588Z
-updated: 2024-12-06T23:26:03.146Z
+date: 2024-12-07T22:20:21.567Z
+updated: 2024-12-12T23:23:51.663Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Dell/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ A total of five vents on the m18 R2 allow for maximum internal airflow. Addition
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -109,7 +109,7 @@ In fact, one thing I noticed about the m18 R2 is that it never really felt hot t
 However, this is also quite a large laptop, so although it's portable, it isn't exactly carry-and-go, and it isn't a machine that you can leave unplugged for hours at a time. Pricing can easily rise toward the higher end too, but the cutting-edge technology solidifies the m18 R2 as something that will be near the top of the laptop market for a while. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -146,24 +146,14 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-divided-footage-delight-top-cam-discussion/"><u>[New] 2024 Approved Divided Footage Delight Top Cam Discussion?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fade-perfection-quick-tips-and-tricks/"><u>[New] In 2024, Fade Perfection Quick Tips and Tricks</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-building-awesome-channel-art-for-your-youtube-presence/"><u>[Updated] Building Awesome Channel Art for Your YouTube Presence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-enhance-your-chromebooks-verbal-expressions-with-our-top-5-vocal-transformers/"><u>[Updated] Enhance Your Chromebook's Verbal Expressions with Our Top 5 Vocal Transformers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-request-for-full-media-sharing-viewability-via-messaging-platforms/"><u>[Updated] In 2024, Request for Full Media Sharing Viewability via Messaging Platforms</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-y78plus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y78+ Phone Screen?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y27s-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y27s Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/non-reactivity-in-canon-printer-mode/"><u>Non-Reactivity in Canon Printer Mode</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-download-realtek-alc892a-hd-audio-driver-for-windows-10/"><u>Quick Download: Realtek ALC892A HD Audio Driver for Windows 10</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reaching-39-million-motherboards-remarkable-comeback-mirrors-pre-covid-shipping-rates/"><u>Reaching 39 Million: Motherboards' Remarkable Comeback Mirrors Pre-COVID Shipping Rates</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionizing-the-market-asus-launches-specialized-motherboard-to-skyrocket-chinas-kx-7000-clock-speeds-by-25/"><u>Revolutionizing the Market: Asus Launches Specialized Motherboard to Skyrocket China's KX-7000 Clock Speeds by 25%</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/streamline-your-pc-build-with-the-best-motherboards-for-beginners/"><u>Streamline Your PC Build with the Best Motherboards for Beginners</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/supercharge-your-chinese-processor-asus-latest-innovation-in-overclocking-boosts-the-kx-7000-series-by-an-impressive-25/"><u>Supercharge Your Chinese Processor: Asus' Latest Innovation in Overclocking Boosts the KX-7000 Series by an Impressive 25%</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-ultimate-guide-to-building-podcast-rss-for-2024/"><u>The Ultimate Guide to Building Podcast RSS for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-computer-equipment-reviews/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Computer Equipment Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-source-for-computer-enthusiasts-tips-and-reviews-on-toms-hardware/"><u>The Ultimate Source for Computer Enthusiasts: Tips & Reviews on Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-gadget-galaxy-unveiling-the-secrets-of-high-performance-hardware/"><u>Tom's Gadget Galaxy - Unveiling the Secrets of High-Performance Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-computer-components-t17238628805809/"><u>Tom's Tech Insights: Your Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide-t172386288058010/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-optimal-frame-rate-in-slow-motion-film-production/"><u>[Updated] Identifying Optimal Frame Rate in Slow Motion Film Production</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cultivating-a-positive-mindset-against-cyberbullying/"><u>[Updated] In 2024, Cultivating a Positive Mindset Against Cyberbullying</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/excellence-in-camera-technology-2024-outlooks/"><u>Excellence in Camera Technology - 2024 Outlooks</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-correcting-error-code-103003-in-arma-3-operation-husar/"><u>Solutions for Correcting Error Code 103003 in Arma 3: Operation Husar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-exploration-a-deep-dive-into-pc-specs-and-performance/"><u>Tom's Hardware Exploration: A Deep Dive Into PC Specs and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review - Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less</u></a></li>
 </ul></div>
 

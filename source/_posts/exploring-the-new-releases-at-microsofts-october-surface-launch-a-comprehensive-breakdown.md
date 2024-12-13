@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Releases at Microsoft's October Surface Launch: A Comprehensive Breakdown"
-date: 2024-11-21T19:01:57.557Z
-updated: 2024-11-27T16:50:11.817Z
+date: 2024-12-06T21:22:21.147Z
+updated: 2024-12-12T16:28:18.441Z
 tags:
   - laptops
 categories:
@@ -40,11 +40,11 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## What products did get announced
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What products did get announced
 
 ## M3 chips in all sizes
 
@@ -67,7 +67,7 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. 14-inch and 16-inch MacBook Pro
@@ -87,7 +87,7 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. iMac with M3
@@ -103,10 +103,14 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What products didn't get announced
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
 
@@ -127,10 +131,6 @@ With the iPhone being the last major product to transition over from Lightning t
 **Also: [Best USB-C chargers and accessories for iPhone 15 Pro: Expert tested](https://www.zdnet.com/article/best-usb-c-and-wireless-chargers-and-accessories-for-iphone-15-pro/)**
 
 With the new 24-inch iMac, Apple will continue to bundle Lightning-equipped Magic Keyboard and Mouse peripherals, giving some users reasons to retain their cables.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to rewatch Apple's 'Scary Fast' event
 
@@ -166,16 +166,21 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>[New] Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
-<li><a href="https://solve-news.techidaily.com/effortlessly-transfer-your-dvd-content-with-gratis-winx-rip-software-ideal-for-iphone-android-users/"><u>Effortlessly Transfer Your DVD Content with Gratis WinX Rip Software - Ideal for iPhone, Android Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-gear-analysis-by-tom-your-trusted-guide-in-technology/"><u>Expert Gear Analysis by Tom - Your Trusted Guide in Technology</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-xr-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone XR with iTunes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/imaging-techniques-like-oct-may-be-used-postoperatively-to-confirm-the-success-of-surgical-interventions-such-as-retinal-detachment-repair/"><u>Imaging Techniques Like OCT May Be Used Postoperatively to Confirm the Success of Surgical Interventions Such as Retinal Detachment Repair.</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-p40plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel P40+</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-11-proplus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme 11 Pro+ To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-raspberry-pi-compute-module-4s-unveiled-in-depth-analysis-for-tech-professionals/"><u>The Raspberry Pi Compute Module #4S Unveiled: In-Depth Analysis for Tech Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-modern-hardware-solutions-by-toms-experts/"><u>The Ultimate Resource for Modern Hardware Solutions by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-toms-gear-a-deep-dive-into-technology-and-hardware/"><u>Unveiling Tom's Gear: A Deep Dive Into Technology and Hardware</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1627419-9780733627262-where-spirits-dwell/"><u>Where Spirits Dwell | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-most-crucial-info-for-new-youtube-tv-users/"><u>[New] 2024 Approved The Most Crucial Info for New YouTube TV Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-simplifying-the-screen-recording-process-for-dell-users/"><u>[Updated] Simplifying the Screen-Recording Process for Dell Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-obs-playbook-for-twitch-and-youtube-streaming/"><u>[Updated] The Ultimate OBS Playbook for Twitch & YouTube Streaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-optimizing-facebook-ads-with-a-structured-triple-layered-copywriting-approach/"><u>2024 Approved Optimizing Facebook Ads with a Structured, Triple-Layered Copywriting Approach</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/global-youtube-rich-list-pinnacle/"><u>Global YouTube Rich List Pinnacle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-evaluation-and-expert-advice-from-toms-hardware/"><u>Hardware Evaluation & Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a05s-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A05s</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oneplus-nord-3-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from OnePlus Nord 3 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-toms-comprehensive-review-site/"><u>Mastering Hardware Choices with Tom's Comprehensive Review Site</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maxsun-terminator-z790m-d5-ice-review-of-the-high-performance-white-atx-board-with-five-m2-connectors/"><u>Maxsun Terminator Z790M D5 Ice - Review of the High-Performance White ATX Board with Five M.2 Connectors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-board-from-lattepanda-a-speedier-alternative-to-raspberry-pi-5-with-higher-price-tag/"><u>Mu Board From LattePanda: A Speedier Alternative to Raspberry Pi 5 with Higher Price Tag</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partner-with-local-organizations-for-community-projects-that-align-with-your-corporate-social-responsibility-goals-and-can-improve-the-lives-of-those-affect25/"><u>Partner with Local Organizations for Community Projects that Align with Your Corporate Social Responsibility Goals and Can Improve the Lives of Those Affected by Environmental Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-guide-elevating-your-fb-video-content-game-for-2024/"><u>The Ultimate Guide Elevating Your FB Video Content Game for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computer-components-by-tom/"><u>The Ultimate Guide to Computer Components by Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-asus-rog-azoth-extreme-is-a-game-changer-at-just-500-expert-insights/"><u>Why the Asus ROG Azoth Extreme Is a Game-Changer at Just $500 - Expert Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/jp2/"><u>텍스트에서 JP2 격리하기: 원활한 온라인 소품 자동화</u></a></li>
 </ul></div>
 

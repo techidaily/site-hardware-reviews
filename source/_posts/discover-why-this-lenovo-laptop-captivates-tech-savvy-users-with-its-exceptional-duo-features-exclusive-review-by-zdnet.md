@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2024-12-01T22:21:54.451Z
-updated: 2024-12-06T21:46:45.508Z
+date: 2024-12-11T21:17:16.093Z
+updated: 2024-12-12T20:21:08.567Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,19 +134,20 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-art-of-managing-discord-spoilers/"><u>[New] In 2024, The Art of Managing Discord Spoilers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-for-posting-pics-on-ig/"><u>2024 Approved The Ultimate Tutorial for Posting Pics on IG</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/collaborations-with-urban-gardening-influencers/"><u>Collaborations with Urban Gardening Influencers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/customizing-failed-sign-in-wait-duration-in-windows/"><u>Customizing Failed Sign In Wait Duration in Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-an-intuitive-approach-to-easily-observing-loved-youtube-feedback/"><u>In 2024, An Intuitive Approach to Easily Observing Loved YouTube Feedback</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-smart-7-hd-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Smart 7 HD Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nuphy-halo75-v2-review-top-performance-at-a-wallet-friendly-price-for-gamers/"><u>Nuphy Halo75 V2 Review: Top Performance at a Wallet-Friendly Price for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-according-to-tom/"><u>The Ultimate Guide to High-Performance Hardware According to Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-detailed-reviews-and-gadget-analysis/"><u>Tom's Tech Hub: Detailed Reviews and Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-hardware-guides/"><u>Tom's Tech Reviews: Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-the-frustrating-twitch-error-4000/"><u>Understanding and Fixing the Frustrating Twitch Error 4000</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-quick-fixes-for-photoshop-not-launching/"><u>Win11: Quick Fixes for Photoshop Not Launching</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/z7-review-nearly-perfect-practically-exceptional-photography/"><u>Z7 Review: Nearly Perfect, Practically Exceptional Photography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-master-the-mix-combining-youtube-links-in-stories/"><u>[New] 2024 Approved Master the Mix Combining YouTube Links in Stories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-8-instagram-planners-ios-and-android-edition/"><u>[New] 2024 Approved Top 8 Instagram Planners IOS & Android Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/irst-steps-to-fame-8-free-courses-for-youtube-novices/"><u>[New] First Steps to Fame 8 Free Courses for YouTube Novices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-flavorful-footage-kitchen-film-making-101-for-2024/"><u>[Updated] Flavorful Footage Kitchen Film-Making 101 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-full-potential-of-video-enhancer-22-for-your-work/"><u>[Updated] Harnessing the Full Potential of Video Enhancer 2.2 for Your Work</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-short-film-synopsis-must-know-points/"><u>2024 Approved Short Film Synopsis Must-Know Points</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cost-effective-microcontroller-projects-with-the-cytron-maker-uno-rp2040-a-comprehensive-review/"><u>Cost-Effective Microcontroller Projects with the Cytron Maker Uno RP2040 - A Comprehensive Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-of-both-worlds-with-keychron-q1-he-a-hybrid-desktopwireless-marvel/"><u>Discover the Best of Both Worlds with Keychron Q1 HE - A Hybrid Desktop/Wireless Marvel</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/eargasm-high-fidelity-earplugs-review-beautiful-effective-earplugs-for-concerts/"><u>Eargasm High Fidelity Earplugs Review: Beautiful, Effective Earplugs for Concerts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-gear-review-at-tomtechspotlight/"><u>Expert Gear Review at TomTechSpotlight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-pny-rp6-1tb-ssd-satisfactory-performance-with-no-notable-highlights/"><u>In Depth Review of PNY RP6# 1TB SSD: Satisfactory Performance with No Notable Highlights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-comprehensive-hardware-review-site/"><u>Mastering Gadgets with Tom - A Comprehensive Hardware Review Site</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a24-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy A24 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-a-comprehensive-review-of-the-corsair-e27t-ssd-the-ultimate-1tb-m2-solution/"><u>Unveiling the Best: A Comprehensive Review of the Corsair E27T SSD - The Ultimate 1TB M.2 Solution</u></a></li>
 </ul></div>
 

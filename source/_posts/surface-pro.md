@@ -1,7 +1,7 @@
 ---
 title: Surface Pro
-date: 2024-12-01T21:31:22.639Z
-updated: 2024-12-06T23:53:22.460Z
+date: 2024-12-06T21:12:34.186Z
+updated: 2024-12-12T21:55:56.388Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -49,7 +49,7 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 How did this happen? Let's dive in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The experience is familiar
@@ -63,10 +63,6 @@ And as for the software, well … It's Windows 11, which looks and acts the same
 The big difference is that this next-gen device is extremely cool and quiet. After a three-hour Zoom call the other day, the chassis was barely warm; on an Intel-based machine, it would have been uncomfortably hot. There's a fan inside the Surface Pro 11, but I have yet to hear it run, even under the most demanding conditions. It's also extremely responsive, with none of the hesitation I occasionally noticed on the Surface Pro X. If you've used an M2-equipped MacBook Air, the feeling will be familiar.
 
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Battery life is a huge win
 
@@ -85,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,6 +120,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,21 +192,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unleashing-laughter-on-screen-essential-tactics-for-youtube-reaction-video-making-3-ways/"><u>[Updated] In 2024, Unleashing Laughter on Screen Essential Tactics for YouTube Reaction Video Making (3 Ways)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-compilation-of-audio-enhancing-software-for-virtual-performers/"><u>2024 Approved Ultimate Compilation of Audio-Enhancing Software for Virtual Performers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290618850-2024-dvd/"><u>2024年におすすめの DVD ビデオの一括保存技術：リッピング完全ガイド</u></a></li>
-<li><a href="https://fox-http.techidaily.com/budget-friendly-drone-picks-best-bargains-for-less-than-500-for-2024/"><u>Budget-Friendly Drone Picks Best Bargains for Less than $500 for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-artificial-intelligence-black-boxes-exploring-how-they-operate/"><u>Demystifying Artificial Intelligence Black Boxes – Exploring How They Operate</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-artistic-compendium-for-perfect-paste-ups/"><u>In 2024, Artistic Compendium for Perfect Paste-Ups</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/insta-a-lister-secrets-unveiling-the-fastest-way-to-fame-with-our-expert-guide/"><u>Insta A-Lister Secrets Unveiling the Fastest Way to Fame with Our Expert Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/italian-journey-speak-mastering-local-dialects/"><u>Italian Journey Speak: Mastering Local Dialects</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-the-ultimate-tech-guide/"><u>Tom's Computer Components: The Ultimate Tech Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-advisor-the-ultimate-guide/"><u>Tom's Tech Advisor: The Ultimate Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guide-to-the-latest-hardware/"><u>Tom's Tech Review: In-Depth Guide to the Latest Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-from-the-leading-hardware-experts/"><u>Tom's Tech Reviews: Insights From the Leading Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-workstation-the-highly-rated-samsung-pixel-dense-viewfinity-s9-monitor-27-ips-display-and-integrated-4k-camera-at-an-unmatchable-899-price-se39/"><u>Transform Your Workstation: The Highly Rated Samsung Pixel-Dense ViewFinity S9 Monitor - 27 IPS Display & Integrated 4K Camera at an Unmatchable $899 Price – Secure 44% Off Today!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-of-value-priced-4k-monitors/"><u>Ultimate Selection of Value-Priced 4K Monitors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-rediscovering-the-past-with-your-camera-roll-on-snapchat-for-2024/"><u>[New] Rediscovering the Past with Your Camera Roll on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-captivating-your-audience-youtube-intro-excellence-with-imovie-for-2024/"><u>[Updated] Captivating Your Audience YouTube Intro Excellence with iMovie for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-holistic-locomotion-examination-2023-for-2024/"><u>[Updated] Holistic Locomotion Examination 2023 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-cost-effective-sky-gadgets-frugal-flight-devices-ranking/"><u>[Updated] In 2024, Cost-Effective Sky Gadgets Frugal Flight Devices Ranking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lumafusion-tips-for-subtle-sound-reduction/"><u>2024 Approved Lumafusion Tips for Subtle Sound Reduction</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/bandicam-simplified-your-comprehensive-guide-to-the-latest/"><u>Bandicam Simplified Your Comprehensive Guide to the Latest</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-k55-controller-drivers-latest-version-available-now/"><u>Corsair K55 Controller Drivers - Latest Version Available Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/find-the-perfect-game-ready-laptop-without-breaking-your-bank-best-choices-under-1k/"><u>Find the Perfect Game-Ready Laptop Without Breaking Your Bank: Best Choices Under $1K</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-lenovo-laptop-woes-to-perfect-setup-enthusiast-replaces-faulty-keyboard-and-adds-titanium-protection-plus-mechanical-typing-pleasure/"><u>From Lenovo Laptop Woes to Perfect Setup: Enthusiast Replaces Faulty Keyboard & Adds Titanium Protection + Mechanical Typing Pleasure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-carbon-fibre-hewn-batteries-the-ultimate-weightless-energy-source-for-advanced-gadgets/"><u>Introducing Carbon Fibre Hewn Batteries - The Ultimate 'Weightless' Energy Source for Advanced Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-devices-check-out-toms-expert-hardware-analysis/"><u>Mastering Your Devices? Check Out Tom's Expert Hardware Analysis</u></a></li>
 </ul></div>
 

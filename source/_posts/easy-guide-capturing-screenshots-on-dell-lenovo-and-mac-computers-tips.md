@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Screenshots on Dell, Lenovo & Mac Computers - Tips"
-date: 2024-11-20T17:47:37.674Z
-updated: 2024-11-27T16:07:52.263Z
+date: 2024-12-11T03:19:25.998Z
+updated: 2024-12-13T01:21:41.388Z
 tags:
   - laptops
 categories:
@@ -28,6 +28,10 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -36,7 +40,15 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -49,7 +61,7 @@ The button can be just about anywhere, so just look for something that looks as 
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
@@ -64,10 +76,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -81,6 +89,10 @@ The main difference in using Windows+Shift+S is that windows won't automatically
 The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
@@ -98,25 +110,13 @@ Michael Gariffo/ZDNET
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,21 +157,19 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-imagination-unleashed-building-engaging-animated-videos-in-windows-movie-maker-for-2024/"><u>[New] Imagination Unleashed Building Engaging Animated Videos in Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-simplified-screen-recording-for-gamers-for-2024/"><u>[New] Simplified Screen Recording for Gamers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-content-platform-wars-direct-engagement-or-wider-distribution-twitch-vs-youtube/"><u>[Updated] Content Platform Wars Direct Engagement or Wider Distribution? – Twitch Vs YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-explore-sites-where-you-can-procure-youtube-affiliate-partnerships/"><u>[Updated] In 2024, Explore Sites Where You Can Procure Youtube Affiliate Partnerships</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-15-pro-max-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 15 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-14-imei-checker-by-drfone-ios/"><u>Best Free iPhone 14 IMEI Checker</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-hostgators-virtual-private-server-and-sharing-plans/"><u>Comprehensive Analysis: HostGator's Virtual Private Server & Sharing Plans</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-electronics-evaluations-from-toms-circuitry-hub/"><u>Comprehensive Electronics Evaluations From Tom's Circuitry Hub</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-the-seamless-fusion-of-heritage-and-high-tech-in-our-skagen-falster-3-watch-evaluation/"><u>Discovering the Seamless Fusion of Heritage and High Tech in Our Skagen Falster 3 Watch Evaluation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-100-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor 100 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-gadgetry-a-deep-dive-into-cutting-edge-electronics/"><u>Inside Tom's Gadgetry: A Deep Dive Into Cutting-Edge Electronics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-future-of-action-cam-unveiled-intova-x/"><u>The Future of Action Cam Unveiled Intova X</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-verdict-on-pnys-1tb-portable-ssd-satisfactory-yet-lacks-distinctiveness/"><u>The Verdict on PNY's 1TB Portable SSD: Satisfactory Yet Lacks Distinctiveness</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-guide-to-high-performance-gadgets-and-components-expert-reviews/"><u>Tom's Guide to High-Performance Gadgets and Components - Expert Reviews!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-hardware-mysteries-your-trusted-source-toms-hardware/"><u>Unveiling Hardware Mysteries: Your Trusted Source, Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/valkyrie-syns-aio-model-240-superior-cooling-prowess-overshadowed-by-heavyweight-software-packaging/"><u>Valkyrie Syn's AIO Model 240 – Superior Cooling Prowess Overshadowed by Heavyweight Software Packaging</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-reach-and-recognition-viewership-metrics-for-insta-photos/"><u>[New] 2024 Approved Reach and Recognition Viewership Metrics for Insta Photos</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-silent-youtube-browsing-for-iphones-and-androids/"><u>[New] Silent YouTube Browsing for iPhones and Androids</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-creating-professional-edits-using-youtube-studio-editor-for-2024/"><u>[Updated] Creating Professional Edits Using YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-listenguide-review/"><u>[Updated] In 2024, ListenGuide Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-your-go-to-source-for-cutting-edge-hardware-insights/"><u>[Your Brand Name] – Your Go-To Source for Cutting-Edge Hardware Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-logging-live-audio-on-the-go-a-user-friendly-manual/"><u>2024 Approved Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhanced-performance-unleashed-nvidias-latest-update-features-gpu-turbocharge-and-obs-audio-clarity/"><u>Enhanced Performance Unleashed: Nvidia's Latest Update Features GPU Turbocharge & OBS Audio Clarity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-by-tom-on-computer-hardware-components/"><u>Expert Insights by Tom on Computer Hardware Components</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-a-deep-dive-into-recmasters-video-capturing-technology/"><u>In 2024, A Deep Dive Into Recmaster's Video Capturing Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-tech-alert-microsoft-rolls-out-ai-chatbot-assistance-for-xbox-diving-into-its-operational-dynamics-zdnet/"><u>Next-Gen Tech Alert: Microsoft Rolls Out AI Chatbot Assistance for Xbox, Diving Into Its Operational Dynamics | ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-on-hardware-and-performance/"><u>Tom's Tech Hub: Expert Insights on Hardware & Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-pova-6-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Pova 6 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-mac-mini-into-a-powerhouse-with-the-75-diy-mac-studio-upgrade-techradar/"><u>Transform Your Mac Mini Into a Powerhouse with the $75 DIY Mac Studio Upgrade | TechRadar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-phisons-record-breaking-pcie-gen-40-ssd-e29t-controller-exclusive-insights-from-fms-2nd/"><u>Unveiling Phison's Record-Breaking PCIe Gen 4.0 SSD E29T Controller: Exclusive Insights From FMS 2nD</u></a></li>
 </ul></div>
 

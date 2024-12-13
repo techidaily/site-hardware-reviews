@@ -1,7 +1,7 @@
 ---
 title: Experience Unbeatable Black Friday Prices with the Dell XPS 15 Laptop | Save Hundreds Now at ZDNET
-date: 2024-11-20T17:14:28.720Z
-updated: 2024-11-27T17:49:55.473Z
+date: 2024-12-09T20:07:03.580Z
+updated: 2024-12-12T21:33:00.584Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the deal?
@@ -31,7 +31,7 @@ You can pick up a new [MSI Stealth 14 Studio gaming laptop](https://shop-links.c
 **Also:** [**The best gaming laptops**](https://www.zdnet.com/article/best-gaming-laptop/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended:
@@ -65,7 +65,7 @@ Speaking of which: I absolutely adore the MUX switch, which is what lets you cho
 Taylor Clemons/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## My only real complaint
@@ -81,7 +81,7 @@ Taylor Clemons/ZDNET
 The laptop also has a decently fast charging time, taking about an hour to reach full charge from completely dead. This is perfect for situations when you forget to charge overnight or need to quickly top up the laptop during a lunch break or meeting. As with all fast-charging devices, you'll notice a slowdown in power transfer as the battery approaches full charge. This helps prevent damage from overcharging, which can shorten the overall life and performance of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it handles gaming
@@ -95,7 +95,7 @@ Taylor Clemons/ZDNET
 The laptop even was able to handle the [ARMA III](https://store.steampowered.com/app/107410/Arma%5F3/) base game, which is notorious for requiring Herculean efforts from graphics cards and CPUs to even be able to load you into a server. I'd bought ARMA III years ago to play with friends over Discord, and this was the first time I'd been able to just load into the lobby and mess around with controls, settings, and mods before _finally_ being able to play a match after all this time. So the Stealth 14 Studio gets extra points in my book for letting me spend time with and stay connected to friends I don't get to see very often in-person. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A worthy investment
@@ -140,14 +140,16 @@ _Correction: This review has been edited to reflect accurate information as prov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-editors-edge-boost-your-tiktok-impact/"><u>[New] The Editor's Edge Boost Your TikTok Impact</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-budget-pc-video-capture-tools-assessed/"><u>[Updated] In 2024, Budget PC Video Capture Tools Assessed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-xiaomi-redmi-note-12-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Xiaomi Redmi Note 12 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-the-game-asus-rog-swift-pg34wcdm-240hz-oled-gaming-monitor-an-in-depth-look-at-premium-image-quality-and-optimized-performance/"><u>Master the Game: Asus ROG Swift PG34WCDM 240Hz OLED Gaming Monitor - An In-Depth Look at Premium Image Quality and Optimized Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-gear-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Computer Gear with Tom: A Trusted Source for Hardware Enthusiasts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-steps-installing-and-updating-the-scansnap-ix500-drivers-on-windows-systems/"><u>Simple Steps: Installing & Updating the ScanSnap iX500 Drivers on Windows Systems</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/stepwise-strategies-building-a-playlist-on-youtube/"><u>Stepwise Strategies Building a Playlist on YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-the-ultra-wide-oled-masterpiece-aoc-agon-pro-ag4n6uczd-45-revel-in-the-power-of-extreme-curvature-and-blazing-performance-for-next-level-g13/"><u>Ultimate Guide to The Ultra-Wide OLED Masterpiece: AOC Agon Pro AG4n6UCZD 45 - Revel in the Power of Extreme Curvature & Blazing Performance for Next-Level Gaming Experience</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-of-logitech-g-pro-x-2-with-lightspeed-technology-a-must-have-for-serious-gamers/"><u>Ultimate Review of Logitech G Pro X 2 with Lightspeed Technology: A Must-Have for Serious Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-quick-and-easy-methods-for-recording-audio-on-your-android-device/"><u>1. Quick and Easy Methods for Recording Audio on Your Android Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-practices-for-picking-your-perfect-wireless-phone-charger/"><u>Best Practices for Picking Your Perfect Wireless Phone Charger</u></a></li>
+<li><a href="https://os-tips.techidaily.com/californians-can-now-use-iphones-as-official-digital-identification/"><u>Californians Can Now Use iPhones as Official Digital Identification</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-playwrights-lair/"><u>In 2024, Premier Playwright's Lair</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-caller-id-changers-the-magic-app-series/"><u>Premium Caller ID Changers The Magic App Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pugilism-vs-players-battle-for-supremacy/"><u>Pugilism vs Players Battle for Supremacy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-productivity-with-androids-built-in-focus-feature-step-by-step-setup-for-enhanced-focus-mode/"><u>Unlock Productivity with Android's Built-In Focus Feature: Step-by-Step Setup for Enhanced Focus Mode</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-samsung-devices-with-built-in-galaxy-ai-features/"><u>Upcoming Samsung Devices with Built-In Galaxy AI Features</u></a></li>
 </ul></div>
 

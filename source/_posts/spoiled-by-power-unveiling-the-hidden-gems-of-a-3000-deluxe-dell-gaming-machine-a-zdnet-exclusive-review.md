@@ -1,7 +1,7 @@
 ---
 title: "Spoiled by Power: Unveiling the Hidden Gems of a $3,000 Deluxe Dell Gaming Machine - A ZDNET Exclusive Review"
-date: 2024-12-04T20:37:25.012Z
-updated: 2024-12-06T19:20:45.106Z
+date: 2024-12-09T16:00:41.689Z
+updated: 2024-12-12T19:27:59.864Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,18 +138,17 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortless-gameplay-preservation-for-overwatch/"><u>[New] Effortless Gameplay Preservation for Overwatch</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>[New] IPhotoVidSyncer Seamless Image+Video Playback</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-6s-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 6s to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-guide-to-using-snap-on-zoom-webinars/"><u>Expert Guide to Using Snap on Zoom Webinars</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-hardware-insights/"><u>Exploring Technology with Tom: Hardware Insights</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/free-to-fortune-carryminatis-youtube-transformation-ajey-for-2024/"><u>From Free to Fortune CarryMinati’s YouTube Transformation (Ajey) for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-revolutionize-your-ig-feed-with-these-elite-grid-creation-apps/"><u>In 2024, Revolutionize Your IG Feed with These Elite Grid Creation Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>In 2024, Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-and-reviews-discovering-tech-secrets-at-toms-hardware/"><u>Innovative Solutions and Reviews: Discovering Tech Secrets at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-and-reviews-the-toms-hardware-collection/"><u>Innovative Tech Analysis and Reviews - The Tom's Hardware Collection</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unmatched-precision-and-design-elevating-gameplay-with-the-elite-series-2-from-xbox-one-an-authoritative-review/"><u>Unmatched Precision and Design: Elevating Gameplay with the Elite Series 2 From Xbox One - An Authoritative Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-halo-bolt-jump-starter-and-portable-charger-analysis/"><u>Comprehensive Halo Bolt Jump Starter and Portable Charger Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-built-in-fm-transmitters-on-iphones-and-androids-for-live-radio-listening/"><u>Enabling Built-In FM Transmitters on iPhones and Androids for Live Radio Listening</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a05s-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A05s</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiere-guide-to-affordable-open-access-images/"><u>Premiere Guide to Affordable, Open-Access Images</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-computing-experience-with-acer-dell-hp-and-lenovos-latest-offerings-affordable-snapdragon-x-windows-copilot-pcs-with-impressive-battery-l11/"><u>Revolutionize Your Computing Experience with Acer, Dell, HP and Lenovo's Latest Offerings: Affordable Snapdragon X Windows Copilot PCs With Impressive Battery Life</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-conundrum-of-tech-empathy-can-ai-mirror-our-feelings/"><u>The Conundrum of Tech Empathy: Can AI Mirror Our Feelings?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-expert-gadget-reviews-and-tech-insights/"><u>Tom's Hardware - Expert Gadget Reviews & Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-t17238628794567/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-computer-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer Hardware Analysis</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-student-laptops-comprehensive-reviews-and-guides-insights-from-tech-experts/"><u>Top-Rated Student Laptops: Comprehensive Reviews & Guides - Insights From Tech Experts</u></a></li>
 </ul></div>
 
