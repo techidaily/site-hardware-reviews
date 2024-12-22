@@ -1,7 +1,7 @@
 ---
 title: 2023’S Elite Mechanical Keyboards Reviewed - Insider Tips
-date: 2024-12-06T21:35:17.841Z
-updated: 2024-12-12T23:38:24.574Z
+date: 2024-12-16T18:01:53.847Z
+updated: 2024-12-22T02:03:42.885Z
 tags:
   - laptops
 categories:
@@ -45,15 +45,7 @@ Cons
 * Limited to linear switches
 * Not compatible with Mac
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Razer Pro Type Ultra
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best mechanical keyboard overall
 
@@ -84,7 +76,15 @@ Cons
 * Lacks wrist rest
 * On the louder side
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cooler Master CK552
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best budget mechanical keyboard
 
@@ -114,10 +114,6 @@ Cons
 * Easily detachable feet
 
 ## NuPhy Air75
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best mechanical keyboard for laptops
 
@@ -152,6 +148,10 @@ Cons
 
 ## Razer BlackWidow V3 Mini Hyperspeed
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best 65 percent mechanical keyboard
 
 **Razer BlackWidow V3 Mini Hyperspeed tech specs: Type:** Compact | **Wired/wireless:** Wireless | **Number of keys:** 68 | **Dimensions:** 5.14 x 1.61 x 12.55 inches
@@ -181,6 +181,10 @@ Cons
 
 ## SteelSeries Apex Pro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best mechanical keyboard for gaming
 
 **SteelSeries Apex Pro tech specs: Type:** Full size | **Wired/wireless:** Wired | **Number of keys:** 104 | **Dimensions:** 5.5 x 17.2 x 1.6 inches
@@ -197,6 +201,10 @@ Aside from gaming, the Apex Pro is also great for typing and navigation. [Alvin 
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best mechanical keyboard?
 
 Users love the Razer Pro Type Ultra for its excellent performance. It may not be the most affordable on our list of best mechanical keyboards. However, with 104 keys, it is a full-sized model that is larger than some of the others. 
@@ -212,7 +220,7 @@ To see how it compares, here is an overview of the best mechanical keyboards.
 | SteelSeries Apex Pro                | $192     | Full size | 104                |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did I choose these best mechanical keyboards?
@@ -227,10 +235,6 @@ When comparing the best mechanical keyboards and talking to users, I took severa
 * **Switch** **type**: There are three main types of mechanical switches that are commonly seen in mechanical keyboards: linear, tactile, and clicky. Linear switches offer a smoother feel with no resistance, while you can actually feel the bump on tactile switches. As the name suggests, clicky switches have an audible noise when you push them.
 * **Backlighting**: The best mechanical keyboards also incorporate backlighting as an added feature. Some keyboards even allow you to customize the lighting for each individual key, creating custom color coding based on your specific tasks.
 * **Design**: In addition to the number of clicks, there is the actual design to consider. Look for heavy-duty materials that promise durability, especially if you plan on traveling with them. For example, the Cooler Master CK552 boasts a brushed aluminum design that is far tougher than your standard plastic construction.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best mechanical keyboard manufacturer?
 
@@ -265,10 +269,6 @@ In an ideal world, any keypress during a game will be instantly recognized to gi
 
 The only exception I'd make for using a wireless gaming keyboard is if the board in question used 2.4GHz wireless, like some options from Logitech. These dongle-based wireless connections offer far lower latency, and can be just as ideal for gaming as high-end wireless mice have become. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What parts of a mechanical keyboard can you modify?
 
 Short answer: all of them. 
@@ -290,7 +290,7 @@ Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-key
 ## Asus ROG Azoth
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best mechanical keyboard splurge
@@ -306,7 +306,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Corsair K100
@@ -324,7 +324,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-mechanical-keyboard/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Kinesis Freestyle Edge RGB Split Gaming Keyboard
@@ -377,20 +377,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/recision-problem-solving-for-youtube-short-success-for-2024/"><u>[New] Precision Problem-Solving for YouTube Short Success for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>[Updated] Canon Camera Experience No Cost, But Pay for More LUTs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ignite-interest-with-your-own-solo-podcast-series-for-2024/"><u>[Updated] Ignite Interest with Your Own Solo Podcast Series for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-perfect-iphone-silhouette-captures-101/"><u>2024 Approved Perfect iPhone Silhouette Captures 101</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>2024 Approved Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-non-shown-pc-monitor-at-startup/"><u>Addressing Non-Shown PC Monitor at Startup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-powerhouse-the-ultimate-asus-rog-azoth-extreme-review-at-half-a-grand/"><u>Affordable Powerhouse: The Ultimate Asus ROG Azoth Extreme Review at Half-a-Grand</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-tech-trends-insightful-analysis-of-new-hardware-by-tom/"><u>Decoding Tech Trends: Insightful Analysis of New Hardware by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-sound-quality-with-the-turtle-beach-atlas-air-an-in-depth-review/"><u>Experience Unmatched Sound Quality with the Turtle Beach ATLAS Air – An In-Depth Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-insights-from-toms-hardware/"><u>Exploring the Latest in Tech: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>In 2024, Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-scoop-on-hardware-tech-top-picks-from-toms-investigation/"><u>Inside Scoop on Hardware Tech - Top Picks From Tom's Investigation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-landscape-unveiling-secrets-from-toms-hardware-experts/"><u>Navigating the Tech Landscape: Unveiling Secrets From Tom's Hardware Experts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/oculus-link-not-working-here-are-6-rapid-remedies-for-the-black-screen-glitch/"><u>Oculus Link Not Working? Here Are 6 Rapid Remedies for the Black Screen Glitch</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-4k-oled-gaming-display-a-thorough-review-of-gigabyeet-aorus-fo32u2p-with-exceptional-speed-and-style-for-serious-gamers/"><u>The Ultimate 4K OLED Gaming Display - A Thorough Review of Gigabyeet Aorus FO32U2P with Exceptional Speed & Style for Serious Gamers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-chart-a-course-to-prominence-in-facebooks-hierarchy-for-2024/"><u>[New] Chart a Course to Prominence in Facebook's Hierarchy for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-galactic-glitter-top-10-accessories-for-sj4000-stargazers/"><u>[New] Galactic Glitter Top 10 Accessories for SJ4000 Stargazers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-your-creativity-convert-youtube-clips-into-dynamic-gifs-for-2024/"><u>[Updated] Channel Your Creativity Convert YouTube Clips Into Dynamic Gifs for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-narzo-n55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme Narzo N55 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210904187-9781088200162-allumez-la-puissance-brute-du-feu-en-vous-manuel-de-bapteme-du-saint-esprit/"><u>Allumez la puissance brute du feu en vous - Manuel de baptême du Saint-Esprit | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-keyboard-arrows-a-step-by-step-guide/"><u>Fixing Unresponsive Keyboard Arrows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-visual-impact-understanding-the-power-of-luts/"><u>In 2024, Unlock Visual Impact Understanding the Power of LUTs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/real-time-collage-wizardry-tips-and-tricks/"><u>Real-Time Collage Wizardry Tips & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unusual-find-alert-thor-vs-darth-vader-styled-monitor-under-150-by-a-retailer-in-china/"><u>Unusual Find Alert: 'Thor vs Darth Vader' Styled Monitor Under $150 by a Retailer in China</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-essential-utilities-of-feelworlds-compact-and-portable-dh101-display/"><u>Unveiling Essential Utilities of Feelworld’s Compact and Portable DH101 Display</u></a></li>
 </ul></div>
 

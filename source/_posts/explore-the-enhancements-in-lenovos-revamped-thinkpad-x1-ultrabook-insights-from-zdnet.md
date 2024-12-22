@@ -1,7 +1,7 @@
 ---
 title: Explore the Enhancements in Lenovo's Revamped ThinkPad X1 Ultrabook - Insights From ZDNet
-date: 2024-12-11T01:44:43.464Z
-updated: 2024-12-12T21:00:24.830Z
+date: 2024-12-17T18:46:38.063Z
+updated: 2024-12-22T03:39:44.907Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,24 +218,18 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording/"><u>[New] 2024 Approved From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-active-screen-capture-pro-does-it-reign-supreme-in-2024/"><u>[New] Active Screen Capture Pro Does It Reign Supreme, In 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ultimate-guide-to-the-top-12-no-cost-video-players-online/"><u>[New] Ultimate Guide to the Top 12 No-Cost Video Players Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-techies-guide-best-non-gaming-screen-capture-tech/"><u>[Updated] In 2024, Techie's Guide Best Non-Gaming Screen Capture Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-sky-hdr-heaven-curated-list-of-excellent-sites/"><u>[Updated] Sky HDR Heaven - Curated List of Excellent Sites</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-hardware-innovations-with-toms-guide/"><u>Exploring Hardware Innovations with Tom's Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/failed-cloning-attempt-on-apricorn-ez-gig-iv-external-ssd-alternate-version-issues/"><u>Failed Cloning Attempt on Apricorn EZ Gig IV External SSD - Alternate Version Issues</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-poco-c65-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Poco C65 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-tips-to-quicken-instagram-content-engagement/"><u>In 2024, Tips to Quicken Instagram Content Engagement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-crucials-powerful-pro-ddr5-c36-modules-2x1geb-unleashing-the-full-potential-for-enhanced-performance/"><u>In-Depth Analysis of Crucial's Powerful Pro DDR5 C36 Modules (2X1geb): Unleashing the Full Potential for Enhanced Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-future-of-computing-with-toms-hardware-analysis/"><u>Navigating the Future of Computing with Tom’s Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-maze-with-tomns-hardware-experts/"><u>Navigating the Tech Maze with Tom'n's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/seeing-is-believing-the-ultimate-review-of-viewsonics-xg272-2k-gaming-display-with-240hz-refresh-rate/"><u>Seeing Is Believing: The Ultimate Review of ViewSonic's XG272-2K Gaming Display with 240Hz Refresh Rate</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/sunbrites-55-inch-veranda-tv-engineered-for-durability-and-brilliant-4k-hd-display-in-any-weather/"><u>SunBrite's 55-Inch Veranda TV: Engineered for Durability & Brilliant 4K HD Display in Any Weather</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-choosing-the-best-solid-state-drive-exclusive-review-on-corsairs-mp60mini-1tb-e27t/"><u>The Definitive Guide to Choosing the Best Solid-State Drive: Exclusive Review on Corsair's MP60^Mini 1TB (E27T)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-chatgpt-applications-from-your-macs-app-store-why-it-may-not-be-worth-it/"><u>The Risks of Using ChatGPT Applications From Your Mac's App Store – Why It May Not Be Worth It</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-comprehensive-insights-into-computer-hardware/"><u>Tom's Tech: Comprehensive Insights Into Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-with-toms-technology-blog/"><u>Unveiling the Latest Gadgets with Tom's Technology Blog</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-electronics-toms-expert-insights/"><u>Unveiling the Latest in Electronics - Tom's Expert Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-movies-innovation-in-recorders/"><u>[New] Ghostly Movies Innovation in Recorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-youtubes-encrypted-video-secrets/"><u>[Updated] Unlocking YouTube's Encrypted Video Secrets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/aoc-breaks-into-professional-sector-with-dynamic-u3-lineup-for-graphic-professionals/"><u>AOC Breaks Into Professional Sector with Dynamic U3 Lineup for Graphic Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-z-fold-5-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy Z Fold 5? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-1399-ultrawide-240-hz-oled-monitor-the-latest-launch-from-aocs-agon-pro-ag456uczd-series/"><u>Discover Cutting-Edge: $1,399 Ultrawide 240 Hz OLED Monitor - The Latest Launch From AOC's Agon Pro AG456UCZD Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-advanced-computing-at-toms-tech-store/"><u>Dive Into Advanced Computing at Tom's Tech Store</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-selection-of-wide-view-gaming-monitors-for-the-latest-year/"><u>Elite Selection of Wide-View Gaming Monitors for the Latest Year</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-xiaomis-34-g34wqi-display-high-speed-refresh-rate-and-stunning-color-accuracy/"><u>Experience Next-Level Gaming with Xiaomi's 34 G34WQi Display - High-Speed Refresh Rate & Stunning Color Accuracy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oppo-a58-4g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Oppo A58 4G</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-comprehensive-adobe-storage-manual-and-beyond-options/"><u>In 2024, Comprehensive Adobe Storage Manual & Beyond Options</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1094676-9781742757865-poems-of-love-and-life-for-virgo/"><u>Poems of Love and Life for Virgo | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-remedies-for-a-defective-corsair-keyboard-not-responding/"><u>Step-by-Step Remedies for a Defective Corsair Keyboard Not Responding</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/surprise-refresh-on-tiktok-can-i-see-old-videos/"><u>Surprise Refresh on TikTok – Can I See Old Videos?</u></a></li>
 </ul></div>
 

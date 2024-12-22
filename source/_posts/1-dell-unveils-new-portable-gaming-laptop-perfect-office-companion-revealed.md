@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed !"
-date: 2024-12-08T01:40:02.075Z
-updated: 2024-12-12T17:59:15.666Z
+date: 2024-12-18T08:50:50.623Z
+updated: 2024-12-22T05:18:33.817Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-enhancing-user-experience-with-timecodes-in-videos/"><u>[New] In 2024, Enhancing User Experience with Timecodes in Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-capturing-history-securely-saving-old-printed-images/"><u>[Updated] Capturing History Securely Saving Old Printed Images</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/710-deal-on-core-i5-12450h-alienexchange-swap-keyboard-for-spectacular-16-inch-dual-displays/"><u>$710 Deal on Core I5-12450H AlienExchange - Swap Keyboard for Spectacular 16-Inch Dual Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862727454-celebrate-memorial-day-with-unbeatable-savings-the-new-asus-tuf-gaming-a13-laptop-for-just-658/"><u>Celebrate Memorial Day with Unbeatable Savings: The New Asus TUF Gaming A1^3 Laptop for Just $658</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862727206-experience-the-next-gen-ryzen-ai-300-laptops-available-july-28-at-best-buy-pre-order-now/"><u>Experience the Next-Gen Ryzen AI 300 Laptops: Available July 28 at Best Buy - Pre-Order Now!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862702244-groundbreaking-upgrade-for-the-premier-risc-v-laptop-increased-core-count-supercharged-frequency-at-2-ghz-plus-new-artificial-intelligence-supports/"><u>Groundbreaking Upgrade for the Premier RISC-V Laptop - Increased Core Count, Supercharged Frequency at 2 GHz, Plus New Artificial Intelligence Supports</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/microsofts-copilot-enhances-cybersecurity-widespread-access-coming-april-1st-insights-from-zdnet/"><u>Microsoft's Copilot Enhances Cybersecurity: Widespread Access Coming April 1St – Insights From ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-mp4-video-tag-management-made-easy-best-editors-for-windows-and-mac-for-2024/"><u>New MP4 Video Tag Management Made Easy Best Editors for Windows and Mac for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pinnaclescreenpro-capturing-like-a-pro-on-w10-for-2024/"><u>PinnacleScreenPro Capturing Like a Pro on W10 for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862720287-save-big-lenovo-legion-laptops-now-750-discounted-features-rtx-4080-and-stunning-240hz-screen/"><u>Save Big: Lenovo Legion Laptops Now $750 Discounted - Features RTX 4080 and Stunning 240Hz Screen!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-9-strategies-how-chatgpt-enhances-your-novel-writing-process/"><u>Top 9 Strategies: How ChatGPT Enhances Your Novel Writing Process</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862688667-unbeatable-deal-alert-asus-rog-zephyrus-g14-laptop-featuring-rtx-graphics-now-just-1099-at-best-buy/"><u>Unbeatable Deal Alert: Asus ROG Zephyrus G14 Laptop Featuring RTX Graphics Now Just $1099 at Best Buy!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/gifmp42023/"><u>この春、GIFからMP4へ：2023新発売最高の変換レシピ集!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-select-your-go-to-teacher-recording-software-now/"><u>[New] Select Your Go-To Teacher Recording Software Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-zoo-creations-top-10-kickstart-guide/"><u>[Updated] 2024 Approved Zoo-Creation’s Top 10 Kickstart Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-bring-life-to-film-projects-3-inexpensive-techniques-for-iphones-music-integration-for-2024/"><u>[Updated] Bring Life to Film Projects 3 Inexpensive Techniques for iPhones Music Integration for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-peak-performance-pros-favorite-4k-dslr-shoulder-rigs/"><u>[Updated] Peak Performance Pro's Favorite 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-technology-evaluations-by-toms-hardware-experts/"><u>Advanced Technology Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/all-about-tech-in-depth-analysis-from-tomhemline-of-hardware/"><u>All About Tech: In-Depth Analysis From Tom'hemline of Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-9000-mastery-discover-asrocks-groundbreaking-motherboard-selection/"><u>AMD Ryzen 9000 Mastery: Discover ASRock's Groundbreaking Motherboard Selection</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-get-your-free-hp-drivers-now/"><u>Easy Installation: Get Your Free HP Drivers Now!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-fixes-for-scanners-that-arent-working-right-guidance-by-yl-tech-experts-yl-software-advice/"><u>Effective Fixes for Scanners That Aren't Working Right – Guidance by YL Tech Experts | YL Software Advice</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-integrate-the-endzone-extension-onto-your-kodi-platform-versions-20-and-19/"><u>How To Integrate The Endzone Extension Onto Your Kodi Platform (Versions 20 & 19)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862869889-intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-soft-edges-on-digital-images-mobilepc-for-2024/"><u>Master Soft Edges on Digital Images, Mobile/PC for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-se-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 SE Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transition-to-modern-light-management-with-asus-new-bios-and-microsoft-dynamic-lighting-a-smoother-alternative-to-armory-crate-solutions/"><u>Transition to Modern Light Management with Asus' New BIOS and Microsoft Dynamic Lighting: A Smoother Alternative to Armory Crate Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-asrocks-latest-cutting-edge-amd-ryzen-9000-series-mobo-lineup/"><u>Unveiling ASRock's Latest: Cutting-Edge AMD Ryzen 9000 Series Mobo Lineup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-tech-secrets-toms-hardware-experts/"><u>Unveiling High-Performance Tech Secrets: Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-technology-with-toms-hardware-insights/"><u>Unveiling the Best in Technology with Tom's Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-gadgets-and-pcs-with-toms-detailed-reviews/"><u>Unveiling Top-Notch Gadgets & PCs with Tom’s Detailed Reviews</u></a></li>
 </ul></div>
 

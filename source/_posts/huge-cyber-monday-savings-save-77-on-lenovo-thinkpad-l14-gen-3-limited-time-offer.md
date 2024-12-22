@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2024-12-06T01:54:06.012Z
-updated: 2024-12-12T22:29:35.831Z
+date: 2024-12-21T00:26:36.615Z
+updated: 2024-12-22T07:54:04.027Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,22 +97,15 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-explore-tiktoks-1-game-bloggers-list/"><u>[New] 2024 Approved Explore TikTok's #1 Game Bloggers List</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-an-insiders-guide-to-screen-recording-on-macs/"><u>[New] In 2024, An Insider's Guide to Screen Recording on Macs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-tag-and-post-a-moment-of-pure-sound-wisdom/"><u>[Updated] In 2024, Tag & Post a Moment of Pure Sound Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordability-meets-quality-in-the-nuphy-halo75-v2-mechanical-keyboard-review/"><u>Affordability Meets Quality in the Nuphy Halo75 V2 Mechanical Keyboard Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-keris-ii-ace-the-gamers-choice-over-deathadder-v3-pro-in-depth-review/"><u>Asus ROG Keris II Ace: The Gamer's Choice Over DeathAdder V3 Pro - In-Depth Review</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-a-deep-dive-into-the-specs-launch-date-and-price-of-the-new-samsung-galaxy-s25-max-plus/"><u>Decoding the Future: A Deep Dive Into the Specs, Launch Date, and Price of the New Samsung Galaxy S25 Max Plus</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-bluehost-services-insights-into-cloud-vps-and-shared-hosting-performance/"><u>Evaluating Bluehost Services: Insights Into Cloud, VPS & Shared Hosting Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-lenovo-yoga-pro-9i-evaluation-thin-design-with-responsive-keyboard/"><u>Expert Lenovo Yoga Pro 9I Evaluation: Thin Design with Responsive Keyboard</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-the-premier-router-options-for-family-safety-in-202-4/"><u>Expert Picks: The Premier Router Options for Family Safety in 202 4</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-guideline-for-mobizen-screen-recorder/"><u>In 2024, Ultimate Guideline for Mobizen Screen Recorder</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>In 2024, Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-no-display-issues-on-startup-essential-guide-for-users/"><u>Solving No Display Issues on Startup - Essential Guide for Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-deep-dive-into-cutting-edge-hardware/"><u>Tom's Tech Insights: A Deep Dive Into Cutting-Edge Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-syncopated-shots-picking-the-best-music-for-social-media/"><u>[New] Syncopated Shots Picking the Best Music for Social Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-is-broadcasting-facebook-videos-a-reality-yet-for-2024/"><u>[Updated] Is Broadcasting Facebook Videos a Reality Yet for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/6-excellent-apps-to-capture-and-save-linkedin-videos-successfully/"><u>6 Excellent Apps to Capture and Save LinkedIn Videos Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-in-place-how-to-handle-your-steam-server-connections-successfully/"><u>Fixes in Place: How to Handle Your Steam Server Connections Successfully</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-80-pro-straight-screen-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor 80 Pro Straight Screen Edition to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-systems-with-toms-tech-wisdom/"><u>Mastering Gadgets and Systems with Tom’s Tech Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-top-picks-of-toms-hardware/"><u>Mastering Technology: The Top Picks of Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-horizons-with-thorough-analysis-by-toms-hardware/"><u>Navigate New Tech Horizons with Thorough Analysis by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-pc-hardware-with-toms-authoritative-articles/"><u>Navigating the Latest PC Hardware with Tom's Authoritative Articles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971267245-update-your-epson-l3150-printer-drivers-on-windows-pc-latest-version-available-now/"><u>Update Your Epson L3150 Printer Drivers on Windows PC: Latest Version Available Now!</u></a></li>
 </ul></div>
 

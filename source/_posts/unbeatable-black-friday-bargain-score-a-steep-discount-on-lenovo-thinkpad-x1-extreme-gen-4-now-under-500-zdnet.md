@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2024-12-09T21:35:56.477Z
-updated: 2024-12-13T03:30:50.391Z
+date: 2024-12-17T19:10:51.889Z
+updated: 2024-12-21T18:52:52.207Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,17 +67,19 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-screen-capture-in-dota-2-matches/"><u>[Updated] Effortless Screen Capture in Dota 2 Matches</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6 Plus and iPad Securely</u></a></li>
-<li><a href="https://blog-min.techidaily.com/m4pwav/"><u>M4PファイルからWAVへの完全な変換ガイド - ステップバイステップマニュアル</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-devices-with-expertise-from-toms-hardware-experts/"><u>Mastering Devices with Expertise From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/precision-pc-analysis-with-toms-hardware-experts/"><u>Precision PC Analysis with Tom's Hardware Experts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-setup-wireless-usb-adapter-netgear/"><u>Quick Setup: Wireless USB Adapter NETGEAR</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-windows-glitches-causing-steam-errors/"><u>Resolving Windows Glitches Causing Steam Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/side-gigs-with-ai-is-chagpt-the-future-of-freelancing/"><u>Side Gigs with AI - Is ChaGPT the Future of Freelancing?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-tutorial-how-to-set-a-new-screen-time-password-for-ios-and-macos-devices/"><u>Step-by-Step Tutorial: How to Set a New Screen Time Password for iOS & macOS Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341731936-the-future-of-resin-3d-printing-with-elegoos-saturn-4-ultra-a-detailed-review-exploring-its-technological-advancements/"><u>The Future of Resin 3D Printing with Elegoo's Saturn 4 Ultra - A Detailed Review Exploring Its Technological Advancements.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unraveling-the-latest-computer-innovations/"><u>Tom's Tech Insights: Unraveling the Latest Computer Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-truth-about-bluehost-a-comparative-look-at-their-cloud-vps-and-shared-solutions/"><u>Unveiling the Truth About Bluehost: A Comparative Look at Their Cloud, VPS & Shared Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/close-up-clarity-mastering-teammate-focus-for-2024/"><u>Close-Up Clarity Mastering Teammate Focus for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-trouble-with-search-on-windows-11-discover-reliable-fixes-here/"><u>Experiencing Trouble With Search on Windows 11? Discover Reliable Fixes Here</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-full-body-kinetics-report-2023/"><u>In 2024, Full Body Kinetics Report 2023</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A05 FRP?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/los-7-editores-de-video-inteligentes-con-funcion-de-reenvio-mas-eficaces-del-mercado/"><u>Los 7 Editores De Vídeo Inteligentes Con Función De Reenvío Más Eficaces Del Mercado</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perplexity-ai-is-the-best-ai-powered-google-search-tool-youre-not-using/"><u>Perplexity AI Is the Best AI-Powered Google Search Tool You're Not Using</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/six-pioneering-steps-for-moving-mov-files-to-win-11-for-2024/"><u>Six Pioneering Steps for Moving MOV Files to Win 11 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-characteristics-setting-ai-devices-apart/"><u>The Characteristics Setting AI Devices Apart</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-electronics-tips-and-reviews-by-toms-hardware-professionals/"><u>Unveiling High-Performance Electronics - Tips and Reviews by Tom's Hardware Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
 </ul></div>
 

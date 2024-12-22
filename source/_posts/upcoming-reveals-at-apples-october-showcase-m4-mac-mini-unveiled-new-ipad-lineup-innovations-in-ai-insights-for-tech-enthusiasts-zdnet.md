@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Reveals at Apple's October Showcase: M4 Mac Mini Unveiled, New iPad Lineup, Innovations in AI - Insights for Tech Enthusiasts | ZDNet"
-date: 2024-12-08T01:30:14.426Z
-updated: 2024-12-12T17:52:22.883Z
+date: 2024-12-15T19:58:56.460Z
+updated: 2024-12-22T08:54:39.894Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,17 +118,22 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-8-best-video-conference-app-for-android-and-iphone-picked/"><u>[New] 2024 Approved 8 Best Video Conference App for Android and iPhone (Picked)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ace-virtual-imagery-ideal-google-meet-screens/"><u>[New] In 2024, Ace Virtual Imagery Ideal Google Meet Screens</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-advantages-of-av1-in-video-coding/"><u>2024 Approved Grasping the Advantages of AV1 in Video Coding</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-asus-ryzen-ai-laptops-rzne-ai-9-hx-370-and-rzne-ai-9-365-unveiling-on-july-17-for-tuf-gaming-rog-zephyrus-zenbook-and-proart/"><u>Discover the Latest Asus Ryzen AI Laptops: RZne AI 9 HX 370 & RZne AI 9 365 - Unveiling on July 17 for TUF Gaming, ROG Zephyrus, Zenbook, and ProArt</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-next-level-of-personalization-in-gaming-laptops-asus-enhances-the-zephyrus-g14-with-an-e-paper-screen-hinge-display/"><u>Discover the Next Level of Personalization in Gaming Laptops: Asus Enhances the Zephyrus G14 with an E-Paper Screen Hinge Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-power-duo-microsofts-enhanced-surface-and-surface-pro-with-cutting-edge-copilotplus-assistance/"><u>Discover the Power Duo: Microsoft's Enhanced Surface & Surface Pro with Cutting-Edge Copilot+ Assistance</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-high-definition-facebook-video-content-for-pc-and-mac-a-step-by-step-guide/"><u>Download High-Definition Facebook Video Content for PC & Mac: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-linux-gaming-with-tuxedos-sirius-gen2-featuring-all-amd-processing-and-stunning-165hz-ips-display-starting-at-1699/"><u>Experience Next-Level Linux Gaming with Tuxedo's Sirius Gen2 - Featuring All-AMD Processing & Stunning 165Hz IPS Display Starting at €1,699</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-advanced-gadgets-with-toms-hardware-experts-dive-into-cutting-edge-technology/"><u>Explore Advanced Gadgets with Tom's Hardware Experts - Dive Into Cutting-Edge Technology</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-13t-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi 13T Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-capable-and-sturdy-radpower-radcity-5-plus-an-seo-guide-for-cyclists/"><u>Reviewing the Capable & Sturdy RadPower RadCity 5 Plus – An SEO Guide for Cyclists</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-5-meilleurs-logiciels-de-sauvegarde-pour-yahoo-mail-sous-windows-guide-complet/"><u>« Top 5 Meilleurs Logiciels De Sauvegarde Pour Yahoo Mail Sous Windows : Guide Complet »</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamlining-video-conferences-background-shifts-in-google-meet/"><u>[New] In 2024, Streamlining Video Conferences Background Shifts in Google Meet</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pro-mac-photography-discovering-the-best-5-screen-shots-ways/"><u>[New] Pro Mac Photography Discovering the Best 5 Screen Shots Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-prodigious-portfolio-creation-best-free-mac-software/"><u>[Updated] Prodigious Portfolio Creation Best FREE Mac Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862873135-1300plus-bidding-war-for-exclusive-evga-classified-x67-prototype-motherboard/"><u>$1,300+ Bidding War for Exclusive EVGA Classified X67# Prototype Motherboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerating-innovation-chatgpts-impact-on-3d-manufacturing/"><u>Accelerating Innovation: ChatGPT's Impact on 3D Manufacturing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-computing-tips-from-toms-hardware-experts/"><u>Advanced Computing Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-resolves-significant-security-flaw-with-latest-update-msi-releases-agesa-120c-for-ryzen-processors/"><u>AMD Resolves Significant Security Flaw with Latest Update: MSI Releases AGESA 1.2.0.C for Ryzen Processors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-announces-latest-generation-of-arrow-lake-motherboards-featuring-an-enhanced-taichi-model-supporting-camm2-ram/"><u>ASROCK Announces Latest Generation of Arrow Lake Motherboards - Featuring an Enhanced Taichi Model Supporting CAMM2 RAM</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-prime-x670-p-wifi-am5-motherboard-get-yours-for-a-steal-at-only-135/"><u>ASUS Prime X670-P WiFi AM5 Motherboard - Get Yours for a Steal at Only $135!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-revolutionizes-chinas-pc-building-with-a-dedicated-motherboard-skyrocketing-kx-7000-cpu-speed-by-25-through-overclocking/"><u>Asus Revolutionizes China’s PC Building with a Dedicated Motherboard, Skyrocketing KX-7000 CPU Speed by 25% Through Overclocking</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/backside-gpu-integration-discover-maxsuns-advanced-mini-itx-motherboard-technology/"><u>Backside GPU Integration: Discover Maxsun's Advanced Mini-ITX Motherboard Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquer-the-digital-world-of-pokemon-unite-everything-you-need-for-a-great-gaming-experience-on-pc/"><u>Conquer the Digital World of Pokémon Unite – Everything You Need for a Great Gaming Experience on PC</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/die-ultimative-losung-fur-apricorn-ssd-klonen-mit-dem-kloon-toolkit-eine-detaillierte-anleitung-und-unverzichtbare-alternativen-verstehen/"><u>Die Ultimative Lösung Für Apricorn SSD Klonen Mit Dem Kloon Toolkit - Eine Detaillierte Anleitung Und Unverzichtbare Alternativen Verstehen</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-ideal-gamers-board-best-2024-motherboards-ranked-by-sockets-and-processor-compatibility/"><u>Discover the Ideal Gamer's Board: Best 2024 Motherboards Ranked by Sockets and Processor Compatibility</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-to-add-music-to-facebook-videos-in-2024/"><u>How to Add Music to Facebook Videos, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-sound-on-sony-ps-console-games/"><u>Mastering Sound on Sony PS Console Games</u></a></li>
 </ul></div>
 

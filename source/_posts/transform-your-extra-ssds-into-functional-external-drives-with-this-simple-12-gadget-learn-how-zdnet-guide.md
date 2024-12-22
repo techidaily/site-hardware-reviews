@@ -1,7 +1,7 @@
 ---
 title: Transform Your Extra SSDs Into Functional External Drives with This Simple $12 Gadget - Learn How [ZDNet Guide]
-date: 2024-09-18 22:11:46
-updated: 2024-09-20 12:39:30
+date: 2024-12-16T19:34:35.263Z
+updated: 2024-12-22T10:15:50.354Z
 tags:
   - office-hardware-appliances
 categories:
@@ -32,6 +32,10 @@ You won't love your printer, but you can hate it less, the company promises, bec
 As millions of people who own HP inkjet printers know only too well, the company has built its vast printer empire on the razors-and-blades business model. **\[1\]** HP has offered an [Instant Ink subscription plan](https://www.tkqlhce.com/click-9041660-15850793?url=https%3A%2F%2Fwww.hp.com%2Fus-en%2Fshop%2Fcv%2Finstantink&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for more than a decade, but this new offering throws in the hardware too.
 
 Is it a good deal? If you're in the market for a new printer, you might be tempted to try the "risk-free" 30-day trial. My advice: Read the fine print carefully. After the trial period ends, you are on the hook for that monthly charge for two full years, with a hefty termination fee if you change your mind and try to cancel early.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does HP's All-In Plan subscription work?
 
@@ -67,6 +71,10 @@ Step 5: HP ships you a printer and enough ink to get you going. Your job: Instal
 
 You supply the paper.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will this subscription save you money?
 
 Normally, the way to evaluate any subscription plan is with some simple math. Does that monthly payment cost more or less than you would pay if you just bought the same products outright? Is there anything the subscription offers that you can't get on your own?
@@ -92,6 +100,10 @@ To print 100 pages per month, you'll probably need to buy a fresh two-pack of ca
 **Also: [My favorite thermal label maker is compact, cool-looking, and easy to use](https://www.zdnet.com/home-and-office/my-new-favorite-thermal-label-maker-is-compact-cool-looking-and-easy-to-use/)**
 
 But money isn't the only factor to consider. As HP's agency argued in its ad campaign, "HP's Print Solutions caters to the most common printer frustrations. You not only save time and money, but also your sanity."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it a good deal?
 
@@ -142,11 +154,27 @@ The one thing you can't do with a low-cost monochrome laser printer is print pic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>[New] In 2024, Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>[New] In 2024, Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-conquer-the-vr-world-your-first-vr-adventure/"><u>[Updated] 2024 Approved Conquer the VR World Your First VR Adventure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-affordable-and-speedy-raspberry-pi-m2-hatplus/"><u>Comprehensive Guide to the Affordable & Speedy Raspberry Pi M.2 HAT+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-of-the-akasa-geckos-blower-cooler-designed-for-your-solid-state-drive/"><u>Comprehensive Testing of the Akasa Gecko's Blower Cooler Designed for Your Solid State Drive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-electronics-with-toms-gear-advice/"><u>Expert Insights on Electronics with Tom's Gear Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-gadgets-with-toms-tech-hub/"><u>Exploring the Latest Gadgets with Tom's Tech Hub</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/high-fidelity-and-unmatched-clarity-a-comprehensive-look-at-dough-spectrums-oled-monitor-for-gamers/"><u>High Fidelity and Unmatched Clarity: A Comprehensive Look at Dough Spectrum's OLED Monitor for Gamers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oneplus-12-lock-screen-password-by-drfone-android/"><u>How to Reset your OnePlus 12 Lock Screen Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-2020-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE (2020) With or Without Password</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-up-to-date-tech-insights-from-toms-hardware/"><u>The Definitive Guide to Up-to-Date Tech: Insights From Tom’s Hardware</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-navigating-the-nuances-of-audio-balancing-a-deep-dive-into-obs-sound-dynamics-for-2024/"><u>Updated Navigating the Nuances of Audio Balancing A Deep Dive Into OBS Sound Dynamics for 2024</u></a></li>
+</ul></div>
+

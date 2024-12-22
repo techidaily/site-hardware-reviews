@@ -1,7 +1,7 @@
 ---
 title: "Spoiled by Power: Unveiling the Hidden Gems of a $3,000 Deluxe Dell Gaming Machine - A ZDNET Exclusive Review"
-date: 2024-12-09T16:00:41.689Z
-updated: 2024-12-12T19:27:59.864Z
+date: 2024-12-20T07:49:54.219Z
+updated: 2024-12-22T05:16:34.220Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -99,7 +99,7 @@ There are a total of five vents on the m18 R2, allowing for maximum internal air
 In fact, one thing I noticed about the m18 R2 is that it never really felt hot to the touch at all. Both the keyboard and the wrist rest (above where the battery is housed) remained only slightly warm, suggesting that the fans were in fact doing their job effectively, which I'm glad for, given the sound they generate. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -138,17 +138,24 @@ However, this is also quite a large laptop, so although it's portable, it isn't 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-halo-bolt-jump-starter-and-portable-charger-analysis/"><u>Comprehensive Halo Bolt Jump Starter and Portable Charger Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enabling-built-in-fm-transmitters-on-iphones-and-androids-for-live-radio-listening/"><u>Enabling Built-In FM Transmitters on iPhones and Androids for Live Radio Listening</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a05s-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A05s</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premiere-guide-to-affordable-open-access-images/"><u>Premiere Guide to Affordable, Open-Access Images</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-computing-experience-with-acer-dell-hp-and-lenovos-latest-offerings-affordable-snapdragon-x-windows-copilot-pcs-with-impressive-battery-l11/"><u>Revolutionize Your Computing Experience with Acer, Dell, HP and Lenovo's Latest Offerings: Affordable Snapdragon X Windows Copilot PCs With Impressive Battery Life</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-conundrum-of-tech-empathy-can-ai-mirror-our-feelings/"><u>The Conundrum of Tech Empathy: Can AI Mirror Our Feelings?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-expert-gadget-reviews-and-tech-insights/"><u>Tom's Hardware - Expert Gadget Reviews & Tech Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-t17238628794567/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-computer-hardware-analysis/"><u>Tom's Tech Review: In-Depth Computer Hardware Analysis</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-student-laptops-comprehensive-reviews-and-guides-insights-from-tech-experts/"><u>Top-Rated Student Laptops: Comprehensive Reviews & Guides - Insights From Tech Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-d3dgear-screen-recorder-review/"><u>[New] 2024 Approved D3DGear Screen Recorder Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-exploring-self-through-instagram-a-diverse-set-of-100-captions/"><u>2024 Approved Exploring Self Through #Instagram - A Diverse Set of 100 Captions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/apex-spectrum-by-maingear-combining-customizable-rgb-lighting-with-advanced-liquid-cooling-features/"><u>Apex Spectrum by Maingear: Combining Customizable RGB Lighting with Advanced Liquid Cooling Features</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964468371-discover-the-new-dawn-of-computing-with-intels-bean-canyon-nucs-superior-speed-and-throttled-tdp/"><u>Discover the New Dawn of Computing with Intel's Bean Canyon NUCs - Superior Speed & Throttled TDP</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-solutions-to-repair-microsoft-internet-explorer-failed-to-open/"><u>Easy Solutions to Repair 'Microsoft Internet Explorer Failed to Open'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-innovative-yeswebuild-campaign-a-fresh-take-on-pc-creation/"><u>Introducing MSI's Innovative '#YesWeBuild' Campaign - A Fresh Take on PC Creation</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/ios-enthusiasts-meet-your-new-chatbuddy/"><u>IOS Enthusiasts, Meet Your New ChatBuddy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-across-languages-a-guide/"><u>Mastering ChatGPT Across Languages: A Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-with-toms-expertise-the-definitive-tech-resource/"><u>Mastering Hardware with Tom's Expertise - The Definitive Tech Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/microsoft-unveils-windows-support-for-qualcomms-new-arm-based-snapdragon-developer-platform/"><u>Microsoft Unveils Windows Support for Qualcomm's New ARM-Based Snapdragon Developer Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-computer-hardware-with-tom-your-ultimate-guide/"><u>Navigating Computer Hardware with Tom: Your Ultimate Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/optimize-your-macs-screen-record-functionality-with-keystrokes/"><u>Optimize Your Mac's Screen Record Functionality with Keystrokes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-f04-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy F04 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-review-the-ultimate-guide-to-tech-innovations/"><u>Tom's Computer Review: The Ultimate Guide to Tech Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-t17239718716137/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://article-helps.techidaily.com/toontech-complete-insight-2024-edition/"><u>ToonTech Complete Insight - 2024 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-moto-g84-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Moto G84 5G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Why This Lenovo Laptop Captivates Tech Savvy Users with Its Exceptional Duo Features | Exclusive Review by ZDNET
-date: 2024-12-11T21:17:16.093Z
-updated: 2024-12-12T20:21:08.567Z
+date: 2024-12-20T04:14:38.586Z
+updated: 2024-12-21T16:17:25.034Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Kyle Kucharski/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -95,7 +95,7 @@ Instead, I see the Vivobook S 15 as a primary driver for remote workers or digit
 It also has a "full" keyboard (the number pad on the right side has slightly smaller keys, as typical for sub-16-inch machines), which is satisfying and responsive to typing on. The keyboard has colorful LED backlighting that can be configured in many different lights and effects, but again, this is not something that I would consider high on the priority list when optimizing battery life. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -134,20 +134,18 @@ All things considered, the starting price of $1,299 is quite competitive for thi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-master-the-mix-combining-youtube-links-in-stories/"><u>[New] 2024 Approved Master the Mix Combining YouTube Links in Stories</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-8-instagram-planners-ios-and-android-edition/"><u>[New] 2024 Approved Top 8 Instagram Planners IOS & Android Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/irst-steps-to-fame-8-free-courses-for-youtube-novices/"><u>[New] First Steps to Fame 8 Free Courses for YouTube Novices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-flavorful-footage-kitchen-film-making-101-for-2024/"><u>[Updated] Flavorful Footage Kitchen Film-Making 101 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-full-potential-of-video-enhancer-22-for-your-work/"><u>[Updated] Harnessing the Full Potential of Video Enhancer 2.2 for Your Work</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-short-film-synopsis-must-know-points/"><u>2024 Approved Short Film Synopsis Must-Know Points</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cost-effective-microcontroller-projects-with-the-cytron-maker-uno-rp2040-a-comprehensive-review/"><u>Cost-Effective Microcontroller Projects with the Cytron Maker Uno RP2040 - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-of-both-worlds-with-keychron-q1-he-a-hybrid-desktopwireless-marvel/"><u>Discover the Best of Both Worlds with Keychron Q1 HE - A Hybrid Desktop/Wireless Marvel</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/eargasm-high-fidelity-earplugs-review-beautiful-effective-earplugs-for-concerts/"><u>Eargasm High Fidelity Earplugs Review: Beautiful, Effective Earplugs for Concerts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-gear-review-at-tomtechspotlight/"><u>Expert Gear Review at TomTechSpotlight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-pny-rp6-1tb-ssd-satisfactory-performance-with-no-notable-highlights/"><u>In Depth Review of PNY RP6# 1TB SSD: Satisfactory Performance with No Notable Highlights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-comprehensive-hardware-review-site/"><u>Mastering Gadgets with Tom - A Comprehensive Hardware Review Site</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a24-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy A24 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-a-comprehensive-review-of-the-corsair-e27t-ssd-the-ultimate-1tb-m2-solution/"><u>Unveiling the Best: A Comprehensive Review of the Corsair E27T SSD - The Ultimate 1TB M.2 Solution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-detailed-theta-s-analysis-a-comprehensive-look/"><u>[New] In 2024, Detailed Theta S Analysis A Comprehensive Look</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-tweets-whatsapp-video-broadcasting/"><u>[New] In 2024, Share Tweets WhatsApp Video Broadcasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hire-harmony-a-collection-of-inspirational-clips/"><u>[Updated] In 2024, Hire Harmony A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1-secure-and-swift-guide-transferring-your-dvds-onto-a-pc-without-any-hassles/"><u>1. Secure & Swift Guide: Transferring Your DVDs Onto a PC Without Any Hassles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevate-your-gameplay-stream-xbox-seamlessly-to-facebook-for-2024/"><u>Elevate Your Gameplay Stream Xbox Seamlessly to Facebook for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a1-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A1 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/metaverse-odyssey-10-sci-fi-movies-that-redefine-reality-for-2024/"><u>Metaverse Odyssey 10 Sci-Fi Movies that Redefine Reality for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-discover-essential-reviews-from-toms-hardware/"><u>Stay Ahead of the Curve: Discover Essential Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-lenovo-legion-pro-5i-gen-9-a-comprehensive-review-showcasing-its-remarkable-value-for-gamers/"><u>The Lenovo Legion Pro 5I Gen 9: A Comprehensive Review Showcasing Its Remarkable Value for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-gadget-guide-discovering-top-picks-with-toms-hardware-knowledge/"><u>The Ultimate Gadget Guide - Discovering Top Picks with Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-navigating-the-future-of-computer-components/"><u>Tom's Hardware: Navigating the Future of Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-a-dive-into-computer-components/"><u>Tom's Tech Insights: A Dive Into Computer Components</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-reviews-mastering-lost-files-with-recuvas-powerful-undelete-features/"><u>Ultimate Reviews: Mastering Lost Files with Recuva's Powerful Undelete Features</u></a></li>
 </ul></div>
 

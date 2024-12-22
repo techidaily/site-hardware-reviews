@@ -1,7 +1,7 @@
 ---
 title: Get a Powerhouse 15-Inch Asus Notebook at an Unbeatable Price of $2ˈ/ ZDNET's Inside Scoop on Walmart’s Latest Offer!
-date: 2024-12-09T03:04:44.249Z
-updated: 2024-12-13T03:41:27.994Z
+date: 2024-12-19T08:19:06.825Z
+updated: 2024-12-21T22:58:03.852Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,22 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg2-cuilntess-gaming-display-27-inch-180hz-refresh-rate-on-a-premium-va-panel/"><u>Asus Unveils New ROG Strix XG2 Cuilntess Gaming Display: 27-Inch, 180Hz Refresh Rate on a Premium VA Panel</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-play-7t-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor Play 7T</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/economic-estimation-funds-required-for-song-visualization/"><u>Economic Estimation Funds Required For Song Visualization</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-in-photo-captioning-tools/"><u>In 2024, Best Practices in Photo Captioning Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-s24-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy S24 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-xr21-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Nokia XR21 Device</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-apple-iphone-11-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your Apple iPhone 11 Pro? How to Fix</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-tips-from-toms-computer-specialists/"><u>Mastering Your PC: Tips From Tom’s Computer Specialists</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastery-in-pc-components-a-journey-through-toms-hardware-wisdom/"><u>Mastery in PC Components: A Journey Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-gen-devs-dream-affordable-chinese-startups-risc-ve-laptop-at-300/"><u>Next-Gen Devs' Dream: Affordable Chinese Startup's RISC-Ve Laptop at $300</u></a></li>
-<li><a href="https://win11.techidaily.com/no-window-no-problem-master-the-art-of-reviving-hidden-apps-on-win-1011-with-6-tactics/"><u>No Window, No Problem! Master the Art of Reviving Hidden Apps on Win 10/11 with 6 Tactics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/premier-alienware-and-dell-discounts-for-gamers/"><u>Premier Alienware & Dell Discounts for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862761277-the-ultimate-gamers-guide-to-the-dough-spectrum-black-27-oled-display-in-depth-reveal-on-exceptional-color-precision-and-premium-quality-output/"><u>The Ultimate Gamer's Guide to the Dough Spectrum Black 27 OLED Display: In-Depth Reveal on Exceptional Color Precision & Premium Quality Output</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-zephyrus-g14-experience-with-asus-new-dali-concept-a-colorful-leap-forward-for-gamer-lid-displays/"><u>Transform Your Zephyrus G14 Experience with Asus' New Dali Concept - A Colorful Leap Forward for Gamer Lid Displays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unintentional-consequences-hp-probooks-affected-by-updated-bios-causing-black-screen-issues/"><u>Unintentional Consequences: HP ProBooks Affected by Updated BIOS Causing Black Screen Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-makes-windows-11s-limited-functionality-beneficial/"><u>What Makes Windows 11’S Limited Functionality Beneficial?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-your-best-freefire-videos-with-key-insights/"><u>[Updated] 2024 Approved Unlock Your Best FreeFire Videos with Key Insights</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enhancing-your-viewing-experience-recording-overwatch-games/"><u>2024 Approved Enhancing Your Viewing Experience Recording Overwatch Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-humorous-hits-lifetime-access-to-memes/"><u>2024 Approved Humorous Hits Lifetime Access to Memes</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/antecs-p20c-high-airflow-chassis-now-at-a-steal-unbeatable-71-deal-on-top-tier-cases/"><u>Antec's P20C High-Airflow Chassis Now at a Steal: Unbeatable $71 Deal on Top-Tier Cases</u></a></li>
+<li><a href="https://facebook.techidaily.com/big-investment-facebooks-5-million-venture-in-writer-focused-platforms/"><u>Big Investment: Facebook's $5 Million Venture in Writer-Focused Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expertly-selected-best-9-video-conference-apps-for-cross-platform-use-for-2024/"><u>Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-insightful-guides-for-savvy-shoppers/"><u>Exploring Computer Hardware with Tom: Insightful Guides for Savvy Shoppers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964475970-get-the-ultimate-cooling-with-lian-lis-lancool-iii-for-only-119-the-best-deal-on-pc-gear-today/"><u>Get the Ultimate Cooling with Lian Li's Lancool III for Only $119 – The Best Deal on PC Gear Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-logitech-mx-master-software/"><u>How to Get Logitech MX Master Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-drone-buddies-kids-most-enjoyed-toy-companions/"><u>In 2024, Best Drone Buddies Kids' Most Enjoyed Toy Companions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-electronics-hub-unveiling-cutting-edge-computer-gear-and-accessories/"><u>Inside Tom's Electronics Hub: Unveiling Cutting-Edge Computer Gear and Accessories</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-deepcool-mini-itx-pc-chassis-equipped-with-a-convenient-handling-loop-and-extensive-ventilation/"><u>Introducing the New DeepCool Mini-ITX PC Chassis: Equipped with a Convenient Handling Loop and Extensive Ventilation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gaming-rigs-with-the-durable-high-capacity-cooler-master-ncore-100-max-standalone-chassis/"><u>Mastering Gaming Rigs with the Durable, High-Capacity Cooler Master NCore 100 Max Standalone Chassis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneer-in-pc-analysis-unlocking-performance-with-toms-gear-reviews/"><u>Pioneer in PC Analysis - Unlocking Performance with Tom's Gear Reviews</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-11-video-transcoding-tools-for-windows-11-desktop-and-web-solutions/"><u>Top 11 Video Transcoding Tools for Windows 11: Desktop & Web Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-choices-for-tiny-tower-tech-expert-recommendations-on-slim-case-selections/"><u>Top Choices for Tiny Tower Tech : Expert Recommendations on Slim Case Selections</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964476216-unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59!</u></a></li>
 </ul></div>
 

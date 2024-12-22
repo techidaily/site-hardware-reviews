@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2024-12-07T18:37:36.642Z
-updated: 2024-12-12T19:02:35.248Z
+date: 2024-12-16T08:59:59.637Z
+updated: 2024-12-22T01:49:00.703Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take screenshots on any laptop
@@ -36,19 +36,15 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -59,6 +55,10 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -87,7 +87,7 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Macs
@@ -104,11 +104,11 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
@@ -157,24 +157,15 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unveiling-magix-video-pro-x-capabilities/"><u>[New] In 2024, Unveiling Magix Video Pro X Capabilities</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-stop-frames-dropping-obs-troubleshooting-guide-for-2024/"><u>[New] Stop Frames Dropping OBS Troubleshooting Guide for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[Updated] 2024 Approved From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-broadcast-podcast-episode-via-insta-story/"><u>[Updated] Broadcast Podcast Episode via Insta Story</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-world-of-streamed-games/"><u>[Updated] Navigating the World of Streamed Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-idle-computing-with-auto-sleep-in-w10w11/"><u>Conquering Idle Computing with Auto Sleep in W10/W11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/h-your-knowledge-student-approved-history-youtubes-to-watch/"><u>Enrich Your Knowledge Student-Approved History YouTubes To Watch</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-the-world-of-computing-guided-by-tom-hardware-experts/"><u>Navigate the World of Computing - Guided by Tom Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-comprehensive-reviews-at-toms-hardware/"><u>Navigating the World of Electronics with Comprehensive Reviews at Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts-t17238628794346/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reimagining-portable-power-lenovos-thinkpad-p1-gen-7-sets-new-industry-standards-by-integrating-high-performance-low-power-consuming-lpcamm2-memory/"><u>Reimagining Portable Power: Lenovo’s ThinkPad P1 Gen 7 Sets New Industry Standards by Integrating High-Performance, Low-Power Consuming LPCAMM2 Memory</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/say-goodbye-to-traditional-pcs-microsofts-ai-copilotplus-outperforms-new-2024-models-heres-how/"><u>Say Goodbye to Traditional PCs: Microsoft's AI Copilot+ Outperforms New 2024 Models - Here's How</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/snapdragon-laptop-series-unveiled-live-coverage-and-hands-on-copilotplus-review/"><u>Snapdragon Laptop Series Unveiled - Live Coverage & Hands-On Copilot+ Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-the-definitive-guide/"><u>Tom's Computer Components: The Definitive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-dive-into-hardware-exploration/"><u>Tom's Tech Reviews: Dive Into Hardware Exploration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-tech-analysis-navigating-new-innovations-at-toms-hardware/"><u>Top Tech Analysis: Navigating New Innovations at Tom's Hardware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-creating-your-own-diy-projector-screen/"><u>Ultimate Guide: Creating Your Own DIY Projector Screen</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unlocking-high-speeds-and-connectivity-with-linksyss-advanced-wrt1900acs-open-source-router-a-detailed-assessment/"><u>Unlocking High Speeds and Connectivity with Linksys's Advanced WRT1900ACS Open Source Router: A Detailed Assessment</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-amd-graphics-drivers-on-windows-10-11-and-7-step-by-step-guide/"><u>Upgrading AMD Graphics Drivers on Windows 10, 11 & 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-sharpen-the-scene-expert-insights-for-cropping-videos-with-insta-flair-for-2024/"><u>[New] Sharpen the Scene Expert Insights for Cropping Videos with Insta Flair for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-klevv-cras-c93/"><u>Comprehensive Evaluation of KLEVV CRAS C93</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-analysis-by-toms-computing-experts/"><u>Comprehensive Hardware Analysis by Tom's Computing Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/corsair-mp700-pro-se-ssd-examined-enhanced-features-and-performance/"><u>Corsair MP700 Pro SE SSD Examined: Enhanced Features & Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-performance-and-price-the-patriot-viper-vp43nlite-ssd-with-massive-4tb-storage/"><u>Deep Dive Into Performance & Price - The Patriot Viper VP43nLite SSD with Massive 4TB Storage</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978413077-get-the-new-nvidia-rtx-2080-supers-drivers-compatible-with-windows-1011-download-now/"><u>Get the New Nvidia RTX 2080 Supers Drivers – Compatible with Windows 10/11, Download Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr/"><u>In 2024, Beyond Illusion The Three Pillars of Virtual Immersion (VR, AR, & MR)</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-display-options-fix-in-win-7-and-10-solved/"><u>Saving Display Options: Fix in Win 7 & 10 [Solved]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unexpectedly Impressive: The Hidden Creative Powerhouse Inside This Modest Asus Laptop - Insights"
-date: 2024-12-11T21:19:14.326Z
-updated: 2024-12-12T21:47:06.084Z
+date: 2024-12-16T09:44:49.878Z
+updated: 2024-12-22T10:33:09.883Z
 tags:
   - laptops
 categories:
@@ -48,7 +48,7 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -66,10 +66,6 @@ While Framework previously sold models with Windows 11 and BYOOS (bring your own
 | Colors           | Silver                                                                      |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How's the design?
 
@@ -106,10 +102,6 @@ Lastly, the 3:2, 2256x1504 display on the Framework Chromebook is color-vibrant,
 
 **Review: [The HP Elite Dragonfly Chromebook has no business being this good](https://www.zdnet.com/article/hp-elite-dragonfly-chromebook-review/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Customizing the Framework
 
 Really the only reason you should consider a Framework laptop, let alone the Chromebook edition, is for the customizability. Virtually every single part of the laptop can be replaced by hand, including the IO ports, battery pack, memory, and even the bezel that magnetically attaches around the display. That means you won't need dongles, adapters, or a whole other [docking hub](https://www.zdnet.com/article/best-laptop-docking-station/) to get your work machine to... work. 
@@ -136,6 +128,10 @@ The company makes it easy to find the exact component that you need by labeling 
 
 **Also: [With Samsung's Self-Repair program, you can fix your broken screen at will](https://www.zdnet.com/article/samsung-launches-self-repair-program-so-you-can-fix-that-broken-screen-at-will/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does it handle daily tasks?
 
 Hardware aside, the ChromeOS experience on the new Framework is as expected. It's a clean, resourceful, and easy-to-learn operating system that continues to expand in features month after month. There's a stigma that Chromebooks are too minimal, given they lack support for professional apps and services like Adobe Photoshop and Premiere Pro. But, unless such programs are essential to your workflow, you won't find yourself missing them when using the laptop for internet browsing, streaming movies and shows, and even [playing games on the cloud](https://www.zdnet.com/home-and-office/home-entertainment/three-of-the-biggest-pc-makers-are-redefining-gaming-with-chromebooks/). 
@@ -155,7 +151,7 @@ A singular cooling fan is found inside. It's audible under strenuous workloads b
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery and charging
@@ -169,7 +165,7 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 [Buy the Framework Chromebook $963 at Frame](https://frame.work/products/laptop-chromebook-12-gen-intel/configuration/edit)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -177,6 +173,10 @@ Framework bundles a modular (surprise, surprise) 60W charger in the box that use
 I love the Framework Chromebook. It's one of the few tech products that I've reviewed this year that truly feels like a consumer-first gadget and is made by a company that truly cares about the environment. I also happen to fall under the "non-professional" userbase which makes the ChromeOS experience more than adequate for my day-to-day.
 
 With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMac-Book-Pro-Charger-Compatible%2Fdp%2FB09GFR7NSK%2Fref%3Dsxts%5Fb2b%5Fsx%5Freorder%5Fv3%5Fbusiness%3Fcontent-id%3Damzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%3Aamzn1.sym.3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26cv%5Fct%5Fcx%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26gclid%3DEAIaIQobChMIs5Pt35LC-wIVUTizAB1ACgGFEAAYAiAAEgIy2%5FD%5FBwE%26hvadid%3D177325628310%26hvdev%3Dc%26hvlocphy%3D9005779%26hvnetw%3Dg%26hvqmt%3De%26hvrand%3D2145686270052462161%26hvtargid%3Dkwd-13812963869%26hydadcr%3D19137%5F9664167%26keywords%3Dapple%2Bmac%2Bbook%2Bpro%2Bcharger%26pd%5Frd%5Fi%3DB09GFR7NSK%26pd%5Frd%5Fr%3D129fb8fb-f662-4d8a-8ba5-3c33bf2785fd%26pd%5Frd%5Fw%3DH19HD%26pd%5Frd%5Fwg%3DJAz8D%26pf%5Frd%5Fp%3D3ff8510d-e0d4-4cf7-beed-93a0c9d332a5%26pf%5Frd%5Fr%3D5CG3412G8ZQ8YRYVN7GE%26qid%3D1669132408%26sr%3D1-1-722db4e4-77fc-4fb6-8cee-654ad16ce1d5%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C072696e5-0cae-486b-9cee-48548f1af7b6%7Cdtp&dtb=1), the Framework Chromebook is competing in rough waters, especially going into the holiday season when every manufacturer (including Apple) is [discounting laptops](https://www.zdnet.com/article/early-black-friday-laptop-deals-november-22-2022/) left and right. But if you want a machine that will free you of dongles, hubs, and visits to your local tech support, receive software updates for years down the line, and represents a movement that effectively betters the planet, then the Framework Chromebook is the best option available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -216,24 +216,22 @@ With a [starting price of $963](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tailored-content-personalizing-facebook-ad-videos-effectively/"><u>[New] In 2024, Tailored Content Personalizing Facebook Ad Videos Effectively</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-setup-a-step-by-step-guide/"><u>[Updated] Mastering Twitter Setup A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-testimonial-toolkit-for-effective-promotion/"><u>[Updated] The Testimonial Toolkit for Effective Promotion</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-13c-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi Redmi 13C 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-secrets-with-toms-technology-tutorials/"><u>Decoding Hardware Secrets with Tom's Technology Tutorials</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-accelerated-speeds-with-crucials-p310-ssd-review-for-m2-2280-cards/"><u>Experience Accelerated Speeds with Crucial's P310 SSD Review for M.2 2280 Cards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-mastery-cutting-edge-pc-discoveries-await/"><u>Exploring Tom's Hardware Mastery - Cutting-Edge PC Discoveries Await!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/getting-to-know-tech-better-dive-into-toms-hardware-treasure-trove-of-information/"><u>Getting to Know Tech Better? Dive Into Tom's Hardware Treasure Trove of Information</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-azure-speech-to-text-your-ultimate-development-toolkit/"><u>In 2024, Azure Speech-to-Text Your Ultimate Development Toolkit</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-essential-guide-to-verifying-your-youtube-profile/"><u>In 2024, The Essential Guide to Verifying Your YouTube Profile</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-viewsonic-xg2njoyx272-oled-240hz-monitor-a-perfect-match-for-gamers/"><u>In-Depth Review of the ViewSonic XG2njoyX272 OLED 240Hz Monitor - A Perfect Match for Gamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-picks-for-your-setup-sourced-from-toms-hardware-guide/"><u>Innovative Tech Picks for Your Setup – Sourced From Tom’s Hardware Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-and-peripherals-toms-authoritative-hardware-advice/"><u>Navigating the World of Gadgets & Peripherals: Tom's Authoritative Hardware Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionize-your-gaming-experience-with-gigabytes-aorus-z69ueh-an-intense-review-of-the-high-performance-4k-oled-display-at-lightning-speed/"><u>Revolutionize Your Gaming Experience with Gigabyte's Aorus Z69UEH: An Intense Review of the High-Performance, 4K OLED Display at Lightning Speed</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/solution-to-your-iphone-not-receiving-pictures-from-android-master-the-art-of-using-fonebackup/"><u>Solution to Your iPhone Not Receiving Pictures From Android: Master the Art of Using FoneBackup</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/mline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-tech-enthusiasts-toms-comprehve-review-showcase/"><u>The Ultimate Resource for Tech Enthusiasts: Tom's Comprehve Review Showcase</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-6-ai-tools-for-interacting-with-text-in-pdfs-and-docs/"><u>Top 6 AI Tools for Interacting with Text in PDFs & Docs</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/troubleshooting-guide-fixing-windows-media-player-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing Windows Media Player Issues on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-superior-streaming-services-for-musicians/"><u>[New] Superior Streaming Services for Musicians</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transforming-visuals-the-power-of-customized-luts-for-2024/"><u>[New] Transforming Visuals The Power of Customized LUTs for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pixel-magic-transforming-still-images-to-video-with-pixiz/"><u>[Updated] Pixel Magic Transforming Still Images to Video with Pixiz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-types-and-methods-for-hand-detection-systems/"><u>[Updated] Unveiling Types and Methods for Hand Detection Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-connoisseur-of-funimate-games/"><u>2024 Approved From Novice to Connoisseur of Funimate Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-the-samsung-galaxy-ring-cost-breakdown-availability-dates-and-feature-listing/"><u>All About the Samsung Galaxy Ring: Cost Breakdown, Availability Dates & Feature Listing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-new-releases-with-toms-hardware-review/"><u>Exploring New Releases with Tom's Hardware Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamer-and-creator-upgrades-dive-into-the-performance-of-msis-advanced-aiplus-laptops-showcasing-unprecedented-speed-from-100-542-tops/"><u>Gamer and Creator Upgrades: Dive Into the Performance of MSI's Advanced AI+ Laptops, Showcasing Unprecedented Speed From 100-542 TOPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-the-powerhouse-dell-g16-gaming-laptop-now-at-just-949/"><u>Get the Powerhouse Dell G16 Gaming Laptop Now at Just $949</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-asus-zenbook-s16-and-amd-ryzen-ai-9-hx-370-performance-breakdown/"><u>In-Depth Review: Asus Zenbook S16 & AMD Ryzen AI 9 HX 370 Performance Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-toms-computer-lab-the-ultimate-guide-to-hardware-upgrades/"><u>Inside Tom's Computer Lab: The Ultimate Guide to Hardware Upgrades</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/intel-core-i7-ultra-series-triumphs-over-amds-phoenix-insights-from-recent-bapco-testing-results/"><u>Intel Core I7 Ultra Series Triumphs Over AMD's 'Phoenix': Insights From Recent BAPCO Testing Results</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/interactive-guide-to-microsofts-cutting-edge-surface-and-surface-pro-pcs-now-with-smart-copilotplus-features-for-elevated-computing-experience/"><u>Interactive Guide to Microsoft's Cutting-Edge Surface & Surface Pro PCs Now With Smart Copilot+ Features for Elevated Computing Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-through-toms-hardware-chronicles/"><u>Mastering Technology Through Tom's Hardware Chronicles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-to-ailing-xbox-controllers/"><u>Restoring Functionality to Ailing Xbox Controllers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-sky-isnt-always-blue-aminys-perspective-on-aliens/"><u>The Sky Isn't Always Blue: Aminy’s Perspective on Aliens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-resolving-audio-problems-in-the-latest-software-update/"><u>Ultimate Guide: Resolving Audio Problems in the Latest Software Update</u></a></li>
 </ul></div>
 

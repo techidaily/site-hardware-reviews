@@ -1,7 +1,7 @@
 ---
 title: Exploring the Most Robust Portable PCs as Reviewed Experts
-date: 2024-12-05T22:22:09.482Z
-updated: 2024-12-12T23:42:33.200Z
+date: 2024-12-17T02:28:04.869Z
+updated: 2024-12-22T05:53:43.669Z
 tags:
   - laptops
 categories:
@@ -22,12 +22,16 @@ You can even find rugged laptops with enterprise-level security software, which 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best rugged laptop right now?
 
 We've tested and researched some of the best rugged laptops on the market. Our top pick for the best rugged laptop is the [Getac S510](https://www.getac.com/us/products/laptops/s510/#product-info) for its highly configurable options for shock, drop, moisture, and dust resistance as well as options for multiple storage drives, touchscreen, and even dual SIM, 4G/5G LTE connectivity, and GPS tracking. Keep reading below to find out more about the Getac S510 as well as our other top picks for the best rugged laptops.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best rugged laptops of 2024
@@ -47,7 +51,7 @@ Cons
 * Not consumer grade
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getac S510
@@ -76,10 +80,6 @@ Pros
 Cons 
 * Very expensive
 * No AMD option
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Panasonic ToughBook 40 Mk2
 
@@ -138,10 +138,6 @@ Cons
 
 ## Asus ZenBook Pro Duo 15 OLED
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best rugged laptop splurge
 
 If money is no object in your quest to get a durable laptop, the Asus ZenBook Pro Duo 15 OLED is an almost perfect, high-end model for professionals and students. It features Asus' revolutionary dual-screen design, giving you a 15.6-inch main 4K OLED display and a secondary 4K ScreenPad. This offers you the same benefits as a multi-monitor desktop setup in a single unit. The ScreenPad can be set up with shortcuts to your most-used apps and files, shortcuts for brushes and effects in Photoshop, or monitoring CPU usage and component temperatures. 
@@ -172,10 +168,6 @@ Cons
 * No touchscreen option
 * No Intel option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Asus TUF A14
 
 ### Best rugged laptop for gaming
@@ -200,6 +192,10 @@ I chose the Getac S510 as the best rugged laptop for its highly customizable con
 | Asus ZenBook Pro Duo 15 OLED | $1,700              | 1TB SSD       | Intel Core i7-12700H          |
 | Asus TUF A14                 | $1,400              | 1TB SSD       | AMD Ryzen 7 8845HS            |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which rugged laptop is right for you?
 
 Beyond the usual laptop features -- like screen size and price -- you get to choose just how durable you'd like your rugged laptop to be. Manufacturers try to make the choice easier by dividing systems into "semi-rugged" and "rugged" -- the former meeting many everyday durability requirements, while the latter provides additional levels of protection for the harshest conditions. 
@@ -218,10 +214,6 @@ Don't forget to research the brand's ecosystem if you're going to need docks, mo
 | Asus ZenBook Pro Duo 15 OLED     | A tough, high-end laptop. It features Asus' revolutionary dual-screen design, giving you a 15.6-inch main 4K OLED display and a secondary 4K ScreenPad.                                                                                            |
 | Asus TUF A14                     | A tough laptop for gaming. The Asus TUF A14 has a CNC-machined aluminum lid as well as hinges for enhanced durability as well as enhanced airflow and a full-width heatsink for better power efficiency.                                           |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these rugged laptops?
 
 Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged," with a few niche companies devoting their entire business to rugged portables. This makes it easier to separate rugged laptops from ones that may have some ruggedized features but aren't marketed to those who need specialized systems. 
@@ -229,7 +221,7 @@ Laptop manufacturers helpfully label these systems as "semi-rugged" or "rugged,"
 The rugged laptops listed here are from major manufacturers in the space (Dell, Panasonic, Getac), including some with which ZDNET staff have had hands-on experience. For more on how we test laptops, check out our comprehensive [laptop testing methodology](https://www.zdnet.com/article/how-we-test-laptops/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does "rugged laptop" mean?
@@ -237,6 +229,10 @@ The rugged laptops listed here are from major manufacturers in the space (Dell, 
 A rugged laptop, sometimes listed as a "ruggedized" laptop, is a computer that is built specifically to handle extreme situations and weather conditions. Many rugged laptops are water- and dirt-resistant, resistant to drops and shocks, and can operate in both very hot and very cold temperatures. 
 
 These kinds of laptops are great for anyone who has to work outdoors for any length of time, such as people at construction sites, on geological surveys, and in the military.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does "military grade" mean?
 
@@ -257,7 +253,7 @@ Show less
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lenovo ThinkPad X1 Nano Gen 2
@@ -283,6 +279,10 @@ Show less
 [View now at Panasonic](https://connect.na.panasonic.com/toughbook/rugged-computers/toughbook-55)
 
 Full Review [Read Full Review](https://www.zdnet.com/article/best-rugged-laptop/Design: Mini Listicle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Panasonic Toughbook 55
 
@@ -330,22 +330,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-transforming-trending-searches-into-video-concepts/"><u>[New] 2024 Approved Transforming Trending Searches Into Video Concepts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-acclaimed-cameras-for-expert-automotive-tracking/"><u>[New] Acclaimed Cameras for Expert Automotive Tracking</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-crafting-excellence-essential-tips-for-ginger-island-life/"><u>[Updated] 2024 Approved Crafting Excellence Essential Tips for Ginger Island Life</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transforming-viewership-a-proven-guide-to-implementing-youtubes-featured-listings/"><u>[Updated] In 2024, Transforming Viewership A Proven Guide to Implementing Youtube's Featured Listings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-depth-analysis-understanding-google-podcasts-app-for-2024/"><u>[Updated] In-Depth Analysis Understanding Google Podcasts App for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/intellectual-growth-and-adaptability-in-multilinguals/"><u>Intellectual Growth and Adaptability in Multilinguals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862699425-mastering-modern-devices-tips-and-tricks-from-toms-hardware/"><u>Mastering Modern Devices: Tips and Tricks From Tom's Hardware</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/s-most-entertaining-video-dubbing-apps-for-mobile-devices/"><u>S Most Entertaining Video Dubbing Apps for Mobile Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-insights-on-latest-hardware-t17238628794305/"><u>Tom's Tech Review: In-Depth Insights on Latest Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-technology-forum-decoding-the-wonders-of-modern-computer-hardware/"><u>Tom's Technology Forum: Decoding the Wonders of Modern Computer Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-insights-into-computing-visit-toms-hardware-hub/"><u>Ultimate Insights Into Computing - Visit Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862716478-unleash-your-productivity-the-innovative-and-user-friendly-acemagic-x1-dual-screen-laptop-awaits-you/"><u>Unleash Your Productivity: The Innovative and User-Friendly Acemagic X1 Dual-Screen Laptop Awaits You!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-high-tech-secrets-with-toms-hardware-discoveries/"><u>Unraveling High-Tech Secrets with Tom’s Hardware Discoveries</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-at-toms-electronics-hub/"><u>Unveiling the Latest in Computing at Tom's Electronics Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potency-of-the-asus-tuf-gaming-a14-a-review-for-gamers-and-professionals/"><u>Unveiling the Potency of the ASUS TUF Gaming A14: A Review for Gamers and Professionals</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-what-lies-beneath-in-fbs-documentation/"><u>Unveiling What Lies Beneath in FB's Documentation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/online-m4v-flv-movavi/"><u>무료 Online M4V FLV 변환 서비스: 최고의 속도로 Movavi가 이해</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-personalized-whatsapp-tones-on-iphoneandroid-devices/"><u>[New] Personalized WhatsApp Tones on iPhone/Android Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-6-nft-makers-for-artists-to-unleash-imagination/"><u>[New] Top 6 NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-radiant-palette-adjuster/"><u>[Updated] 2024 Approved Radiant Palette Adjuster</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] 2024 Approved What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-pioneering-storytelling-with-insta-and-youtube-fusion/"><u>[Updated] In 2024, Pioneering Storytelling with Insta & YouTube Fusion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-adding-a-digital-clock-to-your-youtube-video-playback/"><u>2024 Approved Adding a Digital Clock to Your YouTube Video Playback</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>2024 Approved Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-next-purchase-insights-from-toms-hardware-experts/"><u>Mastering Your Next Purchase - Insights From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maxsun-debuts-backside-gpu-placement-on-their-latest-mini-itx-motherboard-a-game-changer/"><u>MaxSun Debuts Backside GPU Placement on Their Latest Mini-ITX Motherboard: A Game Changer!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-technologies-through-toms-hardware-wisdom/"><u>Navigating New Technologies Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-computer-parts-through-toms-lens/"><u>Navigating the World of Computer Parts Through Tom's Lens</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-customizing-security-preferences-via-control-panel-on-your-pc-with-yl-computing/"><u>Step-by-Step Guide: Customizing Security Preferences via Control Panel on Your PC with YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-insights-with-tom-exploring-the-latest-in-hardware-innovation/"><u>Tech Insights with Tom - Exploring the Latest in Hardware Innovation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-performance-tracking-with-garmin/"><u>Top Performance Tracking with Garmin</u></a></li>
 </ul></div>
 

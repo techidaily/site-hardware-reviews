@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2024-12-11T22:15:57.000Z
-updated: 2024-12-12T17:10:45.562Z
+date: 2024-12-20T08:29:42.529Z
+updated: 2024-12-21T16:51:04.938Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,20 +90,15 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-setting-up-your-smartphone-as-a-webcam-device/"><u>[New] Step-by-Step Setting Up Your Smartphone as a Webcam Device</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-tips-for-audio-gradual-decline-in-premiere-pro/"><u>[Updated] In 2024, Essential Tips for Audio Gradual Decline in Premiere Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>[Updated] Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-subdivision-plat-which-records-new-lot-boundaries-and-other-details-must-be-created-and-approved/"><u>A Subdivision Plat, Which Records New Lot Boundaries and Other Details, Must Be Created and Approved.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-reviewed-by-toms-hardware-experts/"><u>Discover Top Gadgets Reviewed by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-zenbook-s16s-performance-an-in-depth-test-of-its-built-in-amd-ryzen-ai-nine-series-cpu/"><u>Dive Into the Asus Zenbook S16's Performance: An In-Depth Test of Its Built-In AMD RYZEN AI Nine Series CPU</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-mojangs-minecraft-crashes-caused-by-outdated-graphics-drivers-in-windows/"><u>How to Fix Mojang's Minecraft Crashes Caused by Outdated Graphics Drivers in Windows</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-proart-pa32ucxr-unmatched-color-precision-in-a-compact-form/"><u>In-Depth Analysis of the Asus ProArt PA32UCXR - Unmatched Color Precision in a Compact Form</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-tech-destination-comprehensive-gear-evaluations/"><u>Inside Tom's Tech Destination: Comprehensive Gear Evaluations</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/international-joy-on-american-independence-eve/"><u>International Joy on American Independence Eve</u></a></li>
-<li><a href="https://win-unique.techidaily.com/mastering-account-management-essential-tips-for-tweaking-control-panel-configurations-expertise-from-yl-software/"><u>Mastering Account Management: Essential Tips for Tweaking Control Panel Configurations - Expertise From YL Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-creation-with-elegoo-the-all-new-saturn-4-ultra-review/"><u>Mastering Modern Creation with Elegoo - The All-New Saturn 4 Ultra Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-performer-showdown-in-depth-review-of-gigabytes-high-end-aorus-fo32u2p-monitor-with-ultra-4k-240hz-visual-splendor/"><u>Top-Performer Showdown: In-Depth Review of Gigabyte's High-End Aorus FO32U2P Monitor with Ultra 4K, 240Hz Visual Splendor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-lenovo-camera-software-for-improved-functionality-on-windows-7-devices/"><u>Update Your Lenovo Camera Software for Improved Functionality on Windows 7 Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/utilizing-azure-speech-to-text-api/"><u>Utilizing Azure Speech-to-Text API</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-mac-gif-recorders-the-ultimate-list/"><u>[Updated] 2024 Approved Leading Mac GIF Recorders The Ultimate List</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-speaker-change-tech-for-internet-showbiz-pros/"><u>[Updated] In 2024, Ultimate Speaker Change Tech for Internet Showbiz Pros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-movie-previews/"><u>2024 Approved Crafting Compelling Movie Previews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/image-alchemy-converting-ordinary-into-extraordinary-for-2024/"><u>Image Alchemy Converting Ordinary Into Extraordinary for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-g2-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo G2</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-tech-stores-with-toms-hardware-spotlight/"><u>Navigate Through High-Tech Stores With Tom's Hardware Spotlight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/own-an-rtx-4070-equipped-hp-omen-save-300-today-with-limited-offer/"><u>Own an RTX 4070-Equipped HP Omen, Save $300 Today with Limited Offer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/preview-of-advanced-dell-x-series-and-inspirons-with-qualcomms-snapdragon-chips-launch-targeting-third-quarter/"><u>Preview of Advanced Dell X Series and Inspirons with Qualcomm's Snapdragon Chips: Launch Targeting Third Quarter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ryzen-ai-300-laptop-release-postponed-new-arrival-date-and-best-buy-listings-july-28/"><u>Ryzen AI 300 Laptop Release Postponed: New Arrival Date and Best Buy Listings - July 28</u></a></li>
 </ul></div>
 

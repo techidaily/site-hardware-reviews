@@ -1,7 +1,7 @@
 ---
 title: Can the MSI Steam Deck Challenge Nintendo and Sony in the Portable Console Market?
-date: 2024-12-09T20:40:52.940Z
-updated: 2024-12-12T18:53:48.222Z
+date: 2024-12-16T10:07:35.474Z
+updated: 2024-12-21T18:47:43.235Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,20 +140,17 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-get-facebook-links-no-cash-required/"><u>[New] 2024 Approved Get Facebook Links, No Cash Required</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unlock-your-youtube-personality-top-6-creator-categories/"><u>[Updated] In 2024, Unlock Your YouTube Personality Top 6 Creator Categories</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-securely-download-your-youtube-playlist-at-any-time/"><u>[Updated] Securely Download Your YouTube Playlist at Any Time</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/experts-recommendations-for-image-watermarking/"><u>Expert's Recommendations for Image Watermarking</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-components-and-tech-insights/"><u>Exploring Tom's Computer Components & Tech Insights</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-sony-xperia-5-v-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Sony Xperia 5 V FRP In 3 Different Ways</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-lexars-high-speed-storage-exploring-the-sl500-and-sl600-with-over-20gbps-speeds/"><u>In-Depth Evaluation of Lexar's High-Speed Storage: Exploring the SL500 and SL600 with Over 20Gbps Speeds</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-gadgets-with-expertise-from-toms-hardware/"><u>Master Your Gadgets with Expertise From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-at-toms-electronics-emporium/"><u>Mastering Modern Devices at Tom’s Electronics Emporium</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/saturn-4-ultra-by-elegoo-a-revolutionary-leap-in-advanced-resin-3d-printers/"><u>Saturn 4 Ultra by Elegoo - A Revolutionary Leap in Advanced Resin 3D Printers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-overcoming-unsupported-miracast-devices-errors/"><u>The Ultimate Guide to Overcoming Unsupported Miracast Devices Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-dive-into-the-world-of-hardware/"><u>Tom's Tech Insights: Dive Into the World of Hardware</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-5-hd-cameras-for-game-watching/"><u>Top 5 HD Cameras for Game Watching</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-kept-secret-in-depth-reviews-of-the-gaming-marvel-pixio-px277-oled-max/"><u>Unveiling the Best Kept Secret: In-Depth Reviews of the Gaming Marvel, Pixio PX277 OLED MAX</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-gratuit-verblijf-van-file-verwijdering-tien-mogelijke-methoden/"><u>1. Gratuit Verblijf Van File-Verwijdering - Tien Mogelijke Methoden</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862748367-affordable-xiaomi-g34wqi-34-screen-review-exceptional-gamers-display-with-vivid-colors-at-180hz/"><u>Affordable Xiaomi G34WQI 34 Screen Review: Exceptional Gamers' Display with Vivid Colors at 180Hz</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-xr-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone XR Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862758543-get-your-hands-on-a-premium-240hz-gaming-monitor-acer-nitro-for-just-159/"><u>Get Your Hands on a Premium 240Hz Gaming Monitor – Acer Nitro, for Just $159!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-recognition-failures-of-usb-gadgets-win-78/"><u>Overcoming Recognition Failures of USB Gadgets Win 7/8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-manual-ensuring-smooth-operation-of-vr-titles-without-crashes/"><u>PC Players' Manual: Ensuring Smooth Operation of VR Titles Without Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-iphone-interactivity-exploring-benefits-as-apple-integrates-nfc-with-app-makers-innovations-gizmodo/"><u>The Future of iPhone Interactivity: Exploring Benefits as Apple Integrates NFC with App Makers' Innovations | Gizmodo</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitters-hilarious-highlights-for-2024/"><u>Twitter's Hilarious Highlights for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-with-toms-electronics-analysis/"><u>Unveiling the Latest in Computing with Tom’s Electronics Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-top-free-wmv-video-editors/"><u>Updated Edit Like a Pro Top Free WMV Video Editors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/xiaomis-budget-gaming-masterpiece-the-34-180hz-display-with-exceptional-color-and-contrast-unveiled-in-comprehensive-reveiw/"><u>Xiaomi's Budget Gaming Masterpiece: The 34 180Hz Display with Exceptional Color & Contrast Unveiled in Comprehensive Reveiw</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-one-stop-destination-for-high-performance-hardware-toms-insights/"><u>Your One-Stop Destination for High-Performance Hardware: Tom's Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Insight: A Google Worker's Perspective on Finding Happiness in a MacBook Over Traditional Windows Laptops Analysis"
-date: 2024-12-05T21:12:50.250Z
-updated: 2024-12-12T20:50:28.311Z
+date: 2024-12-18T02:28:45.090Z
+updated: 2024-12-21T19:20:38.893Z
 tags:
   - laptops
 categories:
@@ -46,7 +46,7 @@ Image: Charles McLellan / ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Design
@@ -70,7 +70,7 @@ For connections, you're limited to two USB-C (3.2 Gen 2) ports on the left side,
 You can access the innards of the ThinkPad X13s by removing six screws and prising off the bottom cover, although upgrade options are limited. We did poke around inside our first review unit, which arrived with no functioning Wi-Fi and no access to the webcam, to no avail. Our second review unit worked just fine. For all its thin-and-lightness, the ThinkPad X13s is [MIL-STD-810H](https://en.wikipedia.org/wiki/MIL-STD-810)\-tested and should cope with the rigours of a mobile professional's routine. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Features
@@ -84,7 +84,7 @@ There are three screen options, all IPS panels with WUXGA (1920 x 1200) resoluti
 As well as the biometric authentication methods noted earlier, the ThinkPad X13s includes internal security features such as a discrete TPM 2.0 chip, Microsoft's [Pluton TPM architecture](https://learn.microsoft.com/en-us/windows/security/information-protection/pluton/pluton-as-tpm) running on the Snapdragon 8cx Gen 3's SPU (Secure Processing Unit) and a self-healing BIOS. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Performance & battery life
@@ -116,7 +116,7 @@ Thermal camera images of the ThinkPad X13s under load.
 Images: Charles McLellan / ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Conclusions
@@ -170,7 +170,7 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -218,18 +218,16 @@ If 5G is a must-have feature, you can currently get the [HP Elite Dragonfly G3](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-photographers-aid-free-mobile-photography-boost/"><u>[New] 2024 Approved Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-scaling-up-on-igtv-through-powerful-hash-tagging/"><u>[New] 2024 Approved Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-perfect-proposal-to-perfection-8-best-weddings-online/"><u>[Updated] In 2024, The Perfect Proposal to Perfection 8 Best Weddings Online</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-leader-of-sensory-media-creation/"><u>[Updated] Leader of Sensory Media Creation</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-creating-gentle-volume-reduction-in-audacity/"><u>2024 Approved Creating Gentle Volume Reduction in Audacity</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-prime-top-10-audio-capture-software-for-spotify-users/"><u>2024 Approved Prime Top 10 Audio Capture Software for Spotify Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-up-to-photo-perfection-with-leading-skin-editors/"><u>2024 Approved Step Up to Photo Perfection with Leading Skin Editors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rog-swift-pg32ucdp-oled-display-a-detailed-review-toward-excellence/"><u>Asus ROG Swift PG32UCDP OLED Display: A Detailed Review Toward Excellence</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/asus-rt-be96u-the-ultimate-6ghz-wireless-networking-champion-in-depth-review/"><u>Asus RT-BE96U: The Ultimate 6GHz Wireless Networking Champion - In Depth Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tutorial-triumph-a-step-towards-a-million-view-goal/"><u>In 2024, Tutorial Triumph A Step Towards a Million View Goal</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/professional-insights-into-the-best-soundbars-of-2024-your-ultimate-guide-by-zdnet/"><u>Professional Insights Into the Best Soundbars of 2024 - Your Ultimate Guide by ZDNet</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-battle-screen-gigabyte-aorus-oled-gaming-monitors-vivid-colors-and-dynamic-range-unveiled/"><u>The Ultimate Battle-Screen: Gigabyte Aorus OLED Gaming Monitor's Vivid Colors & Dynamic Range Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-technology-by-toms-experts/"><u>The Ultimate Guide to Technology by Tom's Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unveiling-the-foundations-of-virtual-storytelling/"><u>[New] 2024 Approved Unveiling the Foundations of Virtual Storytelling</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-futureproofing-your-data-with-budgeted-cloud-choices/"><u>[Updated] Futureproofing Your Data with Budgeted Cloud Choices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-start-to-finish-how-to-record-and-edit-your-desktop-with-filmora-scrn/"><u>From Start to Finish How to Record and Edit Your Desktop with Filmora Scrn</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-magic-5-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor Magic 5 Device SIM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-with-claude-3-uses-and-capabilities-detailed/"><u>Maximizing Efficiency with Claude 3: Uses & Capabilities Detailed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unleashes-the-power-of-titan-18-pro-ryzen-dual-chip-marvel-featuring-rtx-4090-and-ryzen-9-7945hx3d/"><u>MSI Unleashes the Power of Titan 18 Pro Ryzen: Dual-Chip Marvel Featuring RTX 4090 & Ryzen 9 7945HX3D</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-the-new-aiplus-gaming-laptops-delivering-top-tier-performance-from-100-to-542-tops/"><u>MSI Unveils the New AI+ Gaming Laptops: Delivering Top-Tier Performance From 100 to 542 TOPS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-computing-tips-and-tricks-from-toms-hardware/"><u>Navigating the Latest in Computing: Tips & Tricks From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/power-and-precision-a-thorough-review-of-the-alienware-m18-r2-desktop-with-clicky-mechanical-keyboard/"><u>Power and Precision: A Thorough Review of the Alienware M18 R2 Desktop with Clicky Mechanical Keyboard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rog-strix-g16-2024-the-ultimate-gaming-laptop-at-an-unbeatable-price-of-1164-on-amazon/"><u>ROG Strix G16 2024: The Ultimate Gaming Laptop at an Unbeatable Price of $1,164 on Amazon</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transcending-visual-limits-with-hdr-technology/"><u>Transcending Visual Limits with HDR Technology</u></a></li>
 </ul></div>
 

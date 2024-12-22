@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Limited-Time Offer on 4TB Samsung T5 External SSD at Nearly Half Price on Amazon | Expert Insights"
-date: 2024-12-06T19:32:21.532Z
-updated: 2024-12-12T22:12:54.424Z
+date: 2024-12-17T23:15:42.758Z
+updated: 2024-12-21T23:06:59.222Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET takeaways
@@ -79,7 +79,7 @@ The speaker system is also excellent for streaming music; I played the [Old Gods
 My one big complaint about the SteelSeries Arena 9 is that you really do feel that drop in control when dealing with a device that's been connected via USB or optical cable. The OLED dial allows you to choose between a few different presets but only offers a single option for a custom sound profile. In contrast, the Sonar app lets you create a custom soundscape for every media type and connected device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -91,7 +91,7 @@ And if you're simply looking for a reliable set of PC speakers, the [Arena 3](ht
 _This article was originally published on February 23, 2024, and was updated on September 17, 2024._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When does this deal expire?
@@ -128,22 +128,17 @@ Best Buy hasn't put a hard and fast end date for the $100 discount on the Arena 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-budget-conscious-filmmakers-essential-video-gear-list/"><u>[Updated] 2024 Approved Budget-Conscious Filmmaker's Essential Video Gear List</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tutorials-for-downgrading-macos-sierra-to-el-capitan/"><u>[Updated] Tutorials for Downgrading MacOS Sierra To El Capitan</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-infinix-hot-30-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Infinix Hot 30 5G PC | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/digiarty-le-meilleur-choix-pour-la-transformation-de-dvd-et-video-en-logiciel/"><u>Digiarty: Le Meilleur Choix Pour La Transformation De DVD Et Vidéo en Logiciel</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-y100i-power-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo Y100i Power 5G Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-phone-without-password-by-drfone-android/"><u>How To Unlock Honor X7b Phone Without Password?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-zte-nubia-z60-ultra-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on ZTE Nubia Z60 Ultra Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft-for-2024/"><u>Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/uncover-the-best-in-pc-gear-with-toms-hardware-insights/"><u>Uncover the Best in PC Gear with Tom’s Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-development-power-with-chinas-latest-risc-v-laptop-for-techies-and-engineers-starting-at-just-300/"><u>Unleash Development Power with China's Latest RISC-V Laptop for Techies and Engineers, Starting at Just $300</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-next-level-gaming-on-the-go-with-razer-blade-18-featuring-i9-14900hx-and-rtx-4090-at-a-4799-price-point/"><u>Unleash Next-Level Gaming on the Go With Razer Blade 18 - Featuring I9-14900HX & RTX 4090 at a $4,799 Price Point</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-hardware-secrets-at-toms-tech-resource-center/"><u>Unlocking Hardware Secrets at Tom's Tech Resource Center</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-cutting-edge-technology-insights-by-tom/"><u>Unveiling Cutting-Edge Technology Insights by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-a-deep-dive-into-hardware-reviews-by-tom/"><u>Unveiling Tech Secrets: A Deep Dive Into Hardware Reviews by Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-hardware-secrets-at-toms-equipment-corner/"><u>Unveiling Top Hardware Secrets at Tom's Equipment Corner</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upcoming-tech-highlights-asus-and-qualcomms-new-models-at-computex-2ebtween-spotted-lacking-graphics-card-announcements/"><u>Upcoming Tech Highlights: Asus and Qualcomm's New Models at Computex 2Ebtween Spotted – Lacking Graphics Card Announcements</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-srt-to-subcap-conversion-techniques/"><u>[New] SRT to SUBCAP Conversion Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-camstudio-full-features-analysis-for-2024/"><u>[Updated] CamStudio Full Features Analysis for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-brief-methods-for-sending-iphone-media-to-pc/"><u>[Updated] In 2024, Brief Methods for Sending iPhone Media to PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-device-ready-with-new-hp-officejet-pro-4650-printing-drivers-free-downloads/"><u>Get Your Windows Device Ready with New HP Officejet Pro 4650 Printing Drivers - Free Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-sony-xperia-5-v-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Sony Xperia 5 V Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-penmanship-over-artificial-craftsmanship/"><u>Masterful Penmanship Over Artificial Craftsmanship</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/securing-your-visual-content-against-unauthorized-replication-by-ai-powered-design-programs/"><u>Securing Your Visual Content Against Unauthorized Replication by AI-Powered Design Programs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-toms-gadget-rundown-for-savvy-consumers/"><u>The Ultimate Tom's Gadget Rundown for Savvy Consumers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computing-review-expert-insights-and-in-depth-analysis/"><u>Tom's Computing Review: Expert Insights and In-Depth Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-expert-insights-into-the-latest-gadgets/"><u>Tom's Tech Reviews: Expert Insights Into the Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-sons-of-heavenwood-pc-game-crashes-a-step-by-step-guide/"><u>Troubleshooting Your Sons of Heavenwood PC Game Crashes: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

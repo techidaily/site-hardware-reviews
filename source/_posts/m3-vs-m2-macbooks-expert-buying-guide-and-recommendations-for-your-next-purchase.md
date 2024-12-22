@@ -1,7 +1,7 @@
 ---
 title: "M3 Vs. M2 MacBooks: Expert Buying Guide and Recommendations for Your Next Purchase"
-date: 2024-12-11T20:54:29.093Z
-updated: 2024-12-13T03:11:57.121Z
+date: 2024-12-17T16:16:18.755Z
+updated: 2024-12-22T09:51:03.426Z
 tags:
   - laptops
 categories:
@@ -32,6 +32,10 @@ If you're stuck for ideas regarding laptops suitable to give as gifts, check out
 * [The best cheap tech gifts under $75](https://www.zdnet.com/home-and-office/kitchen-household/best-cheap-tech-gifts-under-75/)
 * [The best cheap tech gifts under $50](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-50/)
 * [The best cheap tech gifts under $25](https://www.zdnet.com/home-and-office/best-cheap-tech-gifts-under-25/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **The best laptop gift ideas**
 
@@ -188,6 +192,10 @@ For added safety, you can go into the laptop's settings and opt for different le
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/568844/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2F224571889&subId1=zd-__COM_CLICK_ID__-dtp)[View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0B5VHD8G7%2Fref%3Dasc%5Fdf%5FB0B5VHD8G71728298800000%3Fcreative%3D395261%26creativeASIN%3DB0B5VHD8G7%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The best laptop deals at Amazon**
 
 Below are other laptop deals ZDNET has found at Amazon.
@@ -202,10 +210,6 @@ Below are other laptop deals ZDNET has found at Amazon.
 
 [Acer Swift 3 laptop for $900 (save $200) $900 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-i7-1260P-Graphics-Bluetooth-SF314-512-73YZ%2Fdp%2FB09YSYVV2R%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4e140282-f8e3-4035-ba80-ff36ee556c58%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **The best laptop deals at Walmart**
 
 Below are other laptop deals ZDNET has found at Walmart.
@@ -216,6 +220,10 @@ Below are other laptop deals ZDNET has found at Walmart.
 
 [Lenovo Ideapad 5i Chromebook for $429 (save $100) $429 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-Ideapad-5i-Chromebook-16-0-WQXGA-Gaming-Laptop-Intel-Core-i3-1215U-8GB-RAM-128GB-eMMC-Storm-Grey-Chrome-OS-82V80009UX-Includes-3-Free-Months-N%2F1867344969%3Fathbdg%3DL1101&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **The best laptop deals at Best Buy**
 
 Below are other laptop deals ZDNET has found at Best Buy. 
@@ -225,7 +233,7 @@ Below are other laptop deals ZDNET has found at Best Buy.
 [Dell XPS 15 15.6-inch laptop for $2300 (save $500) $2,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fdell-xps-15-15-6-3-5k-oled-touch-screen-laptop-12th-gen-intel-core-i9-32gb-memory-nvidia-geforce-rtx-3050-ti-1tb-ssd-silver%2F6504382.p%3FskuId%3D6504382&publisher%5Fslug=zdnet&article%5Fname=21%20laptops%20that%20make%20great%20gifts%20in%202023&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-gift%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these laptop gift ideas?
@@ -233,10 +241,6 @@ Below are other laptop deals ZDNET has found at Best Buy.
 You may need to balance expectations, budget, and the need for new equipment this year due to the economic situation, but we still need PCs for both work and study -- and they certainly come in handy when it comes to keeping ourselves entertained.
 
 While choosing these products, we tried to include options to suit a range of budgets while also keeping age ranges and their intended use in mind. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What laptop should I buy?
 
@@ -248,10 +252,6 @@ Gamers might opt for a larger screen still and higher resolutions, whereas with 
 
 Unless you are a Linux fan, you then need to decide what operating system you are the most comfortable with. The most common options are either Microsoft Windows or Apple macOS. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop for students?
 
 If you plan to make use of the holiday sales to pick up a laptop suitable for a student in the family, or for a friend, it's helpful to know what kind of class or degree they are undertaking. 
@@ -260,15 +260,15 @@ You tend to see many Apple MacBook Airs and Pros around campus, and the majority
 
 However, if the course is creative, things can become a little more complicated, as you will probably want to focus on a screen of at minimum 15.6-inch, at least 16GB RAM, and a high-quality graphics card. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does laptop storage matter?
 
 The amount of storage on offer when you buy a laptop varies. Typically, you can expect storage to range between 128GB and 1/2TB solid-state drive (SSD) storage, although when it comes to Chromebooks, the smaller form facts mean that embedded MultiMediaCard (eMMC) storage is used, reducing capacity drastically.
 
 1TB is usually adequate for apps, software, games, and music. However, in any case, you can purchase portable hard drives to boost your storage space -- and create backups of your valuable data. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best gifts for 2023?
 
@@ -352,19 +352,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-become-a-vr-trailblazer-with-your-mobile-device-for-2024/"><u>[Updated] Become a VR Trailblazer with Your Mobile Device for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-crafting-seamless-audiovisual-mixes-in-audacity-for-2024/"><u>[Updated] Crafting Seamless Audiovisual Mixes in Audacity for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862705261-amazing-savings-alert-the-razer-blade-15-gaming-laptop-is-now-shockingly-affordable-with-a-huge-discount/"><u>Amazing Savings Alert! The Razer Blade 15 Gaming Laptop Is Now Shockingly Affordable with a Huge Discount!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862653040-carbon-fiber-structural-battery-breakthroughs-lighter-and-stronger-tech-devices-ahead/"><u>Carbon Fiber Structural Battery Breakthroughs: Lighter and Stronger Tech Devices Ahead!</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-5-pc-performance-hacks-overcoming-stutter-and-sudden-freezes-for-uninterrupted-gaming/"><u>Forza Horizon 5 PC Performance Hacks: Overcoming Stutter and Sudden Freezes for Uninterrupted Gaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-screenmasters-battleground/"><u>In 2024, ScreenMasters Battleground</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475962816-iphone-texting-problems-here-are-7-fixes-you-need/"><u>IPhone Texting Problems? Here Are 7 Fixes You Need!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-gopro-editors-handbook-mac-edition/"><u>New 2024 Approved The GoPro Editors Handbook Mac Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862703895-transform-your-laptop-into-a-morse-code-input-device-just-hit-the-lid-with-precision-disclaimers-apply/"><u>Transform Your Laptop Into a Morse Code Input Device: Just Hit the Lid with Precision - Disclaimers Apply</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-gadget-analysis-by-toms-hardware-stay-informed/"><u>Ultimate Gadget Analysis by Tom's Hardware - Stay Informed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-installing-the-official-epson-es-400-scandriver-on-your-window-machine/"><u>Ultimate Guide to Installing the Official Epson ES-400 ScanDriver on Your Window Machine</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-your-inner-gamer-with-lenovo-legion-slim-5-a-steal-at-under-1100-from-newegg/"><u>Unleash Your Inner Gamer with Lenovo Legion Slim 5 – A Steal at Under $1,100 From Newegg</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-future-of-mac-gaming-apples-strategy-using-its-full-ecosystem-arsenal/"><u>Unveiling the Future of Mac Gaming – Apple's Strategy Using Its Full Ecosystem Arsenal</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-breaking-into-the-market-a-guide-to-facebook-video-content-for-2024/"><u>[New] Breaking Into the Market A Guide to Facebook Video Content for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-deconstructing-sharex-and-its-challengers/"><u>[New] Deconstructing ShareX and Its Challengers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-express-thanks-free-and-premium-video-farewells/"><u>[New] Express Thanks Free and Premium Video Farewells</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-roadmap-to-profit-via-instagram-platform-for-2024/"><u>[New] The Ultimate Roadmap to Profit via Instagram Platform for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>[Updated] In 2024, Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-deviation-expert-strategies-to-rotate-videos-on-youtube/"><u>Digital Deviation Expert Strategies to Rotate Videos on YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-digital-tools-with-toms-hardware-reviews/"><u>Discover the Best in Digital Tools with Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-artificial-intelligence-sk-hynix-debuts-revolutionary-pcie-50-ssd-technology/"><u>Embracing Artificial Intelligence - SK Hynix Debuts Revolutionary PCIe 5.0 SSD Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-samsungs-petabyte-ssd-cloud-storage-with-tailored-server-solutions/"><u>Explore Samsung's Petabyte SSD Cloud Storage with Tailored Server Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-handhelds-evolve-nextorage-delivers-a-breakthrough-in-speed-with-its-m2-2230-ssd-offering-lightning-fast-7n40mbs-speeds/"><u>Game Handhelds Evolve: Nextorage Delivers a Breakthrough in Speed with Its M.2 2230 SSD Offering Lightning-Fast 7,N40MB/S Speeds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-with-nextorages-new-ultra-rapid-handheld-ssd-drive-at-7400mbs-speeds/"><u>Game Like Never Before with Nextorage's New Ultra-Rapid Handheld SSD Drive at 7,400MB/S Speeds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-face-off-notion-ai-vs-openais-chatgpt/"><u>Generative AI Face-Off: Notion AI Vs. OpenAI's ChatGPT</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hardware-highlights-with-tom-cutting-edge-gadget-reviews-and-comparisons/"><u>Hardware Highlights with Tom: Cutting-Edge Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-reviews-by-technology-expert-toms-domain/"><u>Innovative Gadget Reviews by Technology Expert, Tom's Domain</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-circuitry-expert-advice-on-tech-equipment-with-tom/"><u>Inside the Circuitry: Expert Advice on Tech Equipment with Tom</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/nailing-the-desktopmobile-youtube-speed-control-for-2024/"><u>Nailing the Desktop/Mobile YouTube Speed Control for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-dream-laptop-at-unbeatable-early-prime-prices-this-oct-24-expert-tips-from-zdnet/"><u>Secure Your Dream Laptop at Unbeatable Early Prime Prices This Oct '24 | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlock-the-secrets-of-opening-microsoft-word-documents-in-windows-with-professional-advice-from-yl-software-experts/"><u>Unlock the Secrets of Opening Microsoft Word Documents in Windows with Professional Advice From YL Software Experts</u></a></li>
 </ul></div>
 

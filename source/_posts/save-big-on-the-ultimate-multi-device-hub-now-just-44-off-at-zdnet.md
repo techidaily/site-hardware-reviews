@@ -1,7 +1,7 @@
 ---
 title: Save Big on the Ultimate Multi-Device Hub - Now Just 44%% Off at ZDNet!
-date: 2024-12-10T16:59:12.774Z
-updated: 2024-12-12T17:37:22.361Z
+date: 2024-12-14T17:25:15.928Z
+updated: 2024-12-21T17:18:58.966Z
 tags:
   - laptops
 categories:
@@ -32,7 +32,7 @@ Under the hood, the IdeaPad 3i houses a 13th-Gen Intel Core i7-1255U processor, 
 Other notable features include a full-size keyboard for comfortable typing and a pair of 1.5W Dolby Audio speakers, which go well with the 720p camera for video calls. If you're looking for an affordable, well-performing laptop, the once-$700 [Lenovo IdeaPad 3i](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-3i-15-Intel-Core-i7-1255U-16GB-RAM-512-GB-SSD-Arctic-Grey-Windows-11-Home-82RK017QUS%2F5527026637&subId1=zd-__COM_CLICK_ID__-dtp) is one of the best on the market. Just act fast once the sale does go live -- this model doesn't appear to be available for purchase on Lenovo's website, so we don't expect the deal to last. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,20 +69,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-beginners-guide-to-iphone-screen-capture/"><u>[New] 2024 Approved Beginner's Guide to iPhone Screen Capture</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-visionary-converter-peak-resolution-magic/"><u>[New] Visionary Converter Peak Resolution Magic</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-see-the-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube/"><u>[Updated] See the World Through Different Lenses 3 Strategies for Successful POV Reactions on YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/benchmarking-the-kingston-fury-beast-a-deep-dive-into-ddr5-6000-cl40-performance-with-2x32gb-memory-modules/"><u>Benchmarking the Kingston Fury Beast - A Deep Dive Into DDR5-6000 (CL40) Performance with 2X32GB Memory Modules</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-best-in-computing-navigating-hardware-with-toms-guidance/"><u>Discover the Best in Computing: Navigating Hardware with Tom's Guidance</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-c32-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia C32</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pioneering-techniques-for-smooth-recording-in-virtual-sessions/"><u>Pioneering Techniques for Smooth Recording in Virtual Sessions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341686952-public-hearings-may-provide-community-members-with-a-platform-to-influence-the-land-division-process/"><u>Public Hearings May Provide Community Members with a Platform to Influence the Land Division Process</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341683638-teamgroups-eco-ddr5-revolution-the-vulcan-memory-kit-ddr5-6000-c30-2x16gb-reviewed/"><u>TeamGroup's Eco-DDR5 Revolution: The Vulcan Memory Kit - DDR5-6000 C30, 2X16GB Reviewed!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-hp-omnibook-x-extending-workdays-with-its-powerful-16-hour-battery-life-and-innovative-xpower-tech/"><u>The Ultimate Review of HP OmniBook X: Extending Workdays with Its Powerful 16-Hour Battery Life and Innovative XPower Tech</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlock-your-potential-youtube-thumbnail-creation-on-macos/"><u>Unlock Your Potential YouTube Thumbnail Creation on macOS</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-electronics-with-toms-hardware-guidance/"><u>Unveiling the Best Electronics with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-power-of-the-logitech-g-pro-x-2-lightspeed-the-ultimate-review-for-gamers-perfection/"><u>Unveiling the Power of the Logitech G Pro X 2 Lightspeed: The Ultimate Review for Gamers' Perfection</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-screens-the-benefits-of-using-showmore-for-2024/"><u>[New] Streamline Your Screens The Benefits of Using ShowMore for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-eye-on-the-social-scene-top-tweets-of-2023-for-2024/"><u>[Updated] Eye on the Social Scene Top Tweets of 2023 for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-11-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 11 to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effortless-recording-on-mac-unveiling-the-secrets-for-2024/"><u>Effortless Recording on Mac Unveiling the Secrets for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-google-pixel-8-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Google Pixel 8 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-tecno-spark-go-2023-by-drfone-android/"><u>How to Bypass FRP on Tecno Spark Go (2023)?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xs-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XS Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/secrets-revealed-skyrocketing-your-insta-video-audience-for-2024/"><u>Secrets Revealed Skyrocketing Your Insta Video Audience for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis/"><u>Tom's Tech Reviews: In-Depth Computer & Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-cutting-edge-hardware-by-toms-technology-digest/"><u>Ultimate Guide to Cutting-Edge Hardware by Tom's Technology Digest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-exploring-the-finest-computer-screens/"><u>Ultimate Selection: Exploring the Finest Computer Screens</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-toms-detailed-guide-to-computer-components/"><u>Unlocking Technology Secrets: Tom's Detailed Guide to Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-value-a-deep-dive-into-the-mammoth-yet-economical-monoprice-144-hz-44-inch-gaming-display-review/"><u>Unlocking Value: A Deep Dive Into the Mammoth, Yet Economical Monoprice 144 Hz 44-Inch Gaming Display Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-gadgets-toms-hardware-rundown/"><u>Unveiling the Latest in Gadgets - Tom's Hardware Rundown</u></a></li>
 </ul></div>
 
