@@ -1,7 +1,7 @@
 ---
 title: "Top July 2024 Laptop Offers: Exclusive Savings From ZDNet"
-date: 2024-12-17T23:06:22.403Z
-updated: 2024-12-22T06:42:16.996Z
+date: 2024-12-25T22:08:15.377Z
+updated: 2024-12-27T16:10:01.879Z
 tags:
   - laptops
 categories:
@@ -95,11 +95,11 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Alternative laptop deals
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Amazon laptop deals
 
@@ -114,10 +114,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Acer Aspire 3 laptop deal for $300 (save $22) $300 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FA315-24P-R7VH-Display-Quad-Core-Processor-Graphics%2Fdp%2FB0BS4BP8FB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1)
 
 [ASUS ROG Strix Scar 15 gaming laptop deal for $1749 (save $250) $1,749 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RMW1L7Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C64b42205-96dc-4b01-a7c5-12f41ce673a9%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Walmart laptop deals
 
@@ -140,10 +136,6 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [Lenovo Flex 5i 14-inch FHD touchscreen 2-in-1 laptop deal for $380 (save $170) $380 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-flex-5i-14-fhd-touchscreen-2-in-1-laptop-intel-core-i3-1215u-with-8gb-memory-intel-uhd-graphics-256gb-ssd-storm-grey%2F6571566.p%3FskuId%3D6571566&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 [ASUS Zenbook 14-inch OLED touchscreen laptop deal for $1,300 (save $200) $1,300 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-zenbook-14-120hz-oled-touch-laptop-evo-intel-13-gen-core-i9-with-32gb-memory-nvidia-geforece-rtx-3050-1tb-ssd-gray%2F6548463.p%3FskuId%3D6548463&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Apple MacBook deals
 
@@ -169,6 +161,10 @@ When compiling the list of the best deals, we considered the following:
 * **Features**: We included a range of laptops with features sure to appeal to you, including different screen sizes, processors, memory options, and storage. Furthermore, these laptops include varying levels of security, parental lock options, and display resolutions.
 * **Use cases**: At ZDNET, we also took into account different use cases. You might be in the market for a budget-friendly, basic laptop for a child, for example, or you may need a future-proof laptop suitable for work. Or, it might be a gaming device you're after. So, we have compiled a set of recommendations based on different purposes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What specifications do I need to look for in a laptop?
 
 The right specs depend on your needs and how you intend to use your new laptop -- whether for gaming, studies, video calling, or simply daily internet surfing. We break it down for you below:
@@ -178,16 +174,12 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
@@ -200,12 +192,20 @@ If you're a gamer who needs a high-spec laptop with a decent graphics card, top-
 
 ZDNET experts split out the latest and greatest deals for you below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best deals by retailer
 
 * [The best Amazon deals](https://www.zdnet.com/article/amazon-deals/)
 * [The best Apple deals](https://www.zdnet.com/article/apple-deals/)
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best deals by category
 
@@ -257,15 +257,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-learn-the-solution-to-instagram-video-issues/"><u>[Updated] 2024 Approved Learn the Solution to Instagram Video Issues</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/achieve-peak-efficiency-with-ideal-memory-settings-on-your-amd-ryzen-3000-processors-in-depth-review-from-toms-hardware/"><u>Achieve Peak Efficiency with Ideal Memory Settings on Your AMD Ryzen 3000 Processors - In-Depth Review From Tom's Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emerging-ai-risks-the-unseen-security-hurdles/"><u>Emerging AI Risks: The Unseen Security Hurdles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ending-playtime-interruptions-effective-fixes-for-modern-warfare-stutter-and-pauses-on-pc/"><u>Ending Playtime Interruptions: Effective Fixes for Modern Warfare Stutter and Pauses on PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-digital-gadgets-by-tom-unveiling-the-best-tech-tools/"><u>Expert Insights on Digital Gadgets by Tom - Unveiling the Best Tech Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oneplus-nord-n30-5g-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from OnePlus Nord N30 5G.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a60-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A60 Phone that is Locked?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/iphone-tips-achieving-extended-exposure-images-for-2024/"><u>IPhone Tips Achieving Extended Exposure Images for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-amd-tech-unveiled-intuitive-self-overclocking-memory-manager/"><u>Revolutionary AMD Tech Unveiled: Intuitive Self-Overclocking Memory Manager</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components-t17239718670261/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-craft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[Updated] In 2024, Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
+<li><a href="https://win-news.techidaily.com/boost-your-pc-speed-by-fixing-registry-issues-expert-tips-from-yl-computing/"><u>Boost Your PC Speed by Fixing Registry Issues - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-gigabyte-ud750gm-psu-performance-test/"><u>Comprehensive Evaluation: Gigabyte UD750GM PSU Performance Test</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-computer-hardware-by-toms-expertise/"><u>Comprehensive Guide to Computer Hardware by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-testing-insights-seasonic-prime-tx-1600-psu-assessment/"><u>Comprehensive Testing Insights: Seasonic Prime TX-1600 PSU Assessment</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-print-on-edge-security-mode-windows-11/"><u>Enabling Print on Edge Security Mode Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-the-premium-nzxt-c1email-protected-power-unit-unveiling-its-capabilities/"><u>Expert Analysis of the Premium NZXT C1([email Protected]) Power Unit: Unveiling Its Capabilities</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-hardware-with-tom-your-guide-to-cutting-edge-technology/"><u>Exploring Advanced Hardware with Tom - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m54-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M54 5G Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-phantom-v-flip-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Phantom V Flip to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-transforming-trending-searches-into-video-concepts/"><u>In 2024, Transforming Trending Searches Into Video Concepts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-assessment-of-the-corsair-tx5-problems/"><u>In-Depth Assessment of the Corsair TX5# Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/launch-of-seasonic-psu-models-featuring-advanced-12vhpwr-connectors-starting-from-230/"><u>Launch of Seasonic PSU Models Featuring Advanced 12VHPWR Connectors Starting From $230</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-hardware-with-toms-guide/"><u>Navigating the Latest in Hardware with Tom's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-gaming-profiles-secret-code-on-steam/"><u>Uncovering Gaming Profile's Secret Code on Steam</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlock-your-music-tracks-audafrees-2024-edition/"><u>Unlock Your Music Tracks AudaFree's 2024 Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators/"><u>Updated 2024 Approved The Ultimate List of Free Green Screen Apps for Mobile Creators</u></a></li>
 </ul></div>
 

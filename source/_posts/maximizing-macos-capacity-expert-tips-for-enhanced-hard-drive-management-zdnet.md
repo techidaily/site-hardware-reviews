@@ -1,7 +1,7 @@
 ---
 title: "Maximizing MacOS Capacity: Expert Tips for Enhanced Hard Drive Management | ZDNet"
-date: 2024-12-09T22:19:15.412Z
-updated: 2024-12-13T01:29:33.107Z
+date: 2024-12-25T23:25:20.127Z
+updated: 2024-12-27T18:57:09.980Z
 tags:
   - laptops
 categories:
@@ -49,7 +49,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Optimize Storage
@@ -57,7 +57,7 @@ Let me show you how to enable the Optimize Storage feature on your MacOS device.
 **What you'll need:** The only thing you'll need for this is a device running MacOS. I'll demonstrate the process on a MacBook Pro, running MacOS Ventura 13.5.2\. Make sure your OS is updated so you have all the most recent security patches and any new features Apple has added.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open System Settings
@@ -73,7 +73,7 @@ To access System Settings, you can either go through this menu or open it from t
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Storage settings
@@ -85,7 +85,7 @@ You'll see the General option in the left-side navigation.
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Optimize Storage
@@ -134,15 +134,17 @@ And that's all there is to optimizing the storage of your MacOS device. If you p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>[Updated] 2024 Approved The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elite-6-most-watched-shorter-video-repositories-for-2024/"><u>[Updated] Elite 6 Most Watched Shorter Video Repositories for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-metaversal-journey-versus-omniverse-quest-for-2024/"><u>[Updated] Metaversal Journey Versus Omniverse Quest for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/bandicam-vs-obs-studio-ultimate-showdown-and-detailed-comparison/"><u>Bandicam vs OBS Studio - Ultimate Showdown & Detailed Comparison</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-reviews-top-picks-and-insights/"><u>Exploring Tom's Tech Reviews: Top Picks & Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-s17-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo S17 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-gadget-insights-by-tom-exploring-advanced-technology-hardware/"><u>Innovative Gadget Insights by Tom - Exploring Advanced Technology Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/next-generation-hbm-manufacturing-set-to-launch-at-new-memory-fab-by-sk-hynix-in-indiana-a-387-billion-dollar-venture/"><u>Next Generation HBM Manufacturing Set to Launch at New Memory Fab by SK Hynix in Indiana - A 3.87 Billion Dollar Venture</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/rapidpace-timefreeze-film/"><u>RapidPace TimeFreeze Film</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/teamgroup-t-force-vulcan-alpha-ddr5-memory-c38-review-the-perfect-match-for-amd-ryzen-7000-series/"><u>TeamGroup T-Force Vulcan Alpha DDR5 Memory (C38) Review – The Perfect Match for AMD Ryzen 7000 Series</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-10-video-editors-webcams-reimagined/"><u>[New] 2024 Approved Ultimate 10 Video Editors Webcams Reimagined</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-key-tools-every-new-youtuber-needs/"><u>[Updated] Key Tools Every New YouTuber Needs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterclass-in-effortless-video-acquisition/"><u>[Updated] Masterclass in Effortless Video Acquisition</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-audio-working-in-avidemux-proven-solutions/"><u>2024 Approved Get Audio Working in Avidemux Proven Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-10-blu-ray-players-of-2024/"><u>Best 10 Blu-Ray Players of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-battery-detected-fast-and-simple-steps-to-get-you-back-online/"><u>Fixing 'No Battery Detected': Fast & Simple Steps to Get You Back Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy A25 5G Phone Without Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-the-process-of-mp3-download-from-pinterest/"><u>In 2024, Simplifying the Process of MP3 Download From Pinterest</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-tech-insights-at-toms-hardware/"><u>In-Depth Reviews & Tech Insights at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-chronicles-in-depth-analysis-of-cutting-edge-hardware/"><u>Tom's Computer Chronicles: In-Depth Analysis of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-performance-showdown-gskill-trident-z5-rgb-ddr5-6400mhz-c3248gb-memory-kit-review-compatible-with-dual-channel-motherboards/"><u>Ultimate Performance Showdown: G.SKILL Trident Z5 RGB DDR5 6400MHz C32/48GB Memory Kit Review - Compatible with Dual-Channel Motherboards</u></a></li>
 </ul></div>
 

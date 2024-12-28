@@ -1,7 +1,7 @@
 ---
 title: "Huge Cyber Monday Savings: Save 77%% on Lenovo ThinkPad L14 Gen 3 - Limited Time Offer!"
-date: 2024-12-21T00:26:36.615Z
-updated: 2024-12-22T07:54:04.027Z
+date: 2024-12-23T16:52:56.894Z
+updated: 2024-12-27T20:29:32.191Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,15 +97,20 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-syncopated-shots-picking-the-best-music-for-social-media/"><u>[New] Syncopated Shots Picking the Best Music for Social Media</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-is-broadcasting-facebook-videos-a-reality-yet-for-2024/"><u>[Updated] Is Broadcasting Facebook Videos a Reality Yet for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/6-excellent-apps-to-capture-and-save-linkedin-videos-successfully/"><u>6 Excellent Apps to Capture and Save LinkedIn Videos Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-in-place-how-to-handle-your-steam-server-connections-successfully/"><u>Fixes in Place: How to Handle Your Steam Server Connections Successfully</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-honor-80-pro-straight-screen-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Honor 80 Pro Straight Screen Edition to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-systems-with-toms-tech-wisdom/"><u>Mastering Gadgets and Systems with Tom’s Tech Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-the-top-picks-of-toms-hardware/"><u>Mastering Technology: The Top Picks of Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-new-tech-horizons-with-thorough-analysis-by-toms-hardware/"><u>Navigate New Tech Horizons with Thorough Analysis by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-pc-hardware-with-toms-authoritative-articles/"><u>Navigating the Latest PC Hardware with Tom's Authoritative Articles</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971267245-update-your-epson-l3150-printer-drivers-on-windows-pc-latest-version-available-now/"><u>Update Your Epson L3150 Printer Drivers on Windows PC: Latest Version Available Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-building-brands-on-instagram-a-playbook-for-sponsorship-success/"><u>[New] 2024 Approved Building Brands on Instagram A Playbook for Sponsorship Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-wizardry-of-images-elevate-your-snapchat-with-edits/"><u>[New] 2024 Approved The Wizardry of Images Elevate Your Snapchat with Edits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-evaluating-apples-m1-macbook-air-for-media-professionals/"><u>[New] Evaluating Apple’s M1 MacBook Air for Media Professionals</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/advanced-vuejs-3-and-bootstrap-5-admin-dashboard-with-vue-soft-ui-dashboard-pro-exclusive-pre-built-templates/"><u>Advanced VueJS 3 & Bootstrap 5 Admin Dashboard with Vue Soft UI Dashboard Pro - Exclusive Pre-Built Templates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/convertissez-gratuitement-un-fichier-3gp-en-video-avi-avec-movavi/"><u>Convertissez Gratuitement Un Fichier 3GP en Vidéo AVI Avec Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/gb-for-a-continuous-video-watched-daily-for-2024/"><u>GB for a Continuous Video Watched Daily for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-guide-to-vscos-camera-app/"><u>In 2024, Full Guide to VSCO's Camera App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oneplus-open-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track OnePlus Open Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-look-at-cutting-edge-technology-by-toms-experts/"><u>Inside Look at Cutting-Edge Technology by Tom's Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-electronics-tips-tricks-and-reviews-by-toms-hardware-experts/"><u>Mastering Modern Electronics: Tips, Tricks & Reviews by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-from-toms-trusted-resource/"><u>Mastering Technology Insights From Tom’s Trusted Resource</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-visuals-in-esports-why-the-pixio-px277-oled-is-a-game-changer-for-gamers/"><u>Mastering Visuals in eSports: Why the Pixio PX277 OLED Is a Game Changer for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-digital-life-tips-and-tricks-from-toms-tech-haven/"><u>Mastering Your Digital Life: Tips & Tricks From Tom's Tech Haven</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/pcdj-karaoke-unleashed-mastering-the-dancefloor-with-cloud-technology/"><u>PCDJ Karaoke Unleashed: Mastering the Dancefloor with Cloud Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Snag Lenovo's Flex 지난에 $99 Deal Before Cyber Monday Chaos"
-date: 2024-12-11T22:30:58.043Z
-updated: 2024-12-13T03:28:33.642Z
+date: 2024-12-20T21:17:24.102Z
+updated: 2024-12-27T20:53:42.544Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,17 +67,22 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-shadowy-time-lapse-recording-methods/"><u>[New] In 2024, Shadowy Time-Lapse Recording Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tinyframe-videotaker-assessment-with-alternatives/"><u>[Updated] In 2024, TinyFrame Videotaker Assessment with Alternatives</u></a></li>
-<li><a href="https://media-tips.techidaily.com/1-comparing-airplay-2-with-dlna-unveiling-the-android-alternatives/"><u>1. Comparing AirPlay 2 with DLNA: Unveiling the Android Alternatives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-how-mixed-reality-transforms-experience/"><u>2024 Approved Exploring How Mixed Reality Transforms Experience</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-decoding-the-capabilities-in-samsungs-newest-photo-software/"><u>In 2024, Decoding the Capabilities in Samsung's Newest Photo Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei to Protect Your Individual Information</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-hardware-analysis-by-toms-technical-insights-blog/"><u>In-Depth Hardware Analysis by Tom's Technical Insights Blog</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgetry-inside-tips-from-toms-hardware-experts/"><u>Mastering Gadgetry: Inside Tips From Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-high-fps-discover-tcls-innovative-1000hz-refresh-rate-in-their-new-4k-gaming-display/"><u>Mastering High FPS: Discover TCL’s Innovative 1,000Hz Refresh Rate in Their New 4K Gaming Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-devices-a-guide-to-hardware-by-toms-tech-wisdom/"><u>Mastering Modern Devices: A Guide to Hardware by Tom's Tech Wisdom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-components-essential-reviews-by-tomebased-hardware-guru/"><u>Mastering Tech Components: Essential Reviews by Tom'ebased Hardware Guru</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-iphones-potential-with-live-activities-on-ios-16/"><u>Unlock Your iPhone's Potential with Live Activities on iOS 16</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nderstanding-youtube-lives-image-language/"><u>[New] Understanding YouTube Live's Image Language</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-down-barriers-streaming-google-meet-on-youtube-stepwise/"><u>[Updated] 2024 Approved Break Down Barriers Streaming Google Meet on YouTube, Stepwise</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-record-vr-gameplay/"><u>[Updated] How to Record VR Gameplay</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-explore-chromes-full-screen-multitasking-capabilities/"><u>[Updated] In 2024, Explore Chrome's Full-Screen Multitasking Capabilities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-spark-10-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Spark 10 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/convert-music-files-for-free-with-movavi-online-mp3-m4a/"><u>Convert Music Files for Free with Movavi Online (MP3, M4A)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-the-features-introducing-googles-latest-innovation-a-multi-functional-smart-hub-and-streaming-device/"><u>Explore the Features: Introducing Google's Latest Innovation - A Multi-Functional Smart Hub and Streaming Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cherry-xtrfy-k5v2-a-game-changing-review-with-cutting-edge-red-keyswitch-technology/"><u>Exploring the Cherry XTRFY K5V2 - A Game Changing Review with Cutting-Edge Red Keyswitch Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gemini-technology-fuels-nests-latest-innovative-smart-thermostat/"><u>Gemini Technology Fuels Nest's Latest Innovative Smart Thermostat</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-to-relocate-your-desk-top-system-without-damage-top-6-strategies/"><u>How to Relocate Your Desk-Top System Without Damage: Top 6 Strategies</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-nanoleafs-innovative-smart-led-enclosures-officially-launched/"><u>Introducing Nanoleaf's Innovative Smart LED Enclosures: Officially Launched!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-wds-newly-released-nvme-ssd-the-perfect-choice-for-future-creatives/"><u>Introducing WD's Newly Released NVMe SSD: The Perfect Choice for Future Creatives</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-your-gpu-on-its-last-leg-spot-these-6-critical-warnings-early-on/"><u>Is Your GPU on Its Last Leg? Spot These 6 Critical Warnings Early On!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-your-home-internet-leveraging-prime-day-deals-for-enhanced-wireless-connectivity/"><u>Maximizing Your Home Internet: Leveraging Prime Day Deals for Enhanced Wireless Connectivity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secure-your-travel-documentation-instant-free-passport-image-generation-tool-for-2024/"><u>Secure Your Travel Documentation Instant FREE Passport Image Generation Tool for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/toutes-les-solutions-gratuites-de-restauration-pour-samsung-sous-windows-11-un-guide-complet/"><u>Toutes Les Solutions Gratuites De Restauration Pour Samsung Sous Windows 11: Un Guide Complet</u></a></li>
 </ul></div>
 

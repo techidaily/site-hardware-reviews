@@ -1,7 +1,7 @@
 ---
 title: "Key Developments From CES 2023 Day 3: Announcements by HTC and Google, Featuring Top News Coverage"
-date: 2024-12-06T17:03:42.903Z
-updated: 2024-12-12T20:48:54.275Z
+date: 2024-12-22T19:54:45.683Z
+updated: 2024-12-27T16:38:20.951Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Of course, I can't forget the speaker system. Dell's Inspiron 14 2-in-1 has a ni
 For the battery, I performed ZDNET's usual test of running a medium load on the laptop. This consists of playing a YouTube livestream nonstop at 720p and 50% brightness. I clocked the Inspiron 2-in-1 at about eight hours max while on Best Power Efficiency mode. Not too shabby; that's enough to last you a whole day, although it would've been nice if it lasted 10 or 12 hours. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,19 @@ I also recommend picking Midnight Blue as your laptop color. The Ice Blue option
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-is-consumer-feedback-compensated-in-vlogs/"><u>[New] Is Consumer Feedback Compensated in Vlogs?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[Updated] Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-repair-glitches-in-instagram-likescomments-for-2024/"><u>[Updated] Repair Glitches in Instagram Likes/Comments for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-3-3300x-outperforms-intel-core-i7-7700k-detailed-geekbench-comparisons/"><u>AMD Ryzen 3 3300X Outperforms Intel Core I7-7700K: Detailed Geekbench Comparisons</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-news-intel-alleged-to-halt-production-of-thunder-bay-hybrid-chip/"><u>Breaking News: Intel Alleged to Halt Production of Thunder Bay Hybrid Chip</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-technology-with-toms-gear-insights-your-source-for-latest-hardware-news/"><u>Dive Into Technology with Tom's Gear Insights: Your Source for Latest Hardware News</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dont-miss-out-next-weeks-thrilling-foldinghome-event-begins-soon/"><u>Don't Miss Out - Next Week's Thrilling Folding@Home Event Begins Soon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enter-the-contest-for-your-chance-at-a-complimentary-corsair-t2-elite-gaming-seat/"><u>Enter the Contest for Your Chance at a Complimentary Corsair T2 Elite Gaming Seat</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exclusive-insights-into-neweggs-strategy-for-reserving-rare-components-before-building-your-pc/"><u>Exclusive Insights Into Newegg's Strategy for Reserving Rare Components Before Building Your PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expertly-assembled-computers-mastering-high-end-performance-demands/"><u>Expertly Assembled Computers: Mastering High-End Performance Demands</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-pip-functionality-in-microsoft-edge/"><u>Navigating PIP Functionality in Microsoft Edge</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>New 2024 Approved Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/photobooth-playback-error-constant-pause-issues-for-2024/"><u>Photobooth Playback Error Constant Pause Issues for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-overwatch-audio-glitches-instantly/"><u>Resolve Your Overwatch Audio Glitches Instantly!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guides-and-insights-on-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guides and Insights on Latest Hardware</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-filmora-watermark-how-to-delete-it-permanently-for-2024/"><u>Updated Filmora Watermark How to Delete It Permanently for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-10-professional-360-degree-cameras/"><u>[Updated] In 2024, Top 10 Professional 360 Degree Cameras</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-navigating-the-world-of-mac-screenshot-with-confidence/"><u>2024 Approved Navigating the World of Mac Screenshot with Confidence</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/aesthetic-alignment-for-online-glamour-content/"><u>Aesthetic Alignment for Online Glamour Content</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asrock-z790i-lightning-wireless-networking-board-review-harnessing-the-power-of-lightning-in-miniature/"><u>ASRock Z790I Lightning Wireless Networking Board Review: Harnessing the Power of Lightning in Miniature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-culinary-revolution-explore-these-7-innovations/"><u>ChatGPT's Culinary Revolution: Explore These 7 Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-essentials-toms-guide-to-computer-hardware/"><u>Exploring Technology Essentials: Tom’s Guide to Computer Hardware</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-s18-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo S18 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mid-century-designed-cutting-edge-performance-unveiling-the-keychron-k2-he-special-edition-review/"><u>Mid-Century Designed, Cutting-Edge Performance: Unveiling the Keychron K2 HE Special Edition Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfecting-the-art-of-podcast-title-creation-essential-tips-and-inspirations-for-2024/"><u>Perfecting the Art of Podcast Title Creation Essential Tips & Inspirations for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-cuts-in-kinemaster-transition-essentials-for-2024/"><u>Precision Cuts in Kinemaster Transition Essentials for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/structured-writing-tactics-for-boosting-facebook-ad-performance-for-2024/"><u>Structured Writing Tactics for Boosting Facebook Ad Performance for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-technology-secrets-with-toms-hardware-findings/"><u>Unlocking Technology Secrets with Tom's Hardware Findings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-sovol-sv08-review-a-tribute-speed-machine-inspired-by-voron/"><u>Unveiling Sovol SV08 Review: A Tribute Speed Machine Inspired by Voron</u></a></li>
 </ul></div>
 

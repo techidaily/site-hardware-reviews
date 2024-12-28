@@ -1,7 +1,7 @@
 ---
 title: CEO Departure From Australia's Optus Amidst Ongoing Crisis Due to Service Outage – Exclusive Coverage on ZDNet
-date: 2024-09-17 14:59:38
-updated: 2024-09-20 11:40:32
+date: 2024-12-25T21:12:28.065Z
+updated: 2024-12-27T22:36:54.896Z
 tags:
   - networking
 categories:
@@ -70,11 +70,34 @@ Apple's iOS 18 launches in a public beta next month. It'll officially launch thi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-creating-your-own-path-on-youtube-a-course-guide/"><u>[New] 2024 Approved Creating Your Own Path on YouTube A Course Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-explore-best-speech-recognition-software-on-your-mac/"><u>[Updated] Explore Best Speech Recognition Software on Your Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-for-installing-the-latest-driver-update-for-your-pcs-realtek-pcie-fe-controller-in-windows-7/"><u>Comprehensive Tutorial for Installing the Latest Driver Update for Your PC's Realtek PCIe FE Controller in Windows 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-gadgets-and-components-on-tomtechreviews-your-trusted-source-for-insights/"><u>Discover Top Gadgets and Components on TomTechReviews – Your Trusted Source for Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/esrs-advanced-cryoboost-technology-in-new-qi2-lineup-achieves-lightning-speed-iphone-16-charges-without-overheating-insights-from-zdnet/"><u>ESR's Advanced CryoBoost Technology in New Qi2 Lineup Achieves Lightning-Speed iPhone 16 Charges Without Overheating | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-advice-what-to-look-for-when-purchasing-your-ideal-stereo-speakers/"><u>Essential Advice: What to Look For When Purchasing Your Ideal Stereo Speakers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-review-of-the-pimoroni-nvme-ssd-base-duo-speed-capacity-and-reliability-assessed/"><u>Expert Review of the Pimoroni NVMe SSD Base Duo - Speed, Capacity & Reliability Assessed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-solid-reliability-of-the-asus-tuf-gaming-a14-unit/"><u>Exploring the Solid Reliability of the Asus TUF Gaming A14 Unit</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-the-digital-world-inside-toms-hardware-reviews/"><u>Mastering the Digital World: Inside Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-experts/"><u>Navigating the World of Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-chilled-under-pressure-the-ultimate-guide-to-optimizing-cooling-with-5cuum-tower-plus-for-raspberry-pi-45/"><u>Stay Chilled Under Pressure: The Ultimate Guide to Optimizing Cooling with '5Cuum Tower Plus for Raspberry Pi 4/5</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-downloading-and-setting-up-your-behringer-usb-audio-drivers/"><u>Step-by-Step Guide: Downloading & Setting Up Your Behringer USB Audio Drivers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-definitive-guide-to-next-gen-tech-devices-by-toms-hardware-authority/"><u>The Definitive Guide to Next-Gen Tech Devices by Tom's Hardware Authority</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-surprising-evolution-of-apples-flop-product-now-shining-as-a-premium-contender-zdnet/"><u>The Surprising Evolution of Apple's Flop Product, Now Shining as a Premium Contender | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-essentials-for-elevating-ai-responses-with-chatgpt-prompts/"><u>Top 5 Essentials for Elevating AI Responses with ChatGPT Prompts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

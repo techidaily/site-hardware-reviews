@@ -1,7 +1,7 @@
 ---
 title: Discover When Black Friday Occurs & Unveil the Best Deals Locations | Insights by ZDNET
-date: 2024-12-07T16:55:46.088Z
-updated: 2024-12-12T16:18:17.195Z
+date: 2024-12-25T22:49:47.676Z
+updated: 2024-12-27T22:13:42.149Z
 tags:
   - laptops
 categories:
@@ -27,7 +27,7 @@ I've scoured the site to find the best deals on everything from gaming PCs and S
 ![An MSI Modern 14 laptop on a blue background](https://www.zdnet.com/a/img/resize/5c8bdb145c79b7395c0743cd9d856b4df611cb4d/2023/11/17/7bcdb4cf-3869-419a-bb3b-03b2acc9be6b/msi-modern-14.jpg?auto=webp&width=1280)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 MSI/ZDNET
@@ -56,10 +56,6 @@ MSI/ZDNET
 * [Asus ROG G22CH](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fasus-g22ch-ds564-rog%252Fp%252FN82E16883221761): $1100 (save $300)
 * [MSI Pro DP10](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmsi-pro-dp10-13m-057us-business-desktops-workstations%252Fp%252FN82E16883151296): $849 (save $400)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Newegg holiday gaming laptop deals
 
 Dell/ZDNET
@@ -78,6 +74,10 @@ Dell/ZDNET
 * [Gigabyte G5](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16834233559): $750 (save $349)
 * [Acer Nitro 5:](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fobsidian-black-acer-nitro-5-an515-58-73rs-gaming%252Fp%252F2WC-000K-027V4) $860 (save $320)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Newegg Holiday PC component deals
 
 * [Intel Core i9-12900K](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fintel-core-i9-12900k-core-i9-12th-gen%252Fp%252FN82E16819118339): $340 (save $310)
@@ -89,10 +89,6 @@ Dell/ZDNET
 * [ASRock B650 LiveMixer AM5 ATX AMD motherboard](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fasrock-b650-livemixer%252Fp%252FN82E16813162099): $150 (save $80)
 * [Rosewill CMG1000G5 80 Plus Gold](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Frosewill-cmg1000g5-1000-w%252Fp%252FN82E16817182453): $120 (save $130)
 * [EVGA SuperNova 1000 G7 80 Plus Gold](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fevga-supernova-1000-g7-220-g7-1000-x1-1000-w%252Fp%252FN82E16817438238): $140 (save $100)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Newegg holiday gaming peripheral deals
 
@@ -110,7 +106,7 @@ Dell/ZDNET
 * [Acer Predator X45 45-inch curved monitor](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fp%252FN82E16824011463): $1200 (save $400)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When is Black Friday 2023?
@@ -125,6 +121,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best gaming PC?
 
  My choice for the [best gaming PC](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-pc/) is the Alienware Aurora R15 for its liquid cooling system, dual storage drives, and range of configuration options. You can create your own build with either an Intel or AMD-based chipset, and with up to an RTX 4080 graphics card for all the power you need to play the latest triple-A PC games. 
@@ -134,7 +134,7 @@ We also looked over customer reviews to find out what matters to real people who
 Newegg launched their [Black Friday price guarantee](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fpromotions%2Fnepro%2F23-1613%2Findex.html%23%3A%7E%3Atext%3DThe%2520Program%2520guarantees%2520that%2520our%2Cthrough%2520Nov.%252016%252C%25202023.) policy back in 2021, which applies to products sold and shipped by Newegg themselves. Products that are eligible for the program have a special badge on their store page, guaranteeing that you're getting the best price. And if the price drops before Black Friday, Newegg will automatically refund you the difference. No claim ticket or price tracking necessary. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best early Black Friday deals right now?
@@ -203,22 +203,24 @@ ZDNET's experts have been searching for early Black Friday deals across sites li
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-real-time-streaming-on-facebook-simplified-2023/"><u>[New] Real-Time Streaming on Facebook, Simplified 2023</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/549-for-the-lg-ultragear-34-qhd-monitor-features-g-sync-available-now-on-amazon/"><u>$549 for the LG Ultragear 34 QHD Monitor - Features G-Sync, Available Now on Amazon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862812083-999-yes-get-the-epic-lg-ultragears-39-curved-gaming-monitor-with-qhd-at-amazon-today/"><u>$999? Yes! Get the Epic LG Ultragear's 39 Curved Gaming Monitor with QHD at Amazon Today</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amazing-deal-gigabyte-aorus-49-oled-gaming-monitor-now-just-969-best-ever-pricing/"><u>Amazing Deal: Gigabyte Aorus 49 OLED Gaming Monitor Now Just $969 – Best Ever Pricing!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/aoc-unveils-powerhouse-triad-the-u3-graphic-pro-monitors-for-professionals/"><u>AOC Unveils Powerhouse Triad - The U3 Graphic Pro Monitors for Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862832943-discover-the-alienware-34-inch-curved-gaming-masterpiece-exclusive-deal-for-749-at-best-buy/"><u>Discover the Alienware 34 Inch Curved Gaming Masterpiece - Exclusive Deal for $749 at Best Buy!</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-c51-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco C51 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empower-yourself-against-loneliness-using-chatgpt-strategies/"><u>Empower Yourself Against Loneliness Using ChatGPT Strategies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862825645-experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovative-heat-dissipation-pink-aroma-and-berry-fragrance-elevate-extreme-mugurisus-4g-strawberry-edition-beyond-thermal-grizzly/"><u>Innovative Heat Dissipation: Pink Aroma and Berry Fragrance Elevate Extreme Mugurisu's 4G Strawberry Edition Beyond Thermal Grizzly</u></a></li>
-<li><a href="https://fox-that.techidaily.com/late-ios-text-alerts-here-are-9-effective-solutions-for-faster-messages/"><u>Late iOS Text Alerts? Here Are 9 Effective Solutions for Faster Messages</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862829610-sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/share-photos-effortlessly-connecting-iphone-with-computer-over-bluetooth/"><u>Share Photos Effortlessly: Connecting iPhone with Computer Over Bluetooth</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-using-sony-dualshock-3-on-your-desktop-no-third-party-tools-required/"><u>Ultimate Tutorial: Using Sony DualShock 3 on Your Desktop (No Third-Party Tools Required)</u></a></li>
-<li><a href="https://facebook.techidaily.com/unraveling-the-myths-of-social-media-impersonation/"><u>Unraveling the Myths of Social Media Impersonation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-fostering-self-assurance-against-virtual-hostility/"><u>[New] 2024 Approved Fostering Self-Assurance Against Virtual Hostility</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-wallet-friendly-dome-cams-accessible-vr-video-options/"><u>[New] 2024 Approved Wallet-Friendly Dome Cams Accessible VR Video Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-download-facebook-videos-swiftly-discover-the-top-10-android-downloader-tools/"><u>[New] In 2024, Download Facebook Videos Swiftly Discover the Top 10 Android Downloader Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-framefusion-instagram-photo-fusion-across-oses/"><u>[New] In 2024, FrameFusion Instagram Photo Fusion Across OSes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-easy-entry-to-excellence-understanding-high-definition-video/"><u>[Updated] In 2024, Easy Entry to Excellence Understanding High-Definition Video</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastering-the-metaverse-your-guide-to-these-7-essential-gadgets/"><u>2024 Approved Mastering the Metaverse Your Guide to These 7 Essential Gadgets</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/high-resolution-bmw-e30-m3-desktop-wallpaper-downloads-immersive-imagery-for-car-enthusiasts/"><u>High-Resolution BMW E30 M3 Desktop Wallpaper Downloads - Immersive Imagery for Car Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ace-your-laughs-kinemaster-for-top-memes/"><u>In 2024, Ace Your Laughs KineMaster for Top Memes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mophies-compact-power-bank-features-convenient-ac-adapter-option/"><u>Mophie's Compact Power Bank Features Convenient AC Adapter Option</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/persistent-android-application-crashes-discover-9-reliable-solutions/"><u>Persistent Android Application Crashes? Discover 9 Reliable Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pixel-timepieces-lifespan-limited-to-a-three-year-update-cycle/"><u>Pixel Timepiece's Lifespan: Limited to a Three-Year Update Cycle</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/quick-fixes-for-your-download-pending-problems-on-the-play-store/"><u>Quick Fixes for Your Download Pending Problems on the Play Store</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/revealing-concealed-techniques-discover-the-eight-best-approaches-to-charge-your-smartphone-wirelessly/"><u>Revealing Concealed Techniques: Discover the Eight Best Approaches to Charge Your Smartphone Wirelessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/samsung-pay-vs-google-pay-a-comprehensive-comparison-for-smart-consumers/"><u>Samsung Pay vs Google Pay: A Comprehensive Comparison for Smart Consumers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scam-savvy-navigating-safe-gpt-interactions/"><u>Scam Savvy: Navigating Safe GPT Interactions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/seamless-power-sharing-using-an-iphone-magsafe-charger-on-your-android-smartphone/"><u>Seamless Power Sharing: Using an iPhone MagSafe Charger on Your Android Smartphone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/simple-steps-to-modify-and-authenticate-your-pdfs-using-android/"><u>Simple Steps to Modify and Authenticate Your PDFs Using Android</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/stay-ahead-of-the-curve-understanding-samsung-galaxys-update-longevity-forecast/"><u>Stay Ahead of the Curve: Understanding Samsung Galaxy's Update Longevity Forecast</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-discover-the-most-attractive-laptop-below-1k-detailed-comparison/"><u>Unbeatable Deal! Discover the Most Attractive Laptop Below $1K - Detailed Comparison</u></a></li>
 </ul></div>
 

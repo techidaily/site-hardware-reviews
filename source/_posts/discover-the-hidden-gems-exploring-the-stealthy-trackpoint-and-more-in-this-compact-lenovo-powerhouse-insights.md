@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hidden Gems: Exploring the Stealthy TrackPoint and More in This Compact Lenovo Powerhouse - Insights"
-date: 2024-12-16T18:10:35.591Z
-updated: 2024-12-21T19:37:13.449Z
+date: 2024-12-25T23:41:59.983Z
+updated: 2024-12-27T19:53:17.116Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cce20b3bd-264e-4243-8b2f-de2b540f1dec%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,18 +149,24 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-steps-to-authenticate-your-youtube-login/"><u>[Updated] Quick Steps to Authenticate Your YouTube Login</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unleash-the-power-of-obs-for-superior-skype-screen-capture/"><u>[Updated] Unleash the Power of OBS for Superior Skype Screen Capture</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/1728464114176-10/"><u>完了したウィンドウズ 10のデータバックアップが未実行:問題解決指南</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/easy-to-follow-obs-setup-on-thriftier-tech-for-2024/"><u>Easy-to-Follow OBS Setup on Thriftier Tech for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-swift-browsing-speedy-solutions-for-lagging-safari-apps-on-the-iphone/"><u>Get Swift Browsing: Speedy Solutions for Lagging Safari Apps on the iPhone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-dissecting-biggest-fifa-footage-trends-in-graphs/"><u>In 2024, Dissecting Biggest FIFA Footage Trends in Graphs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-greatest-to-growth-youtube-stars-with-soaring-subs/"><u>In 2024, The Greatest to Growth YouTube Stars with Soaring Subs</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-tutorial-on-embedding-animated-words-into-video-content/"><u>Step-by-Step Tutorial on Embedding Animated Words Into Video Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/t-mobiles-metro-wireless-endless-connectivity-and-seamless-roaming-features/"><u>T-Mobile's Metro Wireless: Endless Connectivity and Seamless Roaming Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-guides-on-hardware-and-gadgets/"><u>Tom's Tech Review: In-Depth Guides on Hardware & Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-gaming-rig-bargains-of-2024-authentic-alienware-and-dell-offers/"><u>Top Gaming Rig Bargains of 2024: Authentic Alienware & Dell Offers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbeatable-deals-on-alienware-and-dell-tech-game-on/"><u>Unbeatable Deals on Alienware and Dell Tech - Game On!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleashing-potential-why-ubuntu-dominates-windows-11-in-handling-the-latest-framework-laptop-features/"><u>Unleashing Potential: Why Ubuntu Dominates Windows 11 in Handling the Latest Framework Laptop Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-frugal-filmmakers-guide-to-affordable-camera-gear/"><u>[Updated] 2024 Approved The Frugal Filmmaker's Guide to Affordable Camera Gear</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-conceptualization-to-connection-stream-your-video-now/"><u>[Updated] In 2024, From Conceptualization to Connection Stream Your Video Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-a-difference-structuring-video-content-with-chapters/"><u>2024 Approved Making a Difference Structuring Video Content with Chapters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-2020-evaluation-continued-stylish-design-enhanced-by-the-latest-snapdragon-x-elite-chipset/"><u>Dell XPS 13 (2020) Evaluation: Continued Stylish Design Enhanced by the Latest Snapdragon X Elite Chipset</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-innovations-on-toms-tech-hub-your-guide-to-cutting-edge-hardware/"><u>Discover Innovations on Tom's Tech Hub - Your Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-in-computing-with-toms-hardware-guides/"><u>Discover the Latest in Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-notch-hardware-tips-with-toms-hardware-hub/"><u>Discover Top-Notch Hardware Tips with Tom's Hardware Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-lenovo-legion-pro-5i-gen-9-a-game-changer-in-affordable-high-end-gaming-computers/"><u>Discovering the Lenovo Legion Pro 5I Gen 9: A Game Changer in Affordable High-End Gaming Computers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-performance-meets-eye-popping-price-explore-the-razer-blade-18-featuring-rtx-4090-graphics-card-and-amd-ryzen-processor-for-4799/"><u>Elite Performance Meets Eye-Popping Price: Explore the Razer Blade 18 Featuring RTX 4090 Graphics Card & AMD Ryzen Processor for $4,799</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/excellent-choices-best-windows-8-podcasting/"><u>Excellent Choices Best Windows 8 Podcasting</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-computing-with-amds-latest-in-the-asus-zenbook-s1/"><u>Experience Next-Level Computing with AMD's Latest in the Asus Zenbook S1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-top-tier-gaming-with-the-compact-acer-predator-helios-14/"><u>Experience Top-Tier Gaming with the Compact Acer Predator Helios 14</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-technology-showdowns/"><u>Expert Insights From Tom's Technology Showdowns</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-motorola-razr-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Motorola Razr 40?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-g310-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia G310 Unlock Without Password</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-edit-youtube-videos-ultimate-guide/"><u>In 2024, How To Edit YouTube Videos [Ultimate Guide]</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>In 2024, Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y78t-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y78t Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/tab-troubles-tamed-keys-now-talking/"><u>Tab Troubles Tamed - Keys Now Talking</u></a></li>
 </ul></div>
 

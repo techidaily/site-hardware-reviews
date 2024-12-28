@@ -1,7 +1,7 @@
 ---
 title: "Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored by ZDNet"
-date: 2024-12-16T02:32:49.836Z
-updated: 2024-12-22T05:31:04.508Z
+date: 2024-12-22T18:54:12.419Z
+updated: 2024-12-27T18:09:05.759Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Max Buondonno/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ The new version has an improved design, upgraded specs, and a similarly high ask
 [ZDNET RECOMMENDS Lenovo ThinkPad X1 Fold With a huge 16.3-inch foldable screen and a durable design, the ThinkPad X1 Fold is an interesting look at the future of laptops. View at Bhphotovideo](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1795356-REG%2Flenovo%5F21es001wus%5F16%5F3%5Fthinkpad%5Fx1%5Ffold.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -122,7 +122,7 @@ Surprisingly, Windows 11 runs well on the ThinkPad X1 Fold, with one huge except
 It's usable, sure, but it's a very weird bug that's likely caused by the weird form factor of the X1 Fold. It's hard for Windows to figure out when you want to use it as a tablet and when you want to use it as a laptop. The only time it gets it right is when you use the device in clamshell mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -161,20 +161,18 @@ I'm not going to lie, I'll miss the X1 Fold when I send my review unit back. Hav
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-venture-into-virtuality-comprehensively-reviewing-top-10-vr-streamers/"><u>[New] 2024 Approved Venture Into Virtuality Comprehensively Reviewing Top 10 VR Streamers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-advanced-sound-switching-techniques/"><u>[Updated] Navigating Advanced Sound-Switching Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-srt-enhanced-mp4-files/"><u>2024 Approved Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dev-creates-portable-e-ink-monitor-using-kindle-jailbreak-process-unveiled/"><u>Dev Creates Portable E Ink Monitor Using Kindle - Jailbreak Process Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-computing-at-toms-hardware-review-hub/"><u>Discover Cutting-Edge Computing at Tom's Hardware Review Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-top-performance-tips-from-toms-computer-guide/"><u>Discover Top Performance Tips From Tom's Computer Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-advanced-screen-tech-samsung-revamps-odyssey-and-launches-ai-smart-supported-viewflex-series/"><u>Experience Advanced Screen Tech: Samsung Revamps Odyssey & Launches AI Smart Supported ViewFlex Series</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-rich-colors-on-a-budget-high-definition-dell-ips-gaming-screen-at-only-199-available-now/"><u>Experience Rich Colors on a Budget: High-Definition Dell IPS Gaming Screen at Only $199 Available Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comparative-study-alert-inshot-vs-standard-editors/"><u>In 2024, Comparative Study Alert InShot vs Standard Editors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y100-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y100 Device</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6-for-2024/"><u>The Ultimate Live-Streaming Mic Guide Choosing From the Best 6 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-ai-prompt-platforms-the-ultimate-list-of-markets/"><u>Top 7 AI Prompt Platforms: The Ultimate List of Markets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-mc-village-dwellings/"><u>[New] 2024 Approved The Ultimate Guide to Crafting MC Village Dwellings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-snipping-edits-imovies-size-changing-secrets/"><u>[New] Snipping Edits IMovie’s Size-Changing Secrets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-web-popularity-into-video-concepts-using-google-trends/"><u>[New] Transforming Web Popularity Into Video Concepts Using Google Trends</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-discord-voice-chat-not-working/"><u>[SOLVED] Discord Voice Chat Not Working</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-dual-display-documentation-technique/"><u>[Updated] 2024 Approved Dual Display Documentation Technique</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-capturing-with-camstudio-complete/"><u>[Updated] Mastering Capturing with CamStudio Complete</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bridal-bliss-filmed-alike-high-quality-8-marriage-videos-online-for-2024/"><u>Bridal Bliss Filmed Alike High-Quality 8 Marriage Videos Online for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-exploring-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Exploring the Latest in Computer Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transition-to-modern-light-management-with-asus-new-bios-and-microsoft-dynamic-lighting-a-smoother-alternative-to-armory-crate-solutions/"><u>Transition to Modern Light Management with Asus' New BIOS and Microsoft Dynamic Lighting: A Smoother Alternative to Armory Crate Solutions</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/tutto-cio-che-devi-sapere-sulla-clonazione-della-partizione-e-dei-volumi-hard-disk/"><u>Tutto Ciò Che Devi Sapere Sulla Clonazione Della Partizione E Dei Volumi Hard Disk</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-asrocks-latest-cutting-edge-amd-ryzen-9000-series-mobo-lineup/"><u>Unveiling ASRock's Latest: Cutting-Edge AMD Ryzen 9000 Series Mobo Lineup</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-tech-secrets-toms-hardware-experts/"><u>Unveiling High-Performance Tech Secrets: Tom's Hardware Experts</u></a></li>
 </ul></div>
 

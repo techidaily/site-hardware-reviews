@@ -1,7 +1,7 @@
 ---
 title: How LG's Innovative Gram Pro Laptop Triumphs Over the MacBook Air in Performance, Battery Life & Portability | GadgetGuru
-date: 2024-12-19T06:52:28.700Z
-updated: 2024-12-22T00:35:03.123Z
+date: 2024-12-23T23:12:21.429Z
+updated: 2024-12-27T18:07:37.433Z
 tags:
   - laptops
 categories:
@@ -56,7 +56,7 @@ If you're at all familiar with the previous ThinkPad X1 computers, you'll notice
 Another consequence of the limited space is the lack of ports. You have four inputs in total: two Thunderbolt 4 ports, an 3.5mm headphone/mic combo, and a slot for a Nano SIM, although the last one is optional. It's as barebones as you can get. To be honest, I am pleasantly surprised that there is a headphone jack. With how simple the [third-generation ThinkPad X1 Nano](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadx1%2Fthinkpad-x1-nano-gen-3-%2813-inch-intel%29%2Flen101t0054&publisher_slug=itechdaily19598&exclusive=1) is, I was a little shocked it made the cut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -97,22 +97,24 @@ Prices [start at $1,043](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-5-helmet-action-cameras-for-motorcycle/"><u>[New] Top 5 Helmet Action Cameras For Motorcycle</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-corrected-non-existence-of-shorts-on-feeds-for-2024/"><u>[Updated] Corrected Non-Existence of Shorts on Feeds for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>2024 Approved Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/assembling-a-custom-rig-using-cooler-masters-qube-n500-impressive-layout-opportunities-for-refinement/"><u>Assembling a Custom Rig Using Cooler Master's Qube N500: Impressive Layout, Opportunities for Refinement</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-eblazters-modular-desktop-solutions-upgradable-and-all-in-one/"><u>Experience Next-Level Gaming with EBlazter's Modular Desktop Solutions – Upgradable and All-in-One</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964477391-expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say!</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a24-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-m6-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco M6 Pro 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-reviews-and-insights-from-toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>In-Depth Reviews & Insights From Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964479571-most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-magic-6-lite-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Magic 6 Lite</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-installation-of-new-dell-monitor-drivers-for-optimal-performance/"><u>Seamless Installation of New Dell Monitor Drivers for Optimal Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-6-great-sites-to-enjoy-free-kid-friendly-films/"><u>The Ultimate List of 6 Great Sites to Enjoy Free Kid-Friendly Films</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis/"><u>Tom's Tech Insights: Expert Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice-t17239718720366/"><u>Tom's Tech Insights: In-Depth Reviews and Expert Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components-and-gadgets-t17239718720377/"><u>Tom's Tech Review: Expert Insights on Computer Components and Gadgets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-building-your-dream-4k-video-editing-studio-a-diy-blueprint/"><u>[New] Building Your Dream 4K Video Editing Studio A DIY Blueprint</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-social-media-blend-easy-twitch-to-facebook-integration/"><u>[Updated] 2024 Approved Social Media Blend Easy Twitch to Facebook Integration</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-secrets-to-effortlessly-posting-youtube-on-fb/"><u>[Updated] In 2024, Secrets to Effortlessly Posting YouTube on FB</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726224028961-bmpjpg-movavi/"><u>「即座にフリーソフトでBMPからJPGへの変換機能 – Movavi」</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-enhance-your-whatsapp-chats-ultimate-formatting-tips-and-shortcuts/"><u>1. Enhance Your WhatsApp Chats: Ultimate Formatting Tips and Shortcuts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amazon-fire-tablet-hack-shifting-apps-to-external-sd-memory-for-enhanced-performance-and-storage-management/"><u>Amazon Fire Tablet Hack: Shifting Apps to External SD Memory for Enhanced Performance and Storage Management</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/android-leads-in-notification-innovation-outshining-iphone-features/"><u>Android Leads in Notification Innovation, Outshining iPhone Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/benefits-unveiled-discover-five-compelling-reasons-to-opt-for-a-samsung-galaxy-tab-rather-than-an-ipad/"><u>Benefits Unveiled: Discover Five Compelling Reasons to Opt for a Samsung Galaxy Tab Rather Than an iPad.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-computer-imagery-like-a-pro-for-2024/"><u>Combine Computer Imagery Like a Pro for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/conserve-battery-and-reduce-data-usage-with-googles-streamlined-lightweight-android-applications/"><u>Conserve Battery & Reduce Data Usage with Google's Streamlined Lightweight Android Applications</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-energy-use-in-mobile-how-to-prevent-app-drain-with-androids-hidden-power-mode/"><u>Efficient Energy Use in Mobile: How to Prevent App Drain with Android's Hidden Power Mode</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/effortless-steps-removing-repeated-data-from-your-android-device/"><u>Effortless Steps: Removing Repeated Data From Your Android Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/july-28th-mark-your-calendar-get-ready-to-browse-best-buys-exclusive-listings-for-new-ryzen-ai-300-laptops/"><u>July 28Th - Mark Your Calendar! Get Ready to Browse Best Buy's Exclusive Listings for New Ryzen AI 300 Laptops</u></a></li>
+<li><a href="https://win-docs.techidaily.com/navigating-the-best-seo-services-in-san-francisco-a-2024-ranking-blueprint-by-top-tier-experts/"><u>Navigating the Best SEO Services in San Francisco – A 2024 Ranking Blueprint by Top-Tier Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-icloud-backup-problem-with-these-9-tips/"><u>Solve Your iPhone's iCloud Backup Problem with These 9 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-almanac-key-takeaways-from-filmora-editioning-for-2024/"><u>The Editor’s Almanac Key Takeaways From Filmora Editioning for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/top-3-macos-synchronization-tools-comprehensive-review-features-and-step-by-step-guide/"><u>Top 3 macOS Synchronization Tools: Comprehensive Review, Features, and Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-steps-to-find-out-your-android-version-and-build-id/"><u>Unveiling the Steps to Find Out Your Android Version and Build ID</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-foldable-version-of-google-pixel-could-feature-a-simplified-photography-setup/"><u>Upcoming Foldable Version of Google Pixel Could Feature a Simplified Photography Setup</u></a></li>
 </ul></div>
 

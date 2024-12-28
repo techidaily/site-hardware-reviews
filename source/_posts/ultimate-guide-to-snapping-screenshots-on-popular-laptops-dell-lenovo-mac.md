@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Snapping Screenshots on Popular Laptops - Dell, Lenovo, Mac
-date: 2024-12-19T19:24:29.623Z
-updated: 2024-12-21T22:35:13.263Z
+date: 2024-12-24T17:02:42.603Z
+updated: 2024-12-27T16:07:34.620Z
 tags:
   - laptops
 categories:
@@ -27,24 +27,28 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
 ### **Option 1: The old fashioned way**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -68,10 +72,6 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
@@ -85,10 +85,6 @@ The main difference in using Windows+Shift+S is that windows won't automatically
 The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Screenshotting on Macs
 
@@ -104,15 +100,19 @@ These are the three keys you'll need to press at once on a mac to take a standar
 
 Michael Gariffo/ZDNET
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Is there an easy way to record video of my laptop screen too?
 
 There sure is. For Mac users, we've already covered [how to capture recordings of your system](https://www.zdnet.com/article/how-to-take-screenshots-and-screen-recordings-on-your-mac/) using MacOS' built-in QuickTime player. While Windows will soon have a similar, built-in function that's [being added to the Snipping Tool mentioned above](https://www.zdnet.com/article/windows-11s-screenshot-tool-gets-a-screen-recorder/), you can [use the Xbox Game Bar included in Windows 10 and 11](https://www.zdnet.com/article/how-to-record-your-screen-in-windows-with-xbox-game-bar/) in the meantime to record not just your gaming, but any on-screen activity. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What's a good, free image editing software to use on my screenshots?
 
@@ -157,17 +157,18 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-changing-meeting-screens-on-microsoft-teams/"><u>[Updated] The Art of Changing Meeting Screens on Microsoft Teams</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-from-oven-to-screen-cooking-videos-unveiled/"><u>2024 Approved From Oven to Screen Cooking Videos Unveiled</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862716225-ace-gamers-deal-the-ultimate-combo-of-power-and-savings-msi-bravo-laptop-with-rtx-4060-under-1k/"><u>Ace Gamers’ Deal: The Ultimate Combo of Power and Savings - MSI Bravo Laptop with RTX 4060 Under $1K</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862695736-cut-costs-on-high-tech-get-asus-2024-rog-zephyrus-g14-with-stunning-oled-and-nvidia-rtx/"><u>Cut Costs on High-Tech: Get Asus' 2024 ROG Zephyrus G14 with Stunning OLED & Nvidia RTX 지킬하세요</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-run-time-exception-guide-for-windows-users/"><u>Eliminating 'Run-Time Exception': Guide for Windows Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862735316-experience-next-level-gaming-the-lenovo-legion-slim-5-boosted-by-the-powerful-rtx-4060-gpu-all-for-only-899/"><u>Experience Next-Level Gaming: The Lenovo Legion Slim 5, Boosted by the Powerful RTX 4060 GPU - All For Only $899</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-spark-10-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Spark 10 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/new-horizons-for-windows-11-widgets-a-comprehensive-list-of-enhancements/"><u>New Horizons for Windows 11 Widgets: A Comprehensive List of Enhancements</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photographic-fundamentals-in-5-minutes-with-snapseed/"><u>Photographic Fundamentals in 5 Minutes with Snapseed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862736044-score-a-bargain-16-inch-macbook-pro-w-m3-chip-at-discounted-prices-pre-prime-day/"><u>Score a Bargain: 16-Inch MacBook Pro W/ M3 Chip at Discounted Prices Pre-Prime Day!</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone SE (2022) | Stellar</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-next-level-gaming-with-asus-rog-strix-g16-at-an-incredible-amazon-offer-of-just-1164/"><u>Unleash Next-Level Gaming with ASUS Rog Strix G16 at an Incredible Amazon Offer of Just $1,164</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-maximize-content-consumption-6-best-free-youtube-short-downloaders/"><u>[Updated] 2024 Approved Maximize Content Consumption 6 Best Free YouTube Short Downloaders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-momentum-meets-mass-audience/"><u>2024 Approved Momentum Meets Mass Audience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-new-m4-mac-mini-prospect-specs-launch-date-and-price-predictions/"><u>All You Need to Know About the New M4 Mac Mini - Prospect Specs, Launch Date & Price Predictions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-unveils-new-rog-strix-xg2-cuilntess-gaming-display-27-inch-180hz-refresh-rate-on-a-premium-va-panel/"><u>Asus Unveils New ROG Strix XG2 Cuilntess Gaming Display: 27-Inch, 180Hz Refresh Rate on a Premium VA Panel</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/captivating-couture-bilingual-banter/"><u>Captivating Couture: Bilingual Banter</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-devs-dream-affordable-chinese-startups-risc-ve-laptop-at-300/"><u>Next-Gen Devs' Dream: Affordable Chinese Startup's RISC-Ve Laptop at $300</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/premier-alienware-and-dell-discounts-for-gamers/"><u>Premier Alienware & Dell Discounts for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862761277-the-ultimate-gamers-guide-to-the-dough-spectrum-black-27-oled-display-in-depth-reveal-on-exceptional-color-precision-and-premium-quality-output/"><u>The Ultimate Gamer's Guide to the Dough Spectrum Black 27 OLED Display: In-Depth Reveal on Exceptional Color Precision & Premium Quality Output</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transform-your-zephyrus-g14-experience-with-asus-new-dali-concept-a-colorful-leap-forward-for-gamer-lid-displays/"><u>Transform Your Zephyrus G14 Experience with Asus' New Dali Concept - A Colorful Leap Forward for Gamer Lid Displays</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-unknown-not-initialized-in-windows/"><u>Troubleshooting Disk Unknown Not Initialized in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unintentional-consequences-hp-probooks-affected-by-updated-bios-causing-black-screen-issues/"><u>Unintentional Consequences: HP ProBooks Affected by Updated BIOS Causing Black Screen Issues</u></a></li>
 </ul></div>
 

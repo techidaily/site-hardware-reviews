@@ -1,7 +1,7 @@
 ---
 title: Get a Superior Lenovo Laptop for Work or Play at an Incredible Discount This Memorial Day
-date: 2024-12-21T09:03:05.552Z
-updated: 2024-12-21T17:05:47.516Z
+date: 2024-12-21T18:51:58.971Z
+updated: 2024-12-27T17:00:10.768Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Taylor Clemons/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is the deal?
@@ -31,7 +31,7 @@ The [Lenovo Legion Pro 5i](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=h
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why this deal is ZDNET recommended
@@ -73,7 +73,7 @@ The power cable has an extensive power supply; it's a little bit larger than my 
 The [Lenovo Legion Pro 5i](https://shop-links.co/link/?url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-pro-series%2Flegion-pro-5i-gen-8-%2816-inch-intel%29%2Flen101g0024&publisher_slug=itechdaily19598&exclusive=1) base configuration starts at $1,260, while the top configuration retails for $1,800\. The configuration I was sent for testing will cost you around $1,450, which is a very decent value for the components and performance you'll get.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -110,20 +110,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-enhance-discord-conversations-a-recorders-insight/"><u>[New] Enhance Discord Conversations A Recorder's Insight</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-in-depth-look-at-worlds-best-live-streaming-sites/"><u>[New] In 2024, In-Depth Look at World's Best Live Streaming Sites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-explore-the-safest-video-chat-apps-on-both-sides-of-the-market/"><u>In 2024, Explore the Safest Video Chat Apps on Both Sides of the Market</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/latest-msi-z890-and-b860-motherboards-compatible-with-intel-arc-s-hits-the-charts-exclusive-pre-computex-2024-info/"><u>Latest MSI Z890 & B860 Motherboards Compatible with Intel Arc S Hits the Charts - Exclusive Pre-Computex 2024 Info</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/market-bounces-back-over-39-million-motherboards-projected-for-sale-as-pandemic-recovery-boosts-shipments/"><u>Market Bounces Back: Over 39 Million Motherboards Projected for Sale as Pandemic Recovery Boosts Shipments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-hardware-with-expert-tips-from-toms-systems-guides/"><u>Mastering Computer Hardware with Expert Tips From Tom's Systems Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-through-toms-comprehensive-analysis/"><u>Mastering Hardware Choices Through Tom's Comprehensive Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-the-tech-world-insights-from-toms-gear-analysis/"><u>Mastering the Tech World: Insights From Tom's Gear Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maximizing-your-impact-on-chromeos-development-the-ultimate-guide-to-submitting-valuable-feedback-and-its-importance/"><u>Maximizing Your Impact on ChromeOS Development: The Ultimate Guide to Submitting Valuable Feedback and Its Importance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-top-tier-z890-and-b8n60-boards-for-intel-arc-s-certified-before-the-excitement-of-computex-2024-begins/"><u>MSI Unveils Top-Tier Z890 and B8n60 Boards for Intel Arc S, Certified Before the Excitement of Computex 2024 Begins!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msis-pre-computex-2024-launch-premium-z890-and-b860-motherboards-for-intel-arc-s-system-leak-detected/"><u>MSI's Pre-Computex 2024 Launch: Premium Z890 and B860 Motherboards for Intel Arc S System Leak Detected</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/qualitatsbewahrt-konvertieren-top-5-avchd-m2ts-in-hochwertiges-mp4-umwandeln-lernen-professionelle-tipps-und-tricks/"><u>Qualitätsbewahrt Konvertieren: Top 5 AVCHD M2TS in Hochwertiges MP4 Umwandeln Lernen | Professionelle Tipps Und Tricks</u></a></li>
-<li><a href="https://facebook.techidaily.com/reconstructing-past-interactions-a-guide-to-social-media-archives-on-facebook/"><u>Reconstructing Past Interactions: A Guide to Social Media Archives on Facebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-harnessing-powertoys-10-must-knows/"><u>The Ultimate Guide to Harnessing PowerToys' 10 Must-Knows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ultimate-tricks-for-crystal-clear-iphone-photography/"><u>Ultimate Tricks for Crystal Clear iPhone Photography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-captivating-books-in-video-form/"><u>[New] In 2024, Captivating Books in Video Form</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-reliable-methods-to-elevate-your-youtube-presence-without-breaking-trust/"><u>[Updated] 2024 Approved Reliable Methods to Elevate Your YouTube Presence Without Breaking Trust</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-cut-the-cost-not-the-creativity-best-free-editing-tools-top-9/"><u>2024 Approved Cut The Cost, Not The Creativity Best Free Editing Tools (Top 9)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube-for-2024/"><u>A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/assembling-a-custom-rig-using-cooler-masters-qube-n500-impressive-layout-opportunities-for-refinement/"><u>Assembling a Custom Rig Using Cooler Master's Qube N500: Impressive Layout, Opportunities for Refinement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparing-mov-and-mp4-video-formats-understanding-the-differences-in-size-quality-and-playback/"><u>Comparing MOV and MP4 Video Formats: Understanding the Differences in Size, Quality & Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-methods-for-admin-access-in-the-winworld/"><u>Cutting-Edge Methods for Admin Access in the WinWorld</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-with-eblazters-modular-desktop-solutions-upgradable-and-all-in-one/"><u>Experience Next-Level Gaming with EBlazter's Modular Desktop Solutions – Upgradable and All-in-One</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964477391-expert-tips-on-pc-gear-discover-what-tom-has-to-say/"><u>Expert Tips on PC Gear - Discover What Tom Has to Say!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/geforce-experience-crash-woes-heres-how-to-identify-diagnose-and-correct-common-issues/"><u>GeForce Experience Crash Woes? Here's How to Identify, Diagnose, and Correct Common Issues</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-hardware-analysis/"><u>Tom's Tech Insights: Expert Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-expert-advice-t17239718720366/"><u>Tom's Tech Insights: In-Depth Reviews and Expert Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-computer-components-and-gadgets-t17239718720377/"><u>Tom's Tech Review: Expert Insights on Computer Components and Gadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-potential-misuse-of-gpt-technology/"><u>Unveiling the Potential Misuse of GPT Technology</u></a></li>
 </ul></div>
 

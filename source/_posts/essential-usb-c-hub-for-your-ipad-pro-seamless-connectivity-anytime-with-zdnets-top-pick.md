@@ -1,7 +1,7 @@
 ---
 title: "Essential USB-C Hub for Your iPad Pro: Seamless Connectivity Anytime with ZDNet's Top Pick"
-date: 2024-12-19T04:47:17.085Z
-updated: 2024-12-22T02:45:07.642Z
+date: 2024-12-24T19:33:29.885Z
+updated: 2024-12-27T18:45:13.997Z
 tags:
   - laptops
 categories:
@@ -19,10 +19,6 @@ Kerry Wan/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -45,7 +41,7 @@ A laptop with two screens is perhaps one of the tamest designs it has come up wi
 It's given me a chance to revisit the idea of having two screens on my laptop, and once again, it's tempting me to switch away from my boring-in-comparison MacBook Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications (as reviewed)
@@ -61,6 +57,10 @@ It's given me a chance to revisit the idea of having two screens on my laptop, a
 | Price                 | Starting at [$1,980](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-12-Core-i7-1360P-Fingerprint-Thunderbolt4%2Fdp%2FB0CR9S1KFL%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca8e1fb25-770f-412f-9572-4bd2e6048e4c%7Cdtp&dtb=1) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Living with a dual-screen laptop
 
@@ -82,6 +82,10 @@ There's a lot that the dual-screen design of the Yoga Book 9i enables, and the v
 
 Switching back to my single-screen MacBook Pro was, to put it lightly, tough. I missed having all the extra screen real estate and the ability to have two full documents open side-by-side while writing. I felt limited in a way that I wasn't expecting, which says a lot about how effective Lenovo's dual-screen design is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does it perform?
 
 The twin 13.3-inch OLED displays look exceptional with deep black levels, vibrant colors, and 400 nits of brightness (a.k.a. enough for most lighting situations). They each sport 2.8K resolutions, so everything looks crisp, and Lenovo even includes 16:10 aspect ratios so you get a bit extra vertical room. They're also Dolby Vision certified. I have zero complaints about these screens, besides the fact they only have 60Hz refresh rates.
@@ -101,10 +105,6 @@ The verdict? It's a speedy machine. The Core Ultra processor feels snappier than
 To power the Yoga Book 9i, Lenovo includes an 80W battery that's rated for about seven to eight hours of usage on a full charge. [In my testing](https://www.zdnet.com/article/how-we-test-laptops/), I was able to get to about seven hours of usage before it conked out, which is perfectly fine since 1.) this laptop has two screens and 2.) some pricier laptops like the [Surface Laptop Studio 2](https://www.zdnet.com/article/microsoft-surface-laptop-studio-2-review/) can't get anywhere near that.
 
 Charging the laptop is as straightforward as it comes. There's a Rapid Charge adapter in the box that gives you about two hours of runtime with just 15 minutes of charging. I found this mostly to be true, although you have to shut the lid if you want charging speeds to really pick up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Evaluating Lenovo's dual-screen software
 
@@ -127,7 +127,7 @@ It's weird; I've had apps like Chrome and Spotify show up on the lower display w
 I'll give Lenovo credit, the new Yoga Book 9i feels smoother than the old one did. I don't notice as much scruff or weird glitches with the software, and the bundled Bluetooth keyboard doesn't produce nearly as many double-key entries as before. Still, it's not a perfect experience, which is something to keep in mind if you're going to spend $2,000 on a laptop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## One thing to keep in mind
@@ -141,7 +141,7 @@ When I'm working on my MacBook or -- quite frankly -- any other laptop in my ars
 Of course, you'll eventually get used to it, but it'll never be as convenient as shutting your laptop lid and moving on with your day.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -182,19 +182,14 @@ If none of that matters to you and you're cool with living with the Yoga Book 9i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-explore-fauna-fun-top-12-android-simulation-games/"><u>[New] Explore Fauna Fun Top 12 Android Simulation Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-leading-the-pack-10-crucial-apps-for-insta-video-marketers-for-2024/"><u>[New] Leading the Pack 10 Crucial Apps for Insta Video Marketers for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-classic-film-aesthetics-masterclass-in-video-production/"><u>[Updated] 2024 Approved Classic Film Aesthetics Masterclass in Video Production</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/code-39-problem-on-pc-heres-how-to-fix-it-in-windows/"><u>Code 39 Problem on PC? Here's How to Fix It in Windows</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/does-utilizing-gpu-enhance-or-degrade-video-output/"><u>Does Utilizing GPU Enhance or Degrade Video Output?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/elevate-your-acer-predator-helios-300-gaming-essential-graphics-card-driver-updates/"><u>Elevate Your Acer Predator Helios 300 Gaming: Essential Graphics Card Driver Updates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-x7b-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from X7b</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-exploration-a-deep-dive-into-pc-specs-and-performance/"><u>Tom's Hardware Exploration: A Deep Dive Into PC Specs and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-cutting-edge-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Cutting-Edge Computer Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review - Expert Insights on Latest Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unbelievable-deals-await-score-an-epic-sale-with-a-breathtakingly-vivid-49-inch-samsung-oled-ultrawide-display-for-just-600-less/"><u>Unbelievable Deals Await: Score an Epic Sale with a Breathtakingly Vivid, 49-Inch Samsung OLED UltraWide Display for Just $600 Less</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unleash-virtual-reality-to-the-fullest-with-htc-vive-review/"><u>Unleash Virtual Reality to the Fullest with HTC Vive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-tech-secrets-the-ultimate-toms-hardware-exploration/"><u>Unveiling High-Tech Secrets - The Ultimate Tom's Hardware Exploration</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-computer-gear-at-toms-hardware-insights/"><u>Unveiling the Latest Computer Gear at Tom's Hardware Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-sudden-shadow-immediate-copyright-issue/"><u>[New] In 2024, Sudden Shadow Immediate Copyright Issue</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-essential-srt-compendium-for-all-levels-for-2024/"><u>[New] The Essential SRT Compendium for All Levels for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-windows-11-the-next-level-upgrade-journey-for-2024/"><u>[Updated] Windows 11 The Next-Level Upgrade Journey for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862749259-amazons-exclusive-get-lg-34qhd-ultragear-monitor-with-g-sync-tech-for-a-steal-at-549/"><u>Amazon's Exclusive: Get LG 34QHD Ultragear Monitor with G-Sync Tech for a Steal at $549!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oneplus-ace-2-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 OnePlus Ace 2 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-snip-and-sketch-command/"><u>Unlock Windows 11 Snip & Sketch Command</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-advanced-computing-a-dive-into-toms-hardware-analysis/"><u>Unveiling Advanced Computing: A Dive Into Tom's Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hard-drive-technology-with-tom/"><u>Unveiling the Latest in Hard Drive Technology with Tom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-guide-to-gadgets-and-gear-in-depth-reviews-by-toms-hardware-experts/"><u>Your Guide to Gadgets and Gear: In-Depth Reviews by Tom's Hardware Experts</u></a></li>
 </ul></div>
 

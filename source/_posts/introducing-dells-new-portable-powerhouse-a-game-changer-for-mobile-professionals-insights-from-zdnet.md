@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Portable Powerhouse: A Game Changer for Mobile Professionals - Insights From ZDNet"
-date: 2024-12-20T21:44:42.285Z
-updated: 2024-12-21T19:16:46.196Z
+date: 2024-12-22T23:39:34.897Z
+updated: 2024-12-27T22:03:56.044Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,22 +114,14 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms-for-2024/"><u>[New] Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-primewave-riders-most-fancied-and-binge-watched-originals-on-twitter/"><u>[New] In 2024, PrimeWave Riders Most Fancied & Binge-Watched Originals on Twitter</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-blend-mp3s-with-presentation-content-in-ppt/"><u>[Updated] 2024 Approved Blend MP3s with Presentation Content in PPT</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-maximize-impact-instagrams-ideal-video-resolution/"><u>[Updated] 2024 Approved Maximize Impact Instagram's Ideal Video Resolution</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/adatas-ddr5-memory-module-achieves-impressive-8118-million-transfers-per-second-speed/"><u>Adata's DDR5 Memory Module Achieves Impressive 8118 Million Transfers per Second Speed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/alder-lake-intel-core-i5-12400f-processor-a-comprehensive-review-of-the-high-performance-pentium-gold-g7400t-cpu-at-a-record-58ghz-overclock/"><u>Alder Lake Intel Core I5-12400F Processor: A Comprehensive Review of the High-Performance Pentium Gold G7400T CPU at a Record 5.8GHz Overclock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-electronics-with-toms-hardware-insights/"><u>Discover Cutting-Edge Electronics with Tom's Hardware Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-excellent-no-cost-digital-animation-software-your-ultimate-list/"><u>Discover Excellent No-Cost Digital Animation Software - Your Ultimate List!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-vince-lucidos-evga-rtx-3090-kingpn-a-potential-crowned-champion-of-the-rtx-series/"><u>Exploring Vince Lucido's EVGA RTX 지오팩스 3090 Kingp!n: A Potential Crowned Champion of the RTX Series</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/grab-your-guiltless-film-endings-with-our-template-service-for-2024/"><u>Grab Your Guiltless Film Endings with Our Template Service for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-humor-harvesters-making-memes-without-a-price-tag/"><u>In 2024, Humor Harvesters Making Memes Without a Price Tag</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/moving-dvds-to-your-surface-device-for-on-the-move-cinematic-experiences/"><u>Moving DVDs to Your Surface Device for On-the-Move Cinematic Experiences</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-core-i9-11900k-cpu-reaches-peak-performance-at-7-ghz-using-liquid-nitrogen-cooling/"><u>Revolutionary Core I9-11900K CPU Reaches Peak Performance at 7 GHz Using Liquid Nitrogen Cooling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-gear-precision-in-computing-devices/"><u>Tom's Tech Gear: Precision in Computing Devices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unveiling-the-latest-in-computer-hardware-t17239718671413/"><u>Tom's Tech Insights: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-cutting-edge-concepts-for-captivating-youtube-video-thumbnails/"><u>[New] 2024 Approved Cutting-Edge Concepts for Captivating YouTube Video Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-quick-route-to-joy-embracing-the-ifunny-meme-app-for-2024/"><u>[Updated] The Quick Route to Joy Embracing the iFunny Meme App for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/entry-level-drone-excellence-reviewing-the-syma-xx5c-racing-quadcopters-value-and-performance/"><u>Entry-Level Drone Excellence: Reviewing the SYMA X#X5C Racing Quadcopter's Value and Performance</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expanded-raspberry-pi-connect-enhances-ssh-capabilities-and-welcomes-legacy-model-compatibility/"><u>Expanded Raspberry Pi Connect Enhances SSH Capabilities and Welcomes Legacy Model Compatibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-the-raspberry-pi-revolutionizes-your-classic-sony-tape-recorder-with-seamless-wireless-audio-streaming/"><u>How the Raspberry Pi Revolutionizes Your Classic Sony Tape Recorder with Seamless Wireless Audio Streaming</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-computer-hardware-at-toms-review-sites/"><u>In-Depth Analysis of Computer Hardware at Tom's Review Sites</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-future-with-raspberry-pi-5-meet-bender-your-ai-powered-personal-assistant-inspired-by-futurama/"><u>Introducing the Future with Raspberry Pi 5: Meet Bender, Your AI-Powered Personal Assistant Inspired by Futurama</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-sa/"><u>New In 2024, Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-the-sensational-deal-on-quest-3-with-512gb-storage-metas-latest-offer-that-dominates-the-vr-market-zdnet-insight/"><u>Snag the Sensational Deal on Quest 3 with 512GB Storage - Meta's Latest Offer That Dominates the VR Market | ZDNET Insight</u></a></li>
 </ul></div>
 

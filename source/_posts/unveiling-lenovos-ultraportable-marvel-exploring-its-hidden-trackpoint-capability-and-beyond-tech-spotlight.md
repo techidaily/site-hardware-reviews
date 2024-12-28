@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Lenovo's Ultraportable Marvel: Exploring Its Hidden Trackpoint Capability and Beyond | Tech Spotlight"
-date: 2024-12-08T19:44:41.077Z
-updated: 2024-12-12T20:51:36.216Z
+date: 2024-12-26T18:28:19.648Z
+updated: 2024-12-27T21:20:06.401Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -77,7 +77,7 @@ The red TrackPoint on the keyboard has a new function to it. You can still use i
 Lastly, there are only three ports available: two USB-C inputs and a headphone jack. That may sound rather disappointing, but keep in mind that the ThinkPad Z13 is an ultraportable laptop. You have to expect such sacrifices on a computer this thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -116,18 +116,22 @@ It is configurable so you can add more to the laptop -- such as larger storage s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-assessing-cloud-storage-fees-comparisons-and-optimal-prices/"><u>[Updated] Assessing Cloud Storage Fees Comparisons & Optimal Prices</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/corsairs-revolutionary-rmx-series-psu-units-with-innovative-side-mounted-modularity/"><u>Corsair's Revolutionary RMx Series: PSU Units with Innovative Side-Mounted Modularity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/cyberpower-backup-units-face-fire-risk-users-warn/"><u>CyberPower Backup Units Face Fire Risk, Users Warn</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-worlds-smallest-atx-3n-psu-from-enermax-the-ultimate-choice-for-space-saving-rear-connector-enhanced-computer-builds/"><u>Discover the World’s Smallest ATX 3.n PSU From Enermax – The Ultimate Choice for Space-Saving, Rear-Connector Enhanced Computer Builds</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-storage-activating-windows-11s-compression/"><u>Efficient Storage: Activating Windows 11’S Compression</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/free-video-openers-to-increase-views/"><u>Free Video Openers to Increase Views</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-enhance-video-transmission-success-in-messenger-apps-for-iphone-android/"><u>In 2024, Enhance Video Transmission Success in Messenger Apps for iPhone, Android</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964495768-power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/power-up-with-corsairs-budget-friendly-1000-watt-sff-power-supply-unit-now-just-149/"><u>Power up with Corsair’s Budget-Friendly 1000-Watt SFF Power Supply Unit Now Just $149!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-performance-benchmarks/"><u>Tom's Tech Review: In-Depth Analysis and Performance Benchmarks</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/wallets-warrior-for-warm-sounds-a-closer-look-at-oneplus-buds/"><u>Wallet's Warrior for Warm Sounds – A Closer Look at OnePlus Buds</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[New] In 2024, How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-smart-eco-friendly-screen-tech-compilation/"><u>[New] In 2024, Smart, Eco-Friendly Screen Tech Compilation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-audiophiles-choice-premium-asmr-recording-mics/"><u>[Updated] 2024 Approved Audiophiles' Choice Premium ASMR Recording Mics</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/crucial-insights-evaluating-maxsuns-newest-micro-atx-marvel-the-z79astern-d5-ice-motherboard-with-5x-m2-support/"><u>Crucial Insights: Evaluating Maxsun's Newest Micro ATX Marvel, The Z79astern D5 Ice Motherboard With 5X M.2 Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-gadgets-with-toms-technology-review-platform/"><u>Dive Into Gadgets with Tom's Technology Review Platform</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insights-on-hostgators-cloud-and-shared-hosting-options-what-you-need-to-know/"><u>Expert Insights on HostGator's Cloud & Shared Hosting Options - What You Need to Know</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-guided-by-toms-expertise/"><u>Exploring Computer Hardware - Guided by Tom's Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reactivating-and-fixing-secure-boot-grayout-issue-in-bios/"><u>Guide to Reactivating and Fixing Secure Boot Grayout Issue in BIOS</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/"><u>In 2024, GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-insights-asus-rog-swift-oled-pg32ucdp-approaching-flawless-gaming-visuals/"><u>In-Depth Analysis & Insights: Asus ROG Swift OLED PG32UCDP - Approaching Flawless Gaming Visuals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-voice-chat-fixes-for-a-flawless-gameplay-experience-in-apex-legends/"><u>Mastering Voice Chat Fixes for a Flawless Gameplay Experience in Apex Legends</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-music-recovery-recover-deleted-music-from-motorola-razr-40-ultra-by-fonelab-android-recover-music/"><u>Motorola Razr 40 Ultra Music Recovery - Recover Deleted Music from Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/samsung-8tb-t5-nvme-ssd-steal-a-huge-discount-of-36-now-on-amazon-shop-smart-with-tech-insights/"><u>Samsung 8TB T5 NVMe SSD: Steal a Huge Discount of 36% Now on Amazon - Shop Smart with Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-revolutionary-m2-hatplus-addition-for-raspberry-pi-unveiling-a-new-era-of-cost-effective-lightning-fast-data-handling/"><u>The Revolutionary M.2 HAT+ Addition for Raspberry Pi: Unveiling a New Era of Cost-Effective, Lightning Fast Data Handling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-insights-from-toms-computer-gear-exploration/"><u>Unveiling the Insights From Tom's Computer Gear Exploration</u></a></li>
 </ul></div>
 

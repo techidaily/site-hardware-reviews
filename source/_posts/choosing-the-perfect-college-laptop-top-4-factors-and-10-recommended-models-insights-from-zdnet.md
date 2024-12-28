@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Perfect College Laptop: Top 4 Factors & 10 Recommended Models - Insights From ZDNet"
-date: 2024-12-09T01:37:57.098Z
-updated: 2024-12-13T02:20:41.545Z
+date: 2024-12-26T17:31:18.803Z
+updated: 2024-12-27T20:02:00.481Z
 tags:
   - laptops
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Determine what you'll use your laptop for
 
 Microsoft Surface Pro: deconstructed
@@ -55,7 +59,7 @@ Trust me, the worst thing you could do is settle for a lower-end machine that st
 It's also important to consider your degree program or area of study while selecting a laptop. Many institutions may list recommended laptop and hardware options, so be sure to check your university's online resources, connect with a department chair, or talk with other students in your area of study too. More often than not, specific programs like engineering or mathematics suggest [Windows PCs](https://www.zdnet.com/article/best-windows-laptop/) over [MacBooks](https://www.zdnet.com/article/best-mac/) due to the particular software and programming. At the same time, the laptop selection will matter less for other degrees. Regardless of which category you fall into, you'll still want to purchase a top-notch laptop equipped to get you through the next four years (and beyond).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Opt for a powerful GPU and display if you'll be studying:
@@ -64,10 +68,6 @@ It's also important to consider your degree program or area of study while selec
 * Photo editing, illustration
 * Video editing
 * 3D drafting
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Get a powerful processor if you'll be studying:
 
@@ -78,10 +78,6 @@ It's also important to consider your degree program or area of study while selec
 * Data and analytics
 * Multitasking with productivity apps
 * Anything else
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Assess your budget
 
@@ -98,6 +94,10 @@ Here's what kind of laptop you're likely to get based on its price:
 * **$1,000 - $1,500:** This is the middle tier, where most new laptops can be found. Machines in this tier will be balanced enough for most users and armed with hardware a few steps above the baseline.
 * **$1,500 - $2,000:** These are mid-plus laptops with upgraded components compared to those in the middle tier, typically with better displays, more storage, and faster processors.
 * **$2,000 and above:** This bracket includes high-end machines with state-of-the-art processors, GPUs, and expensive OLED screens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Get your student discount
 
@@ -135,6 +135,10 @@ Would you like to be able to switch your laptop to a tablet? If so, you'll want 
 
 [Acer Aspire Go 15 $427 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09YFVNK2Q%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1a3a087-b5bb-40c6-952a-bd6cc012174a%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## If you value portability
 
 If you're looking for a laptop that is above all else, light and easy to carry around, there are some great options out there that are defined by their portability. 
@@ -146,10 +150,6 @@ However, ultraportability does come with tradeoffs. In terms of design, the cons
 [Asus Vivobook S 15 $1,299 at Asus](https://www.awin1.com/awclick.php?mid=31828&id=423585&clickref=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&ued=https%3A%2F%2Fwww.asus.com%2Fus%2Flaptops%2Ffor-home%2Fvivobook%2Fasus-vivobook-s-15-s5507%2F)
 
 [LG Gram Pro 17 $2,500 at LG](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.anrdoezrs.net%2Flinks%2F9041660%2Ftype%2Fdlg%2Fsid%2Fzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%2Fhttps%3A%2F%2Fwww.lg.com%2Fus%2Flaptops%2Flg-17z90sp-e.adb9u1-gram-laptop)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If you prioritize battery power
 
@@ -174,7 +174,7 @@ Some common tips to extend the life of your battery include:
 [Lenovo IdeaPad Pro 5i $1,129 at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FLenovo-IdeaPad-Pro-5i-16-Touchscreen-Intel-Evo-Platform-Laptop-Intel-Core-Ultra-9-processor-185H-120HZ-OLED-2048-x-1280-Display-Windows-11%2F5793352944&subId1=zd-__COM_CLICK_ID__-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If you want a 2-in-1
@@ -243,22 +243,18 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-list-to-remember-reddits-highly-endorsed-top-threads/"><u>[New] A List to Remember Reddit’s Highly Endorsed Top Threads</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-flawless-cross-sound-mixing-in-audacity-pro/"><u>[New] In 2024, Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capture-every-moment-the-power-of-spring-screenrecorder/"><u>[Updated] In 2024, Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-11-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 11 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-latest-razer-blackwidow-driver-software-troubleshooting-help/"><u>Installing Latest Razer Blackwidow Driver Software | Troubleshooting Help</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/interactive-pong-game-on-raspberry-pi-pico-pov-technique-and-tailored-mouse-driver/"><u>Interactive Pong Game on Raspberry Pi Pico: POV Technique & Tailored Mouse Driver</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/open-source-ultimate-tool-the-raspberry-pi-rp2vecky-hackbat-for-comprehensive-penetration-testing/"><u>Open-Source Ultimate Tool: The Raspberry Pi RP2vecky HackBat for Comprehensive Penetration Testing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-security-compromise-issue-in-video-games/"><u>Overcoming the 'Security Compromise' Issue in Video Games</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-reveals-plans-for-ipo-on-the-london-stock-exchange/"><u>Raspberry Pi Reveals Plans for IPO on the London Stock Exchange</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-diy-raspberry-pi-creation-unveiling-the-pi-1000-a-powerhouse-of-5-raspberry-units/"><u>Revolutionary DIY Raspberry Pi Creation - Unveiling the 'Pi 1000': A Powerhouse of 5 Raspberry Units!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplicity-in-complexity-your-gpt-4-journey/"><u>Simplicity in Complexity: Your GPT-4 Journey</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/tailoring-voice-effects-a-comprehensive-instruction-for-audacity-users-on-autotune-use-for-2024/"><u>Tailoring Voice Effects A Comprehensive Instruction for Audacity Users on Autotune Use for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-modern-resurrection-of-classic-computers-a-tale-of-raspberry-pi-3d-printers-and-a-vintage-trs-80-revival/"><u>The Modern Resurrection of Classic Computers: A Tale of Raspberry Pi, 3D Printers, and a Vintage TRS-80 Revival</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-your-guide-to-the-best-tech-gear/"><u>Tom's Computer Components: Your Guide to the Best Tech Gear</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-entertainment-hub-raspberry-pi-cm4-core-with-integrated-sports-features-and-gpio-extension-ports/"><u>Ultimate Entertainment Hub: Raspberry Pi CM4 Core with Integrated Sports Features and GPIO Extension Ports</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/upgrading-your-raspberry-pi-model-bplus-with-16gb-memory-successes-and-pitfalls/"><u>Upgrading Your Raspberry Pi Model B+ with 16GB Memory: Successes and Pitfalls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-virtual-seminar-title-craftsman/"><u>[Updated] Premier Virtual Seminar TITLE CRAFTSMAN</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch/"><u>2024 Approved Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-iphone-photography-top-app-picks-x-7/"><u>2024 Approved Prime iPhone Photography Top App Picks (X, 7)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breakdown-the-wonky-delta-design-and-swift-performance-of-flsun-s1-solar-panels/"><u>Breakdown: The Wonky Delta Design & Swift Performance of FLSun S1 Solar Panels</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-comprehensive-computer-hardware-reviews-and-insights/"><u>Discover Tom's Comprehensive Computer Hardware Reviews & Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/from-basics-to-advanced-selecting-premium-components-with-toms-hardware-guidance/"><u>From Basics to Advanced: Selecting Premium Components with Tom's Hardware Guidance</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-audio-file-fusion-seamless-conversion-from-srt-to-other-formats/"><u>In 2024, Audio File Fusion Seamless Conversion From SRT to Other Formats</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovo-unveils-top-3-new-features-for-legion-go/"><u>Lenovo Unveils Top 3 New Features for Legion Go</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-modern-electronics-wisdom-from-toms-hardware-gurus/"><u>Navigating Modern Electronics: Wisdom From Tom's Hardware Gurus</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-creme-de-la-creativite-youtube-subscriber-list/"><u>The Crème De La Créativité YouTube Subscriber List</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-toms-hardware-comprehensive-tech-insights/"><u>The Ultimate Guide to Tom's Hardware: Comprehensive Tech Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Review: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/yl-software-solutions-the-ultimate-tutorial-for-audio-editing-in-windows-environments/"><u>YL Software Solutions: The Ultimate Tutorial for Audio Editing in Windows Environments</u></a></li>
 </ul></div>
 

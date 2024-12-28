@@ -1,7 +1,7 @@
 ---
 title: "Introducing Dell's New Gaming Powerhouse: A Portable Performer for Work & Play - Insights"
-date: 2024-12-08T01:41:16.463Z
-updated: 2024-12-12T22:59:45.952Z
+date: 2024-12-25T19:23:56.166Z
+updated: 2024-12-27T17:34:17.669Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,18 +114,17 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[New] 2024 Approved Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-insider-secrets-to-record-sims-gaming/"><u>[New] 2024 Approved Insider Secrets to Record Sims Gaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-gain-traction-on-youtube-deciphering-ranking-principles/"><u>[Updated] 2024 Approved Gain Traction on YouTube Deciphering Ranking Principles</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-power-of-pausing-incorporating-effective-chapters-in-your-youtube-series/"><u>[Updated] The Power of Pausing Incorporating Effective Chapters in Your YouTube Series</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-pro-models-a-detailed-comparison-of-the-latest-flagship-tablets-from-apple-tech-advice/"><u>Choosing Between iPad Pro Models: A Detailed Comparison of the Latest Flagship Tablets From Apple | Tech Advice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-software-and-more-at-toms-tech-destination/"><u>Delving Into Hardware, Software, and More at Tom's Tech Destination</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-devices-through-toms-equipment-insights/"><u>Discover Cutting-Edge Devices Through Tom's Equipment Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-the-thrill-of-affordable-quality-with-a-sceptre-24-curved-display-at-only-79/"><u>Experience the Thrill of Affordable Quality with a Sceptre 24 Curved Display at Only $79</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unparalleled-gaming-with-the-alienware-aw225df-the-ultimate-review-of-a-360hz-oled-display/"><u>Experience Unparalleled Gaming with the Alienware AW2^®25DF - The Ultimate Review of a 360Hz OLED Display</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-methods-for-downloading-and-setting-up-toshiba-printer-drivers-in-windows/"><u>Quick and Easy Methods for Downloading & Setting up Toshiba Printer Drivers in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-strengths-of-the-long-range-capable-uniden-r3-a-reviewers-perspective/"><u>Uncovering the Strengths of the Long-Range Capable Uniden R3 - A Reviewer's Perspective</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-effortless-gif-tweets-the-future-of-social-media-2024-edition/"><u>[New] Effortless Gif Tweets The Future of Social Media, 2024 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>[Updated] In 2024, Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-roundup-top-performing-key-finder-gadgets/"><u>Expert Roundup: Top-Performing Key Finder Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-isdonedll-failures-in-your-windows-11-system/"><u>How to Fix ISDone.dll Failures in Your Windows 11 System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/streamline-your-messaging-experience-by-organizing-telegram-chats-into-folders-dont-make-my-mistake/"><u>Streamline Your Messaging Experience by Organizing Telegram Chats Into Folders - Don't Make My Mistake!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-great-shift-embracing-a-smartphone-era-for-superior-accessibility-and-functionality/"><u>The Great Shift: Embracing a Smartphone Era for Superior Accessibility and Functionality</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-15-best-looking-android-games-a-match-for-console-quality/"><u>Top 15 Best-Looking Android Games: A Match for Console Quality</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/transparent-brilliance-unveiled-the-second-look-at-the-nothing-phone/"><u>Transparent Brilliance Unveiled: The Second Look at the Nothing Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-corsair-hs70-headset-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Corsair HS70 Headset Microphone</u></a></li>
 </ul></div>
 

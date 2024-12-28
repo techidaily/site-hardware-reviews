@@ -1,7 +1,7 @@
 ---
 title: Get a Powerhouse 15-Inch Asus Notebook at an Unbeatable Price of $2ˈ/ ZDNET's Inside Scoop on Walmart’s Latest Offer!
-date: 2024-12-19T08:19:06.825Z
-updated: 2024-12-21T22:58:03.852Z
+date: 2024-12-26T19:05:40.908Z
+updated: 2024-12-27T18:03:18.205Z
 tags:
   - laptops
 categories:
@@ -26,7 +26,7 @@ HP includes an Nvidia GeForce RTX 3050 graphics card and a screen capable of a 1
 With 8GB of RAM, a 512GB SSD, and an Intel Core i5-12450H series processor, this system has quick speeds and the ability to put the power to where your system needs it most. But, you'd think with all the powerful components in this laptop, the battery life would suffer. Wrong. This laptop features a battery that can last up to 8 hours and 15 minutes while being able to be charged up to 50% in as little as 30 minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -63,24 +63,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-your-best-freefire-videos-with-key-insights/"><u>[Updated] 2024 Approved Unlock Your Best FreeFire Videos with Key Insights</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enhancing-your-viewing-experience-recording-overwatch-games/"><u>2024 Approved Enhancing Your Viewing Experience Recording Overwatch Games</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-humorous-hits-lifetime-access-to-memes/"><u>2024 Approved Humorous Hits Lifetime Access to Memes</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/antecs-p20c-high-airflow-chassis-now-at-a-steal-unbeatable-71-deal-on-top-tier-cases/"><u>Antec's P20C High-Airflow Chassis Now at a Steal: Unbeatable $71 Deal on Top-Tier Cases</u></a></li>
-<li><a href="https://facebook.techidaily.com/big-investment-facebooks-5-million-venture-in-writer-focused-platforms/"><u>Big Investment: Facebook's $5 Million Venture in Writer-Focused Platforms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expertly-selected-best-9-video-conference-apps-for-cross-platform-use-for-2024/"><u>Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-hardware-with-tom-insightful-guides-for-savvy-shoppers/"><u>Exploring Computer Hardware with Tom: Insightful Guides for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964475970-get-the-ultimate-cooling-with-lian-lis-lancool-iii-for-only-119-the-best-deal-on-pc-gear-today/"><u>Get the Ultimate Cooling with Lian Li's Lancool III for Only $119 – The Best Deal on PC Gear Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-logitech-mx-master-software/"><u>How to Get Logitech MX Master Software</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-drone-buddies-kids-most-enjoyed-toy-companions/"><u>In 2024, Best Drone Buddies Kids' Most Enjoyed Toy Companions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-electronics-hub-unveiling-cutting-edge-computer-gear-and-accessories/"><u>Inside Tom's Electronics Hub: Unveiling Cutting-Edge Computer Gear and Accessories</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-deepcool-mini-itx-pc-chassis-equipped-with-a-convenient-handling-loop-and-extensive-ventilation/"><u>Introducing the New DeepCool Mini-ITX PC Chassis: Equipped with a Convenient Handling Loop and Extensive Ventilation</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gaming-rigs-with-the-durable-high-capacity-cooler-master-ncore-100-max-standalone-chassis/"><u>Mastering Gaming Rigs with the Durable, High-Capacity Cooler Master NCore 100 Max Standalone Chassis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneer-in-pc-analysis-unlocking-performance-with-toms-gear-reviews/"><u>Pioneer in PC Analysis - Unlocking Performance with Tom's Gear Reviews</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/top-11-video-transcoding-tools-for-windows-11-desktop-and-web-solutions/"><u>Top 11 Video Transcoding Tools for Windows 11: Desktop & Web Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-choices-for-tiny-tower-tech-expert-recommendations-on-slim-case-selections/"><u>Top Choices for Tiny Tower Tech : Expert Recommendations on Slim Case Selections</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964476216-unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-no-pay-all-praise-tailor-made-outro-videos-here/"><u>[New] No Pay, All Praise Tailor-Made Outro Videos Here</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-how-to-get-paid-to-review-products-on-youtube/"><u>[Updated] 2024 Approved How to Get Paid to Review Products on YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-authenticity-focused-tiktok-followers-buying-guide-for-2024/"><u>[Updated] Authenticity-Focused TikTok Followers Buying Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mastering-autofocus-on-iphone-a-step-by-step-approach/"><u>2024 Approved Mastering Autofocus on iPhone A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/png3/"><u>高品質PNGを動画形式に変換するための3つのコツとテクニック</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-the-excellence-of-current-motorola-mobile-devices/"><u>Discovering the Excellence of Current Motorola Mobile Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/diy-personalized-android-user-interface-creation-using-cost-free-tools/"><u>DIY Personalized Android User Interface Creation Using Cost-Free Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/embracing-the-night-my-journey-into-a-world-of-dark-modes/"><u>Embracing the Night: My Journey Into a World of Dark Modes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enhance-your-eye-comfort-on-android-devices-with-these-simple-brightness-adjustments/"><u>Enhance Your Eye Comfort on Android Devices with These Simple Brightness Adjustments!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-differences-essential-aspects-of-samsungs-ecosystem-not-found-in-the-google-universe-a-comprehensive-guide-for-switchers/"><u>Experience Differences: Essential Aspects of Samsung's Ecosystem Not Found in the Google Universe – A Comprehensive Guide for Switchers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-disabling-intrusive-notification-alerts-on-android-devices/"><u>Guide: Disabling Intrusive Notification Alerts on Android Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-a-step-by-step-guide-to-crafting-facebook-visual-stories/"><u>In 2024, A Step-by-Step Guide to Crafting Facebook Visual Stories</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-xs-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone XS Properly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/limited-time-tech-offers-get-the-new-pixel-8-pro-and-other-high-value-deals-now/"><u>Limited-Time Tech Offers: Get the New Pixel 8 Pro & Other High-Value Deals Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-android-security-a-guide-to-activating-and-utilizing-lockdown-mode/"><u>Mastering Android Security: A Guide to Activating and Utilizing Lockdown Mode</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-file-management-on-android-a-comprehensive-guide/"><u>Mastering File Management on Android: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/professionals-palette-prowess-color-command-secrets/"><u>Professionals' Palette Prowess - Color Command Secrets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-troubleshooting-for-avcodecdll-file-not-found-issues-on-your-pc/"><u>Quick Troubleshooting for Avcodec.dll File Not Found Issues on Your PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-black-screen-errors-for-call-of-duty-wwii-on-pc-with-windows-a-comprehvewled-guide/"><u>Resolving Black Screen Errors for Call of Duty: WWII on PC with Windows - A Comprehvewled Guide</u></a></li>
 </ul></div>
 

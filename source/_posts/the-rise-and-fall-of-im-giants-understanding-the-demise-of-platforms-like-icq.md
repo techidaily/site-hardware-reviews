@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Fall of IM Giants: Understanding the Demise of Platforms Like ICQ"
-date: 2024-09-17 14:57:28
-updated: 2024-09-20 11:29:43
+date: 2024-12-25T19:40:13.731Z
+updated: 2024-12-27T21:36:05.870Z
 tags:
   - networking
 categories:
@@ -62,11 +62,35 @@ To check out the extensions ready now for Firefox on Android, head to the Androi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigating-the-2023-landscape-for-screen-captures-and-ppts/"><u>[New] 2024 Approved Navigating the 2023 Landscape for Screen Captures & PPTs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-still-shots-to-soundscapes-an-instagram-mp3-journey-for-2024/"><u>[New] From Still Shots to Soundscapes An Instagram-MP3 Journey for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-powerful-path-to-stellar-videos-top-free-intro-makers/"><u>[Updated] 2024 Approved The Powerful Path to Stellar Videos Top Free Intro Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-work-efficiency-select-6-best-pc-monitoring-apps/"><u>Boost Work Efficiency: Select 6 Best PC Monitoring Apps</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-superior-pc-components-through-toms-hardware-guidance/"><u>Discover Superior PC Components Through Tom's Hardware Guidance</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-online-presence-share-instagram-reels-on-your-facebook-feed/"><u>Enhancing Online Presence: Share Instagram Reels on Your Facebook Feed</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-highpoint-rocket-1608a-usb-expansion-card-enhanced-storage-and-performance/"><u>Expert Analysis of HighPoint Rocket 1608A USB Expansion Card - Enhanced Storage and Performance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-insiders-guide-to-mastering-windows-10/"><u>In 2024, The Insider's Guide to Mastering WINDOWS 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-asus-zenbook-s16-with-amds-ryzen-5-8600h-processor/"><u>In-Depth Analysis of the Asus Zenbook S16 with AMD's Ryzen 5 8600H Processor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reduced-waste-lifestyle/"><u>Reduced Waste Lifestyle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-streaming-made-simple-linking-your-android-device-with-amazons-firestick/"><u>Seamless Streaming Made Simple: Linking Your Android Device with Amazon's Firestick</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tech-enthusiasts-hub-top-reviews-and-buying-advice-from-toms-hardware/"><u>Tech Enthusiasts’ Hub: Top Reviews and Buying Advice From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-unveiling-the-top-5-pros-of-52-pi-ice-tower-plus-for-your-raspberry-pi-4/"><u>Ultimate Guide: Unveiling the Top 5 Pros of '52-Pi Ice Tower Plus' For Your Raspberry Pi 4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-dex-power-bridge-galaxy-and-windows-effortlessly/"><u>Unleashing DeX Power: Bridge Galaxy & Windows Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341719697-unveil-the-latest-in-hardware-at-toms-technical-blog-stay-ahead-of-innovations/"><u>Unveil the Latest in Hardware at Tom's Technical Blog – Stay Ahead of Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-gadget-gazette-authoritative-reviews-and-buying-advice/"><u>Unveiling Tech Secrets with Tom's Gadget Gazette: Authoritative Reviews & Buying Advice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/what-are-the-best-site-to-promote-youtube-videos/"><u>What Are the Best Site to Promote YouTube Videos</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

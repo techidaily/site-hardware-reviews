@@ -1,7 +1,7 @@
 ---
 title: "Battle of Powerhouses: How Our $4K Durable Laptop Challenges the Dell Latitude on Performance"
-date: 2024-12-17T19:52:56.756Z
-updated: 2024-12-22T03:41:00.604Z
+date: 2024-12-25T16:02:49.075Z
+updated: 2024-12-27T19:39:25.896Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ I spent a good hour and a half moving from station to station, from 240Hz ultraw
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The numbers don't lie
@@ -47,7 +47,7 @@ There I was, with two relatively large-sized, ultraportable laptops and a digita
 The LG Gram Pro 16 2-in-1 had already set the mark at 3.04 pounds. Then came the 15-inch MacBook Air, clocking in at 3.51 pounds. A slight sigh of relief could be felt behind me. How exactly does LG achieve this weight? They're chalking it up to the nano-magnesium alloy construction, which feels more plasticky than the MacBook's all-aluminum build, but which is noticeably lighter in the hand, especially when I moved the laptops around for pictures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. It's all about the use of space
@@ -61,7 +61,7 @@ The curvatures of the LG Gram Pro edges also mean that the company can fit more 
 As someone who still relies on legacy devices, such as hard drives, that have USB-A ports, the presence of the standard and added flexibility of the Gram makes it a better productivity laptop for me. It also helps to have the HDMI slot for when you're traveling and want to connect to a hotel TV or monitor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. OLED makes all the difference
@@ -75,7 +75,7 @@ Don't get me wrong, the Liquid Retina (IPS) display on the 15-inch MacBook Air i
 LG offers the new Gram Pro laptops in IPS and OLED variants, but the latter versions that I tested at the venue were noticeably sharper and more color-accurate. It helped that LG had set black wallpapers on the demo units, which made the individual icons and self-emissive pixels pop a little more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,17 +114,19 @@ LG prices its [OLED Gram Pro laptops](https://shop-links.co/link/?exclusive=1&pu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-securing-youtube-partnership-a-comprehensive-guide-for-video-creators-for-2024/"><u>[Updated] Securing YouTube Partnership A Comprehensive Guide for Video Creators for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-speaking-medias-language-mastering-srt-conversions-for-2024/"><u>[Updated] Speaking Media's Language Mastering SRT Conversions for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-buys-ryzen-ai-300-laptops-delayed-to-july-28th-explore-updated-availability-online/"><u>Best Buy's Ryzen AI 300 Laptops Delayed to July 28Th – Explore Updated Availability Online</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-with-toms-digital-world-your-guide-to-gadgets-and-components/"><u>Delving Into Hardware with Tom's Digital World: Your Guide to Gadgets and Components</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/digital-insights-with-toms-hardware-guides/"><u>Digital Insights with Tom's Hardware Guides</u></a></li>
-<li><a href="https://fox-within.techidaily.com/expert-level-media-control-panel/"><u>Expert-Level Media Control Panel</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-leap-in-computing-global-premiere-risc-v-laptop-receives-unprecedented-core-and-speed-enhancements-including-state-of-the-art-ai-features/"><u>Groundbreaking Leap in Computing: Global Premiere RISC-V Laptop Receives Unprecedented Core and Speed Enhancements, Including State-of-the-Art AI Features</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hps-omnibook-ultra-14-the-future-of-laptop-innovation-with-integrated-amd-ryzen-ai-300-chipset-and-top-notch-thunderbolt-4-speed/"><u>HP's OmniBook Ultra 14: The Future of Laptop Innovation with Integrated AMD Ryzen AI 300 Chipset & Top-Notch Thunderbolt 4 Speed</u></a></li>
-<li><a href="https://article-files.techidaily.com/integrating-yt-music-into-video-editing-suites/"><u>Integrating YT Music Into Video Editing Suites</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/optimieren-sie-ihre-datensicherheit-festplattenloschen-im-einklang-mit-milspec-dod-522022-m-auf-windows-systemen/"><u>Optimieren Sie Ihre Datensicherheit: Festplattenlöschen Im Einklang Mit MILSPEC DoD 5220.22-M Auf Windows Systemen</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-pro-microphone-issues-expert-advice-for-fixes/"><u>Solved! SteelSeries Arctis Pro Microphone Issues – Expert Advice for Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-tug-of-war-can-ai-improve-mental-health-or-hinder-it/"><u>The Tug-of-War: Can AI Improve Mental Health or Hinder It?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-9-free-youtube-logo-makers/"><u>[New] In 2024, Best 9 Free YouTube Logo Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-cost-free-match-mastery-how-to-stream-and-slice/"><u>[New] In 2024, Cost-Free Match Mastery How to Stream and Slice</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-groan-inducing-humor-in-hits/"><u>[New] In 2024, Groan-Inducing Humor in Hits</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-bring-your-vision-online-mobilizing-content-creation-with-ease-and-simplicity/"><u>[Updated] Bring Your Vision Online Mobilizing Content Creation with Ease and Simplicity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-about-facetune-in-depth-user-guide-and-analysis-for-2024/"><u>All About Facetune In-Depth User Guide & Analysis for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-x100-pro-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo X100 Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-smart-8-hd-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Smart 8 HD FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-high-performance-hardware-with-tomtechspotlight/"><u>Navigating the World of High-Performance Hardware with TomTechSpotlight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/qualcomm-x-series-processors-set-to-triple-dell-xps-13plus-laptop-lifespans-at-half-the-price-of-intel-counterparts/"><u>Qualcomm X Series Processors Set to Triple Dell XPS 13+ Laptop Lifespans at Half the Price of Intel Counterparts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-altering-video-pace-in-instagram-stories-for-2024/"><u>Quick Tips Altering Video Pace in Instagram Stories for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reign-in-windows-stop-unwanted-screen-movement/"><u>Reign In Windows: Stop Unwanted Screen Movement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/technical-glitch-or-danger-a-fiery-laptop-sparks-urgent-exodus-from-an-american-airlines-airliner/"><u>Technical Glitch or Danger? A Fiery Laptop Sparks Urgent Exodus From an American Airlines Airliner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-on-pc-hardware-by-tom-explore-and-learn/"><u>The Ultimate Resource on PC Hardware by Tom - Explore and Learn</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-your-guide-to-advanced-computer-components/"><u>Tom's Tech Insights: Your Guide to Advanced Computer Components</u></a></li>
 </ul></div>
 

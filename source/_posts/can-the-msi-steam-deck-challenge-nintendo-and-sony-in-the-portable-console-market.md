@@ -1,7 +1,7 @@
 ---
 title: Can the MSI Steam Deck Challenge Nintendo and Sony in the Portable Console Market?
-date: 2024-12-16T10:07:35.474Z
-updated: 2024-12-21T18:47:43.235Z
+date: 2024-12-22T23:29:07.849Z
+updated: 2024-12-27T23:09:12.657Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,17 +140,19 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-zaraz.techidaily.com/1-gratuit-verblijf-van-file-verwijdering-tien-mogelijke-methoden/"><u>1. Gratuit Verblijf Van File-Verwijdering - Tien Mogelijke Methoden</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862748367-affordable-xiaomi-g34wqi-34-screen-review-exceptional-gamers-display-with-vivid-colors-at-180hz/"><u>Affordable Xiaomi G34WQI 34 Screen Review: Exceptional Gamers' Display with Vivid Colors at 180Hz</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-xr-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone XR Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862758543-get-your-hands-on-a-premium-240hz-gaming-monitor-acer-nitro-for-just-159/"><u>Get Your Hands on a Premium 240Hz Gaming Monitor – Acer Nitro, for Just $159!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-recognition-failures-of-usb-gadgets-win-78/"><u>Overcoming Recognition Failures of USB Gadgets Win 7/8</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-players-manual-ensuring-smooth-operation-of-vr-titles-without-crashes/"><u>PC Players' Manual: Ensuring Smooth Operation of VR Titles Without Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-iphone-interactivity-exploring-benefits-as-apple-integrates-nfc-with-app-makers-innovations-gizmodo/"><u>The Future of iPhone Interactivity: Exploring Benefits as Apple Integrates NFC with App Makers' Innovations | Gizmodo</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitters-hilarious-highlights-for-2024/"><u>Twitter's Hilarious Highlights for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-with-toms-electronics-analysis/"><u>Unveiling the Latest in Computing with Tom’s Electronics Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-like-a-pro-top-free-wmv-video-editors/"><u>Updated Edit Like a Pro Top Free WMV Video Editors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/xiaomis-budget-gaming-masterpiece-the-34-180hz-display-with-exceptional-color-and-contrast-unveiled-in-comprehensive-reveiw/"><u>Xiaomi's Budget Gaming Masterpiece: The 34 180Hz Display with Exceptional Color & Contrast Unveiled in Comprehensive Reveiw</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-one-stop-destination-for-high-performance-hardware-toms-insights/"><u>Your One-Stop Destination for High-Performance Hardware: Tom's Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-harness-the-power-of-engagement-in-instagram-videos/"><u>[New] Harness the Power of Engagement in Instagram Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hats-new-in-youtube-tv-updates-and-features/"><u>[New] What's New in YouTube TV Updates & Features?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brighter-horizons-is-intense-light-for-hdr-right/"><u>[Updated] Brighter Horizons Is Intense Light for HDR Right?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-iphone-visual-capture-selective-photo-and-video-tools/"><u>2024 Approved Maximize iPhone Visual Capture Selective Photo & Video Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-top-6-best-webcams-for-zoom/"><u>2024 Approved Top 6 Best Webcams for Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-solution-to-horizon-forbidden-west-pc-crashes-optimization-tips-and-tricks/"><u>Complete Solution to Horizon Forbidden West PC Crashes - Optimization Tips & Tricks</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-tom-hardware-insights/"><u>Exploring Technology with Tom: Hardware Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-alert-enjoy-the-cutting-edge-technology-with-a-sceptre-curved-monitor-at-an-incredible-discounted-rate-of-79/"><u>Gamers Alert! Enjoy the Cutting-Edge Technology with a Sceptre Curved Monitor at an Incredible Discounted Rate of $79</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-a60s-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel A60s Lock Screen Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862836975-transform-your-gaming-experience-with-the-alienware-curved-34-inch-oled-available-for-749-at-best-buy/"><u>Transform Your Gaming Experience with the Alienware Curved 34 Inch OLED - Available for $749 at Best Buy!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862802096-vaio-takes-portability-to-new-heights-the-worlds-lightest-screen-the-visionplus-n/"><u>Vaio Takes Portability to New Heights: The World’s Lightest Screen, the Vision+ N.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725289165026-winxvideo-ai/"><u>WinxVideo AIでの動画上書き - クリーンかつハイクオリティな解決手法</u></a></li>
 </ul></div>
 

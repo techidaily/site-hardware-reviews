@@ -1,7 +1,7 @@
 ---
 title: "Top Cyber Monday Game Discounts of 2024: Secure Your Savings Up to $1K Before Time Runs Out! Explore the Best Deals"
-date: 2024-12-16T09:52:01.355Z
-updated: 2024-12-21T22:11:31.754Z
+date: 2024-12-21T23:05:59.851Z
+updated: 2024-12-27T21:43:16.890Z
 tags:
   - laptops
 categories:
@@ -132,10 +132,6 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -147,6 +143,10 @@ ZDNET
 * [Corsair Virtuoso RGB Wireless XT wireless gaming headset for $168 (save $102 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-VIRTUOSO-WIRELESS-High-Fidelity-Bluetooth%2Fdp%2FB09BXZKNDB%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A high-end wireless gaming headset with Dolby Atmos support, iCUE RGB lighting control, and a broadcast-grade microphone.
 * [Razer Wolverine V2 Chroma for $60 (save $90)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Wolverine-Chroma-Gaming-Controller-x%2Fdp%2FB09CKFSRK7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A wired, pro-style controller for the Xbox Series X|S console featuring RGB lighting, programmable buttons, and an ergonomic design for marathon gaming.
 * [Starfield standard edition for $40 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FStarfield-Standard-Xbox-X%2Fdp%2FB0C7PN2L5V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): Bethesda's latest action RPG has players exploring more than 1,000 planets to gather resources and allies.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## October Prime Day Nintendo deals still available
 
@@ -177,10 +177,6 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -206,10 +202,6 @@ Samsung/ZDNET
 * [Corsair Scimitar Elite RGB wireless for $100 (save $30)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCORSAIR-SCIMITAR-ELITE-WIRELESS-Gaming%2Fdp%2FB0CCVYHZ9N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): A wireless mouse designed for MOBAs and MMOs with 16 programmable buttons and a 150-hour battery life.
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C966aafaf-082a-4331-8553-866bbe08d50a%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day graphics card deals still available
 
 * [Asus TUF Nvidia GeForce RTX 4070 Ti for $750 (save $110 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fasus-nvidia-geforce-rtx-4070-ti-tuf-overclock-12gb-gddr6x-pci-express-4-0-graphics-card-black%2F6529351.p%3FskuId%3D6529351&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): This GPU offers 12GB of VRAM, support for up to 4 displays, and 8K video output.
@@ -217,27 +209,35 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 I only chose deals on games that have been critically and commercially well-received, as well as accessories and peripherals from well-known and reputable brands like Razer and Logitech. I also only included deals that offered at least a 15 percent discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best October Prime Day 2024 deals?
 
@@ -304,16 +304,21 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-uniting-zoom-and-skype-techniques-to-maximize-video-call-quality/"><u>[New] 2024 Approved Uniting Zoom and Skype Techniques to Maximize Video Call Quality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-creative-lens-based-text-twists/"><u>[New] In 2024, Creative Lens-Based Text Twists</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-podcast-titling-evolution-10-ai-generators-to-watch/"><u>[New] Podcast Titling Evolution 10 AI Generators to Watch</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastering-slides-with-youtube-content/"><u>2024 Approved Mastering Slides with YouTube Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-moto-g34-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Moto G34 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138594151-9781452542430-talking-to-yourself-is-not-crazy/"><u>Talking to Yourself Is Not Crazy | Free Book</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-cutting-edge-electronics/"><u>Tom's Tech Review: In-Depth Analysis of Cutting-Edge Electronics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-computer-and-hardware-guides/"><u>Tom's Tech Review: In-Depth Computer & Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-ultimate-guide-to-computing-gear-and-innovations/"><u>Tom's Tech Review: Ultimate Guide to Computing Gear and Innovations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-on-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Insights on Computer Hardware</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-deconstructing-the-fisheye-effect-in-your-gopro-videos/"><u>[Updated] Deconstructing the Fisheye Effect in Your GoPro Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-fine-tuning-your-obs-live-feeds-for-facebook-audience-for-2024/"><u>[Updated] Fine-Tuning Your OBS Live Feeds for Facebook Audience for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-educational-history-series-the-most-engaging-ones/"><u>[Updated] In 2024, Educational History Series - The Most Engaging Ones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-photo-wit-funnypictorials-for-2024/"><u>[Updated] Photo Wit FunnyPictorials for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-top-8-proven-video-growth-enhancers-for-2024/"><u>[Updated] Top 8 Proven Video Growth Enhancers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-silencing-your-zoom-meeting-with-ease-a-step-by-step-guide/"><u>1. Silencing Your Zoom Meeting with Ease: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy S24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bend-the-competition-with-our-2024-ranking-of-superior-curved-gaming-monitors/"><u>Bend the Competition with Our 2024 Ranking of Superior Curved Gaming Monitors</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/compact-convenient-and-cost-effective-in-depth-review-of-the-eyoyo-em1/"><u>Compact, Convenient, and Cost-Effective: In-Depth Review of the EYOYO EM1</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-reviews-by-toms-gear-experts-discover-top-hardware-choices/"><u>Comprehensive Reviews by Tom's Gear Experts: Discover Top Hardware Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discounted-deal-alienwares-aw3225qf-gaming-monitor-with-qd-oled-4k-technology-and-240-hz-refresh-rate-grab-100-off/"><u>Discounted Deal: Alienware's AW3225QF Gaming Monitor with QD-OLED 4K Technology & 240 Hz Refresh Rate - Grab $100 Off</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-high-performance-components-with-toms-gear-insights/"><u>Discover High-Performance Components with Tom's Gear Insights</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-the-latest-gadgets-trustworthy-insights-from-toms-hardware/"><u>Discover the Latest Gadgets | Trustworthy Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dominate-the-digital-battlefield-with-cooler-masters-giant-super-wide-57-mini-led-and-dual-uhd-monitor-for-gamers/"><u>Dominate the Digital Battlefield with Cooler Master's Giant Super Wide, 57 Mini LED & Dual-UHD Monitor for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-connection-integrating-your-firestick-with-a-projector-device/"><u>Mastering the Connection: Integrating Your Firestick With A Projector Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sculpting-speed-at-winter-olympics-for-2024/"><u>Sculpting Speed at Winter Olympics for 2024</u></a></li>
 </ul></div>
 

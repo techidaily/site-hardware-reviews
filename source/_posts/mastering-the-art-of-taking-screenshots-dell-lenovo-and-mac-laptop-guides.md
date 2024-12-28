@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Taking Screenshots: Dell, Lenovo & Mac Laptop Guides"
-date: 2024-12-16T08:59:59.637Z
-updated: 2024-12-22T01:49:00.703Z
+date: 2024-12-23T16:30:39.799Z
+updated: 2024-12-27T22:25:16.625Z
 tags:
   - laptops
 categories:
@@ -26,25 +26,25 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take screenshots on any laptop
 
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Screenshotting on Windows-based laptops
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-### **Option 1: The old fashioned way**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### **Option 1: The old fashioned way**
 
 ## 1\. Use your Print Screen key
 
@@ -55,10 +55,6 @@ In any case, it should be easy to find by looking for the key marked **Prt**, **
 The button can be just about anywhere, so just look for something that looks as similar as possible to the legend on this one.
 
 Michael Gariffo/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
 
@@ -74,6 +70,10 @@ Michael Gariffo/ZDNET
 
 ### **Option 2: The Snipping Tool and Win+Shift+S**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
 Windows also includes a [one-stop tool for taking screenshots](https://www.zdnet.com/article/how-to-screenshot-on-windows/) or capturing individual windows or portions of windows. It's called the Snipping Tool and its full menu can be accessed by opening your start menu and typing in "snip." Alternatively, you can skip directly to the capture functionality it offers by pressing **Win+Shift+S.**
@@ -86,13 +86,13 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 
 Michael Gariffo/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Screenshotting on Macs
 
 The process on Macs uses a less intuitive hotkey, but also doesn't require any software or pasting. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Press Shift+Cmd+3
 
@@ -105,7 +105,7 @@ These are the three keys you'll need to press at once on a mac to take a standar
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -157,15 +157,22 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-sharpen-the-scene-expert-insights-for-cropping-videos-with-insta-flair-for-2024/"><u>[New] Sharpen the Scene Expert Insights for Cropping Videos with Insta Flair for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-klevv-cras-c93/"><u>Comprehensive Evaluation of KLEVV CRAS C93</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-analysis-by-toms-computing-experts/"><u>Comprehensive Hardware Analysis by Tom's Computing Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/corsair-mp700-pro-se-ssd-examined-enhanced-features-and-performance/"><u>Corsair MP700 Pro SE SSD Examined: Enhanced Features & Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/deep-dive-into-performance-and-price-the-patriot-viper-vp43nlite-ssd-with-massive-4tb-storage/"><u>Deep Dive Into Performance & Price - The Patriot Viper VP43nLite SSD with Massive 4TB Storage</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978413077-get-the-new-nvidia-rtx-2080-supers-drivers-compatible-with-windows-1011-download-now/"><u>Get the New Nvidia RTX 2080 Supers Drivers – Compatible with Windows 10/11, Download Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-illusion-the-three-pillars-of-virtual-immersion-vr-ar-and-mr/"><u>In 2024, Beyond Illusion The Three Pillars of Virtual Immersion (VR, AR, & MR)</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/saving-display-options-fix-in-win-7-and-10-solved/"><u>Saving Display Options: Fix in Win 7 & 10 [Solved]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-adventure-at-a-glance-comparing-gopros-hero5-b-and-session-for-2024/"><u>[New] Adventure at a Glance Comparing GoPro's Hero5 B & Session for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-new-worlds-best-psvr-games-on-their-way-out/"><u>[Updated] Unleashing New Worlds Best PSVR Games on Their Way Out</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gagmaster-start-crafting-fun-videos-today/"><u>2024 Approved GagMaster Start Crafting Fun Videos Today</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rack-with-flair-ingenious-ways-to-watch-youtube-reverse-for-2024/"><u>Backtrack with Flair Ingenious Ways to Watch Youtube Reverse for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/encompassed-understanding-google-podcast-app-elucidated/"><u>Encompassed Understanding Google Podcast App Elucidated</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-for-crafting-the-perfect-rule-based-email-system-in-gmail/"><u>Expert Strategies for Crafting the Perfect Rule-Based Email System in Gmail</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-pc-gear-with-tom-in-depth-reviews-and-insights-on-hardware/"><u>Exploring PC Gear with Tom: In-Depth Reviews & Insights on Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-tech-insights-and-reviews-your-guide-to-the-latest-gadgets/"><u>Exploring Tom's Tech Insights & Reviews - Your Guide to the Latest Gadgets</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-gadget-analysis-by-toms-electronics-guide/"><u>In-Depth Gadget Analysis by Tom's Electronics Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-print-settings-an-essential-tool-overview/"><u>Mastering Windows Print Settings: An Essential Tool Overview</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-gadgets-with-tom-expert-hardware-analysis-and-tips/"><u>Navigating Gadgets with Tom: Expert Hardware Analysis & Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-gadget-guide/"><u>Navigating the World of Technology with Tom's Gadget Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-game-crashes-in-dragon-age-origins-for-windows-10-users/"><u>Resolving Game Crashes in Dragon Age: Origins for Windows 10 Users</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487420-score-unbeatable-deal-grab-your-steelseries-arctis-nova-pro-wireless-for-just-64-top-choice-in-gaming-headsets/"><u>Score Unbeatable Deal: Grab Your SteelSeries Arctis Nova Pro Wireless for Just $64 - Top Choice in Gaming Headsets!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-insights-in-depth-hardware-evaluation-and-comparison/"><u>Tom's Computer Insights: In-Depth Hardware Evaluation and Comparison</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Reviews and Comparisons</u></a></li>
 </ul></div>
 

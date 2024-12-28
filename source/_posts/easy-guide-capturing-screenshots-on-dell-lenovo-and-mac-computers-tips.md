@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Capturing Screenshots on Dell, Lenovo & Mac Computers - Tips"
-date: 2024-12-11T03:19:25.998Z
-updated: 2024-12-13T01:21:41.388Z
+date: 2024-12-26T20:41:02.977Z
+updated: 2024-12-27T18:31:01.376Z
 tags:
   - laptops
 categories:
@@ -28,10 +28,6 @@ Let us show you how to quickly and easily take a screenshot on everything from a
 
 ## How to take screenshots on any laptop
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Requirements
 
 You'll need your laptop and, in some cases, basic image editing software. The entire process should two minutes or less, depending on which method and operating system you're using.
@@ -40,15 +36,7 @@ You'll need your laptop and, in some cases, basic image editing software. The en
 
 While the process for taking a screenshot on every laptop varies somewhat, the biggest differences will be between Windows-based laptops, like those made by Dell, Lenovo, and others, and those made by Apple, which run MacOS. Let's cover Windows-based laptops first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1: The old fashioned way**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Use your Print Screen key
 
@@ -61,7 +49,7 @@ The button can be just about anywhere, so just look for something that looks as 
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Paste your screenshot
@@ -76,7 +64,15 @@ An example of a screenshot pasted into the Windows 11 version of Microsoft Paint
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 2: The Snipping Tool and Win+Shift+S**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Open the Snipping Tool or press Win+Shift+S
 
@@ -91,7 +87,7 @@ The Windows 11 version of the basic Snipping Tool menu and its icon.
 Michael Gariffo/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Screenshotting on Macs
@@ -117,6 +113,10 @@ There sure is. For Mac users, we've already covered [how to capture recordings o
 ### What's a good, free image editing software to use on my screenshots?
 
 At ZDNET [we like Pixlr](https://pixlr.com/). It's a free web app that handles most of the basic tasks you'll want to apply to your screenshots, including cropping, resizing, and adding text. It even includes some more advanced effects like a liquify tool. If you need something even more advanced, but only occasionally, we have [a guide on using Adobe's free trial](https://www.zdnet.com/article/how-to-get-photoshop-for-free/) program to get short-term access to Photoshop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why does \[insert on-screen item here\] look weird in my screenshot?
 
@@ -157,19 +157,21 @@ There's a few reasons why things can look strange in your screenshots. Animated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-reach-and-recognition-viewership-metrics-for-insta-photos/"><u>[New] 2024 Approved Reach and Recognition Viewership Metrics for Insta Photos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-silent-youtube-browsing-for-iphones-and-androids/"><u>[New] Silent YouTube Browsing for iPhones and Androids</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-creating-professional-edits-using-youtube-studio-editor-for-2024/"><u>[Updated] Creating Professional Edits Using YouTube Studio Editor for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-listenguide-review/"><u>[Updated] In 2024, ListenGuide Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/your-brand-name-your-go-to-source-for-cutting-edge-hardware-insights/"><u>[Your Brand Name] – Your Go-To Source for Cutting-Edge Hardware Insights</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-logging-live-audio-on-the-go-a-user-friendly-manual/"><u>2024 Approved Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-performance-unleashed-nvidias-latest-update-features-gpu-turbocharge-and-obs-audio-clarity/"><u>Enhanced Performance Unleashed: Nvidia's Latest Update Features GPU Turbocharge & OBS Audio Clarity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-by-tom-on-computer-hardware-components/"><u>Expert Insights by Tom on Computer Hardware Components</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-a-deep-dive-into-recmasters-video-capturing-technology/"><u>In 2024, A Deep Dive Into Recmaster's Video Capturing Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-tech-alert-microsoft-rolls-out-ai-chatbot-assistance-for-xbox-diving-into-its-operational-dynamics-zdnet/"><u>Next-Gen Tech Alert: Microsoft Rolls Out AI Chatbot Assistance for Xbox, Diving Into Its Operational Dynamics | ZDNET</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-on-hardware-and-performance/"><u>Tom's Tech Hub: Expert Insights on Hardware & Performance</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-tecno-pova-6-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Pova 6 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-mac-mini-into-a-powerhouse-with-the-75-diy-mac-studio-upgrade-techradar/"><u>Transform Your Mac Mini Into a Powerhouse with the $75 DIY Mac Studio Upgrade | TechRadar</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-phisons-record-breaking-pcie-gen-40-ssd-e29t-controller-exclusive-insights-from-fms-2nd/"><u>Unveiling Phison's Record-Breaking PCIe Gen 4.0 SSD E29T Controller: Exclusive Insights From FMS 2nD</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-step-by-step-guide-to-updating-photos-and-videos-on-instagram/"><u>[New] In 2024, A Step-by-Step Guide to Updating Photos and Videos on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-gentle-pace-reducing-music-intensity/"><u>[Updated] Gentle Pace Reducing Music Intensity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-replace-vanished-facebook-watch-icon/"><u>2024 Approved Replace Vanished Facebook Watch Icon</u></a></li>
+<li><a href="https://driver-install.techidaily.com/activate-and-install-canon-mx870-win108-drivers/"><u>Activate and Install Canon MX870 WIN10/8 Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-make-every-interaction-count-how-to-add-and-share-gifs-on-snapchat/"><u>In 2024, Make Every Interaction Count How to Add and Share GIFs on Snapchat</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-2019-game-changer-in-vegaspro/"><u>In 2024, The 2019 Game-Changer in VegasPro</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/is-the-asus-rog-keris-ii-ace-a-worthy-successor-to-the-legendary-ragedeathadder-v3-pro-full-review-inside/"><u>Is the Asus ROG Keris II Ace a Worthy Successor to the Legendary RageDeathAdder V3 Pro? Full Review Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-selection-trustworthy-tips-from-toms-hardware-experts/"><u>Mastering Electronics Selection: Trustworthy Tips From Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/next-gen-processors-faceoff-the-ryzen-5-9600x-vs-ryzen-n-7-9700x-review-for-ultimate-gaming-experience-on-zen-5-architecture/"><u>Next-Gen Processors Faceoff: The Ryzen 5 9600X Vs. Ryzen N 7 9700X Review for Ultimate Gaming Experience on Zen 5 Architecture</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/solid-reliability-meets-space-saving-in-our-6tb-my-passport-review/"><u>Solid Reliability Meets Space Saving in Our 6TB My Passport Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-resource-for-cutting-edge-tech-by-toms-hardware/"><u>The Ultimate Resource for Cutting-Edge Tech by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-and-hardware-analysis/"><u>Tom's Tech Reviews: Comprehensive Insights and Hardware Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-restoring-game-sounds-in-fallout-4-for-windows-users/"><u>Ultimate Guide: Restoring Game Sounds in Fallout 4 for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c110-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C110.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-tech-secrets-with-toms-hardware-insights/"><u>Unlocking Tech Secrets with Tom's Hardware Insights</u></a></li>
 </ul></div>
 

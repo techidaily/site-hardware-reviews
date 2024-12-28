@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis of Microsoft Surface Pro 8: The Ultimate Office Companion"
-date: 2024-12-06T01:15:21.075Z
-updated: 2024-12-13T02:38:07.962Z
+date: 2024-12-25T23:51:58.358Z
+updated: 2024-12-27T19:41:19.261Z
 tags:
   - laptops
 categories:
@@ -21,10 +21,6 @@ We prioritized machines that scored well in durability, portability, and of cour
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What's the best laptop for college right now?
 
@@ -46,7 +42,7 @@ Cons
 * Uninspiring speakers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple MacBook Air M3
@@ -83,6 +79,10 @@ Cons
 
 ## HP Dragonfly Pro Chromebook
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Chromebook for college
 
 Instead of going for a Mac or a Windows machine, [Chromebooks, powered by ChromeOS](https://www.zdnet.com/article/five-reasons-chromebooks-are-the-perfect-laptop/) are a solid third option, and the best one for college students is the HP Dragonfly Pro Chromebook.
@@ -112,6 +112,10 @@ Cons
 * 8GB of RAM will limit demanding tasks
 * Screen isn't very bright
 * A little bulky
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Acer Aspire Go 15
 
@@ -170,10 +174,6 @@ Cons
 * Expensive
 * Comes with multiple supporting parts
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lenovo Yoga Book 9i
 
 ### Best 2-in-1 convertible laptop for college
@@ -190,10 +190,6 @@ There are a few considerations, however. First, the $2,000 price tag puts it at 
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best laptop for college?
 
 The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zdnet.com/article/m3-macbook-air-review/). Portable, powerful, and with a long-lasting battery, the MacBook Air M3 is a versatile workhorse that you can throw in a bag and take with you anywhere you go. The M3's 8-core CPU and 10-core GPU is armed to take whatever tasks your major requires of you, and the entire package weighs just 2.7 pounds.
@@ -207,7 +203,7 @@ The best laptop for college in 2024 is the [Apple MacBook Air M3](https://www.zd
 | Lenovo YogaBook 9i          | $1,999            | Intel Core Ultra 155U, Intel Iris Xe | 16GB, 512GB                 | 3.15             |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which is the right laptop for college for you?
@@ -221,10 +217,6 @@ The right college for laptop depends on first on what you want to get out of it,
 | Acer Aspire Go 15                   | An affordable laptop that can cover the basics, but don't need anything fancy.                        |
 | Asus ROG Zephyrus G14               | A laptop you can take to class, but can double as a gaming machine.                                   |
 | Lenovo Yoga Book 9i                 | A dual-screen laptop that works for art or design classes, or a laptop with versatile configurations. |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test laptops
 
@@ -241,6 +233,10 @@ We use a combination of methods to test laptops here at ZDNET. First, we acquire
 * **The human element:**  As we mentioned earlier, metrics and system data is important, but numbers alone don't give you the full picture. This is where we weave in our personal experience with the device and tap into the practical use cases that consumers actually care about.
 
 Ultimately, our goal is to break down the capabilities of each and every laptop we test into digestible terms that real people can find useful. There is a lot of noise and confusion when it comes to navigating the laptop and computer consumer market, so we hope to bring an intuitive element to the whole process by leveraging our team's decades of experience. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing a laptop for college
 
@@ -262,7 +258,7 @@ While every computing platform has its loyal supporters, most people end up usin
 All Windows devices listed here meet the requirements for Windows 11\. If you purchase a device with Windows 10 installed, you will be able to upgrade to Windows 11 if you choose to do so. Note that after October 14, 2025, Windows 10 support will end, and there will be no further security patches or feature updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the difference between a Chromebook and a Windows or Mac laptop?
@@ -270,6 +266,10 @@ All Windows devices listed here meet the requirements for Windows 11\. If you pu
 While premium Chromebooks like the [HP Dragonfly Pro](https://www.zdnet.com/article/hp-dragonfly-pro-chromebook-review/) are available, these lightweight models are generally considered more budget-friendly alternatives to traditional Windows or macOS devices.   
   
 Chromebooks operate on Google's Chrome operating system (OS) and are focused on mobile apps rather than traditional software. These laptops are used for basic browsing, studies, and entertainment, but if you have a particular software requirement, you must check for available support before you invest in a Chromebook. However, it is also possible to also use virtualization software (VMs) to circumvent such limitations. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative laptops for college worth considering?
 
@@ -317,20 +317,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-from-beginner-to-expert-choose-studio-or-beta/"><u>[New] In 2024, From Beginner to Expert Choose Studio or Beta</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-strategies-and-techniques-in-documentary-scriptwriting/"><u>[New] Strategies and Techniques in Documentary Scriptwriting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pinnacle-5-frame-timelapse-recorder/"><u>[Updated] Pinnacle 5-Frame Timelapse Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-ig-videos-successfully-building-an-efficient-marketing-blueprint/"><u>2024 Approved Navigating IG Videos Successfully Building an Efficient Marketing Blueprint</u></a></li>
-<li><a href="https://win-studio.techidaily.com/best-of-the-batch-updated-list-of-top-13-premium-mkv-converter-apps-for-seamless-format-switching/"><u>Best of the Batch: Updated List of Top 13 Premium MKV Converter Apps for Seamless Format Switching!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhanced-power-and-efficiency-intel-unveils-high-performance-bean-canyon-nucs/"><u>Enhanced Power and Efficiency: Intel Unveils High-Performance Bean Canyon NUCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964468515-exclusive-toms-hardware-ama-event-featuring-amd-insights-join-us-this-april-6th/"><u>Exclusive 'Tom's Hardware' AMA Event Featuring AMD Insights – Join Us This April 6Th!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/"><u>Exploring Technology with Tom's Hardware Insights and Analysis</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/s-blueprint-for-money-making-for-2024/"><u>Gamer’s Blueprint for Money-Making for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-the-best-practices-for-crafting-viral-instagram-reels/"><u>In 2024, Unveiling the Best Practices for Crafting Viral Instagram Reels</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/launching-msis-unique-yeswebuild-movement-embracing-the-future-of-computer-building/"><u>Launching MSI's Unique 'YesWeBuild' Movement: Embracing the Future of Computer Building</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-gadget-innovation-with-tom-expert-analysis-and-comparisons-for-smart-shoppers/"><u>Navigating Gadget Innovation with Tom: Expert Analysis & Comparisons for Smart Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-into-computer-components-and-systems/"><u>Tom's Tech Hub: Expert Insights Into Computer Components and Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/etro-playback-inverting-your-youtube-content-for-2024/"><u>[New] Retro Playback Inverting Your YouTube Content for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-traditionalists-dream-unpacking-the-features-of-nzxt-h7-flow/"><u>A Traditionalist's Dream: Unpacking the Features of NZXT H7 Flow</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-your-ultimate-guide/"><u>Exploring Computer Components with Tom's Hardware - Your Ultimate Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computing-equipment-with-tom-a-detailed-guide/"><u>Exploring Computing Equipment with Tom - A Detailed Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-the-ultimate-hardware-resource/"><u>Mastering Gadgets with Tom: The Ultimate Hardware Resource</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>New In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/vive-review-where-real-and-virtual-collide-for-maximum-impact-for-2024/"><u>Vive Review Where Real and Virtual Collide for Maximum Impact for 2024</u></a></li>
 </ul></div>
 

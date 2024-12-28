@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Purchasing Superior Electronic Notebooks – Authoritative Assessments | CNET
-date: 2024-12-09T02:24:18.552Z
-updated: 2024-12-13T03:51:59.247Z
+date: 2024-12-26T19:05:29.280Z
+updated: 2024-12-27T16:38:58.224Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -73,7 +73,7 @@ My review unit came with the Intel Core Ultra 7 155H processor, which allowed th
 These problems extended to the battery, too. I performed my usual battery test of playing a 720p YouTube video non-stop at 50 percent brightness to see how long it lasts. I do this to simulate an average day of work. On battery saver, the ThinkPad X1 Carbon lasted around five hours before dying. That's not very long. With the quirky performance in mind, all this leads me to believe that the ThinkPad's hardware isn't well optimized.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -112,18 +112,17 @@ There are a few different configurations you can choose for this machine, bringi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fix-fixed-no-more-obs-camera-issues/"><u>[New] 2024 Approved Fix Fixed No More OBS Camera Issues</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-snapshot-survival-guide-top-recorders-evaluated/"><u>[Updated] In 2024, SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862822842-amazing-value-249-asus-tuf-curved-monitor-34-display-available-at-amazon/"><u>Amazing Value: $249 ASUS TUF Curved Monitor, 34 Display Available at Amazon!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862821283-amazon-drops-price-immerse-yourself-in-gaming-with-a-giant-39-inch-lg-ultragear-wqhd-curved-monitor-for-999/"><u>Amazon Drops Price: Immerse Yourself in Gaming with a Giant 39-Inch LG Ultragear WQHD Curved Monitor for $999!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862826163-dells-high-resolution-qhd-ips-gaming-monitor-only-1ebaseandamppaged0-at-this-price/"><u>Dell's High-Resolution QHD IPS Gaming Monitor: Only $1Ebase=&amp;paged=0 at This Price!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862816787-elevate-your-gaming-setup-the-sale-of-a-lifetime-acer-nitros-24-curved-monitor-at-an-unbeatable-price-of-81/"><u>Elevate Your Gaming Setup: The Sale of a Lifetime - Acer Nitro's 24 Curved Monitor at an Unbeatable Price of $81!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862829005-experience-crystal-clear-visuals-with-the-27-qhd-ips-samsung-odyssey-g50a-now-priced-at-a-bargain-255-on-amazon/"><u>Experience Crystal Clear Visuals with the 27 QHD IPS Samsung Odyssey G50A - Now Priced at a Bargain $255 on Amazon</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862836417-grab-yours-now-the-ultimate-steal-of-a-sceptre-24-inch-curved-tv-game-screen-at-79/"><u>Grab Yours Now! The Ultimate Steal of a Sceptre 24-Inch Curved TV Game Screen at $79</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-assessing-your-needs-selecting-the-optimal-4k-camera-lens/"><u>In 2024, Assessing Your Needs Selecting the Optimal 4K Camera Lens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-the-art-of-time-extension-creating-stunningly-slow-mo-video-online/"><u>Master the Art of Time Extension Creating Stunningly Slow-Mo Video Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/storytelling-with-style-making-instagram-text-dance/"><u>Storytelling with Style Making Instagram Text Dance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-your-potential-with-gpts-my-bots-in-board-games-and-creation/"><u>Unleash Your Potential with GPT's My Bots in Board Games & Creation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-you-should-consider-adding-a-docking-station-to-your-laptop-the-ultimate-guide/"><u>Why You Should Consider Adding a Docking Station to Your Laptop: The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/utstanding-movies-overlooked-by-critics/"><u>[New] Outstanding Movies Overlooked by Critics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-daily-dharma-the-best-yoga-channels-for-self-growth/"><u>[Updated] 2024 Approved Daily Dharma The Best Yoga Channels for Self-Growth</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-from-camera-to-feed-ig-photo-tutorial-for-2024/"><u>[Updated] From Camera to Feed IG Photo Tutorial for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-innovative-approaches-to-documenting-film-content-on-various-os/"><u>[Updated] In 2024, Innovative Approaches to Documenting Film Content on Various OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-v29-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo V29 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-recommended-foldable-smartphones/"><u>Top Recommended Foldable Smartphones</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-enabling-spell-check-and-grammar-correction-on-your-device/"><u>Ultimate Guide: Enabling Spell Check and Grammar Correction on Your Device</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-the-5g-uc-indicator-in-mobile-devices/"><u>Understanding the '5G UC' Indicator in Mobile Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-potential-of-siri-expert-tips-to-repair-hey-siri-functionality-on-ios/"><u>Unlock the Potential of Siri: Expert Tips to Repair “Hey Siri” Functionality on iOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upcoming-upgrades-promise-superior-functionality-for-android-nearby-sharing/"><u>Upcoming Upgrades Promise Superior Functionality for Android Nearby Sharing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Hot 40i? | Dr.fone</u></a></li>
 </ul></div>
 

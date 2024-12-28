@@ -1,7 +1,7 @@
 ---
 title: Leadership Shake-Up at Optus as CEO Steps Down Amidst Network Failure Crisis - Insights From ZDNet
-date: 2024-09-18 20:55:33
-updated: 2024-09-20 11:38:35
+date: 2024-12-23T16:27:02.634Z
+updated: 2024-12-27T18:32:58.776Z
 tags:
   - networking
 categories:
@@ -62,11 +62,28 @@ To check out the extensions ready now for Firefox on Android, head to the Androi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-practices-for-6-trendy-mc-houses/"><u>[New] In 2024, Best Practices for 6 Trendy MC Houses</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-download-part-of-youtube-video/"><u>[Updated] 2024 Approved How to Download Part of YouTube Video?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>[Updated] 2024 Approved Mastering the Art of Memetics A 9GAG Creator's Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-laptops-by-apple-shaping-future-gameplay/"><u>Are Laptops by Apple Shaping Future Gameplay?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-advanced-computer-components-with-toms-technology-hub/"><u>Discover Advanced Computer Components with Tom's Technology Hub</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/les-plus-performants-programmes-de-reconstruction-de-donnees-sous-windows-11-explices-en-detail/"><u>Les Plus Performants Programmes De Reconstruction De Données Sous Windows 11 Explicés en Détail</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/patriot-viper-vp4300-lite-4tb-ssd-analysis-big-storage-meets-affordable-pricing/"><u>Patriot Viper VP4300 Lite 4TB SSD Analysis - Big Storage Meets Affordable Pricing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-and-reviews-at-toms-hardware/"><u>Unveiling Innovations and Reviews at Tom's Hardware</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

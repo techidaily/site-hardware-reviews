@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Black Friday Bargain: Score a Steep Discount on Lenovo ThinkPad X1 Extreme Gen 4 - Now Under $500 | ZDNet"
-date: 2024-12-17T19:10:51.889Z
-updated: 2024-12-21T18:52:52.207Z
+date: 2024-12-25T00:03:23.692Z
+updated: 2024-12-27T19:05:54.877Z
 tags:
   - laptops
 categories:
@@ -24,7 +24,7 @@ The model on offer here runs on Intel's 11th-generation [Core i7-11850H](https:/
 **Also:** [**Best Black Friday laptop deals 2022**](https://www.zdnet.com/article/black-friday-laptop-deals-november-23-2022/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -67,19 +67,22 @@ At $1,699 -- 53% off Lenovo's list price -- the [ThinkPad X1 Extreme](https://bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/close-up-clarity-mastering-teammate-focus-for-2024/"><u>Close-Up Clarity Mastering Teammate Focus for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experiencing-trouble-with-search-on-windows-11-discover-reliable-fixes-here/"><u>Experiencing Trouble With Search on Windows 11? Discover Reliable Fixes Here</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-full-body-kinetics-report-2023/"><u>In 2024, Full Body Kinetics Report 2023</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy A05 FRP?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/los-7-editores-de-video-inteligentes-con-funcion-de-reenvio-mas-eficaces-del-mercado/"><u>Los 7 Editores De Vídeo Inteligentes Con Función De Reenvío Más Eficaces Del Mercado</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perplexity-ai-is-the-best-ai-powered-google-search-tool-youre-not-using/"><u>Perplexity AI Is the Best AI-Powered Google Search Tool You're Not Using</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/six-pioneering-steps-for-moving-mov-files-to-win-11-for-2024/"><u>Six Pioneering Steps for Moving MOV Files to Win 11 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-characteristics-setting-ai-devices-apart/"><u>The Characteristics Setting AI Devices Apart</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-the-ultimate-gadget-guide/"><u>Tom's Tech Reviews: The Ultimate Gadget Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-tech-showdown-toms-hardware-comprehensive-analyses/"><u>Ultimate Tech Showdown: Tom's Hardware Comprehensive Analyses</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-gaming-power-save-big-and-grab-hp-omens-transcend-14-with-rtx-displayed-in-oled-brilliance-300-off/"><u>Unleash Gaming Power: Save Big & Grab HP Omen's Transcend 14 with RTX, Displayed in OLED Brilliance - $300 Off!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-electronics-tips-and-reviews-by-toms-hardware-professionals/"><u>Unveiling High-Performance Electronics - Tips and Reviews by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-gadgets-insights-from-toms-electronics-hub/"><u>Unveiling the Latest Gadgets: Insights From Tom's Electronics Hub</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-top-tier-phone-apps-evolving-how-you-communicate/"><u>[New] In 2024, The Top-Tier Phone Apps Evolving How You Communicate</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-duel-of-the-camcorders-gopros-black-versus-sony-fdr-x1000v-for-2024/"><u>[Updated] Duel of the Camcorders GoPro's Black Versus Sony FDR-X1000V for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-snapchats-call-feature-in-three-steps/"><u>[Updated] Navigating Snapchat's Call Feature in Three Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-youtube-potential-with-tubebuddy-strategies/"><u>[Updated] Unlock YouTube Potential with TubeBuddy Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-if-your-device-supports-5g-a-step-by-step-guide/"><u>Discover If Your Device Supports 5G: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-spectacles-no-ar-required-just-integrate-a-simple-camera/"><u>Intelligent Spectacles: No AR Required - Just Integrate a Simple Camera</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-get-ready-for-the-movies-top-movie-trailer-apps-for-ios-for-2024/"><u>New Get Ready for the Movies Top Movie Trailer Apps for iOS for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-why-professionals-choose-final-cut-pro-over-final-cut-express/"><u>New Why Professionals Choose Final Cut Pro Over Final Cut Express</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-budget-and-high-performance-monitors-with-curved-panels-and-g-sync-compatibility/"><u>The Ultimate Guide to Budget and High-Performance Monitors with Curved Panels & G-Sync Compatibility</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-professional-monitor-breakdown-how-asus-proart-pa32ucxr-sets-new-standards-in-color-precision-with-its-advanced-mini-led-technology/"><u>The Ultimate Professional Monitor Breakdown - How Asus ProArt PA32UCXR Sets New Standards in Color Precision with Its Advanced Mini LED Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/tiny-yet-towering-an-expert-review-of-the-10-foldable-feelworld-monitor-revealing-its-compact-size-and-extensive-utility-for-on-the-go-professionals/"><u>Tiny Yet Towering: An Expert Review of the 10 Foldable Feelworld Monitor, Revealing Its Compact Size and Extensive Utility for On-the-Go Professionals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-electronics-hub-innovations-in-computing-and-more/"><u>Tom's Electronics Hub: Innovations in Computing and More</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-and-gadget-analysis/"><u>Tom's Tech Insights: In-Depth Reviews & Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-insightful-gadget-analysis-and-hardware-breakdown/"><u>Tom's Tech Review: Insightful Gadget Analysis and Hardware Breakdown</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-gear-tech-advice-the-toms-hardware-way/"><u>Top Gear Tech Advice - The Tom's Hardware Way</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-choosing-a-widescreen-gaming-screen/"><u>Ultimate Guide to Choosing a Widescreen Gaming Screen</u></a></li>
 </ul></div>
 

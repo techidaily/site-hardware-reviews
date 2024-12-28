@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Regaining Access and Retrieving Files From Your Pre-Owned Laptop Without a Password - Tips & Tricks"
-date: 2024-12-20T00:40:35.571Z
-updated: 2024-12-22T00:01:01.363Z
+date: 2024-12-20T18:37:06.311Z
+updated: 2024-12-27T17:05:31.975Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ So far this year, we've already seen new [iPhones](https://www.zdnet.com/article
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. M4 Macs
@@ -45,7 +45,7 @@ Earlier in the year, Apple released a [revamped iPad Pro](https://www.zdnet.com/
 We also predict that Apple will show off the next MacBook Pro in two sizes -- one with a 14-inch display and the second with a 16-inch display. Gurman claims the "M4 chip will come to the MacBook Air, Mac Studio, and Mac Pro" next year. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. New Mac Mini
@@ -61,7 +61,7 @@ It's been reported that the model will emphasize the "Mini" in its name, shrinki
 [Tech reporter Aaron Perris](https://x.com/aaronp613/status/1835739463751782807) discovered a code string inside Apple software in mid-September, revealing that the Mac Mini has five ports. It's unknown precisely what kind of ports they are, but [MacRumors](https://www.macrumors.com/2024/09/16/mac-mini-5-usb-c-ports-leak/) believes they are five Thunderbolt 4 ports. In contrast, the M2 Mac Mini has two Thunderbolt 4 inputs. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New iPads
@@ -75,7 +75,7 @@ In his recent newsletter, Gurman also claimed that by the end of 2024, there wou
 The [last iPad Mini](https://www.zdnet.com/product/apple-ipad-mini-wi-fi-6th-generation-tablet-64-gb-8-3-mk7p3lla/) was released about three years ago, and much has changed since then. We don't expect this tablet to receive the M4 chip, as iPad Minis are designed to be Apple's low-cost tablet. Instead, there's a good chance it'll receive M1 or M2 hardware, which would allow it to run Apple Intelligence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. More Apple Intelligence
@@ -118,19 +118,16 @@ iOS 18.1 should leave its beta state and officially roll out within the coming w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-discover-top-10-enhanced-visual-experiences-on-macs/"><u>[Updated] In 2024, Discover Top 10 Enhanced Visual Experiences on Macs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-talent-hunters-unite-top-10-video-roundup/"><u>[Updated] In 2024, Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-building-a-compelling-cinematic-snippet/"><u>2024 Approved Building a Compelling Cinematic Snippet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-12-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi 12 Phone</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-investing-in-gaming-best-value-keyboards-and-mice-under-100/"><u>In 2024, Investing in Gaming Best Value Keyboards and Mice Under $100</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-equipment-toms-authoritative-take-on-tech-advanceby-tom/"><u>Mastering Equipment: Tom's Authoritative Take on Tech Advanceby Tom</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-modern-tech-innovations-with-detailed-reviews-from-toms-domain/"><u>Mastering Modern Tech Innovations with Detailed Reviews From Tom's Domain</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-and-gadgets-with-wisdom-from-toms-electronic-oasis/"><u>Mastering Your PC and Gadgets with Wisdom From Tom's Electronic Oasis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/memorial-day-memories-asus-tuf-a15-gaming-laptop-at-an-unbeatable-price-of-just-658-in-2n4/"><u>Memorial Day Memories: ASUS TUF A15 Gaming Laptop at an Unbeatable Price of Just $658 in 2N4</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mobile-cpu-showdown-intel-core-ultra-nv-vs-amd-ryzen-phoenix-in-a-race-for-top-bapco-scores/"><u>Mobile CPU Showdown: Intel Core Ultra Nv vs AMD Ryzen Phoenix in a Race for Top BAPCO Scores</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-microsoft-store-error-code-0x80073d26-on-windows-oses/"><u>Resolving Microsoft Store Error Code 0X80073D26 on Windows OSes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-top-picks-of-portable-laptop-charging-kits-in-the-latest-market/"><u>The Top Picks of Portable Laptop Charging Kits in the Latest Market</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-secrets-of-winning-ps1-games-on-windows-with-duckstations-wisdom/"><u>Unlock the Secrets of Winning PS1 Games on Windows with Duckstation's Wisdom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-becoming-a-pro-at-using-igtv-for-business-and-personal-growth/"><u>[New] 2024 Approved Becoming a Pro at Using IGTV for Business and Personal Growth</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximize-your-videos-with-top-youtube-rippers/"><u>[New] In 2024, Maximize Your Videos with Top YouTube Rippers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>[Updated] In 2024, The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-restoring-obs-computer-audio-functionality/"><u>Fixing the Silence: Restoring OBS Computer Audio Functionality</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-hardware-evaluations/"><u>Tom's Tech Reviews: In-Depth Hardware Evaluations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-gaming-pcs-below-1k-a-buyers-guide/"><u>Top-Rated Gaming PCs Below $1K: A Buyer's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-chatgpts-safety-measures/"><u>Understanding ChatGPT's Safety Measures</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-pc-components-through-toms-hardware-knowledge/"><u>Unleashing the Power of PC Components Through Tom's Hardware Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-computing-with-toms-hardware-expertise/"><u>Unlocking the Secrets of Computing with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-innovations-in-electronics-at-toms-hardware-hub/"><u>Unveiling Innovations in Electronics at Tom's Hardware Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future on Day 2 of CES 2023: Top Innovations and Breakthroughs - Insights"
-date: 2024-12-10T16:20:32.322Z
-updated: 2024-12-13T00:43:57.402Z
+date: 2024-12-20T19:39:21.221Z
+updated: 2024-12-27T23:12:40.066Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ Over the past 12 months, this relentless pursuit of technological innovation has
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI will be a win for everyone
@@ -47,7 +47,7 @@ Running AI applications locally yields four major advantages: 1) All information
 "The idle power consumption of a single fully populated AI-accelerated server can approach one kilowatt of power while the peak power consumption can approach several kilowatts of power. This number multiplies by the number of servers required to run a generative AI model and the number of times a model is run, which is increasing exponentially," says Jim McGregor, Principal Analyst at [TIRIAS Research](https://www.tiriasresearch.com/). On-device AI solves this problem by keeping most, if not all, of the friction within our devices -- which will be plenty capable come next year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Generative AI for professional workflows
@@ -63,7 +63,7 @@ Some tools include [Wix's AI Site Generator](https://www.zdnet.com/article/this-
 Such workloads, especially as companies fine-tune these large language models, often require pushing the GPUs (graphics processing units) and RAM in computers and servers to the max, setting a precedent for an AI arms race between the world's largest semiconductor companies -- Intel, AMD, Nvidia, and Qualcomm included. Expect more "for AI" computers, chipsets, and fancy comparison charts in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Wireless TVs take cord-cutting to the extreme
@@ -81,7 +81,7 @@ Naturally, one of the big questions with wireless TVs is how latency factors int
 That said, wireless TVs are certainly not priced for the mainstream; the Displace TV lists for $4,499, and the LG OLED M will run you upwards of $35,000\. But for your closest look at a future without cords and cables dangling off walls, this may well be the best place to start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Copilot for every PC user
@@ -97,7 +97,7 @@ The vision was straightforward; with a single click from the taskbar, more than 
 At the base level, Copilot on Windows 11 can save users dozens of clicks every day, now that the AI assistant can help navigate those sophisticated location paths to tweak display resolutions, set dark theme timers, and do other mundane tasks. For businesses and enterprises, Copilot will be capable of [tackling cybersecurity threats](https://www.zdnet.com/article/boosting-cybersecurity-microsofts-ai-driven-security-copilot-unveiled-at-ignite-2023/), from risk identification with machine learning algorithms to automated response mechanisms for near-instant defense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Pinching the air will become normal
@@ -142,24 +142,18 @@ The big question with pinching is how multidimensional such a basic gesture can 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exploring-the-capabilities-of-screenflow-on-mac-devices/"><u>[New] In 2024, Exploring the Capabilities of ScreenFlow on Mac Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweet-visionary-free-transformation-of-youtube-vids-into-tweenish-graphics/"><u>[New] In 2024, Tweet Visionary Free Transformation of YouTube Vids Into Tweenish Graphics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>[Updated] In 2024, Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-z50-ultra-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-pimoronis-nvme-storage-card-a-detailed-duo-review/"><u>Comprehensive Evaluation of Pimoroni's NVMe Storage Card - A Detailed Duo Review</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-passwords-identifying-win-11-writers-of-change/"><u>Cutting-Edge Passwords: Identifying Win 11' Writers of Change</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-new-horizons-in-computing-with-toms-gear-insights/"><u>Exploring New Horizons in Computing with Tom's Gear Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-a-comprehensive-guide-t17239718756091/"><u>Exploring Tom's Hardware: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/find-the-right-wattage-seasonics-psu-calculator-for-optimal-amd-radeon-series-performance/"><u>Find the Right Wattage: Seasonic's PSU Calculator for Optimal AMD Radeon Series Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/how-to-command-a-flip-display-using-your-raspberry-pi-a-simple-guide/"><u>How to Command a Flip Display Using Your Raspberry Pi: A Simple Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-storm-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Storm 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/managing-a-flip-screen-with-raspberry-pi-tips-and-techniques-for-successful-setup/"><u>Managing a Flip Screen with Raspberry Pi: Tips and Techniques for Successful Setup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-components-with-toms-hardware-guides-your-ultimate-resource-for-gear-analysis-and-selection/"><u>Navigating PC Components with Tom's Hardware Guides: Your Ultimate Resource for Gear Analysis and Selection</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-gadgets-with-tom-in-depth-hardware-analysis/"><u>Navigating the World of Gadgets with Tom - In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-release-huawei-and-orange-pi-unveil-innovative-development-board-featuring-enigmatic-cpu-and-advanced-ai-processor-outmaneuvering-curious-onlo33/"><u>Revolutionary Release: Huawei & Orange Pi Unveil Innovative Development Board Featuring Enigmatic CPU & Advanced AI Processor, Outmaneuvering Curious Onlookers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-allure-of-the-new-ipad-air-discover-4-undeniable-reasons-from-apple-that-make-it-worth-your-attention-zdnet/"><u>The Allure of the New iPad Air: Discover 4 Undeniable Reasons From Apple that Make It Worth Your Attention | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/three-essential-steps-apple-needs-to-take-to-revitalize-the-vision-pro-insights-from-zdnet/"><u>Three Essential Steps Apple Needs to Take to Revitalize the Vision Pro - Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/trustworthy-source-for-free-killer-e2200-gigabit-network-interface-card-driver-downloads/"><u>Trustworthy Source for Free Killer E2200 Gigabit Network Interface Card Driver Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-nine-game-streaming-haven-explored/"><u>2024 Approved Top Nine Game Streaming Haven Explored</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973515755-acer-wireless-connectivity-made-easy-get-your-bluetooth-driver-today/"><u>Acer Wireless Connectivity Made Easy: Get Your Bluetooth Driver Today!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/diving-into-the-details-of-the-patriot-viper-vp4300-lite-4tb-ssd-a-review-of-its-speedy-performance-and-cost-efficiency/"><u>Diving Into the Details of the Patriot Viper VP4300 Lite 4TB SSD: A Review of Its Speedy Performance and Cost-Efficiency</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevate-your-chat-with-discord-recording-techniques-for-2024/"><u>Elevate Your Chat with Discord Recording Techniques for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-elite-gamertime-with-titan-armys-p27a2r-a-no-nonsense-high-performance-180hz-review/"><u>Experience Elite Gamertime with Titan Army's P27A2R - A No Nonsense, High-Performance 180Hz Review</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-respond-if-your-iphone-lights-up-but-shows-liquid-damage/"><u>How to Respond If Your iPhone Lights Up but Shows Liquid Damage</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-demystifying-vimeos-triplet-plans-for-content-creators/"><u>In 2024, Demystifying Vimeo's Triplet Plans for Content Creators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-trends-with-toms-hardware-reviews-and-analysis/"><u>Mastering Tech Trends with Tom's Hardware Reviews and Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pros-only-review-discover-the-pinnacle-of-gaming-excellence-with-dough-spectrums-elite-27-inch-oled-monitor-a-visual-masterpiece/"><u>Pros Only Review: Discover the Pinnacle of Gaming Excellence with Dough Spectrum's Elite 27-Inch OLED Monitor - A Visual Masterpiece</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolving-mic-issues-with-your-laptop-now-fixed/"><u>Step-by-Step Guide to Resolving Mic Issues with Your Laptop - Now Fixed!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights/"><u>Tom's Tech Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-repairing-a-non-functional-logitech-mouse-scroll-wheel/"><u>Troubleshooting Guide: Repairing a Non-Functional Logitech Mouse Scroll Wheel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-computing-power-with-toms-guide-to-hardware/"><u>Unveiling the Latest in Computing Power with Tom's Guide to Hardware</u></a></li>
 </ul></div>
 

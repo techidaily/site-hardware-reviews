@@ -1,7 +1,7 @@
 ---
 title: Adapting Office Tech for the Age of Artificial Intelligence - Insights From ZDNet
-date: 2024-12-11T20:17:58.045Z
-updated: 2024-12-12T18:11:47.463Z
+date: 2024-12-20T23:23:55.054Z
+updated: 2024-12-27T17:52:54.086Z
 tags:
   - laptops
 categories:
@@ -31,7 +31,7 @@ Because AI tasks that run locally on a PC are typically executed by the CPU (cen
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### User requirements remain focused on hybrid work
@@ -69,7 +69,7 @@ Like Lenovo, Asus is working to ensure its new products have NPUs or a core chip
 Asus is also focused on developing the necessary software engine and tools to help users train their own AI models, Hsieh said, noting that most large language models are currently only trained on public data. With personal devices handling AI workloads, Asus believes users will want these applications to use their data rather than public data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Optimizing hardware and software for AI
@@ -81,7 +81,7 @@ Boosting performance will inevitably impact battery longevity and vice versa, he
 Meanwhile, Asus wants to provide tools to help developers choose the right compute resources, according to Albert Chang, Asus' vice president and co-head of the AIoT business group. Application developers should be able to determine whether the CPU, NPU, or integrated GPU needs to power their AI tool, Chang said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The coming wave of AI PCs
@@ -134,20 +134,16 @@ The final category of advanced AI PCs offer more than 60 TOPS of NPU performance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-5-affordable-video-effecting-sites-online/"><u>[New] Top 5 Affordable Video Effecting Sites Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>[Updated] TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a70-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel A70</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-gadget-analyses-by-toms-hardware-hub/"><u>Advanced Gadget Analyses by Tom’s Hardware Hub</u></a></li>
-<li><a href="https://facebook.techidaily.com/connectivity-coalition-evaluating-the-leading-20-social-networks/"><u>Connectivity Coalition: Evaluating the Leading 20 Social Networks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ensuring-smooth-play-fixing-stability-problems-in-nba-2k21-for-desktop-users/"><u>Ensuring Smooth Play: Fixing Stability Problems in NBA 2K21 for Desktop Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-frontiers-with-toms-hardware-guide/"><u>Exploring Digital Frontiers with Tom's Hardware Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-vince-lucidos-evga-rtx-3090-kingpn-a-potential-crowned-champion-of-the-rtx-series/"><u>Exploring Vince Lucido's EVGA RTX 지오팩스 3090 Kingp!n: A Potential Crowned Champion of the RTX Series</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chiefs-choice-elite-sky-savers/"><u>In 2024, Chief's Choice Elite Sky Savers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-m6-pro-4gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco M6 Pro 4GFRP Lock</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-insights/"><u>Navigating the World of Electronics with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-core-i9-11900k-cpu-reaches-peak-performance-at-7-ghz-using-liquid-nitrogen-cooling/"><u>Revolutionary Core I9-11900K CPU Reaches Peak Performance at 7 GHz Using Liquid Nitrogen Cooling</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-insights-into-latest-computer-components/"><u>Tom's Tech Reviews: Insights Into Latest Computer Components</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-install-and-modify-whatsapp-alerts-on-both-platforms/"><u>[New] How to Install & Modify WhatsApp Alerts on Both Platforms</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pro-level-strategies-for-mass-downloading-tiktok-content-for-2024/"><u>[Updated] Pro-Level Strategies for Mass Downloading TikTok Content for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/direct-live-broadcasting-obs-to-instagram/"><u>Direct Live Broadcasting OBS to Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-future-of-housekeeping-dual-function-device-fuses-high-tech-robot-vacuum-and-handy-side-mounted-cleaner/"><u>Explore the Future of Housekeeping: Dual-Function Device Fuses High-Tech Robot Vacuum & Handy Side-Mounted Cleaner</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/incredible-virtual-room-encounters/"><u>Incredible Virtual Room Encounters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-by-tom-the-ultimate-guide-to-modern-hardware/"><u>Innovative Tech Analysis by Tom: The Ultimate Guide to Modern Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-top-tips-from-toms-hardware-expertise/"><u>Mastering Electronics: Top Tips From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/reviewing-the-asus-proart-pa3-user-1/"><u>Reviewing the Asus ProArt PA3# User #1</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lava-yuva-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Yuva 2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-in-depth-guides-on-computer-hardware/"><u>Tom's Tech Hub: In-Depth Guides on Computer Hardware</u></a></li>
 </ul></div>
 

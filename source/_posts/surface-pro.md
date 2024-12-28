@@ -1,7 +1,7 @@
 ---
 title: Surface Pro
-date: 2024-12-21T01:07:13.207Z
-updated: 2024-12-21T16:07:25.102Z
+date: 2024-12-23T18:04:57.857Z
+updated: 2024-12-27T16:08:29.462Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -48,10 +48,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,6 +120,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,16 +192,21 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-chart-topping-tunes-compiling-an-impressive-youtube-playlist/"><u>[Updated] 2024 Approved Chart-Topping Tunes Compiling an Impressive YouTube Playlist</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-beam-it-up-15-must-haves-for-your-youtube-live-stream-for-2024/"><u>[Updated] Beam It Up! 15 Must-Haves for Your YouTube Live Stream for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-guides-and-tips-best-streamers/"><u>[Updated] In 2024, Gamer Guides and Tips Best Streamers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-mutant-asus-frankenboards-maximus-xiii-heroes-with-so-dimm-memory-and-striking-kingston-fury-designs-for-collectors/"><u>Discover the Mutant Asus Frankenboards: Maximus XIII Heroes with So-DiMM Memory and Striking Kingston Fury Designs for Collectors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-new-wave-of-performance-with-asrocks-amd-ryzen-9000-motherboards/"><u>Discover the New Wave of Performance with ASRock's AMD Ryzen 9000 Motherboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dive-into-digital-realms-with-toms-gadget-analysis/"><u>Dive Into Digital Realms with Tom's Gadget Analysis</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/early-bird-access-to-msi-z890-and-b860-motherboards-prepare-your-rig-ahead-of-computex-2024-with-the-latest-arrow-lake-s-supported-kits/"><u>Early Bird Access to MSI Z890 & B860 Motherboards - Prepare Your Rig Ahead of Computex 2024 with the Latest Arrow Lake-S Supported Kits</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-gaming-rigs-the-cutting-edge-features-of-gigabytes-new-aorus-xtreme-and-xtreme-ice-mobos-gpu-lines-revealed-at-computex/"><u>Experience Next-Level Gaming Rigs: The Cutting-Edge Features of Gigabyte’s New Aorus Xtreme and Xtreme Ice Mobos, GPU Lines Revealed at Computex</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nubia-red-magic-8s-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nubia Red Magic 8S Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-gopro-content-integration-with-social-networks-for-2024/"><u>Maximizing GoPro Content Integration with Social Networks for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tips-how-to-overcome-restricted-file-viewers-in-windows/"><u>Quick Tips: How to Overcome Restricted File Viewers in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-bridging-the-gap-between-human-perception-and-photographic-capture-for-2024/"><u>[New] Bridging the Gap Between Human Perception and Photographic Capture for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-crafting-content-12-best-for-insta-edits/"><u>[New] In 2024, Crafting Content 12 Best for Insta Edits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-techniques-for-computer-based-photo-filtering-for-2024/"><u>[New] Step-By-Step Techniques for Computer-Based Photo Filtering for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-uncovering-other-powerful-video-players-beyond-vlc/"><u>[New] Uncovering Other Powerful Video Players Beyond VLC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/0-ssd-controller-the-revolutionary-e29t/"><u>0 SSD Controller - The Revolutionary E29T</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/engage-confidently-with-these-9-speaking-up-techniques/"><u>Engage Confidently with These 9 Speaking Up Techniques</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-guidance-on-pc-gear-with-toms-hardware-analysis/"><u>Expert Guidance on PC Gear with Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-technology-with-toms-gadget-review-your-source-for-top-hardware-analysis/"><u>Exploring the Latest in Technology with Tom's Gadget Review: Your Source for Top Hardware Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-chinese-tech-startups-opt-for-affordable-performance-with-geforce-gaming-cards-over-expensive-sanction-compliant-nvidia-ais-the-value-edge-of-the-rtx-408/"><u>How Chinese Tech Startups Opt for Affordable Performance with GeForce Gaming Cards Over Expensive Sanction-Compliant Nvidia AIs: The Value Edge of the RTX 4090</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-guidelines-for-effective-video-integration-in-teaching/"><u>In 2024, Guidelines for Effective Video Integration in Teaching</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-how-to-flip-video-quickly-and-easily-for-2024/"><u>New How to Flip Video Quickly and Easily for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidias-blackwell-graphics-cards-face-setback-potential-redesign-leads-to-projected-3-month-launch-postponement/"><u>Nvidia's Blackwell Graphics Cards Face Setback: Potential Redesign Leads to Projected 3-Month Launch Postponement</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/turbocharge-your-mobile-gameplay-nextorages-cutting-edge-ssd-sets-new-speed-benchmark-at-74gbs/"><u>Turbocharge Your Mobile Gameplay: Nextorage's Cutting-Edge SSD Sets New Speed Benchmark at 7.4GB/S</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/zoom-like-a-pro-with-powershot-sx720hs-reviewed/"><u>Zoom Like a Pro with PowerShot SX720HS Reviewed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: College Comeback? Score Top Discounts on Laptops & Tablets From Samsung
-date: 2024-12-20T08:29:42.529Z
-updated: 2024-12-21T16:51:04.938Z
+date: 2024-12-20T18:37:42.225Z
+updated: 2024-12-27T22:19:52.967Z
 tags:
   - laptops
 categories:
@@ -51,7 +51,7 @@ If you want to shop around, Samsung isn't the only brand offering student discou
 * [Razer Education Purchase Program](https://razer.a9yw.net/c/159047/642901/10229?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.razer.com%2Feducation%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -90,15 +90,18 @@ However, stock may expire at any time. ZDNET remains committed to finding, shari
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-mac-gif-recorders-the-ultimate-list/"><u>[Updated] 2024 Approved Leading Mac GIF Recorders The Ultimate List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ultimate-speaker-change-tech-for-internet-showbiz-pros/"><u>[Updated] In 2024, Ultimate Speaker Change Tech for Internet Showbiz Pros</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-compelling-movie-previews/"><u>2024 Approved Crafting Compelling Movie Previews</u></a></li>
-<li><a href="https://article-helps.techidaily.com/image-alchemy-converting-ordinary-into-extraordinary-for-2024/"><u>Image Alchemy Converting Ordinary Into Extraordinary for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-g2-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo G2</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-high-tech-stores-with-toms-hardware-spotlight/"><u>Navigate Through High-Tech Stores With Tom's Hardware Spotlight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/own-an-rtx-4070-equipped-hp-omen-save-300-today-with-limited-offer/"><u>Own an RTX 4070-Equipped HP Omen, Save $300 Today with Limited Offer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/preview-of-advanced-dell-x-series-and-inspirons-with-qualcomms-snapdragon-chips-launch-targeting-third-quarter/"><u>Preview of Advanced Dell X Series and Inspirons with Qualcomm's Snapdragon Chips: Launch Targeting Third Quarter</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ryzen-ai-300-laptop-release-postponed-new-arrival-date-and-best-buy-listings-july-28/"><u>Ryzen AI 300 Laptop Release Postponed: New Arrival Date and Best Buy Listings - July 28</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-amplifying-your-tiktok-voice-strategies-for-more-views-and-likes/"><u>[New] 2024 Approved Amplifying Your TikTok Voice Strategies for More Views and Likes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transforming-your-film-with-advanced-color-separation/"><u>[New] Transforming Your Film with Advanced Color Separation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-7-must-have-free-apps-for-students-starting-a-new-semester/"><u>Discover 7 Must-Have Free Apps for Students Starting a New Semester</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/eyoyo-em105-105-compact-travel-screen-unbeatable-bargain-for-on-the-go-productivity/"><u>EYOYO EM105 10.5 Compact Travel Screen: Unbeatable Bargain for On-the-Go Productivity</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-shift-lg-ramps-up-mass-production-of-stunning-oleds-as-top-pick-for-latest-dell-xps-13-screen/"><u>Groundbreaking Shift: LG Ramps Up Mass Production of Stunning OLEDs as Top Pick for Latest Dell XPS 13 Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/how-uhbr-certified-cable-incompatibilities-influence-nvidia-to-stick-with-displayport-14-for-its-latest-rtx-graphics-models/"><u>How UHBR-Certified Cable Incompatibilities Influence Nvidia to Stick With DisplayPort 1.4 for Its Latest RTX Graphics Models</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-avoid-the-frustration-fast-paced-methods-to-create-captions-for-your-fb-videos/"><u>In 2024, Avoid the Frustration - Fast-Paced Methods to Create Captions for Your FB Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Bootloader Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-aocs-ultimate-three-monitor-setup-with-the-u3-graphic-pro-series/"><u>Introducing AOC's Ultimate Three-Monitor Setup with the U3 Graphic Pro Series</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-a-guide-with-toms-insights/"><u>Mastering Hardware: A Guide with Tom's Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mp3-file-trimming-made-simple-top-3-free-methods-for-windows-11-users/"><u>MP3 File Trimming Made Simple: Top 3 Free Methods for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-office-applications-activation-woes/"><u>Unlocking Windows Office Applications' Activation Woes</u></a></li>
 </ul></div>
 

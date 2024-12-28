@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Decision Alert: Comparing the New M2 to M3 MacBook Air From Apple | Tech Insights"
-date: 2024-12-17T07:12:26.577Z
-updated: 2024-12-21T23:15:46.846Z
+date: 2024-12-23T18:19:33.505Z
+updated: 2024-12-27T16:10:10.518Z
 tags:
   - laptops
 categories:
@@ -29,7 +29,7 @@ That's right. Apple said the "A" word, and it's not being shy about it, as my af
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple is _officially_ in the AI PC race
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Apple also wants you to know that it's _been_ in the [AI PC race](https://www.zdnet.com/article/what-is-an-ai-pc-and-should-you-buy-one/) since the very beginning, with just about every Mac model now carrying neural engines for machine learning. The new MacBook Air is "the best consumer laptop for AI," the company touts in its Monday press release, but we'll have to see for ourselves when we put the 13- and 15-inch models through the wringer soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. I can finally recommend the Midnight color
@@ -67,7 +67,7 @@ AI aside, there is one subtle design change to the new MacBooks that I really di
 Considering how easy it was to get smudges and marks on the original Midnight color of the MacBook Air -- which made lighter hue options look like rockstars -- this is a welcome change. Having fumbled with the MacBooks for a quick 10-minute photo-op, the fingerprints were noticeable, though not as bad as I remembered on the M2 Air. For me, this makes the Midnight variant recommendable again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dual-monitor support is a bigger deal than it seems
@@ -110,18 +110,24 @@ All in all, the changes to the newest line of MacBook Air feel subtle on paper b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-start-up-to-success-how-to-register-a-professional-account-on-instagram/"><u>[New] 2024 Approved From Start-Up to Success How to Register a Professional Account on Instagram</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-transform-snaps-into-anime-adventures-with-snapchat-filters/"><u>[New] 2024 Approved Transform Snaps Into Anime Adventures with Snapchat Filters</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-turning-viewers-into-revenue-key-video-figures/"><u>[New] 2024 Approved Turning Viewers Into Revenue Key Video Figures</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862812083-999-yes-get-the-epic-lg-ultragears-39-curved-gaming-monitor-with-qhd-at-amazon-today/"><u>$999? Yes! Get the Epic LG Ultragear's 39 Curved Gaming Monitor with QHD at Amazon Today</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-a38-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo A38</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862788628-elevate-your-gameplay-experience-with-gigabytes-aorus-fo32u2p-4k-oled-excellence-reviewed/"><u>Elevate Your Gameplay Experience with Gigabyte's Aorus FO32U2P: 4K OLED Excellence Reviewed</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862825645-experience-stunning-clarity-with-our-portable-1080p-156-inch-ips-display-priced-at-a-record-6599/"><u>Experience Stunning Clarity with Our Portable 1080P 15.6-Inch IPS Display - Priced at a Record $65.99!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862831009-experience-the-game-like-never-before-with-the-discounted-acer-nitro-monitor-now-81/"><u>Experience the Game Like Never Before with the Discounted Acer Nitro Monitor - Now $81!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862809089-get-a-quality-curved-screen-for-gamers-acers-24-monitor-sale-hits-just-81/"><u>Get a Quality Curved Screen for Gamers – Acer's 24 Monitor Sale Hits Just $81</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders/"><u>In 2024, Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-singing-machines-easy-setup-and-colorful-interface-the-best-pick-for-quick-karaoke-fun/"><u>Review of Singing Machine's Easy Setup and Colorful Interface - The Best Pick for Quick Karaoke Fun!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862829610-sale-alert-lg-ultragear-34-qhd-monitor-w-g-sync-ultimate-just-549-on-amazon/"><u>Sale Alert: LG Ultragear 34 QHD Monitor W/ G-Sync Ultimate - Just $549 on Amazon!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-aoc-monitor-errors-on-windows-10-step-by-step-guide-to-getting-it-working-again/"><u>Troubleshoot Your AOC Monitor Errors on Windows 10: Step-by-Step Guide to Getting It Working Again</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-confirmed-age-adjustment-editing-your-profile-on-tiktok-easily-for-2024/"><u>[New] Confirmed Age Adjustment Editing Your Profile on TikTok Easily for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-earn-big-on-youtube-strategies-for-successful-creators-for-2024/"><u>[New] Earn Big on YouTube Strategies for Successful Creators for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-stabilizing-your-motion-sensitive-cameras-a-step-by-step-guide/"><u>[New] Stabilizing Your Motion-Sensitive Cameras A Step by Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>[New] The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-get-your-stream-on-point-with-these-top-webcams-for-youtube/"><u>[Updated] In 2024, Get Your Stream on Point with These Top Webcams for YouTube</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/breaking-news-amd-patches-zen-2-vulnerability-dont-delay-apply-msis-updated-agesa-120-bios/"><u>Breaking News: AMD Patches Zen 2 Vulnerability - Don’t Delay! Apply MSI's Updated AGESA 1.2.0 BIOS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-asus-pro-b760m-ct-csm-motherboard-why-choose-a-certified-supermom/"><u>Comprehensive Guide to Asus Pro B760M-CT CSM Motherboard - Why Choose a Certified Supermom?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/decoding-the-beast-a-deep-dive-into-the-asus-rog-z790-formulas-top-notch-hardware-and-efficient-cooling-mechanisms/"><u>Decoding the Beast: A Deep Dive Into the Asus ROG Z790 Formula's Top-Notch Hardware and Efficient Cooling Mechanisms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-toms-gadget-guidance-mastering-hardware-solutions/"><u>Discover Tom's Gadget Guidance: Mastering Hardware Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-windows-7-screen-flares/"><u>Eradicate Windows 7 Screen Flares</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/future-tech-uncovered-the-upcoming-line-of-certified-msi-z890-and-b860-boards-engineered-for-the-anticipated-intel-arrow-lake-s-chip-sneak-peek-before-compu82/"><u>Future Tech Uncovered: The Upcoming Line of Certified MSI Z890 & B860 Boards Engineered for the Anticipated Intel Arrow Lake-S Chip - Sneak Peek Before Computex 2024 Showcase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-end-psd-lighting-tweaks-for-2024/"><u>High-End PSD Lighting Tweaks for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-and-reviews-discovering-tech-secrets-at-toms-hardware/"><u>Innovative Solutions and Reviews: Discovering Tech Secrets at Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-tech-analysis-and-reviews-the-toms-hardware-collection/"><u>Innovative Tech Analysis and Reviews - The Tom's Hardware Collection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/professional-display-revolutionized-aoc-launches-its-cutting-edge-trio-of-graphic-pro-series-monitors-model-u3/"><u>Professional Display Revolutionized: AOC Launches Its Cutting-Edge Trio of Graphic Pro Series Monitors, Model U3</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-issues-how-to-utilize-the-apple-support-app-for-quick-fixes/"><u>Solving iPhone Issues: How to Utilize the Apple Support App for Quick Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unmissable-eyoy-em105-review-exceptional-value-meets-miniaturization-at-105-inches/"><u>The Unmissable EYOY EM105 Review – Exceptional Value Meets Miniaturization at 10.5 Inches</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-removing-stubborn-folders-on-windows-1011-with-revo-uninstaller/"><u>Ultimate Guide: Removing Stubborn Folders on Windows 10/11 with Revo Uninstaller</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/standing-the-economics-behind-youtubes-shorts-fund-for-2024/"><u>Understanding the Economics Behind YouTube's Shorts Fund for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Value on a Budget: My Experience with the Affordable Surface Pro 11 - Insights From a Seasoned Microsoft Enthusiast | ZDNet"
-date: 2024-12-15T23:55:14.302Z
-updated: 2024-12-22T02:10:59.497Z
+date: 2024-12-20T22:58:11.256Z
+updated: 2024-12-27T22:14:52.558Z
 tags:
   - laptops
 categories:
@@ -48,6 +48,10 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -69,10 +73,6 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -97,10 +97,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -138,7 +134,7 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
@@ -154,7 +150,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -170,10 +166,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,21 +212,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/44cm5pya6ygp55s76loq5lplusd5oyb44gn57ch5y2y44gr5yuv55s75asj5oplusb77yb772c6auy55s76loq44gu44gplus44gplus56e76kgm44gz44kl44gf44kb44gu44oz44k544oi44k944ov44oi98/"><u>「最適画質保持で簡単に動画変換！｜高画質のまま移行するためのベストソフトウェアガイド」</u></a></li>
-<li><a href="https://article-tips.techidaily.com/expert-advice-on-editing-away-backgrounds/"><u>Expert Advice on Editing Away Backgrounds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-discard-camera-up-and-running-a-step-by-step-guide-to-fix-connection-issues/"><u>Get Your Discard Camera Up & Running - A Step-by-Step Guide to Fix Connection Issues</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-find-and-change-your-youtube-channel-url-super-easy-for-2024/"><u>How to Find and Change Your YouTube Channel URL – Super Easy for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-tecno-spark-10-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Tecno Spark 10 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-toms-technology-guides/"><u>Mastering Gadgets with Tom's Technology Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-toms-essential-tech-wisdom-for-gamers-and-professionals/"><u>Mastering Hardware Choices: Tom's Essential Tech Wisdom for Gamers and Professionals</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-with-toms-hq-expert-tips-on-hardware-and-software/"><u>Mastering Your PC with Tom's HQ: Expert Tips on Hardware and Software</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/maximize-system-performance-raid-cards-achieve-up-to-56gbs-speeds-using-four-pcie-gen-5-ssds-or-eight-pcie-gen-ve-4-ssds/"><u>Maximize System Performance: RAID Cards Achieve Up to 56GB/S Speeds Using Four PCIe Gen 5 SSDs or Eight PCIe Gen Ve 4 SSDs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigate-through-advanced-electronics-explore-toms-hardware-hub/"><u>Navigate Through Advanced Electronics - Explore Tom's Hardware Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-digital-frontiers-with-toms-hardware-insights-t17238642572173/"><u>Navigating Digital Frontiers with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-pc-world-with-toms-hardware-insights-for-savvy-shoppers/"><u>Navigating PC World with Tom's Hardware Insights for Savvy Shoppers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-unwinding-catastrophic-javascript-hiccup-in-discord-w10w11/"><u>Quick Guide: Unwinding Catastrophic Javascript Hiccup in Discord W10/W11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/save-150-on-the-stellar-amazon-fire-tv-omnia-qled-set-unbeatable-deal-alert/"><u>Save $150 on the Stellar Amazon Fire TV Omnia QLED Set – Unbeatable Deal Alert!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-linking-your-beats-headphones-to-windows-pc-a-step-by-step-guide/"><u>Seamlessly Linking Your Beats Headphones to Windows PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-optimize-your-files-with-windows-10-file-explorer-hacks/"><u>Troubleshoot and Optimize Your Files with Windows 10 File Explorer Hacks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unbeatable-video-popularity-tracker-in-youtube-arena/"><u>[Updated] Unbeatable Video Popularity Tracker in YouTube Arena</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964494295-catch-the-steal-of-a-lifetime-premium-corsairs-1000w-small-form-factor-psu-at-an-unbeatable-price/"><u>Catch the Steal of a Lifetime - Premium Corsair's 1000W Small Form Factor PSU at an Unbeatable Price!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses/"><u>In 2024, Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-optimize-your-rig-premiere-pro-system-requirements-and-setup-guide/"><u>New 2024 Approved Optimize Your Rig Premiere Pro System Requirements and Setup Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-stop-jurassic-world-evolution-from-freezing-or-crashing/"><u>Overcoming Technical Hurdles: Stop Jurassic World Evolution From Freezing or Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-low-memory-error-on-hogwarts-legacy-windows-edition/"><u>Tackling Low-Memory Error on Hogwarts Legacy Windows Edition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964493696-the-ingenious-phanteks-revolt-psu-say-goodbye-to-excessive-cable-clutter/"><u>The Ingenious Phanteks Revolt PSU - Say Goodbye to Excessive Cable Clutter</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-on-hardware-innovations/"><u>Tom's Tech Review: Expert Insights on Hardware Innovations</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-insights-from-toms-hardware/"><u>Tom's Tech Reviews: Comprehensive Insights From Tom's Hardware</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-and-expert-advice-on-latest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis and Expert Advice on Latest Gadgets</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-gadget-analysis-t17239718750361/"><u>Tom's Tech Reviews: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/two-models-of-cyberpower-uninterruptible-power-supplies-linked-to-potential-fire-danger-by-consumers/"><u>Two Models of CyberPower Uninterruptible Power Supplies Linked to Potential Fire Danger by Consumers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-vivo-y28-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y28 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728476829830-usbwindows-11/"><u>USBメモリをWindows 11で使えない場合、どうすれば良いか：改めて考える方法</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2481318-9780008144531-your-chinese-horoscope-2017-what-the-year-of-the-rooster-holds-in-store-for-you/"><u>Your Chinese Horoscope 2017: What the Year of the Rooster holds in store for you | Free Book</u></a></li>
 </ul></div>
 

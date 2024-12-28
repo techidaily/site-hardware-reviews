@@ -1,7 +1,7 @@
 ---
 title: "Seize Unbeatable Gaming Deals in October '24: Last Chance for Huge Savings up to $1,000 | ZDNET Exclusive Listing"
-date: 2024-12-06T20:18:51.804Z
-updated: 2024-12-12T23:37:36.648Z
+date: 2024-12-23T21:09:25.632Z
+updated: 2024-12-27T17:09:24.669Z
 tags:
   - laptops
 categories:
@@ -25,7 +25,7 @@ Major brands like HP, [Samsung](https://www.zdnet.com/article/best-early-prime-d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Our favorite Amazon October Prime Day gaming deals still available
@@ -136,6 +136,10 @@ ZDNET
 * [WD Black SN850X 4TB SSD for $310 (save $390)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWD%5FBLACK-SN850X-Internal-Gaming-Solid%2Fdp%2FB0B7CQ2CHH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C483d131d-bf4d-4a34-b871-44ba83d09922%7Cdtp&dtb=1): Instantly add 4TB of storage to your PS5 console for large game downloads and save files.
 * [Metal Gear Solid: Master Collection Vol. 1 for $19 (save $21)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMetal-Gear-Solid-Collection-PlayStation-5%2Fdp%2FB0C93LL82B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C483d131d-bf4d-4a34-b871-44ba83d09922%7Cdtp&dtb=1): Get all three of the original MGS games for the PS1 in a single collection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## October Prime Day Xbox Series X|S deals still available
 
 * [Xbox Elite Series 2 Core wireless controller for $140 (save $40 at Amazon)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FElite-2-Controller-Black-Xbox-One%2Fdp%2FB07SFKTLZM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C483d131d-bf4d-4a34-b871-44ba83d09922%7Cdtp&dtb=1): A premium-grade wireless controller for the Xbox Series X|S. It also works with PC, Android, and iOS mobile devices.
@@ -177,10 +181,6 @@ Kyle Kucharski/ZDNET
 * [MSI Aegis RS for $1,700 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmsi-aegis-rs-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-ti-super-2tb-ssd-black%2F6574690.p%3FskuId%3D6574690&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end gaming and content creation desktop with an Intel Core i7-14700F CPU, Nvidia RTX 4070 Ti Super GPU, 32GB of RAM, and a 2TB SSD.
 * [Lenovo Legion Tower 5i for $1,600 (save $400 at Best Buy)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-legion-tower-5i-gaming-desktop-intel-core-i7-14700f-32gb-memory-nvidia-geforce-rtx-4070-super-1tb-ssd-storm-grey%2F6576778.p%3FskuId%3D6576778&publisher%5Fslug=zdnet&article%5Fname=best%20october%20prime%20day%202024%20gaming%20deals%20still%20available%3A%20last%20chance%20to%20save%20up%20to%20%241%2C000&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Fhome-and-office%2Fhome-entertainment%2Fbest-prime-day-gaming-deals-10-10-2024%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A mid-range gaming and content creation desktop with a 14th gen Intel Core i7 processor, 1TB SSD storage drive, 32GB of RAM, and an Nvidia RTX 4070 Super graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day gaming laptop deals still available
 
 Lenovo
@@ -200,10 +200,6 @@ Samsung/ZDNET
 * [LG UltraGear OLED 39-inch curved monitor for $803 (save $697)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLG-39GS95QE-UltraGear-DisplayHDR-DisplayPort%2Fdp%2FB0CV1VL18C%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C483d131d-bf4d-4a34-b871-44ba83d09922%7Cdtp&dtb=1): This ultra-wide monitor has a 240Hz refresh rate, 0.03ms response time, and OLED panel for more accurate colors, detailing, and contrast.
 * [Acer Nitro 24-inch monitor for $100 (save $73)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAcer-Monitor-FreeSync-Technology-ZeroFrame%2Fdp%2FB0B6DFG1FQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C483d131d-bf4d-4a34-b871-44ba83d09922%7Cdtp&dtb=1): A great gaming monitor with 1080p resolution, a 165Hz refresh rate, and AMD FreeSync Premium VRR support.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## October Prime Day PC gaming accessories deals still available
 
 * [Logitech G560 speaker system for $160 (save $40)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLogitech-LIGHTSYNC-Gaming-Speakers-Lighting%2Fdp%2FB07B2WLS17%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C483d131d-bf4d-4a34-b871-44ba83d09922%7Cdtp&dtb=1): A high-end speaker system for PC and console gaming with 7.1CH surround sound DTS:X Ultra audio, and RGB lighting.
@@ -211,7 +207,7 @@ Samsung/ZDNET
 * [HyperX QuadCast USB mic for $85 (save $55)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHyperX-QuadCast-Condenser-Microphone-Anti-Vibration%2Fdp%2FB07NZZZ746%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C483d131d-bf4d-4a34-b871-44ba83d09922%7Cdtp&dtb=1): This USB microphone has an integrated shock mount and is certified for use with Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## October Prime Day graphics card deals still available
@@ -221,19 +217,23 @@ Samsung/ZDNET
 * [MSI Ventus GeForce RTX 4060 Ti for $430 (save $70 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FMSI-Ventus-GeForce-RTX-4060-Ti-16GB-GDDR6-PCI-Express-4-0-x8-ATX-Video-Card-RTX-4060-Ti-VENTUS-2X-BLACK-16G-OC%2F1508015956&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): An Nivida 40 Series GPU with 16GB of DDR6 VRAM and support for up to 4 displays.
 * [Gigabyte GeForce RTX 4070 Ti Super Windforce Max OC Edition for $770 (save $130 at Walmart)](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FGIGABYTE-GeForce-RTX-4070-Ti-SUPER-WINDFORCE-MAX-OC-16G-Graphics-Card-3x-WINDFORCE-Fans-16GB-256-bit-GDDR6X-GV-N407TSWF3MAX-OC-16GD-Video-Card%2F6941118252&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): A high-end Nvidia RTX 40 Series graphics card with 16GB of VRAM, triple cooling fans, and dual BIOS controls.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When was Amazon Prime Day 2024?
 
 Amazon's Big Prime Deal Days, also known as Prime Day 2 or October Prime Day, ran through October 8 and 9\. And other retailers like [Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2F&publisher_slug=itechdaily19598&exclusive=1) and [Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fdeals%3FathAsset%3DeyJhdGhjcGlkIjoiMmU5ZjFjZmMtOTVhZC00NDlhLWEyNzgtZTU3ZTZlOTFjZmEwIn0%3D%26athena%3Dtrue&subId1=zd-__COM_CLICK_ID__-dtp) were running their own, rival sales at the same time. And even though the sale itself is over, you can still find lots of great deals and discounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Are games, consoles, and accessories really cheaper on Prime Day?
 
 Games, consoles, and accessories can and do go on sale during Prime Day, though not every brand or manufacturer may participate. Some brands may have competing sales at other retailers or on their own direct-sale sites, which is great news for anyone who likes to compare discounts to make sure they're getting the best deal possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
@@ -304,21 +304,21 @@ And the best deals from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-enhancing-vimeo-playback-velocity/"><u>2024 Approved Enhancing Vimeo Playback Velocity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-quality-computer-system-builders-race-event-q4-2015-competitive-price-at-just-912/"><u>AMD Quality Computer System Builders Race Event, Q4 2015 - Competitive Price at Just $912</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ease-your-build-process-with-the-innovative-features-of-asus-tuf-gaming-desktops/"><u>Ease Your Build Process with the Innovative Features of Asus TUF Gaming Desktops</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enhance-academic-performance-with-these-6-essential-pc-improvements-for-students/"><u>Enhance Academic Performance with These 6 Essential PC Improvements for Students</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-5-screen-selections-for-ps5-enthusiasts/"><u>In 2024, Top 5 Screen Selections for PS5 Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-text-formatting-how-to-insert-lines-seamlessly-in-word/"><u>Mastering Text Formatting: How to Insert Lines Seamlessly in Word</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/minuscule-cinematic-design-for-2024/"><u>Minuscule Cinematic Design for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prototyping-perfection-the-best-vector-software-of-the-year/"><u>Prototyping Perfection The Best Vector Software of the Year</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/securing-your-online-presence-solutions-to-overcome-not-secure-messages/"><u>Securing Your Online Presence: Solutions to Overcome 'Not Secure' Messages</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964467063-skylake-system-construction-showdown-announcing-the-champions-of-toms-hardware-competition/"><u>Skylake System Construction Showdown: Announcing the Champions of Tom’s Hardware Competition!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-overcoming-common-problems-with-i2c-driver-communications/"><u>Step-by-Step Guide: Overcoming Common Problems with I2C Driver Communications</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-expert-insights-and-comprehensive-reviews/"><u>Tom's Tech Hub: Expert Insights and Comprehensive Reviews</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-expert-insights-into-computer-components-and-performance/"><u>Tom's Tech Review: Expert Insights Into Computer Components and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-gadgets-and-pc-hardware-with-toms-guide/"><u>Unveiling the Best in Gadgets and PC Hardware with Tom's Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/unveiling-the-lasting-effects-of-the-chinese-nationalist-uprising-on-todays-nation-a-perspective-by-software-guru-yl/"><u>Unveiling the Lasting Effects of the Chinese Nationalist Uprising on Today's Nation: A Perspective by Software Guru YL</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-essential-guide-software-free-techniques-for-vimeo-downloads/"><u>[New] 2024 Approved Essential Guide Software-Free Techniques for Vimeo Downloads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-creative-boundaries-the-power-of-magix-vpx/"><u>[New] Pushing Creative Boundaries The Power of Magix VPX</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-getting-more-from-instagram-videos-and-photos/"><u>[Updated] 2024 Approved Getting More From Instagram Videos & Photos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-joke-juggernauts-20-memes-dominating-the-web/"><u>[Updated] In 2024, Joke Juggernauts 20 Memes Dominating the Web</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-ten-pro-level-drones-imagery-reimagined/"><u>[Updated] Top Ten Pro-Level Drones Imagery Reimagined</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-creativity-with-iphone-shadow-photography/"><u>2024 Approved Unleashing Creativity with iPhone Shadow Photography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-the-finest-vr-cycling-worlds/"><u>2024 Approved Unveil the Finest VR Cycling Worlds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-toms-tools-in-depth-reviews-and-analysis-on-computer-components/"><u>Discovering Tom's Tools: In-Depth Reviews & Analysis on Computer Components</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-discoveries-at-toms-hardware-emporium/"><u>Exploring the World of Computing: Discoveries at Tom's Hardware Emporium</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/find-the-ultimate-guide-5-free-windows-11-dvd-burning-tools-top-picks/"><u>Find the Ultimate Guide: 5 Free Windows 11 DVD Burning Tools (Top Picks)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-build-at-toms-hardware-solutions/"><u>Master Your PC Build at Tom's Hardware Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/possible-data-loss-when-changing-text-editor-source-and-destination-using-emeditor/"><u>Possible Data Loss When Changing Text Editor Source & Destination - Using EmEditor</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341707040-solution-the-first-step-is-conducting-a-detailed-survey-to-understand-the-propertys-physical-features-and-constraints/"><u>Solution: The First Step Is Conducting a Detailed Survey to Understand the Property's Physical Features and Constraints.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-computer-components-review/"><u>Tom's Computer Components Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-evaluation-of-the-levelplay-combat-air-ca4-exceptional-silent-functionality-and-powerful-processor-support/"><u>Ultimate Evaluation of the Levelplay Combat Air CA4 - Exceptional Silent Functionality & Powerful Processor Support</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/western-digital-my-passport-6tb-ssd-reviewed-big-capacity-in-a-small-package/"><u>Western Digital My Passport 6TB SSD Reviewed - Big Capacity in a Small Package</u></a></li>
 </ul></div>
 

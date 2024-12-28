@@ -1,7 +1,7 @@
 ---
 title: "The Reinvented Dell XPS Laptops: Infused with Cutting-Edge Artificnial Intelligence While Maintaining Their Iconic Appeal | Coverage"
-date: 2024-12-08T23:28:08.927Z
-updated: 2024-12-12T19:18:36.315Z
+date: 2024-12-20T20:08:42.333Z
+updated: 2024-12-28T00:00:19.072Z
 tags:
   - laptops
 categories:
@@ -22,7 +22,7 @@ Just ahead of [CES 2024](https://www.zdnet.com/topic/ces-2024/), Dell has reveal
 Every laptop will be powered by an Intel Core Ultra processor. The CPU will house an AI acceleration engine alongside a neural processing unit (NPU). The NPU can be considered a third resource, which is separate from the processor and graphics card that the laptop can access. The NPU will alleviate some of the laptop's workload while helping the battery maintain its longevity. What's more, the models will have ExpressCharge software, allowing users to recharge their computer from zero to 80% in about an hour.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Special Feature
@@ -85,16 +85,17 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-liberty-of-youtube-download-customizable-video-themes/"><u>2024 Approved Liberty of YouTube Download Customizable Video Themes</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oneplus-11r-frp-by-drfone-android/"><u>How Can We Bypass OnePlus 11R FRP?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 13 Ultra to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-the-world-of-electronics-in-depth-reviews-from-toms-hardware/"><u>Inside the World of Electronics: In-Depth Reviews From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/introducing-msis-pioneering-z790-project-zero-the-first-motherboard-to-integrate-camm2-memory-standard-in-desktops-elevating-pc-performance/"><u>Introducing MSI's Pioneering Z790 Project Zero: The First Motherboard to Integrate CAMM2 Memory Standard in Desktops, Elevating PC Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-electronics-knowledge-through-toms-expert-guides/"><u>Mastering Electronics Knowledge Through Tom's Expert Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/meet-gigabytes-solution-to-massive-gpu-support-a-new-motherboard-designed-for-unprecedented-weight-but-will-it-prevent-notorious-board-failures/"><u>Meet Gigabyte's Solution to Massive GPU Support: A New Motherboard Designed for Unprecedented Weight – But Will It Prevent Notorious Board Failures?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/motherboard-for-all-you-anime-lovers-out-there/"><u>Motherboard for All You Anime Lovers Out There</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-claude-pro-insights-into-its-functionality/"><u>Unveiling Claude Pro: Insights Into Its Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-shopping-sites-for-customized-gift-boxes-find-the-perfect-personalized-present/"><u>[New] Top 10 Shopping Sites for Customized Gift Boxes - Find the Perfect Personalized Present</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-banish-spotifys-recommended-podcasts/"><u>[Updated] 2024 Approved How to Banish Spotify's Recommended Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-worlds-unveiling-the-best-31-platforms-for-cross-language-video-conversion/"><u>2024 Approved Bridging Worlds Unveiling the Best 31 Platforms for Cross-Language Video Conversion</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-irecorder-the-screen-recording-standard/"><u>2024 Approved IRecorder The Screen Recording Standard</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat12/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-3d-lut-development-course/"><u>Comprehensive 3D LUT Development Course</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-analysis-of-the-kingston-fury-beast-a-review-of-its-ddr5-6000-2x32gb-configuration-and-performance-features/"><u>Comprehensive Analysis of the Kingston Fury Beast: A Review of Its DDR5-6000 2X32GB Configuration and Performance Features</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/detailed-review-of-beyerdynamic-mmx-30e-pro-outstanding-audio-performance-and-no-frills-design/"><u>Detailed Review of Beyerdynamic MMX 30E Pro: Outstanding Audio Performance and No-Frills Design</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tials-for-professionals-advanced-strategies-in-video-tagging-for-2024/"><u>Essentials for Professionals Advanced Strategies in Video Tagging for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-the-logitech-blue-sona-headset-aesthetics-meet-performance-zdnet/"><u>In-Depth Evaluation of the Logitech Blue Sona Headset: Aesthetics Meet Performance | ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-hardware-hub-in-depth-gadget-analysis-and-advice/"><u>Tom's Hardware Hub: In-Depth Gadget Analysis & Advice</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-countdown-in-minutes-a-3-part-guide-to-fcpx-timers-for-2024/"><u>Updated Countdown in Minutes A 3-Part Guide to FCPX Timers for 2024</u></a></li>
 </ul></div>
 

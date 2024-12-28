@@ -1,7 +1,7 @@
 ---
 title: A Full Week with an Ergonomic Split Keyboard - How My Entire Peripheral Setup Was Transformed
-date: 2024-12-06T01:58:51.623Z
-updated: 2024-12-12T17:48:14.524Z
+date: 2024-12-25T23:52:29.156Z
+updated: 2024-12-27T18:08:39.960Z
 tags:
   - laptops
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://www.zdnet.com/a/img/resize/b25db0a5e0e02074d08a797f57ffab39b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -111,7 +111,7 @@ The cost of these products might be a barrier for some, especially when combined
 Additionally, the $99 price tag for the pair of magnetic keyboard stands seems a little hard for me to justify. But if you're committed to a premium take on innovative ergonomics, Nuio's lineup is one of the best on the market. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -150,17 +150,18 @@ The price point for these peripherals is a little steep, particularly when you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-troubleshooting-a-non-operational-obs-video-capture/"><u>[New] Troubleshooting a Non-Operational OBS Video Capture</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-drone-wizardry-and-the-mavic-pro-breakdown/"><u>[Updated] 2024 Approved Drone Wizardry and the Mavic Pro Breakdown</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-master-your-videos-on-ms-video-central-for-2024/"><u>[Updated] Master Your Videos on MS Video Central for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easily-solved-how-to-stop-your-division-2-game-from-crashing/"><u>Easily Solved: How to Stop Your Division 2 Game From Crashing!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/explore-the-future-of-gaming-cases-the-phanteks-xt-pro-ultra-packed-with-advanced-lighting-and-superior-ventilation/"><u>Explore the Future of Gaming Cases: The Phanteks XT Pro Ultra, Packed with Advanced Lighting & Superior Ventilation</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-capture-the-essence-choose-from-these-top-9-gif-recipes-for-windows/"><u>In 2024, Capture the Essence Choose From These Top 9 GIF Recipes for Windows</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-f14-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy F14 5G FRP Bypass</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/inside-toms-hardware-store-expert-insights-on-technology-gadgets/"><u>Inside Tom's Hardware Store: Expert Insights on Technology Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/interactive-review-the-compact-fractal-pc-case-featuring-elegant-wood-design-and-customizable-backrest/"><u>Interactive Review: The Compact Fractal PC Case Featuring Elegant Wood Design and Customizable Backrest</u></a></li>
-<li><a href="https://video-capture.techidaily.com/premier-screen-grabbers-premium-video-selections-for-2024/"><u>Premier Screen Grabbers Premium Video Selections for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revolutionizing-photos-through-automated-hdr-techniques/"><u>Revolutionizing Photos Through Automated HDR Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-the-latest-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of the Latest Computer Components</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>[New] 2024 Approved Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-setting-up-unique-youtube-shorts-thumbnails/"><u>[New] In 2024, Step-by-Step Setting Up Unique YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-video-quality-webcam-filming-made-simple/"><u>[Updated] Elevate Video Quality Webcam Filming Made Simple</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/approach/"><u>Approach:</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdpalntsc/"><u>DVDフォーマットのPAL/NTSC変換について学ぶ - ステップバイステップチュートリアル</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-tech-knowledge-through-toms-hardware-reviews/"><u>Mastering Tech Knowledge Through Tom's Hardware Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-tech-frontiers-toms-hardware-evaluations-and-reviews/"><u>Navigating New Tech Frontiers: Tom's Hardware Evaluations and Reviews</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-tech-a-tour-of-toms-hardware-corner/"><u>Navigating the Latest Tech: A Tour of Tom's Hardware Corner</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-gadgets-by-toms-hardware-experts/"><u>The Ultimate Guide to Gadgets by Tom's Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-in-depth-review-of-highpoints-rocket-1608a-card-upgraded-storage-superior-power/"><u>Unveiling the Potential: In-Depth Review of HighPoint's Rocket 1608A Card - Upgraded Storage, Superior Power</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/user-interface-and-functionality-app-checkup-for-2024/"><u>User Interface & Functionality App Checkup for 2024</u></a></li>
 </ul></div>
 

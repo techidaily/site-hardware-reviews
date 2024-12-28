@@ -1,7 +1,7 @@
 ---
 title: "Exploring Value & Insights on the Budget-Friendly Surface Pro 11: A Windows Guru's Perspective - ZDNet"
-date: 2024-12-09T02:12:39.352Z
-updated: 2024-12-13T03:09:58.340Z
+date: 2024-12-20T17:53:09.988Z
+updated: 2024-12-28T00:01:53.077Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Ed Bott/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -48,10 +48,6 @@ My original plan was to use the new Surface Pro as a secondary mobile device, wh
 
 How did this happen? Let's dive in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The experience is familiar
 
 This laptop is a radical shift in the Windows ecosystem, but it doesn't feel all that different from its predecessors. In fact, it's almost indistinguishable from the Intel-powered Surface Pro 9 that's sitting on my desk alongside it. The slim bezels around the displays of the two devices are nearly the same dimensions. The new device, at 1.9 pounds, is the same weight as the Surface Pro 9 and is a few ounces heavier than the Surface Pro X, although that's not something you really notice until you have to lug it through an airport as you rush to make a connection. The Type Cover from the older Surface Pro clicked into place on the Surface Pro 11, exactly as expected.
@@ -65,7 +61,7 @@ The big difference is that this next-gen device is extremely cool and quiet. Aft
 Of course, this new device also embodies everything you like and/or dislike about the Surface Pro design. If you're expecting a radical shift that will suddenly make the kickstand comfortable in your lap, I'm sorry to report you will be disappointed. If, however, you're comfortable with that design, you'll find this iteration completely familiar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Battery life is a huge win
@@ -85,7 +81,7 @@ Screenshot by Ed Bott/ZDNET
 At an average of more than 10 hours of actual, observed battery life, this Surface Pro is able to run for well over twice as long as my Intel-based Surface Pro 9\. That's also at least as long as the [M2 MacBook Air](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) in my office.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Compatibility is good but not perfect
@@ -124,6 +120,10 @@ I had no hardware problems to speak of. My 10-year-old Logitech C930 webcam just
 
 Your mileage may vary, of course, especially if you have exotic hardware like video capture cards and ancient multifunction printers that require custom driver packs and won't work with the in-box Windows drivers. Thankfully, I have none of those.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI story is incomplete
 
 Every PC in the Copilot+ line includes a powerful neural processing unit designed to accelerate AI-based activities. Because I didn't spring for Microsoft's pricey new [Flex Keyboard](https://www.microsoft.com/en-us/d/surface-pro-flex-keyboard-with-slim-pen/93fzrmtgj6jw) and stuck with my old Type Cover, I didn't get a dedicated Copilot key. Instead, I had to run the [Copilot app](https://www.zdnet.com/article/microsoft-is-turning-windows-copilot-into-a-regular-app-and-heres-why-youll-like-it/), which works exactly like it does on any other Windows 11 PC. If it was chatting faster, I didn't notice.
@@ -145,7 +145,7 @@ The real question is whether those features are powerful enough to make you swit
 Even if you avoid the AI features completely, though, there's more than enough power in this [budget PC](https://www.zdnet.com/article/best-laptops-under-500/). Plus, as long as your apps and hardware requirements aren't exotic, you'll appreciate its cool, quiet operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -192,21 +192,14 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-screen-capture-without-a-penny-the-top-apps-reviewed/"><u>[New] 2024 Approved Screen Capture Without a Penny The Top Apps Reviewed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-high-definition-vision-saving-tech/"><u>2024 Approved High Definition Vision Saving Tech</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unleashing-potential-instagram-tiktok-sync-guidebook/"><u>2024 Approved Unleashing Potential Instagram-TikTok Sync Guidebook</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amp-up-your-pc-with-freshly-downloaded-amd-radeon-window-drivers/"><u>Amp Up Your PC with Freshly Downloaded AMD Radeon Window Drivers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-latest-in-wireless-technology-from-802-11bgn-to-80211a-and-beyond/"><u>Decoding the Latest in Wireless Technology: From 802. 11B/G/N to 802.11A and Beyond</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-thinkpad-x260-drivers-for-windows-10-step-by-step-guide/"><u>Download and Update Lenovo ThinkPad X260 Drivers for Windows 10: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/infiltrer-le-silence-devoilant-pourquoi-votre-ordinateur-sallume-sans-raison-apparente/"><u>Infiltrer Le Silence: Dévoilant Pourquoi Votre Ordinateur S'allume Sans Raison Apparente</u></a></li>
-<li><a href="https://fox-links.techidaily.com/simulating-spatial-jumps-visual-effect-techniques-for-2024/"><u>Simulating Spatial Jumps Visual Effect Techniques for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-ai-powered-apps-for-creating-stunning-presentations/"><u>Top 7 AI-Powered Apps for Creating Stunning Presentations</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transform-your-gaming-setup-with-innocns-budget-friendly-27-240hz-ips-display-purchase-now-at-only-1ebn/"><u>Transform Your Gaming Setup with Innocn's Budget-Friendly, 27 240Hz IPS Display - Purchase Now at Only $1Ebn!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-your-gadget-potential-trustworthy-reviews-by-toms-experts/"><u>Unleash Your Gadget Potential: Trustworthy Reviews by Tom's Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unraveling-electronics-mysteries-at-toms-hardware-haven/"><u>Unraveling Electronics Mysteries at Tom's Hardware Haven</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unusual-find-alert-thor-vs-darth-vader-styled-monitor-under-150-by-a-retailer-in-china/"><u>Unusual Find Alert: 'Thor vs Darth Vader' Styled Monitor Under $150 by a Retailer in China</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-essential-utilities-of-feelworlds-compact-and-portable-dh101-display/"><u>Unveiling Essential Utilities of Feelworld’s Compact and Portable DH101 Display</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-pc-innovations-with-toms-hardware-experts/"><u>Unveiling New PC Innovations with Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-deciphering-high-speed-video-with-yi-4k/"><u>[New] In 2024, Deciphering High-Speed Video with Yi 4K</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-sustaining-a-day-job-while-building-your-online-presence/"><u>[Updated] In 2024, Sustaining a Day Job While Building Your Online Presence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-and-top-quality-(70-macbook-usb-c-chargers-available-on-amazon-recommended-by-tech-experts-at-zdnet/"><u>Affordable & Top-Quality <$70 MacBook USB-C Chargers Available on Amazon - Recommended by Tech Experts at ZDNet!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/bridging-the-gap-the-ongoing-effort-by-google-for-seamless-text-communication-between-iphones-and-android-devices/"><u>Bridging the Gap: The Ongoing Effort by Google for Seamless Text Communication Between iPhones & Android Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comparing-the-pixel-9-pixel/"><u>Comparing the Pixel 9, Pixel</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cross-platform-collaboration-enhanced-share-files-from-android-to-windows-easily/"><u>Cross-Platform Collaboration Enhanced: Share Files From Android to Windows Easily</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-magsafe-charging-beyond-iphone-enhanced-power-experience-with-android-devices/"><u>Discover MagSafe Charging Beyond iPhone: Enhanced Power Experience with Android Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-iphones-contact-app-giving-you-grief-tackle-it-with-these-three-quick-fixes/"><u>Is Your iPhone's Contact App Giving You Grief? Tackle It With These Three Quick Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-play-7t-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor Play 7T Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

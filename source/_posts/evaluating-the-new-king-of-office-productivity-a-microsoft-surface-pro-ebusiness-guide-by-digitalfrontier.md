@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the New King of Office Productivity: A Microsoft Surface Pro Ebusiness Guide by DigitalFrontier"
-date: 2024-12-08T23:44:27.129Z
-updated: 2024-12-13T01:38:19.772Z
+date: 2024-12-25T17:51:45.441Z
+updated: 2024-12-27T22:42:32.024Z
 tags:
   - laptops
 categories:
@@ -42,15 +42,15 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -75,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -101,6 +101,10 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -128,7 +132,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -166,14 +170,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -212,21 +212,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-and-cool-xbox-snapshots-a-gamers-bible/"><u>[New] Quick & Cool Xbox Snapshots A Gamers' Bible</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-easy-steps-for-screening-snapchat-on-the-go-for-2024/"><u>[Updated] Easy Steps for Screening Snapchat on the Go for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/8/"><u>「最優秀品質ビデオ抽出用無料ツール、おススメのベスト8紹介」</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/how-to-download-ooyala-videos-and-song-tracks-on-pc-or-mac/"><u>How to Download Ooyala Videos & Song Tracks on PC or Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-implements-new-default-power-settings-based-on-intels-official-documentation-for-core-i9-motherboards-enhancing-stability-and-performance/"><u>MSI Implements New Default Power Settings Based on Intel's Official Documentation for Core I9 Motherboards, Enhancing Stability and Performance</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msi-z790-boards-under-scrutiny-as-cracked-pch-chipset-fault-emerges-manufacturing-oversight-blamed-for-affected-units/"><u>MSI Z790 Boards Under Scrutiny as Cracked PCH Chipset Fault Emerges – Manufacturing Oversight Blamed for Affected Units</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/msis-response-to-z790-heatsink-failures-initiating-unit-replacements-for-affected-customers/"><u>MSI's Response to Z790 Heatsink Failures: Initiating Unit Replacements for Affected Customers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-innovations-a-journey-through-toms-tech-insights/"><u>Navigating Innovations: A Journey Through Tom's Tech Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-pc-components-insights-from-toms-hardware-team/"><u>Navigating the World of PC Components: Insights From Tom's Hardware Team</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-your-next-purchase-on-toms-comprehensive-hardware-guides/"><u>Navigating Your Next Purchase on Tom's Comprehensive Hardware Guides</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/new-high-speed-z791-wifi-board-powers-splaves-record-breaking-overclocking-feats/"><u>New High-Speed Z79^1 Wifi Board Powers Splave's Record-Breaking Overclocking Feats</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-on-how-to-resolve-windows-11-error-0x800f0922/"><u>Strategies on How To Resolve Windows 11 Error 0X800f0922</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unlocking-the-basics-kinetic-design-techniques/"><u>Unlocking the Basics Kinetic Design Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-oneplus-8t-revealed-insights-on-pricing-launch-timeline-and-hardware-speculations/"><u>Upcoming OnePlus 8T Revealed? Insights on Pricing, Launch Timeline & Hardware Speculations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/raf-png/"><u>무료 RAF PNG 이미지를 원각할 수 있는 방법 - 온라인 가이드</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-pro-level-gopro-tricks-and-insights/"><u>[New] 2024 Approved Pro-Level GoPro Tricks and Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-prime-video-power-players-all-time-top-tweets-and-views-ranking/"><u>[Updated] In 2024, Prime Video Power Players All-Time Top Tweets & Views Ranking</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-most-popular-anime-themed-tiktok-videos-of-all-time/"><u>[Updated] The Most Popular Anime-Themed TikTok Videos of All Time</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-finest-unveiling-the-best-reaction-tricks/"><u>[Updated] YouTube's Finest Unveiling the Best Reaction Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/10-top-free-screen-recorder-mac/"><u>10 Top Free Screen Recorder Mac</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-evaluation-of-western-digital-my-passport-6tb-robust-and-compact/"><u>Comprehensive Evaluation of Western Digital My Passport (6TB): Robust & Compact</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-security-get-instagrams-2fa-verification-on-whatsapp/"><u>Enhance Security: Get Instagram's 2FA Verification on WhatsApp</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-powerful-features-of-highpoints-rocket-1608a-usb-drives-card-ultimate-review/"><u>Evaluating the Powerful Features of HighPoint's Rocket 1608A USB Drives Card - Ultimate Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-11-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on 11 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-180hz-titan-army-p27a2g-a-savvy-buyers-guide-for-gamers/"><u>In-Depth Analysis of the 180Hz Titan Army P27A2G - A Savvy Buyer's Guide for Gamers</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-levelplays-combat-air-ca4-the-epitome-of-silent-and-efficient-cpu-cooling-solutions/"><u>In-Depth Review of Levelplay's Combat Air CA4 - The Epitome of Silent and Efficient CPU Cooling Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/insider-knowledge-on-gadgets-the-toms-hardware-edge/"><u>Insider Knowledge on Gadgets: The Tom's Hardware Edge</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-lipo-technologies-for-drones-needs-for-2024/"><u>Navigating Through LiPo Technologies for Drones' Needs for 2024</u></a></li>
 </ul></div>
 

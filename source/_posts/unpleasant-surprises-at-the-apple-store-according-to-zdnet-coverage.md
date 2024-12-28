@@ -1,7 +1,7 @@
 ---
 title: Unpleasant Surprises at the Apple Store, According to ZDNet Coverage
-date: 2024-12-16T01:49:42.927Z
-updated: 2024-12-22T01:29:16.208Z
+date: 2024-12-24T21:48:36.874Z
+updated: 2024-12-27T18:18:12.141Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -83,7 +83,7 @@ Furthermore, there are very few ports. You get three in total: two USB-C inputs 
 My last critique is admittedly a nitpick. I would've appreciated a free stylus in the overall package. Microsoft's 11th-gen Surface Pro had one when I got it, and I thoroughly enjoyed it. So unless you already have a pen, you'll have to buy one for the PZ13, which isn't a big issue since the laptop is fairly cheap.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -93,7 +93,7 @@ Prices for the Asus ProArt PZ13 start at [$1,100 on Best Buy](https://shop-links
 Other than that, they're the same device. Get the Hexagon version only if you are expecting heavy workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test laptops
@@ -140,22 +140,24 @@ Ultimately, our goal is to break down the capabilities of each and every laptop 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-understanding-your-profit-revenue-per-thousand-from-youtubes-adsense-income/"><u>[New] In 2024, Understanding Your Profit Revenue Per Thousand From YouTube's AdSense Income</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-prime-interactive-room-for-free-play-for-2024/"><u>[New] Prime Interactive Room for Free Play for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-leap-into-the-spotlight-with-tiktok-lives/"><u>[Updated] In 2024, Leap Into the Spotlight with TikTok Lives</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-maximize-engagement-with-custom-youtube-thumbnails/"><u>[Updated] Maximize Engagement with Custom YouTube Thumbnails</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creative-potential-a-detailed-breakdown-of-photoshops-background-eraser-feature/"><u>2024 Approved Unleash Creative Potential A Detailed Breakdown of Photoshop's Background Eraser Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-playability-of-watch-dogs-legion-strategies-to-optimize-frame-rate-and-minimize-delays/"><u>Improve Playability of Watch Dogs: Legion - Strategies to Optimize Frame Rate & Minimize Delays</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/nextorages-lightning-fast-pcie-40-m2-ssd-top-speed-for-portable-gaming-up-to-7400mbs/"><u>Nextorage's Lightning-Fast PCIe 4.0 M.2 SSD: Top Speed for Portable Gaming - Up to 7,400MB/S</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/phison-dominates-with-the-latest-high-speed-e29t-pcie-40-ssd-controller-showcase-at-fms-2024/"><u>Phison Dominates with the Latest High-Speed E29T PCIe 4.0 SSD Controller Showcase at FMS 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/revolutionary-sk-hynix-pcie-gen5-ssd-unveiled-the-new-platinum-p51-faster-performance-reduced-idle-energy-consumption/"><u>Revolutionary SK Hynix PCIe Gen5 SSD Unveiled: The New Platinum P51 - Faster Performance, Reduced Idle Energy Consumption</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sk-hynixs-top-performing-in-house-created-pcie-50-ssd-launches-meet-the-power-efficient-and-speedy-platinum-p51/"><u>SK Hynix's Top-Performing In-House Created PCIe 5.0 SSD Launches – Meet the Power Efficient and Speedy Platinum P51</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/team-group-debuts-revolutionary-tech-in-taiwan-next-gen-pcie-50-ssds-for-enhanced-ai-performance-innovative-ssd-coolers-and-new-bluetooth-tag-featured-porta3/"><u>Team Group Debuts Revolutionary Tech in Taiwan: Next-Gen PCIe 5.0 SSDs for Enhanced AI Performance, Innovative SSD Coolers & New Bluetooth Tag Featured Portable Drive at Computex 202N4</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-complete-guide-to-pc-hardware-expert-tips-from-toms-hardware/"><u>The Complete Guide to PC Hardware - Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-definitive-guide-to-computer-components-and-gadgets/"><u>Tom's Tech Insights: The Definitive Guide to Computer Components and Gadgets</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-of-todays-latest-gadgets/"><u>Tom's Tech Review: In-Depth Analysis of Today's Latest Gadgets</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/troubleshooting-common-issues-with-image-scanners-tips-from-yl-software-experts/"><u>Troubleshooting Common Issues with Image Scanners - Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unlocking-android-video-brilliance-easy-procedures/"><u>Unlocking Android Video Brilliance - Easy Procedures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-value-how-the-hidden-savings-on-apples-ipad-pro-make-it-a-must-have-before-prime-day-insights-from-zdnet/"><u>Unlocking the Value: How the Hidden Savings on Apple's iPad Pro Make It a Must-Have Before Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-strategies-for-an-engaging-zoom-youtube-live-session/"><u>[New] Expert Strategies for an Engaging Zoom YouTube Live Session</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-first-timers-cameras-guide-best-of-24/"><u>[New] In 2024, First-Timer's Cameras Guide - Best of '24</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery-for-2024/"><u>[New] Unlocking the Secrets The Ultimate Guide to Instagram Stories Mastery for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unraveling-video-opposites-a-comprehensible-guide-for-instavids-for-2024/"><u>[New] Unraveling Video Opposites A Comprehensible Guide for InstaVids for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-master-video-cutting-and-splicing-with-vimeo-for-free/"><u>[Updated] 2024 Approved Master Video Cutting & Splicing with Vimeo, for Free</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhancing-productivity-with-azure-voice-recognition/"><u>[Updated] In 2024, Enhancing Productivity with Azure Voice Recognition</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/adata-delivers-ultimate-gaming-potential-with-its-1600w-psu-supporting-a-trio-of-high-end-nvidia-geforce-rtx-4090-gpus/"><u>Adata Delivers Ultimate Gaming Potential with Its 1600W PSU, Supporting a Trio of High-End NVIDIA GeForce RTX 4090 GPUs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/best-8-linux-apps-for-professional-editing/"><u>Best 8 Linux Apps for Professional Editing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/efficient-1100w-cooler-master-passive-psu-silent-performance-and-stable-output/"><u>Efficient 1100W Cooler Master Passive PSU: Silent Performance & Stable Output</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-vs-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic Vs 2 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-performance-detailed-assessment-of-the-85erwatt-thermaltake-toughpower-gf3-atx-v3-power-supply-unit-review/"><u>Inside the Performance: Detailed Assessment of the 85Erwatt Thermaltake Toughpower GF3 ATX V3 Power Supply Unit Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-introduces-innovative-power-supply-featuring-yellow-ports-designed-to-avoid-common-16-pin-overheating-issues/"><u>MSI Introduces Innovative Power Supply Featuring Yellow Ports Designed to Avoid Common 16-Pin Overheating Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-a59-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from A59 5G.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-exploring-the-latest-in-computer-components-and-gadgets/"><u>Tom's Tech Insights: Exploring the Latest in Computer Components and Gadgets</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-15-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 15 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-latest-in-computing-expert-analysis-by-toms-storehouse-of-knowledge/"><u>Uncovering the Latest in Computing - Expert Analysis by Tom's Storehouse of Knowledge</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleashing-the-power-of-tech-discover-in-depth-reviews-at-toms-comprehensive-hardware-guide/"><u>Unleashing the Power of Tech: Discover In-Depth Reviews at Tom’s Comprehensive Hardware Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-hardware-with-toms-gear-advice/"><u>Unveiling the Latest in PC Hardware with Tom's Gear Advice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgraded-performance-and-sturdiness-discover-cooler-masters-reinforced-psu-with-innovative-1nvhpwr-connectors-for-superior-gaming-rigs/"><u>Upgraded Performance & Sturdiness: Discover Cooler Master's Reinforced PSU with Innovative 1nVHPWR Connectors for Superior Gaming Rigs</u></a></li>
 </ul></div>
 

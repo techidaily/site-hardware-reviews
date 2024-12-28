@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate Compatibility: Unveiling the Hidden Charging Capability of This Multi-Functional Thunderbolt Dock | ZDNet"
-date: 2024-12-08T00:29:32.987Z
-updated: 2024-12-13T04:05:32.179Z
+date: 2024-12-20T21:42:54.506Z
+updated: 2024-12-27T21:46:11.195Z
 tags:
   - laptops
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ This is precisely where a high-end professional Thunderbolt 4 dock, like the [Or
 [ZDNET RECOMMENDS Orico 12-in-1 Thunderbolt 4 Docking Station This Thunderbolt 4 certified dock has a dozen ports, including 2 x 40Gbps Thunderbolt 4 ports, 3 x USB-A ports, 2 x USB-C ports, an HDMI port, a DP 1.4 port, a SD/TF slot, a Gigabit Ethernet port, and a 3.5mm audio jack. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FORICO-Thunderbolt-Certified-Charging-Compatible%2Fdp%2FB0CS95HN6V%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C845c8ccf-ab05-4ea1-8ad3-f242b1b9fbbd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Orico 12-in-1 Thunderbolt 4 Docking Station tech specs
@@ -110,7 +110,7 @@ The first couple of times that I connected this dock to my system, I was left wo
 This is definitely not a deal breaker, but it's something worth knowing about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -149,16 +149,19 @@ For professionals such as photographers, videographers, 3D modelers, or audio en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>[New] Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-10-premium-text-tricks-for-videos/"><u>[Updated] 10 Premium Text Tricks for Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-live-streamers-analyzed-and-ranked/"><u>[Updated] Top Live Streamers Analyzed and Ranked</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/best-value-4k-monitors-for-savvy-shoppers/"><u>Best Value 4K Monitors for Savvy Shoppers</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-hardware-breakdowns-by-tom-experts/"><u>Comprehensive Hardware Breakdowns by Tom Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/creativity-unleashed-discover-the-power-of-crealitys-new-k1c-and-upgraded-ender-3-pro-version/"><u>Creativity Unleashed: Discover the Power of Creality’s New K1C and Upgraded Ender 3 Pro Version</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-repair-guide-for-tackling-equipment-readiness-errors/"><u>Easy Repair Guide for Tackling Equipment Readiness Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/elite-selection-of-curved-and-high-fps-4k-monitors-for-pc-gamers-the-latest-picks-for-202e/"><u>Elite Selection of Curved and High FPS 4K Monitors for PC Gamers: The Latest Picks for 202E</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/experience-unparalleled-gaming-visuals-at-a-discount-100-off-the-alienware-aw3225qf-curved-4k-monitor-featuring-qd-oled-tech-and-240-hz-refresh-rate/"><u>Experience Unparalleled Gaming Visuals at a Discount: $100 Off the Alienware AW3225QF Curved 4K Monitor, Featuring QD-OLED Tech & 240 Hz Refresh Rate</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-into-computing-toms-hardware-analysis/"><u>Expert Insights Into Computing - Tom’s Hardware Analysis</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-asus-rog-phone-7-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Asus ROG Phone 7 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-critique-of-vivas-video-capabilities/"><u>[Updated] In 2024, A Critique of Viva's Video Capabilities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>[Updated] In 2024, Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-insiders-guide-to-youtube-success/"><u>[Updated] In 2024, The Insider's Guide to YouTube Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-venturing-into-vector-world-starting-point-and-top-tools/"><u>[Updated] In 2024, Venturing Into Vector World Starting Point and Top Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1-dual-mouse-mastery-my-top-tech-upgrade-of-the-year/"><u>1. 'Dual-Mouse Mastery: My Top Tech Upgrade of the Year'</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grading-inshot-does-it-reign-supreme/"><u>2024 Approved Grading InShot Does It Reign Supreme?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pure-pitch-perception-recording-in-mac-studios/"><u>In 2024, Pure Pitch Perception Recording in Mac Studios</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>In 2024, The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/make-your-own-meme/"><u>Make Your Own Meme</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/understanding-wi-fi-7-features-and-benefits-is-it-worth-the-upgrade/"><u>Understanding Wi-Fi 7: Features & Benefits - Is It Worth the Upgrade?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-origins-of-enigmatic-tech-phrases-demonstrations-and-digital-eulogy/"><u>Unveiling the Origins of Enigmatic Tech Phrases - Demonstrations & Digital Eulogy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-the-classic-clamshell-computer-design-remains-forever-popular/"><u>Why the Classic Clamshell Computer Design Remains Forever Popular</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-thickness-isnt-everything-uncovering-the-top-3-features-to-consider-when-choosing-a-tv/"><u>Why Thickness Isn't Everything: Uncovering the Top 3 Features to Consider When Choosing a TV</u></a></li>
 </ul></div>
 

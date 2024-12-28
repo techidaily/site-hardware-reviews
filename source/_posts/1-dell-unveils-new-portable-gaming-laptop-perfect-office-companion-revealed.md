@@ -1,7 +1,7 @@
 ---
 title: "1. Dell Unveils New Portable Gaming Laptop: Perfect Office Companion Revealed !"
-date: 2024-12-18T08:50:50.623Z
-updated: 2024-12-22T05:18:33.817Z
+date: 2024-12-23T23:29:56.122Z
+updated: 2024-12-27T22:32:02.970Z
 tags:
   - laptops
 categories:
@@ -21,7 +21,7 @@ Cesar Cadenas/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -75,7 +75,7 @@ Speaking of video games, the gamers out there will love the device's screen. It'
 All this hardware does come with a power cost, however. While it's unplugged from a power source, the battery on the m16 R2 doesn't last very long despite all the tech meant to support its longevity. I performed my usual test of running an endlessly playing YouTube live stream at 720p and 50 percent brightness, and it lasted 6.5 hours with Best Power Efficient enabled. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -114,24 +114,24 @@ I should mention that it's possible to customize certain parts of the device eve
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-select-your-go-to-teacher-recording-software-now/"><u>[New] Select Your Go-To Teacher Recording Software Now</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-zoo-creations-top-10-kickstart-guide/"><u>[Updated] 2024 Approved Zoo-Creation’s Top 10 Kickstart Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-bring-life-to-film-projects-3-inexpensive-techniques-for-iphones-music-integration-for-2024/"><u>[Updated] Bring Life to Film Projects 3 Inexpensive Techniques for iPhones Music Integration for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-peak-performance-pros-favorite-4k-dslr-shoulder-rigs/"><u>[Updated] Peak Performance Pro's Favorite 4K DSLR Shoulder Rigs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-technology-evaluations-by-toms-hardware-experts/"><u>Advanced Technology Evaluations by Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/all-about-tech-in-depth-analysis-from-tomhemline-of-hardware/"><u>All About Tech: In-Depth Analysis From Tom'hemline of Hardware</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-9000-mastery-discover-asrocks-groundbreaking-motherboard-selection/"><u>AMD Ryzen 9000 Mastery: Discover ASRock's Groundbreaking Motherboard Selection</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-get-your-free-hp-drivers-now/"><u>Easy Installation: Get Your Free HP Drivers Now!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-fixes-for-scanners-that-arent-working-right-guidance-by-yl-tech-experts-yl-software-advice/"><u>Effective Fixes for Scanners That Aren't Working Right – Guidance by YL Tech Experts | YL Software Advice</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-integrate-the-endzone-extension-onto-your-kodi-platform-versions-20-and-19/"><u>How To Integrate The Endzone Extension Onto Your Kodi Platform (Versions 20 & 19)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862869889-intel-unveils-lga18n-socket-innovation-for-enhanced-chip-thermal-management-no-more-reduced-load-ilm-necessity/"><u>Intel Unveils LGA18n Socket Innovation for Enhanced Chip Thermal Management - No More Reduced Load ILM Necessity</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-soft-edges-on-digital-images-mobilepc-for-2024/"><u>Master Soft Edges on Digital Images, Mobile/PC for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-nord-n30-se-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord N30 SE Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/transition-to-modern-light-management-with-asus-new-bios-and-microsoft-dynamic-lighting-a-smoother-alternative-to-armory-crate-solutions/"><u>Transition to Modern Light Management with Asus' New BIOS and Microsoft Dynamic Lighting: A Smoother Alternative to Armory Crate Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-asrocks-latest-cutting-edge-amd-ryzen-9000-series-mobo-lineup/"><u>Unveiling ASRock's Latest: Cutting-Edge AMD Ryzen 9000 Series Mobo Lineup</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-high-performance-tech-secrets-toms-hardware-experts/"><u>Unveiling High-Performance Tech Secrets: Tom's Hardware Experts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-best-in-technology-with-toms-hardware-insights/"><u>Unveiling the Best in Technology with Tom's Hardware Insights</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-top-notch-gadgets-and-pcs-with-toms-detailed-reviews/"><u>Unveiling Top-Notch Gadgets & PCs with Tom’s Detailed Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigate-with-ease-must-know-win11-tricks/"><u>[New] 2024 Approved Navigate with Ease Must-Know Win11 Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>[New] 2024 Approved The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-what-experts-say-optimizing-your-4k-lens-selection-process-for-2024/"><u>[New] What Experts Say Optimizing Your 4K Lens Selection Process for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-youtube-style-essentials-download-for-free/"><u>2024 Approved YouTube Style Essentials - Download for FREE</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-android-and-ios-timers-your-guide-to-flawless-big-day-management/"><u>Essential Android & iOS Timers Your Guide to Flawless Big Day Management</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-components-with-toms-hardware-experts/"><u>Exploring Computer Components with Tom’s Hardware Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-digital-innovations-with-toms-hardware-review-guide/"><u>Exploring Digital Innovations with Tom's Hardware Review Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hands-on-with-technology-toms-detailed-insights-on-electronics/"><u>Hands-On with Technology: Tom's Detailed Insights on Electronics</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-deciding-the-best-skype-audio-capture-of-2023/"><u>In 2024, Deciding the Best Skype Audio Capture of 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-non-loading-steamuidll-on-windows/"><u>Remedy for Non-Loading SteamUI.DLL on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-expert-reviews-and-guides-t17239718716218/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-hardware-reviews-and-news/"><u>Tom's Tech Insights: In-Depth Hardware Reviews & News</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-in-depth-analysis-and-insights-t17239718716229/"><u>Tom's Tech Review: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-expert-approved-ipad-video-editors-top-5-for-for-2024/"><u>Updated Expert-Approved iPad Video Editors Top 5 For for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/upgrade-your-workstation-essential-z790-motherboards-and-liquid-cpu-coolers-reviewed/"><u>Upgrade Your Workstation: Essential Z790 Motherboards and Liquid CPU Coolers Reviewed</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-video-generator-for-2024/"><u>What Is an AI Video Generator for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/win-a-top-ranked-pc-building-contest-toms-hardware-exclusive/"><u>Win a Top-Ranked PC Building Contest: Tom's Hardware Exclusive</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/winner-highlights-from-the-2015-fourth-quarter-at-toms-hardware-system-builder-showdown-results/"><u>Winner Highlights From the 2015 Fourth Quarter at Tom's Hardware: System Builder Showdown Results</u></a></li>
 </ul></div>
 
